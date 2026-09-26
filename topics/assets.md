@@ -34,6 +34,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
 - [css.gg (stale)](../sites/css-gg.md) — 704 icons drawn in pure CSS, also as SVG and TSX; relicensed in 2024 to personal non-commercial use, so pin MIT v2.1.1.
 - [Curations Supply](../sites/curations-supply.md) — Panda Network's directory of about 290 curated galleries, type, colour, UX and component sites, each with a logo, screenshot and one-line summary.
+- [Death of Typography](../sites/death-of-typography.md) — Singaporean type collective with 20 experimental faces and an on-page specimen tester; some fonts are OFL, the rest are sold.
 - [Departure Mono](../sites/departure-mono.md) — Free OFL pixel monospace font by Helena Zhang with box drawing, Cyrillic and Greek.
 - [Design Minis](../sites/design-minis.md) — 128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.
 - [DesignBookmark](../sites/design-bookmark.md) — Directory of about 2,500 design, dev and AI tools in 59 categories, with a page per tool, clear sponsor labels and an llms.txt with counts.

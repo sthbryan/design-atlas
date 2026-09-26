@@ -254,6 +254,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Morphrig](sites/morphrig.md) | documentation | motion, icons, documentation | useful | llms-txt | not-stated |
 | [The Book of Shaders](sites/book-of-shaders.md) | documentation | 3d-and-shaders, documentation | very-useful | none | proprietary-free |
 | [The Component Gallery](sites/component-gallery.md) | documentation | components, documentation | very-useful | none | not-stated |
+| [Death of Typography](sites/death-of-typography.md) | font-library | typography-and-styles, assets | niche | none | mixed |
 | [Departure Mono](sites/departure-mono.md) | font-library | typography-and-styles, assets | very-useful | none | open-source-permissive |
 | [Fontshare](sites/fontshare.md) | font-library | typography-and-styles, assets | very-useful | api | mixed |
 | [Fontsource](sites/fontsource.md) | font-library | typography-and-styles, assets | very-useful | llms-txt, api, prompts | open-source-permissive |

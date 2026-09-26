@@ -2143,6 +2143,32 @@
       ]
     },
     {
+      "slug": "death-of-typography",
+      "path": "sites/death-of-typography.md",
+      "title": "Death of Typography",
+      "description": "Singaporean type collective with 20 experimental faces and an on-page specimen tester; some fonts are OFL, the rest are sold.",
+      "url": "https://deathoftypography.com",
+      "type": "font-library",
+      "formats": "type foundry · live specimen tester · workshops · WooCommerce shop · newsletter",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Some families are hosted under the SIL Open Font License, which the site says allows commercial and non-commercial use, redistribution, and modification with credit to DOT and the original designer and the same licence on derivatives. The rest are sold, at review $25 for a single weight, $125 for the nine weights of Strait Sans together and $40 for a commercial licence for DT Robusta. Octopia Neue is pay-what-you-want with $0, $5, $10 and $25 options. Nothing states what you may reuse of the site's own design or screenshots",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "velvetyne",
+        "fontshare",
+        "typeface-fyi",
+        "departure-mono"
+      ]
+    },
+    {
       "slug": "departure-mono",
       "path": "sites/departure-mono.md",
       "title": "Departure Mono",
