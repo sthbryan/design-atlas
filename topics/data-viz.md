@@ -11,10 +11,14 @@ Chart components, dashboard building blocks and small data displays (spark chart
 
 ## Start here
 
+- [Evil Charts](../sites/evil-charts.md) — designed, animated shadcn charts with the same API on Recharts or ECharts, plus `llms.txt`, a skill and an MCP server for agents.
+- [Tremor](../sites/tremor.md) — the dashboard side: KPI cards, spark charts, bar lists, trackers and filter inputs that already match, and 300+ free blocks.
+
 ## All sources
 
 <!-- atlas:sources:start -->
-
+- [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
+- [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

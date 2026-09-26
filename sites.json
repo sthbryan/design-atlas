@@ -1893,6 +1893,40 @@
       ]
     },
     {
+      "slug": "evil-charts",
+      "path": "sites/evil-charts.md",
+      "title": "Evil Charts",
+      "description": "Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.",
+      "url": "https://evilcharts.com",
+      "type": "component-library",
+      "formats": "component library (shadcn registry)",
+      "topics": [
+        "data-viz",
+        "components",
+        "motion",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "registry",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "Free / MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "tremor",
+        "evil-buttons",
+        "number-flow",
+        "mapcn"
+      ]
+    },
+    {
       "slug": "extract-design-system",
       "path": "sites/extract-design-system.md",
       "title": "extract-design-system",
@@ -2212,6 +2246,33 @@
         "css-text-effects",
         "kinetics",
         "circle-loaders"
+      ]
+    },
+    {
+      "slug": "gradient-spin",
+      "path": "sites/gradient-spin.md",
+      "title": "Gradient Spin",
+      "description": "A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.",
+      "url": "https://gradient-spin.vercel.app",
+      "type": "js-library",
+      "formats": "JS library",
+      "topics": [
+        "components",
+        "motion",
+        "color"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free / MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "loading-dev",
+        "circle-loaders",
+        "oklch",
+        "gradient-buttons"
       ]
     },
     {
@@ -2896,6 +2957,62 @@
       ]
     },
     {
+      "slug": "loader-buttons",
+      "path": "sites/loader-buttons.md",
+      "title": "Loader Buttons",
+      "description": "25 experimental loading-state buttons in WebGL, SVG, Canvas and CSS; no licence published.",
+      "url": "https://loader-buttons.appllama.io",
+      "type": "gallery",
+      "formats": "gallery",
+      "topics": [
+        "components",
+        "cta",
+        "motion",
+        "3d-and-shaders"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to view; licence not stated",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "evil-buttons",
+        "gradient-buttons",
+        "loading-dev",
+        "paper-shaders"
+      ]
+    },
+    {
+      "slug": "loading-dev",
+      "path": "sites/loading-dev.md",
+      "title": "loading.dev",
+      "description": "27 small React 19 spinners that inherit currentColor, with a Markdown page per spinner.",
+      "url": "https://loading.dev",
+      "type": "js-library",
+      "formats": "JS library",
+      "topics": [
+        "components",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free / MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "circle-loaders",
+        "jakub-krehel-skills",
+        "gradient-spin",
+        "loader-buttons"
+      ]
+    },
+    {
       "slug": "loadmore",
       "path": "sites/loadmore.md",
       "title": "loadmo.re",
@@ -3506,6 +3623,33 @@
       ]
     },
     {
+      "slug": "painterly",
+      "path": "sites/painterly.md",
+      "title": "Painting Loaders",
+      "description": "Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.",
+      "url": "https://painterly.design-tools.workers.dev",
+      "type": "gallery",
+      "formats": "gallery",
+      "topics": [
+        "motion",
+        "components",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free; licence for the copied code not stated (it loads p5.js, LGPL-2.1, and p5.brush, MIT)",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "circle-loaders",
+        "paper-shaders",
+        "loading-dev",
+        "loader-buttons"
+      ]
+    },
+    {
       "slug": "paper-shaders",
       "path": "sites/paper-shaders.md",
       "title": "Paper Shaders",
@@ -3838,6 +3982,35 @@
         "motion-primitives",
         "animejs",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "rolling-number",
+      "path": "sites/rolling-number.md",
+      "title": "Rolling Number",
+      "description": "Interruptible rolling digits and split-flap text for DOM, React and Solid, with llms.txt and Markdown docs.",
+      "url": "https://rolling.kitlangton.dev",
+      "type": "js-library",
+      "formats": "JS library",
+      "topics": [
+        "motion",
+        "components",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free / MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "number-flow",
+        "textmotion",
+        "torph",
+        "rareui"
       ]
     },
     {
@@ -4514,6 +4687,33 @@
         "dialkit",
         "motion-primitives",
         "microkit"
+      ]
+    },
+    {
+      "slug": "tremor",
+      "path": "sites/tremor.md",
+      "title": "Tremor",
+      "description": "Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.",
+      "url": "https://tremor.so",
+      "type": "component-library",
+      "formats": "component library",
+      "topics": [
+        "data-viz",
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. Components are Apache-2.0, blocks and templates, once sold, are now free under MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "evil-charts",
+        "shadcn-ui",
+        "kibo-ui",
+        "carbon-design-system"
       ]
     },
     {

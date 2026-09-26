@@ -22,6 +22,7 @@ Calls-to-action — buttons, forms, modals and the copy around them that's meant
 - [CTA Gallery](../sites/cta-gallery.md) — Calls-to-action pulled from real sites and classified by business function, with copywriting tips alongside.
 - [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
+- [Loader Buttons](../sites/loader-buttons.md) — 25 experimental loading-state buttons in WebGL, SVG, Canvas and CSS; no licence published.
 - [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
 - [Sections.wtf](../sites/sections-wtf.md) — About 280 single landing-page sections recorded as video, filterable across 22 section types.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.

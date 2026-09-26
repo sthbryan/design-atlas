@@ -33,6 +33,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
 - [Kitbitz](../sites/kitbitz.md) — 2,000+ hand-drawn illustrations with an artisanal, non-digital feel, free with no login required.
 - [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
+- [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
 - [Recent](../sites/recent-design.md) — Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
