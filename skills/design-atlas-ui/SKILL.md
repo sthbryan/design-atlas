@@ -138,6 +138,7 @@ Search the changed files for each pattern. The target count is zero unless the b
 |---|---|
 | `transition: all` or `transition-all` | Name the properties |
 | An entrance from `scale(0)` (M7) | Start at `--scale-enter` plus opacity |
+| A `cubic-bezier` with a control value above 1 or below 0, an overshoot curve (M6) | `--ease-out`, or a spring with `bounce: 0` |
 | `background-clip: text` with a gradient on a heading or number | Solid ink, with emphasis from size or weight |
 | `outline: none` or `outline: 0` with no `:focus-visible` style | Add the focus ring from [references/accessibility.md](references/accessibility.md) |
 | Motion with no reduced-motion path (M11) | Move it inside the opt-in query from [references/motion.md](references/motion.md) |
