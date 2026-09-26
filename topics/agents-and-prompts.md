@@ -99,7 +99,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
 - [Recent](../sites/recent-design.md) — Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
 - [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
-- [Refs.Gallery](../sites/refs-gallery.md) — Hand-picked gallery of 2,163 award-level sites with a deep tag taxonomy (framework, CMS, animation, hosting) and weekly updates.
+- [Refs.Gallery](../sites/refs-gallery.md) — Dark 16:9 screenshot grid of 2,163 sites set entirely in a system stack, with display type tracked in at minus 0.06em.
 - [Reicon](../sites/reicon.md) — 2,630 MIT UI icons in Outline and Filled, with framework packages, llms files and an MCP server.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
 - [Rive](../sites/rive.md) — State-machine vector editor with MIT runtimes, an agent-friendly CLI and a local MCP; exporting needs a paid seat.

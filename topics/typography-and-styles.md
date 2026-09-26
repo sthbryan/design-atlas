@@ -77,7 +77,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
 - [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
 - [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
-- [Refs.Gallery](../sites/refs-gallery.md) — Hand-picked gallery of 2,163 award-level sites with a deep tag taxonomy (framework, CMS, animation, hosting) and weekly updates.
+- [Refs.Gallery](../sites/refs-gallery.md) — Dark 16:9 screenshot grid of 2,163 sites set entirely in a system stack, with display type tracked in at minus 0.06em.
 - [Rolling Number](../sites/rolling-number.md) — Interruptible rolling digits and split-flap text for DOM, React and Solid, with llms.txt and Markdown docs.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
 - [Scritto](../sites/scritto.md) — MIT web component that animates only the characters that change in any string.
