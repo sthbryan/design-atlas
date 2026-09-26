@@ -31,11 +31,13 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
 - [Float UI](../sites/float-ui.md) — About 200 free Tailwind sections in HTML, React, Vue and Svelte; custom no-redistribution licence despite the open-source label.
 - [Flowbase](../sites/flowbase.md) — Subscription library of 3,500+ Webflow, Figma and Framer sections, wireframes, icons and illustrations; use tied to the plan.
+- [Flowbite](../sites/flowbite.md) — Large MIT Tailwind library with data-attribute JS, React/Svelte/Vue ports, Figma kit, open-source MCP and paid Pro blocks.
 - [Frameblox](../sites/frameblox.md) — Paid Framer UI kit with 1,400+ sections, 130+ pages and a Framer plugin; one-time licence, no refunds, Framer only.
 - [Framer](../sites/framer.md) — Canvas website builder and host with an in-app agent, skills, and a bridge that lets Claude Code or Codex edit projects on branches.
 - [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
 - [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
+- [HyperUI](../sites/hyperui.md) — Free MIT copy-paste Tailwind v4 snippets (about 540 with dark variants) for apps, marketing and a neobrutalism set, plus small tools.
 - [Kibo UI](../sites/kibo-ui.md) — Free MIT shadcn companion with 41 functional components (Gantt, Kanban, editor), 28 marketing blocks and an MCP server.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
@@ -47,7 +49,9 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
+- [Meraki UI](../sites/meraki-ui.md) — Free MIT Tailwind snippets (about 228) with left-to-right and right-to-left versions and dark mode; Alpine.js for interactive parts.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
+- [Preline UI](../sites/preline.md) — Tailwind components with headless JS plugins under MIT plus Fair Use terms; agent skills, block prompts, paid hosted MCP.
 - [Re UI](../sites/re-ui.md) — KeenThemes' shadcn registry with data grid, Gantt and calendar primitives, paid blocks and an MCP server.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.

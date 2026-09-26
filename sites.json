@@ -952,6 +952,36 @@
       ]
     },
     {
+      "slug": "bearnie",
+      "path": "sites/bearnie.md",
+      "title": "Bearnie",
+      "description": "MIT shadcn-style registry for Astro: about 60 accessible components copied in by CLI or MCP server, no framework runtime, llms-full.txt.",
+      "url": "https://bearnie.dev",
+      "type": "component-registry",
+      "formats": "Astro component registry with its own CLI and MCP server",
+      "topics": [
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repo `michael-andreuzza/bearnie`, about 350 GitHub stars at review), covering the site, registry, CLI, scaffolder and MCP server",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "hyperui",
+        "headless-ui",
+        "daisyui"
+      ]
+    },
+    {
       "slug": "before-click",
       "path": "sites/before-click.md",
       "title": "before.click",
@@ -1610,6 +1640,39 @@
         "seesaw",
         "minimal-gallery",
         "dark-mode-design"
+      ]
+    },
+    {
+      "slug": "daisyui",
+      "path": "sites/daisyui.md",
+      "title": "daisyUI",
+      "description": "MIT Tailwind plugin of semantic component classes and 35 themes; llms.txt doubles as a skill, paid Blueprint MCP.",
+      "url": "https://daisyui.com",
+      "type": "style-library",
+      "formats": "CSS component plugin for Tailwind CSS with themes, plus paid AI and design add-ons",
+      "topics": [
+        "components",
+        "typography-and-styles",
+        "color",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "the library is free under MIT (repo `saadeghi/daisyui`, about 42.5k GitHub stars at review). Paid extras: the Blueprint MCP server ($22 a month, $45 a quarter or $600 lifetime at review), Dashboard and Charts skills (from $29 and $39), a Figma library (from $49) and templates ($19 to $69)",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "flyonui",
+        "preline",
+        "flowbite",
+        "shadcn-ui",
+        "headless-ui"
       ]
     },
     {
@@ -2836,6 +2899,37 @@
       ]
     },
     {
+      "slug": "flowbite",
+      "path": "sites/flowbite.md",
+      "title": "Flowbite",
+      "description": "Large MIT Tailwind library with data-attribute JS, React/Svelte/Vue ports, Figma kit, open-source MCP and paid Pro blocks.",
+      "url": "https://flowbite.com",
+      "type": "component-library",
+      "formats": "Tailwind CSS component library with a JS plugin, framework ports, Figma kit and paid Pro blocks",
+      "topics": [
+        "components",
+        "landing-pages",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "the core library is free under MIT (repo `themesberg/flowbite`, about 9.4k GitHub stars at review; copyright Themesberg/Bergside Inc). The docs code is CC BY 3.0. Flowbite Pro (blocks, templates, Figma system) is under a separate EULA, sold as Developer and Designer editions with lifetime updates; prices load at checkout and were not captured at review",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "typeui",
+        "preline",
+        "daisyui",
+        "meraki-ui",
+        "headless-ui"
+      ]
+    },
+    {
       "slug": "fluid-functionalism",
       "path": "sites/fluid-functionalism.md",
       "title": "Fluid Functionalism",
@@ -2864,6 +2958,35 @@
         "interior-dev",
         "motion-primitives",
         "rareui"
+      ]
+    },
+    {
+      "slug": "flyonui",
+      "path": "sites/flyonui.md",
+      "title": "FlyonUI",
+      "description": "Semantic Tailwind classes plus bundled Preline JS plugins; MIT with Preline Fair Use terms inherited, paid Pro blocks and MCP builder.",
+      "url": "https://flyonui.com",
+      "type": "component-library",
+      "formats": "Tailwind CSS component library with semantic classes and JS plugins, plus paid Pro blocks and an MCP builder",
+      "topics": [
+        "components",
+        "typography-and-styles",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "FlyonUI's own code is MIT (repo `themeselection/flyonui`, about 2.5k GitHub stars at review), but the licence file says it bundles code from daisyUI and the full Preline UI plugin source, which stays under Preline's MIT plus Fair Use dual licence. FlyonUI Pro and the Pro MCP are lifetime licences; the site's structured data lists offers from $129 to $499 at review",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "daisyui",
+        "preline",
+        "flowbite",
+        "shadcn-ui"
       ]
     },
     {
@@ -3387,6 +3510,39 @@
       ]
     },
     {
+      "slug": "heroui",
+      "path": "sites/heroui.md",
+      "title": "HeroUI",
+      "description": "Apache 2.0 React and React Native library (formerly NextUI) on React Aria and Tailwind v4, with free MCP, skills and llms.txt.",
+      "url": "https://www.heroui.com",
+      "type": "component-library",
+      "formats": "React and React Native component library (npm packages) with a paid Pro tier",
+      "topics": [
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli",
+        "api",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "the open-source libraries are free under Apache 2.0 since v3.0.3 (MIT before; repo `heroui-inc/heroui`, about 30.8k GitHub stars at review). HeroUI Pro sells perpetual licences in Web, Mobile and combined editions with a year of updates and AI credits; the prices load client-side and were not captured at review",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "base-ui",
+        "radix",
+        "shadcn-ui",
+        "headless-ui",
+        "tremor"
+      ]
+    },
+    {
       "slug": "hover-states",
       "path": "sites/hover-states.md",
       "title": "Hover States",
@@ -3528,6 +3684,32 @@
         "designmd",
         "refero-styles",
         "getdesign-md"
+      ]
+    },
+    {
+      "slug": "hyperui",
+      "path": "sites/hyperui.md",
+      "title": "HyperUI",
+      "description": "Free MIT copy-paste Tailwind v4 snippets (about 540 with dark variants) for apps, marketing and a neobrutalism set, plus small tools.",
+      "url": "https://www.hyperui.dev",
+      "type": "component-library",
+      "formats": "copy-paste Tailwind CSS snippet collection with small browser tools",
+      "topics": [
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "free; MIT (repo `markmead/hyperui`, about 12.2k GitHub stars at review); no paid tier",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "meraki-ui",
+        "uiverse",
+        "flowbite",
+        "preline"
       ]
     },
     {
@@ -4884,6 +5066,33 @@
       ]
     },
     {
+      "slug": "meraki-ui",
+      "path": "sites/meraki-ui.md",
+      "title": "Meraki UI",
+      "description": "Free MIT Tailwind snippets (about 228) with left-to-right and right-to-left versions and dark mode; Alpine.js for interactive parts.",
+      "url": "https://merakiui.com",
+      "type": "component-library",
+      "formats": "copy-paste Tailwind CSS component collection with a few free and paid templates",
+      "topics": [
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "components free under MIT (repo `merakiui/merakiui`, about 2.7k GitHub stars at review, copyright Khatab Wedaa); the templates page mixes free MIT templates with paid ones from $16 to $69, several of them Cruip products reached through an affiliate link",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "hyperui",
+        "flowbite",
+        "preline",
+        "uiverse",
+        "headless-ui"
+      ]
+    },
+    {
       "slug": "microkit",
       "path": "sites/microkit.md",
       "title": "MicroKit",
@@ -5638,6 +5847,38 @@
         "inspora",
         "appshot-gallery",
         "collect-ui"
+      ]
+    },
+    {
+      "slug": "preline",
+      "path": "sites/preline.md",
+      "title": "Preline UI",
+      "description": "Tailwind components with headless JS plugins under MIT plus Fair Use terms; agent skills, block prompts, paid hosted MCP.",
+      "url": "https://preline.co",
+      "type": "component-library",
+      "formats": "Tailwind CSS component library with headless JS plugins, Pro blocks and a hosted MCP server",
+      "topics": [
+        "components",
+        "landing-pages",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "prompts",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "the open-source library is free under a dual licence, MIT plus the \"Preline UI Fair Use License\" (repo `htmlstreamofficial/preline`, about 6.4k GitHub stars at review). Preline Pro is a one-time lifetime licence at $249 (single developer) or $459 (up to 15 developers), with a custom Enterprise tier. The hosted MCP server is included with Pro until 1 January 2027 and needs a subscription after that",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "flyonui",
+        "flowbite",
+        "daisyui",
+        "headless-ui",
+        "hyperui"
       ]
     },
     {

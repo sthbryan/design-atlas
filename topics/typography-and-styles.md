@@ -27,6 +27,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
 - [CSS Text Effects](../sites/css-text-effects.md) — 90 copy-ready animated text effects in pure CSS, with custom-property colour tokens.
 - [Curated](../sites/curated-design.md) — About 2,240 live sites by industry and style, plus a 2,267-entry section library (mostly Pro).
+- [daisyUI](../sites/daisyui.md) — MIT Tailwind plugin of semantic component classes and 35 themes; llms.txt doubles as a skill, paid Blueprint MCP.
 - [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
 - [Departure Mono](../sites/departure-mono.md) — Free OFL pixel monospace font by Helena Zhang with box drawing, Cyrillic and Greek.
 - [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
@@ -40,6 +41,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [emailcn](../sites/emailcn.md) — Email sections and full templates for React Email, MJML React and JSX Email, with shared themes.
 - [Fancy Components](../sites/fancy-components.md) — Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.
 - [Figma](../sites/figma.md) — The default design canvas, with Dev Mode, Code Connect and a remote MCP server that reads designs and writes back to the canvas.
+- [FlyonUI](../sites/flyonui.md) — Semantic Tailwind classes plus bundled Preline JS plugins; MIT with Preline Fair Use terms inherited, paid Pro blocks and MCP builder.
 - [Fontshare](../sites/fontshare.md) — 100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.
 - [Fontsource](../sites/fontsource.md) — 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.
 - [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.

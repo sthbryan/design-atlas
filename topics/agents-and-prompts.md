@@ -31,12 +31,14 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
 - [Base CN](../sites/base-cn.md) — Community port of the shadcn/ui components to Base UI, installed through a namespaced registry.
 - [Base UI](../sites/base-ui.md) — Unstyled, accessible React primitives from the Radix, Floating UI and MUI teams, now shadcn's default.
+- [Bearnie](../sites/bearnie.md) — MIT shadcn-style registry for Astro: about 60 accessible components copied in by CLI or MCP server, no framework runtime, llms-full.txt.
 - [Blender](../sites/blender.md) — Free GPL 3D suite for making and baking web assets, with glTF export and an official MCP server.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
 - [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with about 500 composed particles and agent skills; mixed MIT/AGPL repo.
 - [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
 - [Cuelume](../sites/cuelume.md) — Seventeen synthesised interaction cues wired by data attributes and bind(), with a full agents.md guide.
+- [daisyUI](../sites/daisyui.md) — MIT Tailwind plugin of semantic component classes and 35 themes; llms.txt doubles as a skill, paid Blueprint MCP.
 - [design.dev](../sites/design-dev.md) — Free generators for DESIGN.md, AGENTS.md, CLAUDE.md and more, plus component prompts and style packs; strict terms.
 - [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
 - [DesignMD (designmd.me)](../sites/designmd-me.md) — Credit-based URL-to-DESIGN.md generator with CLI, agent skill, Figma import and a free Discover gallery.
@@ -50,10 +52,13 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Efecto](../sites/efecto.md) — Browser canvas your agent drives through MCP tools, plus an FX engine for dither, ASCII and halftone posters.
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
 - [Figma](../sites/figma.md) — The default design canvas, with Dev Mode, Code Connect and a remote MCP server that reads designs and writes back to the canvas.
+- [Flowbite](../sites/flowbite.md) — Large MIT Tailwind library with data-attribute JS, React/Svelte/Vue ports, Figma kit, open-source MCP and paid Pro blocks.
+- [FlyonUI](../sites/flyonui.md) — Semantic Tailwind classes plus bundled Preline JS plugins; MIT with Preline Fair Use terms inherited, paid Pro blocks and MCP builder.
 - [Framer](../sites/framer.md) — Canvas website builder and host with an in-app agent, skills, and a bridge that lets Claude Code or Codex edit projects on branches.
 - [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
 - [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
 - [GSAP](../sites/gsap.md) — Timeline animation engine, now free with every plugin under Webflow; llms.txt plus official agent skills.
+- [HeroUI](../sites/heroui.md) — Apache 2.0 React and React Native library (formerly NextUI) on React Aria and Tailwind v4, with free MCP, skills and llms.txt.
 - [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
 - [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — Paste a domain, get a basic Google-style DESIGN.md via Hyperbrowser's branding API (bring your own key).
 - [Iconify](../sites/iconify.md) — One naming scheme, API and toolchain over 200+ open icon sets and about 300k+ icons.
@@ -80,6 +85,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [OpenMotion](../sites/openmotion.md) — Free closed desktop app that drives your Claude Code or Codex CLI to turn a brief into editable launch videos; nothing for your own agent to call.
 - [Penpot](../sites/penpot.md) — MPL-2.0, self-hostable Figma alternative with CSS Flex/Grid layout, W3C-format design tokens and an official MCP server.
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
+- [Preline UI](../sites/preline.md) — Tailwind components with headless JS plugins under MIT plus Fair Use terms; agent skills, block prompts, paid hosted MCP.
 - [Prompt Kit](../sites/prompt-kit.md) — MIT shadcn components for chat UIs: prompt input, auto-scrolling conversation, reasoning, tool-call and citation views.
 - [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
 - [Re UI](../sites/re-ui.md) — KeenThemes' shadcn registry with data grid, Gantt and calendar primitives, paid blocks and an MCP server.
