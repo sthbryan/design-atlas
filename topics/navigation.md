@@ -11,6 +11,7 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 ## All sources
 
 - [Navbar Gallery](../sites/navbar-gallery.md) — real examples of every major navbar pattern, plus a blog on when to use each.
+- [Rare UI](../sites/rareui.md) — code rather than screenshots: animated React sidebars (bounce, proximity, dashed rail), a scroll-progress section menu and a gooey nav bar, installed with the shadcn CLI.
 
 ## Patterns worth reusing
 
@@ -18,12 +19,15 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 - Pair a pattern gallery with a short explanation of when to use each type, not just a picture of it.
 - Note explicitly what collapses into a hamburger menu, and at which breakpoint, when describing a reference to an agent.
 - A validated niche (like footers) can be cloned into a neighboring one (navbars) with the same filtering approach.
+- Let a sidebar's active marker travel between items on a spring instead of jumping, and grow items as the pointer approaches to hint that they're interactive (Rare UI).
+- Turn a reading-progress indicator into a jump menu of sections on tap (Rare UI).
 
 ## Pitfalls
 
 - Screenshots come from real products with their own branding — copy the structural pattern, not the visual identity.
 - A single source with no advanced filters (just "load more") should be paired with another for industry- or style-specific search.
 - No licence or pricing information is typically stated for this kind of gallery.
+- Rare UI's components are free but not plain MIT: shipped projects must show a visible credit link, and redistributing the components is not allowed.
 
 ## Related topics
 
@@ -31,3 +35,4 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 - [Footers](footers.md)
 - [CTA](cta.md)
 - [Components](components.md)
+- [Motion](motion.md)
