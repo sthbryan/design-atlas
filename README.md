@@ -6,9 +6,9 @@ A curated set of references for building websites and UI — galleries, componen
 
 - Browse by topic to find the sites relevant to what you're building right now.
 - Open a single site page for its full picture: what it is, when to reach for it, and how to hand it to an agent.
-- Copy a page's "Reusable ideas" straight into a design brief instead of re-deriving them from scratch.
-- Point a coding agent at one site page, or at a whole topic hub, when you want it to work from curated references instead of guessing.
-- Check the `agent` field on a page before assuming a site exposes an MCP server, `llms.txt`, CLI, registry, API, copyable prompts or an agent skill; `[]` means an agent has nothing to call.
+- Use a page's "Reusable ideas" to narrow the search, then inspect real examples before choosing a visual direction.
+- Point a coding agent at one site page or topic hub. For visual work, have it open a few individual sites in its browser, inspect desktop and narrow screenshots, and adapt the useful design moves to your project.
+- Check the `agent` field before assuming a site exposes an MCP server, `llms.txt`, CLI, registry, API, copyable prompts or an agent skill. `[]` means no such integration; the agent may still inspect the public site in a browser.
 - Start an agent from [llms.txt](llms.txt) or [sites.json](sites.json), which carry every page's metadata. [AGENTS.md](AGENTS.md) explains how to read and edit the atlas.
 
 ## What's in the repository
@@ -47,10 +47,12 @@ Two agent skills ship with the atlas in [`skills/`](skills). They use the open A
 
 | Skill | What it does |
 |---|---|
-| [design-atlas](skills/design-atlas/SKILL.md) | Finds and shortlists reviewed references, filtered by topic, licence class, agent channel and verdict, and writes a cited brief with licence caveats. It reads a local clone first and falls back to a bundled catalog offline. |
-| [design-atlas-ui](skills/design-atlas-ui/SKILL.md) | Sets a visual direction, records it in the project's DESIGN.md, then builds or reviews the UI with exact defaults for type, colour, layout, motion and accessibility, and checks it with rendered evidence. It makes no network calls of its own. |
+| [design-atlas](skills/design-atlas/SKILL.md) | Shortlists reviewed sources and, for visual requests, opens individual examples in a browser before writing a brief with observed design moves and licence caveats. The atlas index works offline. |
+| [design-atlas-ui](skills/design-atlas-ui/SKILL.md) | Studies live examples when setting a new visual direction, records the adapted decisions in the project's DESIGN.md, then builds or reviews the UI and checks the result with rendered evidence. |
 
 How they relate: `design-atlas` owns references, briefs and the licence rules. `design-atlas-ui` owns the DESIGN.md workflow, the visual rules and verification, and asks `design-atlas` for references. Install both; each still works alone.
+
+For example, a request for a brutalist landing page should lead from the atlas to a style gallery, then to a few actual sites. The agent should inspect their layouts and interactions in a browser, record the example URLs and screenshots it used, and explain which design decisions suit your own content. If no browser is available, it must mark visual claims as unverified.
 
 Install both skills for any agent the [skills CLI](https://github.com/vercel-labs/skills) supports, or one of them with `--skill`:
 

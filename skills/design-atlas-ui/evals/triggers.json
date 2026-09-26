@@ -18,5 +18,6 @@
   {"query": "make me a slide deck summarising our Q3 design system progress for the all-hands", "should_trigger": false},
   {"query": "our Lighthouse performance score dropped to 58 after the last deploy, LCP is 4.1s on mobile. what changed?", "should_trigger": false},
   {"query": "add eslint-plugin-jsx-a11y to CI and make the build fail on errors", "should_trigger": false},
-  {"query": "rewrite the pricing page email campaign copy so it sounds less like a robot", "should_trigger": false}
+  {"query": "rewrite the pricing page email campaign copy so it sounds less like a robot", "should_trigger": false},
+  {"query": "redesign this settings page in a brutalist style; look at actual websites in the browser first, then adapt what works", "should_trigger": true}
 ]

@@ -41,7 +41,7 @@ Keep this order. Omit a section only when it truly does not apply, and say so in
 | 10 | Responsive behaviour | The breakpoints actually used and what changes at each |
 | 11 | Do's and Don'ts | Hard limits, including the bans this project enforces |
 | 12 | Overrides | Rows of resolved-conflicts this project changes, each with a reason |
-| 13 | References | Atlas pages used, what was taken, licence class and reviewed date |
+| 13 | References | Atlas pages, inspected example URLs, what was adapted, licence class and reviewed date |
 | 14 | Agent guide | How to extend the system, example requests and known gaps |
 | 15 | Provenance | Files read, what was measured versus inferred, and the date |
 
@@ -136,8 +136,8 @@ components:
 |---|---|---|
 
 ## References
-| Page | What we took | Licence class | Reviewed |
-|---|---|---|---|
+| Atlas page (`sites/<slug>.md`) | Live example and visual evidence | What we adapted | Licence class | Reviewed |
+|---|---|---|---|---|
 
 ## Agent guide
 - To add a component: <steps>
@@ -149,6 +149,7 @@ components:
 - Read: <files>
 - Measured: <values measured from computed styles>
 - Inferred: <values taken from prose or guessed from context>
+- Unverified: <live examples or design details that could not be visually inspected>
 ```
 
 ## Worked excerpt
@@ -245,16 +246,17 @@ components:
 | C5 | Light only | Read in direct sunlight; a dark theme ships later behind a setting |
 
 ## References
-| Page | What we took | Licence class | Reviewed |
-|---|---|---|---|
-| sites/ramps.md | Built the blue and magenta ramps in OKLCH | MIT tool, no asset shipped | 2026-09-25 |
-| sites/number-flow.md | Animated tide heights with stable digit widths | MIT code, notice kept | 2026-09-25 |
-| sites/dark-mode-design.md | How other apps keep charts legible on dark grounds | Look only | 2026-09-25 |
+| Atlas page (`sites/<slug>.md`) | Live example and visual evidence | What we adapted | Licence class | Reviewed |
+|---|---|---|---|---|
+| sites/ramps.md | none, tool | Built the blue and magenta ramps in OKLCH | MIT tool, no asset shipped | 2026-09-25 |
+| sites/number-flow.md | none, code library | Animated tide heights with stable digit widths | MIT code, notice kept | 2026-09-25 |
+| sites/dark-mode-design.md | not visually verified | No visual decision taken yet | Look only | 2026-09-25 |
 
 ## Provenance
 - Written: 2026-09-25 by the design agent, approved by the product owner.
 - Measured: all contrast pairs, from the hex values above.
 - Inferred: control heights, pending a test with gloves on.
+- Unverified: individual sites from Dark Mode Design were not opened.
 ```
 
 ## Updating an existing file

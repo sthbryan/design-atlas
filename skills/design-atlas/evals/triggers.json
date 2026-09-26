@@ -18,5 +18,6 @@
   {"query": "summarise this article about Swiss typography for my team newsletter", "should_trigger": false},
   {"query": "draw me an svg rocket icon for the README badge", "should_trigger": false},
   {"query": "review the accessibility of the signup form running on localhost:3000", "should_trigger": false},
-  {"query": "set up the Figma MCP server in Claude Code so I can pull frames", "should_trigger": false}
+  {"query": "set up the Figma MCP server in Claude Code so I can pull frames", "should_trigger": false},
+  {"query": "I want a brutalist landing page but need to see a few real websites first. Find the references, open them and tell me what visual patterns to adapt", "should_trigger": true}
 ]

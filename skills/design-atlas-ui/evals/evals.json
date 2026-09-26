@@ -214,6 +214,22 @@
         "Every finding cites a file:line location",
         "The verdict is not 'Ready' while floor checks are unverified"
       ]
+    },
+    {
+      "id": 16,
+      "prompt": "Redesign the Ledger settings page in evals/files/ledger-settings/src/settings.html and settings.css for an independent bookkeeping studio. I want a neo-brutalist direction, but don't guess from the label: use the Atlas to find and open up to three real examples in your browser, inspect screenshots, then adapt the useful visual patterns to this project and implement. Keep the current settings actions and content.",
+      "expected_output": "Reads the project files, narrows Atlas results to a few relevant sources, opens concrete live examples and examines visual captures before choosing the direction, then adapts observed patterns to the Ledger settings page. If browser access or a live example is unavailable, it clearly marks visual inspection as unavailable and does not claim to have seen the site; any rendered result without a browser is reported Not verified.",
+      "files": ["evals/files/ledger-settings/src/settings.html", "evals/files/ledger-settings/src/settings.css", "evals/files/ledger-settings/package.json"],
+      "expectations": [
+        "The transcript shows the existing page, styling and package configuration read before edits, plus a focused Atlas lookup",
+        "No more than 3 live example sites are selected, and the answer distinguishes their discovery galleries from the actual sites inspected",
+        "For every example called visually inspected, the transcript shows a browser open and an examined screenshot or equivalent visual capture before the design direction or first edit",
+        "The direction cites Atlas page paths and live example URLs, then names at least three observed visual decisions and how each is adapted to Ledger",
+        "No copy, brand assets or code from an example is transplanted; only described design patterns are adapted",
+        "If browser access, a site or a screenshot is unavailable, the response marks it not inspected or Not verified and makes no visual claim about it",
+        "The existing Profile, Notifications and Danger zone actions and labels remain present in the output",
+        "The final report separates verified code changes from rendered appearance that was not verified"
+      ]
     }
   ]
 }

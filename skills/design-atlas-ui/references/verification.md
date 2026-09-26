@@ -27,7 +27,7 @@ How to prove the work with evidence: which tools to use, what to capture, the pr
 3. axe-core or Lighthouse already in the project. If neither is present, propose an exact version and wait for approval. Never run `@latest`.
 4. No browser at all: run the static checks (the ban list, token use, labels, reduced-motion guards), and mark every rendered check `Not verified`.
 
-These tools reach only the local preview. This skill never sends project content anywhere.
+These checks run against the local preview and never send project content anywhere. The separate reference-research step in `direction.md` may open shortlisted public websites.
 
 ## Session and matrix
 

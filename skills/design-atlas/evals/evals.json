@@ -176,6 +176,20 @@
         "The response names design-atlas-ui for building",
         "The design-atlas skill writes no .tsx file"
       ]
+    },
+    {
+      "id": 15,
+      "prompt": "I'm making a brutalist landing page for a small independent print magazine, but I have no visual direction yet. Use the Atlas to find a few concrete sites worth studying, open the actual examples in your browser, capture what you see, and give me a short design brief I can hand to the build skill. I care about layout, type, colour, imagery and interaction, not their copy or products.",
+      "expected_output": "A concise visual-reference brief that narrows the Atlas search to a few high-fit sources, follows gallery links to concrete live examples, records visual evidence from the browser where available, and translates observed patterns into a project-specific direction. If browser access or a live example fails, it names the limitation and labels that reference uninspected instead of claiming visual observations.",
+      "files": [],
+      "expectations": [
+        "The transcript shows an Atlas index or query lookup before the shortlist, and the shortlist contains no more than 5 references",
+        "The brief distinguishes a discovery gallery from the concrete sites selected inside it, and links the concrete examples",
+        "For every example described as visually inspected, the transcript shows that its live page was opened in a browser and a screenshot or equivalent visual capture was examined",
+        "The brief describes at least three observable design choices across layout, typography, colour, imagery or interaction, and ties each choice to a specific inspected example",
+        "The brief turns the observations into a direction for the print magazine rather than summarising the examples' content",
+        "Any inaccessible page, unavailable browser or missing visual capture is explicitly marked uninspected or not verified; no screenshot or visual observation is fabricated"
+      ]
     }
   ]
 }

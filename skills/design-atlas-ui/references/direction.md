@@ -7,6 +7,7 @@ How to choose a visual direction: name the surface, look up references in the at
 - [Surfaces](#surfaces)
 - [Find the atlas](#find-the-atlas)
 - [Look up references](#look-up-references)
+- [Inspect live examples](#inspect-live-examples)
 - [Licence hygiene](#licence-hygiene)
 - [Default fingerprints](#default-fingerprints)
 - [Direction record](#direction-record)
@@ -25,13 +26,13 @@ Pick one surface per screen. A hero section on a dashboard, or campaign copy in 
 
 ## Find the atlas
 
-This skill makes no network calls of its own, so it reads the atlas from disk only. Use the first location that exists:
+Read the atlas index from disk; the later visual inspection opens shortlisted public websites in a browser. Use the first atlas location that exists:
 
 1. The working tree or one of its parents, when it holds `sites.json` and a `topics/` folder.
 2. A plugin install, where the atlas root sits two levels above this skill folder (`../../sites.json`).
 3. A path the user gives.
 
-If none exists, say so, skip the lookup and write `Atlas not available` in the References section of DESIGN.md. Directions still work without it, and the anti-default check still runs.
+If none exists, say so and write `Atlas not available` in the References section of DESIGN.md. Search for a few live examples directly when the task needs visual inspiration; mark that they were found outside the atlas.
 
 ## Look up references
 
@@ -46,7 +47,7 @@ Read the index before pages. Stop at two hubs and five site pages unless the use
    node "$Q" --offline --topic icons --licence ship --full
    ```
 
-   When the script reports `"location":"bundled"`, only the index is on disk. Use its rows, skip steps 3 and 5, and mark each reference `page not read` in DESIGN.md.
+   When the script reports `"location":"bundled"`, only the index is on disk. Use its rows, skip steps 3 and 5, and mark each atlas page `page not read` in DESIGN.md. The row's URL can still lead to a live source.
 
    Without Node or that script, filter `sites.json` at the atlas root on its fields: `type`, `topics`, `verdict`, `agent`, `licence_class`, `status` and `reviewed`.
 
@@ -78,9 +79,21 @@ Read the index before pages. Stop at two hubs and five site pages unless the use
 
    Read "When to open it", "Reusable ideas", "Watch out for" and, when an agent will use the tool, "Using it with agents". Skip "What it is" unless the one-liner was unclear.
 
-6. **Record.** For each reference, note the path, what you take from it, its `licence_class` and its `reviewed` date. Counts and prices on a page are true only as of that date.
+6. **Record.** For each reference, copy the index row's `sites/<slug>.md` path exactly, then note what you take from it, its `licence_class` and its `reviewed` date. The skill directory and the gallery homepage are not atlas page paths. Counts and prices on a page are true only as of that date.
 
-Prefer variety over depth: one gallery to look at, one library or tool to build with and one asset source is a better set than three galleries.
+For asset or library selection, prefer variety: a gallery, a tool and an asset source can solve different parts of a task. For visual direction, prioritize a few concrete website examples over a longer list of directories.
+
+## Inspect live examples
+
+For a new visual direction, the atlas is a map to examples, not the visual evidence itself. Use the browser tools available in the host to open one to three individual sites from the shortlisted galleries or direct references. A gallery's style/category filter can find candidates; a screenshot tile or the gallery homepage is not the final example. Choose sites that fit the requested surface and audience, then:
+
+1. Capture and look at the rendered page at desktop and narrow widths when possible. Check at least the first screen and one lower section; inspect an interaction or motion if it is part of the idea. Use the browser's screenshot capability, and keep working screenshots outside the atlas repository.
+2. Record the exact live URL and the evidence you saw: composition, hierarchy, typography, spacing, colour roles, imagery, motion or interaction. Separate measured values from visual estimates and atlas prose. If the page is unavailable, try another candidate rather than treating an old gallery thumbnail as the current design.
+3. Translate each useful move into a decision for this product, with its own content and constraints. Record what should not carry over. Borrow a design principle, never another site's brand, copy, image or code without rights.
+
+If no visual browser is available, use supplied screenshots if any and label the live view `not visually verified`. Say which design judgments remain uncertain; do not claim to have seen a site from its text or thumbnail. Keep the sample small and respect each site's access terms; this is visual research, not crawling.
+
+The atlas's licence class describes the indexed source, not every website featured inside a gallery. Treat those individual sites as inspiration only unless their own rights are checked before reusing code or assets.
 
 ## Licence hygiene
 

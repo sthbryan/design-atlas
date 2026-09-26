@@ -23,6 +23,11 @@ Atlas: <local clone at PATH | raw GitHub, main | bundled snapshot, latest review
 ## Reusable ideas
 - <idea in your own words> (<site title>)
 
+## Live examples
+| Example URL | Observed design move | Adaptation for this project | Visual evidence |
+|---|---|---|---|
+| <individual website URL> | <what you saw in the rendered page> | <how to use the idea with our content> | <browser screenshot or not visually verified> |
+
 ## Licence caveats
 - <reference>: <condition, and where to confirm it>
 
@@ -43,6 +48,7 @@ Rules for the cells:
 - **Agent** lists the index's channels. Give each channel its gate as the page states it: an API key, an account, a paid plan, or free with no account. Write "gate not checked" when the page was not read, and "none" for an empty list.
 - **Reviewed** comes from the index, never from today's date.
 - **Reusable ideas** come from the pages' "Reusable ideas" and the hubs' "Patterns worth reusing", paraphrased, with three to six items.
+- **Live examples** are individual websites inspected for visual tasks, not just gallery homepages. Write `none: non-visual task` when choosing an asset or library by metadata alone. A gallery screenshot is labelled as a gallery preview, not a live-site inspection.
 
 ## Worked example
 
@@ -71,6 +77,9 @@ Assets ship in a commercial app; an MCP channel is preferred; no budget stated.
 - Set stroke, size and colour once in a provider instead of on every icon (Iconoir).
 - Have the agent search for an icon before fetching it by name, since names get renamed (icons0).
 - Keep 3D glyphs to medium sizes and marketing surfaces; they blur in dense UI (3dicons).
+
+## Live examples
+none: non-visual task.
 
 ## Licence caveats
 - icons0: filter to MIT or Apache collections before fetching; some collections are CC BY or GPL.
