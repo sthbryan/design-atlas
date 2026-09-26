@@ -26,19 +26,23 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
 - [AppShot Gallery](../sites/appshot-gallery.md) — Real App Store and Play Store listing screenshots and icons, filterable by genre, style and tone.
+- [Are.na](../sites/are-na.md) — Independent research-style bookmarking in connected channels, with a v3 REST API, llms.txt, official OAuth MCP server and CLI.
 - [before.click](../sites/before-click.md) — 361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.
 - [Bencho](../sites/bencho.md) — 38 live, tunable React blocks whose "Copy prompt" hands an agent full source plus token-mapping instructions.
 - [Best SaaS Web Designs](../sites/best-saas-web-designs.md) — Free, no-login catalogue of about 390 SaaS sites, each with desktop, mobile and OG captures, per-section crops, detected stack and a colour palette.
 - [Browse.cool](../sites/browse-cool.md) — A beta gallery of 25 high-craft, type-led sites and 194 screenshots and clips for mood-boarding.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
 - [compute.toys](../sites/compute-toys.md) — Browser playground for WebGPU compute shaders in WGSL or Slang: simulations, particles and path tracers to fork.
+- [Cosmos](../sites/cosmos.md) — Ad-free mood-board platform with hex-colour and visual-similarity search, AI-image filtering and source captions; Premium $8/month.
 - [CTA Gallery](../sites/cta-gallery.md) — Calls-to-action pulled from real sites and classified by business function, with copywriting tips alongside.
 - [Curated](../sites/curated-design.md) — About 2,240 live sites by industry and style, plus a 2,267-entry section library (mostly Pro).
 - [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
 - [Design Spells](../sites/design-spells.md) — 337 hand-picked recordings of micro-interactions and easter eggs; llms.txt plus a Markdown homepage via Accept header.
 - [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
+- [Designspiration](../sites/designspiration.md) — Image archive since 2010 with a five-colour palette on every save, colour search and Pro mood boards at $5/month.
 - [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
+- [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
 - [Footer Design](../sites/footer-design.md) — Gallery dedicated to footers, filtered by style, with an Editor's Choice flag.
 - [Great Apps](../sites/great-apps.md) — A small, opinionated gallery of about 216 well-crafted indie iOS apps, from the curator of Sections.wtf.
 - [Hover States](../sites/hover-states.md) — An archive of about 1,775 experimental sites since 2012, each with a short note on its interaction and credits.
@@ -54,6 +58,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section gallery with an MCP server that feeds real section screenshots to coding agents, plus paid Tailwind, Webflow and Figma components.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
+- [Layers](../sites/layers.md) — Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.
 - [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile-first websites since 2021, tagged by technique and genre.
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
@@ -61,6 +66,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
 - [Navbar Gallery](../sites/navbar-gallery.md) — Real examples of every major navbar pattern (sticky, mega menu, sidebar, tabs and more), plus a blog on when to use each.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
+- [Pinterest](../sites/pinterest.md) — The mass-market mood-board network, with visual search and AI-image labels; API v5 needs review, official MCP not yet public.
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
 - [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
 - [Recent](../sites/recent-design.md) — Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
@@ -81,6 +87,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Uiverse](../sites/uiverse.md) — Community gallery of copy-paste CSS and Tailwind UI snippets.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
 - [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
+- [Wall of Portfolios](../sites/wall-of-portfolios.md) — Curated product-designer portfolios filterable by company, role, experience and country, plus case studies and monthly picks.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 - [wwwtf.site](../sites/wwwtf.md) — A young gallery of 25 weird, WebGL-heavy experimental websites from the curator of Sections.wtf.
 <!-- atlas:sources:end -->

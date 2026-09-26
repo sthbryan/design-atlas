@@ -778,6 +778,37 @@
       ]
     },
     {
+      "slug": "are-na",
+      "path": "sites/are-na.md",
+      "title": "Are.na",
+      "description": "Independent research-style bookmarking in connected channels, with a v3 REST API, llms.txt, official OAuth MCP server and CLI.",
+      "url": "https://www.are.na",
+      "type": "design-workspace",
+      "formats": "collaborative research and visual bookmarking platform · REST API, official MCP server and CLI",
+      "topics": [
+        "inspiration",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "Free Guest plan up to 200 blocks; Premium $7/month or $70/year; Supporter $120/year; students get 50% off for two years. Proprietary terms (effective 8 November 2023): personal, non-commercial viewing licence, no scraping or crawling, no abusive API use. Its robots.txt signals search yes, AI training no. The SDK repo is MIT; the MCP and CLI repos carried no licence file at review",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "cosmos",
+        "pinterest",
+        "designspiration",
+        "posts-design"
+      ]
+    },
+    {
       "slug": "ascii-studio",
       "path": "sites/ascii-studio.md",
       "title": "ASCII Studio",
@@ -1437,6 +1468,33 @@
         "shaderfrog",
         "canvas-ui",
         "paper-shaders"
+      ]
+    },
+    {
+      "slug": "cosmos",
+      "path": "sites/cosmos.md",
+      "title": "Cosmos",
+      "description": "Ad-free mood-board platform with hex-colour and visual-similarity search, AI-image filtering and source captions; Premium $8/month.",
+      "url": "https://www.cosmos.so",
+      "type": "design-workspace",
+      "formats": "visual bookmarking and mood-board platform · web, iOS, Android, browser extensions",
+      "topics": [
+        "inspiration",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free core plan; Premium is $8/month according to the site's llms.txt and structured data. Proprietary terms (Cosmos Entity, Inc., last updated 25 September 2025): automated access with bots, crawlers or data-mining tools is prohibited, the app licence is personal and non-commercial, and uploaders must own what they post. Saved images belong to their original creators",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "are-na",
+        "pinterest",
+        "designspiration",
+        "appinspo",
+        "browse-cool"
       ]
     },
     {
@@ -2180,6 +2238,32 @@
         "shadcn-ui",
         "uiable",
         "21st-dev"
+      ]
+    },
+    {
+      "slug": "designspiration",
+      "path": "sites/designspiration.md",
+      "title": "Designspiration",
+      "description": "Image archive since 2010 with a five-colour palette on every save, colour search and Pro mood boards at $5/month.",
+      "url": "https://www.designspiration.com",
+      "type": "gallery",
+      "formats": "image and colour search engine for design inspiration, with mood-board tool",
+      "topics": [
+        "inspiration",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free Basic account to search, save and collaborate on collections. Pro is $5/month or $50/year: ad-free, unlimited \"Visions\" mood boards, deeper searches, hiding from search engines, and a 10-day refund window. Proprietary terms: no spiders, robots or data-mining tools, and no commercial use of the service without permission. Saved images belong to their creators",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "cosmos",
+        "are-na",
+        "pinterest",
+        "huetone"
       ]
     },
     {
@@ -2987,6 +3071,34 @@
         "preline",
         "flowbite",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "folios-gallery",
+      "path": "sites/folios-gallery.md",
+      "title": "Folios.Gallery",
+      "description": "23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.",
+      "url": "https://folios.gallery",
+      "type": "gallery",
+      "formats": "inspiration gallery of designer and studio portfolio sites",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, supported by sponsor ads and tips. No terms or licence page; the portfolios shown belong to their owners",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "browse-cool",
+        "wwwtf",
+        "sections-wtf",
+        "wall-of-portfolios",
+        "minimal-gallery"
       ]
     },
     {
@@ -4617,6 +4729,32 @@
       ]
     },
     {
+      "slug": "layers",
+      "path": "sites/layers.md",
+      "title": "Layers",
+      "description": "Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.",
+      "url": "https://layers.to",
+      "type": "gallery",
+      "formats": "community platform where designers post work, with portfolios, teams and a job board",
+      "topics": [
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to join and browse. Layers Plus is $9/month, or $6/month billed yearly, and Team is $29/month, or $19/month yearly (prices from the site's upgrade page); job listings are paid. Terms (UK law, last updated 9 August 2023): members keep ownership of their uploads and grant Layers a broad licence to show and promote them. No stated reuse rights for visitors",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "wall-of-portfolios",
+        "collect-ui",
+        "inspora",
+        "appinspo"
+      ]
+    },
+    {
       "slug": "libraries-dev-orbs",
       "path": "sites/libraries-dev-orbs.md",
       "title": "Libraries.dev: Thinking orbs",
@@ -5761,6 +5899,34 @@
         "shadcn-ui",
         "refero-styles",
         "designmd"
+      ]
+    },
+    {
+      "slug": "pinterest",
+      "path": "sites/pinterest.md",
+      "title": "Pinterest",
+      "description": "The mass-market mood-board network, with visual search and AI-image labels; API v5 needs review, official MCP not yet public.",
+      "url": "https://www.pinterest.com",
+      "type": "design-workspace",
+      "formats": "mass-market visual discovery and bookmarking network · API v5, MCP server announced",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "Free and ad-supported. Proprietary terms (effective 30 April 2025, with changes announced for 12 November 2026): you keep rights in what you post but grant Pinterest a broad licence, and collecting content by automated means without permission is forbidden. Pins are mostly other people's work with no reuse rights",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "cosmos",
+        "are-na",
+        "designspiration",
+        "appinspo"
       ]
     },
     {
@@ -8592,6 +8758,32 @@
         "utopia",
         "typeface-fyi",
         "css-text-effects"
+      ]
+    },
+    {
+      "slug": "wall-of-portfolios",
+      "path": "sites/wall-of-portfolios.md",
+      "title": "Wall of Portfolios",
+      "description": "Curated product-designer portfolios filterable by company, role, experience and country, plus case studies and monthly picks.",
+      "url": "https://www.wallofportfolios.in",
+      "type": "directory",
+      "formats": "curated directory of product, UX and visual designer portfolios, with case studies and a job tracker",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; an account (Google or email) is needed to submit, bookmark and post. Its terms and privacy pages sit on the job-tracker subdomain and did not render without JavaScript at review, so reuse terms are not stated here. Portfolios and case studies belong to their designers",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "folios-gallery",
+        "layers",
+        "minimal-gallery",
+        "dark-mode-design"
       ]
     },
     {

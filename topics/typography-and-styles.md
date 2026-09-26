@@ -42,6 +42,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Fancy Components](../sites/fancy-components.md) — Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.
 - [Figma](../sites/figma.md) — The default design canvas, with Dev Mode, Code Connect and a remote MCP server that reads designs and writes back to the canvas.
 - [FlyonUI](../sites/flyonui.md) — Semantic Tailwind classes plus bundled Preline JS plugins; MIT with Preline Fair Use terms inherited, paid Pro blocks and MCP builder.
+- [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
 - [Fontshare](../sites/fontshare.md) — 100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.
 - [Fontsource](../sites/fontsource.md) — 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.
 - [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
@@ -64,6 +65,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [OpenDesign](../sites/open-design.md) — Apache-2.0 local design engine for coding agents, with 151 forkable DESIGN.md packages and MCP.
 - [pdfcn](../sites/pdfcn.md) — React PDF primitives and 20 invoice/report/label templates for Takumi or Forme, installed via shadcn CLI.
 - [Penpot](../sites/penpot.md) — MPL-2.0, self-hostable Figma alternative with CSS Flex/Grid layout, W3C-format design tokens and an official MCP server.
+- [Pinterest](../sites/pinterest.md) — The mass-market mood-board network, with visual search and AI-image labels; API v5 needs review, official MCP not yet public.
 - [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
 - [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
 - [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
@@ -87,6 +89,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
 - [Wakamai Fondue](../sites/wakamai-fondue.md) — Drop in a font to see its OpenType features, variable axes and glyphs, then get ready-made CSS, all in-browser.
+- [Wall of Portfolios](../sites/wall-of-portfolios.md) — Curated product-designer portfolios filterable by company, role, experience and country, plus case studies and monthly picks.
 - [Wondel.ai Skills](../sites/wondelai-skills.md) — Refactoring UI, Nielsen/Krug heuristics and web typography turned into scored audit skills.
 <!-- atlas:sources:end -->
 

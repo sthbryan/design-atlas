@@ -21,9 +21,11 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 <!-- atlas:sources:start -->
 - [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
 - [Color.review](../sites/color-review.md) — WCAG 2.1 contrast checker with pass/fail lines on the picker and shareable pair links.
+- [Cosmos](../sites/cosmos.md) — Ad-free mood-board platform with hex-colour and visual-similarity search, AI-image filtering and source captions; Premium $8/month.
 - [daisyUI](../sites/daisyui.md) — MIT Tailwind plugin of semantic component classes and 35 themes; llms.txt doubles as a skill, paid Blueprint MCP.
 - [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
 - [Design DNA](../sites/design-dna.md) — Turns references into a three-part JSON profile (tokens, style, WebGL effects), with measured colours and a ΔE verify loop.
+- [Designspiration](../sites/designspiration.md) — Image archive since 2010 with a five-colour palette on every save, colour search and Pro mood boards at $5/month.
 - [extract-design-system](../sites/extract-design-system.md) — Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.

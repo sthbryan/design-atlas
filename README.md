@@ -203,16 +203,20 @@ The repository is private for now. Until it is public, both install commands nee
 | [Astryx](sites/astryx.md) | design-system | components, documentation | very-useful | cli | open-source-permissive |
 | [Carbon Design System](sites/carbon-design-system.md) | design-system | components, icons, documentation, agents-and-prompts | very-useful | mcp, llms-txt, skill | open-source-permissive |
 | [Kobra](sites/kobra.md) | design-system | components, agents-and-prompts, ai-interfaces | useful | llms-txt, api | proprietary-paid |
+| [Are.na](sites/are-na.md) | design-workspace | inspiration, agents-and-prompts | very-useful | mcp, llms-txt, cli, api | proprietary-paid |
+| [Cosmos](sites/cosmos.md) | design-workspace | inspiration, color | useful | none | proprietary-paid |
 | [Efecto](sites/efecto.md) | design-workspace | agents-and-prompts, 3d-and-shaders, assets | useful | mcp, llms-txt, api, skill | mixed |
 | [Figma](sites/figma.md) | design-workspace | components, agents-and-prompts, typography-and-styles | very-useful | mcp, llms-txt, cli, api, skill | proprietary-paid |
 | [Framer](sites/framer.md) | design-workspace | landing-pages, motion, agents-and-prompts | very-useful | llms-txt, cli, api, skill | proprietary-paid |
 | [OpenDesign](sites/open-design.md) | design-workspace | design-md, agents-and-prompts, typography-and-styles | very-useful | mcp, cli, skill | open-source-permissive |
 | [Penpot](sites/penpot.md) | design-workspace | components, agents-and-prompts, typography-and-styles | very-useful | mcp, llms-txt | open-source-copyleft |
+| [Pinterest](sites/pinterest.md) | design-workspace | inspiration, typography-and-styles | useful | api | proprietary-free |
 | [Uiuno](sites/uiuno.md) | design-workspace | components, motion, agents-and-prompts | niche | registry | not-stated |
 | [Designeer](sites/designeer.md) | directory | inspiration, components, assets | useful | llms-txt | not-stated |
 | [Shadcn Labs](sites/shadcn-labs.md) | directory | components, agents-and-prompts, documentation | useful | none | open-source-permissive |
 | [Shoogle](sites/shoogle.md) | directory | components, agents-and-prompts, inspiration | useful | mcp, registry, skill | proprietary-free |
 | [UI Skills](sites/ui-skills.md) | directory | agent-skills, design-md, motion, ux-patterns | very-useful | mcp, llms-txt, cli, skill | mixed |
+| [Wall of Portfolios](sites/wall-of-portfolios.md) | directory | inspiration, typography-and-styles | useful | none | not-stated |
 | [What Ships](sites/what-ships.md) | directory | motion, inspiration, agents-and-prompts | useful | llms-txt, api | open-source-permissive |
 | [Devouring Details](sites/devouring-details.md) | documentation | motion, documentation, ux-patterns | very-useful | none | not-stated |
 | [Morphrig](sites/morphrig.md) | documentation | motion, icons, documentation | useful | llms-txt | not-stated |
@@ -235,8 +239,10 @@ The repository is private for now. Until it is public, both install commands nee
 | [Curated](sites/curated-design.md) | gallery | inspiration, landing-pages, typography-and-styles | very-useful | none | proprietary-paid |
 | [Dark Mode Design](sites/dark-mode-design.md) | gallery | inspiration, typography-and-styles, color | niche | none | not-stated |
 | [Design Spells](sites/design-spells.md) | gallery | inspiration, motion | useful | llms-txt | not-stated |
+| [Designspiration](sites/designspiration.md) | gallery | inspiration, color | useful | none | proprietary-paid |
 | [Detail (detail.design)](sites/detail-design.md) | gallery | ux-patterns, motion, inspiration, agents-and-prompts | useful | skill | mixed |
 | [Details](sites/details.md) | gallery | inspiration, motion, landing-pages, agents-and-prompts | very-useful | mcp, llms-txt | proprietary-paid |
+| [Folios.Gallery](sites/folios-gallery.md) | gallery | inspiration, typography-and-styles, motion | niche | none | not-stated |
 | [Footer Design](sites/footer-design.md) | gallery | footers, inspiration | niche | none | not-stated |
 | [Gradient Buttons](sites/gradient-buttons.md) | gallery | components, typography-and-styles | niche | none | not-stated |
 | [Great Apps](sites/great-apps.md) | gallery | inspiration, ux-patterns | niche | none | not-stated |
@@ -250,6 +256,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Landing Love](sites/landing-love.md) | gallery | landing-pages, motion, inspiration | useful | llms-txt | not-stated |
 | [Landingfolio](sites/landingfolio.md) | gallery | landing-pages, inspiration, components, agents-and-prompts | very-useful | mcp | proprietary-paid |
 | [Lapa Ninja](sites/lapa-ninja.md) | gallery | landing-pages, inspiration, assets | useful | none | proprietary-paid |
+| [Layers](sites/layers.md) | gallery | inspiration, ux-patterns | useful | none | proprietary-paid |
 | [Loader Buttons](sites/loader-buttons.md) | gallery | components, cta, motion, 3d-and-shaders | niche | none | not-stated |
 | [loadmo.re](sites/loadmore.md) | gallery | inspiration, typography-and-styles, motion | useful | none | proprietary-free |
 | [Minimal Gallery](sites/minimal-gallery.md) | gallery | inspiration, typography-and-styles | useful | none | not-stated |
