@@ -8,8 +8,8 @@ topics: [components, agents-and-prompts]
 verdict: useful
 agent: [registry, prompts]
 pricing: free
-licence: free and open source (repo `AnmolSaini16/mapcn` on GitHub)
-licence_class: not-stated
+licence: free; MIT licence in the `AnmolSaini16/mapcn` repository on GitHub
+licence_class: open-source-permissive
 reviewed: 2026-09-25
 status: active
 related: [shadcn-ui, uiable, 21st-dev, component-gallery]

@@ -4424,8 +4424,8 @@
         "prompts"
       ],
       "pricing": "free",
-      "licence": "free and open source (repo `AnmolSaini16/mapcn` on GitHub)",
-      "licence_class": "not-stated",
+      "licence": "free; MIT licence in the `AnmolSaini16/mapcn` repository on GitHub",
+      "licence_class": "open-source-permissive",
       "reviewed": "2026-09-25",
       "status": "active",
       "related": [
@@ -6050,14 +6050,18 @@
         "mcp",
         "llms-txt",
         "cli",
-        "registry"
+        "registry",
+        "skill"
       ],
       "pricing": "free",
-      "licence": "open source and free (the site itself states 125k GitHub stars)",
-      "licence_class": "not-stated",
+      "licence": "free; MIT licence in the shadcn-ui/ui repository (about 125k GitHub stars at review)",
+      "licence_class": "open-source-permissive",
       "reviewed": "2026-09-25",
       "status": "active",
       "related": [
+        "base-ui",
+        "radix",
+        "base-cn",
         "magic-ui",
         "aceternity-ui",
         "mapcn",

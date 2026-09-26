@@ -113,7 +113,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [interior.dev](sites/interior-dev.md) | component-library | motion, components, ux-patterns, agents-and-prompts | very-useful | llms-txt, registry | open-source-permissive |
 | [Lightswind](sites/lightswind.md) | component-library | components, motion, 3d-and-shaders, landing-pages | useful | mcp, llms-txt, cli, registry | mixed |
 | [Magic UI](sites/magic-ui.md) | component-library | components, motion, cta | very-useful | registry | mixed |
-| [mapcn](sites/mapcn.md) | component-library | components, agents-and-prompts | useful | registry, prompts | not-stated |
+| [mapcn](sites/mapcn.md) | component-library | components, agents-and-prompts | useful | registry, prompts | open-source-permissive |
 | [MicroKit](sites/microkit.md) | component-library | components, motion | useful | none | open-source-permissive |
 | [Motion Primitives](sites/motion-primitives.md) | component-library | motion, components, typography-and-styles | useful | cli | mixed |
 | [ogimagecn](sites/ogimagecn.md) | component-library | components, assets | useful | llms-txt, registry, api, skill | open-source-permissive |
@@ -126,7 +126,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Remocn](sites/remocn.md) | component-library | motion, components, agents-and-prompts | very-useful | llms-txt, registry, skill | mixed |
 | [Ruru UI (stale)](sites/ruru-ui.md) | component-library | components, motion | niche | cli | open-source-permissive |
 | [sensory-ui](sites/sensory-ui.md) | component-library | sound, components | useful | registry | open-source-permissive |
-| [shadcn/ui](sites/shadcn-ui.md) | component-library | components, documentation, agents-and-prompts | very-useful | mcp, llms-txt, cli, registry | not-stated |
+| [shadcn/ui](sites/shadcn-ui.md) | component-library | components, documentation, agents-and-prompts | very-useful | mcp, llms-txt, cli, registry, skill | open-source-permissive |
 | [SRCL](sites/srcl.md) | component-library | components, typography-and-styles, agents-and-prompts | very-useful | llms-txt, skill | open-source-permissive |
 | [termcn](sites/termcn.md) | component-library | components, agents-and-prompts, ai-interfaces | very-useful | llms-txt, registry, api, skill | open-source-permissive |
 | [Transitions.dev](sites/transitions-dev.md) | component-library | motion, components, agents-and-prompts, ai-interfaces | very-useful | skill | mixed |
