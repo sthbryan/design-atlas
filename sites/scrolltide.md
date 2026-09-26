@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Scrolltide
 
 - **URL:** https://scrolltide.co
 - **Type:** template library · AI prompts
-- **Topics:** motion, agents-and-prompts, inspiration
+- **Topics:** motion, agents-and-prompts, inspiration, landing-pages
 - **Pricing / licence:** Paid. Monthly $15/mo (was $29), yearly $89/yr (was $129), lifetime $159 one-time (was $239). Personal and client-use licence included on all plans.
 - **Reviewed:** 2026-09-25
 

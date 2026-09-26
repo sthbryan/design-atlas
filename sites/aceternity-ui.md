@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Aceternity UI
 
 - **URL:** https://ui.aceternity.com
 - **Type:** React component library for landing pages
-- **Topics:** components, motion, inspiration
+- **Topics:** components, motion, inspiration, landing-pages
 - **Pricing / licence:** free core; a one-time-payment "All-Access Pass" for lifetime access to premium blocks and templates, with commercial use allowed and its own refund policy
 - **Reviewed:** 2026-09-25
 

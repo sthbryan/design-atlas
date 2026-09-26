@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md), [cta](../topics/cta.md)
+[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md), [cta](../topics/cta.md), [landing-pages](../topics/landing-pages.md)
 
 # VibeUI
 
 - **URL:** https://vibeui.online
 - **Type:** prompt library
-- **Topics:** agents-and-prompts, components, cta
+- **Topics:** agents-and-prompts, components, cta, landing-pages
 - **Pricing / licence:** Free (the page title advertises 92 free prompts); no licence or terms stated. It promotes a companion product, GlowUp UI, with its own pricing
 - **Reviewed:** 2026-09-25
 

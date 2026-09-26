@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Neuform
 
 - **URL:** https://neuform.ai
 - **Type:** AI builder · remix template gallery · prompt skills · DESIGN.md source
-- **Topics:** design-md, agents-and-prompts, inspiration
+- **Topics:** design-md, agents-and-prompts, inspiration, landing-pages
 - **Pricing / licence:** browsing is free; generating needs a paid plan (3-day trial with 20 prompts, then Pro $25, Max $50, Ultra $100 per month, or half that billed yearly). Commercial use for client work is listed only on paid tiers. The terms leave you responsible for the rights to anything you publish or reuse. No licence is stated for other creators' public templates, DESIGN.md files or skill prompts.
 - **Reviewed:** 2026-09-25
 
