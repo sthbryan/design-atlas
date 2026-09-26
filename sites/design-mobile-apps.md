@@ -4,7 +4,7 @@ description: REST client for Sleek's paid mobile-screen generator, with handoff 
 url: https://github.com/designed-by-ai/skills
 type: agent-skill
 formats: agent skill · REST client for the hosted Sleek mobile design tool
-topics: [agents-and-prompts, components, icons]
+topics: [agent-skills, components, icons]
 verdict: niche
 agent: [api, skill]
 pricing: paid

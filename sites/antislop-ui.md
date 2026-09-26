@@ -4,7 +4,7 @@ description: Purpose-gated UI rules, honesty gates and an evidence-backed Delive
 url: https://www.skills.sh/miqdadbadjuber/anti-slop/antislop-ui
 type: agent-skill-collection
 formats: agent skill collection
-topics: [agents-and-prompts, ux-patterns, landing-pages]
+topics: [agent-skills, ux-patterns, landing-pages]
 verdict: useful
 agent: [skill]
 pricing: free

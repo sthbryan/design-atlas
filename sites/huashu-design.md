@@ -4,7 +4,7 @@ description: Chinese-language HTML skill for prototypes, decks and MP4 animation
 url: https://github.com/alchaincyf/huashu-design
 type: agent-skill
 formats: agent skill · HTML prototyping, slides and motion toolkit
-topics: [agents-and-prompts, motion, typography-and-styles]
+topics: [agent-skills, motion, typography-and-styles]
 verdict: useful
 agent: [skill]
 pricing: free

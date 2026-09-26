@@ -4,7 +4,7 @@ description: Google Labs' Stitch skills and source of the "Stitch format"; three
 url: https://github.com/google-labs-code/stitch-skills
 type: agent-skill-collection
 formats: agent skill collection · plugin marketplace (Codex, Claude Code, Cursor)
-topics: [agents-and-prompts, design-md, typography-and-styles]
+topics: [agent-skills, design-md, typography-and-styles]
 verdict: useful
 agent: [skill]
 pricing: free

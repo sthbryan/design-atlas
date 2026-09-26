@@ -7,14 +7,14 @@ order: 19
 
 # Agents and prompts
 
-Sites built to be consumed directly by coding agents — through an MCP server, an `llms.txt` index, a CLI, or a ready-made prompt to paste in.
+Sites built to be consumed directly by coding agents — through an MCP server, an `llms.txt` index, a CLI, or a ready-made prompt to paste in. Installable skills and skill collections have their own hub, [Agent skills](agent-skills.md).
 
 ## Start here
 
 - [shadcn/ui](../sites/shadcn-ui.md) — `llms.txt` plus an MCP registry; the ecosystem's agent-integration standard.
 - [Kage](../sites/kage.md) — an MCP server that turns real interfaces into structured design briefs and prompts.
 - [DESIGN.md](../sites/designmd.md) — an MCP server and CLI for downloading whole design systems into a project.
-- [Impeccable](../sites/impeccable.md) — an Apache-2.0 design skill with 24 commands, a deterministic slop detector for CI and PRODUCT.md/DESIGN.md context files.
+- [Laws of UX](../sites/laws-of-ux.md) — a model of a reference site agents can read: an `llms.txt` that says when to cite each law, and Markdown for every page through `Accept: text/markdown`.
 - [Craftwork](../sites/craftwork.md) — an asset store built for agents: OAuth MCP, a one-command setup wizard, a published `SKILL.md` and a `.well-known` API catalogue.
 
 ## All sources
@@ -119,6 +119,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 
 ## Related topics
 
+- [Agent skills](agent-skills.md)
 - [DESIGN.md files](design-md.md)
 - [Documentation](documentation.md)
 - [Components](components.md)

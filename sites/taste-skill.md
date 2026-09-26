@@ -4,7 +4,7 @@ description: Thirteen anti-slop skills with exact bans, three design dials and a
 url: https://www.tasteskill.dev
 type: agent-skill-collection
 formats: agent skill collection
-topics: [agents-and-prompts, landing-pages, typography-and-styles, motion]
+topics: [agent-skills, landing-pages, typography-and-styles, motion]
 verdict: very-useful
 agent: [skill]
 pricing: free

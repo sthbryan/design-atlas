@@ -4,7 +4,7 @@ description: Turns references into a three-part JSON profile (tokens, style, Web
 url: https://github.com/zanwei/design-dna
 type: agent-skill
 formats: agent skill · JSON design-profile schema · colour-measurement scripts
-topics: [agents-and-prompts, design-md, color, 3d-and-shaders]
+topics: [agent-skills, design-md, color, 3d-and-shaders]
 verdict: useful
 agent: [skill]
 pricing: free

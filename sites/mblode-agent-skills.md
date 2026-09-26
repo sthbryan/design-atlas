@@ -4,7 +4,7 @@ description: Design audits with a ship verdict, Playwright probes, a 78-rule typ
 url: https://github.com/mblode/agent-skills
 type: agent-skill-collection
 formats: agent skill collection
-topics: [agents-and-prompts, ux-patterns, motion, typography-and-styles]
+topics: [agent-skills, ux-patterns, motion, typography-and-styles]
 verdict: very-useful
 agent: [skill]
 pricing: free

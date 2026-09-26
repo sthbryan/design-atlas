@@ -4,7 +4,7 @@ description: Refactoring UI, Nielsen/Krug heuristics and web typography turned i
 url: https://github.com/wondelai/skills
 type: agent-skill-collection
 formats: agent skill collection · Claude Code and Codex plugin marketplace
-topics: [agents-and-prompts, ux-patterns, typography-and-styles]
+topics: [agent-skills, ux-patterns, typography-and-styles]
 verdict: useful
 agent: [skill]
 pricing: free

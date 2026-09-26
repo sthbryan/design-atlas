@@ -4,7 +4,7 @@ description: 111 small design-practice skills in nine plugins, with a router tha
 url: https://github.com/Owl-Listener/designer-skills
 type: agent-skill-collection
 formats: agent skill collection · Claude Code plugin marketplace · Gemini CLI extensions
-topics: [agents-and-prompts, ux-patterns, typography-and-styles, documentation]
+topics: [agent-skills, ux-patterns, typography-and-styles, documentation]
 verdict: useful
 agent: [skill]
 pricing: free

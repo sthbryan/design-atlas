@@ -4,7 +4,7 @@ description: "Addy Osmani's six measurement-first skills: audit with Lighthouse 
 url: https://github.com/addyosmani/web-quality-skills
 type: agent-skill-collection
 formats: agent skill collection · Claude Code, Codex and Gemini CLI plugin
-topics: [agents-and-prompts, ux-patterns]
+topics: [agent-skills, ux-patterns]
 verdict: very-useful
 agent: [skill]
 pricing: free

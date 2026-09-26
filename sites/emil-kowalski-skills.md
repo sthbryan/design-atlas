@@ -4,7 +4,7 @@ description: "Emil Kowalski's 13 motion-first skills: when to animate, exact cur
 url: https://github.com/emilkowalski/skills
 type: agent-skill-collection
 formats: agent skill collection
-topics: [agents-and-prompts, motion, ux-patterns]
+topics: [agent-skills, motion, ux-patterns]
 verdict: very-useful
 agent: [skill]
 pricing: free

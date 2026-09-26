@@ -4,7 +4,7 @@ description: Searchable local database of styles, palettes and font pairs, queri
 url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 type: agent-skill
 formats: agent skill collection · local search database · CLI installer
-topics: [agents-and-prompts, design-md, typography-and-styles, ux-patterns]
+topics: [agent-skills, design-md, typography-and-styles, ux-patterns]
 verdict: very-useful
 agent: [cli, skill]
 pricing: freemium

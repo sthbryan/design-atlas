@@ -4,7 +4,7 @@ description: Interviews you, mounts five code variants on a temporary route, the
 url: https://github.com/0xdesign/design-plugin
 type: agent-skill
 formats: agent skill · Claude Code plugin (`design-and-refine`)
-topics: [agents-and-prompts, ux-patterns, components]
+topics: [agent-skills, ux-patterns, components]
 verdict: useful
 agent: [skill]
 pricing: free

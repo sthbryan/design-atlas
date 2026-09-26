@@ -4,7 +4,7 @@ description: Create or audit UI motion through Emil, Jakub and Jhey lenses; HTML
 url: https://github.com/kylezantos/design-motion-principles
 type: agent-skill
 formats: agent skill
-topics: [agents-and-prompts, motion]
+topics: [agent-skills, motion]
 verdict: very-useful
 agent: [skill]
 pricing: free

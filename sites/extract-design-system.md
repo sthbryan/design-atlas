@@ -4,7 +4,7 @@ description: Pulls colours, fonts, spacing, radii and shadows from a public URL 
 url: https://github.com/arvindrk/extract-design-system
 type: agent-skill
 formats: agent skill · CLI · MCP server
-topics: [agents-and-prompts, design-md, color]
+topics: [agent-skills, design-md, color]
 verdict: useful
 agent: [mcp, cli, skill]
 pricing: free

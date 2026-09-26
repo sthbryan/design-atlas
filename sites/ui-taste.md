@@ -4,7 +4,7 @@ description: Short product-first playbooks for web and iOS UI, with an optional 
 url: https://www.skills.sh/site/uizze.sh/ui-taste
 type: agent-skill
 formats: agent skill · optional paid MCP · GitHub Action
-topics: [agents-and-prompts, ux-patterns, inspiration]
+topics: [agent-skills, ux-patterns, inspiration]
 verdict: niche
 agent: [mcp, skill]
 pricing: freemium

@@ -4,7 +4,7 @@ description: Anthropic's frontend-design anti-default skill plus canvas-design, 
 url: https://github.com/anthropics/skills
 type: agent-skill-collection
 formats: agent skill collection · Claude Code plugin marketplace
-topics: [agents-and-prompts, typography-and-styles, landing-pages, color]
+topics: [agent-skills, typography-and-styles, landing-pages, color]
 verdict: very-useful
 agent: [skill]
 pricing: free

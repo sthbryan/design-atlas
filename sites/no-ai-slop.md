@@ -4,7 +4,7 @@ description: Removes AI writing patterns while keeping the writer's voice, and h
 url: https://github.com/petergyang/no-ai-slop
 type: agent-skill
 formats: agent skill
-topics: [agents-and-prompts, documentation]
+topics: [agent-skills, documentation]
 verdict: useful
 agent: [skill]
 pricing: free

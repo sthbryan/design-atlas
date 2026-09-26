@@ -4,7 +4,7 @@ description: "Seven short MIT skills: baseline-ui rules, motion-performance and 
 url: https://github.com/ibelick/ui-skills
 type: agent-skill-collection
 formats: agent skill collection · CLI · MCP
-topics: [agents-and-prompts, ux-patterns, motion, design-md]
+topics: [agent-skills, ux-patterns, motion, design-md]
 verdict: very-useful
 agent: [mcp, cli, skill]
 pricing: free

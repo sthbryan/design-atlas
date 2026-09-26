@@ -4,7 +4,7 @@ description: Eleven modular skills that review with evidence and polish UI, typo
 url: https://github.com/jakubkrehel/skills
 type: agent-skill-collection
 formats: agent skill suite · Claude Code plugin
-topics: [agents-and-prompts, ux-patterns, typography-and-styles, color]
+topics: [agent-skills, ux-patterns, typography-and-styles, color]
 verdict: very-useful
 agent: [skill]
 pricing: free

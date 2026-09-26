@@ -4,7 +4,7 @@ description: 306 design-engineering skills from 84 authors, with a routing skill
 url: https://www.ui-skills.com
 type: directory
 formats: skills directory · CLI · MCP
-topics: [agents-and-prompts, design-md, motion, ux-patterns]
+topics: [agent-skills, design-md, motion, ux-patterns]
 verdict: very-useful
 agent: [mcp, llms-txt, cli, skill]
 pricing: free

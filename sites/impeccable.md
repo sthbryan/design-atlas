@@ -4,7 +4,7 @@ description: Apache-2.0 design skill with 24 commands, a deterministic slop dete
 url: https://impeccable.style
 type: agent-skill
 formats: agent skill · CLI · anti-pattern detector · browser extension
-topics: [agents-and-prompts, design-md, ux-patterns]
+topics: [agent-skills, design-md, ux-patterns]
 verdict: very-useful
 agent: [llms-txt, cli, skill]
 pricing: free

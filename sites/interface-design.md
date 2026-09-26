@@ -4,7 +4,7 @@ description: Craft skill for dashboards and SaaS UI that saves design decisions 
 url: https://interface-design.dev
 type: agent-skill
 formats: agent skill · Claude Code plugin with two review commands
-topics: [agents-and-prompts, components, typography-and-styles, ux-patterns]
+topics: [agent-skills, components, typography-and-styles, ux-patterns]
 verdict: very-useful
 agent: [skill]
 pricing: free

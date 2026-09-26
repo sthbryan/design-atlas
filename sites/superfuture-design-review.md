@@ -4,7 +4,7 @@ description: Ten-area design critique ranked by severity with exact fixes; it se
 url: https://ui-skills.com/skills/superfuture/design-review
 type: agent-skill
 formats: agent skill · Claude Code plugin · paid server-side tier
-topics: [agents-and-prompts, ux-patterns]
+topics: [agent-skills, ux-patterns]
 verdict: niche
 agent: [skill]
 pricing: freemium

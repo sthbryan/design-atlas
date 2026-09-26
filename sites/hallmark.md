@@ -4,7 +4,7 @@ description: "MIT anti-slop skill from Together AI: picks the page structure fir
 url: https://www.usehallmark.com
 type: agent-skill
 formats: agent skill
-topics: [agents-and-prompts, typography-and-styles, landing-pages, design-md]
+topics: [agent-skills, typography-and-styles, landing-pages, design-md]
 verdict: very-useful
 agent: [skill]
 pricing: free

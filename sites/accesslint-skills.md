@@ -4,7 +4,7 @@ description: Five WCAG-EM accessibility skills (scan, inspect, audit, fix, diff)
 url: https://github.com/AccessLint/skills
 type: agent-skill-collection
 formats: agent skill collection · Claude Code plugin · local MCP server
-topics: [agents-and-prompts, ux-patterns]
+topics: [agent-skills, ux-patterns]
 verdict: useful
 agent: [mcp, cli, skill]
 pricing: free

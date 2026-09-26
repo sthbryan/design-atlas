@@ -4,7 +4,7 @@ description: "Anthropic's Apache-2.0 designer plugin: structured critique, UX co
 url: https://github.com/anthropics/knowledge-work-plugins/tree/main/design
 type: agent-skill-collection
 formats: agent skill collection · Claude Code and Cowork plugin
-topics: [agents-and-prompts, ux-patterns, documentation]
+topics: [agent-skills, ux-patterns, documentation]
 verdict: useful
 agent: [skill]
 pricing: free

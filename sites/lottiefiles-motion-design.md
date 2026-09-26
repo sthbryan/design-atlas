@@ -4,7 +4,7 @@ description: "Motion-director skill: four personalities, duration and stagger ta
 url: https://github.com/LottieFiles/motion-design-skill
 type: agent-skill
 formats: agent skill
-topics: [agents-and-prompts, motion]
+topics: [agent-skills, motion]
 verdict: useful
 agent: [skill]
 pricing: free

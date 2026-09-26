@@ -4,7 +4,7 @@ description: Tiny review skill that fetches Vercel's live Web Interface Guidelin
 url: https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines
 type: agent-skill
 formats: agent skill (part of Vercel's `agent-skills` collection)
-topics: [agents-and-prompts, ux-patterns]
+topics: [agent-skills, ux-patterns]
 verdict: very-useful
 agent: [skill]
 pricing: free

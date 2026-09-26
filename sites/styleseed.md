@@ -4,7 +4,7 @@ description: 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH 
 url: https://github.com/bitjaru/styleseed
 type: agent-skill-collection
 formats: agent skill collection · design-rule engine · Claude Code plugin marketplace
-topics: [agents-and-prompts, design-md, color, ux-patterns]
+topics: [agent-skills, design-md, color, ux-patterns]
 verdict: useful
 agent: [skill]
 pricing: free

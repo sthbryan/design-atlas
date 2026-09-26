@@ -4,7 +4,7 @@ description: Drives the hosted superdesign.dev canvas from your agent to branch 
 url: https://github.com/superdesigndev/superdesign-skill
 type: agent-skill
 formats: agent skill · client for the hosted superdesign.dev canvas (CLI `@superdesign/cli`)
-topics: [agents-and-prompts, design-md, inspiration]
+topics: [agent-skills, design-md, inspiration]
 verdict: useful
 agent: [cli, skill]
 pricing: not-stated

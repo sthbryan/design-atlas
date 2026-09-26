@@ -4,7 +4,7 @@ description: Small prose skill listing AI phrases and sentence shapes to cut, wi
 url: https://github.com/hardikpandya/stop-slop
 type: agent-skill
 formats: agent skill
-topics: [agents-and-prompts, documentation]
+topics: [agent-skills, documentation]
 verdict: useful
 agent: [skill]
 pricing: free

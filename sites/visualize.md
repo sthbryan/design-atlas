@@ -4,7 +4,7 @@ description: Brand-aware HTML reports, decks and dashboards, checked by named ba
 url: https://github.com/display-dev/visualize
 type: agent-skill
 formats: agent skill · artifact templates · design-system packages · deterministic detectors
-topics: [agents-and-prompts, design-md, documentation, typography-and-styles]
+topics: [agent-skills, design-md, documentation, typography-and-styles]
 verdict: very-useful
 agent: [skill]
 pricing: free
