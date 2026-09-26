@@ -4,7 +4,7 @@
 
 - **URL:** https://mapcn.dev
 - **Type:** map component library (shadcn registry)
-- **Topics:** components, agents and prompts
+- **Topics:** components, agents-and-prompts
 - **Pricing / licence:** free and open source (repo `AnmolSaini16/mapcn` on GitHub)
 - **Reviewed:** 2026-09-25
 

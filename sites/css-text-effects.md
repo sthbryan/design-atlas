@@ -4,7 +4,7 @@
 
 - **URL:** https://text-effects.colorion.co
 - **Type:** component library
-- **Topics:** typography, motion, CSS
+- **Topics:** typography-and-styles, motion
 - **Pricing / licence:** MIT / Open source
 - **Reviewed:** 2026-09-25
 

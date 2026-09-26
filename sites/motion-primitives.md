@@ -4,7 +4,7 @@
 
 - **URL:** https://motion-primitives.com
 - **Type:** animated component library
-- **Topics:** motion, components, typography and styles
+- **Topics:** motion, components, typography-and-styles
 - **Pricing / licence:** free, open-source core with frequent updates; a "Pro" tier at pro.motion-primitives.com
 - **Reviewed:** 2026-09-25
 

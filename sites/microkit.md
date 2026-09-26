@@ -4,7 +4,7 @@
 
 - **URL:** https://microkit.co
 - **Type:** component library
-- **Topics:** components, interactions, React
+- **Topics:** components, motion
 - **Pricing / licence:** MIT / Open source
 - **Reviewed:** 2026-09-25
 

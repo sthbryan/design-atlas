@@ -4,7 +4,7 @@
 
 - **URL:** https://21st.dev
 - **Type:** community marketplace / registry of React components
-- **Topics:** components, agents and prompts, inspiration
+- **Topics:** components, agents-and-prompts, inspiration
 - **Pricing / licence:** free with a limit of 2 component copies per day; premium membership for unlimited copies and exclusive templates. Installed code stays "in your repo, as your code," with no runtime package of its own.
 - **Reviewed:** 2026-09-25
 

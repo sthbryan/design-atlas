@@ -4,7 +4,7 @@
 
 - **URL:** https://glass.samasante.com
 - **Type:** library / tool
-- **Topics:** motion, visual effects, DOM
+- **Topics:** motion, components
 - **Pricing / licence:** Not specified
 - **Reviewed:** 2026-09-25
 

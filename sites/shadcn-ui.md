@@ -4,7 +4,7 @@
 
 - **URL:** https://ui.shadcn.com
 - **Type:** component library / code registry
-- **Topics:** components, documentation, agents and prompts
+- **Topics:** components, documentation, agents-and-prompts
 - **Pricing / licence:** open source and free (the site itself states 125k GitHub stars)
 - **Reviewed:** 2026-09-25
 

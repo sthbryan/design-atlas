@@ -4,7 +4,7 @@
 
 - **URL:** https://magicui.design
 - **Type:** animated component library
-- **Topics:** components, motion, CTA
+- **Topics:** components, motion, cta
 - **Pricing / licence:** free and open source (repo `magicuidesign/magicui` on GitHub); a paid "Magic UI Pro" tier with extra landing-page blocks and templates
 - **Reviewed:** 2026-09-25
 

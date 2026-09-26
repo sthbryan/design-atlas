@@ -4,7 +4,7 @@
 
 - **URL:** https://60fps.design
 - **Type:** inspiration gallery (motion)
-- **Topics:** inspiration, motion, agents and prompts
+- **Topics:** inspiration, motion, agents-and-prompts
 - **Pricing / licence:** free to browse; PRO $15/mo or $150/yr (full filters, storyboards, better player); MCP is a separate plan at $29/mo or $75/quarter, billed through Gumroad. Content is proprietary: recordings belong to the apps shown, and the curation and breakdowns belong to 60fps
 - **Reviewed:** 2026-09-25
 

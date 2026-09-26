@@ -4,7 +4,7 @@
 
 - **URL:** https://kitbitz.art
 - **Type:** asset library
-- **Topics:** illustrations, assets, craftsmanship
+- **Topics:** assets, components
 - **Pricing / licence:** Free / Not specified
 - **Reviewed:** 2026-09-25
 

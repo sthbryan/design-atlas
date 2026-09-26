@@ -4,7 +4,7 @@
 
 - **URL:** https://openmotion.design
 - **Type:** tool (desktop app)
-- **Topics:** motion, agents and prompts
+- **Topics:** motion, agents-and-prompts
 - **Pricing / licence:** free while in development, with a possible future Pro plan per the site; requires an account. Closed-source desktop app despite the name; no public repository, terms or licence page was found
 - **Reviewed:** 2026-09-25
 

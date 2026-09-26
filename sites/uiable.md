@@ -4,7 +4,7 @@
 
 - **URL:** https://uiable.com
 - **Type:** component, block and template library
-- **Topics:** components, documentation, agents and prompts
+- **Topics:** components, documentation, agents-and-prompts
 - **Pricing / licence:** free MIT-licensed community tier, no account required; paid Pro tier is a one-time purchase with lifetime access (no subscription), with a 70% launch discount stated by the site
 - **Reviewed:** 2026-09-25
 

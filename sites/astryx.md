@@ -4,7 +4,7 @@
 
 - **URL:** https://astryx.atmeta.com/components
 - **Type:** design system
-- **Topics:** components, documentation, typography-and-styles
+- **Topics:** components, documentation
 - **Pricing / licence:** MIT / Open source (© Meta, facebook/astryx)
 - **Reviewed:** 2026-09-25
 

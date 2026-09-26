@@ -4,7 +4,7 @@
 
 - **URL:** https://dialkit.dev
 - **Type:** tool (npm library for live tuning)
-- **Topics:** motion, agents and prompts, documentation
+- **Topics:** motion, agents-and-prompts, documentation
 - **Pricing / licence:** free, MIT / Open source
 - **Reviewed:** 2026-09-25
 

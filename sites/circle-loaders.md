@@ -4,7 +4,7 @@
 
 - **URL:** https://circleloaders.dominikakissi.com
 - **Type:** asset library
-- **Topics:** components, motion, spinners
+- **Topics:** components, motion, assets
 - **Pricing / licence:** Not specified
 - **Reviewed:** 2026-09-25
 

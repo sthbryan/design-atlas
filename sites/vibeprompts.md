@@ -4,7 +4,7 @@
 
 - **URL:** https://vibeprompts.dev
 - **Type:** library of layout prompts for "vibe coding"
-- **Topics:** agents and prompts, components, CTA
+- **Topics:** agents-and-prompts, components, cta
 - **Pricing / licence:** free, no account or download needed. Not indicated for the licence of the prompt text or of the code it generates.
 - **Reviewed:** 2026-09-25
 

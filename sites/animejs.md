@@ -4,7 +4,7 @@
 
 - **URL:** https://animejs.com
 - **Type:** JavaScript library
-- **Topics:** motion, JavaScript, animations
+- **Topics:** motion, components, documentation
 - **Pricing / licence:** MIT / Open source
 - **Reviewed:** 2026-09-25
 

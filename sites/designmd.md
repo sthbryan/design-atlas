@@ -4,7 +4,7 @@
 
 - **URL:** https://designmd.ai
 - **Type:** design-system library in markdown · MCP · CLI
-- **Topics:** design-md, documentation, agents and prompts, typography and styles
+- **Topics:** design-md, documentation, agents-and-prompts, typography-and-styles
 - **Pricing / licence:** free to browse and download; a free API key is needed to use the MCP/CLI for uploading, downloading or deleting. Not indicated for the licence of each individual design system.
 - **Reviewed:** 2026-09-25
 

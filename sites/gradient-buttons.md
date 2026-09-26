@@ -4,7 +4,7 @@
 
 - **URL:** https://gradientbuttons.colorion.co
 - **Type:** gallery
-- **Topics:** components, CSS styles, buttons
+- **Topics:** components, typography-and-styles
 - **Pricing / licence:** Free / Not specified
 - **Reviewed:** 2026-09-25
 

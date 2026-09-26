@@ -4,7 +4,7 @@
 
 - **URL:** https://kinetics.colorion.co
 - **Type:** JavaScript library
-- **Topics:** motion, components, interactions
+- **Topics:** motion, components
 - **Pricing / licence:** MIT / Open source
 - **Reviewed:** 2026-09-25
 
