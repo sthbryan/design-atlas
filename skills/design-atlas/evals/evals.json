@@ -146,8 +146,8 @@
     },
     {
       "id": 12,
-      "prompt": "the atlas doesn't seem to have Phosphor icons in it. can you get it added?",
-      "expected_output": "Confirms from the index that Phosphor is missing, offers to draft a Suggest a site issue or points to CONTRIBUTING.md inside a clone, and edits no generated file. If Phosphor has been added since this case was written, the right answer is that it is already covered.",
+      "prompt": "the atlas doesn't seem to have Font Awesome in it. can you get it added?",
+      "expected_output": "Confirms from the index that Font Awesome is missing, offers to draft a Suggest a site issue or points to CONTRIBUTING.md inside a clone, and edits no generated file. If Font Awesome has been added since this case was written, the right answer is that it is already covered.",
       "files": [],
       "expectations": [
         "The transcript shows an index lookup (query.mjs, jq, or grep on sites.json, llms.txt or the catalog) before the answer",
