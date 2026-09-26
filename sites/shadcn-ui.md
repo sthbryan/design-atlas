@@ -22,7 +22,7 @@ related: [base-ui, radix, base-cn, magic-ui, aceternity-ui, mapcn, uiable, 21st-
 
 Described as "the foundation for your design system": accessible, composable React components with thoughtful defaults, meant to be copied into your repo and freely edited rather than installed as a closed dependency. It's the de-facto standard other libraries in this atlas (Magic UI, Aceternity, mapcn, UIAble) build on top of.
 
-The same components ship for more than one set of primitives. Since July 2026 new projects start on [Base UI](base-ui.md) by default, [Radix](radix.md), the original base, is still fully supported (`npx shadcn init -b radix`), and a React Aria base followed later that month. The component API stays the same whichever base you pick; only the underlying implementation changes.
+The same components ship for more than one set of primitives. Since July 2026 new projects start on [Base UI](base-ui.md) by default. [Radix](radix.md), the original base, is still fully supported (`npx shadcn init -b radix`), and a React Aria base followed later that month. The component API stays the same whichever base you pick; only the underlying implementation changes.
 
 ## When to open it
 
