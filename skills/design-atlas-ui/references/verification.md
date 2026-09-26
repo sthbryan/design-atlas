@@ -110,7 +110,7 @@ For every figure the UI shows:
 3. Check each figure against the rules under Numbers and charts in `content.md`.
 4. Record one evidence row per view: how many figures were traced, and to which source.
 
-A number that fails is Blocking (P3). Fix it at the data source, so every view that reads it agrees.
+A number that fails is Blocking (P3). Fix it at the data source, so every view that reads it agrees. A total derived from its parts is a fix. Rescaling, normalising or guessing which input is wrong is not: when the source values themselves disagree, keep them, report the mismatch as Blocking and ask for the correct data.
 
 ## Evidence checklist
 
