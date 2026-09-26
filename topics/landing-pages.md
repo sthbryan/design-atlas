@@ -1,3 +1,8 @@
+---
+title: Landing pages
+description: galleries, section libraries, templates and skills for marketing and launch pages.
+order: 2
+---
 [← Atlas](../README.md)
 
 # Landing pages
@@ -14,6 +19,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, logo clouds, pricing, shaders); the elaborate blocks are paid.
 - [Curated](../sites/curated-design.md) — two independent axes, industry and visual style, over live sites, and a section library of heroes, pricing tables, footers and FAQs.
 - [Details](../sites/details.md) — deep categories for preloaders, page transitions and pinned scroll, filterable by element, section, interaction, industry and style; the full library and MCP are paid.
@@ -29,6 +35,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [SEESAW](../sites/seesaw.md) — about 860 hand-picked live sites, mostly startup, AI and developer-tool marketing, each tagged with the typefaces it uses.
 - [Supahero](../sites/supahero.md) — about 570 hero sections on one long page, for judging headline length, CTA count and what sits above the fold.
 - [VibeUI](../sites/vibeui.md) — 92 free layout prompts across 15 section types, including eight hero variants, pricing tables, CTA banners and footers, to pair with a style screenshot.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

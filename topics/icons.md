@@ -1,3 +1,8 @@
+---
+title: Icons
+description: outline, animated and 3D icon sets, and how to hand them to an agent.
+order: 17
+---
 [← Atlas](../README.md)
 
 # Icons
@@ -14,6 +19,7 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [3dicons](../sites/3dicons.md) — 3D icons for landing-page sections, empty states and dashboards; best between 32 and 256 px.
 - [Animated Icons](../sites/animated-icons.md) — Lottie, SVG, PNG and GIF icons recoloured in the browser; free tier plus a one-time All-Access purchase.
 - [Carbon Design System](../sites/carbon-design-system.md) — 2,775 icons and 1,576 pictograms under Apache-2.0, as React packages, Web Components and a Figma library; the licence grants no IBM trademark rights.
@@ -21,6 +27,7 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [icons0](../sites/icons0.md) — hybrid keyword and semantic search over roughly 200k Iconify icons, with a licence filter, single-icon shadcn registry items and a token-gated MCP.
 - [Morphrig](../sites/morphrig.md) — an interactive manual on morphing one SVG icon into another, with measured browser support and an `llms-full.txt` to hand an agent.
 - [useAnimations](../sites/useanimations.md) — 87 Feather-style micro-animated icons (SVG + Lottie) and a React package; attribution required.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

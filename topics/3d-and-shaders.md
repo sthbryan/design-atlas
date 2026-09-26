@@ -1,3 +1,8 @@
+---
+title: 3D and shaders
+description: WebGL and WebGPU shader libraries, playgrounds and 3D scene templates.
+order: 12
+---
 [← Atlas](../README.md)
 
 # 3D and shaders
@@ -14,6 +19,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [The Book of Shaders](../sites/book-of-shaders.md) — thirteen published chapters on GLSL, from shaping functions to noise and fBm, with editable live examples; read to learn, since the licence forbids reusing its code.
 - [Canvas UI](../sites/canvas-ui.md) — liquid, ripple, frost, glitch and shatter effects that sample live DOM, plus 3D glass and particle objects from GLB models; MIT plus Commons Clause.
 - [compute.toys](../sites/compute-toys.md) — WebGPU compute playground in WGSL or Slang for particles, simulations and path tracers, with a plain-text source URL per shader; user shaders carry no licence.
@@ -26,6 +32,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [React Bits](../sites/reactbits.md) — decorative WebGL backgrounds such as aurora, galaxy and silk, and 3D pieces built on three.js and ogl, inside a large animated component catalogue.
 - [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs written in TypeGPU and compiled to WGSL, in shadcn format; every orb file carries a non-commercial notice.
 - [Shaderfrog](../sites/shaderfrog.md) — splices full GLSL programs into an engine's own material so an effect keeps its lighting and reflections; still an alpha, with Three.js the only documented export.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

@@ -1,3 +1,8 @@
+---
+title: Agents and prompts
+description: sites built to be consumed directly by coding agents (MCP, llms.txt, CLIs, prompts).
+order: 19
+---
 [← Atlas](../README.md)
 
 # Agents and prompts
@@ -14,6 +19,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [21st.dev](../sites/21st-dev.md) — MCP server with `search`, `get_component`, `get_inspiration` and `generate` tools.
 - [60fps](../sites/60fps.md) — `llms.txt` plus a separately billed MCP that searches interaction recordings and returns motion breakdowns and SwiftUI code.
 - [@web-kits/audio](../sites/web-kits-audio.md) — `llms.txt`, a "Copy for LLM" button on every docs page, and a `create-sound` skill that turns a prompt or a sample's FFT into a typed sound definition.
@@ -74,6 +80,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [VibePrompts](../sites/vibeprompts.md) — a library of prompts organized by page section, for any AI assistant.
 - [VibeUI](../sites/vibeui.md) — 92 one-click layout prompts designed to be pasted into an agent with a style screenshot attached.
 - [What Ships](../sites/what-ships.md) — `llms.txt`, an OpenAPI description, a JSON search index and markdown pages, with a guide asking agents to always cite the original post.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

@@ -1,3 +1,8 @@
+---
+title: Sound
+description: interface sound cues, synthesis libraries and sound-enabled components.
+order: 18
+---
 [← Atlas](../README.md)
 
 # Sound
@@ -14,12 +19,14 @@ Interface sounds for the web: semantic cue sets, synthesis libraries, sound-enab
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [@web-kits/audio](../sites/web-kits-audio.md) — sounds written as plain objects (source, filter, envelope, effects) and saved as JSON patches that a CLI installs as typed modules; young 0.x API.
 - [Cuelume](../sites/cuelume.md) — a fixed palette of synthesised cues for hover, press, release, toggle and outcomes, with throttled hover sounds and silent failure when audio is blocked.
 - [sensory-ui](../sites/sensory-ui.md) — one extra `sound` prop on patched shadcn components, a central config with per-category mutes, and celebratory cues off by default; early preview.
 - [soundcn](../sites/soundcn.md) — 813 recorded clips installed one at a time through the shadcn CLI as base64 modules; Kenney audio is CC0, but the 110 Warcraft clips are non-commercial only.
 - [UI SFX](../sites/uisfx.md) — cues named by meaning (`success`, `blocked`, `add-to-cart`), stoppable loops for long states, built-in playback limits and saved mute preferences.
 - [User Interface Wiki](../sites/user-interface-wiki.md) — articles on sound on the web and generating sounds with AI, with sound rules inside a 152-rule MIT agent skill.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

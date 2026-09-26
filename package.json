@@ -1,0 +1,17 @@
+{
+  "name": "design-atlas",
+  "private": true,
+  "description": "Build and check script for the Design Atlas wiki",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check"
+  },
+  "devDependencies": {
+    "yaml": "2.9.1"
+  }
+}

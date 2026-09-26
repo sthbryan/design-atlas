@@ -1,3 +1,8 @@
+---
+title: Components
+description: component libraries, registries and design systems.
+order: 8
+---
 [← Atlas](../README.md)
 
 # Components
@@ -14,6 +19,7 @@ Component libraries, registries and design systems for building UI — from sing
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [21st.dev](../sites/21st-dev.md) — community registry of 12,000+ React/Tailwind components with an MCP server.
 - [3dicons](../sites/3dicons.md) — 1,500+ CC0 3D icons, also usable as decorative UI elements.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ landing-page components and effects (React, Tailwind, Framer Motion).
@@ -72,6 +78,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Uiverse](../sites/uiverse.md) — community gallery of standalone CSS/Tailwind UI snippets.
 - [VibePrompts](../sites/vibeprompts.md) — prompts that generate components instead of distributing their code.
 - [VibeUI](../sites/vibeui.md) — 92 layout-only prompts across 15 section types, to generate components that match an attached style screenshot.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

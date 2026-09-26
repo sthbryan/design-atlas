@@ -1,3 +1,8 @@
+---
+title: UX patterns
+description: principles, guidelines, checklists and pattern libraries for how interfaces should behave.
+order: 7
+---
 [← Atlas](../README.md)
 
 # UX patterns
@@ -14,6 +19,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [Design System Checklist](../sites/design-system-checklist.md) — 230 items across design language, foundations, 29 core components and maintenance, with accessibility items inside each component and progress shared as a link.
 - [Detail (detail.design)](../sites/detail-design.md) — short recordings of small decisions that make software feel considered, such as labels that focus their input or shortcut hints shown while a modifier is held.
 - [Devouring Details](../sites/devouring-details.md) — a paid interactive manual on why interactions feel right (inferring intent, choreography, contained gestures), with 23 chapters and downloadable React prototypes.
@@ -27,6 +33,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [UI Playbook](../sites/ui-playbook.md) — one page per component on purpose, states, responsive behaviour, best practices, implementation traps and WAI-ARIA requirements; no longer updated.
 - [UI Skills](../sites/ui-skills.md) — a directory of 306 agent skills, including accessibility and interaction fixes and `baseline-ui` rules written as MUST, SHOULD and NEVER lines.
 - [User Interface Wiki](../sites/user-interface-wiki.md) — nine articles with 37 interactive demos, and rules with prefixed IDs and priorities that an agent reports as `file:line` findings.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

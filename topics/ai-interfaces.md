@@ -1,3 +1,8 @@
+---
+title: AI interfaces
+description: chat and agent components, AI UX patterns and status visuals for AI products.
+order: 9
+---
 [← Atlas](../README.md)
 
 # AI interfaces
@@ -14,6 +19,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [Agentation](../sites/agentation.md) — element-attached notes with four output levels, React component detection and an open annotation schema with a pending, acknowledged and resolved lifecycle; PolyForm Shield.
 - [agentcn](../sites/agentcn.md) — backend agent recipes (deep search, chat with PDF, PR review, browser agent) in shadcn format for four frameworks; the logic behind a chat UI, with no screens of its own.
 - [Kobra](../sites/kobra.md) — proprietary components built for agent products: a sticky message scroller, plan cards for approving actions, hover citations and per-hunk diff review.
@@ -25,6 +31,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [The Shape of AI](../sites/shape-of-ai.md) — wayfinders, prompt actions, tuners, governors, trust builders and identifiers, cross-linked so a whole flow can be designed at once; CC BY-NC-SA.
 - [termcn](../sites/termcn.md) — Ink and OpenTUI components with streaming text, collapsible thinking, tool approval with risk badges, a model picker and a token and cost counter.
 - [Transitions.dev](../sites/transitions-dev.md) — an AI-states group of transitions: thinking shimmers, a reasoning stream, streaming text and an image-generation placeholder.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

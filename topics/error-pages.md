@@ -1,3 +1,8 @@
+---
+title: Error pages
+description: 404s and other dead-end pages worth turning into a moment.
+order: 6
+---
 [← Atlas](../README.md)
 
 # Error pages
@@ -10,7 +15,9 @@
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [404s](../sites/404s.md) — creatively designed error pages built on the idea that "404 pages are where joy and error meet."
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

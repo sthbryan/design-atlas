@@ -1,3 +1,8 @@
+---
+title: Footers
+description: footer structure, density and content patterns.
+order: 4
+---
 [← Atlas](../README.md)
 
 # Footers
@@ -10,8 +15,10 @@ Footer structure, density and content — the part of the page that quietly carr
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [Footer Design](../sites/footer-design.md) — footers filtered by typographic, illustrative, grid, animated, dark and large-type styles.
 - [Sections.wtf](../sites/sections-wtf.md) — footers recorded as short videos next to 21 other section types, with the rest of the same site's sections one click away.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

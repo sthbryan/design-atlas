@@ -1,3 +1,8 @@
+---
+title: Documentation
+description: how sites document components and style, for humans and agents.
+order: 10
+---
 [← Atlas](../README.md)
 
 # Documentation
@@ -14,6 +19,7 @@ How sites document components, design systems and style — for human readers an
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [Anime.js](../sites/animejs.md) — a clear, well-documented API that agents can follow to generate complex animations.
 - [Astryx](../sites/astryx.md) — a well-documented npm package with meta descriptions summarizing each component.
 - [The Book of Shaders](../sites/book-of-shaders.md) — teaching docs done well: a live, editable example next to every concept and a glossary that sends each term back to its chapter; all rights reserved.
@@ -32,6 +38,7 @@ How sites document components, design systems and style — for human readers an
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, star charts and headers, plus a README Studio that exports GitHub Markdown with light and dark image pairs.
 - [UI Playbook](../sites/ui-playbook.md) — one MDX page per component under the same headings: purpose, states, responsive behaviour, best practices, traps and accessibility.
 - [UIAble](../sites/uiable.md) — command-palette-searchable docs across components, blocks and templates.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

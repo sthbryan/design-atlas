@@ -1,3 +1,8 @@
+---
+title: Inspiration
+description: galleries of real interfaces and sites to look at before designing your own.
+order: 1
+---
 [← Atlas](../README.md)
 
 # Inspiration
@@ -14,6 +19,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [21st.dev](../sites/21st-dev.md) — community registry of React components with many variants per pattern.
 - [404s](../sites/404s.md) — curated 404 pages filtered by style, interaction and industry.
 - [60fps](../sites/60fps.md) — about 2,080 recordings of interactions from shipped iOS apps, filterable by gesture, pattern, effect and element, with frame-by-frame storyboards.
@@ -51,6 +57,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Typeface.fyi](../sites/typeface-fyi.md) — a Chrome extension to identify the fonts on any reference site you're browsing.
 - [Uiverse](../sites/uiverse.md) — community gallery of copy-paste CSS/Tailwind UI snippets.
 - [What Ships](../sites/what-ships.md) — about 2,220 startup launch videos posted on X, each with its duration, category and a link to the original post.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

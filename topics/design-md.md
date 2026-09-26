@@ -1,3 +1,8 @@
+---
+title: DESIGN.md files
+description: "design systems as single markdown files for agents: libraries, generators and how their formats compare."
+order: 15
+---
 [← Atlas](../README.md)
 
 # DESIGN.md files
@@ -14,6 +19,7 @@ Design systems written as a single markdown file an agent can read: the librarie
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [agentcn](../sites/agentcn.md) — an Extract DESIGN.md agent recipe that turns a domain into a DESIGN.md, a Tailwind v4 `@theme` block and CSS variables; needs a paid context.dev key.
 - [Aura](../sites/aura.md) — roughly 725 DESIGN.md pages attached to real, previewable HTML, reachable through a remote MCP.
 - [design.dev](../sites/design-dev.md) — a free visual DESIGN.md editor with live preview, eight lint rules that mirror Google's linter, and exports to CSS variables, Tailwind v4 or DTCG JSON; strict terms.
@@ -33,6 +39,7 @@ Design systems written as a single markdown file an agent can read: the librarie
 - [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that writes a DESIGN.md or SKILL.md from the open tab, locally.
 - [UI Skills](../sites/ui-skills.md) — 18 DESIGN.md files published by the companies themselves (Vercel, Atlassian, Clerk, the French government's DSFR) and a `create-design-md` skill.
 - [Vessa](../sites/vessa.md) — a contrasting format: hosted brand guidelines published as a versioned `brand.json` and a per-brand `llms.txt`, with motion tokens and an OAuth MCP.
+<!-- atlas:sources:end -->
 
 ## Format comparison
 

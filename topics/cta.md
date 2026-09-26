@@ -1,3 +1,8 @@
+---
+title: CTA
+description: "calls-to-action: buttons, forms, modals and conversion copy."
+order: 5
+---
 [← Atlas](../README.md)
 
 # CTA
@@ -13,6 +18,7 @@ Calls-to-action — buttons, forms, modals and the copy around them that's meant
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [CTA Gallery](../sites/cta-gallery.md) — buttons, forms and modals pulled from real sites, with a copywriting-tips resource alongside.
 - [Evil Buttons](../sites/evil-buttons.md) — 31 shadcn buttons, from useful hold-to-confirm, cooldown and morphing-status buttons to joke CTAs that dodge the cursor; Apache-2.0.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns from 642 shared A/B tests, such as repeating the CTA on long pages or a sticky CTA on mobile; effect sizes are members-only.
@@ -21,6 +27,7 @@ Calls-to-action — buttons, forms, modals and the copy around them that's meant
 - [Supahero](../sites/supahero.md) — about 570 real hero sections, useful for judging headline length, CTA count and what sits above the fold.
 - [VibePrompts](../sites/vibeprompts.md) — prompts for CTA-related sections such as pricing, contact and onboarding.
 - [VibeUI](../sites/vibeui.md) — 92 layout-only prompts, including CTA banners, hero variants with inline email forms and pricing tables, meant to be paired with a style screenshot.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

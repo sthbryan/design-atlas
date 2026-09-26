@@ -1,3 +1,8 @@
+---
+title: Motion
+description: animation libraries and motion patterns.
+order: 11
+---
 [← Atlas](../README.md)
 
 # Motion
@@ -14,6 +19,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [60fps](../sites/60fps.md) — interaction recordings filtered by gesture, pattern, effect and element; the MCP returns trigger/move/settle breakdowns and SwiftUI code.
 - [Aceternity UI](../sites/aceternity-ui.md) — animated backgrounds, bento grids and shaders for landing pages.
 - [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie icons with hover, click or loop playback.
@@ -59,6 +65,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [User Interface Wiki](../sites/user-interface-wiki.md) — articles on the 12 principles of animation, springs versus easing and exit animations, with concrete numbers and a 152-rule skill.
 - [Vessa](../sites/vessa.md) — hosted brand guidelines that document motion as named durations, easing curves and stagger you can copy as CSS or GSAP.
 - [What Ships](../sites/what-ships.md) — about 2,220 startup launch videos from X, for seeing how products pitch themselves in a minute of motion.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

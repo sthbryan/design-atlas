@@ -1,3 +1,8 @@
+---
+title: Assets
+description: icons, illustrations, sounds and social or store-listing visuals.
+order: 16
+---
 [← Atlas](../README.md)
 
 # Assets
@@ -14,6 +19,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [3dicons](../sites/3dicons.md) — rendered 3D icons for dashboards and modern interfaces.
 - [Animated Icons](../sites/animated-icons.md) — 4,000+ animated icons recoloured to your palette in the browser, commercial use without attribution.
 - [AppShot Gallery](../sites/appshot-gallery.md) — store-listing screenshot and icon references, filterable by style and tone of voice.
@@ -33,6 +39,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds, mostly CC0 from Kenney, installed one at a time as code; see the [Sound](sound.md) hub.
 - [UI SFX](../sites/uisfx.md) — 78 semantic interface sound cues in 12 packs; CC0 audio and an MIT runtime.
 - [useAnimations](../sites/useanimations.md) — 87 small animated stroke icons as SVG and Lottie; attribution required.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

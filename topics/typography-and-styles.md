@@ -1,3 +1,8 @@
+---
+title: Typography and styles
+description: type treatments and whole visual styles/design tokens.
+order: 13
+---
 [← Atlas](../README.md)
 
 # Typography and styles
@@ -14,6 +19,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 
 ## All sources
 
+<!-- atlas:sources:start -->
 - [Color.review](../sites/color-review.md) — a contrast check for one text and background pair, with the large-text size rules for AA and AAA explained under the tool.
 - [Craftwork](../sites/craftwork.md) — a paid marketplace whose catalogue includes display fonts, with an agent-only font catalogue on the Pro MCP.
 - [CSS Text Effects](../sites/css-text-effects.md) — animated text effects with `--ink`-style custom-property tokens.
@@ -48,6 +54,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [TypeUI](../sites/typeui.md) — styles named by aesthetic (neobrutalism, claymorphism, editorial) rather than brand, as DESIGN.md plus SKILL.md.
 - [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — reads the open tab's computed type, colour, spacing, radius and shadow values into a file.
 - [Vessa](../sites/vessa.md) — hosted brand guidelines whose type scale, palette roles, motion and voice are published as a `brand.json` per brand.
+<!-- atlas:sources:end -->
 
 ## Patterns worth reusing
 

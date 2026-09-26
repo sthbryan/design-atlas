@@ -12,6 +12,7 @@ A curated set of references for building websites and UI — galleries, componen
 
 ## Topics
 
+<!-- atlas:topics:start -->
 - [Inspiration](topics/inspiration.md) — galleries of real interfaces and sites to look at before designing your own.
 - [Landing pages](topics/landing-pages.md) — galleries, section libraries, templates and skills for marketing and launch pages.
 - [Navigation](topics/navigation.md) — navbars, menus and wayfinding patterns.
@@ -31,9 +32,11 @@ A curated set of references for building websites and UI — galleries, componen
 - [Icons](topics/icons.md) — outline, animated and 3D icon sets, and how to hand them to an agent.
 - [Sound](topics/sound.md) — interface sound cues, synthesis libraries and sound-enabled components.
 - [Agents and prompts](topics/agents-and-prompts.md) — sites built to be consumed directly by coding agents (MCP, llms.txt, CLIs, prompts).
+<!-- atlas:topics:end -->
 
 ## All sites
 
+<!-- atlas:sites:start -->
 | Site | Type | Topics | Verdict | Agent-ready |
 |---|---|---|---|---|
 | [agentcn](sites/agentcn.md) | Agent registry | agents-and-prompts, ai-interfaces, design-md | niche | Yes |
@@ -167,6 +170,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Screenshot to Code](sites/screenshot-to-code.md) | Tool | agents-and-prompts, components | useful | No |
 | [Shaderfrog](sites/shaderfrog.md) | Tool | 3d-and-shaders, inspiration | niche | No |
 | [Vessa](sites/vessa.md) | Tool | design-md, agents-and-prompts, typography-and-styles, motion | useful | Yes |
+<!-- atlas:sites:end -->
 
 ## Adding a site
 
