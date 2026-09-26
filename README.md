@@ -98,6 +98,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Butter Nav](sites/butter-nav.md) | component-library | navigation, motion, components | useful | registry, prompts | not-stated |
 | [Canvas UI](sites/canvas-ui.md) | component-library | 3d-and-shaders, components, motion | very-useful | llms-txt, registry | source-available |
 | [CSS Text Effects](sites/css-text-effects.md) | component-library | typography-and-styles, motion | useful | prompts | open-source-permissive |
+| [devl](sites/devl.md) | component-library | components, ux-patterns, agents-and-prompts | useful | registry | not-stated |
 | [Drawably](sites/drawably.md) | component-library | components, motion | useful | llms-txt | open-source-permissive |
 | [editorcn](sites/editorcn.md) | component-library | components, ux-patterns | useful | llms-txt, registry, api, skill | open-source-permissive |
 | [emailcn](sites/emailcn.md) | component-library | components, typography-and-styles | useful | llms-txt, registry | open-source-permissive |
@@ -161,6 +162,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [404s](sites/404s.md) | gallery | error-pages, inspiration | niche | llms-txt | not-stated |
 | [60fps](sites/60fps.md) | gallery | inspiration, motion, agents-and-prompts | very-useful | mcp, llms-txt | proprietary-paid |
 | [AppShot Gallery](sites/appshot-gallery.md) | gallery | inspiration, assets | niche | none | not-stated |
+| [Browse.cool](sites/browse-cool.md) | gallery | inspiration, typography-and-styles, motion | niche | none | not-stated |
 | [Collect UI](sites/collect-ui.md) | gallery | inspiration, components, motion | useful | none | not-stated |
 | [CTA Gallery](sites/cta-gallery.md) | gallery | cta, inspiration | niche | none | not-stated |
 | [Curated](sites/curated-design.md) | gallery | inspiration, landing-pages, typography-and-styles | very-useful | none | proprietary-paid |
@@ -170,8 +172,10 @@ A curated set of references for building websites and UI — galleries, componen
 | [Details](sites/details.md) | gallery | inspiration, motion, landing-pages, agents-and-prompts | very-useful | mcp, llms-txt | proprietary-paid |
 | [Footer Design](sites/footer-design.md) | gallery | footers, inspiration | niche | none | not-stated |
 | [Gradient Buttons](sites/gradient-buttons.md) | gallery | components, typography-and-styles | niche | none | not-stated |
+| [Hover States](sites/hover-states.md) | gallery | inspiration, motion, navigation | useful | none | proprietary-free |
 | [Inspora](sites/inspora.md) | gallery | inspiration, typography-and-styles | niche | llms-txt | not-stated |
 | [Kage](sites/kage.md) | gallery | inspiration, agents-and-prompts, components | very-useful | mcp, prompts | not-stated |
+| [Lab01](sites/lab01.md) | gallery | inspiration, components, typography-and-styles | niche | none | not-stated |
 | [Landing Love](sites/landing-love.md) | gallery | landing-pages, motion, inspiration | useful | llms-txt | not-stated |
 | [Loader Buttons](sites/loader-buttons.md) | gallery | components, cta, motion, 3d-and-shaders | niche | none | not-stated |
 | [loadmo.re](sites/loadmore.md) | gallery | inspiration, typography-and-styles, motion | useful | none | proprietary-free |
@@ -185,7 +189,10 @@ A curated set of references for building websites and UI — galleries, componen
 | [Sections.wtf](sites/sections-wtf.md) | gallery | inspiration, landing-pages, cta, footers | very-useful | none | not-stated |
 | [SEESAW](sites/seesaw.md) | gallery | inspiration, landing-pages, typography-and-styles | useful | none | not-stated |
 | [Supahero](sites/supahero.md) | gallery | inspiration, landing-pages, cta | niche | none | proprietary-free |
+| [UI Labs](sites/uilabs.md) | gallery | motion, components, inspiration | niche | none | not-stated |
 | [Uiverse](sites/uiverse.md) | gallery | components, inspiration | useful | none | not-stated |
+| [UIWTF](sites/uiwtf.md) | gallery | inspiration, ux-patterns, navigation | niche | none | not-stated |
+| [wwwtf.site](sites/wwwtf.md) | gallery | inspiration, 3d-and-shaders | niche | none | not-stated |
 | [Design System Checklist](sites/design-system-checklist.md) | guidelines | components, documentation, ux-patterns | useful | none | not-stated |
 | [Inclusive Components](sites/inclusive-components.md) | guidelines | components, ux-patterns, documentation | very-useful | none | not-stated |
 | [Laws of UX](sites/laws-of-ux.md) | guidelines | ux-patterns, documentation, agents-and-prompts | very-useful | llms-txt | cc-noncommercial |
