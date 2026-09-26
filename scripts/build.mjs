@@ -2,6 +2,7 @@ import { existsSync, readFileSync, readdirSync, writeFileSync, writeSync } from 
 import { dirname, join, relative, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'yaml';
+import { searchDoc, searchIndexJson } from '../skills/design-atlas/scripts/search.mjs';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const CHECK = process.argv.includes('--check');
@@ -221,6 +222,11 @@ outputs.set(`${SKILL_REFS}/catalog.json`, [
   '}',
   '',
 ].join('\n'));
+
+outputs.set(`${SKILL_REFS}/search-index.json`, searchIndexJson(
+  listed.map((s) => searchDoc(s, s.body)),
+  { name: 'Design Atlas search index', latest_review: catalogAbout.latest_review },
+));
 
 const hubSection = (body, name) => (body.match(new RegExp(`^## ${name}\\n([\\s\\S]*?)(?=^## |(?![\\s\\S]))`, 'm')) ?? [])[1] ?? '';
 const slugsIn = (text, pattern) => [...text.matchAll(pattern)].map((m) => `\`${m[1]}\``).join(', ');
