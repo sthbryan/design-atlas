@@ -174,3 +174,9 @@ A curated set of references for building websites and UI — galleries, componen
 2. Add a breadcrumb line at the top linking back to `../README.md` and to the relevant `../topics/<slug>.md` hubs.
 3. Add a row to the "All sites" table above, and link the page from every topic hub it belongs to (its "Start here" or "All sources" list).
 4. Keep facts verifiable (pricing, licence, stated numbers) and write ideas in your own words — no copied prose. Note the licence explicitly whenever it restricts reuse.
+
+## Licence
+
+- Content (the site pages, topic hubs, this README and the other Markdown files) is licensed under [CC BY 4.0](LICENSE). Credit "Design Atlas contributors" and link back to this repository when you reuse it.
+- Code (`scripts/` and any future `skills/`) is licensed under the [MIT licence](LICENSE-CODE).
+- Site names, logos and trademarks belong to their owners. Short quotes stay with their original authors, and the licence of every reviewed site still applies to that site's own code, assets and text.
