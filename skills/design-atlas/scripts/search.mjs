@@ -102,6 +102,7 @@ const SYNONYM_MAX_SHARE = 0.25;
 const FUZZY_WEIGHT = { 1: 0.7, 2: 0.5 };
 const STATUS_FACTOR = { active: 1, stale: 0.85, broken: 0.7 };
 const MIN_SHARE_OF_BEST = 0.25;
+const STYLE_QUERY_FILLER = new Set(['site', 'sites', 'websit', 'websites', 'web', 'design']);
 
 function unpack(packed) {
   const tf = new Map();
@@ -156,7 +157,8 @@ export function prepareSynonyms(raw) {
       if (phrase && !filters.has(phrase)) filters.set(phrase, hint);
     }
   }
-  return { synonyms, filters };
+  const visualStyles = new Set((raw?.visual_styles ?? []).flatMap((style) => tokenize(style)));
+  return { synonyms, filters, visualStyles };
 }
 
 function distance(a, b, max) {
@@ -194,7 +196,7 @@ function closest(word, candidates, df) {
   return best;
 }
 
-export function planQuery(query, corpus, { synonyms, filters }) {
+export function planQuery(query, corpus, { synonyms, filters, visualStyles = new Set() }) {
   const singles = [...synonyms.keys()].filter((k) => !k.includes(' '));
   const known = new Set([...corpus.df.keys(), ...singles]);
   const candidates = [...known].sort();
@@ -203,7 +205,9 @@ export function planQuery(query, corpus, { synonyms, filters }) {
   const unmatched = [];
   const hints = new Set();
   const dropped = [];
-  const raws = words(query);
+  const queryWords = words(query);
+  const hasVisualStyle = queryWords.some((raw) => visualStyles.has(stem(raw)));
+  const raws = hasVisualStyle ? queryWords.filter((raw) => !STYLE_QUERY_FILLER.has(stem(raw))) : queryWords;
   for (let i = 0; i < raws.length; i += 1) {
     const raw = raws[i];
     const word = stem(raw);
@@ -234,7 +238,8 @@ export function planQuery(query, corpus, { synonyms, filters }) {
   const usable = (term) => corpus.df.has(term) && corpus.df.get(term) <= corpus.n * SYNONYM_MAX_SHARE;
   const groups = base.map(([term, weight]) => {
     const group = new Map([[term, weight]]);
-    for (const alt of synonyms.get(term) ?? []) if (!terms.has(alt) && usable(alt)) group.set(alt, weight * SYNONYM_WEIGHT);
+    const synonymWeight = hasVisualStyle && visualStyles.has(term) ? 0.8 : SYNONYM_WEIGHT;
+    for (const alt of synonyms.get(term) ?? []) if (!terms.has(alt) && usable(alt)) group.set(alt, weight * synonymWeight);
     return group;
   });
   for (let i = 1; i < base.length; i += 1) {
@@ -244,7 +249,7 @@ export function planQuery(query, corpus, { synonyms, filters }) {
     if (group.size) groups.push(group);
   }
   const expanded = [...new Set(groups.flatMap((g) => [...g.keys()]).filter((t) => !terms.has(t)))];
-  return { terms, expanded, groups, corrected, unmatched, hints: [...hints], dropped };
+  return { terms, expanded, groups, corrected, unmatched, hints: [...hints], dropped, visualStyle: hasVisualStyle };
 }
 
 export function rank(sites, plan, corpus) {
@@ -275,7 +280,12 @@ export function rank(sites, plan, corpus) {
       }
       score += best;
     }
-    if (score > 0) out.push({ site, score: score * (STATUS_FACTOR[site.status] ?? 1), match });
+    if (score > 0) {
+      const styleFactor = plan.visualStyle
+        ? (site.type === 'gallery' ? 1.35 : 1) * (site.topics?.includes('typography-and-styles') ? 1.6 : 1)
+        : 1;
+      out.push({ site, score: score * (STATUS_FACTOR[site.status] ?? 1) * styleFactor, match });
+    }
   }
   const best = Math.max(0, ...out.map((r) => r.score));
   return out.filter((r) => r.score >= best * MIN_SHARE_OF_BEST);

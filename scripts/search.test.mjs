@@ -64,6 +64,32 @@ test('stale sites stay in the results', () => {
   for (const row of out.sites) assert.equal(row.status, 'stale');
 });
 
+test('visual-style searches ignore generic framing words and rank style galleries', () => {
+  const { code, out } = run('--search', 'brutalist website design');
+  assert.equal(code, 0);
+  assert.ok(out.search.terms.includes('brutalist'));
+  assert.ok(!out.search.terms.includes('websit'));
+  assert.ok(!out.search.terms.includes('design'));
+  const top = out.sites.slice(0, 3).map((site) => site.slug);
+  assert.ok(top.includes('loadmore'), `missing style-tagged gallery: ${top.join(', ')}`);
+  assert.ok(top.includes('curated-design'), `missing style-tagged gallery: ${top.join(', ')}`);
+});
+
+test('Spanish brutalismo finds the same visual-style references without fuzzy correction', () => {
+  const { code, out } = run('--search', 'brutalismo');
+  assert.equal(code, 0);
+  assert.deepEqual(out.search.corrected, []);
+  assert.ok(out.search.expanded.includes('neobrutalism'));
+  assert.ok(out.sites.slice(0, 3).some((site) => site.slug === 'curated-design'));
+});
+
+test('other named styles also prioritize style-focused galleries', () => {
+  const { code, out } = run('--search', 'editorial website design');
+  assert.equal(code, 0);
+  assert.deepEqual(out.search.terms, ['editorial']);
+  assert.ok(out.sites.slice(0, 3).some((site) => site.slug === 'inspora'));
+});
+
 test('the default limit still applies', () => {
   const { out, stderr } = run('--search', 'components');
   assert.equal(out.shown, 12);

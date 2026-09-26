@@ -3,7 +3,12 @@
     "--licence ship": ["ship", "shippable", "commercial", "commercially", "licence", "license", "licensed", "royalty free", "open source", "open-source"],
     "--pricing free,freemium": ["free", "gratis", "no budget"]
   },
+  "visual_styles": ["brutalism", "brutalist", "brutalismo", "brutalista", "neobrutalism", "editorial", "swiss", "minimal", "minimalist", "maximalist", "retro", "futuristic", "cyberpunk", "glassmorphism", "skeuomorphic", "bento"],
   "synonyms": {
+    "brutalismo": ["brutalism", "brutalist", "neobrutalism"],
+    "brutalista": ["brutalism", "brutalist", "neobrutalism"],
+    "brutalism": ["brutalist", "neobrutalism"],
+    "brutalist": ["brutalism", "neobrutalism"],
     "404": ["error-pages", "not found"],
     "pricing page": ["pricing", "landing-pages", "cta", "tiers", "plans"],
     "pricing": ["pricing page", "tiers", "plans"],
