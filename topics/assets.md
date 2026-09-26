@@ -84,7 +84,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Reicon](../sites/reicon.md) — 2,630 MIT UI icons in Outline and Filled, with framework packages, llms files and an MCP server.
 - [Remix Icon](../sites/remix-icon.md) — About 3,230 line-and-fill system icons with an official MCP server, under a custom free licence since January 2026.
 - [Rive](../sites/rive.md) — State-machine vector editor with MIT runtimes, an agent-friendly CLI and a local MCP; exporting needs a paid seat.
-- [Rueya Supply](../sites/rueya-supply.md) — Pre-launch wallpaper and graphics shop, at review a one-screen waitlist hero over a canvas glass gradient plus finished legal pages.
+- [Rueya Supply](../sites/rueya-supply.md) — Pre-launch shop whose one screen pairs 41.6px type at weight 300 on a 1.02 line height with an airy 1.75 body, over a cream-to-orange gradient.
 - [Rune Icons](../sites/rune-icons.md) — 220 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.
 - [Screan](../sites/screan.md) — Free MIT browser studio that exports store screenshots for every size and language as one ZIP.
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
