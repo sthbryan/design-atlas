@@ -158,6 +158,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [MicroKit](sites/microkit.md) | component-library | components, motion | useful | none | open-source-permissive |
 | [Motion Primitives](sites/motion-primitives.md) | component-library | motion, components, typography-and-styles | useful | cli | mixed |
 | [Nex UI](sites/nex-ui.md) | component-library | components, data-viz | niche | none | not-stated |
+| [Ninna UI](sites/ninna-ui.md) | component-library | components, landing-pages | useful | llms-txt, cli | open-source-permissive |
 | [ogimagecn](sites/ogimagecn.md) | component-library | components, assets | useful | llms-txt, registry, api, skill | open-source-permissive |
 | [Oneko](sites/oneko.md) | component-library | motion, components | niche | llms-txt, registry, prompts | mixed |
 | [Opensource UI](sites/opensource-ui.md) | component-library | components, assets | useful | llms-txt, skill | open-source-permissive |
@@ -185,6 +186,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Velora UI](sites/velora-ui.md) | component-library | components, landing-pages, motion | useful | llms-txt, registry | open-source-permissive |
 | [Vengeance UI](sites/vengeance-ui.md) | component-library | components, motion, landing-pages | useful | registry | open-source-permissive |
 | [21st.dev](sites/21st-dev.md) | component-registry | components, agents-and-prompts, inspiration | very-useful | mcp, cli, api | not-stated |
+| [23rd](sites/23rd.md) | component-registry | components, 3d-and-shaders, footers, error-pages | niche | llms-txt, registry, skill | not-stated |
 | [agentcn](sites/agentcn.md) | component-registry | agents-and-prompts, ai-interfaces, design-md | niche | llms-txt, registry, api, skill | open-source-permissive |
 | [Animate UI](sites/animate-ui.md) | component-registry | components, motion, icons | useful | llms-txt, registry | source-available |
 | [Base CN](sites/base-cn.md) | component-registry | components, agents-and-prompts | niche | llms-txt, registry | open-source-permissive |
@@ -199,13 +201,18 @@ The repository is private for now. Until it is public, both install commands nee
 | [Dot Matrix](sites/dot-matrix.md) | component-registry | components, motion | useful | registry | source-available |
 | [Eldora UI](sites/eldora-ui.md) | component-registry | components, motion, landing-pages | useful | llms-txt, registry | open-source-permissive |
 | [ForgeUI](sites/forgeui.md) | component-registry | components, motion, landing-pages | useful | registry, prompts | mixed |
+| [Great UI](sites/great-ui.md) | component-registry | components, motion | niche | registry | source-available |
 | [Kibo UI](sites/kibo-ui.md) | component-registry | components, landing-pages, agents-and-prompts | very-useful | mcp, cli, registry | open-source-permissive |
 | [Kokonut UI](sites/kokonut-ui.md) | component-registry | components, motion, ai-interfaces, landing-pages | very-useful | llms-txt, registry | mixed |
 | [mcpcn](sites/mcpcn.md) | component-registry | components, ai-interfaces, agents-and-prompts | useful | llms-txt, registry, api, skill | open-source-permissive |
+| [Nexvyn UI](sites/nexvyn-ui.md) | component-registry | components, motion | useful | registry | open-source-permissive |
 | [Odyssey UI](sites/odyssey-ui.md) | component-registry | components, motion | niche | llms-txt, registry | not-stated |
 | [Orbkit](sites/orbkit.md) | component-registry | 3d-and-shaders, ai-interfaces, components | useful | llms-txt, registry, api, skill | mixed |
+| [Pin UI](sites/pin-ui.md) | component-registry | components, motion | niche | registry | open-source-permissive |
 | [Re UI](sites/re-ui.md) | component-registry | components, landing-pages, agents-and-prompts | very-useful | mcp, llms-txt, registry, skill | mixed |
+| [Sera UI](sites/sera-ui.md) | component-registry | components, motion, landing-pages | niche | llms-txt, registry | open-source-permissive |
 | [Shadcn Studio](sites/shadcn-studio.md) | component-registry | components, landing-pages, color, agents-and-prompts | useful | mcp, llms-txt, registry | mixed |
+| [shadcn-cssinjs](sites/shadcn-cssinjs.md) | component-registry | components, agents-and-prompts | useful | llms-txt, registry, skill | open-source-permissive |
 | [shadcnblocks](sites/shadcnblocks.md) | component-registry | components, landing-pages, agents-and-prompts | very-useful | registry | proprietary-paid |
 | [shadercn](sites/shadercn.md) | component-registry | 3d-and-shaders, components, ai-interfaces | niche | llms-txt, registry, api, skill | mixed |
 | [Skiper UI](sites/skiper-ui.md) | component-registry | components, motion | niche | registry | proprietary-paid |
@@ -213,6 +220,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Sona UI](sites/sona-ui.md) | component-registry | components, motion, ux-patterns | useful | llms-txt, registry, api, skill | open-source-permissive |
 | [Spell UI](sites/spell-ui.md) | component-registry | components, motion, typography-and-styles | useful | llms-txt, registry | open-source-permissive |
 | [Tailark](sites/tailark.md) | component-registry | components, landing-pages | very-useful | registry, prompts | mixed |
+| [unlumen UI](sites/unlumen-ui.md) | component-registry | components, motion, navigation | useful | llms-txt, registry | mixed |
 | [Watermelon UI](sites/watermelon-ui.md) | component-registry | components, motion, landing-pages | very-useful | mcp, llms-txt, registry, api | open-source-permissive |
 | [Astryx](sites/astryx.md) | design-system | components, documentation | very-useful | cli | open-source-permissive |
 | [Carbon Design System](sites/carbon-design-system.md) | design-system | components, icons, documentation, agents-and-prompts | very-useful | mcp, llms-txt, skill | open-source-permissive |

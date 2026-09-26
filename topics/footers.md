@@ -16,6 +16,7 @@ Footer structure, density and content — the part of the page that quietly carr
 ## All sources
 
 <!-- atlas:sources:start -->
+- [23rd](../sites/23rd.md) — 14 showpiece shader, ASCII and footer components for React and Svelte 5 via the shadcn CLI, with an agent skill; no licence file.
 - [Footer Design](../sites/footer-design.md) — Gallery dedicated to footers, filtered by style, with an Editor's Choice flag.
 - [Sections.wtf](../sites/sections-wtf.md) — About 280 single landing-page sections recorded as video, filterable across 22 section types.
 <!-- atlas:sources:end -->

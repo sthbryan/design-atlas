@@ -16,6 +16,7 @@ order: 6
 ## All sources
 
 <!-- atlas:sources:start -->
+- [23rd](../sites/23rd.md) — 14 showpiece shader, ASCII and footer components for React and Svelte 5 via the shadcn CLI, with an agent skill; no licence file.
 - [404s](../sites/404s.md) — Curated gallery of 404 pages, filterable by style, interaction and industry.
 <!-- atlas:sources:end -->
 

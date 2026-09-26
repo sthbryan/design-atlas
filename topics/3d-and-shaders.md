@@ -20,6 +20,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 ## All sources
 
 <!-- atlas:sources:start -->
+- [23rd](../sites/23rd.md) — 14 showpiece shader, ASCII and footer components for React and Svelte 5 via the shadcn CLI, with an agent skill; no licence file.
 - [Backgrounds Supply](../sites/backgrounds-supply.md) — Paid lifetime library of gradient, AI and animated hero backgrounds, plus a free Gradient Lab shader tool.
 - [Blender](../sites/blender.md) — Free GPL 3D suite for making and baking web assets, with glTF export and an official MCP server.
 - [Canvas UI](../sites/canvas-ui.md) — 35 GPU effects over live, clickable HTML in WebGL or WebGPU, for six frameworks through a shadcn registry.
