@@ -1,0 +1,83 @@
+{
+  "topics": [
+    {
+      "slug": "icons",
+      "path": "topics/icons.md",
+      "title": "Icons",
+      "description": "fixture hub with fictional icon references."
+    },
+    {
+      "slug": "motion",
+      "path": "topics/motion.md",
+      "title": "Motion",
+      "description": "fixture hub with one fictional motion reference."
+    }
+  ],
+  "sites": [
+    {
+      "slug": "example-3d-icons",
+      "path": "sites/example-3d-icons.md",
+      "title": "Example 3D Icons",
+      "description": "Fictional rendered 3D icon set under a non-commercial licence, used as an eval fixture.",
+      "url": "https://3d.example.net",
+      "type": "icon-library",
+      "topics": [
+        "icons"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free / CC BY-NC 4.0 (non-commercial use only)",
+      "licence_class": "cc-noncommercial",
+      "reviewed": "2026-09-15",
+      "status": "active",
+      "related": [
+        "example-icons"
+      ]
+    },
+    {
+      "slug": "example-icons",
+      "path": "sites/example-icons.md",
+      "title": "Example Icons",
+      "description": "Fictional MIT outline icon set, used as an eval fixture.",
+      "url": "https://icons.example.org",
+      "type": "icon-library",
+      "topics": [
+        "icons"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free / MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-20",
+      "status": "active",
+      "related": [
+        "example-3d-icons"
+      ]
+    },
+    {
+      "slug": "example-motion-kit",
+      "path": "sites/example-motion-kit.md",
+      "title": "Example Motion Kit",
+      "description": "Fictional animated section library with paid Pro components, used as an eval fixture.",
+      "url": "https://motionkit.example.com",
+      "type": "component-library",
+      "topics": [
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "Not stated; free to browse, and Pro components need a paid plan",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-18",
+      "status": "active",
+      "related": [
+        "example-icons"
+      ]
+    }
+  ]
+}

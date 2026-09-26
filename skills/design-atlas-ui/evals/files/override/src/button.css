@@ -1,0 +1,8 @@
+.btn {
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+  border: 0;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font: 600 16px/1.2 system-ui, sans-serif;
+}

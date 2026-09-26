@@ -1,0 +1,8 @@
+body { font-family: Inter, sans-serif; margin: 0; color: #0F172A; }
+nav { display: flex; gap: 24px; padding: 16px 32px; }
+.hero { text-align: center; padding: 120px 24px; background: radial-gradient(circle at top, #C7D2FE, #FFFFFF); }
+.pill { border: 1px solid #A5B4FC; border-radius: 999px; padding: 4px 12px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.2em; }
+h1 em { color: #6366F1; }
+.btn { background: #6366F1; color: #FFFFFF; padding: 12px 24px; border-radius: 999px; }
+.features { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; padding: 64px 32px; }
+.card { border: 1px solid #E2E8F0; border-radius: 16px; padding: 24px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08); }

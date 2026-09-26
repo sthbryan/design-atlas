@@ -1,0 +1,22 @@
+[
+  {"query": "this dashboard looks like every other shadcn app lol. can you give app/(dash)/overview some actual character without breaking the components", "should_trigger": true},
+  {"query": "apply our DESIGN.md to the new onboarding screens in app/onboarding/*, they were built before we had it and the colours are all hardcoded", "should_trigger": true},
+  {"query": "critique the hero on localhost:3000, be harsh, the PM thinks it's fine and I don't", "should_trigger": true},
+  {"query": "can you write a DESIGN.md from our tailwind.config.ts and globals.css so the other agents stop inventing colours", "should_trigger": true},
+  {"query": "need a landing page for my partner's ceramics studio in Porto, plain html/css, nothing fancy but it shouldnt look like a template", "should_trigger": true},
+  {"query": "the dropdowns feel janky and the modal takes forever to open in src/components/ui, fix the motion pls", "should_trigger": true},
+  {"query": "add dark mode to the settings pages, our tokens live in src/styles/tokens.css and marketing wants it to follow the OS", "should_trigger": true},
+  {"query": "is components/checkout/PaymentForm.tsx ready to ship? mostly worried about keyboard users and the error states", "should_trigger": true},
+  {"query": "the empty states and loading skeletons in the projects list look like placeholders, polish them", "should_trigger": true},
+  {"query": "find me 5 galleries with good pricing page examples for a B2B fintech, with links, I just want to look", "should_trigger": false},
+  {"query": "write a design brief with references for our onboarding revamp that I can send to the freelance designer", "should_trigger": false},
+  {"query": "add a new site page for motion.dev to the atlas following TEMPLATE.md", "should_trigger": false},
+  {"query": "fix the TypeScript error in Button.tsx: Type 'string' is not assignable to type 'ButtonVariant'", "should_trigger": false},
+  {"query": "set up Storybook 8 for our component library with the vite builder", "should_trigger": false},
+  {"query": "write alt text for these 12 product photos in public/img/catalog, they're for the shop listing", "should_trigger": false},
+  {"query": "turn this Figma frame into React: https://www.figma.com/design/abc123/Checkout?node-id=12-40", "should_trigger": false},
+  {"query": "make me a slide deck summarising our Q3 design system progress for the all-hands", "should_trigger": false},
+  {"query": "our Lighthouse performance score dropped to 58 after the last deploy, LCP is 4.1s on mobile. what changed?", "should_trigger": false},
+  {"query": "add eslint-plugin-jsx-a11y to CI and make the build fail on errors", "should_trigger": false},
+  {"query": "rewrite the pricing page email campaign copy so it sounds less like a robot", "should_trigger": false}
+]

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Copperline · Bike repair subscriptions</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav>
+    <a href="/" class="logo">Copperline</a>
+    <a href="/plans">Plans</a>
+    <a href="/how-it-works">How it works</a>
+    <a href="/shops">Find a shop</a>
+    <a href="/login">Log in</a>
+  </nav>
+  <header class="hero">
+    <span class="pill">✨ New</span>
+    <h1>The <em>future</em> of bike repair</h1>
+    <p>Seamless, cutting-edge maintenance for every rider.</p>
+    <a href="/plans" class="btn" data-analytics="hero-cta">See plans</a>
+  </header>
+  <section class="features">
+    <div class="card"><h3>Fast</h3><p>Quick repairs.</p></div>
+    <div class="card"><h3>Reliable</h3><p>Trusted mechanics.</p></div>
+    <div class="card"><h3>Affordable</h3><p>Great prices.</p></div>
+  </section>
+  <section id="signup">
+    <form action="/api/waitlist" method="post">
+      <label for="email">Email</label>
+      <input id="email" name="email" type="email" autocomplete="email">
+      <label for="postcode">Postcode</label>
+      <input id="postcode" name="postcode" autocomplete="postal-code">
+      <button type="submit" data-analytics="waitlist-submit">Join the waitlist</button>
+    </form>
+  </section>
+  <footer>
+    <p>Copperline Cycles Ltd, registered in England and Wales, company no. 01234567.</p>
+    <a href="/terms">Terms</a>
+    <a href="/privacy">Privacy</a>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "name": "ledger-settings",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "5.4.10"
+  }
+}
