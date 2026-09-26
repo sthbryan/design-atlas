@@ -2950,6 +2950,33 @@
       ]
     },
     {
+      "slug": "feather",
+      "path": "sites/feather.md",
+      "title": "Feather",
+      "description": "The original 287-icon minimal stroke set that Lucide forked. MIT, still usable, but no new icons since 2022.",
+      "url": "https://feathericons.com",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. MIT licence",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "stale",
+      "note": "Frozen: no new icons since version 4.29.0 in March 2022; Lucide is the maintained fork.",
+      "related": [
+        "lucide",
+        "iconoir",
+        "tabler-icons",
+        "heroicons"
+      ]
+    },
+    {
       "slug": "fffuel",
       "path": "sites/fffuel.md",
       "title": "Fffuel",
@@ -3700,6 +3727,34 @@
         "animated-icons",
         "useanimations",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "heroicons",
+      "path": "sites/heroicons.md",
+      "title": "Heroicons",
+      "description": "Tailwind Labs' MIT set of 316 icons, each drawn in outline, solid, mini and micro sizes, with React and Vue packages.",
+      "url": "https://heroicons.com",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. MIT licence",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "stale",
+      "note": "In maintenance mode: no new icons since version 2.1.5 in July 2024.",
+      "related": [
+        "heroicons-animated",
+        "headless-ui",
+        "lucide",
+        "iconoir"
       ]
     },
     {
@@ -5181,6 +5236,36 @@
       ]
     },
     {
+      "slug": "lucide",
+      "path": "sites/lucide.md",
+      "title": "Lucide",
+      "description": "Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.",
+      "url": "https://lucide.dev",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets",
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free. ISC licence, with 115 icons inherited from Feather still covered by Feather's MIT licence (both notices are in the licence file)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "feather",
+        "lucide-animated",
+        "shadcn-ui",
+        "simple-icons",
+        "tabler-icons"
+      ]
+    },
+    {
       "slug": "magic-ui",
       "path": "sites/magic-ui.md",
       "title": "Magic UI",
@@ -5295,6 +5380,33 @@
         "useanimations",
         "icoon",
         "lottiefiles-motion-design"
+      ]
+    },
+    {
+      "slug": "material-symbols",
+      "path": "sites/material-symbols.md",
+      "title": "Material Symbols",
+      "description": "Google's Apache 2.0 variable icon font: about 3,900 symbols in three styles with fill, weight, grade and optical size axes.",
+      "url": "https://fonts.google.com/icons",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets",
+        "typography-and-styles"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. Apache License 2.0, as stated in Google's developer docs and the GitHub repository",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "iconify",
+        "phosphor",
+        "tabler-icons",
+        "fontsource"
       ]
     },
     {
@@ -6061,6 +6173,34 @@
       ]
     },
     {
+      "slug": "phosphor",
+      "path": "sites/phosphor.md",
+      "title": "Phosphor",
+      "description": "MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.",
+      "url": "https://phosphoricons.com",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets",
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. MIT licence across the core assets and the official packages",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "lucide",
+        "hugeicons",
+        "iconoir",
+        "remix-icon",
+        "shadcn-ui"
+      ]
+    },
+    {
       "slug": "pinterest",
       "path": "sites/pinterest.md",
       "title": "Pinterest",
@@ -6540,6 +6680,36 @@
         "mx-icons",
         "iconoir",
         "icons0"
+      ]
+    },
+    {
+      "slug": "remix-icon",
+      "path": "sites/remix-icon.md",
+      "title": "Remix Icon",
+      "description": "About 3,230 line-and-fill system icons with an official MCP server, under a custom free licence since January 2026.",
+      "url": "https://remixicon.com",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "Free for personal and commercial projects. Since version 4.9.0 (January 2026) it uses its own Remix Icon License v1.0 instead of Apache 2.0. The new licence bans selling the icons as a pack, building a competing icon library from them, and using them as a logo or brand mark. Attribution is optional",
+      "licence_class": "source-available",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "phosphor",
+        "hugeicons",
+        "iconify",
+        "simple-icons",
+        "shadcn-ui"
       ]
     },
     {
@@ -7765,6 +7935,36 @@
         "playgrnd",
         "paper-shaders",
         "shadercn"
+      ]
+    },
+    {
+      "slug": "tabler-icons",
+      "path": "sites/tabler-icons.md",
+      "title": "Tabler Icons",
+      "description": "Over 6,200 MIT outline and filled icons on a 2px grid, with packages for every major framework and llms.txt docs.",
+      "url": "https://tabler.io/icons",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets",
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free. The icon source is MIT for personal and commercial use. Optional paid bundles ($9 for compiled PNG, PDF and web font files; $69 for an all-products package with premium templates and illustrations) are one-time payments that support the project",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "lucide",
+        "feather",
+        "iconify",
+        "hugeicons",
+        "shadcn-ui"
       ]
     },
     {
