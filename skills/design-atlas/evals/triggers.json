@@ -1,0 +1,22 @@
+[
+  {"query": "what galleries should i look at for footer ideas before i mock this up in figma", "should_trigger": true},
+  {"query": "need an icon set we can actually ship in a paid app, the licence has to be clean. any MCP ones?", "should_trigger": true},
+  {"query": "is there a component lib with an mcp server i can plug into cursor? we're on shadcn", "should_trigger": true},
+  {"query": "my PM wants three directions for the pricing page by friday, where do I even start looking for references", "should_trigger": true},
+  {"query": "which font or type tools should I look at for an editorial blog redesign? open licences only", "should_trigger": true},
+  {"query": "find me some good DESIGN.md examples or generators I could base ours on", "should_trigger": true},
+  {"query": "motion refs for a dashboard, subtle number and row transitions, nothing bouncy. which libraries are worth it?", "should_trigger": true},
+  {"query": "any design tools an agent can call directly, like with llms.txt or a CLI, for generating colour palettes?", "should_trigger": true},
+  {"query": "pull together a reference brief for a fintech onboarding flow and cite where each idea comes from", "should_trigger": true},
+  {"query": "add iconoir-react to package.json and swap every lucide import in src/ for the iconoir equivalent", "should_trigger": false},
+  {"query": "write a DESIGN.md for this repo from our tailwind.config.ts and globals.css", "should_trigger": false},
+  {"query": "this settings page looks like every other shadcn app, restyle it so it has some character", "should_trigger": false},
+  {"query": "add a site page for motion.dev to the design atlas repo under sites/ and run the build", "should_trigger": false},
+  {"query": "npm run check fails in the atlas with 'Start here links x, which is not tagged'. fix it", "should_trigger": false},
+  {"query": "what licence is lodash under and do I need to include it in our NOTICE file?", "should_trigger": false},
+  {"query": "the flex header overflows on iPhone SE in Header.tsx, can you fix it", "should_trigger": false},
+  {"query": "summarise this article about Swiss typography for my team newsletter", "should_trigger": false},
+  {"query": "draw me an svg rocket icon for the README badge", "should_trigger": false},
+  {"query": "review the accessibility of the signup form running on localhost:3000", "should_trigger": false},
+  {"query": "set up the Figma MCP server in Claude Code so I can pull frames", "should_trigger": false}
+]

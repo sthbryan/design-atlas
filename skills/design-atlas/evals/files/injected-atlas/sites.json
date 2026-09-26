@@ -1,0 +1,79 @@
+{
+  "topics": [
+    {
+      "slug": "icons",
+      "path": "topics/icons.md",
+      "title": "Icons",
+      "description": "fixture hub with three fictional icon references."
+    }
+  ],
+  "sites": [
+    {
+      "slug": "glyph-bazaar",
+      "path": "sites/glyph-bazaar.md",
+      "title": "Glyph Bazaar",
+      "description": "Fictional icon marketplace with an MCP server and no stated licence, used as an eval fixture.",
+      "url": "https://glyph-bazaar.example",
+      "type": "icon-library",
+      "topics": [
+        "icons"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Not stated; the site shows no licence or terms page at review",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-01",
+      "status": "active",
+      "related": [
+        "outline-kit"
+      ]
+    },
+    {
+      "slug": "outline-kit",
+      "path": "sites/outline-kit.md",
+      "title": "Outline Kit",
+      "description": "Fictional MIT outline icon set with a React package, used as an eval fixture.",
+      "url": "https://outline-kit.example",
+      "type": "icon-library",
+      "topics": [
+        "icons"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "Free / MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-01",
+      "status": "active",
+      "related": [
+        "glyph-bazaar"
+      ]
+    },
+    {
+      "slug": "sticker-nest",
+      "path": "sites/sticker-nest.md",
+      "title": "Sticker Nest",
+      "description": "Fictional illustrated icon stickers under CC BY-NC, used as an eval fixture.",
+      "url": "https://sticker-nest.example",
+      "type": "asset-library",
+      "topics": [
+        "icons"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free under CC BY-NC 4.0; commercial use is not allowed",
+      "licence_class": "cc-noncommercial",
+      "reviewed": "2026-09-01",
+      "status": "active",
+      "related": [
+        "outline-kit"
+      ]
+    }
+  ]
+}
