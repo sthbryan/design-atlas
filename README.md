@@ -77,6 +77,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Wondel.ai Skills](sites/wondelai-skills.md) | agent-skill-collection | agent-skills, ux-patterns, typography-and-styles | useful | skill | open-source-permissive |
 | [Aura](sites/aura.md) | ai-builder | agents-and-prompts, design-md, components, assets | useful | mcp | proprietary-paid |
 | [Kombai](sites/kombai.md) | ai-builder | agents-and-prompts, inspiration, landing-pages | useful | mcp, llms-txt, skill | proprietary-paid |
+| [Mascofast](sites/mascofast.md) | ai-builder | assets, motion, agents-and-prompts | niche | llms-txt | proprietary-paid |
 | [Neuform](sites/neuform.md) | ai-builder | design-md, agents-and-prompts, inspiration, landing-pages | useful | prompts | proprietary-paid |
 | [Backgrounds Supply](sites/backgrounds-supply.md) | asset-library | assets, landing-pages, 3d-and-shaders | useful | llms-txt | proprietary-paid |
 | [Circle Loaders](sites/circle-loaders.md) | asset-library | components, motion, assets | niche | none | not-stated |
@@ -84,6 +85,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Departure Mono](sites/departure-mono.md) | asset-library | typography-and-styles, assets | very-useful | none | open-source-permissive |
 | [Fontshare](sites/fontshare.md) | asset-library | typography-and-styles, assets | very-useful | api | mixed |
 | [Fontsource](sites/fontsource.md) | asset-library | typography-and-styles, assets | very-useful | llms-txt, api, prompts | open-source-permissive |
+| [Icoon](sites/icoon.md) | asset-library | icons, assets | niche | none | proprietary-paid |
 | [Kitbitz](sites/kitbitz.md) | asset-library | assets, components | useful | none | not-stated |
 | [Klim Type Foundry](sites/klim.md) | asset-library | typography-and-styles, inspiration | useful | none | proprietary-paid |
 | [shieldcn](sites/shieldcn.md) | asset-library | assets, documentation, agents-and-prompts | useful | llms-txt, registry, skill | open-source-permissive |
@@ -163,6 +165,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [60fps](sites/60fps.md) | gallery | inspiration, motion, agents-and-prompts | very-useful | mcp, llms-txt | proprietary-paid |
 | [Appinspo](sites/appinspo.md) | gallery | inspiration, agents-and-prompts, design-md | useful | prompts | not-stated |
 | [AppShot Gallery](sites/appshot-gallery.md) | gallery | inspiration, assets | niche | none | not-stated |
+| [before.click](sites/before-click.md) | gallery | inspiration, ux-patterns, agent-skills | useful | skill | mixed |
 | [Browse.cool](sites/browse-cool.md) | gallery | inspiration, typography-and-styles, motion | niche | none | not-stated |
 | [Collect UI](sites/collect-ui.md) | gallery | inspiration, components, motion | useful | none | not-stated |
 | [CTA Gallery](sites/cta-gallery.md) | gallery | cta, inspiration | niche | none | not-stated |
@@ -264,10 +267,12 @@ A curated set of references for building websites and UI — galleries, componen
 | [OpenMotion](sites/openmotion.md) | tool | motion, agents-and-prompts | niche | none | not-stated |
 | [Playgrnd](sites/playgrnd.md) | tool | assets, motion | useful | none | not-stated |
 | [Ramps](sites/ramps.md) | tool | color, typography-and-styles, agents-and-prompts | very-useful | llms-txt, api, prompts | open-source-permissive |
+| [Screan](sites/screan.md) | tool | assets, landing-pages | useful | none | open-source-permissive |
 | [Screenshot to Code](sites/screenshot-to-code.md) | tool | agents-and-prompts, components | useful | none | mixed |
 | [Shaderfrog](sites/shaderfrog.md) | tool | 3d-and-shaders, inspiration | niche | none | mixed |
 | [Tabbied](sites/tabbied.md) | tool | assets, components, agents-and-prompts | very-useful | mcp, llms-txt, cli | open-source-permissive |
 | [Tooooools](sites/tooooools.md) | tool | assets, typography-and-styles | useful | none | proprietary-free |
+| [ui.camera](sites/ui-camera.md) | tool | assets, 3d-and-shaders, motion | useful | none | proprietary-paid |
 | [Utopia](sites/utopia.md) | tool | typography-and-styles, landing-pages | very-useful | none | mixed |
 | [Vessa](sites/vessa.md) | tool | design-md, agents-and-prompts, typography-and-styles, motion | useful | mcp, llms-txt | not-stated |
 | [Wakamai Fondue](sites/wakamai-fondue.md) | tool | typography-and-styles, assets | useful | cli | open-source-permissive |

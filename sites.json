@@ -861,6 +861,35 @@
       ]
     },
     {
+      "slug": "before-click",
+      "path": "sites/before-click.md",
+      "title": "before.click",
+      "description": "361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.",
+      "url": "https://before.click",
+      "type": "gallery",
+      "formats": "gallery · agent skill",
+      "topics": [
+        "inspiration",
+        "ux-patterns",
+        "agent-skills"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "free to browse with no login. Paid sponsor slots run from $29 a day to $449 a month. No terms page or licence for the images is published; the companion ASO skill is MIT",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "appshot-gallery",
+        "screan",
+        "design-mobile-apps",
+        "what-ships"
+      ]
+    },
+    {
       "slug": "bencho",
       "path": "sites/bencho.md",
       "title": "Bencho",
@@ -3201,6 +3230,32 @@
       ]
     },
     {
+      "slug": "icoon",
+      "path": "sites/icoon.md",
+      "title": "Icoon",
+      "description": "About 1,500 AI-generated 3D icons, characters and shapes as PNGs, one-time $29, revocable licence.",
+      "url": "https://www.icoon.co",
+      "type": "asset-library",
+      "formats": "asset library · AI-generated 3D icons and illustrations",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "freemium. About 135 to 142 freebies, and Pro is a one-time $29 (listed as half of $59 with a launch code) for everything. A custom proprietary licence allows personal and commercial use but forbids redistribution. All sales are final",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "3dicons",
+        "kitbitz",
+        "craftwork",
+        "mascofast"
+      ]
+    },
+    {
       "slug": "impeccable",
       "path": "sites/impeccable.md",
       "title": "Impeccable",
@@ -4023,6 +4078,35 @@
         "uiable",
         "21st-dev",
         "component-gallery"
+      ]
+    },
+    {
+      "slug": "mascofast",
+      "path": "sites/mascofast.md",
+      "title": "Mascofast",
+      "description": "Paid AI tool that turns text or photos into mascots, exported as transparent GIF, WebM or Lottie.",
+      "url": "https://mascofast.com",
+      "type": "ai-builder",
+      "formats": "AI generator · mascot images and animations",
+      "topics": [
+        "assets",
+        "motion",
+        "agents-and-prompts"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "paid",
+      "licence": "paid credits, with no free generation. Starter is $9, Growth $29 and Studio $89 a month, plus top-ups that never expire. You own what you generate and may use it commercially without attribution. Free gallery files have a separate non-resale licence",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "animated-icons",
+        "useanimations",
+        "icoon",
+        "lottiefiles-motion-design"
       ]
     },
     {
@@ -4997,6 +5081,31 @@
         "textmotion",
         "torph",
         "rareui"
+      ]
+    },
+    {
+      "slug": "screan",
+      "path": "sites/screan.md",
+      "title": "Screan",
+      "description": "Free MIT browser studio that exports store screenshots for every size and language as one ZIP.",
+      "url": "https://screan.app",
+      "type": "tool",
+      "formats": "tool · open-source web app",
+      "topics": [
+        "assets",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "free, no account; source is MIT (© 2025 Patrice Cassard, repo `cassardp/Screan`). Optional Buy Me a Coffee. AI translation uses your own Claude API key and is billed by Anthropic",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "before-click",
+        "appshot-gallery",
+        "ui-camera"
       ]
     },
     {
@@ -6134,6 +6243,33 @@
         "design-md-chrome",
         "vibeprompts",
         "refero-styles"
+      ]
+    },
+    {
+      "slug": "ui-camera",
+      "path": "sites/ui-camera.md",
+      "title": "ui.camera",
+      "description": "Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.",
+      "url": "https://ui.camera",
+      "type": "tool",
+      "formats": "tool · browser studio · Chrome extension",
+      "topics": [
+        "assets",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "freemium. Free is for personal use only (1 project, 3 captures and 1 video a week). Pro costs $16 a month and Unlimited $29 a month, with about 28% off yearly; both include a commercial-use licence. No terms of service are published at review",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "screan",
+        "rebrand-gallery",
+        "what-ships",
+        "craftwork"
       ]
     },
     {
