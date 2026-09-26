@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # React Bits
 
 - **URL:** https://reactbits.dev
 - **Type:** component library
-- **Topics:** components, motion, interactions, agents-and-prompts
+- **Topics:** components, motion, agents-and-prompts, 3d-and-shaders
 - **Pricing / licence:** MIT + Commons Clause (DavidHDev/react-bits); React Bits Pro is commercial
 - **Reviewed:** 2026-09-25
 
