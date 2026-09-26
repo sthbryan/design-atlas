@@ -120,7 +120,7 @@ for (const s of sites) {
   }
   if (d.topics !== undefined) checkList(s.path, 'topics', d.topics, topicSlugs, { min: 1, max: MAX_TOPICS });
   if (d.agent !== undefined) checkList(s.path, 'agent', d.agent, VOCAB.agent);
-  if (d.related !== undefined) checkList(s.path, 'related', d.related, sites.map((x) => x.slug).filter((x) => x !== s.slug), { min: 1 });
+  if (d.related !== undefined) checkList(s.path, 'related', d.related, sites.filter((x) => x.slug !== s.slug && x.data.status !== 'removed').map((x) => x.slug), { min: 1 });
   if (d.reviewed !== undefined) {
     if (!validDate(d.reviewed)) fail(s.path, `reviewed "${d.reviewed}" must be a YYYY-MM-DD date`);
     else if (new Date(`${d.reviewed}T00:00:00Z`) > today) fail(s.path, `reviewed ${d.reviewed} is in the future`);
@@ -218,6 +218,8 @@ outputs.set('llms.txt', [
   '- [sites.json](sites.json): the same metadata as JSON, one object per site, plus the topic list',
   '- [README](README.md): the human-facing index and sites table',
   '- [Page template](TEMPLATE.md): the frontmatter fields and sections every site page uses',
+  '- [Contributing](CONTRIBUTING.md): how sites are added, reviewed and removed, and the allowed frontmatter values',
+  '- [AGENTS.md](AGENTS.md): how agents should read and edit this repository',
   '',
 ].join('\n'));
 

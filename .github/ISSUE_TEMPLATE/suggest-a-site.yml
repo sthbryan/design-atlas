@@ -1,0 +1,109 @@
+name: Suggest a site
+description: Propose a design reference for the Design Atlas
+title: "Site: "
+labels: [suggestion]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Site name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: The canonical https:// address.
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: The closest match from the atlas vocabulary.
+      options:
+        - gallery
+        - component-library
+        - component-registry
+        - design-system
+        - js-library
+        - icon-library
+        - asset-library
+        - sound-library
+        - style-library
+        - prompt-library
+        - template-library
+        - pattern-library
+        - documentation
+        - guidelines
+        - directory
+        - tool
+        - design-workspace
+        - browser-extension
+        - ai-builder
+        - agent-skill
+        - agent-skill-collection
+    validations:
+      required: true
+  - type: checkboxes
+    id: topics
+    attributes:
+      label: Topics
+      description: Pick up to four hubs.
+      options:
+        - label: inspiration
+        - label: landing-pages
+        - label: navigation
+        - label: footers
+        - label: cta
+        - label: error-pages
+        - label: ux-patterns
+        - label: components
+        - label: ai-interfaces
+        - label: documentation
+        - label: motion
+        - label: 3d-and-shaders
+        - label: typography-and-styles
+        - label: color
+        - label: design-md
+        - label: assets
+        - label: icons
+        - label: sound
+        - label: agents-and-prompts
+        - label: agent-skills
+  - type: textarea
+    id: why
+    attributes:
+      label: When would you open it, and what is it best at?
+      description: A few sentences in your own words.
+    validations:
+      required: true
+  - type: checkboxes
+    id: agent
+    attributes:
+      label: Agent access you have seen
+      options:
+        - label: MCP server
+        - label: llms.txt or Markdown docs for agents
+        - label: CLI
+        - label: shadcn-compatible registry
+        - label: HTTP API or OpenAPI
+        - label: Copyable prompts
+        - label: Agent skill
+        - label: None
+  - type: textarea
+    id: licence
+    attributes:
+      label: Pricing and licence
+      description: What the site states about price and reuse, with links if you have them.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: The site is not already in the atlas.
+          required: true
+        - label: I am not affiliated with the site, or I describe the affiliation above.
+          required: true

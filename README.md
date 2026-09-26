@@ -8,7 +8,8 @@ A curated set of references for building websites and UI — galleries, componen
 - Open a single site page for its full picture: what it is, when to reach for it, and how to hand it to an agent.
 - Copy a page's "Reusable ideas" straight into a design brief instead of re-deriving them from scratch.
 - Point a coding agent at one site page, or at a whole topic hub, when you want it to work from curated references instead of guessing.
-- Check "Agent-ready" in the sites table below before assuming a site exposes an MCP server, CLI, or a copyable prompt.
+- Check "Agent access" in the sites table below before assuming a site exposes an MCP server, `llms.txt`, CLI, registry, API, copyable prompts or an agent skill; "none" means an agent has nothing to call.
+- Agents can start from [llms.txt](llms.txt) or [sites.json](sites.json), which carry every page's metadata; [AGENTS.md](AGENTS.md) explains how to read and edit the atlas.
 
 ## Topics
 
@@ -205,10 +206,7 @@ A curated set of references for building websites and UI — galleries, componen
 
 ## Adding a site
 
-1. Copy `TEMPLATE.md` to `sites/<slug>.md` and fill it in.
-2. Add a breadcrumb line at the top linking back to `../README.md` and to the relevant `../topics/<slug>.md` hubs.
-3. Add a row to the "All sites" table above, and link the page from every topic hub it belongs to (its "Start here" or "All sources" list).
-4. Keep facts verifiable (pricing, licence, stated numbers) and write ideas in your own words — no copied prose. Note the licence explicitly whenever it restricts reuse.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add, update or remove a site, the frontmatter fields and their allowed values, and the review and writing rules. In short: copy `TEMPLATE.md` to `sites/<slug>.md`, fill in the frontmatter and sections, then run `npm run build` and `npm run check`. The table above, the hub lists, `llms.txt` and `sites.json` are generated, so don't edit them by hand.
 
 ## Licence
 
