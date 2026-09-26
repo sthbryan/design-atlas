@@ -1101,6 +1101,32 @@
       ]
     },
     {
+      "slug": "bestdesignsonx",
+      "path": "sites/bestdesignsonx.md",
+      "title": "Best Designs on X",
+      "description": "Hourly feed of 9,400+ credited design posts from X, plus Instagram, Dribbble, Behance, fonts, app icons and OG images; Panda Network, sponsor-funded.",
+      "url": "https://bestdesignsonx.com",
+      "type": "gallery",
+      "formats": "inspiration feed of design posts from X, Instagram, Dribbble and Behance",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; a free account saves items. Paid options are aimed at designers and brands: a \"Looking for design?\" showcase sold by monthly bid ($10 to $2,500 a month in the site's code) and Panda Network sponsor slots with backlinks. No terms, privacy page or licence was found, and the work shown belongs to the credited creators",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "collect-ui",
+        "curations-supply",
+        "appinspo",
+        "recent-design"
+      ]
+    },
+    {
       "slug": "blender",
       "path": "sites/blender.md",
       "title": "Blender",
@@ -1701,6 +1727,33 @@
       ]
     },
     {
+      "slug": "curations-supply",
+      "path": "sites/curations-supply.md",
+      "title": "Curations Supply",
+      "description": "Panda Network's directory of about 290 curated galleries, type, colour, UX and component sites, each with a logo, screenshot and one-line summary.",
+      "url": "https://curations.supply",
+      "type": "directory",
+      "formats": "directory of design galleries, resource sites and tools",
+      "topics": [
+        "inspiration",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; a free account saves favourites. Paid visibility is sold through Panda Network's advertising page. The terms (dated 31 August 2026) say the site's branding, layout and original content belong to Panda Network and may not be copied or adapted without written consent; they also rule out scraping that burdens the service",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "bestdesignsonx",
+        "collect-ui",
+        "designeer",
+        "seesaw",
+        "navbar-gallery"
+      ]
+    },
+    {
       "slug": "daisyui",
       "path": "sites/daisyui.md",
       "title": "daisyUI",
@@ -1784,6 +1837,34 @@
         "8bitcn",
         "termcn",
         "typeface-fyi"
+      ]
+    },
+    {
+      "slug": "design-bookmark",
+      "path": "sites/design-bookmark.md",
+      "title": "DesignBookmark",
+      "description": "Directory of about 2,500 design, dev and AI tools in 59 categories, with a page per tool, clear sponsor labels and an llms.txt with counts.",
+      "url": "https://designbookmark.com",
+      "type": "directory",
+      "formats": "directory of design, development and AI tools · llms.txt",
+      "topics": [
+        "inspiration",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse; a Google sign-in syncs bookmarks. Listing a tool has been free since 18 September 2026, according to the terms. Sponsorships are arranged by email and marked on the card, and some outbound links may be affiliate links. Product names, logos and screenshots belong to their owners; no licence is given for the directory's own text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "designeer",
+        "insposite",
+        "curations-supply",
+        "libraries-dev-orbs"
       ]
     },
     {
@@ -4052,6 +4133,33 @@
       ]
     },
     {
+      "slug": "imageory",
+      "path": "sites/imageory.md",
+      "title": "Imageory",
+      "description": "Small personal gallery of 125 AI-generated backgrounds and textures, each with its full prompt ready to copy; no licence stated.",
+      "url": "https://www.imageory.in",
+      "type": "prompt-library",
+      "formats": "AI image gallery · prompt library",
+      "topics": [
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse without an account; a free account (email or Google) adds favourites. No terms, privacy page or licence is published, for either the images or the prompt text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "vibeprompts",
+        "fffuel",
+        "poly-haven"
+      ]
+    },
+    {
       "slug": "impeccable",
       "path": "sites/impeccable.md",
       "title": "Impeccable",
@@ -4167,6 +4275,32 @@
       ]
     },
     {
+      "slug": "insposite",
+      "path": "sites/insposite.md",
+      "title": "Insposite",
+      "description": "Hand-picked list of 70 inspiration sites, designer portfolios and tools for design engineers, with its data file public on GitHub.",
+      "url": "https://www.insposite.com",
+      "type": "directory",
+      "formats": "small curated directory of portfolios, inspiration sites and tools · open-source site",
+      "topics": [
+        "inspiration",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, no account. The footer says linked content belongs to its creators. The site's code is public on GitHub and the README says MIT, but the repository has no LICENSE file and GitHub detects no licence",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "designeer",
+        "minimal-gallery",
+        "seesaw",
+        "appinspo"
+      ]
+    },
+    {
       "slug": "interface-design",
       "path": "sites/interface-design.md",
       "title": "Interface Design",
@@ -4258,6 +4392,31 @@
         "impeccable",
         "hallmark",
         "oklch"
+      ]
+    },
+    {
+      "slug": "jessy-in-gallery",
+      "path": "sites/jessy-in-gallery.md",
+      "title": "Jessy In's Gallery",
+      "description": "Social art gallery built on MoMA's open collection, with shared two-player curation, live chat, postcards and WebMCP tools for browser agents.",
+      "url": "https://gallery.jessyin.world",
+      "type": "gallery",
+      "formats": "art browsing gallery · shared curation game",
+      "topics": [
+        "inspiration",
+        "ai-interfaces"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, no accounts. The terms call it a personal, non-commercial project with no uptime promise. Artwork images and metadata come from the Museum of Modern Art's open collection; the site claims no rights to the works, which stay with their creators and rights holders",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "minimal-gallery",
+        "designeer",
+        "shape-of-ai"
       ]
     },
     {

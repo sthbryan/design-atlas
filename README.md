@@ -212,7 +212,10 @@ The repository is private for now. Until it is public, both install commands nee
 | [Penpot](sites/penpot.md) | design-workspace | components, agents-and-prompts, typography-and-styles | very-useful | mcp, llms-txt | open-source-copyleft |
 | [Pinterest](sites/pinterest.md) | design-workspace | inspiration, typography-and-styles | useful | api | proprietary-free |
 | [Uiuno](sites/uiuno.md) | design-workspace | components, motion, agents-and-prompts | niche | registry | not-stated |
+| [Curations Supply](sites/curations-supply.md) | directory | inspiration, assets | useful | none | proprietary-free |
+| [DesignBookmark](sites/design-bookmark.md) | directory | inspiration, assets | niche | llms-txt | not-stated |
 | [Designeer](sites/designeer.md) | directory | inspiration, components, assets | useful | llms-txt | not-stated |
+| [Insposite](sites/insposite.md) | directory | inspiration, assets | niche | none | not-stated |
 | [Shadcn Labs](sites/shadcn-labs.md) | directory | components, agents-and-prompts, documentation | useful | none | open-source-permissive |
 | [Shoogle](sites/shoogle.md) | directory | components, agents-and-prompts, inspiration | useful | mcp, registry, skill | proprietary-free |
 | [UI Skills](sites/ui-skills.md) | directory | agent-skills, design-md, motion, ux-patterns | very-useful | mcp, llms-txt, cli, skill | mixed |
@@ -232,6 +235,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Appinspo](sites/appinspo.md) | gallery | inspiration, agents-and-prompts, design-md | useful | prompts | not-stated |
 | [AppShot Gallery](sites/appshot-gallery.md) | gallery | inspiration, assets | niche | none | not-stated |
 | [before.click](sites/before-click.md) | gallery | inspiration, ux-patterns, agent-skills | useful | skill | mixed |
+| [Best Designs on X](sites/bestdesignsonx.md) | gallery | inspiration, typography-and-styles | useful | none | not-stated |
 | [Best SaaS Web Designs](sites/best-saas-web-designs.md) | gallery | landing-pages, inspiration | useful | llms-txt | proprietary-free |
 | [Browse.cool](sites/browse-cool.md) | gallery | inspiration, typography-and-styles, motion | niche | none | not-stated |
 | [Collect UI](sites/collect-ui.md) | gallery | inspiration, components, motion | useful | none | not-stated |
@@ -249,6 +253,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Hover States](sites/hover-states.md) | gallery | inspiration, motion, navigation | useful | none | proprietary-free |
 | [Icon Museum](sites/icon-museum.md) | gallery | icons, inspiration, color | useful | none | not-stated |
 | [Inspora](sites/inspora.md) | gallery | inspiration, typography-and-styles | niche | llms-txt | not-stated |
+| [Jessy In's Gallery](sites/jessy-in-gallery.md) | gallery | inspiration, ai-interfaces | niche | none | not-stated |
 | [Kage](sites/kage.md) | gallery | inspiration, agents-and-prompts, components | very-useful | mcp, prompts | not-stated |
 | [Lab01](sites/lab01.md) | gallery | inspiration, components, typography-and-styles | niche | none | not-stated |
 | [Landbook](sites/land-book.md) | gallery | landing-pages, inspiration | useful | llms-txt | proprietary-paid |
@@ -321,6 +326,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Torph](sites/torph.md) | js-library | motion, typography-and-styles, components | useful | none | open-source-permissive |
 | [Good UI](sites/good-ui.md) | pattern-library | cta, ux-patterns, landing-pages | useful | none | proprietary-paid |
 | [The Shape of AI](sites/shape-of-ai.md) | pattern-library | ai-interfaces, ux-patterns, inspiration | very-useful | none | cc-noncommercial |
+| [Imageory](sites/imageory.md) | prompt-library | assets, agents-and-prompts | niche | prompts | not-stated |
 | [Lafys](sites/lafys.md) | prompt-library | agents-and-prompts, landing-pages, 3d-and-shaders | niche | llms-txt, prompts | proprietary-paid |
 | [VibePrompts](sites/vibeprompts.md) | prompt-library | agents-and-prompts, components, cta | useful | prompts | not-stated |
 | [VibeUI](sites/vibeui.md) | prompt-library | agents-and-prompts, components, cta, landing-pages | useful | prompts | not-stated |
