@@ -53,4 +53,4 @@ There's no explicit licence stated for the code/tokens of each individual design
 
 ## Related
 
-[vibeprompts](vibeprompts.md), [shadcn-ui](shadcn-ui.md), [uiable](uiable.md), [21st-dev](21st-dev.md)
+[VibePrompts](vibeprompts.md), [shadcn/ui](shadcn-ui.md), [UIAble](uiable.md), [21st.dev](21st-dev.md)

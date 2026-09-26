@@ -54,4 +54,4 @@ The site has a Human/Agent switch; the Agent view is a Markdown guide describing
 
 ## Related
 
-[kinetics](kinetics.md), [60fps](60fps.md), [motion-primitives](motion-primitives.md), [animejs](animejs.md)
+[Kinetics](kinetics.md), [60fps](60fps.md), [Motion Primitives](motion-primitives.md), [Anime.js](animejs.md)

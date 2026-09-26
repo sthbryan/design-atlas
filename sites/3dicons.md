@@ -55,4 +55,4 @@ Icons can be downloaded as SVG or PNG. AI agents can modify them, change colors,
 
 ## Related
 
-[kitbitz](kitbitz.md), [circle-loaders](circle-loaders.md), [gradient-buttons](gradient-buttons.md)
+[Kitbitz](kitbitz.md), [Circle Loaders](circle-loaders.md), [Gradient Buttons](gradient-buttons.md)

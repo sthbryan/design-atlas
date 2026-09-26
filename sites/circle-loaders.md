@@ -55,4 +55,4 @@ SVGs can be downloaded and edited by AI agents. Each loader includes detailed te
 
 ## Related
 
-[kinetics](kinetics.md), [css-text-effects](css-text-effects.md), [gradient-buttons](gradient-buttons.md)
+[Kinetics](kinetics.md), [CSS Text Effects](css-text-effects.md), [Gradient Buttons](gradient-buttons.md)

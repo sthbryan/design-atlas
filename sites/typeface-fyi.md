@@ -54,4 +54,4 @@ There's no API, MCP server or llms.txt. It's a tool for a person. Use it to coll
 
 ## Related
 
-[css-text-effects](css-text-effects.md), [refero-styles](refero-styles.md), [designmd](designmd.md), [minimal-gallery](minimal-gallery.md)
+[CSS Text Effects](css-text-effects.md), [Refero Styles](refero-styles.md), [DESIGN.md](designmd.md), [Minimal Gallery](minimal-gallery.md)

@@ -55,4 +55,4 @@ The `llms.txt` file exposes the full component catalog in a format agents can pa
 
 ## Related
 
-[kinetics](kinetics.md), [animejs](animejs.md), [motion-primitives](motion-primitives.md), [shadcn-ui](shadcn-ui.md)
+[Kinetics](kinetics.md), [Anime.js](animejs.md), [Motion Primitives](motion-primitives.md), [shadcn/ui](shadcn-ui.md)

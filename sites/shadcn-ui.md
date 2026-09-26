@@ -51,4 +51,4 @@ Since code is copied into the repo (not a versioned dependency), library updates
 
 ## Related
 
-[magic-ui](magic-ui.md), [aceternity-ui](aceternity-ui.md), [mapcn](mapcn.md), [uiable](uiable.md), [21st-dev](21st-dev.md)
+[Magic UI](magic-ui.md), [Aceternity UI](aceternity-ui.md), [mapcn](mapcn.md), [UIAble](uiable.md), [21st.dev](21st-dev.md)

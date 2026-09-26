@@ -46,4 +46,4 @@ Its docs reference Next.js as the baseline framework, and it brings Motion as an
 
 ## Related
 
-[aceternity-ui](aceternity-ui.md), [motion-primitives](motion-primitives.md), [shadcn-ui](shadcn-ui.md), [21st-dev](21st-dev.md), [cta-gallery](cta-gallery.md)
+[Aceternity UI](aceternity-ui.md), [Motion Primitives](motion-primitives.md), [shadcn/ui](shadcn-ui.md), [21st.dev](21st-dev.md), [CTA Gallery](cta-gallery.md)

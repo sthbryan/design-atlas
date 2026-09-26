@@ -57,4 +57,4 @@ The npm package (`@astryxdesign/core`) is well-documented. The site uses client-
 
 ## Related
 
-[shadcn-ui](shadcn-ui.md), [kobra](kobra.md), [aceternity-ui](aceternity-ui.md)
+[shadcn/ui](shadcn-ui.md), [Kobra](kobra.md), [Aceternity UI](aceternity-ui.md)

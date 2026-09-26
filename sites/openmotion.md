@@ -53,4 +53,4 @@ The app is itself agent-driven: it detects an installed Codex or Claude Code CLI
 
 ## Related
 
-[60fps](60fps.md), [scrolltide](scrolltide.md), [animejs](animejs.md), [dialkit](dialkit.md)
+[60fps](60fps.md), [Scrolltide](scrolltide.md), [Anime.js](animejs.md), [DialKit](dialkit.md)

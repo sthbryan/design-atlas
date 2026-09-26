@@ -46,4 +46,4 @@ Attempting to access the site during this review (2026-09-25) returned a 403 err
 
 ## Related
 
-[css-text-effects](css-text-effects.md), [circle-loaders](circle-loaders.md), [gradient-buttons](gradient-buttons.md), [component-gallery](component-gallery.md)
+[CSS Text Effects](css-text-effects.md), [Circle Loaders](circle-loaders.md), [Gradient Buttons](gradient-buttons.md), [The Component Gallery](component-gallery.md)

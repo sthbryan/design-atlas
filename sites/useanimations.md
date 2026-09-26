@@ -53,4 +53,4 @@ An agent can install `react-useanimations` from npm (it depends on `lottie-web`)
 
 ## Related
 
-[animated-icons](animated-icons.md), [iconoir](iconoir.md), [circle-loaders](circle-loaders.md), [3dicons](3dicons.md)
+[Animated Icons](animated-icons.md), [Iconoir](iconoir.md), [Circle Loaders](circle-loaders.md), [3dicons](3dicons.md)

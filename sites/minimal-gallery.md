@@ -54,4 +54,4 @@ The site offers no export or MCP; using it with agents is manual: open a site as
 
 ## Related
 
-[Component Gallery](component-gallery.md), [Kage](kage.md), [Designeer](designeer.md), [Appshot Gallery](appshot-gallery.md)
+[The Component Gallery](component-gallery.md), [Kage](kage.md), [Designeer](designeer.md), [AppShot Gallery](appshot-gallery.md)

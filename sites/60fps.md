@@ -55,4 +55,4 @@ There is a public `llms.txt` describing the sections. The paid MCP server (hoste
 
 ## Related
 
-[design-spells](design-spells.md), [kinetics](kinetics.md), [openmotion](openmotion.md), [dialkit](dialkit.md), [motion-primitives](motion-primitives.md)
+[Design Spells](design-spells.md), [Kinetics](kinetics.md), [OpenMotion](openmotion.md), [DialKit](dialkit.md), [Motion Primitives](motion-primitives.md)

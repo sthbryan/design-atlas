@@ -54,4 +54,4 @@ Each effect includes an AI prompt that describes the animation with its paramete
 
 ## Related
 
-[css-text-effects](css-text-effects.md), [circle-loaders](circle-loaders.md), [animejs](animejs.md), [gradient-buttons](gradient-buttons.md)
+[CSS Text Effects](css-text-effects.md), [Circle Loaders](circle-loaders.md), [Anime.js](animejs.md), [Gradient Buttons](gradient-buttons.md)

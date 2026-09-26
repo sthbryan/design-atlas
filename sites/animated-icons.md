@@ -54,4 +54,4 @@ There is no npm package, API, llms.txt or MCP server, so an agent can't fetch ic
 
 ## Related
 
-[useanimations](useanimations.md), [iconoir](iconoir.md), [3dicons](3dicons.md), [circle-loaders](circle-loaders.md)
+[useAnimations](useanimations.md), [Iconoir](iconoir.md), [3dicons](3dicons.md), [Circle Loaders](circle-loaders.md)

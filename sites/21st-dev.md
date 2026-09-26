@@ -50,4 +50,4 @@ Search is free, but pulling the source code of a specific component may require 
 
 ## Related
 
-[shadcn-ui](shadcn-ui.md), [magic-ui](magic-ui.md), [aceternity-ui](aceternity-ui.md), [vibeprompts](vibeprompts.md), [component-gallery](component-gallery.md)
+[shadcn/ui](shadcn-ui.md), [Magic UI](magic-ui.md), [Aceternity UI](aceternity-ui.md), [VibePrompts](vibeprompts.md), [The Component Gallery](component-gallery.md)

@@ -55,4 +55,4 @@ The code is well-structured and commented, making it easy for AI agents to adapt
 
 ## Related
 
-[kinetics](kinetics.md), [css-text-effects](css-text-effects.md), [animejs](animejs.md)
+[Kinetics](kinetics.md), [CSS Text Effects](css-text-effects.md), [Anime.js](animejs.md)

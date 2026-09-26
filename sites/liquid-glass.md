@@ -52,4 +52,4 @@ The code is likely available on GitHub for AI agents to read and adapt effects. 
 
 ## Related
 
-[kinetics](kinetics.md), [css-text-effects](css-text-effects.md), [animejs](animejs.md)
+[Kinetics](kinetics.md), [CSS Text Effects](css-text-effects.md), [Anime.js](animejs.md)

@@ -54,4 +54,4 @@ This is one of the few asset stores built for agents. Run `npx -y @craftwork-des
 
 ## Related
 
-[kitbitz](kitbitz.md), [3dicons](3dicons.md), [designeer](designeer.md), [kage](kage.md)
+[Kitbitz](kitbitz.md), [3dicons](3dicons.md), [Designeer](designeer.md), [Kage](kage.md)

@@ -54,4 +54,4 @@ You can describe a button from the gallery to an AI agent and ask it to replicat
 
 ## Related
 
-[css-text-effects](css-text-effects.md), [kinetics](kinetics.md), [circle-loaders](circle-loaders.md)
+[CSS Text Effects](css-text-effects.md), [Kinetics](kinetics.md), [Circle Loaders](circle-loaders.md)

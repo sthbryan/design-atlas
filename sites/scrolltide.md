@@ -53,4 +53,4 @@ Each template ships with an "AI-engineered" prompt meant to be pasted straight i
 
 ## Related
 
-[Kage](kage.md), [Refero Styles](refero-styles.md), [Animejs](animejs.md), [Kinetics](kinetics.md)
+[Kage](kage.md), [Refero Styles](refero-styles.md), [Anime.js](animejs.md), [Kinetics](kinetics.md)

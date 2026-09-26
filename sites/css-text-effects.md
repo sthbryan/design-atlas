@@ -57,4 +57,4 @@ Each effect includes a prompt describing the technique and parameters. You can c
 
 ## Related
 
-[kinetics](kinetics.md), [circle-loaders](circle-loaders.md), [gradient-buttons](gradient-buttons.md)
+[Kinetics](kinetics.md), [Circle Loaders](circle-loaders.md), [Gradient Buttons](gradient-buttons.md)

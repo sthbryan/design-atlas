@@ -46,4 +46,4 @@ It depends on Framer Motion, a heavier dependency than plain CSS: watch bundle s
 
 ## Related
 
-[magic-ui](magic-ui.md), [motion-primitives](motion-primitives.md), [shadcn-ui](shadcn-ui.md), [reactbits](reactbits.md), [kinetics](kinetics.md)
+[Magic UI](magic-ui.md), [Motion Primitives](motion-primitives.md), [shadcn/ui](shadcn-ui.md), [React Bits](reactbits.md), [Kinetics](kinetics.md)

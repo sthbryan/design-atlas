@@ -53,4 +53,4 @@ The site publishes an `llms.txt` that tells agents how to use it: request the ho
 
 ## Related
 
-[60fps](60fps.md), [kinetics](kinetics.md), [microkit](microkit.md), [404s](404s.md), [minimal-gallery](minimal-gallery.md)
+[60fps](60fps.md), [Kinetics](kinetics.md), [MicroKit](microkit.md), [404s](404s.md), [Minimal Gallery](minimal-gallery.md)

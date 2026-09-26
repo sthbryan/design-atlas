@@ -53,4 +53,4 @@ The site explicitly promotes compatibility with Cursor, Claude, Codex, v0 or Lov
 
 ## Related
 
-[Kage](kage.md), [Scrolltide](scrolltide.md), [Designmd](designmd.md), [Vibeprompts](vibeprompts.md)
+[Kage](kage.md), [Scrolltide](scrolltide.md), [DESIGN.md](designmd.md), [VibePrompts](vibeprompts.md)

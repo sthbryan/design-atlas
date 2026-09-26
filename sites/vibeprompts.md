@@ -46,4 +46,4 @@ Since these are prompts rather than pre-audited code, output depends on the mode
 
 ## Related
 
-[designmd](designmd.md), [21st-dev](21st-dev.md), [cta-gallery](cta-gallery.md), [navbar-gallery](navbar-gallery.md), [footer-design](footer-design.md)
+[DESIGN.md](designmd.md), [21st.dev](21st-dev.md), [CTA Gallery](cta-gallery.md), [Navbar Gallery](navbar-gallery.md), [Footer Design](footer-design.md)

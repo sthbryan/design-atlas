@@ -54,4 +54,4 @@ UI SFX was written with agents in mind. It publishes an `llms.txt`, an `llms-ful
 
 ## Related
 
-[useanimations](useanimations.md), [animated-icons](animated-icons.md), [kinetics](kinetics.md), [vibeprompts](vibeprompts.md)
+[useAnimations](useanimations.md), [Animated Icons](animated-icons.md), [Kinetics](kinetics.md), [VibePrompts](vibeprompts.md)

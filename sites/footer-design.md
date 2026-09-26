@@ -53,4 +53,4 @@ No export or MCP; use it as a visual reference: pick a footer in the style you w
 
 ## Related
 
-[Navbar Gallery](navbar-gallery.md), [Cta Gallery](cta-gallery.md), [404s](404s.md)
+[Navbar Gallery](navbar-gallery.md), [CTA Gallery](cta-gallery.md), [404s](404s.md)

@@ -46,4 +46,4 @@ Since code is copied instead of relying on a versioned package, mapcn updates do
 
 ## Related
 
-[shadcn-ui](shadcn-ui.md), [uiable](uiable.md), [21st-dev](21st-dev.md), [component-gallery](component-gallery.md)
+[shadcn/ui](shadcn-ui.md), [UIAble](uiable.md), [21st.dev](21st-dev.md), [The Component Gallery](component-gallery.md)

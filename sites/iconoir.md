@@ -54,4 +54,4 @@ Iconoir is one of the easiest icon sets to hand to an agent. `npm i iconoir-reac
 
 ## Related
 
-[3dicons](3dicons.md), [useanimations](useanimations.md), [animated-icons](animated-icons.md), [shadcn-ui](shadcn-ui.md)
+[3dicons](3dicons.md), [useAnimations](useanimations.md), [Animated Icons](animated-icons.md), [shadcn/ui](shadcn-ui.md)

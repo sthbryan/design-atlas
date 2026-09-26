@@ -6,7 +6,7 @@ type: directory
 formats: directory · discovery tool
 topics: [inspiration, components, assets]
 verdict: useful
-agent: []
+agent: [llms-txt]
 pricing: free
 licence: Not stated (free to browse; includes sponsors like Loops)
 licence_class: not-stated
@@ -37,7 +37,7 @@ Designeer is a curated directory of tools, components, inspiration galleries and
 
 ## Using it with agents
 
-No export or MCP of its own; its value with agents is as a starting map: ask the agent to check the relevant Designeer sections (e.g. Components or Build) to pick which library to use before generating code, instead of letting it guess a dependency.
+It publishes an `llms.txt` that lists the catalogue by section and points to its sitemap, robots rules and structured data. It also serves a static `mcp.json` describing eight read-only WebMCP tools (such as `search_tools`, `list_sections` and `get_section`) that browsers with the draft WebMCP API can call; there is no MCP server to install. Its main value with agents is as a starting map: ask the agent to check the relevant Designeer sections (e.g. Components or Build) to pick which library to use before generating code, instead of letting it guess a dependency.
 
 ## Watch out for
 
@@ -53,4 +53,4 @@ No export or MCP of its own; its value with agents is as a starting map: ask the
 
 ## Related
 
-[Minimal Gallery](minimal-gallery.md), [Component Gallery](component-gallery.md), [Kage](kage.md), [Scrolltide](scrolltide.md), [Appshot Gallery](appshot-gallery.md)
+[Minimal Gallery](minimal-gallery.md), [The Component Gallery](component-gallery.md), [Kage](kage.md), [Scrolltide](scrolltide.md), [AppShot Gallery](appshot-gallery.md)

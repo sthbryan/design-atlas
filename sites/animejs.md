@@ -62,4 +62,4 @@ Anime.js is excellent for AI agents because its API is clear and well-documented
 
 ## Related
 
-[kinetics](kinetics.md), [css-text-effects](css-text-effects.md), [liquid-glass](liquid-glass.md), [microkit](microkit.md)
+[Kinetics](kinetics.md), [CSS Text Effects](css-text-effects.md), [Liquid Glass](liquid-glass.md), [MicroKit](microkit.md)

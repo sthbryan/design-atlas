@@ -55,4 +55,4 @@ Every library page has a Copy prompt button that packs the install line, usage a
 
 ## Related
 
-[reactbits](reactbits.md), [magic-ui](magic-ui.md), [rareui](rareui.md), [liquid-glass](liquid-glass.md), [circle-loaders](circle-loaders.md)
+[React Bits](reactbits.md), [Magic UI](magic-ui.md), [Rare UI](rareui.md), [Liquid Glass](liquid-glass.md), [Circle Loaders](circle-loaders.md)

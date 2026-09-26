@@ -54,4 +54,4 @@ Components install with the shadcn CLI from the GitHub-namespaced registry (`npx
 
 ## Related
 
-[motion-primitives](motion-primitives.md), [aceternity-ui](aceternity-ui.md), [magic-ui](magic-ui.md), [shadcn-ui](shadcn-ui.md), [libraries-dev-orbs](libraries-dev-orbs.md)
+[Motion Primitives](motion-primitives.md), [Aceternity UI](aceternity-ui.md), [Magic UI](magic-ui.md), [shadcn/ui](shadcn-ui.md), [Libraries.dev: Thinking orbs](libraries-dev-orbs.md)

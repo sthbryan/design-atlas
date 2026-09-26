@@ -54,4 +54,4 @@ No export or MCP of its own; it's used with agents as reference documentation: p
 
 ## Related
 
-[Shadcn Ui](shadcn-ui.md), [Aceternity Ui](aceternity-ui.md), [Magic Ui](magic-ui.md), [Uiverse](uiverse.md), [Kage](kage.md)
+[shadcn/ui](shadcn-ui.md), [Aceternity UI](aceternity-ui.md), [Magic UI](magic-ui.md), [Uiverse](uiverse.md), [Kage](kage.md)

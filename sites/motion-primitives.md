@@ -46,4 +46,4 @@ It depends on Motion as its animation foundation; the site itself notes it doesn
 
 ## Related
 
-[aceternity-ui](aceternity-ui.md), [magic-ui](magic-ui.md), [css-text-effects](css-text-effects.md), [animejs](animejs.md), [kinetics](kinetics.md)
+[Aceternity UI](aceternity-ui.md), [Magic UI](magic-ui.md), [CSS Text Effects](css-text-effects.md), [Anime.js](animejs.md), [Kinetics](kinetics.md)

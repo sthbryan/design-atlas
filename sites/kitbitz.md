@@ -53,4 +53,4 @@ Files can be downloaded and used as visual references. AI agents can adapt them 
 
 ## Related
 
-[3dicons](3dicons.md), [circle-loaders](circle-loaders.md)
+[3dicons](3dicons.md), [Circle Loaders](circle-loaders.md)

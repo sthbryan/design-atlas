@@ -6,7 +6,7 @@ type: gallery
 formats: inspiration gallery
 topics: [navigation, inspiration]
 verdict: niche
-agent: []
+agent: [llms-txt]
 pricing: free
 licence: Not stated (free to browse; sponsored by Mobbin)
 licence_class: not-stated
@@ -37,7 +37,7 @@ Navbar Gallery is an inspiration gallery dedicated exclusively to navigation bar
 
 ## Using it with agents
 
-No export or MCP; use it as a visual reference: open an example of the navbar type you need, describe it to the agent (structure, breakpoints, what collapses into a hamburger menu) and ask it to implement that pattern in your stack.
+There is no MCP or export, but an `llms.txt` maps the core pages, navigation types, style categories and blog guides, so an agent can find the right section. Use it as a visual reference: open an example of the navbar type you need, describe it to the agent (structure, breakpoints, what collapses into a hamburger menu) and ask it to implement that pattern in your stack.
 
 ## Watch out for
 
@@ -53,4 +53,4 @@ No export or MCP; use it as a visual reference: open an example of the navbar ty
 
 ## Related
 
-[Footer Design](footer-design.md), [Cta Gallery](cta-gallery.md), [Minimal Gallery](minimal-gallery.md), [Designeer](designeer.md)
+[Footer Design](footer-design.md), [CTA Gallery](cta-gallery.md), [Minimal Gallery](minimal-gallery.md), [Designeer](designeer.md)

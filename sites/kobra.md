@@ -56,4 +56,4 @@ Kobra publishes detailed markdown documentation per component, accessible at pre
 
 ## Related
 
-[shadcn-ui](shadcn-ui.md), [aceternity-ui](aceternity-ui.md), [component-gallery](component-gallery.md)
+[shadcn/ui](shadcn-ui.md), [Aceternity UI](aceternity-ui.md), [The Component Gallery](component-gallery.md)

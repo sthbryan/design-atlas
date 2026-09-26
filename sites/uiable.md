@@ -46,4 +46,4 @@ Only the "community" tier is MIT and free: most of the fuller blocks, templates 
 
 ## Related
 
-[shadcn-ui](shadcn-ui.md), [aceternity-ui](aceternity-ui.md), [magic-ui](magic-ui.md), [designmd](designmd.md), [component-gallery](component-gallery.md)
+[shadcn/ui](shadcn-ui.md), [Aceternity UI](aceternity-ui.md), [Magic UI](magic-ui.md), [DESIGN.md](designmd.md), [The Component Gallery](component-gallery.md)

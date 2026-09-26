@@ -54,4 +54,4 @@ It ships its own MCP server, added with a single command ("claude mcp add --tran
 
 ## Related
 
-[Scrolltide](scrolltide.md), [Refero Styles](refero-styles.md), [Component Gallery](component-gallery.md), [Vibeprompts](vibeprompts.md)
+[Scrolltide](scrolltide.md), [Refero Styles](refero-styles.md), [The Component Gallery](component-gallery.md), [VibePrompts](vibeprompts.md)
