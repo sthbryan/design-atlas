@@ -24,8 +24,15 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie/SVG/GIF icons; free tier plus one-time All-Access, no attribution needed.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
 - [design-mobile-apps (Sleek)](../sites/design-mobile-apps.md) — REST client for Sleek's paid mobile-screen generator, with handoff to HTML, React Native or SwiftUI.
+- [Heroicons Animated](../sites/heroicons-animated.md) — 316 Heroicons outline icons with hover animations built on Motion, via shadcn registry, npm and llms.txt.
+- [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
+- [Icon Foundry](../sites/icon-foundry.md) — Free search across about 49k icons from open sets plus logos; check each source's licence.
+- [Iconify](../sites/iconify.md) — One naming scheme, API and toolchain over 200+ open icon sets and about 300k+ icons.
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
+- [Icons.download](../sites/icons-download.md) — 275 hand-drawn UI icons in 16 styles (weight, fill, corner), free SVG and Figma.
 - [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
+- [Lucide Animated](../sites/lucide-animated.md) — 467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.
+- [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
 <!-- atlas:sources:end -->

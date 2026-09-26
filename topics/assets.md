@@ -34,7 +34,11 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [DotForge](../sites/dotforge.md) — Browser tool with 51 animated effects, dither patterns and post-FX; exports PNG, video or an HTML embed.
 - [Efecto](../sites/efecto.md) — Browser canvas your agent drives through MCP tools, plus an FX engine for dither, ASCII and halftone posters.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
+- [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
+- [Icon Foundry](../sites/icon-foundry.md) — Free search across about 49k icons from open sets plus logos; check each source's licence.
+- [Iconify](../sites/iconify.md) — One naming scheme, API and toolchain over 200+ open icon sets and about 300k+ icons.
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
+- [Icons.download](../sites/icons-download.md) — 275 hand-drawn UI icons in 16 styles (weight, fill, corner), free SVG and Figma.
 - [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
 - [Inkword](../sites/inkword.md) — Turns one word into a small editable SVG editorial drawing in six fixed styles; private beta.
 - [Kitbitz](../sites/kitbitz.md) — 2,000+ hand-drawn illustrations with an artisanal, non-digital feel, free with no login required.

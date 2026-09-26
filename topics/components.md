@@ -52,6 +52,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
 - [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
+- [Heroicons Animated](../sites/heroicons-animated.md) — 316 Heroicons outline icons with hover animations built on Motion, via shadcn registry, npm and llms.txt.
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
 - [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
 - [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
@@ -69,6 +70,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [mapcn](../sites/mapcn.md) — Map components distributed as a shadcn/ui registry, with a "copy prompt for your agent" button.
 - [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
 - [MicroKit](../sites/microkit.md) — 49 React microinteractions with polished transitions, ready to copy and adapt.
+- [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
 - [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
 - [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.

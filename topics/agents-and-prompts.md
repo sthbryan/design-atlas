@@ -43,7 +43,9 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
 - [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
 - [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
+- [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
 - [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — Paste a domain, get a basic Google-style DESIGN.md via Hyperbrowser's branding API (bring your own key).
+- [Iconify](../sites/iconify.md) — One naming scheme, API and toolchain over 200+ open icon sets and about 300k+ icons.
 - [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
 - [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
 - [Kage](../sites/kage.md) — Real interfaces packaged as agent-ready prompts and design briefs, browsable by component, with its own MCP server.
@@ -52,6 +54,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
 - [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
+- [Lucide Animated](../sites/lucide-animated.md) — 467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.
 - [mapcn](../sites/mapcn.md) — Map components distributed as a shadcn/ui registry, with a "copy prompt for your agent" button.
 - [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.

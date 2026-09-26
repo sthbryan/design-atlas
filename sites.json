@@ -2562,6 +2562,37 @@
       ]
     },
     {
+      "slug": "heroicons-animated",
+      "path": "sites/heroicons-animated.md",
+      "title": "Heroicons Animated",
+      "description": "316 Heroicons outline icons with hover animations built on Motion, via shadcn registry, npm and llms.txt.",
+      "url": "https://www.heroicons-animated.com",
+      "type": "icon-library",
+      "formats": "animated icon library · shadcn registry",
+      "topics": [
+        "icons",
+        "motion",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Free / MIT (GitHub Sponsors optional). The underlying Heroicons artwork by Tailwind Labs is also MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "lucide-animated",
+        "morphicons",
+        "animated-icons",
+        "useanimations",
+        "shadcn-ui"
+      ]
+    },
+    {
       "slug": "huashu-design",
       "path": "sites/huashu-design.md",
       "title": "Huashu Design",
@@ -2615,6 +2646,37 @@
         "oklch",
         "color-review",
         "dialkit"
+      ]
+    },
+    {
+      "slug": "hugeicons",
+      "path": "sites/hugeicons.md",
+      "title": "Hugeicons",
+      "description": "60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.",
+      "url": "https://hugeicons.com",
+      "type": "icon-library",
+      "formats": "icon library · MCP server · agent skill",
+      "topics": [
+        "icons",
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "Freemium. The 6,000+ free Stroke Rounded icons are MIT. Pro is $99 a year per seat or $1,197 one-time per seat (Pro Plus), under a proprietary per-seat licence with pageview and bandwidth quotas",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "iconify",
+        "icons-download",
+        "iconoir",
+        "icons0",
+        "morphicons"
       ]
     },
     {
@@ -2682,6 +2744,62 @@
       ]
     },
     {
+      "slug": "icon-foundry",
+      "path": "sites/icon-foundry.md",
+      "title": "Icon Foundry",
+      "description": "Free search across about 49k icons from open sets plus logos; check each source's licence.",
+      "url": "https://www.iconfoundry.store",
+      "type": "tool",
+      "formats": "icon search · Figma plugin",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. Each icon keeps its source library's licence (mostly MIT, ISC, Apache 2.0 or CC0; Solar is CC BY 4.0). The tool's terms forbid scraping, mirroring or redistributing its aggregated data",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "iconify",
+        "icons0",
+        "iconoir",
+        "hugeicons"
+      ]
+    },
+    {
+      "slug": "iconify",
+      "path": "sites/iconify.md",
+      "title": "Iconify",
+      "description": "One naming scheme, API and toolchain over 200+ open icon sets and about 300k+ icons.",
+      "url": "https://iconify.design",
+      "type": "icon-library",
+      "formats": "icon framework · API · icon browser",
+      "topics": [
+        "icons",
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "Free, funded by sponsors. Most of the code is MIT (a few older packages are Apache 2.0 or GPL 2.0). Icons keep each set's own licence, which ranges from MIT and CC0 to CC BY, GPL and a few non-commercial sets",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "icons0",
+        "icon-foundry",
+        "iconoir",
+        "morphicons",
+        "design-mobile-apps"
+      ]
+    },
+    {
       "slug": "iconoir",
       "path": "sites/iconoir.md",
       "title": "Iconoir",
@@ -2706,6 +2824,32 @@
         "useanimations",
         "animated-icons",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "icons-download",
+      "path": "sites/icons-download.md",
+      "title": "Icons.download",
+      "description": "275 hand-drawn UI icons in 16 styles (weight, fill, corner), free SVG and Figma.",
+      "url": "https://icons.download",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free / custom licence: personal and commercial use, changes allowed, no attribution needed. You may not resell or redistribute the icons as a standalone library or competing service",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "iconoir",
+        "hugeicons",
+        "icon-foundry",
+        "3dicons"
       ]
     },
     {
@@ -3352,6 +3496,39 @@
       ]
     },
     {
+      "slug": "lucide-animated",
+      "path": "sites/lucide-animated.md",
+      "title": "Lucide Animated",
+      "description": "467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.",
+      "url": "https://lucide-animated.com",
+      "type": "icon-library",
+      "formats": "animated icon library · shadcn registry · MCP server",
+      "topics": [
+        "icons",
+        "motion",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "registry",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "Free / MIT, with optional sponsorship. The README adds terms that forbid redistributing or reselling the demos. Lucide's own artwork is ISC",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "heroicons-animated",
+        "morphicons",
+        "icons0",
+        "animated-icons",
+        "shadcn-ui"
+      ]
+    },
+    {
       "slug": "magic-ui",
       "path": "sites/magic-ui.md",
       "title": "Magic UI",
@@ -3524,6 +3701,36 @@
         "kage",
         "designeer",
         "appshot-gallery"
+      ]
+    },
+    {
+      "slug": "morphicons",
+      "path": "sites/morphicons.md",
+      "title": "morphicons",
+      "description": "Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.",
+      "url": "https://www.morphicons.com",
+      "type": "js-library",
+      "formats": "JS library · icon morphing",
+      "topics": [
+        "icons",
+        "motion",
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free / MIT. The demo icons keep their own licences (Lucide ISC, Heroicons and Tabler MIT)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "lucide-animated",
+        "heroicons-animated",
+        "torph",
+        "iconoir",
+        "iconify"
       ]
     },
     {

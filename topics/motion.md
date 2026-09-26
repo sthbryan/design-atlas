@@ -53,6 +53,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
 - [glimm](../sites/glimm.md) — WebGL colour-band page transitions for React/Next.js, with a copyable agent prompt.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
+- [Heroicons Animated](../sites/heroicons-animated.md) — 316 Heroicons outline icons with hover animations built on Motion, via shadcn registry, npm and llms.txt.
 - [Huashu Design](../sites/huashu-design.md) — Chinese-language HTML skill for prototypes, decks and MP4 animations; always shows three drafts first.
 - [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
 - [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
@@ -64,9 +65,11 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [loading.dev](../sites/loading-dev.md) — 27 small React 19 spinners that inherit currentColor, with a Markdown page per spinner.
 - [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile-first websites since 2021, tagged by technique and genre.
 - [LottieFiles Motion Design Skill](../sites/lottiefiles-motion-design.md) — Motion-director skill: four personalities, duration and stagger tables, Disney principles adapted for UI.
+- [Lucide Animated](../sites/lucide-animated.md) — 467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.
 - [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
 - [MicroKit](../sites/microkit.md) — 49 React microinteractions with polished transitions, ready to copy and adapt.
+- [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.

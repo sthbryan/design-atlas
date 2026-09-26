@@ -175,8 +175,13 @@ A curated set of references for building websites and UI — galleries, componen
 | [User Interface Wiki](sites/user-interface-wiki.md) | guidelines | motion, ux-patterns, sound, agents-and-prompts | very-useful | skill | open-source-permissive |
 | [3dicons](sites/3dicons.md) | icon-library | icons, assets, components | useful | none | public-domain |
 | [Animated Icons](sites/animated-icons.md) | icon-library | icons, assets, motion | useful | none | proprietary-paid |
+| [Heroicons Animated](sites/heroicons-animated.md) | icon-library | icons, motion, components | useful | llms-txt, registry | open-source-permissive |
+| [Hugeicons](sites/hugeicons.md) | icon-library | icons, assets, agents-and-prompts | very-useful | mcp, skill | mixed |
+| [Iconify](sites/iconify.md) | icon-library | icons, assets, agents-and-prompts | very-useful | api | mixed |
 | [Iconoir](sites/iconoir.md) | icon-library | icons, assets, components | very-useful | none | open-source-permissive |
+| [Icons.download](sites/icons-download.md) | icon-library | icons, assets | niche | none | proprietary-free |
 | [icons0](sites/icons0.md) | icon-library | icons, assets, agents-and-prompts | useful | mcp, registry | mixed |
+| [Lucide Animated](sites/lucide-animated.md) | icon-library | icons, motion, agents-and-prompts | very-useful | mcp, llms-txt, registry, skill | mixed |
 | [useAnimations](sites/useanimations.md) | icon-library | icons, assets, motion | niche | none | mixed |
 | [@web-kits/audio](sites/web-kits-audio.md) | js-library | sound, agents-and-prompts | very-useful | llms-txt, cli, skill | open-source-permissive |
 | [Anime.js](sites/animejs.md) | js-library | motion, components, documentation | useful | none | open-source-permissive |
@@ -187,6 +192,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Libraries.dev: Thinking orbs](sites/libraries-dev-orbs.md) | js-library | motion, components, agents-and-prompts, ai-interfaces | useful | prompts, skill | mixed |
 | [Liquid Glass](sites/liquid-glass.md) | js-library | motion, components | niche | none | not-stated |
 | [loading.dev](sites/loading-dev.md) | js-library | components, motion | useful | llms-txt | open-source-permissive |
+| [morphicons](sites/morphicons.md) | js-library | icons, motion, components | very-useful | llms-txt | open-source-permissive |
 | [NumberFlow](sites/number-flow.md) | js-library | motion, components, typography-and-styles | very-useful | none | open-source-permissive |
 | [Paper Shaders](sites/paper-shaders.md) | js-library | 3d-and-shaders, motion, components | very-useful | llms-txt | open-source-permissive |
 | [Rolling Number](sites/rolling-number.md) | js-library | motion, components, typography-and-styles | useful | llms-txt | open-source-permissive |
@@ -222,6 +228,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Fffuel](sites/fffuel.md) | tool | assets, color | useful | none | proprietary-free |
 | [Huetone](sites/huetone.md) | tool | color, typography-and-styles | useful | none | open-source-permissive |
 | [Hyperbrowser DESIGNMD](sites/hyperbrowser-design-md.md) | tool | design-md, typography-and-styles, agents-and-prompts | niche | api | not-stated |
+| [Icon Foundry](sites/icon-foundry.md) | tool | icons, assets | niche | none | mixed |
 | [Inkword](sites/inkword.md) | tool | assets, inspiration | niche | llms-txt | proprietary-paid |
 | [OKLCH](sites/oklch.md) | tool | color, typography-and-styles | very-useful | none | open-source-permissive |
 | [OpenMotion](sites/openmotion.md) | tool | motion, agents-and-prompts | niche | none | not-stated |
