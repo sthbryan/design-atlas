@@ -1,16 +1,16 @@
 ---
 title: Kage
-description: Real interfaces packaged as agent-ready prompts and design briefs, browsable by component, with its own MCP server.
+description: Real product pages and components tagged by style, with screenshot-backed design prompts and a public MCP server.
 url: https://kage.design
 type: gallery
-formats: inspiration gallery · AI prompts · MCP server
+formats: real-site gallery · component library · design prompts · MCP server
 topics: [inspiration, agents-and-prompts, components]
 verdict: very-useful
 agent: [mcp, prompts]
-pricing: not-stated
-licence: Not stated (the MCP server itself says "no API key, no sign-up, no usage limits beyond the site's normal rate limit")
-licence_class: not-stated
-reviewed: 2026-09-25
+pricing: free
+licence: Prompts and design analyses may be used and adapted commercially without attribution. Screenshots, logos and marks belong to their respective owners; do not reproduce a featured site or reuse its branding, copy or artwork.
+licence_class: mixed
+reviewed: 2026-09-26
 status: active
 related: [scrolltide, refero-styles, component-gallery, vibeprompts]
 ---
@@ -20,37 +20,38 @@ related: [scrolltide, refero-styles, component-gallery, vibeprompts]
 
 ## What it is
 
-Kage is a library of real-interface inspiration that converts directly into prompts for coding agents (Claude Code, Codex, Cursor). Instead of just showing screenshots, it packages each design as ready-to-feed material for an LLM.
+Kage indexes screenshots of real product pages and sections, adds a short design analysis, and offers a prompt describing their visual structure. The gallery currently lists 335 designs, 1,778 components and 187 products (at review). Its own dark interface is only the catalogue; study the linked product screenshots and live sites for design references.
 
 ## When to open it
 
-- When you want to tell an agent "build me something like [product X]" and need the prompt and reference screenshots already prepared.
-- When you're looking for a specific component pattern (hero, feature grid, pricing, testimonials) from a real product, not a generic template.
-- When you want to plug an inspiration source directly into your agent workflow via MCP instead of copy-pasting screenshots by hand.
+- When you have a visual direction such as brutalist, editorial or minimal and want tagged examples instead of broad text-search results.
+- When a particular part of the page matters: open a full-page record, then inspect its extracted hero, pricing, feature grid or other components.
+- When you want the agent to retrieve both a reference image and a written description through MCP.
 
 ## Most useful
 
-- The site states 335 designs across 187 products, with 1,778 components and 17 catalogued "skills."
-- Cross-browsing by component (navigation, hero, feature grids, pricing, testimonials...), by industry (dev tools, AI, fintech, productivity...), by page style (minimal, dark, editorial, brutalist, retro, playful, bento...) and by tech stack (Next.js, Tailwind, Framer, Vercel, Cloudflare...).
-- Curated collections like "minimal landing pages" or "Tailwind CSS landing pages."
-- Separate "most copied" and "most viewed" counters showing what the community actually uses.
-- Lets you submit your own sites to expand the library.
+- Start with the [Brutalist style collection](https://kage.design/style/brutalist) and narrow it by page type (landing pages, OG images or components). It contains 11 designs at review, so use it as a small shortlist rather than a complete survey of the style.
+- Open an individual record such as [Obra](https://kage.design/designs/tryobra-landing-page). Its analysis calls out the near-black field, cream panels, orange accents, oversized filled/outlined headlines, thin rules and compact monospace labels. Follow the outbound link to compare the stored capture with the live page before borrowing a pattern.
+- [QuietHint](https://kage.design/designs/quiethint-r-landing-page) is another useful landing-page record: its page analysis describes a strict editorial grid, oversized headings, orange accents and alternating light sections with dense dark panels. Use its components to study how a single visual system carries through pricing, FAQ and other sections.
+- Browse the [component index](https://kage.design/components) when the question is narrower than a whole page. Kage groups screenshots by function and links each piece back to its source page.
+- Compare the screenshot, analysis and live site. The analysis is a starting point for what to inspect—hierarchy, spacing, type, colour, grid and section rhythm—not a substitute for looking at the actual reference.
 
 ## Using it with agents
 
-It ships its own MCP server, added with a single command ("claude mcp add --transport http kage https://kage.design/mcp", with equivalents for Codex, Cursor, OpenCode and Pi), exposing four tools: `design_brief` (generates a design brief from a request like "a site like Linear for a dental clinic"), `search_designs`, `get_design` (full prompt, components and screenshots) and `get_component` (a single component with its prompt and cropped image). Prompts give structural and stylistic guidance without reproducing original branding or copy.
+Kage documents a public Streamable HTTP MCP server at `https://kage.design/mcp`, usable without an API key or account. Its current setup page lists `search_designs`, `list_taxonomy`, `get_design` and `get_component`; the `design_brief` tool assembles candidate prompts, and `get_design` returns a screenshot as well as its analysis and components. It also exposes copyable prompts on the site. Ask for a style and page type, inspect a few candidates, then open the live site in the browser to study its rendered behavior at desktop and mobile sizes. The prompt should help describe the design, not silently stand in for visual inspection.
 
 ## Watch out for
 
-- Since it uses screenshots of real products, keep usage to style/structure reference, not literal copying of brand or content.
-- No pricing or business limits are stated; check the MCP's rate limit under heavy use.
-- Like any community-submitted gallery, the quality and freshness of entries can vary.
+- The brutalist collection is small (11 designs at review) and the sample can change; use related tags such as Dark or Editorial only when they fit the brief.
+- A saved screenshot may differ from the current site. Verify the live page and responsive behavior before using a detail as a design decision.
+- The screenshots and featured brands belong to their respective owners. Borrow layout principles and visual relationships, not logos, copy, illustrations or exact assets.
+- Kage says prompts and analyses may be used commercially without attribution; that does not grant rights to reproduce a featured site or reuse its screenshots, branding, copy or artwork.
 
 ## Reusable ideas
 
-- Turning each piece of inspiration into a reusable "prompt," not just an image, shortens the path from reference to code.
-- Exposing an MCP with separate tools for brief, search, full design and single component gives granularity depending on the stage of work.
-- Tracking "most copied" and "most viewed" separately is a useful signal of what inspiration actually gets used vs. just looked at.
+- Pair each reference with both a full-page capture and separately searchable components, so an agent can move between overall rhythm and a specific pattern.
+- Record a short visual analysis alongside every capture: composition, typography, colour roles, spacing and section sequence are more actionable than a content summary.
+- Keep the original site link beside the gallery record so the agent can verify current behavior instead of treating the capture as the final authority.
 
 ## Related
 

@@ -11,11 +11,11 @@ Galleries of real interfaces, sites and components to look at before designing y
 
 ## Start here
 
-- [Kage](../sites/kage.md) — real-interface inspiration that converts directly into agent prompts, with its own MCP server.
-- [Recent](../sites/recent-design.md) — a daily curated feed covering design, whole websites, OG images and app icons in one place; it now replaces Godly.
-- [Designeer](../sites/designeer.md) — a directory of directories; find the right niche gallery before searching from scratch.
-- [Curated](../sites/curated-design.md) — about 2,240 live sites filed on two independent axes, industry and visual style, each linking to the real page.
-- [21st.dev](../sites/21st-dev.md) — component-level inspiration with several variants of the same pattern side by side.
+- [Curated](../sites/curated-design.md) — browse live websites by style and industry, then follow a record to its original site.
+- [One Page Love](../sites/one-page-love.md) — find single-page sites by visual style or page type, with full-page and section references.
+- [A1](../sites/a1-gallery.md) — compare whole sites, interior pages and sections with visual filters and measured design details.
+- [Kage](../sites/kage.md) — start from a screenshot-backed design analysis or component, then check the original site.
+- [Recent](../sites/recent-design.md) — follow current website captures and visual tags to the live source.
 
 ## All sources
 
@@ -23,7 +23,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [21st.dev](../sites/21st-dev.md) — Community registry of React and Tailwind components with many variants per pattern, a CLI and an MCP server.
 - [404s](../sites/404s.md) — Curated gallery of 404 pages, filterable by style, interaction and industry.
 - [60fps](../sites/60fps.md) — About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
-- [A1](../sites/a1-gallery.md) — 1,000+ curated sites split into sections and interior pages with measured design tokens, fonts and a 17-tool MCP server.
+- [A1](../sites/a1-gallery.md) — A curated gallery of live websites, full pages and individual sections, with visual filters and measured design details.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
 - [AppShot Gallery](../sites/appshot-gallery.md) — Real App Store and Play Store listing screenshots and icons, filterable by genre, style and tone.
@@ -40,7 +40,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [compute.toys](../sites/compute-toys.md) — Browser playground for WebGPU compute shaders in WGSL or Slang: simulations, particles and path tracers to fork.
 - [Cosmos](../sites/cosmos.md) — Ad-free mood-board platform with hex-colour and visual-similarity search, AI-image filtering and source captions; Premium $8/month.
 - [CTA Gallery](../sites/cta-gallery.md) — Calls-to-action pulled from real sites and classified by business function, with copywriting tips alongside.
-- [Curated](../sites/curated-design.md) — About 2,240 live sites by industry and style, plus a 2,267-entry section library (mostly Pro).
+- [Curated](../sites/curated-design.md) — Live-site gallery filtered by industry and style, with a separate section library for comparing page blocks.
 - [Curations Supply](../sites/curations-supply.md) — Panda Network's directory of about 290 curated galleries, type, colour, UX and component sites, each with a logo, screenshot and one-line summary.
 - [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
 - [DesEngs](../sites/desengs.md) — Dated feed of about 106 design-engineering links (tools, libraries, essays, jobs) plus site, minimal-site and designer galleries; MIT source.
@@ -64,39 +64,39 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Inspora](../sites/inspora.md) — Small, fresh archive of recent design work tagged by industry, color and style.
 - [Insposite](../sites/insposite.md) — Hand-picked list of 70 inspiration sites, designer portfolios and tools for design engineers, with its data file public on GitHub.
 - [Jessy In's Gallery](../sites/jessy-in-gallery.md) — Social art gallery built on MoMA's open collection, with shared two-player curation, live chat, postcards and WebMCP tools for browser agents.
-- [Kage](../sites/kage.md) — Real interfaces packaged as agent-ready prompts and design briefs, browsable by component, with its own MCP server.
+- [Kage](../sites/kage.md) — Real product pages and components tagged by style, with screenshot-backed design prompts and a public MCP server.
 - [Klim Type Foundry](../sites/klim.md) — Premium New Zealand foundry (Söhne, Tiempos) with reference-grade essays and use-based licensing from USD 60.
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
 - [Lab01](../sites/lab01.md) — Sebastiano Guerriero's 12 live web-app UI experiments, each with its icons, fonts and palette listed.
 - [Landbook](../sites/land-book.md) — Veteran human-curated website gallery with 20,000+ sites and 200,000+ cropped sections, filters by colour, style and platform, and an experts directory.
 - [Landdding](../sites/landdding.md) — Daily feed of about 2,400 landing pages in 40 categories, with tag, colour and platform filters and an llms.txt; free browsing is metered.
 - [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
-- [Landingfolio](../sites/landingfolio.md) — Landing page and section gallery with an MCP server that feeds real section screenshots to coding agents, plus paid Tailwind, Webflow and Figma components.
+- [Landingfolio](../sites/landingfolio.md) — Landing page and section galleries with an MCP that returns screenshots, categories and source links to coding agents.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Layers](../sites/layers.md) — Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.
-- [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile-first websites since 2021, tagged by technique and genre.
+- [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile websites, tagged by visual style, genre and interaction technique.
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
 - [Navbar Gallery](../sites/navbar-gallery.md) — Real examples of every major navbar pattern (sticky, mega menu, sidebar, tabs and more), plus a blog on when to use each.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
-- [One Page Love](../sites/one-page-love.md) — 9,000+ single-page sites and cropped sections since 2008, searchable through a free, keyless MCP that returns hero copy.
+- [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
 - [Pinterest](../sites/pinterest.md) — The mass-market mood-board network, with visual search and AI-image labels; API v5 needs review, official MCP not yet public.
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
 - [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
-- [Recent](../sites/recent-design.md) — Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
+- [Recent](../sites/recent-design.md) — Curated visual feeds for websites and other design work, with source links, style tags and a directory of third-party agent skills.
 - [Refs.Gallery](../sites/refs-gallery.md) — Dark 16:9 screenshot grid of 2,163 sites set entirely in a system stack, with display type tracked in at minus 0.06em.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.
 - [Saaspo](../sites/saaspo.md) — Free gallery of SaaS marketing pages you can filter by page type, industry, visual style, asset type and build stack, plus section and OG image views.
 - [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
-- [Sections.wtf](../sites/sections-wtf.md) — About 280 single landing-page sections recorded as video, filterable across 22 section types.
+- [Sections.wtf](../sites/sections-wtf.md) — Short recordings of individual website sections, filterable by 22 block types with source-site and same-site links.
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
 - [Shaderfrog](../sites/shaderfrog.md) — Graph editor that splices GLSL shaders into Three.js, Babylon and PlayCanvas materials, with a community gallery.
 - [Shoogle](../sites/shoogle.md) — Searches items across all shadcn registries from the web, the CLI or a remote MCP server.
 - [Site of Sites](../sites/site-of-sites.md) — Wix gallery of about 600 sites with a pure-blue serif display on white, 16:9 screenshot tiles and four crossable tag axes.
-- [Siteinspire](../sites/siteinspire.md) — 10,000+ hand-picked, type-led sites since 2008, tagged by style, type and subject, with a free public read-only MCP server.
+- [Siteinspire](../sites/siteinspire.md) — A curated website gallery with filters for visual style, site type, subject and platform, plus screenshots and links to the live work.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
 - [Superdesign](../sites/superdesign-skill.md) — Drives the hosted superdesign.dev canvas from your agent to branch drafts and compare models.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
@@ -114,7 +114,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 ## Patterns worth reusing
 
 - Compare several existing solutions to the same pattern before settling on a design, instead of designing from a blank page.
-- Turn each piece of inspiration into a reusable prompt, not just a screenshot, to shorten the path from reference to code.
+- Follow a gallery card to the individual live site, then turn an observed composition or interaction into a decision for the project, with the example URL attached.
 - Filter simultaneously by two axes that matter in practice (e.g. site type and build platform, or style and industry) instead of one.
 - Organize a directory by stage of work (inspiration, components, build, visuals) rather than alphabetically.
 - Track "most copied" versus "most viewed" separately — it signals what inspiration actually gets used, not just looked at.
@@ -140,7 +140,8 @@ Galleries of real interfaces, sites and components to look at before designing y
 - Screenshots belong to real products and their branding — use them for structural or stylistic reference, never copy verbatim.
 - Manual curation means links and examples go stale; treat any single directory as a starting point, not a guarantee of freshness.
 - Most galleries mix organic entries with sponsored placements — separate the two before trusting a recommendation.
-- Most inspiration galleries offer no export or MCP; using them with an agent means describing the reference by hand. The exceptions are worth knowing: 60fps and Details sell an MCP, Kombai and Landing Love publish `llms.txt`, posts.design has a JSON search API, What Ships offers an OpenAPI description and a JSON index, and Design Spells serves Markdown to agents.
+- Most inspiration galleries offer no export or MCP, but an agent with a browser can still inspect their public pages and linked sites. Published integrations can speed up discovery; they do not replace looking at the live design.
+- A gallery thumbnail may show an old version or only one viewport. Check the linked site before treating its layout, colours or behavior as current.
 - Check the newest entry before relying on a gallery for current trends; some add work only occasionally (Supahero, loadmo.re).
 - Automated access is often restricted: 60fps forbids bulk downloading and model training, Details forbids scraping and using it to train a competing model, Rebrand Gallery rules out automated collection and AI-made derivative work, and posts.design's robots.txt disallows the API its llms.txt advertises. Check the terms before scripting anything.
 - Free tiers can be tight: Motionimo allows three video detail views a day, Rebrand Gallery asks for an account to keep browsing, and Curated's section library is mostly Pro.

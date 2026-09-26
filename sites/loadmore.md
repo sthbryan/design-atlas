@@ -1,6 +1,6 @@
 ---
 title: loadmo.re
-description: Hand-picked archive of experimental mobile-first websites since 2021, tagged by technique and genre.
+description: Hand-picked archive of experimental mobile websites, tagged by visual style, genre and interaction technique.
 url: https://loadmo.re
 type: gallery
 formats: inspiration gallery
@@ -30,19 +30,19 @@ loadmo.re is an archive of experimental and unconventional mobile websites, cura
 
 ## Most useful
 
-- Around 400 hand-picked entries across 13 pages, each with a screen-recorded video preview, a one-line description, full credits for the studio or designers, the date added and a direct link.
-- 30+ tags mixing genre (portfolio, e-commerce, online magazine, event, digital exhibition) and approach (brutalist, glitches, tactile, participative, use of camera, sound design, net.art, playful).
-- "Also in" links on each entry that surface other sites sharing a tag, which makes browsing by approach easy.
+- The [Brutalist tag](https://loadmo.re/tag:brutalist) leads to individual entries such as [Make Everything Ok](https://loadmo.re/posts/make-everything-ok), tagged Brutalist and Playful, and [PoolSide FM](https://loadmo.re/posts/poolside-fm), tagged Music, Retro and Brutalist.
+- Entries can include a short explanation of the interaction, creator credits, tags and a **Visit website** link. Related-tag links lead to more examples using the same approach.
+- Tags cover both genres (portfolio, e-commerce, online magazine, event) and design or interaction approaches (brutalist, glitches, tactile, participative, camera, sound, net.art, playful).
+- The archive is mobile-specific, so its strongest value is seeing how expressive layouts and interactions behave on a narrow screen.
 - A featured pick at the top of the homepage, a newsletter digest and an open submission form.
 
 ## Using it with agents
 
-No MCP, llms.txt, API or export. Use an entry as a brief: tell the agent which interaction carries the site (for example camera input or drag-to-reveal), how the layout uses the narrow viewport and which tag it belongs to, then ask for a prototype of that behavior rather than a copy of the site.
+No MCP, llms.txt, API or export is listed. For mobile inspiration, open the [Brutalist tag](https://loadmo.re/tag:brutalist), shortlist a few entries, then open each entry and follow **Visit website**. Inspect the real page at a phone-sized viewport and use any preview media on the record to understand motion. Record what the layout does on a narrow screen, how touch or motion works, and which visual choices carry the style; adapt those ideas to the project instead of copying the site.
 
 ## Watch out for
 
-- Additions are occasional; the newest entries seen at review time were added in January 2026.
-- Many featured sites are experimental, so some may be slow, broken or offline by the time you open them.
+- Some featured sites are experimental, so a direct link may be slow, redesigned or offline by the time you open it.
 - The focus is expressive work; look elsewhere for mainstream mobile conversion patterns.
 
 ## Reusable ideas

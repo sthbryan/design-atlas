@@ -1,16 +1,16 @@
 ---
 title: Siteinspire
-description: 10,000+ hand-picked, type-led sites since 2008, tagged by style, type and subject, with a free public read-only MCP server.
+description: A curated website gallery with filters for visual style, site type, subject and platform, plus screenshots and links to the live work.
 url: https://www.siteinspire.com
 type: gallery
-formats: curated web design gallery · public MCP server · REST and tRPC read API · llms.txt
+formats: curated web design gallery · category filters · website detail pages · creator profiles
 topics: [inspiration, typography-and-styles, agents-and-prompts]
 verdict: very-useful
-agent: [mcp, llms-txt, api]
+agent: []
 pricing: free
-licence: Free to browse; pricing and submission terms could not be read at review. According to its `llms.txt`, screenshots and descriptions are © Siteinspire, and the index (titles, URLs, categories) may be used for non-commercial research and AI training with attribution
-licence_class: proprietary-free
-reviewed: 2026-09-25
+licence: Free to browse. The accessible pages did not state a reuse licence for screenshots or index data; treat both as look-only unless the owner grants permission.
+licence_class: not-stated
+reviewed: 2026-09-26
 status: active
 related: [minimal-gallery, typeface-fyi, curated-design, awwwards, a1-gallery]
 ---
@@ -20,38 +20,36 @@ related: [minimal-gallery, typeface-fyi, curated-design, awwwards, a1-gallery]
 
 ## What it is
 
-Siteinspire is a hand-curated gallery of web design that has been running since 2008. Its `llms.txt` says it has published more than 10,000 sites. Interviews and his profile on the site name designer Daniel Howells as its curator. Every entry has a screenshot, a link to the live site, credits to the studios and people who made it, and tags from a taxonomy with four contexts: style, type, subject and platform. At review the MCP server reported 123 categories. The biggest were Agencies & Consultancies (2,400 sites), Typographic (2,104), Design & Art Direction (1,943) and Portfolio (1,437).
+Siteinspire is a curated gallery of website screenshots with a link to each featured live site. The gallery organizes work through separate style, type, subject and platform filters. Open a detail page to see its tags, credits and related sites, then follow the outbound link to study the original website. The gallery page and the sites it features are different design references: use the latter for visual study.
 
 ## When to open it
 
-Open it when you want quiet, editorial, type-led references: studio sites, portfolios, cultural institutions, small shops. The selection leans towards restraint and good typography over spectacle. It is also useful for finding studios, because profiles list their featured work, expertise and location.
+Use it when you want to browse by a visible design quality—such as typography, minimalism, grid layout, greyscale or unusual layout—and compare that trait across real projects. For a brutalist direction, it does not expose a dedicated Brutalist style in the available style filters; try Greyscale and Unusual Layout as adjacent filters, then judge each result on its own instead of assuming it is brutalist.
 
 ## Most useful
 
-- **Style tags** such as Typographic, Minimal, Grid Layout, Unusual Layout, Black & White and Big Type, which can be crossed with a type or subject
-- **Category intersections**: two or three categories combined, for example minimal + portfolio, limited to the last 24 months unless you ask for the archive
-- **Designer and studio profiles** with expertise tags and locations
-- **Platform tags** for Webflow, Cargo, ReadyMag and Shopify, though few sites carry them (7 to 32 each)
-- **Popular and recent feeds** for a quick look at what is being saved now
+- Start at [Greyscale Websites](https://www.siteinspire.com/websites/category/greyscale), then use the filter tabs to combine style with type or subject. The live gallery currently surfaces tags including Typographic, Minimal, Grid Layout and Unusual Layout alongside the selected style.
+- The [This Brutal House record](https://www.siteinspire.com/website/4434-this-brutal-house) demonstrates how a detail page links to a featured site and related examples. It was published in 2014, so treat it as an archive pointer and check whether the original site is still live before relying on it.
+- Open individual gallery entries to compare the captured composition with the current site. Study the layout, type scale, image-to-text balance, colour, spacing and interactions; treat names, copy and subject matter as incidental to your design question.
+- Use creator profiles and the related-sites list to follow a visual thread when one reference is close but not quite right.
+- A large archive includes older captures. Prefer recently added examples when you need current interaction patterns.
 
 ## Using it with agents
 
-Siteinspire has one of the more complete agent setups among classic galleries. A public, read-only MCP server runs at `https://www.siteinspire.com/api/mcp` (Streamable HTTP, no auth), with a server card at `/.well-known/mcp.json`. At review it listed eight tools: `search_sites`, `list_websites`, `explore_websites`, `get_website`, `list_profiles`, `get_profile`, `all_categories` and `popular_websites`. Results include the Siteinspire page, the live `websiteUrl`, a screenshot URL and credits. The `llms.txt` and `llms-full.txt` also document a REST API and public tRPC procedures. For exact browsing, call `all_categories` first, then `list_websites` or `explore_websites`.
+The website supports ordinary browser search and category filters, and its pages expose screenshots and links to featured sites. The previously documented MCP/API and `llms.txt` access could not be confirmed from the official pages reachable during this review, so this entry lists no verified agent channel. An agent can still use the gallery manually: open a category, shortlist a few records, inspect each live site in the browser and describe the reusable visual decisions separately from the original site's content.
 
 ## Watch out for
 
-- The HTML pages sit behind a Vercel bot check that returned HTTP 429 to scripted fetches at review; only the MCP endpoint answered reliably
-- Free-text `search_sites` came back empty for some style words ("brutalist") but worked for others ("portfolio"), so browsing by category is safer
-- The server card lists seven tools while the live server exposes eight
-- `robots.txt` blocks training crawlers such as GPTBot, ClaudeBot and CCBot, but allows user-triggered agents
-- The screenshots are Siteinspire's copyright, and the reuse note covers only the index, for non-commercial use
+- The available style list does not include a dedicated Brutalist tag; broad search terms may return loosely related records. Use filters to reduce the list, then inspect the screenshots and live sites yourself.
+- A record may be old even when its page still loads. Check its publish date and confirm the outbound website still works; do not assume an old gallery screenshot represents its current design.
+- The gallery and site screenshots remain their creators' work. No general reuse licence was stated on the accessible pages, so use them as visual references and do not copy or redistribute them.
+- This review confirmed the public gallery and category/detail pages. It did not verify the previously documented MCP/API or plain-text agent files; check those directly before relying on them.
 
 ## Reusable ideas
 
-- Tag every reference on separate axes (style, type, subject, platform) so they can be combined
-- Default discovery to recent work and make the archive an explicit choice
-- Return the gallery link and the live site as separate fields so agents cite both correctly
-- State a clear reuse rule for machine consumers in the `llms.txt`
+- Tag references on separate axes—visual style, site type, subject and platform—so a designer can narrow a large archive without relying on broad keyword search alone.
+- Keep each screenshot linked to its live source and display the record's age, credits and related work close to the example.
+- Use category combinations to find candidates, then inspect only a small number of full websites and record the visual decisions that transfer to the new project.
 
 ## Related
 

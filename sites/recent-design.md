@@ -1,6 +1,6 @@
 ---
 title: Recent
-description: Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
+description: Curated visual feeds for websites and other design work, with source links, style tags and a directory of third-party agent skills.
 url: https://recent.design
 type: gallery
 formats: inspiration gallery · skills directory
@@ -20,37 +20,35 @@ related: [collect-ui, inspora, posts-design, appshot-gallery, minimal-gallery]
 
 ## What it is
 
-Recent is a daily curated feed of design work, websites and digital products, run by a studio called System. According to its info page it started in 2023 as a way to gather the best design posted on X, was revived in 2026 with sources beyond X, and now replaces the Godly website gallery (godly.website redirects to it).
+Recent is a curated visual feed with separate galleries for design work, websites, OG images, app screenshots and icons. Its [Websites gallery](https://recent.design/websites) filters examples by industry, while the broader [Design feed](https://recent.design/) groups work by discipline. A detail page pairs a large visual capture with its source link and metadata tags. For example, [Nothing to Watch](https://recent.design/i/6wmr7uw-nothing-to-watch) shows a dark composition built around a centered 3D poster sphere, with style and interaction tags alongside a link to the live site.
 
 ## When to open it
 
-- When you want one place that covers broad design inspiration, whole websites, OG images, App Store screenshots and app icons.
-- When you're filtering references by visual attributes (style, color, interaction type) rather than by component name.
-- When you want a short, curated list of design-focused agent skills with copyable install commands.
+- When you want whole-site captures with a route to the original live page, then need to inspect the composition in context.
+- When you want a curated starting point and can browse by discipline or industry before judging individual examples by their tags.
+- When you want to discover third-party design skills separately from visual references.
 
 ## Most useful
 
-- A main Design feed split into Web, Interface, Branding, Product, Typography, Motion, Illustration, 3D, Editorial, Print and Packaging; the sitemap listed about 1,090 item pages at review time.
-- Item pages with a written description, source link, category, and style, color and interaction tags (for example "glassmorphism", "vibrant", "hover effect"), plus public impression and outbound-click counts.
-- Separate walls for Websites (filterable by industry such as AI, SaaS, agency, portfolio, finance), OG Images, App Screenshots and App Icons (by App Store category).
-- A Skills page grouping agent skills into Interface, Research, Development and Motion, each card showing install count and a copy button for its install command.
-- A Tools directory with partner deals and a design job board shown alongside the feed.
+- The [Design feed](https://recent.design/) has discipline filters including Web, Interface, Branding, Product, Typography, Motion, Illustration, 3D, Editorial, Print and Packaging. Open a detail page to see its capture, creator/source, category and any style, colour or interaction tags.
+- The [Websites gallery](https://recent.design/websites) filters by industry, such as AI, Agency, Portfolio, SaaS, Ecommerce, Editorial and Personal. Its [Nothing to Watch detail](https://recent.design/i/6wmr7uw-nothing-to-watch) is a concrete route from a curated capture to a live site, with 3D, Interactive, Animation, Dark, Transitions and Custom Cursor tags.
+- Separate galleries cover [OG images](https://recent.design/og-images), [App Store screenshots](https://recent.design/app-store-screenshots) and [app icons](https://recent.design/app-icons).
+- The [Skills directory](https://recent.design/skills) groups third-party repositories under Interface, Research, Development and Motion. Its install controls point to external skill projects; Recent does not provide a gallery API or its own design skill.
 
 ## Using it with agents
 
-Recent doesn't expose its own gallery to agents (no MCP, llms.txt or API), but its Skills page is directly usable: each card copies an `npx skills add ...` command for a public skill repository (design critique, polish, animation review, web design guidelines and similar). For the gallery itself, give the agent an item's description and style/color tags as the brief.
+Recent has no MCP, llms.txt or API for its visual galleries. Use the browser: start with the Websites industry filters or the Design discipline filters, open a detail page, inspect its capture and tags, then follow the source link and take a current screenshot of the live site. Ask the agent to name the composition, typography, colour, imagery and motion decisions it can reuse, rather than borrowing the example's content. The Skills directory is a separate index of third-party repositories, not a way to query the gallery; inspect a repository before installing its skill.
 
 ## Watch out for
 
-- Sponsored cards sit inside the Design and Websites feeds, and the Tools page mixes recommendations with affiliate-style deals.
-- The skills listed are third-party repositories; read a skill's source before installing it.
+- Sponsor placements can appear alongside the Design and Websites feeds, and the Tools page includes partner offers.
+- The skills listed are third-party repositories; check their sources and licences before installing them.
 - Featured work belongs to its creators; no reuse licence is given.
 
 ## Reusable ideas
 
-- Showing impressions and outbound clicks on each item gives visitors a signal of what the community actually opens, not just what the curator likes.
-- Keeping one account and navigation across several narrow walls (sites, OG images, app icons) makes a single gallery useful for many small design tasks.
-- Listing agent skills next to visual inspiration connects "what good looks like" to the tooling that helps an agent get there.
+- A detail page brings the visual capture, tags and source together, so an agent can explain why a reference fits and continue into the live site.
+- Separate discipline and industry filters help narrow the first pass; the tags on individual examples add a more visual description after selection.
 
 ## Related
 

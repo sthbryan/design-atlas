@@ -1,12 +1,12 @@
 # Hub map
 
-A snapshot of every hub, generated with `catalog.json` (latest review 2026-09-25): its scope, its "Start here" picks and its adjacent hubs. Read it to choose hubs without opening them, and to widen a thin hub. When a live hub is reachable, the live hub wins.
+A snapshot of every hub, generated with `catalog.json` (latest review 2026-09-26): its scope, its "Start here" picks and its adjacent hubs. Read it to choose hubs without opening them, and to widen a thin hub. When a live hub is reachable, the live hub wins.
 
 A hub marked "none yet" has no curated picks. Query the index for its topic, then read the adjacent hubs.
 
 | Hub | Scope | Start here | Adjacent hubs |
 |---|---|---|---|
-| `inspiration` | galleries of real interfaces and sites to look at before designing your own. | `kage`, `recent-design`, `designeer`, `curated-design`, `21st-dev` | `components`, `motion`, `navigation`, `footers`, `cta`, `design-md`, `landing-pages`, `color`, `3d-and-shaders` |
+| `inspiration` | galleries of real interfaces and sites to look at before designing your own. | `curated-design`, `one-page-love`, `a1-gallery`, `kage`, `recent-design` | `components`, `motion`, `navigation`, `footers`, `cta`, `design-md`, `landing-pages`, `color`, `3d-and-shaders` |
 | `landing-pages` | galleries, section libraries, templates and skills for marketing and launch pages. | `sections-wtf`, `curated-design`, `details`, `hallmark`, `good-ui` | `inspiration`, `cta`, `footers`, `navigation`, `motion`, `3d-and-shaders` |
 | `navigation` | navbars, menus and wayfinding patterns. | `navbar-gallery` | `inspiration`, `footers`, `cta`, `components`, `motion`, `landing-pages` |
 | `footers` | footer structure, density and content patterns. | `footer-design` | `navigation`, `inspiration`, `cta`, `landing-pages` |
