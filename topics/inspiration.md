@@ -55,6 +55,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section gallery with an MCP server that feeds real section screenshots to coding agents, plus paid Tailwind, Webflow and Figma components.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile-first websites since 2021, tagged by technique and genre.
+- [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.

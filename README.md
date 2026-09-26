@@ -107,8 +107,10 @@ The repository is private for now. Until it is public, both install commands nee
 | [Wondel.ai Skills](sites/wondelai-skills.md) | agent-skill-collection | agent-skills, ux-patterns, typography-and-styles | useful | skill | open-source-permissive |
 | [Aura](sites/aura.md) | ai-builder | agents-and-prompts, design-md, components, assets | useful | mcp | proprietary-paid |
 | [Kombai](sites/kombai.md) | ai-builder | agents-and-prompts, inspiration, landing-pages | useful | mcp, llms-txt, skill | proprietary-paid |
+| [make.design](sites/make-design.md) | ai-builder | landing-pages, inspiration, agents-and-prompts | niche | none | proprietary-paid |
 | [Mascofast](sites/mascofast.md) | ai-builder | assets, motion, agents-and-prompts | niche | llms-txt | proprietary-paid |
 | [Neuform](sites/neuform.md) | ai-builder | design-md, agents-and-prompts, inspiration, landing-pages | useful | prompts | proprietary-paid |
+| [v0](sites/v0.md) | ai-builder | agents-and-prompts, components, landing-pages | very-useful | mcp, llms-txt, api | proprietary-paid |
 | [Backgrounds Supply](sites/backgrounds-supply.md) | asset-library | assets, landing-pages, 3d-and-shaders | useful | llms-txt | proprietary-paid |
 | [Circle Loaders](sites/circle-loaders.md) | asset-library | components, motion, assets | niche | none | not-stated |
 | [Craftwork](sites/craftwork.md) | asset-library | assets, agents-and-prompts, typography-and-styles | very-useful | mcp, api, skill | proprietary-paid |
@@ -187,7 +189,10 @@ The repository is private for now. Until it is public, both install commands nee
 | [Carbon Design System](sites/carbon-design-system.md) | design-system | components, icons, documentation, agents-and-prompts | very-useful | mcp, llms-txt, skill | open-source-permissive |
 | [Kobra](sites/kobra.md) | design-system | components, agents-and-prompts, ai-interfaces | useful | llms-txt, api | proprietary-paid |
 | [Efecto](sites/efecto.md) | design-workspace | agents-and-prompts, 3d-and-shaders, assets | useful | mcp, llms-txt, api, skill | mixed |
+| [Figma](sites/figma.md) | design-workspace | components, agents-and-prompts, typography-and-styles | very-useful | mcp, llms-txt, cli, api, skill | proprietary-paid |
+| [Framer](sites/framer.md) | design-workspace | landing-pages, motion, agents-and-prompts | very-useful | llms-txt, cli, api, skill | proprietary-paid |
 | [OpenDesign](sites/open-design.md) | design-workspace | design-md, agents-and-prompts, typography-and-styles | very-useful | mcp, cli, skill | open-source-permissive |
+| [Penpot](sites/penpot.md) | design-workspace | components, agents-and-prompts, typography-and-styles | very-useful | mcp, llms-txt | open-source-copyleft |
 | [Uiuno](sites/uiuno.md) | design-workspace | components, motion, agents-and-prompts | niche | registry | not-stated |
 | [Designeer](sites/designeer.md) | directory | inspiration, components, assets | useful | llms-txt | not-stated |
 | [Shadcn Labs](sites/shadcn-labs.md) | directory | components, agents-and-prompts, documentation | useful | none | open-source-permissive |
@@ -294,6 +299,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Torph](sites/torph.md) | js-library | motion, typography-and-styles, components | useful | none | open-source-permissive |
 | [Good UI](sites/good-ui.md) | pattern-library | cta, ux-patterns, landing-pages | useful | none | proprietary-paid |
 | [The Shape of AI](sites/shape-of-ai.md) | pattern-library | ai-interfaces, ux-patterns, inspiration | very-useful | none | cc-noncommercial |
+| [Lafys](sites/lafys.md) | prompt-library | agents-and-prompts, landing-pages, 3d-and-shaders | niche | llms-txt, prompts | proprietary-paid |
 | [VibePrompts](sites/vibeprompts.md) | prompt-library | agents-and-prompts, components, cta | useful | prompts | not-stated |
 | [VibeUI](sites/vibeui.md) | prompt-library | agents-and-prompts, components, cta, landing-pages | useful | prompts | not-stated |
 | [soundcn](sites/soundcn.md) | sound-library | sound, assets, components | useful | registry | mixed |

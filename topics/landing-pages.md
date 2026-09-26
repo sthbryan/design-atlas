@@ -29,18 +29,21 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Cult UI](../sites/cult-ui.md) — Textured, distinctive marketing components and shader heroes built with Motion; paid blocks and templates.
 - [Curated](../sites/curated-design.md) — About 2,240 live sites by industry and style, plus a 2,267-entry section library (mostly Pro).
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
+- [Framer](../sites/framer.md) — Canvas website builder and host with an in-app agent, skills, and a bridge that lets Claude Code or Codex edit projects on branches.
 - [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
 - [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
 - [Kibo UI](../sites/kibo-ui.md) — Free MIT shadcn companion with 41 functional components (Gantt, Kanban, editor), 28 marketing blocks and an MCP server.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
+- [Lafys](../sites/lafys.md) — Paid library of long website prompts for Claude, Lovable and v0, each with a video of the result; conflicting licence terms.
 - [Landbook](../sites/land-book.md) — Veteran human-curated website gallery with 20,000+ sites and 200,000+ cropped sections, filters by colour, style and platform, and an experts directory.
 - [Landdding](../sites/landdding.md) — Daily feed of about 2,400 landing pages in 40 categories, with tag, colour and platform filters and an llms.txt; free browsing is metered.
 - [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section gallery with an MCP server that feeds real section screenshots to coding agents, plus paid Tailwind, Webflow and Figma components.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
+- [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [Re UI](../sites/re-ui.md) — KeenThemes' shadcn registry with data grid, Gantt and calendar primitives, paid blocks and an MCP server.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
@@ -56,6 +59,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
 - [Utopia](../sites/utopia.md) — Free calculators that turn two type and spacing scales into fluid CSS clamp() tokens, with npm packages.
+- [v0](../sites/v0.md) — Vercel's prompt-to-app builder on Next.js and shadcn/ui, with an OAuth MCP server, a Platform API and full docs as llms.txt.
 - [Venust Backgrounds](../sites/venust-backgrounds.md) — CC0 AI hero backgrounds sorted by page slot, each with its prompt; llms.txt and Markdown for agents.
 - [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
 <!-- atlas:sources:end -->

@@ -2748,6 +2748,41 @@
       ]
     },
     {
+      "slug": "figma",
+      "path": "sites/figma.md",
+      "title": "Figma",
+      "description": "The default design canvas, with Dev Mode, Code Connect and a remote MCP server that reads designs and writes back to the canvas.",
+      "url": "https://figma.com",
+      "type": "design-workspace",
+      "formats": "design workspace · Dev Mode · remote MCP server with write tools · Code Connect CLI (npm) · REST, Plugin and Widget APIs · llms.txt",
+      "topics": [
+        "components",
+        "agents-and-prompts",
+        "typography-and-styles"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli",
+        "api",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "Freemium and proprietary. Starter is free with limited files and up to 500 AI credits a month. Professional costs $16 per Full seat, $12 per Dev seat and $3 per Collab seat per month; Organization ($55/$25/$5) and Enterprise ($90/$35/$5) are billed yearly. The AI terms leave inputs and outputs with the customer. Community files are licensed by their creators, not by Figma",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "kombai",
+        "open-design",
+        "penpot",
+        "framer",
+        "v0"
+      ]
+    },
+    {
       "slug": "fluid-functionalism",
       "path": "sites/fluid-functionalism.md",
       "title": "Fluid Functionalism",
@@ -2892,6 +2927,40 @@
         "motion-primitives",
         "magic-ui",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "framer",
+      "path": "sites/framer.md",
+      "title": "Framer",
+      "description": "Canvas website builder and host with an in-app agent, skills, and a bridge that lets Claude Code or Codex edit projects on branches.",
+      "url": "https://framer.com",
+      "type": "design-workspace",
+      "formats": "visual website builder and host · built-in AI agent and skills · external-agent bridge (`@framer/agent`) · Server API (npm) · template marketplace · llms.txt",
+      "topics": [
+        "landing-pages",
+        "motion",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "cli",
+        "api",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "Freemium and proprietary. Free includes a Framer subdomain, 1 GB bandwidth and 500 trial AI credits, and the pricing FAQ calls it ideal for non-commercial use. With yearly billing, Basic is $10 and Pro is $30 per site per month, with 1,000 and 3,000 agent credits. Extra editors are $20 a month, and Enterprise is custom. Customers keep ownership of their content. Marketplace templates come from Framer or third-party creators",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "motion-dev",
+        "aura",
+        "spline",
+        "rive",
+        "figma",
+        "v0"
       ]
     },
     {
@@ -4080,6 +4149,37 @@
       ]
     },
     {
+      "slug": "lafys",
+      "path": "sites/lafys.md",
+      "title": "Lafys",
+      "description": "Paid library of long website prompts for Claude, Lovable and v0, each with a video of the result; conflicting licence terms.",
+      "url": "https://lafys.com",
+      "type": "prompt-library",
+      "formats": "paid prompt library for AI website builders · video previews · background library",
+      "topics": [
+        "agents-and-prompts",
+        "landing-pages",
+        "3d-and-shaders"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt",
+        "prompts"
+      ],
+      "pricing": "paid",
+      "licence": "Mostly paid; a few prompts can be copied free. At review, a yearly plan cost $200 (listed down from $300) for personal use with 10 prompts a day, a monthly plan cost $49 (listed down from $89) with unlimited prompts and a client licence, lifetime access cost $349 one-off, and Enterprise with resale rights was by quote. No refunds. The terms of use are generic and limit site content to personal, non-commercial use",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "vibeprompts",
+        "getlayers",
+        "vibeui",
+        "neuform",
+        "landing-love"
+      ]
+    },
+    {
       "slug": "land-book",
       "path": "sites/land-book.md",
       "title": "Landbook",
@@ -4550,6 +4650,35 @@
         "shadcn-ui",
         "21st-dev",
         "cta-gallery"
+      ]
+    },
+    {
+      "slug": "make-design",
+      "path": "sites/make-design.md",
+      "title": "make.design",
+      "description": "Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.",
+      "url": "https://make.design",
+      "type": "ai-builder",
+      "formats": "AI design generator (prompt to website, app and marketing mockups) · public showcase gallery",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "agents-and-prompts"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Paid with a 3-day trial on each plan. Monthly: Starter $9 (75 images), Pro $25 (200), Max $50 (400, $30 for the first month); annual billing saves 30%. Each generation costs 2 credits and most edits 1. The terms say you own your prompts and uploads and may use generated designs commercially without attribution; the service itself is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "aura",
+        "neuform",
+        "screenshot-to-code",
+        "kombai",
+        "v0",
+        "framer"
       ]
     },
     {
@@ -5313,6 +5442,37 @@
         "termcn",
         "shadcn-ui",
         "mapcn"
+      ]
+    },
+    {
+      "slug": "penpot",
+      "path": "sites/penpot.md",
+      "title": "Penpot",
+      "description": "MPL-2.0, self-hostable Figma alternative with CSS Flex/Grid layout, W3C-format design tokens and an official MCP server.",
+      "url": "https://penpot.app",
+      "type": "design-workspace",
+      "formats": "open-source design workspace · self-hostable (Docker) · MCP server (remote and local) · plugin API · llms.txt",
+      "topics": [
+        "components",
+        "agents-and-prompts",
+        "typography-and-styles"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "MPL-2.0 source at `penpot/penpot` (about 60,000 stars at review), free to self-host. Cloud: Professional is $0 with no file limits, Unlimited is $7 per editor per month capped at $175, Enterprise is $25 per member per month, and a Private Server costs $50k a year. Discounts for non-profits, education and open source. The site says you own your designs and code",
+      "licence_class": "open-source-copyleft",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "figma",
+        "open-design",
+        "shadcn-ui",
+        "refero-styles",
+        "designmd"
       ]
     },
     {
@@ -7682,6 +7842,39 @@
         "wakamai-fondue",
         "design-system-checklist",
         "css-text-effects"
+      ]
+    },
+    {
+      "slug": "v0",
+      "path": "sites/v0.md",
+      "title": "v0",
+      "description": "Vercel's prompt-to-app builder on Next.js and shadcn/ui, with an OAuth MCP server, a Platform API and full docs as llms.txt.",
+      "url": "https://v0.app",
+      "type": "ai-builder",
+      "formats": "AI app builder (Next.js, Tailwind, shadcn/ui) · MCP server · Platform API and `v0-sdk` (npm) · docs as llms.txt and Markdown",
+      "topics": [
+        "agents-and-prompts",
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "Credit-based. Free includes $5 of monthly credits and 7 messages a day. Plus is $30 per user per month (shown discounted from $90 at review) with $30 of credits plus $2 daily, Business is $100 per user per month with training opt-out by default, and Enterprise is custom. Usage is billed per million tokens by model tier. The service is proprietary; the `v0-sdk` package is Apache-2.0",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "21st-dev",
+        "shadcnblocks",
+        "screenshot-to-code",
+        "kombai",
+        "figma"
       ]
     },
     {
