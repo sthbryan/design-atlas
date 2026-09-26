@@ -308,6 +308,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [posts.design](sites/posts-design.md) | gallery | inspiration, assets, agents-and-prompts | useful | llms-txt, api | proprietary-free |
 | [Rebrand Gallery](sites/rebrand-gallery.md) | gallery | inspiration, typography-and-styles | useful | none | proprietary-paid |
 | [Recent](sites/recent-design.md) | gallery | inspiration, assets, agents-and-prompts | very-useful | skill | not-stated |
+| [Refs.Gallery](sites/refs-gallery.md) | gallery | inspiration, typography-and-styles, agents-and-prompts | useful | llms-txt | not-stated |
 | [SaaS Landing Page](sites/saas-landing-page.md) | gallery | landing-pages, inspiration, typography-and-styles | useful | none | not-stated |
 | [SaaSFrame](sites/saasframe.md) | gallery | landing-pages, ux-patterns, inspiration | useful | none | proprietary-paid |
 | [Saaspo](sites/saaspo.md) | gallery | landing-pages, inspiration | useful | none | not-stated |

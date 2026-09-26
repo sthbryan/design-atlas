@@ -7648,6 +7648,36 @@
       ]
     },
     {
+      "slug": "refs-gallery",
+      "path": "sites/refs-gallery.md",
+      "title": "Refs.Gallery",
+      "description": "Hand-picked gallery of 2,163 award-level sites with a deep tag taxonomy (framework, CMS, animation, hosting) and weekly updates.",
+      "url": "https://refs.gallery",
+      "type": "gallery",
+      "formats": "curated website gallery · tag and stack filters · collections · editorial articles (Margins) · weekly newsletter · sponsorship slots · llm.txt",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse, with no user account or paid tier found. Money comes from sponsorship packages (a gallery slot, a newsletter block and a pinned placement). The footer carries a \"fair use\" notice and the featured sites stay their owners' work; nothing is stated about reusing the screenshots or the metadata. Submission is by email only, and no terms page was reachable at review",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "best-website-gallery",
+        "minimal-gallery",
+        "awwwards",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "reicon",
       "path": "sites/reicon.md",
       "title": "Reicon",
