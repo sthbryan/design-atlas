@@ -17,6 +17,7 @@ Chart components, dashboard building blocks and small data displays (spark chart
 ## All sources
 
 <!-- atlas:sources:start -->
+- [beUI](../sites/beui.md) — MIT motion components, agent UI and charts with llms.txt, JSON API, agent skill and hosted MCP; paid Pro adds blocks and templates.
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
 <!-- atlas:sources:end -->

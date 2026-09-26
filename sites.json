@@ -574,6 +574,35 @@
       ]
     },
     {
+      "slug": "animated-shadcn-ui",
+      "path": "sites/animated-shadcn-ui.md",
+      "title": "Animated shadcn/ui",
+      "description": "Alpha MIT set of stock shadcn/ui components with Motion added, installed via its own CLI or npm package.",
+      "url": "https://shadcn-animated.vercel.app",
+      "type": "component-library",
+      "formats": "component library (npm package and CLI)",
+      "topics": [
+        "components",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repo `sopo/shadcn-animated`, npm package `shadcn-animated`)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "base-ui",
+        "animate-ui",
+        "motion-dev",
+        "motion-primitives"
+      ]
+    },
+    {
       "slug": "animejs",
       "path": "sites/animejs.md",
       "title": "Anime.js",
@@ -1124,6 +1153,42 @@
         "curations-supply",
         "appinspo",
         "recent-design"
+      ]
+    },
+    {
+      "slug": "beui",
+      "path": "sites/beui.md",
+      "title": "beUI",
+      "description": "MIT motion components, agent UI and charts with llms.txt, JSON API, agent skill and hosted MCP; paid Pro adds blocks and templates.",
+      "url": "https://beui.dev",
+      "type": "component-registry",
+      "formats": "animated component registry (shadcn) · agent skill · MCP server · paid Pro tier",
+      "topics": [
+        "components",
+        "motion",
+        "ai-interfaces",
+        "data-viz"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "registry",
+        "api",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "the free library is MIT (repo `starc007/ui-components`). beUI Pro is $129 for one year of access (no auto-renewal) or $179 lifetime per seat, with unlimited personal and client projects; single templates also sell separately for $39 to $99. No separate Pro licence or refund page was found at review",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "smooth-ui",
+        "prompt-kit",
+        "animate-ui",
+        "motion-primitives",
+        "evil-charts",
+        "sona-ui"
       ]
     },
     {
@@ -2847,6 +2912,37 @@
       ]
     },
     {
+      "slug": "eldora-ui",
+      "path": "sites/eldora-ui.md",
+      "title": "Eldora UI",
+      "description": "MIT animated landing-page components, text effects, device mockups and blocks, installed via the @eldoraui shadcn namespace, with llms.txt.",
+      "url": "https://www.eldoraui.site",
+      "type": "component-registry",
+      "formats": "component library · blocks · device mockups (shadcn registry)",
+      "topics": [
+        "components",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repo `karthikmudunuri/eldoraui`). No paid tier found",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "magic-ui",
+        "aceternity-ui",
+        "shadcn-ui",
+        "motion-primitives",
+        "syntax-ui"
+      ]
+    },
+    {
       "slug": "emailcn",
       "path": "sites/emailcn.md",
       "title": "emailcn",
@@ -3404,6 +3500,37 @@
         "navbar-gallery",
         "cta-gallery",
         "404s"
+      ]
+    },
+    {
+      "slug": "forgeui",
+      "path": "sites/forgeui.md",
+      "title": "ForgeUI",
+      "description": "Animated SaaS components, blocks and templates via the @forgeui shadcn namespace; free code has a no-redistribution licence, Pro is $99 one-time.",
+      "url": "https://forgeui.in",
+      "type": "component-registry",
+      "formats": "component library · blocks · templates (shadcn registry, freemium)",
+      "topics": [
+        "components",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry",
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "freemium. The free components sit in a public repo (`AmanShakya0018/forgeui`) under a custom licence that allows personal, commercial and client use but forbids repackaging or redistributing the code as a kit. ForgeUI Pro costs a one-time $99 (shown as reduced from $169 at review) for lifetime access; its terms allow unlimited personal and client projects, forbid resale, sharing or competing kits, and say all sales are final with no refunds",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "aceternity-ui",
+        "shadcnblocks",
+        "magic-ui",
+        "shadcn-ui",
+        "gsap"
       ]
     },
     {
@@ -6047,6 +6174,37 @@
       ]
     },
     {
+      "slug": "odyssey-ui",
+      "path": "sites/odyssey-ui.md",
+      "title": "Odyssey UI",
+      "description": "Animated primitives, AI chat parts and pricing blocks built on Animate UI, via the @odysseyui namespace; no licence file in the repo.",
+      "url": "https://www.odysseyui.com",
+      "type": "component-registry",
+      "formats": "animated component registry (shadcn)",
+      "topics": [
+        "components",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free; no licence is stated on the site, and the GitHub repo (`shr3kx/odysseyUI`) had no licence file at review. The project says its core is built on Animate UI, whose own licence is MIT plus Commons Clause",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "animate-ui",
+        "shadcn-ui",
+        "radix",
+        "base-ui",
+        "headless-ui",
+        "prompt-kit"
+      ]
+    },
+    {
       "slug": "ogimagecn",
       "path": "sites/ogimagecn.md",
       "title": "ogimagecn",
@@ -7717,6 +7875,39 @@
       ]
     },
     {
+      "slug": "sona-ui",
+      "path": "sites/sona-ui.md",
+      "title": "Sona UI",
+      "description": "Small MIT set of accessible animated React components with an agent manifest, catalog, skill and read-only API through shadcn.",
+      "url": "https://www.sonaui.com",
+      "type": "component-registry",
+      "formats": "animated component registry (shadcn) · agent skill · read-only API",
+      "topics": [
+        "components",
+        "motion",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "registry",
+        "api",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repo `Dinil-Thilakarathne/sona-ui`), which the docs restate as use, modify and distribute in personal and commercial projects. Funded by GitHub Sponsors and a platform partner",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "beui",
+        "smooth-ui",
+        "base-ui",
+        "paper-shaders",
+        "shadcn-ui"
+      ]
+    },
+    {
       "slug": "soundcn",
       "path": "sites/soundcn.md",
       "title": "soundcn",
@@ -8077,6 +8268,33 @@
         "ui-taste",
         "emil-kowalski-skills",
         "laws-of-ux"
+      ]
+    },
+    {
+      "slug": "syntax-ui",
+      "path": "sites/syntax-ui.md",
+      "title": "Syntax UI",
+      "description": "MIT copy-paste Tailwind and Framer Motion buttons, loaders, blocks and effects; mostly dormant, with some docs pages erroring at review.",
+      "url": "https://syntaxui.com",
+      "type": "component-library",
+      "formats": "component library (copy-paste)",
+      "topics": [
+        "components",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "free library under MIT (repo `syntaxUI/syntaxui`); a separate SyntaxUI Pro sells premium blocks and templates with \"lifetime access\", but its price and licence terms did not render without JavaScript at review",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "uiverse",
+        "magic-ui",
+        "eldora-ui",
+        "motion-dev"
       ]
     },
     {
@@ -9078,6 +9296,36 @@
         "klim",
         "typeface-fyi",
         "minimal-gallery"
+      ]
+    },
+    {
+      "slug": "vengeance-ui",
+      "path": "sites/vengeance-ui.md",
+      "title": "Vengeance UI",
+      "description": "MIT animated hover, text and scroll effects plus landing blocks for Next.js, installed with shadcn from a GitHub-hosted registry.",
+      "url": "https://www.vengeanceui.com",
+      "type": "component-library",
+      "formats": "animated component library · blocks · templates (shadcn-compatible registry)",
+      "topics": [
+        "components",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repo `Ashutoshx7/VengenceUI`). The site's terms only cover paid sponsor placements, billed monthly through Stripe; there is no paid component tier",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "skiper-ui",
+        "aceternity-ui",
+        "reactbits",
+        "magic-ui",
+        "eldora-ui"
       ]
     },
     {
