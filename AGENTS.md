@@ -22,6 +22,7 @@ The build owns these parts; your edits there are overwritten or fail the check:
 - In each hub, everything between the `atlas:sources` start and end markers.
 - In each site page, the breadcrumb line directly after the frontmatter and the body of the `## Related` section.
 - `llms.txt` and `sites.json`.
+- `skills/design-atlas/references/catalog.json` and `skills/design-atlas/references/hub-map.md`, the snapshot the `design-atlas` skill falls back to offline.
 
 Change the frontmatter instead, then run the build. The markers are the only HTML comments allowed anywhere in the repo.
 

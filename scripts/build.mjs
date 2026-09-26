@@ -196,6 +196,49 @@ outputs.set('sites.json', `${JSON.stringify({
   sites: listed.map(pick),
 }, null, 2)}\n`);
 
+const SKILL_REFS = 'skills/design-atlas/references';
+const CATALOG_FIELDS = [
+  'slug', 'path', 'title', 'description', 'url', 'type', 'topics', 'verdict', 'agent',
+  'pricing', 'licence_class', 'licence', 'reviewed', 'status', 'note', 'related',
+];
+const catalogRow = (s) => JSON.stringify(Object.fromEntries(CATALOG_FIELDS.filter((k) => s[k] !== undefined).map((k) => [k, s[k]])));
+const catalogAbout = {
+  name: 'Design Atlas bundled catalog',
+  repository: 'https://github.com/sthbryan/design-atlas',
+  snapshot_of: 'main',
+  latest_review: listed.map((s) => s.reviewed).sort().at(-1),
+  content_licence: 'CC BY 4.0, Design Atlas contributors',
+};
+outputs.set(`${SKILL_REFS}/catalog.json`, [
+  '{',
+  `"about":${JSON.stringify(catalogAbout)},`,
+  '"topics":[',
+  topics.map((t) => JSON.stringify({ slug: t.slug, path: t.path, title: t.title, description: t.description })).join(',\n'),
+  '],',
+  '"sites":[',
+  listed.map(catalogRow).join(',\n'),
+  ']',
+  '}',
+  '',
+].join('\n'));
+
+const hubSection = (body, name) => (body.match(new RegExp(`^## ${name}\\n([\\s\\S]*?)(?=^## |(?![\\s\\S]))`, 'm')) ?? [])[1] ?? '';
+const slugsIn = (text, pattern) => [...text.matchAll(pattern)].map((m) => `\`${m[1]}\``).join(', ');
+outputs.set(`${SKILL_REFS}/hub-map.md`, [
+  '# Hub map',
+  '',
+  `A snapshot of every hub, generated with \`catalog.json\` (latest review ${catalogAbout.latest_review}): its scope, its "Start here" picks and its adjacent hubs. Read it to choose hubs without opening them, and to widen a thin hub. When a live hub is reachable, the live hub wins.`,
+  '',
+  'A hub marked "none yet" has no curated picks. Query the index for its topic, then read the adjacent hubs.',
+  '',
+  '| Hub | Scope | Start here | Adjacent hubs |',
+  '|---|---|---|---|',
+  ...topics.map((t) => `| \`${t.slug}\` | ${cell(t.description)} | ${slugsIn(hubSection(t.body, 'Start here'), /\(\.\.\/sites\/([a-z0-9-]+)\.md\)/g) || 'none yet'} | ${slugsIn(hubSection(t.body, 'Related topics'), /\(([a-z0-9-]+)\.md\)/g) || 'none'} |`),
+  '',
+  'Every hub has the same sections: Start here, All sources, Patterns worth reusing, Pitfalls and Related topics. Read "Start here", "Patterns worth reusing" and "Pitfalls"; skip "All sources", because the index already lists them.',
+  '',
+].join('\n'));
+
 outputs.set('llms.txt', [
   '# Design Atlas',
   '',
@@ -232,7 +275,7 @@ function markdownFiles(dir = ROOT) {
   });
 }
 
-for (const path of new Set([...markdownFiles(), ...[...outputs.keys()].filter((p) => p !== 'sites.json')])) {
+for (const path of new Set([...markdownFiles(), ...[...outputs.keys()].filter((p) => !p.endsWith('.json'))])) {
   const text = outputs.get(path) ?? read(path);
   for (const comment of text.match(/<!--[\s\S]*?-->/g) ?? []) {
     if (!ALLOWED_COMMENTS.has(comment)) fail(path, `comment not allowed (only generator markers): ${comment.slice(0, 60)}`);
