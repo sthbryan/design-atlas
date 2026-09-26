@@ -4,7 +4,7 @@
 
 - **URL:** https://craftwork.design
 - **Type:** asset marketplace · MCP server
-- **Topics:** illustrations, 3D, mockups, fonts, templates, assets, agents-and-prompts
+- **Topics:** assets, agents-and-prompts, typography-and-styles
 - **Pricing / licence:** Freebies plus paid packs (roughly $8–$160 on the homepage); Pro from $49/month or $199/year ($69/$299 for teams). Proprietary licence: commercial use for teams of up to 20, no redistribution or resale in templates
 - **Reviewed:** 2026-09-25
 

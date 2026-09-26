@@ -4,7 +4,7 @@
 
 - **URL:** https://useanimations.com
 - **Type:** icon library · animated icons
-- **Topics:** icons, animated icons, Lottie, assets, motion, React
+- **Topics:** icons, assets, motion
 - **Pricing / licence:** Free / CC BY 4.0 with extra restrictions (attribution required, no redistribution or resale in templates); npm package metadata says MIT
 - **Reviewed:** 2026-09-25
 

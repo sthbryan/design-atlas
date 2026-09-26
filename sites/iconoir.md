@@ -4,7 +4,7 @@
 
 - **URL:** https://iconoir.com
 - **Type:** icon library
-- **Topics:** icons, SVG, assets, React, Figma
+- **Topics:** icons, assets, components
 - **Pricing / licence:** Free / MIT (donations via Open Collective)
 - **Reviewed:** 2026-09-25
 

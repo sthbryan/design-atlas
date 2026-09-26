@@ -32,7 +32,7 @@ Download the file into the project root and reference it from your agent's rules
 ## Watch out for
 
 - Only the Style Foundations section comes from the page. Most of the other sections (accessibility, do/don't rules, workflow, quality gates) are fixed template text that's the same for every site, so the file is more of a process scaffold than a measured spec like [DesignMD.cc](designmd-cc.md).
-- There's no YAML token block, and it doesn't use Google's section order, so tools built for that spec, or for the nine-section files in [Refero Styles](refero-styles.md) and [OpenDesign](open-design.md), may not parse it.
+- There's no YAML token block, and it doesn't use Google's section order, so tools built for that spec, or for the nine-section files in [OpenDesign](open-design.md), may not parse it.
 - It only samples elements that are visible in the page's current state, so run it on several pages (and in dark mode) for a fuller picture.
 - MIT covers the extension code, not the brand you extract. Don't lift logos or trademarks.
 

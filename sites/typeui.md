@@ -30,7 +30,7 @@ TypeUI is a platform from Bergside, the team behind Flowbite. It ships "design s
 
 - CLI: `npx typeui.sh pull <slug>` fetches a registry skill (add `--format design` for DESIGN.md, which is written to the project root). `list` browses the registry. `generate` and `update` build a file from interactive questions. `randomize` creates a random starter system.
 - MCP: a hosted server at `https://mcp.typeui.sh/mcp` with OAuth sign-in. It serves skills, prompts and layout variations. You can publish your own workspace design system (from a theme, a markdown ZIP, or a Figma import in beta) as several markdown files that the MCP then serves.
-- There are setup guides for Codex, Claude, Cursor and about twenty other tools. Related extractors from the same team: [DESIGN.md Chrome](design-md-chrome.md), plus Figma and Penpot plugins.
+- There are setup guides for Codex, Claude, Cursor and about twenty other tools. Related extractors from the same team: [TypeUI DESIGN.md Extractor](design-md-chrome.md), plus Figma and Penpot plugins.
 
 ## Watch out for
 
@@ -48,4 +48,4 @@ TypeUI is a platform from Bergside, the team behind Flowbite. It ships "design s
 
 ## Related
 
-[DESIGN.md](designmd.md), [getdesign.md](getdesign-md.md), [DESIGN.md Chrome](design-md-chrome.md), [VibePrompts](vibeprompts.md), [Refero Styles](refero-styles.md)
+[DESIGN.md](designmd.md), [getdesign.md](getdesign-md.md), [TypeUI DESIGN.md Extractor](design-md-chrome.md), [VibePrompts](vibeprompts.md), [Refero Styles](refero-styles.md)

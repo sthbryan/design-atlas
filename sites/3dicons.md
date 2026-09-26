@@ -4,7 +4,7 @@
 
 - **URL:** https://3dicons.co
 - **Type:** asset library
-- **Topics:** icons, 3D icons, assets, Figma
+- **Topics:** icons, assets, components
 - **Pricing / licence:** CC0 / Free (Pro available)
 - **Reviewed:** 2026-09-25
 

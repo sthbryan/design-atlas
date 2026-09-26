@@ -32,7 +32,6 @@ A curated set of references for building websites and UI — galleries, componen
 |---|---|---|---|---|
 | [Aura](sites/aura.md) | AI builder | agents-and-prompts, design-md, components, assets | useful | Yes |
 | [Neuform](sites/neuform.md) | AI builder | design-md, agents-and-prompts, inspiration | useful | Yes |
-| [3dicons](sites/3dicons.md) | Asset library | icons, assets, components | useful | No |
 | [Circle Loaders](sites/circle-loaders.md) | Asset library | components, motion, assets | niche | No |
 | [Craftwork](sites/craftwork.md) | Asset library | assets, agents-and-prompts, typography-and-styles | very useful | Yes |
 | [Kitbitz](sites/kitbitz.md) | Asset library | assets, components | useful | No |
@@ -56,6 +55,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Designeer](sites/designeer.md) | Directory | inspiration, components, assets | useful | No |
 | [The Component Gallery](sites/component-gallery.md) | Documentation | components, documentation | very useful | No |
 | [Gradient Buttons](sites/gradient-buttons.md) | Gallery | components, typography-and-styles | niche | No |
+| [3dicons](sites/3dicons.md) | Icon library | icons, assets, components | useful | No |
 | [Animated Icons](sites/animated-icons.md) | Icon library | icons, assets, motion | useful | No |
 | [Iconoir](sites/iconoir.md) | Icon library | icons, assets, components | very useful | No |
 | [useAnimations](sites/useanimations.md) | Icon library | icons, assets, motion | niche | No |

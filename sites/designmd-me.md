@@ -48,4 +48,4 @@ DesignMD is a tool from Crowdlinker Inc. You give it a URL and it writes a DESIG
 
 ## Related
 
-[designmd.supply](designmd-supply.md), [Hyperbrowser DESIGN.md](hyperbrowser-design-md.md), [DESIGN.md Chrome](design-md-chrome.md), [getdesign.md](getdesign-md.md), [Refero Styles](refero-styles.md)
+[designmd.supply](designmd-supply.md), [Hyperbrowser DESIGNMD](hyperbrowser-design-md.md), [TypeUI DESIGN.md Extractor](design-md-chrome.md), [getdesign.md](getdesign-md.md), [Refero Styles](refero-styles.md)

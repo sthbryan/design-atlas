@@ -4,7 +4,7 @@
 
 - **URL:** https://uisfx.com
 - **Type:** sound library · JS library
-- **Topics:** UI sound effects, audio, assets, agents-and-prompts
+- **Topics:** assets, agents-and-prompts
 - **Pricing / licence:** Free / runtime code MIT, audio CC0 (GitHub Sponsors optional)
 - **Reviewed:** 2026-09-25
 

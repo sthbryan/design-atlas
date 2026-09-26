@@ -44,4 +44,4 @@ Copy the DESIGN.md from a guide page into your project root and point the agent 
 
 ## Related
 
-[DesignMD (designmd.me)](designmd-me.md), [Hyperbrowser DESIGN.md](hyperbrowser-design-md.md), [getdesign.md](getdesign-md.md), [Refero Styles](refero-styles.md), [DESIGN.md](designmd.md)
+[DesignMD (designmd.me)](designmd-me.md), [Hyperbrowser DESIGNMD](hyperbrowser-design-md.md), [getdesign.md](getdesign-md.md), [Refero Styles](refero-styles.md), [DESIGN.md](designmd.md)

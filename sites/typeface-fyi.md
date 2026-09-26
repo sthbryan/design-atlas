@@ -4,7 +4,7 @@
 
 - **URL:** https://typeface.fyi
 - **Type:** tool · Chrome extension
-- **Topics:** font identification, typography, foundries
+- **Topics:** typography-and-styles, inspiration
 - **Pricing / licence:** Free on the Chrome Web Store / proprietary ("all rights reserved"); fonts it identifies keep their own licences
 - **Reviewed:** 2026-09-25
 
