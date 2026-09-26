@@ -20,40 +20,51 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 ## All sources
 
 <!-- atlas:sources:start -->
-- [Color.review](../sites/color-review.md) — a contrast check for one text and background pair, with the large-text size rules for AA and AAA explained under the tool.
-- [Craftwork](../sites/craftwork.md) — a paid marketplace whose catalogue includes display fonts, with an agent-only font catalogue on the Pro MCP.
-- [CSS Text Effects](../sites/css-text-effects.md) — animated text effects with `--ink`-style custom-property tokens.
-- [Curated](../sites/curated-design.md) — live sites filtered by seven visual styles (Animated, Minimal, Colorful, Dark, Pastel, Gradients, Neobrutalism) across 16 industries.
-- [Dark Mode Design](../sites/dark-mode-design.md) — dark-by-default sites for studying how studios set type, accent colour and imagery on near-black.
-- [DESIGN.md](../sites/designmd.md) — palette, typography, spacing and tone as one downloadable markdown file.
-- [Design.md Store](../sites/designmd-store.md) — 51 brand-inspired style packs from retail, media and travel as well as tech; raw files may not be re-shared.
-- [DesignMD (designmd.me)](../sites/designmd-me.md) — generates a style file from any URL, with type roles, palette and spacing measured in a real browser; credit-based.
-- [DesignMD.cc](../sites/designmd-cc.md) — free generator whose typography section is a role table (size, weight, line height, tracking) measured from live CSS.
-- [designmd.supply](../sites/designmd-supply.md) — free generator that hands tokens back as markdown, a Tailwind v4 `@theme` block or CSS variables.
-- [emailcn](../sites/emailcn.md) — 14 email themes on one token shape shared by three renderers, each paired with a font helper so fallback stacks are chosen once.
-- [getdesign.md](../sites/getdesign-md.md) — free brand style files with detailed tokens, hard-limit Do's and Don'ts and preview pages.
-- [Gradient Buttons](../sites/gradient-buttons.md) — a gallery of copy-paste CSS gradient styles.
-- [Hallmark](../sites/hallmark.md) — an agent skill with 21 themes and firm foundations: at least two typefaces, OKLCH palettes with one anchor hue, and an accent under 5% of the page.
-- [Huetone](../sites/huetone.md) — builds colour scales where each step matches in lightness across hues, exported as CSS variables or Tokens Studio JSON.
-- [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — a quick colour-and-font starting file for any domain; no spacing or component tokens.
-- [Inspora](../sites/inspora.md) — recent work tagged by colour and style words (chrome, iridescent, liquid metal) for pulling references by look.
-- [loadmo.re](../sites/loadmore.md) — expressive mobile sites tagged by approach, such as brutalist, glitches or tactile.
-- [Minimal Gallery](../sites/minimal-gallery.md) — minimalist sites and templates, filterable by type and platform.
-- [Motion Primitives](../sites/motion-primitives.md) — text and transition effects grouped by technique, quality over quantity.
-- [NumberFlow](../sites/number-flow.md) — animated numbers formatted through `Intl`, with guidance on `tabular-nums` and line height for the rolling digits.
-- [OKLCH](../sites/oklch.md) — picks and converts `oklch()` colours, with gamut views for P3 and Rec. 2020 and a computed sRGB fallback.
-- [OpenDesign](../sites/open-design.md) — 151 forkable brand style packages, each with prose and compiled `tokens.css`.
-- [pdfcn](../sites/pdfcn.md) — nine document themes, from formal serif to monospace blueprint, applied through one theme provider.
-- [Ramps](../sites/ramps.md) — one brand hex becomes OKLCH ramps and light/dark semantic tokens, exported as CSS variables, Tailwind v4 or DTCG JSON.
-- [Rebrand Gallery](../sites/rebrand-gallery.md) — brand identities tagged by typeface, style and feel, with browse pages for about 120 typefaces.
-- [Refero Styles](../sites/refero-styles.md) — extracted brand design specs with descriptive mood tags.
-- [SEESAW](../sites/seesaw.md) — live sites tagged with their typefaces, and a 630-font index for finding real sites that set a given face.
-- [slot-text](../sites/textmotion.md) — a text roll with a word mode that keeps kerning, ligatures and joined scripts intact.
-- [Torph](../sites/torph.md) — morphing labels and totals that keep shared characters still, with locale-aware number formatting.
-- [Typeface.fyi](../sites/typeface-fyi.md) — a Chrome extension that shows any web font's family, metrics, source and foundry.
-- [TypeUI](../sites/typeui.md) — styles named by aesthetic (neobrutalism, claymorphism, editorial) rather than brand, as DESIGN.md plus SKILL.md.
-- [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — reads the open tab's computed type, colour, spacing, radius and shadow values into a file.
-- [Vessa](../sites/vessa.md) — hosted brand guidelines whose type scale, palette roles, motion and voice are published as a `brand.json` per brand.
+- [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
+- [Color.review](../sites/color-review.md) — WCAG 2.1 contrast checker with pass/fail lines on the picker and shareable pair links.
+- [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
+- [CSS Text Effects](../sites/css-text-effects.md) — 90 copy-ready animated text effects in pure CSS, with custom-property colour tokens.
+- [Curated](../sites/curated-design.md) — About 2,240 live sites by industry and style, plus a 2,267-entry section library (mostly Pro).
+- [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
+- [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
+- [Design.md Store](../sites/designmd-store.md) — 51 free brand-inspired DESIGN.md packs plus clear docs on the Google DESIGN.md format; strict reuse terms.
+- [Designer Skills](../sites/designer-skills.md) — 111 small design-practice skills in nine plugins, with a router that picks one entry point.
+- [DesignMD (designmd.me)](../sites/designmd-me.md) — Credit-based URL-to-DESIGN.md generator with CLI, agent skill, Figma import and a free Discover gallery.
+- [DesignMD.cc](../sites/designmd-cc.md) — Free URL-to-DESIGN.md generator measuring live CSS, with an MIT CLI and a benchmark library.
+- [designmd.supply](../sites/designmd-supply.md) — Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
+- [emailcn](../sites/emailcn.md) — Email sections and full templates for React Email, MJML React and JSX Email, with shared themes.
+- [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
+- [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
+- [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
+- [Huashu Design](../sites/huashu-design.md) — Chinese-language HTML skill for prototypes, decks and MP4 animations; always shows three drafts first.
+- [Huetone](../sites/huetone.md) — LCH/OKLCH palette editor that lines up tone steps across hues, with WCAG and APCA readouts.
+- [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — Paste a domain, get a basic Google-style DESIGN.md via Hyperbrowser's branding API (bring your own key).
+- [Inspora](../sites/inspora.md) — Small, fresh archive of recent design work tagged by industry, color and style.
+- [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
+- [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
+- [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile-first websites since 2021, tagged by technique and genre.
+- [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
+- [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
+- [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
+- [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
+- [OKLCH](../sites/oklch.md) — Evil Martians' OKLCH picker and converter with P3/Rec. 2020 gamut views and sRGB fallbacks.
+- [OpenDesign](../sites/open-design.md) — Apache-2.0 local design engine for coding agents, with 151 forkable DESIGN.md packages and MCP.
+- [pdfcn](../sites/pdfcn.md) — React PDF primitives and 20 invoice/report/label templates for Takumi or Forme, installed via shadcn CLI.
+- [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
+- [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
+- [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
+- [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
+- [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
+- [Stitch Skills](../sites/stitch-skills.md) — Google Labs' Stitch skills and source of the "Stitch format"; three DESIGN.md writers with different layouts.
+- [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
+- [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.
+- [Typeface.fyi](../sites/typeface-fyi.md) — Chrome extension that identifies any web font, its metrics, where it's served from and its foundry.
+- [TypeUI](../sites/typeui.md) — Style-named design skills (SKILL.md + DESIGN.md) via an MIT CLI/registry and a paid hosted MCP.
+- [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.
+- [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
+- [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
+- [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
+- [Wondel.ai Skills](../sites/wondelai-skills.md) — Refactoring UI, Nielsen/Krug heuristics and web typography turned into scored audit skills.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

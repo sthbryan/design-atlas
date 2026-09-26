@@ -20,18 +20,19 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 ## All sources
 
 <!-- atlas:sources:start -->
-- [The Book of Shaders](../sites/book-of-shaders.md) — thirteen published chapters on GLSL, from shaping functions to noise and fBm, with editable live examples; read to learn, since the licence forbids reusing its code.
-- [Canvas UI](../sites/canvas-ui.md) — liquid, ripple, frost, glitch and shatter effects that sample live DOM, plus 3D glass and particle objects from GLB models; MIT plus Commons Clause.
-- [compute.toys](../sites/compute-toys.md) — WebGPU compute playground in WGSL or Slang for particles, simulations and path tracers, with a plain-text source URL per shader; user shaders carry no licence.
-- [Efecto](../sites/efecto.md) — an agent-driven design canvas whose FX engine adds ASCII, dither, halftone, glitch and GLTF layers to posters and images, plus 11 generative WebGL backgrounds.
-- [framecn](../sites/framecn.md) — 18 WebGL shader backdrops adapted from Paper's library among Editframe video scenes, driven frame by frame so renders repeat; Editframe is licensed by headcount.
-- [GetLayers](../sites/getlayers.md) — paid library of 114 real-time 3D scenes and 1,088 pointer-reactive WebGL2 gradients, tuned live and copied as one prompt.
-- [glimm](../sites/glimm.md) — one WebGL colour band that sweeps across route changes in React and Next.js, with cosine-gradient palettes and a lazily created context; MIT, 0.x.
-- [Orbkit](../sites/orbkit.md) — WebGL 1 orbs driven by `idle`, `thinking` and `speaking` plus real audio levels, installed as local source; 19 of the 33 are non-commercial.
-- [Paper Shaders](../sites/paper-shaders.md) — mesh and grain gradients, noise fields, dithering, halftone, liquid metal and image filters as React components or raw GLSL, with shared framing props and pixel caps.
-- [React Bits](../sites/reactbits.md) — decorative WebGL backgrounds such as aurora, galaxy and silk, and 3D pieces built on three.js and ogl, inside a large animated component catalogue.
-- [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs written in TypeGPU and compiled to WGSL, in shadcn format; every orb file carries a non-commercial notice.
-- [Shaderfrog](../sites/shaderfrog.md) — splices full GLSL programs into an engine's own material so an effect keeps its lighting and reflections; still an alpha, with Three.js the only documented export.
+- [Canvas UI](../sites/canvas-ui.md) — 35 GPU effects over live, clickable HTML in WebGL or WebGPU, for six frameworks through a shadcn registry.
+- [compute.toys](../sites/compute-toys.md) — Browser playground for WebGPU compute shaders in WGSL or Slang: simulations, particles and path tracers to fork.
+- [Design DNA](../sites/design-dna.md) — Turns references into a three-part JSON profile (tokens, style, WebGL effects), with measured colours and a ΔE verify loop.
+- [Efecto](../sites/efecto.md) — Browser canvas your agent drives through MCP tools, plus an FX engine for dither, ASCII and halftone posters.
+- [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
+- [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
+- [glimm](../sites/glimm.md) — WebGL colour-band page transitions for React/Next.js, with a copyable agent prompt.
+- [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
+- [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
+- [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
+- [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
+- [Shaderfrog](../sites/shaderfrog.md) — Graph editor that splices GLSL shaders into Three.js, Babylon and PlayCanvas materials, with a community gallery.
+- [The Book of Shaders](../sites/book-of-shaders.md) — Classic step-by-step guide to fragment shaders with editable live examples; learning only, all rights reserved.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

@@ -16,8 +16,8 @@ Footer structure, density and content — the part of the page that quietly carr
 ## All sources
 
 <!-- atlas:sources:start -->
-- [Footer Design](../sites/footer-design.md) — footers filtered by typographic, illustrative, grid, animated, dark and large-type styles.
-- [Sections.wtf](../sites/sections-wtf.md) — footers recorded as short videos next to 21 other section types, with the rest of the same site's sections one click away.
+- [Footer Design](../sites/footer-design.md) — Gallery dedicated to footers, filtered by style, with an Editor's Choice flag.
+- [Sections.wtf](../sites/sections-wtf.md) — About 280 single landing-page sections recorded as video, filterable across 22 section types.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

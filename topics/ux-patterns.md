@@ -20,19 +20,36 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 ## All sources
 
 <!-- atlas:sources:start -->
-- [Design System Checklist](../sites/design-system-checklist.md) — 230 items across design language, foundations, 29 core components and maintenance, with accessibility items inside each component and progress shared as a link.
-- [Detail (detail.design)](../sites/detail-design.md) — short recordings of small decisions that make software feel considered, such as labels that focus their input or shortcut hints shown while a modifier is held.
-- [Devouring Details](../sites/devouring-details.md) — a paid interactive manual on why interactions feel right (inferring intent, choreography, contained gestures), with 23 chapters and downloadable React prototypes.
-- [editorcn](../sites/editorcn.md) — Tiptap toolbar and block editors plus a read-only renderer, a worked example of pairing short-form and long-form editing on one format.
-- [Good UI](../sites/good-ui.md) — 141 patterns grouped from 642 shared A/B tests, with statistical power per test and losing results published; effect sizes are paid.
-- [Impeccable](../sites/impeccable.md) — an Apache-2.0 design skill whose catalogue names 67 AI tells, with a deterministic detector that can fail a CI build.
-- [Inclusive Components](../sites/inclusive-components.md) — 11 long posts on toggles, menus, tooltips, tabs, tables and cards that start from the naive version and fix it step by step.
-- [interior.dev](../sites/interior-dev.md) — 54 MIT micro-interactions that handle the edge cases: no layout shift, keyboard as a full second path, cancellable gestures and reduced motion.
-- [Laws of UX](../sites/laws-of-ux.md) — Fitts's, Hick's and Jakob's laws, the Doherty threshold, the Gestalt laws and more, each with examples and research origins; CC BY-NC-ND.
-- [The Shape of AI](../sites/shape-of-ai.md) — 57 patterns specific to AI features, from getting a first prompt started to human oversight and trust.
-- [UI Playbook](../sites/ui-playbook.md) — one page per component on purpose, states, responsive behaviour, best practices, implementation traps and WAI-ARIA requirements; no longer updated.
-- [UI Skills](../sites/ui-skills.md) — a directory of 306 agent skills, including accessibility and interaction fixes and `baseline-ui` rules written as MUST, SHOULD and NEVER lines.
-- [User Interface Wiki](../sites/user-interface-wiki.md) — nine articles with 37 interactive demos, and rules with prefixed IDs and priorities that an agent reports as `file:line` findings.
+- [AccessLint Skills](../sites/accesslint-skills.md) — Five WCAG-EM accessibility skills (scan, inspect, audit, fix, diff) that grade every finding by evidence.
+- [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
+- [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
+- [Design Lab](../sites/design-lab.md) — Interviews you, mounts five code variants on a temporary route, then writes an implementation plan.
+- [Design System Checklist](../sites/design-system-checklist.md) — 230 items across language, foundations, 29 components and maintenance, with shareable progress links.
+- [Designer Skills](../sites/designer-skills.md) — 111 small design-practice skills in nine plugins, with a router that picks one entry point.
+- [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
+- [Devouring Details](../sites/devouring-details.md) — Rauno Freiberg's paid interactive manual on interaction craft, with 23 chapters and downloadable React prototypes.
+- [editorcn](../sites/editorcn.md) — Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
+- [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
+- [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
+- [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
+- [Impeccable](../sites/impeccable.md) — Apache-2.0 design skill with 24 commands, a deterministic slop detector for CI, and PRODUCT.md/DESIGN.md context.
+- [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
+- [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
+- [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
+- [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
+- [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
+- [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
+- [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
+- [Superfuture Design Review](../sites/superfuture-design-review.md) — Ten-area design critique ranked by severity with exact fixes; it sends a hidden usage ping.
+- [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
+- [UI Playbook](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
+- [UI Skills](../sites/ui-skills.md) — 306 design-engineering skills from 84 authors, with a routing skill, CLI, MCP and 18 real company DESIGN.md files.
+- [UI Taste by Uizze](../sites/ui-taste.md) — Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.
+- [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
+- [User Interface Wiki](../sites/user-interface-wiki.md) — Raphael Salaja's nine demo-rich articles on motion, sound and type, installable as a 152-rule agent skill.
+- [Vercel Web Design Guidelines](../sites/vercel-web-design-guidelines.md) — Tiny review skill that fetches Vercel's live Web Interface Guidelines each run and reports terse file:line findings.
+- [Web Quality Skills](../sites/addy-osmani-web-quality-skills.md) — Addy Osmani's six measurement-first skills: audit with Lighthouse and DevTools, fix, then re-run the same WCAG 2.2 audit.
+- [Wondel.ai Skills](../sites/wondelai-skills.md) — Refactoring UI, Nielsen/Krug heuristics and web typography turned into scored audit skills.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

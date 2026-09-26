@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [taste-skill, impeccable, hallmark, stop-slop, ui-skills]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md), [landing-pages](../topics/landing-pages.md)
 
 # antislop-ui
 

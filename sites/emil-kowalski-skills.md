@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [jakub-krehel-skills, ui-skills, impeccable, easing-wizard, transitions-dev]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Emil Kowalski's skills
 

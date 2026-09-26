@@ -20,17 +20,17 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 ## All sources
 
 <!-- atlas:sources:start -->
-- [Agentation](../sites/agentation.md) — element-attached notes with four output levels, React component detection and an open annotation schema with a pending, acknowledged and resolved lifecycle; PolyForm Shield.
-- [agentcn](../sites/agentcn.md) — backend agent recipes (deep search, chat with PDF, PR review, browser agent) in shadcn format for four frameworks; the logic behind a chat UI, with no screens of its own.
-- [Kobra](../sites/kobra.md) — proprietary components built for agent products: a sticky message scroller, plan cards for approving actions, hover citations and per-hunk diff review.
-- [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT canvas orbs with nine named waiting states (searching, composing, listening and more) at avatar and inline sizes.
-- [mcpcn](../sites/mcpcn.md) — 30 MCP App widget blocks, from product pickers to event tickets, that render inside chat hosts, plus a scoped ChatGPT Apps SDK theme.
-- [Orbkit](../sites/orbkit.md) — WebGL orbs as agent avatars, with a chooser table by goal, off-screen pausing, a still frame under reduced motion and a licence that varies per orb.
-- [Prompt Kit](../sites/prompt-kit.md) — input, conversation, reasoning, tool, source and streaming components, plus full-stack chatbot and tool-calling recipes on the AI SDK.
-- [shadercn](../sites/shadercn.md) — WebGPU versions of the Orbkit orbs with the same three states, in shadcn format; every orb file carries a non-commercial notice.
-- [The Shape of AI](../sites/shape-of-ai.md) — wayfinders, prompt actions, tuners, governors, trust builders and identifiers, cross-linked so a whole flow can be designed at once; CC BY-NC-SA.
-- [termcn](../sites/termcn.md) — Ink and OpenTUI components with streaming text, collapsible thinking, tool approval with risk badges, a model picker and a token and cost counter.
-- [Transitions.dev](../sites/transitions-dev.md) — an AI-states group of transitions: thinking shimmers, a reasoning stream, streaming text and an image-generation placeholder.
+- [Agentation](../sites/agentation.md) — React toolbar that turns click-to-annotate feedback into selectors and file paths agents can act on over MCP.
+- [agentcn](../sites/agentcn.md) — Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
+- [Kobra](../sites/kobra.md) — Proprietary component system for AI and agent product interfaces, with an llms.txt index and a markdown API per component.
+- [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
+- [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
+- [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
+- [Prompt Kit](../sites/prompt-kit.md) — MIT shadcn components for chat UIs: prompt input, auto-scrolling conversation, reasoning, tool-call and citation views.
+- [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
+- [termcn](../sites/termcn.md) — Ink and OpenTUI terminal components via shadcn CLI, including agent chat, tool-approval and diff-review widgets.
+- [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
+- [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

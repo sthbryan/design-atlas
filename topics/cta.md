@@ -19,14 +19,14 @@ Calls-to-action — buttons, forms, modals and the copy around them that's meant
 ## All sources
 
 <!-- atlas:sources:start -->
-- [CTA Gallery](../sites/cta-gallery.md) — buttons, forms and modals pulled from real sites, with a copywriting-tips resource alongside.
-- [Evil Buttons](../sites/evil-buttons.md) — 31 shadcn buttons, from useful hold-to-confirm, cooldown and morphing-status buttons to joke CTAs that dodge the cursor; Apache-2.0.
-- [Good UI](../sites/good-ui.md) — 141 conversion patterns from 642 shared A/B tests, such as repeating the CTA on long pages or a sticky CTA on mobile; effect sizes are members-only.
-- [Magic UI](../sites/magic-ui.md) — animated component library often used to add motion to CTAs and buttons.
-- [Sections.wtf](../sites/sections-wtf.md) — CTA, subscribe, pricing and form sections recorded as video, so you see how each block enters and responds.
-- [Supahero](../sites/supahero.md) — about 570 real hero sections, useful for judging headline length, CTA count and what sits above the fold.
-- [VibePrompts](../sites/vibeprompts.md) — prompts for CTA-related sections such as pricing, contact and onboarding.
-- [VibeUI](../sites/vibeui.md) — 92 layout-only prompts, including CTA banners, hero variants with inline email forms and pricing tables, meant to be paired with a style screenshot.
+- [CTA Gallery](../sites/cta-gallery.md) — Calls-to-action pulled from real sites and classified by business function, with copywriting tips alongside.
+- [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
+- [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
+- [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
+- [Sections.wtf](../sites/sections-wtf.md) — About 280 single landing-page sections recorded as video, filterable across 22 section types.
+- [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
+- [VibePrompts](../sites/vibeprompts.md) — Library of prompts organised by page section (pricing, hero, forms) to paste into any AI assistant.
+- [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

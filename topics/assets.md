@@ -20,25 +20,25 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 ## All sources
 
 <!-- atlas:sources:start -->
-- [3dicons](../sites/3dicons.md) — rendered 3D icons for dashboards and modern interfaces.
-- [Animated Icons](../sites/animated-icons.md) — 4,000+ animated icons recoloured to your palette in the browser, commercial use without attribution.
-- [AppShot Gallery](../sites/appshot-gallery.md) — store-listing screenshot and icon references, filterable by style and tone of voice.
-- [Aura](../sites/aura.md) — an AI builder with a public asset catalogue alongside its templates and components; commercial use needs a paid plan.
-- [Circle Loaders](../sites/circle-loaders.md) — standalone animated SVG loading spinners.
-- [Craftwork](../sites/craftwork.md) — a large paid marketplace of 2D and 3D illustrations, device mockups, fonts and templates, with freebies to test quality.
-- [Designeer](../sites/designeer.md) — directory that indexes icon, illustration and visual-asset tools.
-- [Efecto](../sites/efecto.md) — a browser canvas your agent drives to make social posts, posters, slides and OG images, with an FX engine for dither, ASCII and halftone treatments.
-- [Fffuel](../sites/fffuel.md) — about 65 free SVG generators for grainy gradients, blobs, noise, waves and patterns; commercial use is allowed, redistributing the images is not.
-- [Iconoir](../sites/iconoir.md) — a consistent MIT outline icon set in SVG, icon font, framework packages, Figma and Framer.
-- [icons0](../sites/icons0.md) — search over roughly 200k Iconify icons with a licence filter, copied as SVG, a React component or a shadcn install; see the [Icons](icons.md) hub.
-- [Kitbitz](../sites/kitbitz.md) — hand-drawn illustrations with an artisanal, non-digital feel.
-- [ogimagecn](../sites/ogimagecn.md) — 22 Open Graph card templates rendered with Satori, plus a free checker that previews a link on seven platforms.
-- [posts.design](../sites/posts-design.md) — references for social launch graphics, profile headers and OG images, by post purpose and industry.
-- [Recent](../sites/recent-design.md) — separate walls for OG images, App Store screenshots and app icons, next to a broad design feed.
-- [shieldcn](../sites/shieldcn.md) — README badges, star-history charts, header banners and sponsor walls in the shadcn style, from 45+ data providers.
-- [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds, mostly CC0 from Kenney, installed one at a time as code; see the [Sound](sound.md) hub.
-- [UI SFX](../sites/uisfx.md) — 78 semantic interface sound cues in 12 packs; CC0 audio and an MIT runtime.
-- [useAnimations](../sites/useanimations.md) — 87 small animated stroke icons as SVG and Lottie; attribution required.
+- [3dicons](../sites/3dicons.md) — 1,500+ CC0 rendered 3D icons with an online editor and a Figma plugin.
+- [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie/SVG/GIF icons; free tier plus one-time All-Access, no attribution needed.
+- [AppShot Gallery](../sites/appshot-gallery.md) — Real App Store and Play Store listing screenshots and icons, filterable by genre, style and tone.
+- [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
+- [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
+- [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
+- [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
+- [Efecto](../sites/efecto.md) — Browser canvas your agent drives through MCP tools, plus an FX engine for dither, ASCII and halftone posters.
+- [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
+- [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
+- [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
+- [Kitbitz](../sites/kitbitz.md) — 2,000+ hand-drawn illustrations with an artisanal, non-digital feel, free with no login required.
+- [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
+- [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
+- [Recent](../sites/recent-design.md) — Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
+- [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
+- [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds installed via shadcn CLI; 110 Blizzard clips are non-commercial only.
+- [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
+- [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

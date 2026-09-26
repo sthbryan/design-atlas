@@ -20,43 +20,45 @@ Galleries of real interfaces, sites and components to look at before designing y
 ## All sources
 
 <!-- atlas:sources:start -->
-- [21st.dev](../sites/21st-dev.md) — community registry of React components with many variants per pattern.
-- [404s](../sites/404s.md) — curated 404 pages filtered by style, interaction and industry.
-- [60fps](../sites/60fps.md) — about 2,080 recordings of interactions from shipped iOS apps, filterable by gesture, pattern, effect and element, with frame-by-frame storyboards.
-- [Aceternity UI](../sites/aceternity-ui.md) — landing-page components and effects as a browsable showcase.
-- [AppShot Gallery](../sites/appshot-gallery.md) — real App Store/Play Store listing screenshots by genre and style.
-- [Bencho](../sites/bencho.md) — a Finds gallery of over a hundred credited interaction clips from other designers, next to 38 live React blocks you can tune.
-- [Collect UI](../sites/collect-ui.md) — a daily feed of UI shots and motion clips from X, filed under 150+ element categories.
-- [compute.toys](../sites/compute-toys.md) — a public gallery of WebGPU compute shaders (particles, simulations, path tracers), each opening in the editor to fork.
-- [CTA Gallery](../sites/cta-gallery.md) — calls-to-action pulled from real sites, by CTA type.
-- [Curated](../sites/curated-design.md) — about 2,240 live sites, each reviewed by a person and filed by industry and by visual style; the section library is mostly Pro.
-- [Dark Mode Design](../sites/dark-mode-design.md) — about 380 dark-by-default sites hand-picked since 2020, on a plain paginated grid with no filters.
-- [Design Spells](../sites/design-spells.md) — 337 hand-picked micro-interactions and easter eggs, for when a product works but feels flat.
-- [Designeer](../sites/designeer.md) — curated directory of tools, components and galleries for design engineers.
-- [Detail (detail.design)](../sites/detail-design.md) — about 130 small interface decisions recorded as short clips, each with a one-line takeaway, across interaction, copy, accessibility and motion.
-- [Details](../sites/details.md) — about 3,155 hand-tagged captures of heroes, loaders, page transitions and scroll effects from real sites, with a paid MCP.
-- [Footer Design](../sites/footer-design.md) — a gallery dedicated exclusively to footers.
-- [Inspora](../sites/inspora.md) — a small, fresh archive of recent work tagged by industry, color and style.
-- [Kage](../sites/kage.md) — real interfaces packaged as agent-ready prompts.
-- [Kombai](../sites/kombai.md) — a free gallery of about 20,000 web and mobile designs, each with a palette, type scale and a copyable prompt for any agent.
-- [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with repeat captures that show a site before and after a redesign.
-- [loadmo.re](../sites/loadmore.md) — experimental mobile-first websites since 2021, tagged by technique (camera, tactile, sound) and genre.
-- [Minimal Gallery](../sites/minimal-gallery.md) — minimalist sites since 2013, filtered by type and platform.
-- [Motionimo](../sites/motionimo.md) — about 450 curated motion-graphics videos (brand films, explainers, logo stings) filtered by technique and format; the free tier is capped at three views a day.
-- [Navbar Gallery](../sites/navbar-gallery.md) — a gallery dedicated exclusively to navigation bars.
-- [Neuform](../sites/neuform.md) — remixable AI-generated landing pages, mostly dark and WebGL-heavy, each with a design breakdown.
-- [posts.design](../sites/posts-design.md) — real company social posts, profile headers and OG images, filtered by the post's purpose.
-- [Rebrand Gallery](../sites/rebrand-gallery.md) — new brand identities shown as reveal videos, bento boards and applied shots, tagged by typeface, style and feel.
-- [Recent](../sites/recent-design.md) — daily curated design feed with separate walls for websites, OG images, app screenshots and app icons.
-- [Scrolltide](../sites/scrolltide.md) — cinematic scroll-driven templates paired with ready-made prompts.
-- [Sections.wtf](../sites/sections-wtf.md) — about 280 single landing-page sections recorded as video and filtered across 22 section types.
-- [SEESAW](../sites/seesaw.md) — about 860 hand-picked live sites, each tagged with the typefaces it uses, plus a 630-font index.
-- [Shaderfrog](../sites/shaderfrog.md) — featured community shaders for material effects on 3D objects, each remixable in the editor with its graph visible.
-- [The Shape of AI](../sites/shape-of-ai.md) — annotated screenshots of how products such as ChatGPT, Perplexity, Notion and v0 handle 57 AI UX patterns.
-- [Supahero](../sites/supahero.md) — about 570 real hero sections on one long page, searchable by name only.
-- [Typeface.fyi](../sites/typeface-fyi.md) — a Chrome extension to identify the fonts on any reference site you're browsing.
-- [Uiverse](../sites/uiverse.md) — community gallery of copy-paste CSS/Tailwind UI snippets.
-- [What Ships](../sites/what-ships.md) — about 2,220 startup launch videos posted on X, each with its duration, category and a link to the original post.
+- [21st.dev](../sites/21st-dev.md) — Community registry of React and Tailwind components with many variants per pattern, a CLI and an MCP server.
+- [404s](../sites/404s.md) — Curated gallery of 404 pages, filterable by style, interaction and industry.
+- [60fps](../sites/60fps.md) — About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
+- [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
+- [AppShot Gallery](../sites/appshot-gallery.md) — Real App Store and Play Store listing screenshots and icons, filterable by genre, style and tone.
+- [Bencho](../sites/bencho.md) — 38 live, tunable React blocks whose "Copy prompt" hands an agent full source plus token-mapping instructions.
+- [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
+- [compute.toys](../sites/compute-toys.md) — Browser playground for WebGPU compute shaders in WGSL or Slang: simulations, particles and path tracers to fork.
+- [CTA Gallery](../sites/cta-gallery.md) — Calls-to-action pulled from real sites and classified by business function, with copywriting tips alongside.
+- [Curated](../sites/curated-design.md) — About 2,240 live sites by industry and style, plus a 2,267-entry section library (mostly Pro).
+- [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
+- [Design Spells](../sites/design-spells.md) — 337 hand-picked recordings of micro-interactions and easter eggs; llms.txt plus a Markdown homepage via Accept header.
+- [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
+- [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
+- [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
+- [Footer Design](../sites/footer-design.md) — Gallery dedicated to footers, filtered by style, with an Editor's Choice flag.
+- [Inspora](../sites/inspora.md) — Small, fresh archive of recent design work tagged by industry, color and style.
+- [Kage](../sites/kage.md) — Real interfaces packaged as agent-ready prompts and design briefs, browsable by component, with its own MCP server.
+- [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
+- [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
+- [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile-first websites since 2021, tagged by technique and genre.
+- [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
+- [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
+- [Navbar Gallery](../sites/navbar-gallery.md) — Real examples of every major navbar pattern (sticky, mega menu, sidebar, tabs and more), plus a blog on when to use each.
+- [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
+- [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
+- [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
+- [Recent](../sites/recent-design.md) — Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
+- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [Sections.wtf](../sites/sections-wtf.md) — About 280 single landing-page sections recorded as video, filterable across 22 section types.
+- [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
+- [Shaderfrog](../sites/shaderfrog.md) — Graph editor that splices GLSL shaders into Three.js, Babylon and PlayCanvas materials, with a community gallery.
+- [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
+- [Superdesign](../sites/superdesign-skill.md) — Drives the hosted superdesign.dev canvas from your agent to branch drafts and compare models.
+- [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
+- [Typeface.fyi](../sites/typeface-fyi.md) — Chrome extension that identifies any web font, its metrics, where it's served from and its foundry.
+- [UI Taste by Uizze](../sites/ui-taste.md) — Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.
+- [Uiverse](../sites/uiverse.md) — Community gallery of copy-paste CSS and Tailwind UI snippets.
+- [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

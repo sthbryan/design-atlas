@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [agentation, interface-design, superdesign-skill, laws-of-ux, impeccable]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [components](../topics/components.md)
+[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md), [components](../topics/components.md)
 
 # Design Lab
 

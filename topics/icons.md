@@ -20,13 +20,14 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 ## All sources
 
 <!-- atlas:sources:start -->
-- [3dicons](../sites/3dicons.md) — 3D icons for landing-page sections, empty states and dashboards; best between 32 and 256 px.
-- [Animated Icons](../sites/animated-icons.md) — Lottie, SVG, PNG and GIF icons recoloured in the browser; free tier plus a one-time All-Access purchase.
-- [Carbon Design System](../sites/carbon-design-system.md) — 2,775 icons and 1,576 pictograms under Apache-2.0, as React packages, Web Components and a Figma library; the licence grants no IBM trademark rights.
-- [Iconoir](../sites/iconoir.md) — one consistent outline set, customisable stroke and size, and tree-shakeable framework packages.
-- [icons0](../sites/icons0.md) — hybrid keyword and semantic search over roughly 200k Iconify icons, with a licence filter, single-icon shadcn registry items and a token-gated MCP.
-- [Morphrig](../sites/morphrig.md) — an interactive manual on morphing one SVG icon into another, with measured browser support and an `llms-full.txt` to hand an agent.
-- [useAnimations](../sites/useanimations.md) — 87 Feather-style micro-animated icons (SVG + Lottie) and a React package; attribution required.
+- [3dicons](../sites/3dicons.md) — 1,500+ CC0 rendered 3D icons with an online editor and a Figma plugin.
+- [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie/SVG/GIF icons; free tier plus one-time All-Access, no attribution needed.
+- [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
+- [design-mobile-apps (Sleek)](../sites/design-mobile-apps.md) — REST client for Sleek's paid mobile-screen generator, with handoff to HTML, React Native or SwiftUI.
+- [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
+- [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
+- [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
+- [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

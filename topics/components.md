@@ -20,64 +20,67 @@ Component libraries, registries and design systems for building UI — from sing
 ## All sources
 
 <!-- atlas:sources:start -->
-- [21st.dev](../sites/21st-dev.md) — community registry of 12,000+ React/Tailwind components with an MCP server.
-- [3dicons](../sites/3dicons.md) — 1,500+ CC0 3D icons, also usable as decorative UI elements.
-- [Aceternity UI](../sites/aceternity-ui.md) — 200+ landing-page components and effects (React, Tailwind, Framer Motion).
-- [Anime.js](../sites/animejs.md) — JS animation engine often used to bring components to life.
-- [Astryx](../sites/astryx.md) — Meta's React design system with rich form controls and a plugin-based table.
-- [Aura](../sites/aura.md) — AI landing-page builder whose public component and template catalogue exports as plain HTML and Tailwind.
-- [Bencho](../sites/bencho.md) — 38 live React blocks labelled by gesture (slide to confirm, radial menu, range dial) whose "Copy prompt" hands an agent the full source; blocks are MIT.
-- [Canvas UI](../sites/canvas-ui.md) — 35 GPU effect components over live HTML, one source file per framework and renderer through a shadcn registry; MIT plus Commons Clause.
-- [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system with about 50 components, 15 patterns and separate usage, style, code and accessibility tabs on each page.
-- [Circle Loaders](../sites/circle-loaders.md) — 24 standalone SVG loading spinners.
-- [Collect UI](../sites/collect-ui.md) — inspiration filed by UI element (dropdown, date picker, OTP input, sidebar) across 150+ categories.
-- [The Component Gallery](../sites/component-gallery.md) — reference aggregator of 60 components across 95 design systems.
-- [Design System Checklist](../sites/design-system-checklist.md) — 166 checklist items across 29 core components, from avatar fallbacks to alert ARIA roles, each section linked to how mature systems handle it.
-- [design.dev](../sites/design-dev.md) — 12 long component spec prompts (data table, multi-step form, toast stack) with exact values and keyboard behaviour, written for vanilla HTML, CSS and JS.
-- [Designeer](../sites/designeer.md) — directory that indexes headless, pre-styled and motion-focused component libraries.
+- [21st.dev](../sites/21st-dev.md) — Community registry of React and Tailwind components with many variants per pattern, a CLI and an MCP server.
+- [3dicons](../sites/3dicons.md) — 1,500+ CC0 rendered 3D icons with an online editor and a Figma plugin.
+- [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
+- [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
+- [Astryx](../sites/astryx.md) — Meta's React design system with rich form controls, strong accessibility hooks and a plugin-based table.
+- [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
+- [Bencho](../sites/bencho.md) — 38 live, tunable React blocks whose "Copy prompt" hands an agent full source plus token-mapping instructions.
+- [Canvas UI](../sites/canvas-ui.md) — 35 GPU effects over live, clickable HTML in WebGL or WebGPU, for six frameworks through a shadcn registry.
+- [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
+- [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
+- [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
+- [Design Lab](../sites/design-lab.md) — Interviews you, mounts five code variants on a temporary route, then writes an implementation plan.
+- [Design System Checklist](../sites/design-system-checklist.md) — 230 items across language, foundations, 29 components and maintenance, with shareable progress links.
+- [design-mobile-apps (Sleek)](../sites/design-mobile-apps.md) — REST client for Sleek's paid mobile-screen generator, with handoff to HTML, React Native or SwiftUI.
+- [design.dev](../sites/design-dev.md) — Free generators for DESIGN.md, AGENTS.md, CLAUDE.md and more, plus component prompts and style packs; strict terms.
+- [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
 - [editorcn](../sites/editorcn.md) — Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
-- [emailcn](../sites/emailcn.md) — 72 email-safe components and about 23 full emails for React Email, MJML React and JSX Email, sharing one theme shape.
-- [Evil Buttons](../sites/evil-buttons.md) — 31 animated shadcn buttons with props tables and accessibility notes, from stateful copy and cooldown buttons to deliberate jokes.
-- [framecn](../sites/framecn.md) — about 100 Editframe video components (captions, transitions, UI blocks, shader backdrops) installed with the shadcn CLI.
-- [Gradient Buttons](../sites/gradient-buttons.md) — a gallery of copy-paste CSS gradient buttons.
-- [Iconoir](../sites/iconoir.md) — 1,671 MIT icons as tree-shakeable React, Vue and React Native components with a shared provider.
-- [Inclusive Components](../sites/inclusive-components.md) — the reasoning behind accessible toggles, menus, tooltips, tabs, tables and cards, built up from the naive version.
-- [interior.dev](../sites/interior-dev.md) — 54 micro-interactions as single files that export a headless hook plus a styled example, through a shadcn registry.
-- [Kage](../sites/kage.md) — inspiration turned into agent-ready prompts, browsable by component.
-- [Kibo UI](../sites/kibo-ui.md) — MIT shadcn companions that wrap heavier headless libraries: Gantt, Kanban, rich-text editor, colour picker and dropzone, plus 28 blocks.
-- [Kinetics](../sites/kinetics.md) — 153 spring-physics interaction effects in CSS, React and prompt form.
-- [Kitbitz](../sites/kitbitz.md) — 2,000+ hand-drawn illustrations usable as component-adjacent assets.
-- [Kobra](../sites/kobra.md) — a component system purpose-built for AI/agent product interfaces.
-- [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI activity states, for chat and agent UIs.
-- [Liquid Glass](../sites/liquid-glass.md) — a DOM-manipulation tool for refractive "liquid glass" visual effects.
-- [Magic UI](../sites/magic-ui.md) — 150+ animated components positioned as a shadcn/ui companion.
-- [mapcn](../sites/mapcn.md) — map components distributed as a shadcn/ui registry.
-- [mcpcn](../sites/mcpcn.md) — 30 shadcn blocks built as compound components for MCP App widgets inside chat hosts.
-- [MicroKit](../sites/microkit.md) — 49 React microinteractions ready to copy and adapt.
-- [Motion Primitives](../sites/motion-primitives.md) — isolated, installable motion and text-effect components.
-- [NumberFlow](../sites/number-flow.md) — the standard animated-number component, with `Intl` formatting and React, Vue, Svelte and vanilla packages.
-- [ogimagecn](../sites/ogimagecn.md) — 22 Open Graph card templates as single Satori-compatible TSX files, plus a free per-platform preview checker.
-- [Orbkit](../sites/orbkit.md) — 33 WebGL agent-avatar orbs installed as local source through the shadcn CLI, with typed state, colour and preset overrides.
-- [Paper Shaders](../sites/paper-shaders.md) — 30 shader effects as React components with shared framing props, or as raw GLSL; Apache-2.0.
-- [pdfcn](../sites/pdfcn.md) — React PDF primitives (running headers, page breaks, keep-together blocks) and 20 document templates for two rendering engines.
-- [Prompt Kit](../sites/prompt-kit.md) — MIT shadcn components for chat interfaces: prompt input, chat container, reasoning, tool and source views.
-- [Rare UI](../sites/rareui.md) — about 20 unusual animated React components (sidebars, OTP input, AI orbs) installed through the shadcn CLI.
-- [React Bits](../sites/reactbits.md) — a large catalog of animated React components (GSAP, three.js, Framer Motion).
-- [Remocn](../sites/remocn.md) — 308 Remotion components, including shadcn parts that change state on a scripted timeline; Remotion needs a company licence above three employees.
-- [Screenshot to Code](../sites/screenshot-to-code.md) — MIT tool that turns a screenshot, recording or description into a first-pass HTML, React or Vue component.
-- [sensory-ui](../sites/sensory-ui.md) — 24 shadcn components re-released with a `sound` prop, 17 semantic sound roles and a central config.
-- [shadcn/ui](../sites/shadcn-ui.md) — the foundation for a design system, copied into the repo, with an MCP registry.
-- [shadercn](../sites/shadercn.md) — WebGPU orb components in shadcn format with typed props and readable TypeGPU shader modules.
-- [slot-text](../sites/textmotion.md) — a roughly 1 kB slot-machine text roll with vanilla, React, Vue, Solid and Svelte adapters.
-- [soundcn](../sites/soundcn.md) — 813 recorded sounds installed one by one through the shadcn CLI, with a small `useSound` hook.
-- [termcn](../sites/termcn.md) — about 100 terminal components per renderer (Ink and OpenTUI), plus charts, full-screen templates and 40 colour themes.
-- [Torph](../sites/torph.md) — a dependency-free text-morph component for labels that change in place, with place-value number rolls.
-- [Transitions.dev](../sites/transitions-dev.md) — transitions for menus, modals, toasts and tabs as portable CSS on shared motion tokens; the collection may not be redistributed.
-- [UI Playbook](../sites/ui-playbook.md) — state and implementation checklists for nine components (button, select, tooltip, popover and more), each linked to its WAI-ARIA pattern.
-- [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI.
-- [Uiverse](../sites/uiverse.md) — community gallery of standalone CSS/Tailwind UI snippets.
-- [VibePrompts](../sites/vibeprompts.md) — prompts that generate components instead of distributing their code.
-- [VibeUI](../sites/vibeui.md) — 92 layout-only prompts across 15 section types, to generate components that match an attached style screenshot.
+- [emailcn](../sites/emailcn.md) — Email sections and full templates for React Email, MJML React and JSX Email, with shared themes.
+- [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
+- [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
+- [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
+- [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
+- [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
+- [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
+- [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
+- [Kage](../sites/kage.md) — Real interfaces packaged as agent-ready prompts and design briefs, browsable by component, with its own MCP server.
+- [Kibo UI](../sites/kibo-ui.md) — Free MIT shadcn companion with 41 functional components (Gantt, Kanban, editor), 28 marketing blocks and an MCP server.
+- [Kinetics](../sites/kinetics.md) — 153 spring-physics interaction effects in CSS, React and prompt form, with a live parameter editor.
+- [Kitbitz](../sites/kitbitz.md) — 2,000+ hand-drawn illustrations with an artisanal, non-digital feel, free with no login required.
+- [Kobra](../sites/kobra.md) — Proprietary component system for AI and agent product interfaces, with an llms.txt index and a markdown API per component.
+- [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
+- [Liquid Glass](../sites/liquid-glass.md) — DOM-manipulation tool for real-time refractive "liquid glass" distortion effects.
+- [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
+- [mapcn](../sites/mapcn.md) — Map components distributed as a shadcn/ui registry, with a "copy prompt for your agent" button.
+- [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
+- [MicroKit](../sites/microkit.md) — 49 React microinteractions with polished transitions, ready to copy and adapt.
+- [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
+- [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
+- [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
+- [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
+- [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
+- [pdfcn](../sites/pdfcn.md) — React PDF primitives and 20 invoice/report/label templates for Takumi or Forme, installed via shadcn CLI.
+- [Prompt Kit](../sites/prompt-kit.md) — MIT shadcn components for chat UIs: prompt input, auto-scrolling conversation, reasoning, tool-call and citation views.
+- [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
+- [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
+- [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
+- [Screenshot to Code](../sites/screenshot-to-code.md) — MIT tool turning screenshots, recordings or text into HTML/Tailwind/React/Vue code; hosted or self-hosted.
+- [sensory-ui](../sites/sensory-ui.md) — Sound-enabled versions of 24 shadcn components with 17 semantic roles and nine synthesised packs.
+- [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
+- [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
+- [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
+- [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds installed via shadcn CLI; 110 Blizzard clips are non-commercial only.
+- [termcn](../sites/termcn.md) — Ink and OpenTUI terminal components via shadcn CLI, including agent chat, tool-approval and diff-review widgets.
+- [The Component Gallery](../sites/component-gallery.md) — Reference that compares how 95 design systems name, structure and document the same 60 components.
+- [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.
+- [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
+- [UI Playbook](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
+- [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
+- [Uiverse](../sites/uiverse.md) — Community gallery of copy-paste CSS and Tailwind UI snippets.
+- [VibePrompts](../sites/vibeprompts.md) — Library of prompts organised by page section (pricing, hero, forms) to paste into any AI assistant.
+- [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

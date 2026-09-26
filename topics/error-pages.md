@@ -16,7 +16,7 @@ order: 6
 ## All sources
 
 <!-- atlas:sources:start -->
-- [404s](../sites/404s.md) — creatively designed error pages built on the idea that "404 pages are where joy and error meet."
+- [404s](../sites/404s.md) — Curated gallery of 404 pages, filterable by style, interaction and industry.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

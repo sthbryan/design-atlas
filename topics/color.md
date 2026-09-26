@@ -19,12 +19,17 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 ## All sources
 
 <!-- atlas:sources:start -->
-- [Color.review](../sites/color-review.md) — WCAG 2.1 ratio for one pair at a time, with the 3, 4.5 and 7 boundaries drawn on the colour field and a `check/<fg>-<bg>` link for every pair; no terms published.
-- [Dark Mode Design](../sites/dark-mode-design.md) — about 380 dark-by-default sites for studying background shades, accent colours and imagery on near-black; no filters.
-- [Fffuel](../sites/fffuel.md) — quick HEX/RGB/HSL pickers and palettes grouped by mood, next to grainy-gradient, blob and noise SVG generators; no OKLCH or contrast checks.
-- [Huetone](../sites/huetone.md) — palette grid with lightness, chroma and hue charts, a greyscale preview and exports to CSS variables and Tokens Studio JSON; MIT, unchanged since late 2023.
-- [OKLCH](../sites/oklch.md) — paste HEX, RGB or HSL to get OKLCH, see which colours exist only on wide-gamut screens, and share any colour through the URL hash; MIT.
-- [Ramps](../sites/ramps.md) — full palette and 44 semantic tokens from one hex, each token reporting its measured WCAG 2.1 ratio; exports CSS variables, Tailwind v4, DTCG JSON and plain JSON.
+- [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
+- [Color.review](../sites/color-review.md) — WCAG 2.1 contrast checker with pass/fail lines on the picker and shareable pair links.
+- [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
+- [Design DNA](../sites/design-dna.md) — Turns references into a three-part JSON profile (tokens, style, WebGL effects), with measured colours and a ΔE verify loop.
+- [extract-design-system](../sites/extract-design-system.md) — Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
+- [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
+- [Huetone](../sites/huetone.md) — LCH/OKLCH palette editor that lines up tone steps across hues, with WCAG and APCA readouts.
+- [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
+- [OKLCH](../sites/oklch.md) — Evil Martians' OKLCH picker and converter with P3/Rec. 2020 gamut views and sRGB fallbacks.
+- [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
+- [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

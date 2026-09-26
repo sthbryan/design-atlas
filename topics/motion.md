@@ -20,51 +20,58 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 ## All sources
 
 <!-- atlas:sources:start -->
-- [60fps](../sites/60fps.md) — interaction recordings filtered by gesture, pattern, effect and element; the MCP returns trigger/move/settle breakdowns and SwiftUI code.
-- [Aceternity UI](../sites/aceternity-ui.md) — animated backgrounds, bento grids and shaders for landing pages.
-- [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie icons with hover, click or loop playback.
-- [Anime.js](../sites/animejs.md) — fine-grained control over complex animation sequences and SVG effects.
-- [Bencho](../sites/bencho.md) — 38 physical-feeling React blocks with a live "Feel" panel for motion and physics values, and code that matches whatever the panel is set to.
-- [Canvas UI](../sites/canvas-ui.md) — page-level GPU motion over live HTML (ripples, liquid, shatter, dissolving on scroll); keep text-heavy areas calm and respect reduced motion.
-- [Circle Loaders](../sites/circle-loaders.md) — 24 animated SVG loading spinners.
-- [Collect UI](../sites/collect-ui.md) — a feed where much of the content is short motion clips, filed under UI Interaction, Motion and Web Animation.
-- [CSS Text Effects](../sites/css-text-effects.md) — 90 animated text effects in pure CSS.
-- [Design Spells](../sites/design-spells.md) — 337 recorded micro-interactions, celebrations and easter eggs from real apps.
-- [Detail (detail.design)](../sites/detail-design.md) — curated interface details where motion is one of six categories, next to interaction, copy and accessibility, with an agent skill.
-- [Details](../sites/details.md) — hand-tagged preloaders, page transitions, pinned scroll and cursor effects from real sites, each category well over 100 entries deep, plus a paid code Vault.
-- [Devouring Details](../sites/devouring-details.md) — a paid manual on motion choreography, simulated physics and when to drop animation altogether, with React prototypes.
-- [DialKit](../sites/dialkit.md) — live sliders, a spring and Bezier editor and a timeline dock for React, Vue, Svelte, Solid and plain JS.
-- [Easing Wizard](../sites/easing-wizard.md) — a visual editor for Bézier, spring, bounce, wiggle and overshoot curves, output as `cubic-bezier()` or `linear()`, with a free API and MCP server.
-- [Evil Buttons](../sites/evil-buttons.md) — animated shadcn buttons built with Motion, from hold-to-confirm and morphing status to a button that burns into ash with Matter.js.
-- [framecn](../sites/framecn.md) — time-based Editframe scenes for product videos: word-level captions, scene transitions and seeded effects that render the same every time.
-- [GetLayers](../sites/getlayers.md) — paid scroll- and pointer-reactive WebGL pieces for cinematic marketing sites, tuned live and copied as a prompt.
-- [glimm](../sites/glimm.md) — a WebGL colour-band page transition with ten easing curves and tunable sweep timing, meant for a few moments that deserve it.
-- [interior.dev](../sites/interior-dev.md) — 54 micro-interactions for what happens right after a click, with reduced-motion paths that still deliver the information.
-- [Kinetics](../sites/kinetics.md) — spring-physics-driven interaction effects with a live parameter editor.
-- [Landing Love](../sites/landing-love.md) — landing pages recorded as full scrolling videos, with GSAP, WebGL, Three.js and horizontal-scroll collections as an index of technique.
-- [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — canvas-drawn AI waiting states (searching, composing, listening) with reduced-motion and off-screen pausing built in.
-- [Liquid Glass](../sites/liquid-glass.md) — real-time refractive DOM distortion effects.
-- [loadmo.re](../sites/loadmore.md) — experimental mobile sites previewed as screen recordings, tagged by technique such as tactile or camera input.
-- [Magic UI](../sites/magic-ui.md) — 150+ animated components and effects for React/Tailwind.
-- [MicroKit](../sites/microkit.md) — 49 React microinteractions with polished transitions.
-- [Morphrig](../sites/morphrig.md) — how SVG icon morphing works, from pairing strokes to keeping rotating shapes at full length, with measured browser support.
-- [Motion Primitives](../sites/motion-primitives.md) — isolated, installable motion and text-effect components.
-- [Motionimo](../sites/motionimo.md) — linear motion-design references (showreels, explainers, kinetic type, logo stings) for launch films rather than interface motion.
-- [NumberFlow](../sites/number-flow.md) — digit-spinning numbers with separate transform, spin and opacity timings that accept `linear()` spring curves.
-- [OpenMotion](../sites/openmotion.md) — a desktop app that drives your Claude Code or Codex CLI to turn a brief into editable launch videos.
-- [Paper Shaders](../sites/paper-shaders.md) — animated shader backgrounds whose `speed` and `frame` props turn any effect into a fixed still.
-- [Rare UI](../sites/rareui.md) — spring-animated sidebars, rolling OTP input, odometer counters and gooey pickers built with Motion.
-- [React Bits](../sites/reactbits.md) — decorative WebGL backgrounds, text animations and physics-driven micro-interactions.
-- [Remocn](../sites/remocn.md) — 308 Remotion components that state their natural length in frames, plus an agent skill that composes launch and demo videos.
-- [Scrolltide](../sites/scrolltide.md) — cinematic scroll-driven motion templates and shaders paired with prompts.
-- [slot-text](../sites/textmotion.md) — a slot-machine roll for short labels, with direction, stagger, interrupt control and a `flash()` that rolls back on its own.
-- [Torph](../sites/torph.md) — text morphing that keeps shared characters still and animates only the difference, with spring easing.
-- [Transitions.dev](../sites/transitions-dev.md) — curated product-UI transitions as portable CSS on one duration and easing scale, with an agent skill, CLI and a live Refine timeline.
-- [UI Skills](../sites/ui-skills.md) — a skills directory that includes motion audits and animation-principle skills from several authors, reachable by CLI and MCP.
-- [useAnimations](../sites/useanimations.md) — 87 Feather-style animated icons that play forward and back for two-state controls.
-- [User Interface Wiki](../sites/user-interface-wiki.md) — articles on the 12 principles of animation, springs versus easing and exit animations, with concrete numbers and a 152-rule skill.
-- [Vessa](../sites/vessa.md) — hosted brand guidelines that document motion as named durations, easing curves and stagger you can copy as CSS or GSAP.
-- [What Ships](../sites/what-ships.md) — about 2,220 startup launch videos from X, for seeing how products pitch themselves in a minute of motion.
+- [60fps](../sites/60fps.md) — About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
+- [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
+- [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie/SVG/GIF icons; free tier plus one-time All-Access, no attribution needed.
+- [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
+- [Bencho](../sites/bencho.md) — 38 live, tunable React blocks whose "Copy prompt" hands an agent full source plus token-mapping instructions.
+- [Canvas UI](../sites/canvas-ui.md) — 35 GPU effects over live, clickable HTML in WebGL or WebGPU, for six frameworks through a shadcn registry.
+- [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
+- [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
+- [CSS Text Effects](../sites/css-text-effects.md) — 90 copy-ready animated text effects in pure CSS, with custom-property colour tokens.
+- [Design Motion Principles](../sites/design-motion-principles.md) — Create or audit UI motion through Emil, Jakub and Jhey lenses; HTML audit report with looping demos.
+- [Design Spells](../sites/design-spells.md) — 337 hand-picked recordings of micro-interactions and easter eggs; llms.txt plus a Markdown homepage via Accept header.
+- [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
+- [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
+- [Devouring Details](../sites/devouring-details.md) — Rauno Freiberg's paid interactive manual on interaction craft, with 23 chapters and downloadable React prototypes.
+- [DialKit](../sites/dialkit.md) — MIT live control panel for tuning springs, easing, layout and timelines in React, Vue, Svelte, Solid and plain JS.
+- [Easing Wizard](../sites/easing-wizard.md) — Visual CSS easing editor (Bézier, spring, bounce) with a free REST API, MCP server and Claude Code plugin.
+- [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
+- [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
+- [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
+- [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
+- [glimm](../sites/glimm.md) — WebGL colour-band page transitions for React/Next.js, with a copyable agent prompt.
+- [Huashu Design](../sites/huashu-design.md) — Chinese-language HTML skill for prototypes, decks and MP4 animations; always shows three drafts first.
+- [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
+- [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
+- [Kinetics](../sites/kinetics.md) — 153 spring-physics interaction effects in CSS, React and prompt form, with a live parameter editor.
+- [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
+- [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
+- [Liquid Glass](../sites/liquid-glass.md) — DOM-manipulation tool for real-time refractive "liquid glass" distortion effects.
+- [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile-first websites since 2021, tagged by technique and genre.
+- [LottieFiles Motion Design Skill](../sites/lottiefiles-motion-design.md) — Motion-director skill: four personalities, duration and stagger tables, Disney principles adapted for UI.
+- [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
+- [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
+- [MicroKit](../sites/microkit.md) — 49 React microinteractions with polished transitions, ready to copy and adapt.
+- [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
+- [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
+- [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
+- [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
+- [OpenMotion](../sites/openmotion.md) — Free closed desktop app that drives your Claude Code or Codex CLI to turn a brief into editable launch videos; nothing for your own agent to call.
+- [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
+- [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
+- [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
+- [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
+- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
+- [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
+- [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.
+- [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
+- [UI Skills](../sites/ui-skills.md) — 306 design-engineering skills from 84 authors, with a routing skill, CLI, MCP and 18 real company DESIGN.md files.
+- [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
+- [User Interface Wiki](../sites/user-interface-wiki.md) — Raphael Salaja's nine demo-rich articles on motion, sound and type, installable as a 152-rule agent skill.
+- [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
+- [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

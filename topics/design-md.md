@@ -20,25 +20,33 @@ Design systems written as a single markdown file an agent can read: the librarie
 ## All sources
 
 <!-- atlas:sources:start -->
-- [agentcn](../sites/agentcn.md) — an Extract DESIGN.md agent recipe that turns a domain into a DESIGN.md, a Tailwind v4 `@theme` block and CSS variables; needs a paid context.dev key.
-- [Aura](../sites/aura.md) — roughly 725 DESIGN.md pages attached to real, previewable HTML, reachable through a remote MCP.
-- [design.dev](../sites/design-dev.md) — a free visual DESIGN.md editor with live preview, eight lint rules that mirror Google's linter, and exports to CSS variables, Tailwind v4 or DTCG JSON; strict terms.
-- [DESIGN.md](../sites/designmd.md) — community-uploaded systems with light/dark previews; licence depends on each uploader.
-- [Design.md Store](../sites/designmd-store.md) — 51 free brand-inspired packs plus the clearest docs on the Google format; raw files may not be republished.
-- [DesignMD (designmd.me)](../sites/designmd-me.md) — credit-based URL-to-file generator with multi-page crawling, provenance records, a CLI and an agent skill.
-- [DesignMD.cc](../sites/designmd-cc.md) — measured URL-to-file generator with a tokens-only JSON mode and five free runs a day.
-- [designmd.supply](../sites/designmd-supply.md) — free open-source generator that follows the Google spec and exports markdown, Tailwind v4 `@theme` or CSS variables.
-- [getdesign.md](../sites/getdesign-md.md) — the free awesome-design-md collection, with detailed Do's and Don'ts and preview pages; paid custom files on the side.
-- [Hallmark](../sites/hallmark.md) — an anti-slop page skill whose `study` verb can write a portable `design.md` of a reference page's structure, once you confirm the source is yours or a public reference.
-- [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — a minimal domain-to-file demo on Hyperbrowser's branding API; thin output, bring your own key.
-- [Impeccable](../sites/impeccable.md) — writes a Google-format DESIGN.md plus a separate PRODUCT.md, then flags fonts, colours, sizes and radii that fall outside the documented system.
-- [Neuform](../sites/neuform.md) — remixable AI-generated pages, each with a design breakdown that adds motion and WebGL notes.
-- [OpenDesign](../sites/open-design.md) — a local design workspace whose GitHub repo doubles as a worked example of a DESIGN.md package format.
-- [Refero Styles](../sites/refero-styles.md) — real brand specs extracted into agent-readable files, tagged by mood.
-- [TypeUI](../sites/typeui.md) — style-named (not brand-named) skills that pair a short DESIGN.md with a strict `SKILL.md`; MIT registry, EULA on the site.
-- [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that writes a DESIGN.md or SKILL.md from the open tab, locally.
-- [UI Skills](../sites/ui-skills.md) — 18 DESIGN.md files published by the companies themselves (Vercel, Atlassian, Clerk, the French government's DSFR) and a `create-design-md` skill.
-- [Vessa](../sites/vessa.md) — a contrasting format: hosted brand guidelines published as a versioned `brand.json` and a per-brand `llms.txt`, with motion tokens and an OAuth MCP.
+- [agentcn](../sites/agentcn.md) — Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
+- [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
+- [Design DNA](../sites/design-dna.md) — Turns references into a three-part JSON profile (tokens, style, WebGL effects), with measured colours and a ΔE verify loop.
+- [design.dev](../sites/design-dev.md) — Free generators for DESIGN.md, AGENTS.md, CLAUDE.md and more, plus component prompts and style packs; strict terms.
+- [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
+- [Design.md Store](../sites/designmd-store.md) — 51 free brand-inspired DESIGN.md packs plus clear docs on the Google DESIGN.md format; strict reuse terms.
+- [DesignMD (designmd.me)](../sites/designmd-me.md) — Credit-based URL-to-DESIGN.md generator with CLI, agent skill, Figma import and a free Discover gallery.
+- [DesignMD.cc](../sites/designmd-cc.md) — Free URL-to-DESIGN.md generator measuring live CSS, with an MIT CLI and a benchmark library.
+- [designmd.supply](../sites/designmd-supply.md) — Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
+- [extract-design-system](../sites/extract-design-system.md) — Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
+- [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
+- [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
+- [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — Paste a domain, get a basic Google-style DESIGN.md via Hyperbrowser's branding API (bring your own key).
+- [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
+- [Impeccable](../sites/impeccable.md) — Apache-2.0 design skill with 24 commands, a deterministic slop detector for CI, and PRODUCT.md/DESIGN.md context.
+- [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
+- [OpenDesign](../sites/open-design.md) — Apache-2.0 local design engine for coding agents, with 151 forkable DESIGN.md packages and MCP.
+- [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
+- [Stitch Skills](../sites/stitch-skills.md) — Google Labs' Stitch skills and source of the "Stitch format"; three DESIGN.md writers with different layouts.
+- [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
+- [Superdesign](../sites/superdesign-skill.md) — Drives the hosted superdesign.dev canvas from your agent to branch drafts and compare models.
+- [TypeUI](../sites/typeui.md) — Style-named design skills (SKILL.md + DESIGN.md) via an MIT CLI/registry and a paid hosted MCP.
+- [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.
+- [UI Skills](../sites/ui-skills.md) — 306 design-engineering skills from 84 authors, with a routing skill, CLI, MCP and 18 real company DESIGN.md files.
+- [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
+- [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
+- [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
 <!-- atlas:sources:end -->
 
 ## Format comparison

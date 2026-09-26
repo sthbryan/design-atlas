@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [impeccable, hallmark, typeui, motion-primitives, designmd]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
 
 # UI Skills
 

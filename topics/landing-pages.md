@@ -20,21 +20,24 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 ## All sources
 
 <!-- atlas:sources:start -->
-- [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, logo clouds, pricing, shaders); the elaborate blocks are paid.
-- [Curated](../sites/curated-design.md) — two independent axes, industry and visual style, over live sites, and a section library of heroes, pricing tables, footers and FAQs.
-- [Details](../sites/details.md) — deep categories for preloaders, page transitions and pinned scroll, filterable by element, section, interaction, industry and style; the full library and MCP are paid.
-- [GetLayers](../sites/getlayers.md) — paid WebGL scenes, animated backgrounds and cinematic page templates for a page's signature moment, each copied as one prompt.
-- [Good UI](../sites/good-ui.md) — patterns such as a sticky CTA or fewer form fields, with every test's statistical power shown and losing results published; win rates are members-only.
-- [Hallmark](../sites/hallmark.md) — 21 macrostructures, 21 themes and archetype files for heroes, navigation, footers and testimonials, plus `audit`, `redesign` and `study` verbs.
-- [Kibo UI](../sites/kibo-ui.md) — 28 free MIT blocks, including hero, feature, pricing, FAQ, CTA, testimonial and footer sections, themed with the same CSS variables as its app components.
-- [Kombai](../sites/kombai.md) — a free gallery of about 20,000 designs, heroes and pricing pages among them, each with palette, type scale and a copyable prompt for any agent.
-- [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full scrolling videos, with GSAP, WebGL, Three.js and horizontal-scroll collections.
-- [Neuform](../sites/neuform.md) — remixable AI-generated landing pages, mostly dark and WebGL-heavy, each with a design breakdown; generating needs a paid plan.
-- [Scrolltide](../sites/scrolltide.md) — paid cinematic scroll-driven templates for landing pages, heroes and portfolios, plus pricing, footer and CTA sections, each with an agent prompt.
-- [Sections.wtf](../sites/sections-wtf.md) — one hero, pricing table or footer at a time, including rarer blocks such as roadmaps, team pages and comparison tables, with more shots from the same site.
-- [SEESAW](../sites/seesaw.md) — about 860 hand-picked live sites, mostly startup, AI and developer-tool marketing, each tagged with the typefaces it uses.
-- [Supahero](../sites/supahero.md) — about 570 hero sections on one long page, for judging headline length, CTA count and what sits above the fold.
-- [VibeUI](../sites/vibeui.md) — 92 free layout prompts across 15 section types, including eight hero variants, pricing tables, CTA banners and footers, to pair with a style screenshot.
+- [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
+- [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
+- [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
+- [Curated](../sites/curated-design.md) — About 2,240 live sites by industry and style, plus a 2,267-entry section library (mostly Pro).
+- [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
+- [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
+- [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
+- [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
+- [Kibo UI](../sites/kibo-ui.md) — Free MIT shadcn companion with 41 functional components (Gantt, Kanban, editor), 28 marketing blocks and an MCP server.
+- [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
+- [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
+- [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
+- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [Sections.wtf](../sites/sections-wtf.md) — About 280 single landing-page sections recorded as video, filterable across 22 section types.
+- [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
+- [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
+- [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
+- [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

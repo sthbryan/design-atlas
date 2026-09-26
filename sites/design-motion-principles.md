@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [lottiefiles-motion-design, mblode-agent-skills, ui-skills, impeccable, easing-wizard]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [motion](../topics/motion.md)
+[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [motion](../topics/motion.md)
 
 # Design Motion Principles
 

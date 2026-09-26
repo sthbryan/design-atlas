@@ -20,24 +20,29 @@ How sites document components, design systems and style — for human readers an
 ## All sources
 
 <!-- atlas:sources:start -->
-- [Anime.js](../sites/animejs.md) — a clear, well-documented API that agents can follow to generate complex animations.
-- [Astryx](../sites/astryx.md) — a well-documented npm package with meta descriptions summarizing each component.
-- [The Book of Shaders](../sites/book-of-shaders.md) — teaching docs done well: a live, editable example next to every concept and a glossary that sends each term back to its chapter; all rights reserved.
-- [Carbon Design System](../sites/carbon-design-system.md) — usage, style, code and accessibility tabs on every component, pattern pages for whole flows, and an `llms.txt` that indexes every page and package.
-- [The Component Gallery](../sites/component-gallery.md) — reference documentation comparing 60 components across 95 systems.
-- [Design System Checklist](../sites/design-system-checklist.md) — a maintenance chapter on documentation, contribution and support that component lists usually skip; the item text lives in plain JS files in the repo.
-- [DESIGN.md](../sites/designmd.md) — design systems distributed as single markdown files, with an MCP/CLI to browse them.
-- [Design.md Store](../sites/designmd-store.md) — documents the Google DESIGN.md format itself: front matter fields, token references, standard sections and the lint/export CLI.
-- [Devouring Details](../sites/devouring-details.md) — a paid interactive manual where each chapter comes with a downloadable React prototype and footage recorded from real components.
-- [DialKit](../sites/dialkit.md) — a Human/Agent switch on its docs, where the agent view is a Markdown guide with purpose, workflow and install steps per framework.
-- [Inclusive Components](../sites/inclusive-components.md) — long-form component docs that build the argument from the broken version up and end every post with a checklist.
-- [Laws of UX](../sites/laws-of-ux.md) — one fixed structure per principle (definition, takeaways, examples, origins), with every page also served as markdown to agents.
-- [Morphrig](../sites/morphrig.md) — an interactive manual on SVG icon morphing with scrubbable figures, measured browser findings and the whole text in `llms-full.txt`.
-- [Refero Styles](../sites/refero-styles.md) — extracted brand design specs (palette, typography, spacing) as text.
-- [shadcn/ui](../sites/shadcn-ui.md) — `llms.txt`, an MCP server, and a manual setup guide per framework.
-- [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, star charts and headers, plus a README Studio that exports GitHub Markdown with light and dark image pairs.
-- [UI Playbook](../sites/ui-playbook.md) — one MDX page per component under the same headings: purpose, states, responsive behaviour, best practices, traps and accessibility.
-- [UIAble](../sites/uiable.md) — command-palette-searchable docs across components, blocks and templates.
+- [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
+- [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
+- [Astryx](../sites/astryx.md) — Meta's React design system with rich form controls, strong accessibility hooks and a plugin-based table.
+- [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
+- [Design System Checklist](../sites/design-system-checklist.md) — 230 items across language, foundations, 29 components and maintenance, with shareable progress links.
+- [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
+- [Design.md Store](../sites/designmd-store.md) — 51 free brand-inspired DESIGN.md packs plus clear docs on the Google DESIGN.md format; strict reuse terms.
+- [Designer Skills](../sites/designer-skills.md) — 111 small design-practice skills in nine plugins, with a router that picks one entry point.
+- [Devouring Details](../sites/devouring-details.md) — Rauno Freiberg's paid interactive manual on interaction craft, with 23 chapters and downloadable React prototypes.
+- [DialKit](../sites/dialkit.md) — MIT live control panel for tuning springs, easing, layout and timelines in React, Vue, Svelte, Solid and plain JS.
+- [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
+- [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
+- [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
+- [No AI Slop](../sites/no-ai-slop.md) — Removes AI writing patterns while keeping the writer's voice, and has a detect-only mode.
+- [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
+- [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
+- [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
+- [Stop Slop](../sites/stop-slop.md) — Small prose skill listing AI phrases and sentence shapes to cut, with a 50-point score.
+- [The Book of Shaders](../sites/book-of-shaders.md) — Classic step-by-step guide to fragment shaders with editable live examples; learning only, all rights reserved.
+- [The Component Gallery](../sites/component-gallery.md) — Reference that compares how 95 design systems name, structure and document the same 60 components.
+- [UI Playbook](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
+- [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
+- [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [laws-of-ux, anthropic-design-plugin, ibelick-ui-skills, impeccable, good-ui]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Wondel.ai Skills
 

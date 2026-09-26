@@ -20,66 +20,63 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 ## All sources
 
 <!-- atlas:sources:start -->
-- [21st.dev](../sites/21st-dev.md) — MCP server with `search`, `get_component`, `get_inspiration` and `generate` tools.
-- [60fps](../sites/60fps.md) — `llms.txt` plus a separately billed MCP that searches interaction recordings and returns motion breakdowns and SwiftUI code.
-- [@web-kits/audio](../sites/web-kits-audio.md) — `llms.txt`, a "Copy for LLM" button on every docs page, and a `create-sound` skill that turns a prompt or a sample's FFT into a typed sound definition.
-- [Agentation](../sites/agentation.md) — a local MCP server with nine tools (list pending notes, acknowledge, resolve, a blocking watch) for hands-free, critique and self-driving review loops.
-- [agentcn](../sites/agentcn.md) — agent recipes installed through the shadcn CLI or MCP, with `llms.txt`, markdown mirrors, an OpenAPI file and a `.well-known` site skill.
-- [Aura](../sites/aura.md) — a remote OAuth MCP to search its catalogue, import projects and publish specific revisions, with billing and shell access kept out.
-- [Carbon Design System](../sites/carbon-design-system.md) — a clean `llms.txt` of every component, pattern and package, plus a Carbon MCP behind IBMid that people outside IBM must request.
-- [Craftwork](../sites/craftwork.md) — Pro-plan MCP with semantic asset search and signed downloads, set up for several clients by one `npx` wizard.
-- [Cuelume](../sites/cuelume.md) — an `agents.md` with install steps, the full API, framework recipes and sound-design rules; no MCP or `llms.txt`.
-- [design.dev](../sites/design-dev.md) — form-based generators for DESIGN.md, `AGENTS.md`, `CLAUDE.md`, `SKILL.md`, Cursor rules and MCP configs, and style packs at predictable URLs.
-- [DESIGN.md](../sites/designmd.md) — MCP server and standalone CLI for browsing and downloading design systems.
-- [DesignMD (designmd.me)](../sites/designmd-me.md) — a CLI and installable agent skill that generate a DESIGN.md before the agent writes UI, plus `CLAUDE.md` snippets.
-- [DesignMD.cc](../sites/designmd-cc.md) — `npx @designmdcc/cli <url> > DESIGN.md` with no key, and rules-file snippets for Cursor, Claude Code, Windsurf and Copilot.
-- [designmd.supply](../sites/designmd-supply.md) — copy-only output in the Google DESIGN.md format; no CLI or MCP, but the whole generator prompt is open source.
-- [Detail (detail.design)](../sites/detail-design.md) — `npx skills add detaildotdesign/skill` turns 120+ curated interface details into rules for a polish review.
-- [Details](../sites/details.md) — a Markdown twin of every public page and a paid OAuth MCP that returns ordered video frames, source URLs and implementation briefs, metered by monthly credits.
-- [DialKit](../sites/dialkit.md) — an Agent view of its docs in Markdown and ready prompts for wiring live motion controls into a component.
-- [Easing Wizard](../sites/easing-wizard.md) — an MCP server with seven curve tools, a keyless REST API with an OpenAPI spec, and a Claude Code plugin that audits a project for generic easings.
-- [Efecto](../sites/efecto.md) — 68 MCP tools (per its docs) for building artboards on a canvas you watch, plus a REST API and three design skills; driving it from your own agent is free.
-- [getdesign.md](../sites/getdesign-md.md) — `npx getdesign add <slug>` drops a brand DESIGN.md into the project; no MCP.
-- [GetLayers](../sites/getlayers.md) — one long prompt per visual layer for any agent, plus a remote MCP and a published `SKILL.md` on the Full Stack lifetime tier.
-- [Hallmark](../sites/hallmark.md) — an MIT `SKILL.md` for Claude Code, Cursor and Codex with `audit`, `redesign` and `study` verbs; no MCP or `llms.txt`.
-- [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — a single SDK call (`web.fetch` with the branding format) you can script instead of using the UI.
-- [icons0](../sites/icons0.md) — an MCP with `search-icons`, `get-icon`, `list-collections` and `list-licenses` (API key required), plus direct shadcn registry URLs.
-- [Impeccable](../sites/impeccable.md) — `npx impeccable install` sets up the skill and native hooks for about ten coding tools, and its detector returns CI-friendly exit codes.
-- [interior.dev](../sites/interior-dev.md) — `llms.txt`, an `llms-full.txt` with every component's full source, and a plain-text reference page per component.
-- [Kage](../sites/kage.md) — MCP server with `design_brief`, `search_designs`, `get_design` and `get_component` tools.
-- [Kibo UI](../sites/kibo-ui.md) — `npx kibo-ui add` plus a remote MCP reached through `mcp-remote`; the MCP returned a server error in a test handshake at review.
-- [Kobra](../sites/kobra.md) — `llms.txt` index and a markdown API (`/r/<name>.md`) per component.
-- [Kombai](../sites/kombai.md) — a frontend coding agent that can drive your Claude Code or Codex CLI, a local MCP other agents can call, and gallery items with stable `kombai:` IDs.
-- [Laws of UX](../sites/laws-of-ux.md) — an `llms.txt` that tells agents when to cite each law, and markdown from every page URL through `Accept: text/markdown`.
-- [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — copy-prompt buttons that include your current settings, and a free skill that scans a project for places to use them.
-- [mapcn](../sites/mapcn.md) — a "copy prompt for your agent" button plus a shadcn-style CLI registry install.
-- [mcpcn](../sites/mcpcn.md) — MCP App widget blocks installed through the shadcn MCP server, with `llms.txt`, markdown mirrors, an OpenAPI file and a `.well-known` skill.
-- [Neuform](../sites/neuform.md) — 71 copyable prompt skills for styles and effects, each with an author and usage count.
-- [OpenDesign](../sites/open-design.md) — `od mcp install <agent>` wires a local design engine and 151 DESIGN.md packages into Claude Code, Codex, Cursor and more.
-- [OpenMotion](../sites/openmotion.md) — plugs your own Claude Code or Codex CLI in to generate launch videos, but exposes nothing for other agents to call.
-- [posts.design](../sites/posts-design.md) — `llms.txt` documenting a public JSON search API over social post references.
-- [Prompt Kit](../sites/prompt-kit.md) — the shadcn MCP server pointed at its registry URL, plus `llms.txt`, `llms-full.txt` and notes for the OpenAI and Vercel AI SDKs.
-- [Ramps](../sites/ramps.md) — an `llms.txt` documenting every parameter, a keyless JSON palette API, and plain-text pages for any link with `?b=`.
-- [React Bits](../sites/reactbits.md) — an `llms.txt` file listing the full component catalog for agents to parse.
-- [Recent](../sites/recent-design.md) — a Skills page of design-focused agent skills with copyable `npx skills add` commands.
-- [Refero Styles](../sites/refero-styles.md) — MCP integration plus downloadable `DESIGN.md` style files.
-- [Remocn](../sites/remocn.md) — a video-composing skill that reads a live component index with use and avoid cases, lengths and dependencies.
-- [Screenshot to Code](../sites/screenshot-to-code.md) — a standalone generator; paste its output into your repo and let your agent refactor it against your own components.
-- [Scrolltide](../sites/scrolltide.md) — every template ships with an "AI-engineered" prompt to paste into an agent.
-- [shadcn/ui](../sites/shadcn-ui.md) — `llms.txt`, an MCP server, and a natural-language component registry.
-- [shieldcn](../sites/shieldcn.md) — an agent skill and `llms.txt` covering every badge endpoint and query parameter, so agents can write badge URLs directly.
-- [termcn](../sites/termcn.md) — `llms.txt`, markdown copies of every docs page, an OpenAPI file and a `.well-known` skill, with the shadcn MCP server for installs.
-- [Transitions.dev](../sites/transitions-dev.md) — a skill whose `review`, `refine` and `apply` commands scan a project for ad-hoc motion and install a best-fit transition after you confirm.
-- [TypeUI](../sites/typeui.md) — `npx typeui.sh pull` for style skills from an MIT registry, plus a hosted OAuth MCP that serves skills and prompts.
-- [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — writes a `SKILL.md` or DESIGN.md from the open tab for skill-aware agents.
-- [UI SFX](../sites/uisfx.md) — `llms.txt`, a Markdown agent guide, a copy-ready prompt and a JSON cue catalogue covering the whole integration.
-- [UI Skills](../sites/ui-skills.md) — 306 design-engineering skills behind a routing skill, reachable by CLI, a two-tool MCP (`list_skills`, `get_skill`) and a per-skill `llms.txt`.
-- [UIAble](../sites/uiable.md) — mentions Figma MCP for design-to-code flows (no dedicated MCP/CLI of its own).
-- [User Interface Wiki](../sites/user-interface-wiki.md) — `npx skills add raphaelsalaja/userinterface-wiki` installs 152 craft rules that report findings as `file:line`.
-- [Vessa](../sites/vessa.md) — an open `brand.json` and `llms.txt` per published brand, and an OAuth MCP that can edit and publish guidelines but cannot buy, delete or change a URL.
-- [VibePrompts](../sites/vibeprompts.md) — a library of prompts organized by page section, for any AI assistant.
-- [VibeUI](../sites/vibeui.md) — 92 one-click layout prompts designed to be pasted into an agent with a style screenshot attached.
-- [What Ships](../sites/what-ships.md) — `llms.txt`, an OpenAPI description, a JSON search index and markdown pages, with a guide asking agents to always cite the original post.
+- [@web-kits/audio](../sites/web-kits-audio.md) — Declarative Web Audio synthesis with JSON sound patches, a CLI, llms.txt and a create-sound agent skill.
+- [21st.dev](../sites/21st-dev.md) — Community registry of React and Tailwind components with many variants per pattern, a CLI and an MCP server.
+- [60fps](../sites/60fps.md) — About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
+- [Agentation](../sites/agentation.md) — React toolbar that turns click-to-annotate feedback into selectors and file paths agents can act on over MCP.
+- [agentcn](../sites/agentcn.md) — Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
+- [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
+- [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
+- [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
+- [Cuelume](../sites/cuelume.md) — Seventeen synthesised interaction cues wired by data attributes and bind(), with a full agents.md guide.
+- [design.dev](../sites/design-dev.md) — Free generators for DESIGN.md, AGENTS.md, CLAUDE.md and more, plus component prompts and style packs; strict terms.
+- [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
+- [DesignMD (designmd.me)](../sites/designmd-me.md) — Credit-based URL-to-DESIGN.md generator with CLI, agent skill, Figma import and a free Discover gallery.
+- [DesignMD.cc](../sites/designmd-cc.md) — Free URL-to-DESIGN.md generator measuring live CSS, with an MIT CLI and a benchmark library.
+- [designmd.supply](../sites/designmd-supply.md) — Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
+- [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
+- [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
+- [DialKit](../sites/dialkit.md) — MIT live control panel for tuning springs, easing, layout and timelines in React, Vue, Svelte, Solid and plain JS.
+- [Easing Wizard](../sites/easing-wizard.md) — Visual CSS easing editor (Bézier, spring, bounce) with a free REST API, MCP server and Claude Code plugin.
+- [Efecto](../sites/efecto.md) — Browser canvas your agent drives through MCP tools, plus an FX engine for dither, ASCII and halftone posters.
+- [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
+- [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
+- [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — Paste a domain, get a basic Google-style DESIGN.md via Hyperbrowser's branding API (bring your own key).
+- [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
+- [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
+- [Kage](../sites/kage.md) — Real interfaces packaged as agent-ready prompts and design briefs, browsable by component, with its own MCP server.
+- [Kibo UI](../sites/kibo-ui.md) — Free MIT shadcn companion with 41 functional components (Gantt, Kanban, editor), 28 marketing blocks and an MCP server.
+- [Kobra](../sites/kobra.md) — Proprietary component system for AI and agent product interfaces, with an llms.txt index and a markdown API per component.
+- [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
+- [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
+- [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
+- [mapcn](../sites/mapcn.md) — Map components distributed as a shadcn/ui registry, with a "copy prompt for your agent" button.
+- [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
+- [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
+- [OpenDesign](../sites/open-design.md) — Apache-2.0 local design engine for coding agents, with 151 forkable DESIGN.md packages and MCP.
+- [OpenMotion](../sites/openmotion.md) — Free closed desktop app that drives your Claude Code or Codex CLI to turn a brief into editable launch videos; nothing for your own agent to call.
+- [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
+- [Prompt Kit](../sites/prompt-kit.md) — MIT shadcn components for chat UIs: prompt input, auto-scrolling conversation, reasoning, tool-call and citation views.
+- [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
+- [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
+- [Recent](../sites/recent-design.md) — Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
+- [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
+- [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
+- [Screenshot to Code](../sites/screenshot-to-code.md) — MIT tool turning screenshots, recordings or text into HTML/Tailwind/React/Vue code; hosted or self-hosted.
+- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
+- [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
+- [termcn](../sites/termcn.md) — Ink and OpenTUI terminal components via shadcn CLI, including agent chat, tool-approval and diff-review widgets.
+- [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
+- [TypeUI](../sites/typeui.md) — Style-named design skills (SKILL.md + DESIGN.md) via an MIT CLI/registry and a paid hosted MCP.
+- [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.
+- [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
+- [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
+- [User Interface Wiki](../sites/user-interface-wiki.md) — Raphael Salaja's nine demo-rich articles on motion, sound and type, installable as a 152-rule agent skill.
+- [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
+- [VibePrompts](../sites/vibeprompts.md) — Library of prompts organised by page section (pricing, hero, forms) to paste into any AI assistant.
+- [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
+- [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

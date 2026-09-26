@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [ui-skills, impeccable, ui-taste, emil-kowalski-skills, laws-of-ux]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Superfuture Design Review
 

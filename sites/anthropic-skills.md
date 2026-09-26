@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [impeccable, hallmark, ui-skills, ui-ux-pro-max, typeui]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md), [color](../topics/color.md)
+[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md), [color](../topics/color.md)
 
 # Anthropic Skills
 

@@ -16,8 +16,8 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 ## All sources
 
 <!-- atlas:sources:start -->
-- [Navbar Gallery](../sites/navbar-gallery.md) — real examples of every major navbar pattern, plus a blog on when to use each.
-- [Rare UI](../sites/rareui.md) — code rather than screenshots: animated React sidebars (bounce, proximity, dashed rail), a scroll-progress section menu and a gooey nav bar, installed with the shadcn CLI.
+- [Navbar Gallery](../sites/navbar-gallery.md) — Real examples of every major navbar pattern (sticky, mega menu, sidebar, tabs and more), plus a blog on when to use each.
+- [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing
