@@ -208,6 +208,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Appinspo](sites/appinspo.md) | gallery | inspiration, agents-and-prompts, design-md | useful | prompts | not-stated |
 | [AppShot Gallery](sites/appshot-gallery.md) | gallery | inspiration, assets | niche | none | not-stated |
 | [before.click](sites/before-click.md) | gallery | inspiration, ux-patterns, agent-skills | useful | skill | mixed |
+| [Best SaaS Web Designs](sites/best-saas-web-designs.md) | gallery | landing-pages, inspiration | useful | llms-txt | proprietary-free |
 | [Browse.cool](sites/browse-cool.md) | gallery | inspiration, typography-and-styles, motion | niche | none | not-stated |
 | [Collect UI](sites/collect-ui.md) | gallery | inspiration, components, motion | useful | none | not-stated |
 | [CTA Gallery](sites/cta-gallery.md) | gallery | cta, inspiration | niche | none | not-stated |
@@ -224,7 +225,11 @@ The repository is private for now. Until it is public, both install commands nee
 | [Inspora](sites/inspora.md) | gallery | inspiration, typography-and-styles | niche | llms-txt | not-stated |
 | [Kage](sites/kage.md) | gallery | inspiration, agents-and-prompts, components | very-useful | mcp, prompts | not-stated |
 | [Lab01](sites/lab01.md) | gallery | inspiration, components, typography-and-styles | niche | none | not-stated |
+| [Landbook](sites/land-book.md) | gallery | landing-pages, inspiration | useful | llms-txt | proprietary-paid |
+| [Landdding](sites/landdding.md) | gallery | landing-pages, inspiration | niche | llms-txt | proprietary-paid |
 | [Landing Love](sites/landing-love.md) | gallery | landing-pages, motion, inspiration | useful | llms-txt | not-stated |
+| [Landingfolio](sites/landingfolio.md) | gallery | landing-pages, inspiration, components, agents-and-prompts | very-useful | mcp | proprietary-paid |
+| [Lapa Ninja](sites/lapa-ninja.md) | gallery | landing-pages, inspiration, assets | useful | none | proprietary-paid |
 | [Loader Buttons](sites/loader-buttons.md) | gallery | components, cta, motion, 3d-and-shaders | niche | none | not-stated |
 | [loadmo.re](sites/loadmore.md) | gallery | inspiration, typography-and-styles, motion | useful | none | proprietary-free |
 | [Minimal Gallery](sites/minimal-gallery.md) | gallery | inspiration, typography-and-styles | useful | none | not-stated |
@@ -235,6 +240,9 @@ The repository is private for now. Until it is public, both install commands nee
 | [posts.design](sites/posts-design.md) | gallery | inspiration, assets, agents-and-prompts | useful | llms-txt, api | proprietary-free |
 | [Rebrand Gallery](sites/rebrand-gallery.md) | gallery | inspiration, typography-and-styles | useful | none | proprietary-paid |
 | [Recent](sites/recent-design.md) | gallery | inspiration, assets, agents-and-prompts | very-useful | skill | not-stated |
+| [SaaS Landing Page](sites/saas-landing-page.md) | gallery | landing-pages, inspiration, typography-and-styles | useful | none | not-stated |
+| [SaaSFrame](sites/saasframe.md) | gallery | landing-pages, ux-patterns, inspiration | useful | none | proprietary-paid |
+| [Saaspo](sites/saaspo.md) | gallery | landing-pages, inspiration | useful | none | not-stated |
 | [Sections.wtf](sites/sections-wtf.md) | gallery | inspiration, landing-pages, cta, footers | very-useful | none | not-stated |
 | [SEESAW](sites/seesaw.md) | gallery | inspiration, landing-pages, typography-and-styles | useful | none | not-stated |
 | [Supahero](sites/supahero.md) | gallery | inspiration, landing-pages, cta | niche | none | proprietary-free |

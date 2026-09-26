@@ -1011,6 +1011,35 @@
       ]
     },
     {
+      "slug": "best-saas-web-designs",
+      "path": "sites/best-saas-web-designs.md",
+      "title": "Best SaaS Web Designs",
+      "description": "Free, no-login catalogue of about 390 SaaS sites, each with desktop, mobile and OG captures, per-section crops, detected stack and a colour palette.",
+      "url": "https://bestsaaswebdesigns.com",
+      "type": "gallery",
+      "formats": "inspiration gallery (screenshots, section crops) · llms.txt · Markdown twin",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free with no login, with a sponsor slot in the grid. The terms say screenshots and brands belong to their owners, the site owns its own layout, code and text, and scraping or reselling its content is not allowed",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "saaspo",
+        "saas-landing-page",
+        "supahero",
+        "saasframe",
+        "footer-design"
+      ]
+    },
+    {
       "slug": "blender",
       "path": "sites/blender.md",
       "title": "Blender",
@@ -4051,6 +4080,64 @@
       ]
     },
     {
+      "slug": "land-book",
+      "path": "sites/land-book.md",
+      "title": "Landbook",
+      "description": "Veteran human-curated website gallery with 20,000+ sites and 200,000+ cropped sections, filters by colour, style and platform, and an experts directory.",
+      "url": "https://land-book.com",
+      "type": "gallery",
+      "formats": "inspiration gallery (screenshots, motion, sections, OG images) · template marketplace · experts directory · llms.txt",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free with limits; Pro costs $6 a month billed yearly ($72) at review. Terms from Landbook Sp. z o.o. (Poland) leave submitted work with its owners and forbid using Landbook's content or data for machine learning, AI training or commercial reuse without written consent",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "lapa-ninja",
+        "landingfolio",
+        "landdding",
+        "landing-love",
+        "sections-wtf"
+      ]
+    },
+    {
+      "slug": "landdding",
+      "path": "sites/landdding.md",
+      "title": "Landdding",
+      "description": "Daily feed of about 2,400 landing pages in 40 categories, with tag, colour and platform filters and an llms.txt; free browsing is metered.",
+      "url": "https://landdding.com",
+      "type": "gallery",
+      "formats": "inspiration gallery (screenshots) · template listings · llms.txt",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free with limits and partner ads; PRO costs $4 a month billed yearly ($48) at review. The terms allow personal, non-commercial use of site content, and the llms.txt asks you not to redistribute screenshots out of context",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "land-book",
+        "lapa-ninja",
+        "landing-love",
+        "minimal-gallery",
+        "saaspo"
+      ]
+    },
+    {
       "slug": "landing-love",
       "path": "sites/landing-love.md",
       "title": "Landing Love",
@@ -4078,6 +4165,65 @@
         "minimal-gallery",
         "scrolltide",
         "recent-design"
+      ]
+    },
+    {
+      "slug": "landingfolio",
+      "path": "sites/landingfolio.md",
+      "title": "Landingfolio",
+      "description": "Landing page and section gallery with an MCP server that feeds real section screenshots to coding agents, plus paid Tailwind, Webflow and Figma components.",
+      "url": "https://www.landingfolio.com",
+      "type": "gallery",
+      "formats": "inspiration gallery · section examples · component library (Tailwind, Webflow, Figma) · MCP server",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "The gallery is free to browse. The MCP needs a free token (100 requests a day at review). The all-access pass costs $1.99 a week or $59 once, and allows unlimited commercial end projects but no resale or redistribution of the items. Gallery screenshots are third-party sites",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "land-book",
+        "lapa-ninja",
+        "saaspo",
+        "shadcnblocks",
+        "mobbin"
+      ]
+    },
+    {
+      "slug": "lapa-ninja",
+      "path": "sites/lapa-ninja.md",
+      "title": "Lapa Ninja",
+      "description": "Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.",
+      "url": "https://www.lapa.ninja",
+      "type": "gallery",
+      "formats": "inspiration gallery (screenshots, video, OG images) · freebies · book and course lists · agent skills list",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to browse; Pro costs $9 a month at review and removes ads and board limits. Its policy says screenshots belong to the site owners, forbids scraping, bulk downloading or redistributing the gallery or its data, and keeps curation and database rights. Each freebie has its own terms",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "land-book",
+        "landingfolio",
+        "landing-love",
+        "landdding",
+        "emil-kowalski-skills"
       ]
     },
     {
@@ -5738,6 +5884,89 @@
         "radix",
         "headless-ui",
         "base-cn"
+      ]
+    },
+    {
+      "slug": "saas-landing-page",
+      "path": "sites/saas-landing-page.md",
+      "title": "SaaS Landing Page",
+      "description": "Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.",
+      "url": "https://saaslandingpage.com",
+      "type": "gallery",
+      "formats": "inspiration gallery (full-page screenshots) · template directory",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, funded by sponsored entries ($500 a month or $550 one-off at review) and affiliate links. There are no terms of use and no reuse licence, only a privacy policy",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "saaspo",
+        "best-saas-web-designs",
+        "saasframe",
+        "supahero",
+        "landingfolio"
+      ]
+    },
+    {
+      "slug": "saasframe",
+      "path": "sites/saasframe.md",
+      "title": "SaaSFrame",
+      "description": "SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.",
+      "url": "https://www.saasframe.io",
+      "type": "gallery",
+      "formats": "inspiration gallery (screenshots, flows) · Figma file downloads",
+      "topics": [
+        "landing-pages",
+        "ux-patterns",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free preview, and Pro costs $18 a month, $48 a quarter or $140 a year at review; a quote plan covers invoicing. Sold through Lemon Squeezy. The terms cover billing but give no reuse licence for screenshots or Figma files",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "saaspo",
+        "mobbin",
+        "best-saas-web-designs",
+        "land-book",
+        "sections-wtf"
+      ]
+    },
+    {
+      "slug": "saaspo",
+      "path": "sites/saaspo.md",
+      "title": "Saaspo",
+      "description": "Free gallery of SaaS marketing pages you can filter by page type, industry, visual style, asset type and build stack, plus section and OG image views.",
+      "url": "https://saaspo.com",
+      "type": "gallery",
+      "formats": "inspiration gallery (screenshots)",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse with no paid tier found. Funded by sponsor cards, affiliate links and a SaaS design agency upsell. No terms or reuse licence found; the screenshots show third-party sites",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "saasframe",
+        "best-saas-web-designs",
+        "saas-landing-page",
+        "supahero",
+        "landing-love"
       ]
     },
     {
