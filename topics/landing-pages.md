@@ -101,6 +101,11 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - Give the agent structure and style as separate inputs, a layout prompt plus a reference screenshot (VibeUI), and describe references in layout terms: grid, CTA position, copy density and what moves when (Sections.wtf, SEESAW).
 - Keep marketing blocks on the same tokens as the product UI so the brand carries through from app to site (Kibo UI).
 - Spend a heavy visual moment, such as a 3D hero or fluid field, on one place and give it a static fallback (GetLayers).
+- Build a coming-soon hero from two gradients in one element, a radial highlight over a diagonal ramp, instead of shipping a background image (Rueya).
+- Keep a waitlist to a single field with its label on the element and a visible focus ring, so it does not look like a form at all (Rueya).
+- On a dark hero, make the primary button the lightest element on the page and give it a 44px minimum height, a fixed transition list and a small active scale (Rueya).
+- Pair a quiet headline with an airy paragraph rather than two heavy ranks: Rueya measured 41.6px at weight 300 on a 1.02 line height over body copy at a 1.75 line height.
+- Publish the legal pages before the catalogue, so a pre-launch page reads as a business and not as a placeholder (Rueya).
 
 ## Pitfalls
 
@@ -112,6 +117,9 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - Prompt-based templates depend on the model: the rebuild differs from the preview (Scrolltide, GetLayers), and short layout prompts leave states, accessibility and responsiveness to the model (VibeUI).
 - Few galleries expose anything to agents: Details has a paid MCP, Kombai and Landing Love publish `llms.txt`, and the rest mean describing references by hand.
 - Hallmark deliberately avoids repeating its last three macrostructures; for several pages of one product, tell it to keep a single structure and theme.
+- A transparent input with a low-alpha border is easy to make unusable: keep the label on the element, not just in the placeholder, and keep a strong focus state (Rueya).
+- A dark hero with four gradient colours leaves no room for a low-contrast headline; 41.6px at weight 300 needs the background to stay dark behind it (Rueya).
+- Pre-launch routes that redirect every URL to the hero page make the site unreadable to crawlers and confusing to a link audit (Rueya).
 
 ## Related topics
 

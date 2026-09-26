@@ -115,6 +115,11 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - Make licence a search filter and put it on every asset's metadata, not only in a README (icons0, soundcn).
 - Generate each page's OG card from its own title and metadata, and check the preview per platform, since each one crops and truncates differently (ogimagecn).
 - Style README badges and headers with the product's own tokens, and export light and dark `<picture>` pairs (shieldcn).
+- Let the foundry's own faces set the sample text, so the catalogue page doubles as the specimen (Death of Typography).
+- Put size, line-height and letter-spacing controls on every sample line, three per line here, instead of one global preview (Death of Typography).
+- Sell single weights beside the bundle so a small project can buy one, and offer pay-what-you-want including zero for students (Death of Typography).
+- State an open-source licence as a short list of what you may do, then name the one condition that matters, such as reserved font names (Death of Typography).
+- Give a pre-launch asset shop a full-screen hero with one field and finished legal pages, so the storefront reads as real before it has inventory (Rueya).
 
 ## Pitfalls
 
@@ -128,6 +133,9 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - Mixed-licence catalogues need filtering: soundcn's 110 Warcraft clips are non-commercial only, and some icons0 collections use attribution or copyleft licences.
 - Satori renders only part of CSS, so an OG card that looks right in the browser can shift in the real PNG (ogimagecn).
 - Hosted asset services can rate-limit or go down; self-host anything critical (shieldcn), and remember Efecto's canvas work lives on its servers, not in your repo.
+- A specimen page depends on the foundry's webfonts. When they fail to load, sample lines fall back to a generic sans and misrepresent the face (Death of Typography).
+- Pricing assets per weight multiplies the cost of a family; a bundle is what makes a whole family affordable (Death of Typography).
+- An asset shop that redirects every route to a waitlist leaves crawlers with one page, and advertising its admin routes in a public sitemap exposes the workspace (Rueya).
 
 ## Related topics
 

@@ -127,6 +127,13 @@ Galleries of real interfaces, sites and components to look at before designing y
 - Record references as video whenever motion is the point, since loaders, scroll choreography and section entrances disappear from a screenshot (Landing Love, Sections.wtf, Details).
 - Tag every entry with the typefaces it uses, so a site or brand gallery doubles as a type-pairing reference (SEESAW, Rebrand Gallery).
 - Keep older captures when a site is redesigned, so you can see how a brand's web presence changed (Landing Love).
+- Lock one card ratio and crop every screenshot to it, so a grid of wildly different sites still lines up: Site of Sites measured 695 by 387 and Refs.Gallery 334 by 188, both 16:9.
+- Make hierarchy with display tracking rather than weight, and leave the body ranks neutral: Refs.Gallery runs its 56px hero at weight 600 with minus 3.36px letter-spacing, about minus 0.06em.
+- Build identity from one accent used at size instead of many: Site of Sites tints large serif headings rgb(4, 0, 216) while buttons, links and body copy stay neutral.
+- Keep a two-tone ground rather than pure values, so long scrolls of screenshots do not glare: Refs.Gallery measured rgb(10, 10, 10) behind rgb(250, 250, 250).
+- Pair a heavy serif display face with a neutral sans for everything else, rather than two sans faces: Site of Sites sets headings in an extra-bold serif at 66px on a 70px line over Helvetica at 16px on a 1.3 line height.
+- Track small labels by about 0.1em so the filter chrome separates from the content: Site of Sites runs its 13px labels at 1.3px tracking in a neutral grey.
+- Serve thumbnails at the size they render, in a modern format, and let them fade in, so a heavy grid still feels light (Site of Sites).
 
 ## Pitfalls
 
@@ -137,6 +144,10 @@ Galleries of real interfaces, sites and components to look at before designing y
 - Check the newest entry before relying on a gallery for current trends; some add work only occasionally (Supahero, loadmo.re).
 - Automated access is often restricted: 60fps forbids bulk downloading and model training, Details forbids scraping and using it to train a competing model, Rebrand Gallery rules out automated collection and AI-made derivative work, and posts.design's robots.txt disallows the API its llms.txt advertises. Check the terms before scripting anything.
 - Free tiers can be tight: Motionimo allows three video detail views a day, Rebrand Gallery asks for an account to keep browsing, and Curated's section library is mostly Pro.
+- A single accent only works while it stays scarce. Reuse Site of Sites' blue for buttons and links as well as headings and the page flattens.
+- Copying a gallery's measured values without its constraints backfires: minus 0.06em suits a system sans at 56px and collides at body size or on a serif face (Refs.Gallery).
+- Cover-cropped tiles flatten sites that only work in their own viewport, and a grid of stills cannot show how a page scrolls or how a loader behaves.
+- A gallery built on a site builder brings its markup with it: reading Site of Sites' structure into a codebase is worse than copying its rules.
 
 ## Related topics
 

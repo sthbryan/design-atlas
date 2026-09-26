@@ -117,6 +117,12 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - Describe styles by feel (vibrant, confident, warm) as well as by style and typeface, since that is how clients talk (Rebrand Gallery).
 - Record each colour's role and rough share of the palette, not just its value, and publish the guideline as structured data next to the page (Vessa).
 - Keep one token set and compile it for each output, such as email renderers or PDF engines, so a theme travels without a redesign (emailcn, pdfcn).
+- Set display type tight and keep the text ranks neutral: Refs.Gallery measured minus 3.36px at 56px, about minus 0.06em, and Rueya minus 2.16px at 41.6px, about minus 0.05em.
+- Pair a tight headline with an airy paragraph so the two ranks read as deliberate: Rueya runs its hero at 41.6px on a 1.02 line height and the body at 18.4px on 1.75.
+- Use a warm off-white ground instead of pure white under large black type: Death of Typography measured rgb(255, 252, 252) behind rgb(40, 40, 40).
+- Set a line box smaller than the type to crop a bleeding band, and scroll it linearly over a long duration rather than easing it: Death of Typography runs its name at 380px on a 56px line height on a 45s linear loop.
+- Keep two steps of one accent, a deeper tone for display and a hotter one for links, so the two never compete: Death of Typography uses rgb(236, 86, 54) on headings and rgb(255, 72, 35) on links.
+- Give a specimen three controls per line, size, line height and letter spacing, so a face can be judged at display and text scale in place (Death of Typography).
 
 ## Pitfalls
 
@@ -129,6 +135,10 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - Uploading a font to a guideline or style tool doesn't license it for the web; that stays your responsibility (Vessa).
 - Letter-by-letter animation breaks kerning, ligatures and joined scripts such as Arabic or Devanagari, so use word mode (slot-text); NumberFlow doesn't support non-Latin digits or right-to-left locales yet.
 - Strict style rules, such as Hallmark's ban on italic headings, can clash with an existing brand guide.
+- Quiet display type needs a busy, dark ground to hold it: 41.6px at weight 300 disappears on a light page (Rueya).
+- Cropped type bands need a clipping container. Lifting Death of Typography's 380px at a 56px line height without the overflow rule overlaps the next section.
+- Sample lines that depend on a webfont fall back to a generic sans when it fails to load, which misrepresents the face (Death of Typography).
+- A tight tracking value belongs to one face at one size; moving minus 0.06em onto small text or a serif makes words collide (Refs.Gallery).
 
 ## Related topics
 
