@@ -1,6 +1,7 @@
 import { existsSync, readFileSync, statSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { buildCorpus, planQuery, prepareSynonyms, rank } from './search.mjs';
 
 const RAW_BASE = 'https://raw.githubusercontent.com/sthbryan/design-atlas/main';
 const FETCH_TIMEOUT_MS = 8000;
@@ -8,6 +9,9 @@ const DEFAULT_LIMIT = 12;
 const MAX_LIMIT = 50;
 const SKILL_DIR = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const BUNDLED_CATALOG = join(SKILL_DIR, 'references', 'catalog.json');
+const SEARCH_INDEX = join('skills', 'design-atlas', 'references', 'search-index.json');
+const BUNDLED_SEARCH = join(SKILL_DIR, 'references', 'search-index.json');
+const SYNONYMS = join(SKILL_DIR, 'references', 'synonyms.json');
 const VERDICT_RANK = { 'very-useful': 3, useful: 2, niche: 1 };
 const STATUS_RANK = { active: 2, stale: 1, broken: 0 };
 const LICENCE_GROUPS = {
@@ -22,7 +26,18 @@ const FULL_FIELDS = ['url', 'licence', 'note', 'related'];
 const HELP = `Usage: node scripts/query.mjs [filters] [options]
 
 Filters the Design Atlas index and prints JSON. Values in one filter are ORed;
-different filters are ANDed. Results sort by status, verdict, then title.
+different filters are ANDed. Results sort by status, verdict, then title, or by
+relevance when --search is given.
+
+Search:
+  --search "words"     rank sites by relevance to a free-text need, e.g.
+                       "animated icons for react". Filters apply first. Uses
+                       references/search-index.json and references/synonyms.json,
+                       folds plurals, expands design synonyms and corrects typos.
+                       Each row gains score and match (term -> fields); the
+                       header's search object lists terms, expanded, corrected.
+                       Licence and price words ("ship", "commercial", "free")
+                       are not ranked; the header's suggest names the filter.
 
 Filters (comma-separated values):
   --topic a,b          sites tagged with any of these hub slugs
@@ -60,7 +75,7 @@ function die(code, message) {
 function parseArgs(argv) {
   const opts = { filters: {}, limit: DEFAULT_LIMIT };
   const flags = new Set(['full', 'topics', 'offline', 'help']);
-  const valued = new Set([...Object.keys(LIST_FILTERS), 'min-verdict', 'text', 'limit', 'atlas', 'location']);
+  const valued = new Set([...Object.keys(LIST_FILTERS), 'min-verdict', 'text', 'search', 'limit', 'atlas', 'location']);
   for (let i = 0; i < argv.length; i += 1) {
     const arg = argv[i];
     if (!arg.startsWith('--')) die(2, `unexpected argument "${arg}"; options start with --. Run --help.`);
@@ -75,6 +90,7 @@ function parseArgs(argv) {
     if (key in LIST_FILTERS) opts.filters[key] = value.split(',').map((v) => v.trim()).filter(Boolean);
     else if (key === 'min-verdict') opts.minVerdict = value;
     else if (key === 'text') opts.text = value.toLowerCase().split(/\s+/).filter(Boolean);
+    else if (key === 'search') opts.search = value;
     else if (key === 'limit') opts.limit = Number(value);
     else if (key === 'atlas') opts.atlas = value;
     else opts.location = value;
@@ -228,12 +244,45 @@ if (opts.topics) {
 }
 
 checkVocabulary(sites, topics, opts.filters);
-const hits = sites
-  .filter((s) => matches(s, opts))
-  .sort((a, b) => (STATUS_RANK[b.status] ?? 0) - (STATUS_RANK[a.status] ?? 0)
-    || (VERDICT_RANK[b.verdict] ?? 0) - (VERDICT_RANK[a.verdict] ?? 0)
-    || a.title.localeCompare(b.title, 'en', { sensitivity: 'base' }));
-const shown = hits.slice(0, opts.limit).map((s) => shape(s, opts.full));
+const byDefault = (a, b) => (STATUS_RANK[b.status] ?? 0) - (STATUS_RANK[a.status] ?? 0)
+  || (VERDICT_RANK[b.verdict] ?? 0) - (VERDICT_RANK[a.verdict] ?? 0)
+  || a.title.localeCompare(b.title, 'en', { sensitivity: 'base' });
+const filtered = sites.filter((s) => matches(s, opts));
+let hits = filtered.sort(byDefault);
+let rows = (list) => list.map((s) => shape(s, opts.full));
+if (opts.search !== undefined) {
+  const localIndex = index.location === 'local' ? join(index.root, SEARCH_INDEX) : null;
+  const indexPath = localIndex && existsSync(localIndex) ? localIndex : BUNDLED_SEARCH;
+  const docs = existsSync(indexPath) ? readJson(indexPath)?.docs : null;
+  const synonyms = prepareSynonyms(existsSync(SYNONYMS) ? readJson(SYNONYMS) : {});
+  const corpus = buildCorpus(sites, docs);
+  const plan = planQuery(opts.search, corpus, synonyms);
+  if (!plan.terms.size && !plan.unmatched.length) {
+    die(2, plan.hints.length
+      ? `--search "${opts.search}" holds only filter words; use ${plan.hints.join(' ')} and search for what you need, such as icons or charts.`
+      : `--search "${opts.search}" has no searchable words; add a noun such as icons, charts or pricing.`);
+  }
+  if (corpus.missing) process.stderr.write(`search index lacks ${corpus.missing} site(s); they are ranked on index metadata only, without page text.\n`);
+  if (plan.corrected.length) process.stderr.write(`corrected: ${plan.corrected.join(', ')}\n`);
+  header.search = {
+    query: opts.search,
+    terms: [...plan.terms.keys()],
+    expanded: plan.expanded,
+    corrected: plan.corrected,
+    unmatched: plan.unmatched,
+  };
+  const hints = plan.hints.filter((h) => !(h.split(' ')[0].slice(2) in opts.filters));
+  if (plan.dropped.length) header.search.filter_words = plan.dropped;
+  if (hints.length) {
+    header.search.suggest = hints;
+    process.stderr.write(`"${plan.dropped.join(' ')}" is a filter, not a ranking term; add ${hints.join(' ')}.\n`);
+  }
+  const scored = rank(filtered, plan, corpus).sort((a, b) => b.score - a.score || byDefault(a.site, b.site));
+  const extra = new Map(scored.map((r) => [r.site.slug, { score: Math.round(r.score * 100) / 100, match: r.match }]));
+  hits = scored.map((r) => r.site);
+  rows = (list) => list.map((s) => ({ ...shape(s, opts.full), ...extra.get(s.slug) }));
+}
+const shown = rows(hits.slice(0, opts.limit));
 emit({ ...header, total: hits.length, shown: shown.length }, 'sites', shown);
 if (hits.length > shown.length) process.stderr.write(`matches not shown: ${hits.length - shown.length}; narrow the filters or raise --limit.\n`);
 process.exit(hits.length ? 0 : 1);
