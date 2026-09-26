@@ -35,6 +35,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Base CN](../sites/base-cn.md) — Community port of the shadcn/ui components to Base UI, installed through a namespaced registry.
 - [Base UI](../sites/base-ui.md) — Unstyled, accessible React primitives from the Radix, Floating UI and MUI teams, now shadcn's default.
 - [Bearnie](../sites/bearnie.md) — MIT shadcn-style registry for Astro: about 60 accessible components copied in by CLI or MCP server, no framework runtime, llms-full.txt.
+- [Beautiful UI](../sites/beautiful-ui.md) — 21 polished MIT shadcn components for agent UIs: thinking states, approvals, tool chips, task rows, diff tables and a prompt bar.
 - [Bencho](../sites/bencho.md) — 38 live, tunable React blocks whose "Copy prompt" hands an agent full source plus token-mapping instructions.
 - [beUI](../sites/beui.md) — MIT motion components, agent UI and charts with llms.txt, JSON API, agent skill and hosted MCP; paid Pro adds blocks and templates.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
@@ -57,6 +58,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Dot Matrix](../sites/dot-matrix.md) — 90 dot-grid loading animations as a shadcn registry, with a props playground; licence is restrictive.
 - [Drawably](../sites/drawably.md) — MIT hand-drawn UI controls that sketch fresh on each mount, keep native inputs and ship an agent.md.
 - [Drei](../sites/drei.md) — 133 MIT helpers for React Three Fiber (staging, loaders, controls, materials), with llms.txt and a docs MCP.
+- [Easy UI](../sites/easy-ui.md) — Free Next.js templates and about 20 shadcn-installable components; MIT but thinly maintained, with template demos offline at review.
 - [editorcn](../sites/editorcn.md) — Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
 - [Eldora UI](../sites/eldora-ui.md) — MIT animated landing-page components, text effects, device mockups and blocks, installed via the @eldoraui shadcn namespace, with llms.txt.
 - [emailcn](../sites/emailcn.md) — Email sections and full templates for React Email, MJML React and JSX Email, with shared themes.
@@ -106,10 +108,12 @@ Component libraries, registries and design systems for building UI — from sing
 - [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
 - [Motion](../sites/motion-dev.md) — Former Framer Motion for React, JS and Vue: MIT core, free docs MCP and skill, paid Motion+ extras.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
+- [Nex UI](../sites/nex-ui.md) — About 100 shadcn-style React and Tailwind components including 23 charts; MIT claimed without a LICENSE file and the CLI registry is empty.
 - [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
 - [Odyssey UI](../sites/odyssey-ui.md) — Animated primitives, AI chat parts and pricing blocks built on Animate UI, via the @odysseyui namespace; no licence file in the repo.
 - [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
 - [Oneko](../sites/oneko.md) — Cursor-chasing pixel cat for React via shadcn, with llms.txt and an agent prompt; sprite art not relicensed.
+- [Opensource UI](../sites/opensource-ui.md) — MIT React and Tailwind catalogue of about 190 copy-paste pieces, including device mockups and widgets, with llms.txt and an agent skill.
 - [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
@@ -125,6 +129,8 @@ Component libraries, registries and design systems for building UI — from sing
 - [React Three Fiber](../sites/react-three-fiber.md) — MIT React renderer that writes three.js scenes as JSX, with performance guides, llms-full.txt and a docs MCP.
 - [Remix Icon](../sites/remix-icon.md) — About 3,230 line-and-fill system icons with an official MCP server, under a custom free licence since January 2026.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
+- [Reverse UI](../sites/reverse-ui.md) — 68 animated React feature illustrations and shader effects for SaaS pages; 19 free, the rest a one-time paid licence. MUI and Emotion.
+- [RewampUI](../sites/rewampui.md) — About 75 animated React navbars, backgrounds, toggles and cursors with a copy CLI and per-component prompts; designs are admitted remixes.
 - [Rolling Number](../sites/rolling-number.md) — Interruptible rolling digits and split-flap text for DOM, React and Solid, with llms.txt and Markdown docs.
 - [Ruru UI (stale)](../sites/ruru-ui.md) — Small Radix and Tailwind v3 library with its own CLI; its author says it is no longer maintained.
 - [Screenshot to Code](../sites/screenshot-to-code.md) — MIT tool turning screenshots, recordings or text into HTML/Tailwind/React/Vue code; hosted or self-hosted.
@@ -166,6 +172,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Vengeance UI](../sites/vengeance-ui.md) — MIT animated hover, text and scroll effects plus landing blocks for Next.js, installed with shadcn from a GitHub-hosted registry.
 - [VibePrompts](../sites/vibeprompts.md) — Library of prompts organised by page section (pricing, hero, forms) to paste into any AI assistant.
 - [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
+- [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

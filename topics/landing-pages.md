@@ -29,6 +29,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Cult UI](../sites/cult-ui.md) — Textured, distinctive marketing components and shader heroes built with Motion; paid blocks and templates.
 - [Curated](../sites/curated-design.md) — About 2,240 live sites by industry and style, plus a 2,267-entry section library (mostly Pro).
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
+- [Easy UI](../sites/easy-ui.md) — Free Next.js templates and about 20 shadcn-installable components; MIT but thinly maintained, with template demos offline at review.
 - [Eldora UI](../sites/eldora-ui.md) — MIT animated landing-page components, text effects, device mockups and blocks, installed via the @eldoraui shadcn namespace, with llms.txt.
 - [Float UI](../sites/float-ui.md) — About 200 free Tailwind sections in HTML, React, Vue and Svelte; custom no-redistribution licence despite the open-source label.
 - [Flowbase](../sites/flowbase.md) — Subscription library of 3,500+ Webflow, Figma and Framer sections, wireframes, icons and illustrations; use tied to the plan.
@@ -78,6 +79,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Vengeance UI](../sites/vengeance-ui.md) — MIT animated hover, text and scroll effects plus landing blocks for Next.js, installed with shadcn from a GitHub-hosted registry.
 - [Venust Backgrounds](../sites/venust-backgrounds.md) — CC0 AI hero backgrounds sorted by page slot, each with its prompt; llms.txt and Markdown for agents.
 - [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
+- [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

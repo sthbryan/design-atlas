@@ -1042,6 +1042,34 @@
       ]
     },
     {
+      "slug": "beautiful-ui",
+      "path": "sites/beautiful-ui.md",
+      "title": "Beautiful UI",
+      "description": "21 polished MIT shadcn components for agent UIs: thinking states, approvals, tool chips, task rows, diff tables and a prompt bar.",
+      "url": "https://www.beautifului.dev",
+      "type": "component-registry",
+      "formats": "shadcn registry of components for agent and chat interfaces",
+      "topics": [
+        "components",
+        "ai-interfaces"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Free. MIT, copyright Shane Levine, shown on the site's `/license` page; no public source repository was linked at review",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "prompt-kit",
+        "kokonut-ui",
+        "glimm",
+        "shadcn-ui"
+      ]
+    },
+    {
       "slug": "before-click",
       "path": "sites/before-click.md",
       "title": "before.click",
@@ -2844,6 +2872,34 @@
         "kinetics",
         "transitions-dev",
         "animejs"
+      ]
+    },
+    {
+      "slug": "easy-ui",
+      "path": "sites/easy-ui.md",
+      "title": "Easy UI",
+      "description": "Free Next.js templates and about 20 shadcn-installable components; MIT but thinly maintained, with template demos offline at review.",
+      "url": "https://www.easyui.pro",
+      "type": "template-library",
+      "formats": "free template gallery plus a small shadcn registry of components",
+      "topics": [
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Free core under MIT (repo `DarkInventor/easy-ui`, about 610 GitHub stars at review); a separate paid \"Premium\" tier was advertised but its site was offline at review",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "magic-ui",
+        "shadcnblocks",
+        "kokonut-ui"
       ]
     },
     {
@@ -6119,6 +6175,32 @@
       ]
     },
     {
+      "slug": "nex-ui",
+      "path": "sites/nex-ui.md",
+      "title": "Nex UI",
+      "description": "About 100 shadcn-style React and Tailwind components including 23 charts; MIT claimed without a LICENSE file and the CLI registry is empty.",
+      "url": "https://www.nexui.dev",
+      "type": "component-library",
+      "formats": "shadcn-style component library with its own CLI",
+      "topics": [
+        "components",
+        "data-viz"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. The site and the npm package `@jessin/nexui` say MIT, but the repository (`jessinsam/nexui`, 6 GitHub stars at review) has no LICENSE file and the site's LICENSE link returned 404",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "tremor",
+        "evil-charts",
+        "shadcn-studio"
+      ]
+    },
+    {
       "slug": "no-ai-slop",
       "path": "sites/no-ai-slop.md",
       "title": "No AI Slop",
@@ -6348,6 +6430,35 @@
         "scrolltide",
         "animejs",
         "dialkit"
+      ]
+    },
+    {
+      "slug": "opensource-ui",
+      "path": "sites/opensource-ui.md",
+      "title": "Opensource UI",
+      "description": "MIT React and Tailwind catalogue of about 190 copy-paste pieces, including device mockups and widgets, with llms.txt and an agent skill.",
+      "url": "https://opensourceui.in",
+      "type": "component-library",
+      "formats": "copy-paste component library with device mockups and an agent skill",
+      "topics": [
+        "components",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "Free. MIT (repo `bidyut10/opensourceui`, about 680 GitHub stars at review); the site sells sponsor placements only",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "kokonut-ui",
+        "uiverse",
+        "cult-ui"
       ]
     },
     {
@@ -7073,6 +7184,63 @@
         "motion-primitives",
         "animejs",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "reverse-ui",
+      "path": "sites/reverse-ui.md",
+      "title": "Reverse UI",
+      "description": "68 animated React feature illustrations and shader effects for SaaS pages; 19 free, the rest a one-time paid licence. MUI and Emotion.",
+      "url": "https://reverseui.com",
+      "type": "component-library",
+      "formats": "freemium animated component library (copy-paste)",
+      "topics": [
+        "components",
+        "motion",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "19 components free with commercial use; the full set is a one-time purchase, $39 for one developer or $175 for up to 20 (discounted from listed $100 and $350 at review). The licence covers personal and commercial projects per the FAQ; no separate licence text is published",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "magic-ui",
+        "aceternity-ui",
+        "skiper-ui",
+        "motion-primitives"
+      ]
+    },
+    {
+      "slug": "rewampui",
+      "path": "sites/rewampui.md",
+      "title": "RewampUI",
+      "description": "About 75 animated React navbars, backgrounds, toggles and cursors with a copy CLI and per-component prompts; designs are admitted remixes.",
+      "url": "https://www.rewampui.com",
+      "type": "component-library",
+      "formats": "copy-paste animated component library with its own CLI",
+      "topics": [
+        "components",
+        "motion",
+        "navigation"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "cli",
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "Free. The `rewampui` CLI package is MIT; the repository (`palakonweb/Rewamp-UI`, about 170 GitHub stars at review) has no LICENSE file, so the component code itself has no stated licence",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "reactbits",
+        "aceternity-ui",
+        "magic-ui",
+        "skiper-ui"
       ]
     },
     {
@@ -9564,6 +9732,38 @@
         "layers",
         "minimal-gallery",
         "dark-mode-design"
+      ]
+    },
+    {
+      "slug": "watermelon-ui",
+      "path": "sites/watermelon-ui.md",
+      "title": "Watermelon UI",
+      "description": "MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.",
+      "url": "https://ui.watermelon.sh",
+      "type": "component-registry",
+      "formats": "shadcn-compatible component registry with a public API and MCP server",
+      "topics": [
+        "components",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "registry",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "Free. MIT for both the platform repo (`WatermelonCorp/watermelon-platform`, about 580 GitHub stars at review) and the registry repo (`WatermelonCorp/watermellon-registry`)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "shadcnblocks",
+        "21st-dev",
+        "magic-ui"
       ]
     },
     {

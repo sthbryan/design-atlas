@@ -40,6 +40,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [Poly Haven](../sites/poly-haven.md) — About 2,400 CC0 HDRIs, PBR textures and models made by people, with a keyless API that asks for credit.
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
 - [React Three Fiber](../sites/react-three-fiber.md) — MIT React renderer that writes three.js scenes as JSX, with performance guides, llms-full.txt and a docs MCP.
+- [Reverse UI](../sites/reverse-ui.md) — 68 animated React feature illustrations and shader effects for SaaS pages; 19 free, the rest a one-time paid licence. MUI and Emotion.
 - [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
 - [Shaderfrog](../sites/shaderfrog.md) — Graph editor that splices GLSL shaders into Three.js, Babylon and PlayCanvas materials, with a community gallery.
 - [Spline](../sites/spline.md) — Browser and desktop 3D tool with an event system, code and glTF export, and an MCP server in the desktop app.

@@ -102,6 +102,8 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
+- [Reverse UI](../sites/reverse-ui.md) — 68 animated React feature illustrations and shader effects for SaaS pages; 19 free, the rest a one-time paid licence. MUI and Emotion.
+- [RewampUI](../sites/rewampui.md) — About 75 animated React navbars, backgrounds, toggles and cursors with a copy CLI and per-component prompts; designs are admitted remixes.
 - [Rive](../sites/rive.md) — State-machine vector editor with MIT runtimes, an agent-friendly CLI and a local MCP; exporting needs a paid seat.
 - [Rolling Number](../sites/rolling-number.md) — Interruptible rolling digits and split-flap text for DOM, React and Solid, with llms.txt and Markdown docs.
 - [Ruru UI (stale)](../sites/ruru-ui.md) — Small Radix and Tailwind v3 library with its own CLI; its author says it is no longer maintained.
@@ -129,6 +131,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Velora UI](../sites/velora-ui.md) — New MIT set of 100 animated shadcn components, 31 blocks and a free landing template, each with size and dependency counts.
 - [Vengeance UI](../sites/vengeance-ui.md) — MIT animated hover, text and scroll effects plus landing blocks for Next.js, installed with shadcn from a GitHub-hosted registry.
 - [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
+- [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 <!-- atlas:sources:end -->
 

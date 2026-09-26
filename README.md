@@ -157,8 +157,10 @@ The repository is private for now. Until it is public, both install commands nee
 | [Meraki UI](sites/meraki-ui.md) | component-library | components, landing-pages | useful | none | open-source-permissive |
 | [MicroKit](sites/microkit.md) | component-library | components, motion | useful | none | open-source-permissive |
 | [Motion Primitives](sites/motion-primitives.md) | component-library | motion, components, typography-and-styles | useful | cli | mixed |
+| [Nex UI](sites/nex-ui.md) | component-library | components, data-viz | niche | none | not-stated |
 | [ogimagecn](sites/ogimagecn.md) | component-library | components, assets | useful | llms-txt, registry, api, skill | open-source-permissive |
 | [Oneko](sites/oneko.md) | component-library | motion, components | niche | llms-txt, registry, prompts | mixed |
+| [Opensource UI](sites/opensource-ui.md) | component-library | components, assets | useful | llms-txt, skill | open-source-permissive |
 | [pdfcn](sites/pdfcn.md) | component-library | components, typography-and-styles | useful | llms-txt, registry, api, prompts, skill | open-source-permissive |
 | [Preline UI](sites/preline.md) | component-library | components, landing-pages, agents-and-prompts | very-useful | mcp, prompts, skill | mixed |
 | [Prompt Kit](sites/prompt-kit.md) | component-library | components, ai-interfaces, agents-and-prompts | very-useful | llms-txt, registry | open-source-permissive |
@@ -166,6 +168,8 @@ The repository is private for now. Until it is public, both install commands nee
 | [Rare UI](sites/rareui.md) | component-library | components, motion, navigation | useful | llms-txt, registry | source-available |
 | [React Bits](sites/reactbits.md) | component-library | components, motion, agents-and-prompts, 3d-and-shaders | very-useful | llms-txt | mixed |
 | [Remocn](sites/remocn.md) | component-library | motion, components, agents-and-prompts | very-useful | llms-txt, registry, skill | mixed |
+| [Reverse UI](sites/reverse-ui.md) | component-library | components, motion, 3d-and-shaders | useful | none | proprietary-paid |
+| [RewampUI](sites/rewampui.md) | component-library | components, motion, navigation | niche | cli, prompts | not-stated |
 | [Ruru UI (stale)](sites/ruru-ui.md) | component-library | components, motion | niche | cli | open-source-permissive |
 | [sensory-ui](sites/sensory-ui.md) | component-library | sound, components | useful | registry | open-source-permissive |
 | [shadcn/ui](sites/shadcn-ui.md) | component-library | components, documentation, agents-and-prompts | very-useful | mcp, llms-txt, cli, registry, skill | open-source-permissive |
@@ -185,6 +189,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Animate UI](sites/animate-ui.md) | component-registry | components, motion, icons | useful | llms-txt, registry | source-available |
 | [Base CN](sites/base-cn.md) | component-registry | components, agents-and-prompts | niche | llms-txt, registry | open-source-permissive |
 | [Bearnie](sites/bearnie.md) | component-registry | components, agents-and-prompts | useful | mcp, llms-txt, cli | open-source-permissive |
+| [Beautiful UI](sites/beautiful-ui.md) | component-registry | components, ai-interfaces | very-useful | registry | open-source-permissive |
 | [beUI](sites/beui.md) | component-registry | components, motion, ai-interfaces, data-viz | very-useful | mcp, llms-txt, registry, api, skill | mixed |
 | [blocks.so](sites/blocks-so.md) | component-registry | components, ux-patterns, agents-and-prompts | useful | registry | open-source-permissive |
 | [Componentry](sites/componentry.md) | component-registry | motion, components, 3d-and-shaders | useful | llms-txt, registry | open-source-permissive |
@@ -208,6 +213,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Sona UI](sites/sona-ui.md) | component-registry | components, motion, ux-patterns | useful | llms-txt, registry, api, skill | open-source-permissive |
 | [Spell UI](sites/spell-ui.md) | component-registry | components, motion, typography-and-styles | useful | llms-txt, registry | open-source-permissive |
 | [Tailark](sites/tailark.md) | component-registry | components, landing-pages | very-useful | registry, prompts | mixed |
+| [Watermelon UI](sites/watermelon-ui.md) | component-registry | components, motion, landing-pages | very-useful | mcp, llms-txt, registry, api | open-source-permissive |
 | [Astryx](sites/astryx.md) | design-system | components, documentation | very-useful | cli | open-source-permissive |
 | [Carbon Design System](sites/carbon-design-system.md) | design-system | components, icons, documentation, agents-and-prompts | very-useful | mcp, llms-txt, skill | open-source-permissive |
 | [Kobra](sites/kobra.md) | design-system | components, agents-and-prompts, ai-interfaces | useful | llms-txt, api | proprietary-paid |
@@ -359,6 +365,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [getdesign.md](sites/getdesign-md.md) | style-library | design-md, agents-and-prompts, typography-and-styles | very-useful | cli | mixed |
 | [Refero Styles](sites/refero-styles.md) | style-library | design-md, documentation, agents-and-prompts, typography-and-styles | very-useful | mcp | not-stated |
 | [TypeUI](sites/typeui.md) | style-library | design-md, agents-and-prompts, typography-and-styles | useful | mcp, cli, skill | mixed |
+| [Easy UI](sites/easy-ui.md) | template-library | components, landing-pages | niche | registry | open-source-permissive |
 | [GetLayers](sites/getlayers.md) | template-library | 3d-and-shaders, landing-pages, motion, agents-and-prompts | useful | mcp, llms-txt, prompts, skill | proprietary-paid |
 | [Scrolltide](sites/scrolltide.md) | template-library | motion, agents-and-prompts, inspiration, landing-pages | useful | prompts | proprietary-paid |
 | [startercn](sites/startercn.md) | template-library | components, documentation, agents-and-prompts | useful | llms-txt, api, skill | open-source-permissive |
