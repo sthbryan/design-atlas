@@ -176,7 +176,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [shadcn/ui](sites/shadcn-ui.md) | component-library | components, documentation, agents-and-prompts | very-useful | mcp, llms-txt, cli, registry, skill | open-source-permissive |
 | [Spectrum UI](sites/spectrum-ui.md) | component-library | components, landing-pages, ai-interfaces | useful | mcp, registry | open-source-permissive |
 | [SRCL](sites/srcl.md) | component-library | components, typography-and-styles, agents-and-prompts | very-useful | llms-txt, skill | open-source-permissive |
-| [Syntax UI](sites/syntax-ui.md) | component-library | components, motion, landing-pages | niche | none | mixed |
+| [Syntax UI (stale)](sites/syntax-ui.md) | component-library | components, motion, landing-pages | niche | none | mixed |
 | [TailGrids](sites/tailgrids.md) | component-library | components, landing-pages, design-md | useful | mcp, llms-txt, cli, registry | mixed |
 | [termcn](sites/termcn.md) | component-library | components, agents-and-prompts, ai-interfaces | very-useful | llms-txt, registry, api, skill | open-source-permissive |
 | [Transitions.dev](sites/transitions-dev.md) | component-library | motion, components, agents-and-prompts, ai-interfaces | very-useful | skill | mixed |
