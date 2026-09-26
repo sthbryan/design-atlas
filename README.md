@@ -10,6 +10,36 @@ A curated set of references for building websites and UI — galleries, componen
 - Point a coding agent at one site page, or at a whole topic hub, when you want it to work from curated references instead of guessing.
 - Check "Agent access" in the sites table below before assuming a site exposes an MCP server, `llms.txt`, CLI, registry, API, copyable prompts or an agent skill; "none" means an agent has nothing to call.
 - Agents can start from [llms.txt](llms.txt) or [sites.json](sites.json), which carry every page's metadata; [AGENTS.md](AGENTS.md) explains how to read and edit the atlas.
+- Install the two agent skills (below) to let an agent pick references and build UI from the atlas for you.
+
+## Skills
+
+Two agent skills ship with the atlas in [`skills/`](skills). They use the open Agent Skills format, so they work in Claude Code and in other agents that read `SKILL.md`.
+
+| Skill | What it does |
+|---|---|
+| [design-atlas](skills/design-atlas/SKILL.md) | Finds and shortlists reviewed references, filtered by topic, licence class, agent channel and verdict, and writes a cited brief with licence caveats. It reads a local clone first and falls back to a bundled catalog offline. |
+| [design-atlas-ui](skills/design-atlas-ui/SKILL.md) | Sets a visual direction, records it in the project's DESIGN.md, then builds or reviews the UI with exact defaults for type, colour, layout, motion and accessibility, and checks it with rendered evidence. It makes no network calls of its own. |
+
+How they relate: `design-atlas` owns references, briefs and the licence rules. `design-atlas-ui` owns the DESIGN.md workflow, the visual rules and verification, and asks `design-atlas` for references. Install both; each still works alone.
+
+Install both skills for any agent the [skills CLI](https://github.com/vercel-labs/skills) supports, or one of them with `--skill`:
+
+```sh
+npx skills add sthbryan/design-atlas
+npx skills add sthbryan/design-atlas --skill design-atlas
+```
+
+In Claude Code, install them as a plugin. The skills then run as `/design-atlas:design-atlas` and `/design-atlas:design-atlas-ui`:
+
+```text
+/plugin marketplace add sthbryan/design-atlas
+/plugin install design-atlas@design-atlas
+```
+
+A plugin install carries the whole atlas, so `design-atlas` reads the site pages directly. The skills CLI copies only the skill folder, so `design-atlas` then uses raw GitHub or its bundled catalog, which `npm run build` regenerates from the same data as `sites.json`.
+
+The repository is private for now. Until it is public, both install commands need GitHub access to it, and the raw GitHub fallback returns 404, so offline installs use the bundled catalog.
 
 ## Topics
 
@@ -312,5 +342,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add, update or remove a site, 
 ## Licence
 
 - Content (the site pages, topic hubs, this README and the other Markdown files) is licensed under [CC BY 4.0](LICENSE). Credit "Design Atlas contributors" and link back to this repository when you reuse it.
-- Code (`scripts/` and any future `skills/`) is licensed under the [MIT licence](LICENSE-CODE).
+- Code (`scripts/`) and the agent skills in `skills/` are licensed under the [MIT licence](LICENSE-CODE). Each skill folder carries its own `LICENSE` file, because installers copy only that folder. The generated `catalog.json` and `hub-map.md` inside `skills/design-atlas/references/` are atlas content under CC BY 4.0.
 - Site names, logos and trademarks belong to their owners. Short quotes stay with their original authors, and the licence of every reviewed site still applies to that site's own code, assets and text.
