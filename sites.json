@@ -2783,6 +2783,59 @@
       ]
     },
     {
+      "slug": "float-ui",
+      "path": "sites/float-ui.md",
+      "title": "Float UI",
+      "description": "About 200 free Tailwind sections in HTML, React, Vue and Svelte; custom no-redistribution licence despite the open-source label.",
+      "url": "https://floatui.com",
+      "type": "component-library",
+      "formats": "component library (copy-paste) · website templates",
+      "topics": [
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "free, funded by sponsors (sponsor slots from $29 a month). The site calls itself free and open source, but the repo `MarsX-dev/floatui` (about 3.6k stars) has no OSI licence. Its LICENSE.md is a custom end-product licence: commercial and client work is allowed, but you may not redistribute the components, build a website builder with them, or sell themes, templates or starter kits made from them",
+      "licence_class": "source-available",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "tailgrids",
+        "headless-ui",
+        "uiverse",
+        "blocks-so"
+      ]
+    },
+    {
+      "slug": "flowbase",
+      "path": "sites/flowbase.md",
+      "title": "Flowbase",
+      "description": "Subscription library of 3,500+ Webflow, Figma and Framer sections, wireframes, icons and illustrations; use tied to the plan.",
+      "url": "https://www.flowbase.co",
+      "type": "component-library",
+      "formats": "component library (Webflow, Figma, Framer) · wireframes · icons and illustrations · Webflow scripts",
+      "topics": [
+        "components",
+        "landing-pages",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "freemium subscription. A free account unlocks 100+ components. Pro+ cost $39 a month, or $27 a month billed yearly, at review. Premium templates are sold separately. The licence (revised January 2026) allows unlimited personal and client projects on a single-user account. It forbids reselling or redistributing items, modified or not, and building themes or templates from them to sell. It also forbids storing copied components to use after the subscription ends",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "frameblox",
+        "craftwork",
+        "float-ui",
+        "landing-love"
+      ]
+    },
+    {
       "slug": "fluid-functionalism",
       "path": "sites/fluid-functionalism.md",
       "title": "Fluid Functionalism",
@@ -2894,6 +2947,32 @@
         "navbar-gallery",
         "cta-gallery",
         "404s"
+      ]
+    },
+    {
+      "slug": "frameblox",
+      "path": "sites/frameblox.md",
+      "title": "Frameblox",
+      "description": "Paid Framer UI kit with 1,400+ sections, 130+ pages and a Framer plugin; one-time licence, no refunds, Framer only.",
+      "url": "https://www.frameblox.com",
+      "type": "component-library",
+      "formats": "Framer UI kit · design system · component library · Framer plugin",
+      "topics": [
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "paid, one-time. Pro (one user) cost $49 and Premium (up to 10 users) $99 at review, both shown as a 50% summer discount on $99 and $199. The licence agreement (last updated October 2024) allows commercial, client and personal use. Only Premium may be used to make Framer templates for sale. Neither plan lets you redistribute or resell the kit, or build derived UI kits or component libraries from it. No refunds",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "icoon",
+        "craftwork",
+        "flowbase",
+        "shadcnblocks"
       ]
     },
     {
@@ -6759,6 +6838,37 @@
       ]
     },
     {
+      "slug": "spectrum-ui",
+      "path": "sites/spectrum-ui.md",
+      "title": "Spectrum UI",
+      "description": "Free Apache-2.0 animated shadcn components and blocks, strong on AI-assistant, chart and empty-state blocks, with an MCP server.",
+      "url": "https://ui.spectrumhq.in",
+      "type": "component-library",
+      "formats": "component library · shadcn registry · MCP server · blocks",
+      "topics": [
+        "components",
+        "landing-pages",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free, supported by sponsors and the Vercel OSS programme. The code is Apache-2.0 in `arihantcodes/spectrum-ui` (about 1.4k stars at review), and the MCP package is MIT. The site's own facts page says there is no paid tier",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "prompt-kit",
+        "aceternity-ui",
+        "magic-ui",
+        "tremor",
+        "shadcn-ui"
+      ]
+    },
+    {
       "slug": "spell-ui",
       "path": "sites/spell-ui.md",
       "title": "Spell UI",
@@ -7089,6 +7199,69 @@
         "playgrnd",
         "paper-shaders",
         "shadercn"
+      ]
+    },
+    {
+      "slug": "tailark",
+      "path": "sites/tailark.md",
+      "title": "Tailark",
+      "description": "shadcn registry of marketing blocks, full pages and illustrations; free MIT kits plus a paid Quartz kit, in Base UI and Radix builds.",
+      "url": "https://tailark.com",
+      "type": "component-registry",
+      "formats": "component registry (shadcn/ui) · marketing blocks · full pages · illustrations",
+      "topics": [
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "registry",
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "freemium. The free kits (Dusk, Mist and Veil) are MIT in the `tailark/blocks` repo (about 2.3k stars at review). The paid Quartz kit is a one-time purchase: $249 (Essentials), $299 (Complete) and $499 (Team, 10 members) at review. The pricing FAQ allows paid blocks in unlimited client projects, but Quartz may not be forked, redistributed or repackaged as another kit",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcnblocks",
+        "shadcn-ui",
+        "blocks-so",
+        "shadcn-studio",
+        "spectrum-ui"
+      ]
+    },
+    {
+      "slug": "tailgrids",
+      "path": "sites/tailgrids.md",
+      "title": "TailGrids",
+      "description": "React and Tailwind library with blocks, Figma system, CLI, MCP server, llms.txt and a design.md; MIT core, paid Pro blocks.",
+      "url": "https://tailgrids.com",
+      "type": "component-library",
+      "formats": "component library (React + Tailwind) · UI blocks · templates · Figma design system · CLI · MCP server",
+      "topics": [
+        "components",
+        "landing-pages",
+        "design-md"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli",
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "freemium. The core components and about 70 free blocks are MIT in `tailgrids/tailgrids` (about 1.6k stars at review). Pro is a one-time payment. The default view showed $199 for one user and $349 for a five-person team at review, each as a discount on a higher listed price, with a separate Figma-only plan. The Pro licence (October 2025) allows unlimited commercial and client projects and removing credits. It forbids reselling or sublicensing, and using the components in website builders or UI generators",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "float-ui",
+        "shadcn-ui",
+        "shadcnblocks",
+        "kibo-ui",
+        "tailark"
       ]
     },
     {
@@ -7465,6 +7638,39 @@
         "rebrand-gallery",
         "what-ships",
         "craftwork"
+      ]
+    },
+    {
+      "slug": "ui-layouts",
+      "path": "sites/ui-layouts.md",
+      "title": "UI Layouts",
+      "description": "300+ MIT animated React components and sections with a shadcn registry, an MCP server and a paid Pro block site.",
+      "url": "https://www.ui-layouts.com",
+      "type": "component-library",
+      "formats": "component library · shadcn registry · MCP server · paid blocks and templates (Pro)",
+      "topics": [
+        "components",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "registry",
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "freemium. The main library is MIT in `ui-layouts/uilayouts` (about 3.6k stars at review). UI Layouts Pro is a separate site sold as a one-time purchase: $139 (Pro Creator), $198 (Forever Builder) and $449 (Team Forge) at review, each shown as a discount from a higher price. The pricing cards promise a commercial licence for unlimited projects, but Pro has no licence or terms page (404)",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "aceternity-ui",
+        "magic-ui",
+        "skiper-ui",
+        "motion-primitives",
+        "velora-ui"
       ]
     },
     {
@@ -7875,6 +8081,37 @@
         "screenshot-to-code",
         "kombai",
         "figma"
+      ]
+    },
+    {
+      "slug": "velora-ui",
+      "path": "sites/velora-ui.md",
+      "title": "Velora UI",
+      "description": "New MIT set of 100 animated shadcn components, 31 blocks and a free landing template, each with size and dependency counts.",
+      "url": "https://velora.colorlib.com",
+      "type": "component-library",
+      "formats": "component library · shadcn registry · landing template",
+      "topics": [
+        "components",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free. Every component, block and the multi-page landing template are MIT in `ColorlibHQ/velora-ui` (32 stars at review). A $99 lifetime Pro tier with niche templates, extra section variants and a Figma file was marked \"coming soon\" and ran as a waitlist",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "aceternity-ui",
+        "magic-ui",
+        "ui-layouts",
+        "spectrum-ui",
+        "shadcn-ui"
       ]
     },
     {

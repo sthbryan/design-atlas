@@ -139,7 +139,10 @@ The repository is private for now. Until it is public, both install commands nee
 | [Evil Buttons](sites/evil-buttons.md) | component-library | components, cta, motion | niche | llms-txt, registry | open-source-permissive |
 | [Evil Charts](sites/evil-charts.md) | component-library | data-viz, components, motion, agents-and-prompts | very-useful | mcp, llms-txt, registry, skill | open-source-permissive |
 | [Fancy Components](sites/fancy-components.md) | component-library | components, motion, typography-and-styles | very-useful | llms-txt, registry | open-source-permissive |
+| [Float UI](sites/float-ui.md) | component-library | components, landing-pages | niche | none | source-available |
+| [Flowbase](sites/flowbase.md) | component-library | components, landing-pages, assets | niche | none | proprietary-paid |
 | [Fluid Functionalism](sites/fluid-functionalism.md) | component-library | components, motion, ai-interfaces | very-useful | registry, prompts | open-source-permissive |
+| [Frameblox](sites/frameblox.md) | component-library | components, landing-pages | niche | none | proprietary-paid |
 | [framecn](sites/framecn.md) | component-library | motion, components, 3d-and-shaders | niche | llms-txt, registry, api, skill | mixed |
 | [Headless UI](sites/headless-ui.md) | component-library | components, ux-patterns | useful | none | open-source-permissive |
 | [interior.dev](sites/interior-dev.md) | component-library | motion, components, ux-patterns, agents-and-prompts | very-useful | llms-txt, registry | open-source-permissive |
@@ -159,11 +162,15 @@ The repository is private for now. Until it is public, both install commands nee
 | [Ruru UI (stale)](sites/ruru-ui.md) | component-library | components, motion | niche | cli | open-source-permissive |
 | [sensory-ui](sites/sensory-ui.md) | component-library | sound, components | useful | registry | open-source-permissive |
 | [shadcn/ui](sites/shadcn-ui.md) | component-library | components, documentation, agents-and-prompts | very-useful | mcp, llms-txt, cli, registry, skill | open-source-permissive |
+| [Spectrum UI](sites/spectrum-ui.md) | component-library | components, landing-pages, ai-interfaces | useful | mcp, registry | open-source-permissive |
 | [SRCL](sites/srcl.md) | component-library | components, typography-and-styles, agents-and-prompts | very-useful | llms-txt, skill | open-source-permissive |
+| [TailGrids](sites/tailgrids.md) | component-library | components, landing-pages, design-md | useful | mcp, llms-txt, cli, registry | mixed |
 | [termcn](sites/termcn.md) | component-library | components, agents-and-prompts, ai-interfaces | very-useful | llms-txt, registry, api, skill | open-source-permissive |
 | [Transitions.dev](sites/transitions-dev.md) | component-library | motion, components, agents-and-prompts, ai-interfaces | very-useful | skill | mixed |
 | [Tremor](sites/tremor.md) | component-library | data-viz, components, landing-pages | very-useful | none | open-source-permissive |
+| [UI Layouts](sites/ui-layouts.md) | component-library | components, landing-pages, motion | useful | mcp, llms-txt, registry, prompts | mixed |
 | [UIAble](sites/uiable.md) | component-library | components, documentation, agents-and-prompts | very-useful | none | mixed |
+| [Velora UI](sites/velora-ui.md) | component-library | components, landing-pages, motion | useful | llms-txt, registry | open-source-permissive |
 | [21st.dev](sites/21st-dev.md) | component-registry | components, agents-and-prompts, inspiration | very-useful | mcp, cli, api | not-stated |
 | [agentcn](sites/agentcn.md) | component-registry | agents-and-prompts, ai-interfaces, design-md | niche | llms-txt, registry, api, skill | open-source-permissive |
 | [Animate UI](sites/animate-ui.md) | component-registry | components, motion, icons | useful | llms-txt, registry | source-available |
@@ -185,6 +192,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Skiper UI](sites/skiper-ui.md) | component-registry | components, motion | niche | registry | proprietary-paid |
 | [Smooth UI](sites/smooth-ui.md) | component-registry | components, motion, ai-interfaces, agents-and-prompts | very-useful | llms-txt, cli, registry, api | open-source-permissive |
 | [Spell UI](sites/spell-ui.md) | component-registry | components, motion, typography-and-styles | useful | llms-txt, registry | open-source-permissive |
+| [Tailark](sites/tailark.md) | component-registry | components, landing-pages | very-useful | registry, prompts | mixed |
 | [Astryx](sites/astryx.md) | design-system | components, documentation | very-useful | cli | open-source-permissive |
 | [Carbon Design System](sites/carbon-design-system.md) | design-system | components, icons, documentation, agents-and-prompts | very-useful | mcp, llms-txt, skill | open-source-permissive |
 | [Kobra](sites/kobra.md) | design-system | components, agents-and-prompts, ai-interfaces | useful | llms-txt, api | proprietary-paid |
