@@ -11,7 +11,7 @@ pricing: free
 licence: Free / MIT (source on GitHub)
 licence_class: open-source-permissive
 reviewed: 2026-09-25
-status: active
+status: stale
 related: [ramps, oklch, color-review, dialkit]
 ---
 [← Atlas](../README.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)

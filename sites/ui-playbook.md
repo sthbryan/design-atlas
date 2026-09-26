@@ -11,7 +11,7 @@ pricing: free
 licence: Free, no account. The GitHub repo (`raunofreiberg/ui-playbook`) is MIT (© 2020 Rauno Freiberg). The author accepts donations through Buy Me a Coffee.
 licence_class: open-source-permissive
 reviewed: 2026-09-25
-status: active
+status: stale
 related: [component-gallery, inclusive-components, design-system-checklist, shadcn-ui]
 ---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md), [documentation](../topics/documentation.md)

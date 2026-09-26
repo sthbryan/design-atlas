@@ -13,7 +13,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 
 - [Laws of UX](../sites/laws-of-ux.md) — 30 named psychology principles with takeaways and origins, served as `llms.txt` and markdown for agents.
 - [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's in-depth posts on building common components accessibly, each ending in a checklist.
-- [UI Playbook](../sites/ui-playbook.md) — nine component "plays" listing the states, traps and ARIA rules each one needs.
+- [UI Playbook (stale)](../sites/ui-playbook.md) — nine component "plays" listing the states, traps and ARIA rules each one needs.
 - [Detail (detail.design)](../sites/detail-design.md) — about 130 curated interface details across interaction, copy, accessibility and motion, with an agent skill for polish passes.
 - [User Interface Wiki](../sites/user-interface-wiki.md) — demo-rich articles on motion, sound and type, packaged as a 152-rule agent skill with citable rule IDs.
 
@@ -49,7 +49,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
 - [Superfuture Design Review](../sites/superfuture-design-review.md) — Ten-area design critique ranked by severity with exact fixes; it sends a hidden usage ping.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
-- [UI Playbook](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
+- [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
 - [UI Skills](../sites/ui-skills.md) — 306 design-engineering skills from 84 authors, with a routing skill, CLI, MCP and 18 real company DESIGN.md files.
 - [UI Taste by Uizze](../sites/ui-taste.md) — Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.
 - [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.

@@ -124,7 +124,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Rare UI](sites/rareui.md) | component-library | components, motion, navigation | useful | llms-txt, registry | source-available |
 | [React Bits](sites/reactbits.md) | component-library | components, motion, agents-and-prompts, 3d-and-shaders | very-useful | llms-txt | mixed |
 | [Remocn](sites/remocn.md) | component-library | motion, components, agents-and-prompts | very-useful | llms-txt, registry, skill | mixed |
-| [Ruru UI](sites/ruru-ui.md) | component-library | components, motion | niche | cli | open-source-permissive |
+| [Ruru UI (stale)](sites/ruru-ui.md) | component-library | components, motion | niche | cli | open-source-permissive |
 | [sensory-ui](sites/sensory-ui.md) | component-library | sound, components | useful | registry | open-source-permissive |
 | [shadcn/ui](sites/shadcn-ui.md) | component-library | components, documentation, agents-and-prompts | very-useful | mcp, llms-txt, cli, registry | not-stated |
 | [SRCL](sites/srcl.md) | component-library | components, typography-and-styles, agents-and-prompts | very-useful | llms-txt, skill | open-source-permissive |
@@ -215,7 +215,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Design System Checklist](sites/design-system-checklist.md) | guidelines | components, documentation, ux-patterns | useful | none | not-stated |
 | [Inclusive Components](sites/inclusive-components.md) | guidelines | components, ux-patterns, documentation | very-useful | none | not-stated |
 | [Laws of UX](sites/laws-of-ux.md) | guidelines | ux-patterns, documentation, agents-and-prompts | very-useful | llms-txt | cc-noncommercial |
-| [UI Playbook](sites/ui-playbook.md) | guidelines | components, ux-patterns, documentation | useful | none | open-source-permissive |
+| [UI Playbook (stale)](sites/ui-playbook.md) | guidelines | components, ux-patterns, documentation | useful | none | open-source-permissive |
 | [User Interface Wiki](sites/user-interface-wiki.md) | guidelines | motion, ux-patterns, sound, agents-and-prompts | very-useful | skill | open-source-permissive |
 | [3dicons](sites/3dicons.md) | icon-library | icons, assets, components | useful | none | public-domain |
 | [Animated Icons](sites/animated-icons.md) | icon-library | icons, assets, motion | useful | none | proprietary-paid |
@@ -251,7 +251,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Rolling Number](sites/rolling-number.md) | js-library | motion, components, typography-and-styles | useful | llms-txt | open-source-permissive |
 | [Scritto](sites/scritto.md) | js-library | motion, typography-and-styles | useful | none | open-source-permissive |
 | [slot-text](sites/textmotion.md) | js-library | motion, typography-and-styles, components | niche | llms-txt | open-source-permissive |
-| [Theatre.js](sites/theatrejs.md) | js-library | motion, 3d-and-shaders | niche | none | mixed |
+| [Theatre.js (stale)](sites/theatrejs.md) | js-library | motion, 3d-and-shaders | niche | none | mixed |
 | [Three.js](sites/threejs.md) | js-library | 3d-and-shaders, motion | very-useful | llms-txt | open-source-permissive |
 | [Torph](sites/torph.md) | js-library | motion, typography-and-styles, components | useful | none | open-source-permissive |
 | [Good UI](sites/good-ui.md) | pattern-library | cta, ux-patterns, landing-pages | useful | none | proprietary-paid |
@@ -284,7 +284,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Easing Wizard](sites/easing-wizard.md) | tool | motion, agents-and-prompts | very-useful | mcp, api, skill | source-available |
 | [Fffuel](sites/fffuel.md) | tool | assets, color | useful | none | proprietary-free |
 | [gltf.report](sites/gltf-report.md) | tool | 3d-and-shaders, assets | useful | cli | mixed |
-| [Huetone](sites/huetone.md) | tool | color, typography-and-styles | useful | none | open-source-permissive |
+| [Huetone (stale)](sites/huetone.md) | tool | color, typography-and-styles | useful | none | open-source-permissive |
 | [Hyperbrowser DESIGNMD](sites/hyperbrowser-design-md.md) | tool | design-md, typography-and-styles, agents-and-prompts | niche | api | not-stated |
 | [Icon Foundry](sites/icon-foundry.md) | tool | icons, assets | niche | none | mixed |
 | [Inkword](sites/inkword.md) | tool | assets, inspiration | niche | llms-txt | proprietary-paid |

@@ -11,7 +11,7 @@ pricing: free
 licence: Free / `@theatre/core` and most packages Apache-2.0; the `@theatre/studio` editor AGPL-3.0
 licence_class: mixed
 reviewed: 2026-09-25
-status: active
+status: stale
 related: [rive, gsap, canvas-ui, shaderfrog]
 ---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md)

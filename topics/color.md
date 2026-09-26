@@ -12,7 +12,7 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 ## Start here
 
 - [Ramps](../sites/ramps.md) — one brand hex becomes eight OKLCH ramps and light/dark semantic tokens with enforced AA or AAA contrast; MIT, with `llms.txt` and a keyless JSON API.
-- [Huetone](../sites/huetone.md) — an LCH/OKLCH grid editor for lining up tone steps across hues, with WCAG 2 and APCA readouts on every swatch.
+- [Huetone (stale)](../sites/huetone.md) — an LCH/OKLCH grid editor for lining up tone steps across hues, with WCAG 2 and APCA readouts on every swatch.
 - [OKLCH](../sites/oklch.md) — Evil Martians' picker and converter with sRGB, P3 and Rec. 2020 gamut edges and a computed sRGB fallback.
 - [Color.review](../sites/color-review.md) — the fastest visual check for one text and background pair, with pass/fail lines drawn on the picker.
 
@@ -26,7 +26,7 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [extract-design-system](../sites/extract-design-system.md) — Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
-- [Huetone](../sites/huetone.md) — LCH/OKLCH palette editor that lines up tone steps across hues, with WCAG and APCA readouts.
+- [Huetone (stale)](../sites/huetone.md) — LCH/OKLCH palette editor that lines up tone steps across hues, with WCAG and APCA readouts.
 - [Icon Museum](../sites/icon-museum.md) — A hand-picked archive of 245 crafted iOS app icons with copyable palettes, designer credits and redesign history.
 - [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
 - [OKLCH](../sites/oklch.md) — Evil Martians' OKLCH picker and converter with P3/Rec. 2020 gamut views and sRGB fallbacks.

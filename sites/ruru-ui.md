@@ -11,7 +11,7 @@ pricing: free
 licence: Free. MIT (repo `ruru-m07/ruru-ui`, about 90 GitHub stars at review)
 licence_class: open-source-permissive
 reviewed: 2026-09-25
-status: active
+status: stale
 related: [shadcn-ui, radix, headless-ui, base-cn]
 ---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
