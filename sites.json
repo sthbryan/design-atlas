@@ -2332,6 +2332,64 @@
       ]
     },
     {
+      "slug": "fontshare",
+      "path": "sites/fontshare.md",
+      "title": "Fontshare",
+      "description": "100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.",
+      "url": "https://www.fontshare.com",
+      "type": "asset-library",
+      "formats": "font library · CSS API",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "Free for personal and commercial use / two licences: 64 families under the proprietary ITF Free Font License (FFL v2.0, dated 17 Aug 2026), 36 under the SIL Open Font License",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "fontsource",
+        "velvetyne",
+        "klim",
+        "typeface-fyi"
+      ]
+    },
+    {
+      "slug": "fontsource",
+      "path": "sites/fontsource.md",
+      "title": "Fontsource",
+      "description": "2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.",
+      "url": "https://fontsource.org",
+      "type": "asset-library",
+      "formats": "font library · npm packages · API",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "api",
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "Free / tooling MIT; each font keeps its own licence (2,056 of 2,100 families SIL OFL 1.1, 36 Apache-2.0, 5 Ubuntu Font Licence, a few CC0, MIT or Unlicense)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "fontshare",
+        "utopia",
+        "wakamai-fondue",
+        "typeface-fyi"
+      ]
+    },
+    {
       "slug": "footer-design",
       "path": "sites/footer-design.md",
       "title": "Footer Design",
@@ -3234,6 +3292,32 @@
       "related": [
         "3dicons",
         "circle-loaders"
+      ]
+    },
+    {
+      "slug": "klim",
+      "path": "sites/klim.md",
+      "title": "Klim Type Foundry",
+      "description": "Premium New Zealand foundry (Söhne, Tiempos) with reference-grade essays and use-based licensing from USD 60.",
+      "url": "https://klim.co.nz",
+      "type": "asset-library",
+      "formats": "type foundry · specimens",
+      "topics": [
+        "typography-and-styles",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Paid, proprietary EULAs / from USD 60 for the first style (each extra style costs less, families and collections cost less per style); one-off fees, no expiry; tiers by users, page views, MAUs, impressions or devices; free test fonts for internal evaluation only",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "fontshare",
+        "velvetyne",
+        "typeface-fyi",
+        "refero-styles"
       ]
     },
     {
@@ -5896,6 +5980,59 @@
       ]
     },
     {
+      "slug": "utopia",
+      "path": "sites/utopia.md",
+      "title": "Utopia",
+      "description": "Free calculators that turn two type and spacing scales into fluid CSS clamp() tokens, with npm packages.",
+      "url": "https://utopia.fyi",
+      "type": "tool",
+      "formats": "tool · calculators",
+      "topics": [
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, no account / site licence not stated; `utopia-core` and `utopia-core-scss` declare ISC in package.json, `postcss-utopia` is MIT",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "fontsource",
+        "wakamai-fondue",
+        "design-system-checklist",
+        "css-text-effects"
+      ]
+    },
+    {
+      "slug": "velvetyne",
+      "path": "sites/velvetyne.md",
+      "title": "Velvetyne",
+      "description": "French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.",
+      "url": "https://velvetyne.fr",
+      "type": "asset-library",
+      "formats": "type foundry · libre fonts",
+      "topics": [
+        "typography-and-styles",
+        "assets",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free (donations welcome) / 38 of 41 typefaces under SIL OFL 1.1 (one also under CUTE); PicNic and Velvelyne under CUTE only; BianZhiDai under a \"Free To Use BUT Be Nice\" licence; the foundry asks for credit",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "fontshare",
+        "klim",
+        "typeface-fyi",
+        "minimal-gallery"
+      ]
+    },
+    {
       "slug": "venust-backgrounds",
       "path": "sites/venust-backgrounds.md",
       "title": "Venust Backgrounds",
@@ -6077,6 +6214,34 @@
         "designmd",
         "huashu-design",
         "interface-design"
+      ]
+    },
+    {
+      "slug": "wakamai-fondue",
+      "path": "sites/wakamai-fondue.md",
+      "title": "Wakamai Fondue",
+      "description": "Drop in a font to see its OpenType features, variable axes and glyphs, then get ready-made CSS, all in-browser.",
+      "url": "https://wakamaifondue.com",
+      "type": "tool",
+      "formats": "tool · font inspector",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "Free, no account / site and engine Apache-2.0 on GitHub; the older CLI package is ISC; the fonts you inspect keep their own licences",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "fontsource",
+        "utopia",
+        "typeface-fyi",
+        "css-text-effects"
       ]
     },
     {

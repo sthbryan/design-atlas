@@ -82,8 +82,12 @@ A curated set of references for building websites and UI — galleries, componen
 | [Circle Loaders](sites/circle-loaders.md) | asset-library | components, motion, assets | niche | none | not-stated |
 | [Craftwork](sites/craftwork.md) | asset-library | assets, agents-and-prompts, typography-and-styles | very-useful | mcp, api, skill | proprietary-paid |
 | [Departure Mono](sites/departure-mono.md) | asset-library | typography-and-styles, assets | very-useful | none | open-source-permissive |
+| [Fontshare](sites/fontshare.md) | asset-library | typography-and-styles, assets | very-useful | api | mixed |
+| [Fontsource](sites/fontsource.md) | asset-library | typography-and-styles, assets | very-useful | llms-txt, api, prompts | open-source-permissive |
 | [Kitbitz](sites/kitbitz.md) | asset-library | assets, components | useful | none | not-stated |
+| [Klim Type Foundry](sites/klim.md) | asset-library | typography-and-styles, inspiration | useful | none | proprietary-paid |
 | [shieldcn](sites/shieldcn.md) | asset-library | assets, documentation, agents-and-prompts | useful | llms-txt, registry, skill | open-source-permissive |
+| [Velvetyne](sites/velvetyne.md) | asset-library | typography-and-styles, assets, inspiration | useful | none | mixed |
 | [Venust Backgrounds](sites/venust-backgrounds.md) | asset-library | assets, agents-and-prompts, landing-pages | very-useful | llms-txt, prompts | public-domain |
 | [Typeface.fyi](sites/typeface-fyi.md) | browser-extension | typography-and-styles, inspiration | niche | none | proprietary-free |
 | [TypeUI DESIGN.md Extractor](sites/design-md-chrome.md) | browser-extension | design-md, agents-and-prompts, typography-and-styles | useful | skill | open-source-permissive |
@@ -246,7 +250,9 @@ A curated set of references for building websites and UI — galleries, componen
 | [Shaderfrog](sites/shaderfrog.md) | tool | 3d-and-shaders, inspiration | niche | none | mixed |
 | [Tabbied](sites/tabbied.md) | tool | assets, components, agents-and-prompts | very-useful | mcp, llms-txt, cli | open-source-permissive |
 | [Tooooools](sites/tooooools.md) | tool | assets, typography-and-styles | useful | none | proprietary-free |
+| [Utopia](sites/utopia.md) | tool | typography-and-styles, landing-pages | very-useful | none | mixed |
 | [Vessa](sites/vessa.md) | tool | design-md, agents-and-prompts, typography-and-styles, motion | useful | mcp, llms-txt | not-stated |
+| [Wakamai Fondue](sites/wakamai-fondue.md) | tool | typography-and-styles, assets | useful | cli | open-source-permissive |
 <!-- atlas:sites:end -->
 
 ## Adding a site
