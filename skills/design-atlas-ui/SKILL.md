@@ -114,7 +114,7 @@ Follow [references/verification.md](references/verification.md): render at the t
 
 ### 7. Report the findings
 
-Use the format in [references/review-format.md](references/review-format.md): What, Why and Fix for each finding, ranked Blocking, Important and Polish, then coverage and a verdict.
+Use the format in [references/review-format.md](references/review-format.md): What, Why and Fix for each finding, ranked Blocking, Important and Polish, then coverage and a verdict. A build ends with this report too. Keep the three headings, and write "No findings" under one that is empty.
 
 ## Reviews and critiques
 
