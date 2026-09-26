@@ -892,6 +892,66 @@
       ]
     },
     {
+      "slug": "base-cn",
+      "path": "sites/base-cn.md",
+      "title": "Base CN",
+      "description": "Community port of the shadcn/ui components to Base UI, installed through a namespaced registry.",
+      "url": "https://basecn.dev",
+      "type": "component-registry",
+      "formats": "component registry (shadcn)",
+      "topics": [
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Free. MIT (repo `akash3444/basecn`, about 290 GitHub stars at review)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "base-ui",
+        "shadcn-ui",
+        "coss-ui",
+        "re-ui",
+        "radix"
+      ]
+    },
+    {
+      "slug": "base-ui",
+      "path": "sites/base-ui.md",
+      "title": "Base UI",
+      "description": "Unstyled, accessible React primitives from the Radix, Floating UI and MUI teams, now shadcn's default.",
+      "url": "https://base-ui.com",
+      "type": "component-library",
+      "formats": "headless component library (npm package)",
+      "topics": [
+        "components",
+        "documentation",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free. MIT, and the FAQ says it may be used in commercial projects (repo `mui/base-ui`, about 11k GitHub stars at review)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "base-cn",
+        "coss-ui",
+        "radix",
+        "headless-ui"
+      ]
+    },
+    {
       "slug": "before-click",
       "path": "sites/before-click.md",
       "title": "before.click",
@@ -1264,6 +1324,37 @@
       ]
     },
     {
+      "slug": "componentry",
+      "path": "sites/componentry.md",
+      "title": "Componentry",
+      "description": "53 animated React effects: text, WebGL hero backgrounds and image effects, installed through the shadcn CLI.",
+      "url": "https://componentry.dev",
+      "type": "component-registry",
+      "formats": "animated component registry (shadcn)",
+      "topics": [
+        "motion",
+        "components",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Free. MIT (repo `harshjdhv/componentry`, about 520 GitHub stars at review). A paid \"Componentry Pro\" for blocks is announced but not yet available",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "reactbits",
+        "magic-ui",
+        "aceternity-ui",
+        "motion-primitives",
+        "canvas-ui"
+      ]
+    },
+    {
       "slug": "compute-toys",
       "path": "sites/compute-toys.md",
       "title": "compute.toys",
@@ -1287,6 +1378,38 @@
         "shaderfrog",
         "canvas-ui",
         "paper-shaders"
+      ]
+    },
+    {
+      "slug": "coss-ui",
+      "path": "sites/coss-ui.md",
+      "title": "coss ui",
+      "description": "Cal.com's Base UI design system with about 500 composed particles and agent skills; mixed MIT/AGPL repo.",
+      "url": "https://coss.com/ui",
+      "type": "component-registry",
+      "formats": "component registry (shadcn) with agent skills",
+      "topics": [
+        "components",
+        "agents-and-prompts",
+        "ux-patterns"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "registry",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "Free. The `apps/ui` and `apps/origin` folders of the `cosscom/coss` monorepo are MIT, while the rest of the repo, including the shared `packages/ui` package, is AGPL-3.0 (about 10.6k GitHub stars at review)",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "base-ui",
+        "base-cn",
+        "re-ui",
+        "shadcn-ui",
+        "kibo-ui"
       ]
     },
     {
@@ -3027,6 +3150,32 @@
         "typeui",
         "getdesign-md",
         "scrolltide"
+      ]
+    },
+    {
+      "slug": "headless-ui",
+      "path": "sites/headless-ui.md",
+      "title": "Headless UI",
+      "description": "Tailwind Labs' small set of unstyled accessible React components, styled through data attributes.",
+      "url": "https://headlessui.com",
+      "type": "component-library",
+      "formats": "headless component library (npm packages)",
+      "topics": [
+        "components",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. The code is MIT (repo `tailwindlabs/headlessui`, about 28.8k GitHub stars at review). The docs site footer says all rights are reserved by Tailwind Labs Inc",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "radix",
+        "base-ui",
+        "shadcn-ui",
+        "inclusive-components"
       ]
     },
     {
@@ -5138,6 +5287,37 @@
       ]
     },
     {
+      "slug": "radix",
+      "path": "sites/radix.md",
+      "title": "Radix",
+      "description": "WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.",
+      "url": "https://www.radix-ui.com",
+      "type": "component-library",
+      "formats": "headless component library, styled theme, icon set and colour system (npm packages)",
+      "topics": [
+        "components",
+        "documentation",
+        "color",
+        "icons"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free. Primitives, Themes, Icons and Colors are all MIT (repo `radix-ui/primitives`, about 19k GitHub stars at review)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "base-ui",
+        "shadcn-ui",
+        "headless-ui",
+        "base-cn",
+        "inclusive-components"
+      ]
+    },
+    {
       "slug": "ramps",
       "path": "sites/ramps.md",
       "title": "Ramps",
@@ -5198,6 +5378,39 @@
         "magic-ui",
         "shadcn-ui",
         "libraries-dev-orbs"
+      ]
+    },
+    {
+      "slug": "re-ui",
+      "path": "sites/re-ui.md",
+      "title": "Re UI",
+      "description": "KeenThemes' shadcn registry with data grid, Gantt and calendar primitives, paid blocks and an MCP server.",
+      "url": "https://reui.io",
+      "type": "component-registry",
+      "formats": "component registry (shadcn) with paid blocks and an MCP server",
+      "topics": [
+        "components",
+        "landing-pages",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "registry",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "Freemium. The free components and primitives are MIT (repo `keenthemes/reui`, about 3.5k GitHub stars at review). Pro (blocks) is a one-time purchase from $249 for one person up to $3,999 for an enterprise, and Ultimate (adds icons and templates) runs from $499 to $7,999. Paid items fall under a restrictive commercial licence from KeenThemes Inc",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "kibo-ui",
+        "coss-ui",
+        "base-ui",
+        "21st-dev"
       ]
     },
     {
@@ -5497,6 +5710,34 @@
         "mx-icons",
         "iconoir",
         "animated-icons"
+      ]
+    },
+    {
+      "slug": "ruru-ui",
+      "path": "sites/ruru-ui.md",
+      "title": "Ruru UI",
+      "description": "Small Radix and Tailwind v3 library with its own CLI; its author says it is no longer maintained.",
+      "url": "https://ui.ruru.build",
+      "type": "component-library",
+      "formats": "component library with its own CLI (unmaintained)",
+      "topics": [
+        "components",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "Free. MIT (repo `ruru-m07/ruru-ui`, about 90 GitHub stars at review)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "radix",
+        "headless-ui",
+        "base-cn"
       ]
     },
     {

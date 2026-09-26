@@ -99,6 +99,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Aceternity UI](sites/aceternity-ui.md) | component-library | components, motion, inspiration, landing-pages | very-useful | mcp | proprietary-paid |
 | [Amicro](sites/amicro.md) | component-library | motion, components | useful | cli, registry | open-source-permissive |
 | [Annnimate](sites/annnimate.md) | component-library | motion, components, agents-and-prompts | useful | mcp, llms-txt | proprietary-paid |
+| [Base UI](sites/base-ui.md) | component-library | components, documentation, agents-and-prompts | very-useful | llms-txt | open-source-permissive |
 | [Bencho](sites/bencho.md) | component-library | components, motion, inspiration | useful | prompts | open-source-permissive |
 | [Butter Nav](sites/butter-nav.md) | component-library | navigation, motion, components | useful | registry, prompts | not-stated |
 | [Canvas UI](sites/canvas-ui.md) | component-library | 3d-and-shaders, components, motion | very-useful | llms-txt, registry | source-available |
@@ -113,6 +114,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Fancy Components](sites/fancy-components.md) | component-library | components, motion, typography-and-styles | very-useful | llms-txt, registry | open-source-permissive |
 | [Fluid Functionalism](sites/fluid-functionalism.md) | component-library | components, motion, ai-interfaces | very-useful | registry, prompts | open-source-permissive |
 | [framecn](sites/framecn.md) | component-library | motion, components, 3d-and-shaders | niche | llms-txt, registry, api, skill | mixed |
+| [Headless UI](sites/headless-ui.md) | component-library | components, ux-patterns | useful | none | open-source-permissive |
 | [interior.dev](sites/interior-dev.md) | component-library | motion, components, ux-patterns, agents-and-prompts | very-useful | llms-txt, registry | open-source-permissive |
 | [Lightswind](sites/lightswind.md) | component-library | components, motion, 3d-and-shaders, landing-pages | useful | mcp, llms-txt, cli, registry | mixed |
 | [Magic UI](sites/magic-ui.md) | component-library | components, motion, cta | very-useful | registry | mixed |
@@ -123,9 +125,11 @@ A curated set of references for building websites and UI — galleries, componen
 | [Oneko](sites/oneko.md) | component-library | motion, components | niche | llms-txt, registry, prompts | mixed |
 | [pdfcn](sites/pdfcn.md) | component-library | components, typography-and-styles | useful | llms-txt, registry, api, prompts, skill | open-source-permissive |
 | [Prompt Kit](sites/prompt-kit.md) | component-library | components, ai-interfaces, agents-and-prompts | very-useful | llms-txt, registry | open-source-permissive |
+| [Radix](sites/radix.md) | component-library | components, documentation, color, icons | very-useful | llms-txt | open-source-permissive |
 | [Rare UI](sites/rareui.md) | component-library | components, motion, navigation | useful | llms-txt, registry | source-available |
 | [React Bits](sites/reactbits.md) | component-library | components, motion, agents-and-prompts, 3d-and-shaders | very-useful | llms-txt | mixed |
 | [Remocn](sites/remocn.md) | component-library | motion, components, agents-and-prompts | very-useful | llms-txt, registry, skill | mixed |
+| [Ruru UI](sites/ruru-ui.md) | component-library | components, motion | niche | cli | open-source-permissive |
 | [sensory-ui](sites/sensory-ui.md) | component-library | sound, components | useful | registry | open-source-permissive |
 | [shadcn/ui](sites/shadcn-ui.md) | component-library | components, documentation, agents-and-prompts | very-useful | mcp, llms-txt, cli, registry | not-stated |
 | [SRCL](sites/srcl.md) | component-library | components, typography-and-styles, agents-and-prompts | very-useful | llms-txt, skill | open-source-permissive |
@@ -136,7 +140,10 @@ A curated set of references for building websites and UI — galleries, componen
 | [21st.dev](sites/21st-dev.md) | component-registry | components, agents-and-prompts, inspiration | very-useful | mcp, cli, api | not-stated |
 | [agentcn](sites/agentcn.md) | component-registry | agents-and-prompts, ai-interfaces, design-md | niche | llms-txt, registry, api, skill | open-source-permissive |
 | [Animate UI](sites/animate-ui.md) | component-registry | components, motion, icons | useful | llms-txt, registry | source-available |
+| [Base CN](sites/base-cn.md) | component-registry | components, agents-and-prompts | niche | llms-txt, registry | open-source-permissive |
 | [blocks.so](sites/blocks-so.md) | component-registry | components, ux-patterns, agents-and-prompts | useful | registry | open-source-permissive |
+| [Componentry](sites/componentry.md) | component-registry | motion, components, 3d-and-shaders | useful | llms-txt, registry | open-source-permissive |
+| [coss ui](sites/coss-ui.md) | component-registry | components, agents-and-prompts, ux-patterns | very-useful | llms-txt, registry, skill | mixed |
 | [Cult UI](sites/cult-ui.md) | component-registry | components, motion, landing-pages | useful | registry | mixed |
 | [Dither Kit](sites/dither-kit.md) | component-registry | components, typography-and-styles | useful | llms-txt, cli, registry | open-source-permissive |
 | [Dot Matrix](sites/dot-matrix.md) | component-registry | components, motion | useful | registry | source-available |
@@ -144,6 +151,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Kokonut UI](sites/kokonut-ui.md) | component-registry | components, motion, ai-interfaces, landing-pages | very-useful | llms-txt, registry | mixed |
 | [mcpcn](sites/mcpcn.md) | component-registry | components, ai-interfaces, agents-and-prompts | useful | llms-txt, registry, api, skill | open-source-permissive |
 | [Orbkit](sites/orbkit.md) | component-registry | 3d-and-shaders, ai-interfaces, components | useful | llms-txt, registry, api, skill | mixed |
+| [Re UI](sites/re-ui.md) | component-registry | components, landing-pages, agents-and-prompts | very-useful | mcp, llms-txt, registry, skill | mixed |
 | [Shadcn Studio](sites/shadcn-studio.md) | component-registry | components, landing-pages, color, agents-and-prompts | useful | mcp, llms-txt, registry | mixed |
 | [shadcnblocks](sites/shadcnblocks.md) | component-registry | components, landing-pages, agents-and-prompts | very-useful | registry | proprietary-paid |
 | [shadercn](sites/shadercn.md) | component-registry | 3d-and-shaders, components, ai-interfaces | niche | llms-txt, registry, api, skill | mixed |
