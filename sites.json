@@ -2169,6 +2169,34 @@
       ]
     },
     {
+      "slug": "desengs",
+      "path": "sites/desengs.md",
+      "title": "DesEngs",
+      "description": "Dated feed of about 106 design-engineering links (tools, libraries, essays, jobs) plus site, minimal-site and designer galleries; MIT source.",
+      "url": "https://desengs.com",
+      "type": "directory",
+      "formats": "directory · resource feed · website gallery · open-source Astro site",
+      "topics": [
+        "inspiration",
+        "components",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, no account. The site's source and data files are MIT-licensed on GitHub (remvze/desengs); linked resources keep their own licences and terms. No sponsors or paid listings seen at review",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "designeer",
+        "design-spells",
+        "emil-kowalski-skills",
+        "jakub-krehel-skills",
+        "minimal-gallery"
+      ]
+    },
+    {
       "slug": "design-bookmark",
       "path": "sites/design-bookmark.md",
       "title": "DesignBookmark",
@@ -2320,6 +2348,35 @@
       ]
     },
     {
+      "slug": "design-minis",
+      "path": "sites/design-minis.md",
+      "title": "Design Minis",
+      "description": "128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.",
+      "url": "https://www.designminis.com",
+      "type": "directory",
+      "formats": "directory · in-browser image and effect tools",
+      "topics": [
+        "assets",
+        "typography-and-styles",
+        "color",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, no account or cookies. The terms keep the site design, text and in-house tool code with the operator and forbid scraping or republishing the directory; files you export from the in-house tools are yours to use, including commercially. Listed tools keep their own terms",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "tooooools",
+        "dotforge",
+        "fffuel",
+        "everywhere-tools",
+        "ascii-studio"
+      ]
+    },
+    {
       "slug": "design-mobile-apps",
       "path": "sites/design-mobile-apps.md",
       "title": "design-mobile-apps (Sleek)",
@@ -2464,6 +2521,62 @@
         "kage",
         "scrolltide",
         "appshot-gallery"
+      ]
+    },
+    {
+      "slug": "designeng-tools",
+      "path": "sites/designeng-tools.md",
+      "title": "DesignEng",
+      "description": "About 200 design-engineering links by category (component kits, icons, tools, agent skills, inspiration, people) with pricing filters and saves.",
+      "url": "https://www.designeng.tools",
+      "type": "directory",
+      "formats": "directory · categorised link cards · user profiles and saved lists",
+      "topics": [
+        "inspiration",
+        "components",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; an optional account (Google or email) lets you save resources to a public profile. No terms, privacy page or licence published at review; linked resources keep their own terms",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "designengineer-tools",
+        "desengs",
+        "designeer",
+        "kokonut-ui",
+        "before-click"
+      ]
+    },
+    {
+      "slug": "designengineer-tools",
+      "path": "sites/designengineer-tools.md",
+      "title": "Design Engineer Tools",
+      "description": "One-page list of about 128 apps and sites a web design engineer uses, from galleries and component kits to 3D, capture and motion tools.",
+      "url": "https://designengineer.tools",
+      "type": "directory",
+      "formats": "directory · single-page link list",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, no account. No licence or terms published at review; the linked tools keep their own terms",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "designeng-tools",
+        "desengs",
+        "designeer",
+        "spline",
+        "theatrejs"
       ]
     },
     {
@@ -3263,6 +3376,33 @@
         "useanimations",
         "animated-icons",
         "iconify"
+      ]
+    },
+    {
+      "slug": "everywhere-tools",
+      "path": "sites/everywhere-tools.md",
+      "title": "everywhere.tools",
+      "description": "Small hand-picked set of 20 experimental type tools, open-source foundries, generative image tools and portfolio builders for designers.",
+      "url": "https://everywhere.tools",
+      "type": "directory",
+      "formats": "directory · curated project cards",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, no account. No licence or terms published at review; each listed project keeps its own licence, and not every one is open source despite the tagline",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "velvetyne",
+        "tooooools",
+        "design-minis",
+        "typeface-fyi",
+        "dotforge"
       ]
     },
     {
@@ -4114,6 +4254,33 @@
         "skiper-ui",
         "animate-ui",
         "magic-ui"
+      ]
+    },
+    {
+      "slug": "greatstuff",
+      "path": "sites/greatstuff.md",
+      "title": "GreatStuff",
+      "description": "Framer-built archive of about 600 links for designers (tools, assets, galleries, AI, Mac apps), filterable by type, with a shuffle button.",
+      "url": "https://greatstuff.fyi",
+      "type": "directory",
+      "formats": "directory · link cards · collections in progress",
+      "topics": [
+        "inspiration",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, no account. No terms, privacy page or licence published at review. Submissions go through a Tally form; sponsorship is arranged by email",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "designeer",
+        "design-minis",
+        "everywhere-tools",
+        "drawably",
+        "ramps"
       ]
     },
     {
@@ -5007,6 +5174,36 @@
         "iconsax",
         "iconify",
         "iconoir"
+      ]
+    },
+    {
+      "slug": "isthereanytool",
+      "path": "sites/isthereanytool.md",
+      "title": "isthereanytool",
+      "description": "About 1,700 design, craft and AI tools in 19 categories, each with pricing, a why-notable note and a confidence rating; full catalogue in llms-full.txt.",
+      "url": "https://www.isthereanytool.app",
+      "type": "directory",
+      "formats": "directory · best-of and comparison guides · llms.txt and llms-full.txt",
+      "topics": [
+        "components",
+        "agents-and-prompts",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse, no account. No terms or licence for the catalogue text published at review. Sponsor slots are sold as one-month placements, paid once through Dodo Payments and labelled as sponsored",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "designeer",
+        "shoogle",
+        "mcpcn",
+        "desengs",
+        "designeng-tools"
       ]
     },
     {

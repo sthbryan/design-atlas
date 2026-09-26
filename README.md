@@ -235,9 +235,16 @@ The repository is private for now. Until it is public, both install commands nee
 | [Pinterest](sites/pinterest.md) | design-workspace | inspiration, typography-and-styles | useful | api | proprietary-free |
 | [Uiuno](sites/uiuno.md) | design-workspace | components, motion, agents-and-prompts | niche | registry | not-stated |
 | [Curations Supply](sites/curations-supply.md) | directory | inspiration, assets | useful | none | proprietary-free |
+| [DesEngs](sites/desengs.md) | directory | inspiration, components, ux-patterns | useful | none | open-source-permissive |
+| [Design Engineer Tools](sites/designengineer-tools.md) | directory | inspiration, 3d-and-shaders, motion | niche | none | not-stated |
+| [Design Minis](sites/design-minis.md) | directory | assets, typography-and-styles, color, motion | useful | none | proprietary-free |
 | [DesignBookmark](sites/design-bookmark.md) | directory | inspiration, assets | niche | llms-txt | not-stated |
 | [Designeer](sites/designeer.md) | directory | inspiration, components, assets | useful | llms-txt | not-stated |
+| [DesignEng](sites/designeng-tools.md) | directory | inspiration, components, assets | niche | none | not-stated |
+| [everywhere.tools](sites/everywhere-tools.md) | directory | typography-and-styles, assets | niche | none | not-stated |
+| [GreatStuff](sites/greatstuff.md) | directory | inspiration, assets | niche | none | not-stated |
 | [Insposite](sites/insposite.md) | directory | inspiration, assets | niche | none | not-stated |
+| [isthereanytool](sites/isthereanytool.md) | directory | components, agents-and-prompts, assets | useful | llms-txt | not-stated |
 | [Shadcn Labs](sites/shadcn-labs.md) | directory | components, agents-and-prompts, documentation | useful | none | open-source-permissive |
 | [Shoogle](sites/shoogle.md) | directory | components, agents-and-prompts, inspiration | useful | mcp, registry, skill | proprietary-free |
 | [UI Skills](sites/ui-skills.md) | directory | agent-skills, design-md, motion, ux-patterns | very-useful | mcp, llms-txt, cli, skill | mixed |
