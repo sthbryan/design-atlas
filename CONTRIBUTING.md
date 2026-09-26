@@ -17,7 +17,7 @@ Open an issue with the [Suggest a site](.github/ISSUE_TEMPLATE/suggest-a-site.ym
 1. Pick a slug: the product name in kebab-case (`magic-ui`, `laws-of-ux`). If the name is generic, use the domain without its TLD. Never rename an existing page.
 2. Copy `TEMPLATE.md` to `sites/<slug>.md`.
 3. Fill in the frontmatter (fields below) and write the seven sections in order: What it is, When to open it, Most useful, Using it with agents, Watch out for, Reusable ideas, Related. Leave the Related section empty; the build writes it from `related`.
-4. Run `npm ci` once, then `npm run build`. The build adds the breadcrumb line, writes the Related line, and updates the README table, every hub's "All sources" list, `llms.txt` and `sites.json`.
+4. Run `npm ci` once, then `npm run build`. The build adds the breadcrumb line, writes the Related line, and updates every hub's "All sources" list, the hub source lists inside `skills/design-atlas/references/`, `llms.txt` and `sites.json`.
 5. Run `npm run check` and fix anything it reports.
 6. Commit with a conventional message, for example `docs(sites): add <name>`, and open a pull request.
 

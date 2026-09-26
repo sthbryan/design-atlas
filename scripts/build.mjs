@@ -39,7 +39,7 @@ const MAX_START_HERE = 5;
 const MAX_DESCRIPTION = 160;
 const CRUMB_PREFIX = '[← Atlas](../README.md)';
 const MARKER = (name, edge) => `<!-- atlas:${name}:${edge} -->`;
-const MARKER_NAMES = ['topics', 'sites', 'sources'];
+const MARKER_NAMES = ['sources'];
 const ALLOWED_COMMENTS = new Set(MARKER_NAMES.flatMap((n) => [MARKER(n, 'start'), MARKER(n, 'end')]));
 
 const errors = [];
@@ -159,18 +159,6 @@ function replaceBlock(path, src, name, content) {
 
 const outputs = new Map();
 
-let readme = read('README.md');
-readme = replaceBlock('README.md', readme, 'topics',
-  topics.map((t) => `- [${t.title}](topics/${t.slug}.md) — ${t.description}`).join('\n'));
-readme = replaceBlock('README.md', readme, 'sites', [
-  '| Site | Type | Topics | Verdict | Agent access | Licence |',
-  '|---|---|---|---|---|---|',
-  ...[...listed]
-    .sort((a, b) => a.type.localeCompare(b.type) || byTitle(a, b))
-    .map((s) => `| [${cell(shownTitle(s))}](sites/${s.slug}.md) | ${s.type} | ${s.topics.join(', ')} | ${s.verdict} | ${agentText(s)} | ${s.licence_class} |`),
-].join('\n'));
-outputs.set('README.md', readme);
-
 for (const t of topics) {
   const members = listed.filter((s) => s.topics?.includes(t.slug)).sort(byTitle);
   let src = replaceBlock(t.path, t.src, 'sources',
@@ -265,7 +253,7 @@ outputs.set('llms.txt', [
   '## Optional',
   '',
   '- [sites.json](sites.json): the same metadata as JSON, one object per site, plus the topic list',
-  '- [README](README.md): the human-facing index and sites table',
+  '- [README](README.md): what the atlas is, how to read it and how to add a site',
   '- [Page template](TEMPLATE.md): the frontmatter fields and sections every site page uses',
   '- [Contributing](CONTRIBUTING.md): how sites are added, reviewed and removed, and the allowed frontmatter values',
   '- [AGENTS.md](AGENTS.md): how agents should read and edit this repository',

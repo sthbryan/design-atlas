@@ -22,13 +22,12 @@ Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md`
 
 The build owns these parts; your edits there are overwritten or fail the check:
 
-- In `README.md`, everything between the `atlas:topics` and `atlas:sites` start and end markers.
 - In each hub, everything between the `atlas:sources` start and end markers.
 - In each site page, the breadcrumb line directly after the frontmatter and the body of the `## Related` section.
 - `llms.txt` and `sites.json`.
 - `skills/design-atlas/references/catalog.json` and `skills/design-atlas/references/hub-map.md`, the snapshot the `design-atlas` skill falls back to offline, and `skills/design-atlas/references/search-index.json`, the index behind `query.mjs --search`.
 
-Change the frontmatter instead, then run the build. The markers are the only HTML comments allowed anywhere in the repo.
+Change the frontmatter instead, then run the build. The `atlas:sources` markers are the only HTML comments allowed anywhere in the repo. The `README.md` is written by hand, so update it yourself when the repository's structure or workflow changes.
 
 ## Adding or updating a site
 

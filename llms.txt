@@ -395,7 +395,7 @@ Each line under Sites ends with filterable fields: type, topics, verdict, agent 
 ## Optional
 
 - [sites.json](sites.json): the same metadata as JSON, one object per site, plus the topic list
-- [README](README.md): the human-facing index and sites table
+- [README](README.md): what the atlas is, how to read it and how to add a site
 - [Page template](TEMPLATE.md): the frontmatter fields and sections every site page uses
 - [Contributing](CONTRIBUTING.md): how sites are added, reviewed and removed, and the allowed frontmatter values
 - [AGENTS.md](AGENTS.md): how agents should read and edit this repository
