@@ -310,6 +310,38 @@
       ]
     },
     {
+      "slug": "a1-gallery",
+      "path": "sites/a1-gallery.md",
+      "title": "A1",
+      "description": "1,000+ curated sites split into sections and interior pages with measured design tokens, fonts and a 17-tool MCP server.",
+      "url": "https://www.a1.gallery",
+      "type": "gallery",
+      "formats": "curated website gallery · section and page library · font index · MCP server · llms.txt · Chrome extension",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Freemium. Browsing is free. A free account adds 30 saves and 50 MCP requests a day. Pro is $10 a month or $84 a year and adds unlimited saves, 2,000 MCP requests a day, queue-skipping submissions and analytics. Free submissions take about 3 to 4 weeks, or $49 buys a 24-hour review. The terms forbid reproducing or redistributing A1 content without permission, and screenshots stay with their owners. The pricing FAQ allows moodboards and client decks",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "curated-design",
+        "sections-wtf",
+        "typeface-fyi",
+        "mobbin",
+        "one-page-love"
+      ]
+    },
+    {
       "slug": "accesslint-skills",
       "path": "sites/accesslint-skills.md",
       "title": "AccessLint Skills",
@@ -957,6 +989,37 @@
       ]
     },
     {
+      "slug": "awwwards",
+      "path": "sites/awwwards.md",
+      "title": "Awwwards",
+      "description": "Paid-entry web design awards with jury-scored winners, interaction clips and studio credits; llms.txt plus a small awards API.",
+      "url": "https://www.awwwards.com",
+      "type": "gallery",
+      "formats": "web design awards and gallery · interaction clip library · llms.txt · read-only awards API",
+      "topics": [
+        "inspiration",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "Free to browse. A standard submission costs $65 per site. Pro memberships were $6.70, $13.80 or $324 a month billed yearly at review, and courses cost $12 a month. The legal terms say all site material belongs to Awwwards and bar commercial reuse without permission. Featured sites stay the property of their makers",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "landing-love",
+        "scrolltide",
+        "minimal-gallery",
+        "siteinspire",
+        "best-website-gallery"
+      ]
+    },
+    {
       "slug": "backgrounds-supply",
       "path": "sites/backgrounds-supply.md",
       "title": "Backgrounds Supply",
@@ -1133,6 +1196,33 @@
       ]
     },
     {
+      "slug": "behance",
+      "path": "sites/behance.md",
+      "title": "Behance",
+      "description": "Adobe's portfolio network of long-form case studies for branding, type and UI; blocks AI crawlers and scripted access.",
+      "url": "https://www.behance.net",
+      "type": "gallery",
+      "formats": "creative portfolio network · case studies · freelance marketplace · asset store",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to browse and publish. Transactions on the free plan carry 15 to 30% platform fees. Behance Pro was US$9.99 a month at review, with a 7-day trial, 0% platform fees and an Adobe Portfolio site. Under Adobe's General Terms, creators keep ownership of their work and data mining or scraping is prohibited. Asset sellers set their own licence type for each asset",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "dribbble",
+        "inspiration-grid",
+        "typeface-fyi",
+        "designeer",
+        "inspora"
+      ]
+    },
+    {
       "slug": "bencho",
       "path": "sites/bencho.md",
       "title": "Bencho",
@@ -1189,6 +1279,33 @@
         "supahero",
         "saasframe",
         "footer-design"
+      ]
+    },
+    {
+      "slug": "best-website-gallery",
+      "path": "sites/best-website-gallery.md",
+      "title": "Best Website Gallery",
+      "description": "One curator's 2,640 noteworthy sites since 2008, tagged by colour, features and shipped libraries; updated irregularly.",
+      "url": "https://bestwebsite.gallery",
+      "type": "gallery",
+      "formats": "curated website gallery · design-engineering link log · RSS",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, no ads or paid tiers found. The legal notice describes a private, non-commercial project. It says rights to the sites, trademarks and content shown stay with their owners, and inclusion implies no endorsement. Owners can request removal or ask for their domain to be excluded from future captures",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "minimal-gallery",
+        "details",
+        "recent-design",
+        "awwwards",
+        "siteinspire"
       ]
     },
     {
@@ -2876,6 +2993,33 @@
         "poly-haven",
         "gltf-report",
         "canvas-ui"
+      ]
+    },
+    {
+      "slug": "dribbble",
+      "path": "sites/dribbble.md",
+      "title": "Dribbble",
+      "description": "Huge shot-sharing community and designer marketplace for fast visual and motion exploration; mostly concepts, no agent access.",
+      "url": "https://dribbble.com",
+      "type": "gallery",
+      "formats": "design shot-sharing community · designer marketplace · publishing API",
+      "topics": [
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to browse and post. Pro plans for designers were $4, $8 or $99 a month billed yearly at review. Marketplace projects carry graduated platform fees: 10% down to 4% for designers, 5% down to 2% for clients, plus card processing. Members keep the rights to their work, but Dribbble may use it for marketing. The terms forbid scraping and copying site content",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "behance",
+        "inspora",
+        "collect-ui",
+        "mobbin",
+        "inspiration-grid"
       ]
     },
     {
@@ -4694,6 +4838,33 @@
       ]
     },
     {
+      "slug": "inspiration-grid",
+      "path": "sites/inspiration-grid.md",
+      "title": "Inspiration Grid",
+      "description": "Daily art, illustration, branding and typography magazine since 2011; broad moodboard fuel, little interface content.",
+      "url": "https://theinspirationgrid.com",
+      "type": "gallery",
+      "formats": "online design and art magazine · RSS",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to read. It is funded by sponsored editorial, brand partnerships and Amazon affiliate links. No licence is stated for the work it features. The terms page is a general disclaimer, so rights stay with the artists and studios credited in each post",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "designeer",
+        "inspora",
+        "recent-design",
+        "behance",
+        "dribbble"
+      ]
+    },
+    {
       "slug": "inspora",
       "path": "sites/inspora.md",
       "title": "Inspora",
@@ -6470,6 +6641,37 @@
       ]
     },
     {
+      "slug": "one-page-love",
+      "path": "sites/one-page-love.md",
+      "title": "One Page Love",
+      "description": "9,000+ single-page sites and cropped sections since 2008, searchable through a free, keyless MCP that returns hero copy.",
+      "url": "https://onepagelove.com",
+      "type": "gallery",
+      "formats": "one-page website gallery · section archive · template directory · public MCP server · llms.txt",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse, and the MCP server is free with no key during its private beta. Money comes from marked sponsor placements and a template catalogue that is mostly premium (189 of 295 at review). The legal notice says screenshots and descriptions belong to the owners of the sites shown and are published for review and reference",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "minimal-gallery",
+        "landing-love",
+        "sections-wtf",
+        "supahero",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "oneko",
       "path": "sites/oneko.md",
       "title": "Oneko",
@@ -8194,6 +8396,38 @@
         "devicon",
         "shieldcn",
         "icons0"
+      ]
+    },
+    {
+      "slug": "siteinspire",
+      "path": "sites/siteinspire.md",
+      "title": "Siteinspire",
+      "description": "10,000+ hand-picked, type-led sites since 2008, tagged by style, type and subject, with a free public read-only MCP server.",
+      "url": "https://www.siteinspire.com",
+      "type": "gallery",
+      "formats": "curated web design gallery · public MCP server · REST and tRPC read API · llms.txt",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse; pricing and submission terms could not be read at review. According to its `llms.txt`, screenshots and descriptions are © Siteinspire, and the index (titles, URLs, categories) may be used for non-commercial research and AI training with attribution",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "minimal-gallery",
+        "typeface-fyi",
+        "curated-design",
+        "awwwards",
+        "a1-gallery"
       ]
     },
     {

@@ -21,7 +21,9 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 
 <!-- atlas:sources:start -->
 - [8bitcn](../sites/8bitcn.md) — Retro 8-bit shadcn/ui skin: 56 components, 63 blocks, game UI pieces and 21 themes.
+- [A1](../sites/a1-gallery.md) — 1,000+ curated sites split into sections and interior pages with measured design tokens, fonts and a 17-tool MCP server.
 - [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
+- [Behance](../sites/behance.md) — Adobe's portfolio network of long-form case studies for branding, type and UI; blocks AI crawlers and scripted access.
 - [Best Designs on X](../sites/bestdesignsonx.md) — Hourly feed of 9,400+ credited design posts from X, plus Instagram, Dribbble, Behance, fonts, app icons and OG images; Panda Network, sponsor-funded.
 - [Browse.cool](../sites/browse-cool.md) — A beta gallery of 25 high-craft, type-led sites and 194 screenshots and clips for mood-boarding.
 - [Color.review](../sites/color-review.md) — WCAG 2.1 contrast checker with pass/fail lines on the picker and shareable pair links.
@@ -52,6 +54,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Huashu Design](../sites/huashu-design.md) — Chinese-language HTML skill for prototypes, decks and MP4 animations; always shows three drafts first.
 - [Huetone (stale)](../sites/huetone.md) — LCH/OKLCH palette editor that lines up tone steps across hues, with WCAG and APCA readouts.
 - [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — Paste a domain, get a basic Google-style DESIGN.md via Hyperbrowser's branding API (bring your own key).
+- [Inspiration Grid](../sites/inspiration-grid.md) — Daily art, illustration, branding and typography magazine since 2011; broad moodboard fuel, little interface content.
 - [Inspora](../sites/inspora.md) — Small, fresh archive of recent design work tagged by industry, color and style.
 - [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
 - [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
@@ -75,6 +78,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
 - [Scritto](../sites/scritto.md) — MIT web component that animates only the characters that change in any string.
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
+- [Siteinspire](../sites/siteinspire.md) — 10,000+ hand-picked, type-led sites since 2008, tagged by style, type and subject, with a free public read-only MCP server.
 - [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
 - [Spell UI](../sites/spell-ui.md) — Small, refined MIT set strong on text reveal animations, playful buttons and light-ray backgrounds.
 - [SRCL](../sites/srcl.md) — Terminal-aesthetic React kit plus matching CLI framework, with llms.txt, AGENTS.md catalogue and porting skills.
