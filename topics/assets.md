@@ -33,6 +33,7 @@ Downloadable icons, illustrations and store-listing visuals for interfaces and p
 
 ## Related topics
 
+- [Icons](icons.md)
 - [Components](components.md)
 - [Inspiration](inspiration.md)
 - [Typography and styles](typography-and-styles.md)

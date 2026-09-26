@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [motion](../topics/motion.md)
+[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [motion](../topics/motion.md)
 
 # Animated Icons
 
 - **URL:** https://animatedicons.co
 - **Type:** icon library · animated icons
-- **Topics:** animated icons, Lottie, assets, motion
+- **Topics:** icons, animated icons, Lottie, assets, motion
 - **Pricing / licence:** Free and premium icons; All-Access is a one-time $99 (personal) or $349 (teams of up to 25). Custom licence: commercial use without attribution, but no redistribution and no competing services
 - **Reviewed:** 2026-09-25
 

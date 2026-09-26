@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [motion](../topics/motion.md)
+[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [motion](../topics/motion.md)
 
 # useAnimations
 
 - **URL:** https://useanimations.com
 - **Type:** icon library · animated icons
-- **Topics:** animated icons, Lottie, assets, motion, React
+- **Topics:** icons, animated icons, Lottie, assets, motion, React
 - **Pricing / licence:** Free / CC BY 4.0 with extra restrictions (attribution required, no redistribution or resale in templates); npm package metadata says MIT
 - **Reviewed:** 2026-09-25
 

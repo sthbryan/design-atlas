@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [components](../topics/components.md)
+[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [components](../topics/components.md)
 
 # 3dicons
 
 - **URL:** https://3dicons.co
 - **Type:** asset library
-- **Topics:** 3D icons, assets, Figma
+- **Topics:** icons, 3D icons, assets, Figma
 - **Pricing / licence:** CC0 / Free (Pro available)
 - **Reviewed:** 2026-09-25
 

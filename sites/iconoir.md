@@ -1,4 +1,4 @@
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [components](../topics/components.md)
+[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [components](../topics/components.md)
 
 # Iconoir
 
