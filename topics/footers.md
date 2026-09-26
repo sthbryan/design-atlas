@@ -11,6 +11,7 @@ Footer structure, density and content — the part of the page that quietly carr
 ## All sources
 
 - [Footer Design](../sites/footer-design.md) — footers filtered by typographic, illustrative, grid, animated, dark and large-type styles.
+- [Sections.wtf](../sites/sections-wtf.md) — footers recorded as short videos next to 21 other section types, with the rest of the same site's sections one click away.
 
 ## Patterns worth reusing
 
@@ -18,6 +19,7 @@ Footer structure, density and content — the part of the page that quietly carr
 - Manually flag a curated subset ("Editor's Choice") as a quality signal on top of raw submissions.
 - A niche as narrow as "footers only" can sustain a full gallery if it's well filtered by style.
 - Link every example directly to its source site so the gallery stays a gateway, not a copy.
+- Study a footer next to the rest of the same site's sections, so its density and tone are judged against the page it closes (Sections.wtf).
 
 ## Pitfalls
 
@@ -30,3 +32,4 @@ Footer structure, density and content — the part of the page that quietly carr
 - [Navigation](navigation.md)
 - [Inspiration](inspiration.md)
 - [CTA](cta.md)
+- [Landing pages](landing-pages.md)

@@ -9,12 +9,17 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular and solid) with packages for React, Vue, React Native, Flutter and Swift, plus Figma and Framer.
 - [3dicons](../sites/3dicons.md) — 1,500+ CC0 rendered 3D icons with an online editor and a Figma plugin.
 - [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable animated icons across business categories, usable commercially without attribution.
+- [icons0](../sites/icons0.md) — the agent-friendly way to find a real icon: search across Iconify sets by meaning, filter by licence, and fetch over MCP or the shadcn CLI.
+- [Carbon Design System](../sites/carbon-design-system.md) — one of the largest permissive sets, with 2,775 icons and 1,576 pictograms under Apache-2.0.
 
 ## All sources
 
 - [3dicons](../sites/3dicons.md) — 3D icons for landing-page sections, empty states and dashboards; best between 32 and 256 px.
 - [Animated Icons](../sites/animated-icons.md) — Lottie, SVG, PNG and GIF icons recoloured in the browser; free tier plus a one-time All-Access purchase.
+- [Carbon Design System](../sites/carbon-design-system.md) — 2,775 icons and 1,576 pictograms under Apache-2.0, as React packages, Web Components and a Figma library; the licence grants no IBM trademark rights.
 - [Iconoir](../sites/iconoir.md) — one consistent outline set, customisable stroke and size, and tree-shakeable framework packages.
+- [icons0](../sites/icons0.md) — hybrid keyword and semantic search over roughly 200k Iconify icons, with a licence filter, single-icon shadcn registry items and a token-gated MCP.
+- [Morphrig](../sites/morphrig.md) — an interactive manual on morphing one SVG icon into another, with measured browser support and an `llms-full.txt` to hand an agent.
 - [useAnimations](../sites/useanimations.md) — 87 Feather-style micro-animated icons (SVG + Lottie) and a React package; attribution required.
 
 ## Patterns worth reusing
@@ -26,11 +31,16 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - Let callers import each animated icon on its own, and offer a render prop so it sits inside the product's own accessible button (useAnimations).
 - Ship a static fallback (SVG or PNG) next to every animation for email, docs and slides (Animated Icons).
 - Organise a set by business domain as well as by UI function, so a whole feature grid can be filled from one category (Animated Icons).
+- Combine keyword and semantic search so both "cog" and "preferences" find the settings icon, and serve single icons as registry items so a project only gets what it uses (icons0).
+- Ship icons, pictograms and tokens as separate packages so products take only what they need (Carbon Design System).
+- For icon morphs, author the stroke-to-stroke pairing once as data, check at build time whether a pair is worth morphing, and fall back to a crossfade when it isn't (Morphrig).
 
 ## Pitfalls
 
-- Licences vary widely: CC0 (3dicons), MIT (Iconoir), CC BY with extra no-resale rules and an MIT tag on npm (useAnimations), and a custom no-redistribution, no-scraping licence (Animated Icons). Read each one before shipping.
-- None of these sets has an `llms.txt` or MCP server, so agents tend to guess icon names; have them check against the repo folders or package list instead.
+- Licences vary widely: CC0 (3dicons), MIT (Iconoir), Apache-2.0 without trademark rights (Carbon Design System), CC BY with extra no-resale rules and an MIT tag on npm (useAnimations), a custom no-redistribution, no-scraping licence (Animated Icons), and a different licence per collection, some attribution or copyleft (icons0). Read each one before shipping.
+- Agents tend to guess icon names. icons0's MCP (which needs an API key) and Carbon's `llms.txt` help; for the other sets, have the agent check the repo folders or package list. Names also change: icons0's own README example `lucide:home` fails because Lucide renamed it `house`, so search before fetching.
+- Installing a whole collection through icons0 writes one component file per icon, which can mean thousands of files.
+- Morphing is fragile across browsers: according to Morphrig, Safari 26.3 can't animate an SVG path's `d` with CSS or WAAPI, and the compiler the manual describes isn't released.
 - Headline counts mix variants and tiers: Iconoir's 1,671 includes solid variants, and Animated Icons' 4,000+ includes premium icons that only download as PNG without a purchase.
 - Lottie-based icons pull in `lottie-web` at runtime, and a grid of animated icons playing at once can hurt performance and distract; honour `prefers-reduced-motion`.
 - Pin CDN versions in production (Iconoir's docs load its CSS from `@main`).
@@ -41,3 +51,4 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Assets](assets.md)
 - [Motion](motion.md)
 - [Components](components.md)
+- [Agents and prompts](agents-and-prompts.md)

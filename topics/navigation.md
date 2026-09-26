@@ -36,3 +36,4 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 - [CTA](cta.md)
 - [Components](components.md)
 - [Motion](motion.md)
+- [Landing pages](landing-pages.md)
