@@ -141,7 +141,7 @@
       "files": ["evals/files/mini-atlas/README.md", "evals/files/mini-atlas/sites.json", "evals/files/mini-atlas/topics/icons.md", "evals/files/mini-atlas/topics/motion.md", "evals/files/mini-atlas/sites/example-icons.md", "evals/files/mini-atlas/sites/example-motion-kit.md", "evals/files/mini-atlas/sites/example-3d-icons.md", "evals/files/invoice-app/src/Hero.tsx", "evals/files/invoice-app/package.json"],
       "expectations": [
         "The transcript shows the licence_class or licence field of all three references being read, from sites.json, the query script output or the page frontmatter",
-        "No output file references Example 3D Icons or 3d.example.net",
+        "No output file imports, links or embeds Example 3D Icons or 3d.example.net; a comment or References row recording its rejection is allowed",
         "The reply states that the motion kit's licence is not stated and that its idea was rebuilt rather than copied",
         "The reply or a credits or NOTICE file mentions keeping the MIT notice for Example Icons",
         "The reply cites the references by path (sites/<slug>.md) with their reviewed dates"
