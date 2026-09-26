@@ -1,0 +1,12 @@
+{
+  "name": "design-atlas",
+  "description": "Design Atlas: a reviewed wiki of design references, with skills that let coding agents use it.",
+  "owner": { "name": "Bryan Villafuerte" },
+  "plugins": [
+    {
+      "name": "design-atlas",
+      "source": "./",
+      "description": "Two skills for coding agents: design-atlas finds reviewed design references in the Design Atlas and writes a cited, licence-checked brief; design-atlas-ui builds and reviews UI from a DESIGN.md."
+    }
+  ]
+}
