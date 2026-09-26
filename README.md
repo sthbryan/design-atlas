@@ -69,6 +69,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [ibelick UI Skills](sites/ibelick-ui-skills.md) | agent-skill-collection | agent-skills, ux-patterns, motion, design-md | very-useful | mcp, cli, skill | open-source-permissive |
 | [Jakub Krehel's skills](sites/jakub-krehel-skills.md) | agent-skill-collection | agent-skills, ux-patterns, typography-and-styles, color | very-useful | skill | open-source-permissive |
 | [mblode Agent Skills](sites/mblode-agent-skills.md) | agent-skill-collection | agent-skills, ux-patterns, motion, typography-and-styles | very-useful | skill | open-source-permissive |
+| [Shadcn Labs Skills](sites/shadcn-skills.md) | agent-skill-collection | agent-skills, icons, components | useful | skill | open-source-permissive |
 | [Stitch Skills](sites/stitch-skills.md) | agent-skill-collection | agent-skills, design-md, typography-and-styles | useful | skill | open-source-permissive |
 | [StyleSeed](sites/styleseed.md) | agent-skill-collection | agent-skills, design-md, color, ux-patterns | useful | skill | open-source-permissive |
 | [Taste Skill](sites/taste-skill.md) | agent-skill-collection | agent-skills, landing-pages, typography-and-styles, motion | very-useful | skill | open-source-permissive |
@@ -122,18 +123,24 @@ A curated set of references for building websites and UI — galleries, componen
 | [UIAble](sites/uiable.md) | component-library | components, documentation, agents-and-prompts | very-useful | none | mixed |
 | [21st.dev](sites/21st-dev.md) | component-registry | components, agents-and-prompts, inspiration | very-useful | mcp, cli, api | not-stated |
 | [agentcn](sites/agentcn.md) | component-registry | agents-and-prompts, ai-interfaces, design-md | niche | llms-txt, registry, api, skill | open-source-permissive |
+| [blocks.so](sites/blocks-so.md) | component-registry | components, ux-patterns, agents-and-prompts | useful | registry | open-source-permissive |
 | [Dither Kit](sites/dither-kit.md) | component-registry | components, typography-and-styles | useful | llms-txt, cli, registry | open-source-permissive |
 | [Dot Matrix](sites/dot-matrix.md) | component-registry | components, motion | useful | registry | source-available |
 | [Kibo UI](sites/kibo-ui.md) | component-registry | components, landing-pages, agents-and-prompts | very-useful | mcp, cli, registry | open-source-permissive |
 | [mcpcn](sites/mcpcn.md) | component-registry | components, ai-interfaces, agents-and-prompts | useful | llms-txt, registry, api, skill | open-source-permissive |
 | [Orbkit](sites/orbkit.md) | component-registry | 3d-and-shaders, ai-interfaces, components | useful | llms-txt, registry, api, skill | mixed |
+| [Shadcn Studio](sites/shadcn-studio.md) | component-registry | components, landing-pages, color, agents-and-prompts | useful | mcp, llms-txt, registry | mixed |
+| [shadcnblocks](sites/shadcnblocks.md) | component-registry | components, landing-pages, agents-and-prompts | very-useful | registry | proprietary-paid |
 | [shadercn](sites/shadercn.md) | component-registry | 3d-and-shaders, components, ai-interfaces | niche | llms-txt, registry, api, skill | mixed |
 | [Astryx](sites/astryx.md) | design-system | components, documentation | very-useful | cli | open-source-permissive |
 | [Carbon Design System](sites/carbon-design-system.md) | design-system | components, icons, documentation, agents-and-prompts | very-useful | mcp, llms-txt, skill | open-source-permissive |
 | [Kobra](sites/kobra.md) | design-system | components, agents-and-prompts, ai-interfaces | useful | llms-txt, api | proprietary-paid |
 | [Efecto](sites/efecto.md) | design-workspace | agents-and-prompts, 3d-and-shaders, assets | useful | mcp, llms-txt, api, skill | mixed |
 | [OpenDesign](sites/open-design.md) | design-workspace | design-md, agents-and-prompts, typography-and-styles | very-useful | mcp, cli, skill | open-source-permissive |
+| [Uiuno](sites/uiuno.md) | design-workspace | components, motion, agents-and-prompts | niche | registry | not-stated |
 | [Designeer](sites/designeer.md) | directory | inspiration, components, assets | useful | llms-txt | not-stated |
+| [Shadcn Labs](sites/shadcn-labs.md) | directory | components, agents-and-prompts, documentation | useful | none | open-source-permissive |
+| [Shoogle](sites/shoogle.md) | directory | components, agents-and-prompts, inspiration | useful | mcp, registry, skill | proprietary-free |
 | [UI Skills](sites/ui-skills.md) | directory | agent-skills, design-md, motion, ux-patterns | very-useful | mcp, llms-txt, cli, skill | mixed |
 | [What Ships](sites/what-ships.md) | directory | motion, inspiration, agents-and-prompts | useful | llms-txt, api | open-source-permissive |
 | [Devouring Details](sites/devouring-details.md) | documentation | motion, documentation, ux-patterns | very-useful | none | not-stated |
@@ -212,6 +219,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [TypeUI](sites/typeui.md) | style-library | design-md, agents-and-prompts, typography-and-styles | useful | mcp, cli, skill | mixed |
 | [GetLayers](sites/getlayers.md) | template-library | 3d-and-shaders, landing-pages, motion, agents-and-prompts | useful | mcp, llms-txt, prompts, skill | proprietary-paid |
 | [Scrolltide](sites/scrolltide.md) | template-library | motion, agents-and-prompts, inspiration, landing-pages | useful | prompts | proprietary-paid |
+| [startercn](sites/startercn.md) | template-library | components, documentation, agents-and-prompts | useful | llms-txt, api, skill | open-source-permissive |
 | [Agentation](sites/agentation.md) | tool | agents-and-prompts, ai-interfaces | very-useful | mcp, skill | source-available |
 | [Amacro](sites/amacro.md) | tool | motion, components | niche | none | open-source-permissive |
 | [Anim8](sites/anim8.md) | tool | motion, assets, agents-and-prompts | useful | mcp, cli | proprietary-paid |

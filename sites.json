@@ -830,6 +830,36 @@
       ]
     },
     {
+      "slug": "blocks-so",
+      "path": "sites/blocks-so.md",
+      "title": "blocks.so",
+      "description": "Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.",
+      "url": "https://blocks.so",
+      "type": "component-registry",
+      "formats": "component registry (shadcn/ui) · app blocks",
+      "topics": [
+        "components",
+        "ux-patterns",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repo `ephraimduncan/blocks`, about 1.8k GitHub stars, last push 2026-09-17)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "shadcnblocks",
+        "kibo-ui",
+        "prompt-kit",
+        "shoogle"
+      ]
+    },
+    {
       "slug": "book-of-shaders",
       "path": "sites/book-of-shaders.md",
       "title": "The Book of Shaders",
@@ -4700,6 +4730,103 @@
       ]
     },
     {
+      "slug": "shadcn-labs",
+      "path": "sites/shadcn-labs.md",
+      "title": "Shadcn Labs",
+      "description": "Index of the independent Shadcn Labs registries: termcn, pdfcn, emailcn, ogimagecn, shadercn and more.",
+      "url": "https://www.shadcn-labs.com",
+      "type": "directory",
+      "formats": "open-source organisation · hub of shadcn-style registries",
+      "topics": [
+        "components",
+        "agents-and-prompts",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "free. The project repos under the `shadcn-labs` GitHub organisation are MIT (the \"awesome\" agent lists are CC0-1.0). Sponsorship slots are offered at $499 a month.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "startercn",
+        "shadcn-skills",
+        "termcn",
+        "pdfcn",
+        "emailcn",
+        "ogimagecn",
+        "framecn",
+        "agentcn",
+        "mcpcn",
+        "editorcn",
+        "shadercn"
+      ]
+    },
+    {
+      "slug": "shadcn-skills",
+      "path": "sites/shadcn-skills.md",
+      "title": "Shadcn Labs Skills",
+      "description": "Six MIT skills: launch a shadcn registry, generate, audit and extend SVG icon sets, Tailwind-to-StyleX.",
+      "url": "https://www.skills.sh/shadcn-labs/skills",
+      "type": "agent-skill-collection",
+      "formats": "agent skill collection",
+      "topics": [
+        "agent-skills",
+        "icons",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repo `shadcn-labs/skills`, about 24 stars, last push 2026-09-24). skills.sh counted 133 installs in total at review: `tailwind-to-stylex` 49, `launch-shadcn-registry` 33, `mastra-file-agents` 18, and 11 each for the three icon skills.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-labs",
+        "startercn",
+        "iconoir",
+        "shadcn-ui",
+        "anthropic-skills"
+      ]
+    },
+    {
+      "slug": "shadcn-studio",
+      "path": "sites/shadcn-studio.md",
+      "title": "Shadcn Studio",
+      "description": "ThemeSelection's shadcn suite: blocks, templates, theme generator, Figma kit and an MCP; strict site licence.",
+      "url": "https://shadcnstudio.com",
+      "type": "component-registry",
+      "formats": "component registry (shadcn/ui) · blocks · theme generator · MCP server · Figma kit",
+      "topics": [
+        "components",
+        "landing-pages",
+        "color",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "freemium. The open-source set is MIT with a Commons Clause and a non-compete added on the site's licence page (the repo `shadcnstudio/shadcn-studio` itself carries a plain MIT file; about 1.9k stars). Paid one-time plans at review: Basic $99, Pro $199, Team $449 (15 seats), Enterprise $849, shown as discounts on higher list prices.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "shadcnblocks",
+        "kibo-ui",
+        "blocks-so",
+        "magic-ui"
+      ]
+    },
+    {
       "slug": "shadcn-ui",
       "path": "sites/shadcn-ui.md",
       "title": "shadcn/ui",
@@ -4729,6 +4856,37 @@
         "aceternity-ui",
         "mapcn",
         "uiable",
+        "21st-dev"
+      ]
+    },
+    {
+      "slug": "shadcnblocks",
+      "path": "sites/shadcnblocks.md",
+      "title": "shadcnblocks",
+      "description": "2,000+ paid shadcn marketing and app blocks in Radix, Base UI and React Aria builds, via CLI or MCP.",
+      "url": "https://www.shadcnblocks.com",
+      "type": "component-registry",
+      "formats": "component registry (shadcn/ui) · blocks · templates · Figma kit",
+      "topics": [
+        "components",
+        "landing-pages",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "freemium. A small set of free blocks (some need a free login); lifetime plans at $149 (Pro), $299 (Premium) and $399 (Elite) at review, plus a Team licence for up to 10 people. Paid code is under a proprietary licence (see Watch out for). The older free repo `shadcnblocks/shadcn-ui-blocks` is MIT plus a Commons Clause (about 400 stars, last push October 2025).",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "kibo-ui",
+        "shadcn-studio",
+        "blocks-so",
+        "shoogle",
         "21st-dev"
       ]
     },
@@ -4849,6 +5007,38 @@
       ]
     },
     {
+      "slug": "shoogle",
+      "path": "sites/shoogle.md",
+      "title": "Shoogle",
+      "description": "Searches items across all shadcn registries from the web, the CLI or a remote MCP server.",
+      "url": "https://shoogle.dev",
+      "type": "directory",
+      "formats": "search engine and directory for shadcn registries · MCP server · agent skill",
+      "topics": [
+        "components",
+        "agents-and-prompts",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "registry",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "free to use (labelled alpha); funded by sponsored placements and \"enterprise partners\". The site's terms are boilerplate that allow only personal, non-commercial viewing of its own materials. The indexed components keep their authors' licences. Operator not stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "shadcnblocks",
+        "blocks-so",
+        "uiuno",
+        "21st-dev"
+      ]
+    },
+    {
       "slug": "soundcn",
       "path": "sites/soundcn.md",
       "title": "soundcn",
@@ -4906,6 +5096,38 @@
         "8bitcn",
         "departure-mono",
         "ascii-studio"
+      ]
+    },
+    {
+      "slug": "startercn",
+      "path": "sites/startercn.md",
+      "title": "startercn",
+      "description": "MIT Next.js template for publishing your own shadcn registry, with Fumadocs docs, llms.txt and skill discovery.",
+      "url": "https://startercn.vercel.app",
+      "type": "template-library",
+      "formats": "registry template (shadcn/ui) · docs site starter",
+      "topics": [
+        "components",
+        "documentation",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "api",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repo `shadcn-labs/startercn`, about 40 stars, last push 2026-07-11)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-labs",
+        "shadcn-skills",
+        "shadcn-ui",
+        "web-kits-audio",
+        "shieldcn"
       ]
     },
     {
@@ -5557,6 +5779,36 @@
         "animated-icons",
         "kinetics",
         "vibeprompts"
+      ]
+    },
+    {
+      "slug": "uiuno",
+      "path": "sites/uiuno.md",
+      "title": "Uiuno",
+      "description": "Early shadcn workspace where a bot collects motion and shader effects into registries; credit to originals is lost.",
+      "url": "https://uiuno.com",
+      "type": "design-workspace",
+      "formats": "component workspace · hosted shadcn registries · curated collection",
+      "topics": [
+        "components",
+        "motion",
+        "agents-and-prompts"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "free \"Guest\" and \"Free\" plans shown; the page data mentions credits and paid access per item, but no pricing page was published (404). The items checked were marked MIT, each linking to its original source. No terms page was found. Operator not stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shoogle",
+        "shadcn-ui",
+        "paper-shaders",
+        "reactbits",
+        "21st-dev"
       ]
     },
     {
