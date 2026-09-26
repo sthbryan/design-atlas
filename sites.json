@@ -455,6 +455,36 @@
       ]
     },
     {
+      "slug": "anim8",
+      "path": "sites/anim8.md",
+      "title": "Anim8",
+      "description": "Browser editor that traces video into editable animated SVG and Lottie; MCP and CLI on Pro.",
+      "url": "https://tryanim8.com",
+      "type": "tool",
+      "formats": "tool · animation editor · MCP server · CLI",
+      "topics": [
+        "motion",
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "cli"
+      ],
+      "pricing": "freemium",
+      "licence": "Free plan; Pro Monthly (US$9 per month in the site's metadata) or Founding Lifetime at US$79 once for the first 100 buyers / closed commercial service; you keep ownership of what you import and create",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "lottiefiles-motion-design",
+        "morphrig",
+        "efecto",
+        "animated-icons"
+      ]
+    },
+    {
       "slug": "animated-icons",
       "path": "sites/animated-icons.md",
       "title": "Animated Icons",
@@ -682,6 +712,35 @@
         "21st-dev",
         "vibeprompts",
         "open-design"
+      ]
+    },
+    {
+      "slug": "backgrounds-supply",
+      "path": "sites/backgrounds-supply.md",
+      "title": "Backgrounds Supply",
+      "description": "Paid lifetime library of gradient, AI and animated hero backgrounds, plus a free Gradient Lab shader tool.",
+      "url": "https://backgrounds.supply",
+      "type": "asset-library",
+      "formats": "asset library · gradient shader tool",
+      "topics": [
+        "assets",
+        "landing-pages",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "$49 one-time for the full library / commercial use allowed, no redistribution or reuse in asset packs or templates, no refunds; free pack under a personal-use licence; Gradient Lab free",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "fffuel",
+        "paper-shaders",
+        "supahero",
+        "venust-backgrounds"
       ]
     },
     {
@@ -1707,6 +1766,34 @@
       ]
     },
     {
+      "slug": "drawably",
+      "path": "sites/drawably.md",
+      "title": "Drawably",
+      "description": "MIT hand-drawn UI controls that sketch fresh on each mount, keep native inputs and ship an agent.md.",
+      "url": "https://www.drawably.dev",
+      "type": "component-library",
+      "formats": "component library · JS library",
+      "topics": [
+        "components",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free / MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "canvas-ui",
+        "evil-buttons",
+        "kinetics",
+        "inkword"
+      ]
+    },
+    {
       "slug": "easing-wizard",
       "path": "sites/easing-wizard.md",
       "title": "Easing Wizard",
@@ -2541,6 +2628,34 @@
         "component-gallery",
         "design-system-checklist",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "inkword",
+      "path": "sites/inkword.md",
+      "title": "Inkword",
+      "description": "Turns one word into a small editable SVG editorial drawing in six fixed styles; private beta.",
+      "url": "https://inkword.app",
+      "type": "tool",
+      "formats": "tool · AI illustration generator",
+      "topics": [
+        "assets",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Private beta, free for approved testers (20 drawings) / planned packs of $9 for 60 or $19 for 150 drawings, one-off / beta terms allow use in your own work, no resale; commercial licence \"to come\"",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "craftwork",
+        "3dicons",
+        "fffuel",
+        "drawably"
       ]
     },
     {
@@ -3713,6 +3828,32 @@
       ]
     },
     {
+      "slug": "playgrnd",
+      "path": "sites/playgrnd.md",
+      "title": "Playgrnd",
+      "description": "52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.",
+      "url": "https://playgrnd.tools",
+      "type": "tool",
+      "formats": "tool · generative design toys",
+      "topics": [
+        "assets",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, no account / no licence published; the site says exports are yours",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "fffuel",
+        "tabbied",
+        "compute-toys",
+        "shaderfrog"
+      ]
+    },
+    {
       "slug": "posts-design",
       "path": "sites/posts-design.md",
       "title": "posts.design",
@@ -4540,6 +4681,37 @@
       ]
     },
     {
+      "slug": "tabbied",
+      "path": "sites/tabbied.md",
+      "title": "Tabbied",
+      "description": "338 seeded geometric patterns as an MIT npm/React package, with a CLI and a hosted MCP.",
+      "url": "https://tabbied.com",
+      "type": "tool",
+      "formats": "tool · JS library · MCP server",
+      "topics": [
+        "assets",
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "Free / `tabbied` package and repo MIT; patterns you generate are yours for personal and commercial use",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "fffuel",
+        "playgrnd",
+        "paper-shaders",
+        "shadercn"
+      ]
+    },
+    {
       "slug": "taste-skill",
       "path": "sites/taste-skill.md",
       "title": "Taste Skill",
@@ -5038,6 +5210,36 @@
         "uisfx",
         "kinetics",
         "laws-of-ux"
+      ]
+    },
+    {
+      "slug": "venust-backgrounds",
+      "path": "sites/venust-backgrounds.md",
+      "title": "Venust Backgrounds",
+      "description": "CC0 AI hero backgrounds sorted by page slot, each with its prompt; llms.txt and Markdown for agents.",
+      "url": "https://backgrounds.venust.ai",
+      "type": "asset-library",
+      "formats": "asset library · AI prompts · hero builder",
+      "topics": [
+        "assets",
+        "agents-and-prompts",
+        "landing-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "Free, no account / images and saved prompts under CC0 1.0 (site code, fonts and brand marks excluded)",
+      "licence_class": "public-domain",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "backgrounds-supply",
+        "supahero",
+        "kage",
+        "fffuel"
       ]
     },
     {
