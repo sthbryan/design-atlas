@@ -22,6 +22,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 <!-- atlas:sources:start -->
 - [Agentation](../sites/agentation.md) — React toolbar that turns click-to-annotate feedback into selectors and file paths agents can act on over MCP.
 - [agentcn](../sites/agentcn.md) — Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
+- [Fluid Functionalism](../sites/fluid-functionalism.md) — Spring-driven shadcn registry (Radix or Base UI) with proximity hover, AI chat parts and copy prompts.
 - [Kobra](../sites/kobra.md) — Proprietary component system for AI and agent product interfaces, with an llms.txt index and a markdown API per component.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
 - [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.

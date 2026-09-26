@@ -23,10 +23,13 @@ Component libraries, registries and design systems for building UI — from sing
 - [21st.dev](../sites/21st-dev.md) — Community registry of React and Tailwind components with many variants per pattern, a CLI and an MCP server.
 - [3dicons](../sites/3dicons.md) — 1,500+ CC0 rendered 3D icons with an online editor and a Figma plugin.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
+- [Amacro](../sites/amacro.md) — 86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.
+- [Amicro](../sites/amicro.md) — Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.
 - [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
 - [Astryx](../sites/astryx.md) — Meta's React design system with rich form controls, strong accessibility hooks and a plugin-based table.
 - [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
 - [Bencho](../sites/bencho.md) — 38 live, tunable React blocks whose "Copy prompt" hands an agent full source plus token-mapping instructions.
+- [Butter Nav](../sites/butter-nav.md) — Mega-menu that is one card morphing between menus, with a full rebuild prompt; no licence published.
 - [Canvas UI](../sites/canvas-ui.md) — 35 GPU effects over live, clickable HTML in WebGL or WebGPU, for six frameworks through a shadcn registry.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
 - [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
@@ -39,6 +42,8 @@ Component libraries, registries and design systems for building UI — from sing
 - [editorcn](../sites/editorcn.md) — Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
 - [emailcn](../sites/emailcn.md) — Email sections and full templates for React Email, MJML React and JSX Email, with shared themes.
 - [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
+- [Fancy Components](../sites/fancy-components.md) — Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.
+- [Fluid Functionalism](../sites/fluid-functionalism.md) — Spring-driven shadcn registry (Radix or Base UI) with proximity hover, AI chat parts and copy prompts.
 - [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
 - [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
@@ -59,6 +64,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
 - [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
 - [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
+- [Oneko](../sites/oneko.md) — Cursor-chasing pixel cat for React via shadcn, with llms.txt and an agent prompt; sprite art not relicensed.
 - [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
 - [pdfcn](../sites/pdfcn.md) — React PDF primitives and 20 invoice/report/label templates for Takumi or Forme, installed via shadcn CLI.

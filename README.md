@@ -84,12 +84,16 @@ A curated set of references for building websites and UI — galleries, componen
 | [Typeface.fyi](sites/typeface-fyi.md) | browser-extension | typography-and-styles, inspiration | niche | none | proprietary-free |
 | [TypeUI DESIGN.md Extractor](sites/design-md-chrome.md) | browser-extension | design-md, agents-and-prompts, typography-and-styles | useful | skill | open-source-permissive |
 | [Aceternity UI](sites/aceternity-ui.md) | component-library | components, motion, inspiration, landing-pages | very-useful | mcp | proprietary-paid |
+| [Amicro](sites/amicro.md) | component-library | motion, components | useful | cli, registry | open-source-permissive |
 | [Bencho](sites/bencho.md) | component-library | components, motion, inspiration | useful | prompts | open-source-permissive |
+| [Butter Nav](sites/butter-nav.md) | component-library | navigation, motion, components | useful | registry, prompts | not-stated |
 | [Canvas UI](sites/canvas-ui.md) | component-library | 3d-and-shaders, components, motion | very-useful | llms-txt, registry | source-available |
 | [CSS Text Effects](sites/css-text-effects.md) | component-library | typography-and-styles, motion | useful | prompts | open-source-permissive |
 | [editorcn](sites/editorcn.md) | component-library | components, ux-patterns | useful | llms-txt, registry, api, skill | open-source-permissive |
 | [emailcn](sites/emailcn.md) | component-library | components, typography-and-styles | useful | llms-txt, registry | open-source-permissive |
 | [Evil Buttons](sites/evil-buttons.md) | component-library | components, cta, motion | niche | llms-txt, registry | open-source-permissive |
+| [Fancy Components](sites/fancy-components.md) | component-library | components, motion, typography-and-styles | very-useful | llms-txt, registry | open-source-permissive |
+| [Fluid Functionalism](sites/fluid-functionalism.md) | component-library | components, motion, ai-interfaces | very-useful | registry, prompts | open-source-permissive |
 | [framecn](sites/framecn.md) | component-library | motion, components, 3d-and-shaders | niche | llms-txt, registry, api, skill | mixed |
 | [interior.dev](sites/interior-dev.md) | component-library | motion, components, ux-patterns, agents-and-prompts | very-useful | llms-txt, registry | open-source-permissive |
 | [Magic UI](sites/magic-ui.md) | component-library | components, motion, cta | very-useful | registry | mixed |
@@ -97,6 +101,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [MicroKit](sites/microkit.md) | component-library | components, motion | useful | none | open-source-permissive |
 | [Motion Primitives](sites/motion-primitives.md) | component-library | motion, components, typography-and-styles | useful | cli | mixed |
 | [ogimagecn](sites/ogimagecn.md) | component-library | components, assets | useful | llms-txt, registry, api, skill | open-source-permissive |
+| [Oneko](sites/oneko.md) | component-library | motion, components | niche | llms-txt, registry, prompts | mixed |
 | [pdfcn](sites/pdfcn.md) | component-library | components, typography-and-styles | useful | llms-txt, registry, api, prompts, skill | open-source-permissive |
 | [Prompt Kit](sites/prompt-kit.md) | component-library | components, ai-interfaces, agents-and-prompts | very-useful | llms-txt, registry | open-source-permissive |
 | [Rare UI](sites/rareui.md) | component-library | components, motion, navigation | useful | llms-txt, registry | source-available |
@@ -170,6 +175,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Liquid Glass](sites/liquid-glass.md) | js-library | motion, components | niche | none | not-stated |
 | [NumberFlow](sites/number-flow.md) | js-library | motion, components, typography-and-styles | very-useful | none | open-source-permissive |
 | [Paper Shaders](sites/paper-shaders.md) | js-library | 3d-and-shaders, motion, components | very-useful | llms-txt | open-source-permissive |
+| [Scritto](sites/scritto.md) | js-library | motion, typography-and-styles | useful | none | open-source-permissive |
 | [slot-text](sites/textmotion.md) | js-library | motion, typography-and-styles, components | niche | llms-txt | open-source-permissive |
 | [Torph](sites/torph.md) | js-library | motion, typography-and-styles, components | useful | none | open-source-permissive |
 | [Good UI](sites/good-ui.md) | pattern-library | cta, ux-patterns, landing-pages | useful | none | proprietary-paid |
@@ -186,6 +192,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [GetLayers](sites/getlayers.md) | template-library | 3d-and-shaders, landing-pages, motion, agents-and-prompts | useful | mcp, llms-txt, prompts, skill | proprietary-paid |
 | [Scrolltide](sites/scrolltide.md) | template-library | motion, agents-and-prompts, inspiration, landing-pages | useful | prompts | proprietary-paid |
 | [Agentation](sites/agentation.md) | tool | agents-and-prompts, ai-interfaces | very-useful | mcp, skill | source-available |
+| [Amacro](sites/amacro.md) | tool | motion, components | niche | none | open-source-permissive |
 | [Color.review](sites/color-review.md) | tool | color, typography-and-styles | useful | none | not-stated |
 | [compute.toys](sites/compute-toys.md) | tool | 3d-and-shaders, inspiration | niche | none | mixed |
 | [design.dev](sites/design-dev.md) | tool | agents-and-prompts, design-md, components | useful | llms-txt, prompts, skill | proprietary-free |

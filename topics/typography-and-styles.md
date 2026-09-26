@@ -33,6 +33,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [DesignMD.cc](../sites/designmd-cc.md) — Free URL-to-DESIGN.md generator measuring live CSS, with an MIT CLI and a benchmark library.
 - [designmd.supply](../sites/designmd-supply.md) — Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
 - [emailcn](../sites/emailcn.md) — Email sections and full templates for React Email, MJML React and JSX Email, with shared themes.
+- [Fancy Components](../sites/fancy-components.md) — Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.
 - [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
 - [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
 - [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
@@ -53,6 +54,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
 - [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
 - [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
+- [Scritto](../sites/scritto.md) — MIT web component that animates only the characters that change in any string.
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
 - [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
 - [Stitch Skills](../sites/stitch-skills.md) — Google Labs' Stitch skills and source of the "Stitch format"; three DESIGN.md writers with different layouts.

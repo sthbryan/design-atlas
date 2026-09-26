@@ -16,6 +16,7 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 ## All sources
 
 <!-- atlas:sources:start -->
+- [Butter Nav](../sites/butter-nav.md) — Mega-menu that is one card morphing between menus, with a full rebuild prompt; no licence published.
 - [Navbar Gallery](../sites/navbar-gallery.md) — Real examples of every major navbar pattern (sticky, mega menu, sidebar, tabs and more), plus a blog on when to use each.
 - [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
 <!-- atlas:sources:end -->

@@ -22,9 +22,12 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 <!-- atlas:sources:start -->
 - [60fps](../sites/60fps.md) — About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
+- [Amacro](../sites/amacro.md) — 86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.
+- [Amicro](../sites/amicro.md) — Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.
 - [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie/SVG/GIF icons; free tier plus one-time All-Access, no attribution needed.
 - [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
 - [Bencho](../sites/bencho.md) — 38 live, tunable React blocks whose "Copy prompt" hands an agent full source plus token-mapping instructions.
+- [Butter Nav](../sites/butter-nav.md) — Mega-menu that is one card morphing between menus, with a full rebuild prompt; no licence published.
 - [Canvas UI](../sites/canvas-ui.md) — 35 GPU effects over live, clickable HTML in WebGL or WebGPU, for six frameworks through a shadcn registry.
 - [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
@@ -38,6 +41,8 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Easing Wizard](../sites/easing-wizard.md) — Visual CSS easing editor (Bézier, spring, bounce) with a free REST API, MCP server and Claude Code plugin.
 - [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
 - [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
+- [Fancy Components](../sites/fancy-components.md) — Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.
+- [Fluid Functionalism](../sites/fluid-functionalism.md) — Spring-driven shadcn registry (Radix or Base UI) with proximity hover, AI chat parts and copy prompts.
 - [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
 - [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
 - [glimm](../sites/glimm.md) — WebGL colour-band page transitions for React/Next.js, with a copyable agent prompt.
@@ -57,11 +62,13 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
 - [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
+- [Oneko](../sites/oneko.md) — Cursor-chasing pixel cat for React via shadcn, with llms.txt and an agent prompt; sprite art not relicensed.
 - [OpenMotion](../sites/openmotion.md) — Free closed desktop app that drives your Claude Code or Codex CLI to turn a brief into editable launch videos; nothing for your own agent to call.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
 - [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
+- [Scritto](../sites/scritto.md) — MIT web component that animates only the characters that change in any string.
 - [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
 - [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
 - [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.

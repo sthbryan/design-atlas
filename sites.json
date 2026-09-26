@@ -399,6 +399,62 @@
       ]
     },
     {
+      "slug": "amacro",
+      "path": "sites/amacro.md",
+      "title": "Amacro",
+      "description": "86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.",
+      "url": "https://amacro.vercel.app",
+      "type": "tool",
+      "formats": "snippet playground",
+      "topics": [
+        "motion",
+        "components"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "free; the README shows an MIT badge, but no LICENSE file was in the repository at review time",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "amicro",
+        "transitions-dev",
+        "60fps",
+        "animejs"
+      ]
+    },
+    {
+      "slug": "amicro",
+      "path": "sites/amicro.md",
+      "title": "Amicro",
+      "description": "Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.",
+      "url": "https://amicro.vercel.app",
+      "type": "component-library",
+      "formats": "component library (shadcn registry, CLI)",
+      "topics": [
+        "motion",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "cli",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (copyright Syed Subhan Uddin), sponsorship via Polar",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "transitions-dev",
+        "circle-loaders",
+        "microkit",
+        "motion-primitives",
+        "amacro"
+      ]
+    },
+    {
       "slug": "animated-icons",
       "path": "sites/animated-icons.md",
       "title": "Animated Icons",
@@ -682,6 +738,36 @@
         "shaderfrog",
         "compute-toys",
         "orbkit"
+      ]
+    },
+    {
+      "slug": "butter-nav",
+      "path": "sites/butter-nav.md",
+      "title": "Butter Nav",
+      "description": "Mega-menu that is one card morphing between menus, with a full rebuild prompt; no licence published.",
+      "url": "https://butter-nav.vercel.app",
+      "type": "component-library",
+      "formats": "component (shadcn registry item)",
+      "topics": [
+        "navigation",
+        "motion",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry",
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "free to install; licence not stated on the site or in the registry item",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "navbar-gallery",
+        "rareui",
+        "transitions-dev",
+        "motion-primitives"
       ]
     },
     {
@@ -1839,6 +1925,37 @@
       ]
     },
     {
+      "slug": "fancy-components",
+      "path": "sites/fancy-components.md",
+      "title": "Fancy Components",
+      "description": "Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.",
+      "url": "https://www.fancycomponents.dev",
+      "type": "component-library",
+      "formats": "component library (shadcn registry)",
+      "topics": [
+        "components",
+        "motion",
+        "typography-and-styles"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (copyright Daniel Petho), personal and commercial use allowed",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "reactbits",
+        "motion-primitives",
+        "css-text-effects",
+        "rareui",
+        "magic-ui"
+      ]
+    },
+    {
       "slug": "fffuel",
       "path": "sites/fffuel.md",
       "title": "Fffuel",
@@ -1862,6 +1979,37 @@
         "3dicons",
         "liquid-glass",
         "huetone"
+      ]
+    },
+    {
+      "slug": "fluid-functionalism",
+      "path": "sites/fluid-functionalism.md",
+      "title": "Fluid Functionalism",
+      "description": "Spring-driven shadcn registry (Radix or Base UI) with proximity hover, AI chat parts and copy prompts.",
+      "url": "https://www.fluidfunctionalism.com",
+      "type": "component-library",
+      "formats": "component library (shadcn registry)",
+      "topics": [
+        "components",
+        "motion",
+        "ai-interfaces"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "registry",
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (copyright Micka Touillaud)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "prompt-kit",
+        "interior-dev",
+        "motion-primitives",
+        "rareui"
       ]
     },
     {
@@ -3238,6 +3386,35 @@
       ]
     },
     {
+      "slug": "oneko",
+      "path": "sites/oneko.md",
+      "title": "Oneko",
+      "description": "Cursor-chasing pixel cat for React via shadcn, with llms.txt and an agent prompt; sprite art not relicensed.",
+      "url": "https://oneko.dhrv.pw",
+      "type": "component-library",
+      "formats": "component (shadcn registry item)",
+      "topics": [
+        "motion",
+        "components"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt",
+        "registry",
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "free; code MIT, but the bundled sprite art keeps its original owners' terms",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "evil-buttons",
+        "404s",
+        "fancy-components"
+      ]
+    },
+    {
       "slug": "open-design",
       "path": "sites/open-design.md",
       "title": "OpenDesign",
@@ -3688,6 +3865,32 @@
         "21st-dev",
         "vibeprompts",
         "kage"
+      ]
+    },
+    {
+      "slug": "scritto",
+      "path": "sites/scritto.md",
+      "title": "Scritto",
+      "description": "MIT web component that animates only the characters that change in any string.",
+      "url": "https://scrit.to",
+      "type": "js-library",
+      "formats": "JS library",
+      "topics": [
+        "motion",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "free; MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "number-flow",
+        "torph",
+        "textmotion",
+        "motion-primitives"
       ]
     },
     {
