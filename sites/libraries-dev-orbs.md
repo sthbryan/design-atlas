@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Libraries.dev: Thinking orbs
 
 - **URL:** https://libraries.dev/orbs
 - **Type:** JavaScript library (React), part of the Libraries.dev collection
-- **Topics:** motion, components, agents and prompts
+- **Topics:** motion, components, agents-and-prompts, ai-interfaces
 - **Pricing / licence:** `thinking-orbs` is MIT and free on npm; Libraries Pro ($9/mo solo, $39/mo for a 5-seat team, or lifetime $149 / $499) adds the Studio, Pro presets, the Pro agent skill and a commercial licence for Pro content
 - **Reviewed:** 2026-09-25
 

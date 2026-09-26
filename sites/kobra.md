@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Kobra
 
 - **URL:** https://kobra.systems
 - **Type:** design system
-- **Topics:** components, agents-and-prompts, documentation
+- **Topics:** components, agents-and-prompts, ai-interfaces
 - **Pricing / licence:** Proprietary / commercial; free tier for personal use only, paid tiers grant commercial use, no OSS licence or redistribution
 - **Reviewed:** 2026-09-25
 
