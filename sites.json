@@ -119,6 +119,12 @@
       "path": "topics/agent-skills.md",
       "title": "Agent skills",
       "description": "installable skills and skill collections that give coding agents design, motion, accessibility and writing rules."
+    },
+    {
+      "slug": "data-viz",
+      "path": "topics/data-viz.md",
+      "title": "Data viz",
+      "description": "chart components, dashboard blocks and small data displays for product UI."
     }
   ],
   "sites": [

@@ -129,3 +129,4 @@ Component libraries, registries and design systems for building UI — from sing
 - [UX patterns](ux-patterns.md)
 - [3D and shaders](3d-and-shaders.md)
 - [Sound](sound.md)
+- [Data viz](data-viz.md)

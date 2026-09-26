@@ -34,6 +34,7 @@ A curated set of references for building websites and UI — galleries, componen
 - [Sound](topics/sound.md) — interface sound cues, synthesis libraries and sound-enabled components.
 - [Agents and prompts](topics/agents-and-prompts.md) — sites built to be consumed directly by coding agents (MCP, llms.txt, CLIs, prompts).
 - [Agent skills](topics/agent-skills.md) — installable skills and skill collections that give coding agents design, motion, accessibility and writing rules.
+- [Data viz](topics/data-viz.md) — chart components, dashboard blocks and small data displays for product UI.
 <!-- atlas:topics:end -->
 
 ## All sites
