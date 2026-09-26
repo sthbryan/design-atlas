@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../README.md) · Topics: [sound](../topics/sound.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # UI SFX
 
 - **URL:** https://uisfx.com
 - **Type:** sound library · JS library
-- **Topics:** assets, agents-and-prompts
+- **Topics:** sound, assets, agents-and-prompts
 - **Pricing / licence:** Free / runtime code MIT, audio CC0 (GitHub Sponsors optional)
 - **Reviewed:** 2026-09-25
 
