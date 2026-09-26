@@ -161,6 +161,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [The Component Gallery](sites/component-gallery.md) | documentation | components, documentation | very-useful | none | not-stated |
 | [404s](sites/404s.md) | gallery | error-pages, inspiration | niche | llms-txt | not-stated |
 | [60fps](sites/60fps.md) | gallery | inspiration, motion, agents-and-prompts | very-useful | mcp, llms-txt | proprietary-paid |
+| [Appinspo](sites/appinspo.md) | gallery | inspiration, agents-and-prompts, design-md | useful | prompts | not-stated |
 | [AppShot Gallery](sites/appshot-gallery.md) | gallery | inspiration, assets | niche | none | not-stated |
 | [Browse.cool](sites/browse-cool.md) | gallery | inspiration, typography-and-styles, motion | niche | none | not-stated |
 | [Collect UI](sites/collect-ui.md) | gallery | inspiration, components, motion | useful | none | not-stated |
@@ -172,7 +173,9 @@ A curated set of references for building websites and UI — galleries, componen
 | [Details](sites/details.md) | gallery | inspiration, motion, landing-pages, agents-and-prompts | very-useful | mcp, llms-txt | proprietary-paid |
 | [Footer Design](sites/footer-design.md) | gallery | footers, inspiration | niche | none | not-stated |
 | [Gradient Buttons](sites/gradient-buttons.md) | gallery | components, typography-and-styles | niche | none | not-stated |
+| [Great Apps](sites/great-apps.md) | gallery | inspiration, ux-patterns | niche | none | not-stated |
 | [Hover States](sites/hover-states.md) | gallery | inspiration, motion, navigation | useful | none | proprietary-free |
+| [Icon Museum](sites/icon-museum.md) | gallery | icons, inspiration, color | useful | none | not-stated |
 | [Inspora](sites/inspora.md) | gallery | inspiration, typography-and-styles | niche | llms-txt | not-stated |
 | [Kage](sites/kage.md) | gallery | inspiration, agents-and-prompts, components | very-useful | mcp, prompts | not-stated |
 | [Lab01](sites/lab01.md) | gallery | inspiration, components, typography-and-styles | niche | none | not-stated |
@@ -180,6 +183,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Loader Buttons](sites/loader-buttons.md) | gallery | components, cta, motion, 3d-and-shaders | niche | none | not-stated |
 | [loadmo.re](sites/loadmore.md) | gallery | inspiration, typography-and-styles, motion | useful | none | proprietary-free |
 | [Minimal Gallery](sites/minimal-gallery.md) | gallery | inspiration, typography-and-styles | useful | none | not-stated |
+| [Mobbin](sites/mobbin.md) | gallery | inspiration, ux-patterns, agents-and-prompts | very-useful | mcp, llms-txt, api | proprietary-paid |
 | [Motionimo](sites/motionimo.md) | gallery | motion, inspiration | niche | llms-txt | not-stated |
 | [Navbar Gallery](sites/navbar-gallery.md) | gallery | navigation, inspiration | niche | llms-txt | not-stated |
 | [Painting Loaders](sites/painterly.md) | gallery | motion, components, assets | niche | none | not-stated |

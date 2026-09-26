@@ -693,6 +693,35 @@
       ]
     },
     {
+      "slug": "appinspo",
+      "path": "sites/appinspo.md",
+      "title": "Appinspo",
+      "description": "A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.",
+      "url": "https://appinspo.com",
+      "type": "gallery",
+      "formats": "inspiration gallery · screenshot-to-style-brief generator",
+      "topics": [
+        "inspiration",
+        "agents-and-prompts",
+        "design-md"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse. The AI brief tool gives 5 free briefs with an account, and an unlimited tier at $9 was marked \"coming soon\" at review. No licence for the images: the footer says all content belongs to its original owners",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "refero-styles",
+        "getdesign-md",
+        "collect-ui",
+        "mobbin"
+      ]
+    },
+    {
       "slug": "appshot-gallery",
       "path": "sites/appshot-gallery.md",
       "title": "AppShot Gallery",
@@ -2739,6 +2768,32 @@
       ]
     },
     {
+      "slug": "great-apps",
+      "path": "sites/great-apps.md",
+      "title": "Great Apps",
+      "description": "A small, opinionated gallery of about 216 well-crafted indie iOS apps, from the curator of Sections.wtf.",
+      "url": "https://greatapps.fyi",
+      "type": "gallery",
+      "formats": "curated app showcase",
+      "topics": [
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, no account needed / Not stated. Screenshots and icons belong to the apps shown",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "sections-wtf",
+        "appshot-gallery",
+        "icon-museum",
+        "mobbin"
+      ]
+    },
+    {
       "slug": "hallmark",
       "path": "sites/hallmark.md",
       "title": "Hallmark",
@@ -3002,6 +3057,33 @@
         "icons0",
         "iconoir",
         "hugeicons"
+      ]
+    },
+    {
+      "slug": "icon-museum",
+      "path": "sites/icon-museum.md",
+      "title": "Icon Museum",
+      "description": "A hand-picked archive of 245 crafted iOS app icons with copyable palettes, designer credits and redesign history.",
+      "url": "https://icon.museum",
+      "type": "gallery",
+      "formats": "app icon gallery",
+      "topics": [
+        "icons",
+        "inspiration",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, no account needed / No licence for the icons: the site says names, trademarks and icons belong to their owners. The press kit (screenshots, logo, demo clips) may be used in articles with credit",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "appshot-gallery",
+        "recent-design",
+        "3dicons",
+        "great-apps"
       ]
     },
     {
@@ -4057,6 +4139,38 @@
         "kage",
         "designeer",
         "appshot-gallery"
+      ]
+    },
+    {
+      "slug": "mobbin",
+      "path": "sites/mobbin.md",
+      "title": "Mobbin",
+      "description": "The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.",
+      "url": "https://mobbin.com",
+      "type": "gallery",
+      "formats": "screen and flow library · MCP server · REST API",
+      "topics": [
+        "inspiration",
+        "ux-patterns",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "Freemium. Free is limited (no flows, search or MCP, 3 collections); Pro is $10/month billed yearly or $15/month billed quarterly and includes MCP; Team is $16–24 per member per month and adds the REST API. Screens stay the property of the apps shown, and the proprietary terms restrict reuse",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "collect-ui",
+        "good-ui",
+        "laws-of-ux",
+        "appshot-gallery",
+        "appinspo"
       ]
     },
     {
