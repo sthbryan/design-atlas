@@ -1,12 +1,22 @@
+---
+title: Color.review
+description: WCAG 2.1 contrast checker with pass/fail lines on the picker and shareable pair links.
+url: https://color.review
+type: tool
+formats: tool
+topics: [color, typography-and-styles]
+verdict: useful
+agent: []
+pricing: free
+licence: Free / licence and terms not stated
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [huetone, ramps, oklch]
+---
 [← Atlas](../README.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Color.review
-
-- **URL:** https://color.review
-- **Type:** tool
-- **Topics:** color, typography-and-styles
-- **Pricing / licence:** Free / licence and terms not stated
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: Craftwork
+description: 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
+url: https://craftwork.design
+type: asset-library
+formats: asset marketplace · MCP server
+topics: [assets, agents-and-prompts, typography-and-styles]
+verdict: very-useful
+agent: [mcp, api, skill]
+pricing: freemium
+licence: "Freebies plus paid packs (roughly $8–$160 on the homepage); Pro from $49/month or $199/year ($69/$299 for teams). Proprietary licence: commercial use for teams of up to 20, no redistribution or resale in templates"
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [kitbitz, 3dicons, designeer, kage]
+---
 [← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Craftwork
-
-- **URL:** https://craftwork.design
-- **Type:** asset marketplace · MCP server
-- **Topics:** assets, agents-and-prompts, typography-and-styles
-- **Pricing / licence:** Freebies plus paid packs (roughly $8–$160 on the homepage); Pro from $49/month or $199/year ($69/$299 for teams). Proprietary licence: commercial use for teams of up to 20, no redistribution or resale in templates
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

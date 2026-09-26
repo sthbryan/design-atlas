@@ -1,12 +1,22 @@
+---
+title: Vessa
+description: Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
+url: https://vessa.design
+type: tool
+formats: tool · brand guideline builder · MCP
+topics: [design-md, agents-and-prompts, typography-and-styles, motion]
+verdict: useful
+agent: [mcp, llms-txt]
+pricing: freemium
+licence: "Building is free. You pay once per brand when you publish: €19.50 (a launch price, down from €39) or €97.50 for five brands, plus VAT. Prices are halved in some regions, there is no subscription, and refunds are available within 14 days. Per the Terms, you keep ownership of what you upload, you are responsible for font licences, and German law applies. No licence is given for reusing other people's published guidelines."
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [getdesign-md, designmd, refero-styles, open-design, dialkit]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
 
 # Vessa
-
-- **URL:** https://vessa.design
-- **Type:** tool · brand guideline builder · MCP
-- **Topics:** design-md, agents-and-prompts, typography-and-styles, motion
-- **Pricing / licence:** Building is free. You pay once per brand when you publish: €19.50 (a launch price, down from €39) or €97.50 for five brands, plus VAT. Prices are halved in some regions, there is no subscription, and refunds are available within 14 days. Per the Terms, you keep ownership of what you upload, you are responsible for font licences, and German law applies. No licence is given for reusing other people's published guidelines.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

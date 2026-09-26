@@ -1,12 +1,22 @@
+---
+title: Supahero
+description: About 570 real website hero sections on one page, searchable by name but with no filters.
+url: https://supahero.io
+type: gallery
+formats: inspiration gallery
+topics: [inspiration, landing-pages, cta]
+verdict: niche
+agent: []
+pricing: free
+licence: Free to browse; paid placements from $79 to $279 per 30 days for featured listings. No reuse licence is stated ("all rights reserved" footer); the heroes belong to the sites shown
+licence_class: proprietary-free
+reviewed: 2026-09-25
+status: active
+related: [cta-gallery, navbar-gallery, footer-design, vibeui, minimal-gallery]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [cta](../topics/cta.md)
 
 # Supahero
-
-- **URL:** https://supahero.io
-- **Type:** inspiration gallery
-- **Topics:** inspiration, landing-pages, cta
-- **Pricing / licence:** Free to browse; paid placements from $79 to $279 per 30 days for featured listings. No reuse licence is stated ("all rights reserved" footer); the heroes belong to the sites shown
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

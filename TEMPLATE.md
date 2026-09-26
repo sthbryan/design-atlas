@@ -1,10 +1,20 @@
+---
+title: Site name
+description: One line in your own words, at most 160 characters, saying what the site is and why you would open it.
+url: https://example.com
+type: gallery
+formats: free-text detail of what it offers, for example component library · shadcn registry · MCP server
+topics: [inspiration]
+verdict: useful
+agent: []
+pricing: free
+licence: What the site states about pricing and licence, in your own words, with "at review" next to any count.
+licence_class: not-stated
+reviewed: YYYY-MM-DD
+status: active
+related: [shadcn-ui]
+---
 # Site name
-
-- **URL:** https://
-- **Type:** gallery · component library · registry · prompts · assets · JS library · tool
-- **Topics:** navigation, footers, cta, error pages, motion, components, documentation, typography, assets, agents…
-- **Pricing / licence:**
-- **Reviewed:** YYYY-MM-DD
 
 ## What it is
 

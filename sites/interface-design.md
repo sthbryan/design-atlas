@@ -1,12 +1,22 @@
+---
+title: Interface Design
+description: Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
+url: https://interface-design.dev
+type: agent-skill
+formats: agent skill · Claude Code plugin with two review commands
+topics: [agents-and-prompts, components, typography-and-styles, ux-patterns]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: free. MIT, © 2026 Damola Akinleye (GitHub `Dammyjay93/interface-design`, about 5.7k stars and about 27.6k skills.sh installs at review). Last change 2026-06-20.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [impeccable, hallmark, ui-skills, design-lab, designer-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Interface Design
-
-- **URL:** https://interface-design.dev
-- **Type:** agent skill · Claude Code plugin with two review commands
-- **Topics:** agents-and-prompts, components, typography-and-styles, ux-patterns
-- **Pricing / licence:** free. MIT, © 2026 Damola Akinleye (GitHub `Dammyjay93/interface-design`, about 5.7k stars and about 27.6k skills.sh installs at review). Last change 2026-06-20.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

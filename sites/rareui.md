@@ -1,12 +1,22 @@
+---
+title: Rare UI
+description: About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
+url: https://rareui.com
+type: component-library
+formats: component library (shadcn registry)
+topics: [components, motion, navigation]
+verdict: useful
+agent: [llms-txt, registry]
+pricing: free
+licence: free, sponsor-funded; code under "MIT + Commons Clause + Attribution" (commercial use allowed, reselling or redistributing the components is not, and shipped projects must show a visible credit link)
+licence_class: source-available
+reviewed: 2026-09-25
+status: active
+related: [motion-primitives, aceternity-ui, magic-ui, shadcn-ui, libraries-dev-orbs]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [navigation](../topics/navigation.md)
 
 # Rare UI
-
-- **URL:** https://rareui.com
-- **Type:** component library (shadcn registry)
-- **Topics:** components, motion, navigation
-- **Pricing / licence:** free, sponsor-funded; code under "MIT + Commons Clause + Attribution" (commercial use allowed, reselling or redistributing the components is not, and shipped projects must show a visible credit link)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

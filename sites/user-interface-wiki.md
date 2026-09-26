@@ -1,12 +1,22 @@
+---
+title: User Interface Wiki
+description: Raphael Salaja's nine demo-rich articles on motion, sound and type, installable as a 152-rule agent skill.
+url: https://www.userinterface.wiki
+type: guidelines
+formats: guidelines · agent skill
+topics: [motion, ux-patterns, sound, agents-and-prompts]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: Free, no account. The GitHub repo (`raphaelsalaja/userinterface-wiki`), including the articles and the agent skill, is MIT (© 2026 Raphael Salaja).
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [dialkit, motion-primitives, uisfx, kinetics, laws-of-ux]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md), [sound](../topics/sound.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # User Interface Wiki
-
-- **URL:** https://www.userinterface.wiki
-- **Type:** guidelines · agent skill
-- **Topics:** motion, ux-patterns, sound, agents-and-prompts
-- **Pricing / licence:** Free, no account. The GitHub repo (`raphaelsalaja/userinterface-wiki`), including the articles and the agent skill, is MIT (© 2026 Raphael Salaja).
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

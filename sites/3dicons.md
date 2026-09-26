@@ -1,12 +1,22 @@
+---
+title: 3dicons
+description: 1,500+ CC0 rendered 3D icons with an online editor and a Figma plugin.
+url: https://3dicons.co
+type: icon-library
+formats: asset library
+topics: [icons, assets, components]
+verdict: useful
+agent: []
+pricing: freemium
+licence: CC0 / Free (Pro available)
+licence_class: public-domain
+reviewed: 2026-09-25
+status: active
+related: [kitbitz, circle-loaders, gradient-buttons]
+---
 [← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [components](../topics/components.md)
 
 # 3dicons
-
-- **URL:** https://3dicons.co
-- **Type:** asset library
-- **Topics:** icons, assets, components
-- **Pricing / licence:** CC0 / Free (Pro available)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

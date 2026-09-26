@@ -1,12 +1,22 @@
+---
+title: UI SFX
+description: 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
+url: https://uisfx.com
+type: sound-library
+formats: sound library · JS library
+topics: [sound, assets, agents-and-prompts]
+verdict: useful
+agent: [llms-txt, prompts]
+pricing: free
+licence: Free / runtime code MIT, audio CC0 (GitHub Sponsors optional)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [useanimations, animated-icons, kinetics, vibeprompts]
+---
 [← Atlas](../README.md) · Topics: [sound](../topics/sound.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # UI SFX
-
-- **URL:** https://uisfx.com
-- **Type:** sound library · JS library
-- **Topics:** sound, assets, agents-and-prompts
-- **Pricing / licence:** Free / runtime code MIT, audio CC0 (GitHub Sponsors optional)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

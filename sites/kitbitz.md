@@ -1,12 +1,22 @@
+---
+title: Kitbitz
+description: 2,000+ hand-drawn illustrations with an artisanal, non-digital feel, free with no login required.
+url: https://kitbitz.art
+type: asset-library
+formats: asset library
+topics: [assets, components]
+verdict: useful
+agent: []
+pricing: free
+licence: Free / Not specified
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [3dicons, circle-loaders]
+---
 [← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [components](../topics/components.md)
 
 # Kitbitz
-
-- **URL:** https://kitbitz.art
-- **Type:** asset library
-- **Topics:** assets, components
-- **Pricing / licence:** Free / Not specified
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

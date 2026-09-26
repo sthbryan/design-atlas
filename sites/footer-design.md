@@ -1,12 +1,22 @@
+---
+title: Footer Design
+description: Gallery dedicated to footers, filtered by style, with an Editor's Choice flag.
+url: https://footer.design
+type: gallery
+formats: inspiration gallery
+topics: [footers, inspiration]
+verdict: niche
+agent: []
+pricing: free
+licence: Not stated (free to browse; includes a sponsored content section)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [navbar-gallery, cta-gallery, 404s]
+---
 [← Atlas](../README.md) · Topics: [footers](../topics/footers.md), [inspiration](../topics/inspiration.md)
 
 # Footer Design
-
-- **URL:** https://footer.design
-- **Type:** inspiration gallery
-- **Topics:** footers, inspiration
-- **Pricing / licence:** Not stated (free to browse; includes a sponsored content section)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

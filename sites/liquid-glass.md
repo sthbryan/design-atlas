@@ -1,12 +1,22 @@
+---
+title: Liquid Glass
+description: DOM-manipulation tool for real-time refractive "liquid glass" distortion effects.
+url: https://glass.samasante.com
+type: js-library
+formats: library / tool
+topics: [motion, components]
+verdict: niche
+agent: []
+pricing: not-stated
+licence: Not specified
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [kinetics, css-text-effects, animejs]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md)
 
 # Liquid Glass
-
-- **URL:** https://glass.samasante.com
-- **Type:** library / tool
-- **Topics:** motion, components
-- **Pricing / licence:** Not specified
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

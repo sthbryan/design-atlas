@@ -1,12 +1,22 @@
+---
+title: The Book of Shaders
+description: Classic step-by-step guide to fragment shaders with editable live examples; learning only, all rights reserved.
+url: https://thebookofshaders.com
+type: documentation
+formats: Documentation
+topics: [3d-and-shaders, documentation]
+verdict: very-useful
+agent: []
+pricing: free
+licence: "Free to read / all rights reserved: no rehosting, redistribution, or use in any product or project, commercial or not; linking with attribution and unmodified screenshots is allowed for teaching"
+licence_class: proprietary-free
+reviewed: 2026-09-25
+status: active
+related: [paper-shaders, shaderfrog, compute-toys, orbkit]
+---
 [← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [documentation](../topics/documentation.md)
 
 # The Book of Shaders
-
-- **URL:** https://thebookofshaders.com
-- **Type:** Documentation
-- **Topics:** 3d-and-shaders, documentation
-- **Pricing / licence:** Free to read / all rights reserved: no rehosting, redistribution, or use in any product or project, commercial or not; linking with attribution and unmodified screenshots is allowed for teaching
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

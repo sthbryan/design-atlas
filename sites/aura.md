@@ -1,12 +1,22 @@
+---
+title: Aura
+description: AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
+url: https://aura.build
+type: ai-builder
+formats: AI website builder · template, component and asset library · DESIGN.md library · MCP
+topics: [agents-and-prompts, design-md, components, assets]
+verdict: useful
+agent: [mcp]
+pricing: freemium
+licence: the Free plan has no AI prompts, 2 pages per project and personal use only, but you can remix free templates, export HTML and copy their DESIGN.md and prompts. Paid plans (3-day trial with 20 prompts, card required) are Pro $25, Max $50 and Ultra $100 per month, half that billed yearly, plus Elite in the comparison table. These add commercial use, Figma export and Pro templates. Extra credits are sold as one-off packs (for example 200 for $50). The terms say you keep the rights to content you post but grant Aura a licence to use and display it. No per-item licence is stated for community DESIGN.md files.
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [neuform, designmd, refero-styles, 21st-dev, vibeprompts, open-design]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [components](../topics/components.md), [assets](../topics/assets.md)
 
 # Aura
-
-- **URL:** https://aura.build
-- **Type:** AI website builder · template, component and asset library · DESIGN.md library · MCP
-- **Topics:** agents-and-prompts, design-md, components, assets
-- **Pricing / licence:** the Free plan has no AI prompts, 2 pages per project and personal use only, but you can remix free templates, export HTML and copy their DESIGN.md and prompts. Paid plans (3-day trial with 20 prompts, card required) are Pro $25, Max $50 and Ultra $100 per month, half that billed yearly, plus Elite in the comparison table. These add commercial use, Figma export and Pro templates. Extra credits are sold as one-off packs (for example 200 for $50). The terms say you keep the rights to content you post but grant Aura a licence to use and display it. No per-item licence is stated for community DESIGN.md files.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

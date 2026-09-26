@@ -1,12 +1,22 @@
+---
+title: extract-design-system
+description: Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
+url: https://github.com/arvindrk/extract-design-system
+type: agent-skill
+formats: agent skill · CLI · MCP server
+topics: [agents-and-prompts, design-md, color]
+verdict: useful
+agent: [mcp, cli, skill]
+pricing: free
+licence: free. MIT (repo `LICENSE`; npm `extract-design-system` 0.1.11). About 227 GitHub stars and 129.5k skills.sh installs at review. Extraction runs through the MIT `dembrandt` package.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [designmd-cc, designmd-supply, design-md-chrome, design-dna, stitch-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [color](../topics/color.md)
 
 # extract-design-system
-
-- **URL:** https://github.com/arvindrk/extract-design-system
-- **Type:** agent skill · CLI · MCP server
-- **Topics:** agents-and-prompts, design-md, color
-- **Pricing / licence:** free. MIT (repo `LICENSE`; npm `extract-design-system` 0.1.11). About 227 GitHub stars and 129.5k skills.sh installs at review. Extraction runs through the MIT `dembrandt` package.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

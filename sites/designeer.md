@@ -1,12 +1,22 @@
+---
+title: Designeer
+description: Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
+url: https://designeer.xyz
+type: directory
+formats: directory · discovery tool
+topics: [inspiration, components, assets]
+verdict: useful
+agent: []
+pricing: free
+licence: Not stated (free to browse; includes sponsors like Loops)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [minimal-gallery, component-gallery, kage, scrolltide, appshot-gallery]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [assets](../topics/assets.md)
 
 # Designeer
-
-- **URL:** https://designeer.xyz
-- **Type:** directory · discovery tool
-- **Topics:** inspiration, components, assets
-- **Pricing / licence:** Not stated (free to browse; includes sponsors like Loops)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

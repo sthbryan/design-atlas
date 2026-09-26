@@ -1,12 +1,22 @@
+---
+title: ibelick UI Skills
+description: "Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor."
+url: https://github.com/ibelick/ui-skills
+type: agent-skill-collection
+formats: agent skill collection · CLI · MCP
+topics: [agents-and-prompts, ux-patterns, motion, design-md]
+verdict: very-useful
+agent: [mcp, cli, skill]
+pricing: free
+licence: free. MIT (repo-root `LICENSE`; about 9.1k stars at review, last push 2026-09-22). The `ui-skills` npm CLI (0.2.4) is MIT too.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [ui-skills, motion-primitives, prompt-kit, vercel-web-design-guidelines, impeccable, designmd]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [motion](../topics/motion.md), [design-md](../topics/design-md.md)
 
 # ibelick UI Skills
-
-- **URL:** https://github.com/ibelick/ui-skills
-- **Type:** agent skill collection · CLI · MCP
-- **Topics:** agents-and-prompts, ux-patterns, motion, design-md
-- **Pricing / licence:** free. MIT (repo-root `LICENSE`; about 9.1k stars at review, last push 2026-09-22). The `ui-skills` npm CLI (0.2.4) is MIT too.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

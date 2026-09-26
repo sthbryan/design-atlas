@@ -1,12 +1,22 @@
+---
+title: "@web-kits/audio"
+description: Declarative Web Audio synthesis with JSON sound patches, a CLI, llms.txt and a create-sound agent skill.
+url: https://audio.raphaelsalaja.com
+type: js-library
+formats: JS library (npm) · CLI
+topics: [sound, agents-and-prompts]
+verdict: very-useful
+agent: [llms-txt, cli, skill]
+pricing: free
+licence: free, MIT / Open source (Buy Me a Coffee optional)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [cuelume, uisfx, sensory-ui, soundcn, dialkit]
+---
 [← Atlas](../README.md) · Topics: [sound](../topics/sound.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # @web-kits/audio
-
-- **URL:** https://audio.raphaelsalaja.com
-- **Type:** JS library (npm) · CLI
-- **Topics:** sound, agents-and-prompts
-- **Pricing / licence:** free, MIT / Open source (Buy Me a Coffee optional)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: Vercel Web Design Guidelines
+description: Tiny review skill that fetches Vercel's live Web Interface Guidelines each run and reports terse file:line findings.
+url: https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines
+type: agent-skill
+formats: agent skill (part of Vercel's `agent-skills` collection)
+topics: [agents-and-prompts, ux-patterns]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: free. The `vercel-labs/agent-skills` repo (about 31.5k stars at review) has no licence file; its README only says "MIT" in a closing line. The rules it fetches live in `vercel-labs/web-interface-guidelines`, which does ship an MIT `LICENSE` (© 2025 Vercel Labs). skills.sh counted about 667k installs for this skill, the most of any design skill we have reviewed.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [ui-skills, ibelick-ui-skills, user-interface-wiki, impeccable, accesslint-skills, addy-osmani-web-quality-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Vercel Web Design Guidelines
-
-- **URL:** https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines
-- **Type:** agent skill (part of Vercel's `agent-skills` collection)
-- **Topics:** agents-and-prompts, ux-patterns
-- **Pricing / licence:** free. The `vercel-labs/agent-skills` repo (about 31.5k stars at review) has no licence file; its README only says "MIT" in a closing line. The rules it fetches live in `vercel-labs/web-interface-guidelines`, which does ship an MIT `LICENSE` (© 2025 Vercel Labs). skills.sh counted about 667k installs for this skill, the most of any design skill we have reviewed.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

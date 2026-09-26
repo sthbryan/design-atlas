@@ -1,12 +1,22 @@
+---
+title: Carbon Design System
+description: "IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP."
+url: https://carbondesignsystem.com
+type: design-system
+formats: design system · icon library · MCP
+topics: [components, icons, documentation, agents-and-prompts]
+verdict: very-useful
+agent: [mcp, llms-txt, skill]
+pricing: free
+licence: Free. The main monorepo (`carbon-design-system/carbon`) and the npm packages, including `@carbon/icons` and `@carbon/pictograms`, are Apache-2.0. The Carbon MCP server is a free public preview, but it needs an IBMid, and people outside IBM have to request access. Apache-2.0 grants no trademark rights, so keep the IBM name and logo out of your product.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [iconoir, astryx, shadcn-ui, component-gallery, design-system-checklist]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [icons](../topics/icons.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Carbon Design System
-
-- **URL:** https://carbondesignsystem.com
-- **Type:** design system · icon library · MCP
-- **Topics:** components, icons, documentation, agents-and-prompts
-- **Pricing / licence:** Free. The main monorepo (`carbon-design-system/carbon`) and the npm packages, including `@carbon/icons` and `@carbon/pictograms`, are Apache-2.0. The Carbon MCP server is a free public preview, but it needs an IBMid, and people outside IBM have to request access. Apache-2.0 grants no trademark rights, so keep the IBM name and logo out of your product.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

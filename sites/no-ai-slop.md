@@ -1,12 +1,22 @@
+---
+title: No AI Slop
+description: Removes AI writing patterns while keeping the writer's voice, and has a detect-only mode.
+url: https://github.com/petergyang/no-ai-slop
+type: agent-skill
+formats: agent skill
+topics: [agents-and-prompts, documentation]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free. MIT (© 2026 Peter Yang; about 11.3k stars at review, last push 2026-09-02, plugin version 1.0.6). The README also promotes the author's paid courses and newsletter.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [stop-slop, antislop-ui, taste-skill, ui-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [documentation](../topics/documentation.md)
 
 # No AI Slop
-
-- **URL:** https://github.com/petergyang/no-ai-slop
-- **Type:** agent skill
-- **Topics:** agents-and-prompts, documentation
-- **Pricing / licence:** free. MIT (© 2026 Peter Yang; about 11.3k stars at review, last push 2026-09-02, plugin version 1.0.6). The README also promotes the author's paid courses and newsletter.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

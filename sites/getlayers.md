@@ -1,12 +1,22 @@
+---
+title: GetLayers
+description: Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
+url: https://www.getlayers.ai
+type: template-library
+formats: template library · prompt library · MCP
+topics: [3d-and-shaders, landing-pages, motion, agents-and-prompts]
+verdict: useful
+agent: [mcp, llms-txt, prompts, skill]
+pricing: paid
+licence: "there is a small free set, meant for trying the product, not for shipping unchanged. Unlimited (the prompt library, commercial licence) is $99/year or $139 lifetime. Full Stack (adds source code, 3D scenes, animated backgrounds, gradients with live tuning, and a private Discord) is $139/year, shown reduced from $497, or $199 lifetime, shown reduced from $759. The MCP server requires Full Stack Lifetime. Under the Terms, your licence covers what you generate, not the prompts: you may not scrape, redistribute or resell the library, and bulk or automated copying gets accounts restricted."
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [scrolltide, libraries-dev-orbs, aura, neuform, 60fps]
+---
 [← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # GetLayers
-
-- **URL:** https://www.getlayers.ai
-- **Type:** template library · prompt library · MCP
-- **Topics:** 3d-and-shaders, landing-pages, motion, agents-and-prompts
-- **Pricing / licence:** there is a small free set, meant for trying the product, not for shipping unchanged. Unlimited (the prompt library, commercial licence) is $99/year or $139 lifetime. Full Stack (adds source code, 3D scenes, animated backgrounds, gradients with live tuning, and a private Discord) is $139/year, shown reduced from $497, or $199 lifetime, shown reduced from $759. The MCP server requires Full Stack Lifetime. Under the Terms, your licence covers what you generate, not the prompts: you may not scrape, redistribute or resell the library, and bulk or automated copying gets accounts restricted.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

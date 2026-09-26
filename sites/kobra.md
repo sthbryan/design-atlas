@@ -1,12 +1,22 @@
+---
+title: Kobra
+description: Proprietary component system for AI and agent product interfaces, with an llms.txt index and a markdown API per component.
+url: https://kobra.systems
+type: design-system
+formats: design system
+topics: [components, agents-and-prompts, ai-interfaces]
+verdict: useful
+agent: [llms-txt, api]
+pricing: freemium
+licence: Proprietary / commercial; free tier for personal use only, paid tiers grant commercial use, no OSS licence or redistribution
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [shadcn-ui, aceternity-ui, component-gallery]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Kobra
-
-- **URL:** https://kobra.systems
-- **Type:** design system
-- **Topics:** components, agents-and-prompts, ai-interfaces
-- **Pricing / licence:** Proprietary / commercial; free tier for personal use only, paid tiers grant commercial use, no OSS licence or redistribution
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

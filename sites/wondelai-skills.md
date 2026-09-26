@@ -1,12 +1,22 @@
+---
+title: Wondel.ai Skills
+description: Refactoring UI, Nielsen/Krug heuristics and web typography turned into scored audit skills.
+url: https://github.com/wondelai/skills
+type: agent-skill-collection
+formats: agent skill collection · Claude Code and Codex plugin marketplace
+topics: [agents-and-prompts, ux-patterns, typography-and-styles]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free. MIT (repo-root `LICENSE`, © 2025 Wondel.ai sp. z o.o.; about 2.3k stars at review, last change 2026-09-10). The "Further reading" links in the skills include Amazon affiliate tags.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [laws-of-ux, anthropic-design-plugin, ibelick-ui-skills, impeccable, good-ui]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Wondel.ai Skills
-
-- **URL:** https://github.com/wondelai/skills
-- **Type:** agent skill collection · Claude Code and Codex plugin marketplace
-- **Topics:** agents-and-prompts, ux-patterns, typography-and-styles
-- **Pricing / licence:** free. MIT (repo-root `LICENSE`, © 2025 Wondel.ai sp. z o.o.; about 2.3k stars at review, last change 2026-09-10). The "Further reading" links in the skills include Amazon affiliate tags.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

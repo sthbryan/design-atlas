@@ -1,12 +1,22 @@
+---
+title: Torph
+description: Dependency-free text morphing for changing labels, with place-value number rolls and springs.
+url: https://torph.lochie.me
+type: js-library
+formats: JS library
+topics: [motion, typography-and-styles, components]
+verdict: useful
+agent: []
+pricing: free
+licence: Free / MIT
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [number-flow, textmotion, css-text-effects, motion-primitives]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md), [components](../topics/components.md)
 
 # Torph
-
-- **URL:** https://torph.lochie.me
-- **Type:** JS library
-- **Topics:** motion, typography-and-styles, components
-- **Pricing / licence:** Free / MIT
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

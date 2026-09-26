@@ -1,12 +1,22 @@
+---
+title: Kage
+description: Real interfaces packaged as agent-ready prompts and design briefs, browsable by component, with its own MCP server.
+url: https://kage.design
+type: gallery
+formats: inspiration gallery · AI prompts · MCP server
+topics: [inspiration, agents-and-prompts, components]
+verdict: very-useful
+agent: [mcp, prompts]
+pricing: not-stated
+licence: Not stated (the MCP server itself says "no API key, no sign-up, no usage limits beyond the site's normal rate limit")
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [scrolltide, refero-styles, component-gallery, vibeprompts]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md)
 
 # Kage
-
-- **URL:** https://kage.design
-- **Type:** inspiration gallery · AI prompts · MCP server
-- **Topics:** inspiration, agents-and-prompts, components
-- **Pricing / licence:** Not stated (the MCP server itself says "no API key, no sign-up, no usage limits beyond the site's normal rate limit")
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: LottieFiles Motion Design Skill
+description: "Motion-director skill: four personalities, duration and stagger tables, Disney principles adapted for UI."
+url: https://github.com/LottieFiles/motion-design-skill
+type: agent-skill
+formats: agent skill
+topics: [agents-and-prompts, motion]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free. MIT (© 2025 LottieFiles). About 1.7k GitHub stars and 13.1k installs on skills.sh at review.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [design-motion-principles, mblode-agent-skills, easing-wizard, transitions-dev, ui-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [motion](../topics/motion.md)
 
 # LottieFiles Motion Design Skill
-
-- **URL:** https://github.com/LottieFiles/motion-design-skill
-- **Type:** agent skill
-- **Topics:** agents-and-prompts, motion
-- **Pricing / licence:** free. MIT (© 2025 LottieFiles). About 1.7k GitHub stars and 13.1k installs on skills.sh at review.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

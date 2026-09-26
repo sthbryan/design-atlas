@@ -1,12 +1,22 @@
+---
+title: Emil Kowalski's skills
+description: "Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits."
+url: https://github.com/emilkowalski/skills
+type: agent-skill-collection
+formats: agent skill collection
+topics: [agents-and-prompts, motion, ux-patterns]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: free. MIT (© 2026 Emil Kowalski, repo-root `LICENSE`; about 41k stars at review, last skill change 2026-09-15). The author's site also promotes a paid course, aiforui.dev, which you don't need to use the skills.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [jakub-krehel-skills, ui-skills, impeccable, easing-wizard, transitions-dev]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Emil Kowalski's skills
-
-- **URL:** https://github.com/emilkowalski/skills
-- **Type:** agent skill collection
-- **Topics:** agents-and-prompts, motion, ux-patterns
-- **Pricing / licence:** free. MIT (© 2026 Emil Kowalski, repo-root `LICENSE`; about 41k stars at review, last skill change 2026-09-15). The author's site also promotes a paid course, aiforui.dev, which you don't need to use the skills.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

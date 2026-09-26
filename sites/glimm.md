@@ -1,12 +1,22 @@
+---
+title: glimm
+description: WebGL colour-band page transitions for React/Next.js, with a copyable agent prompt.
+url: https://glimm.dev
+type: js-library
+formats: JS library (React / Next.js)
+topics: [motion, 3d-and-shaders]
+verdict: niche
+agent: [prompts]
+pricing: free
+licence: Free / MIT (added in 0.1.4)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [liquid-glass, reactbits, transitions-dev, animejs]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # glimm
-
-- **URL:** https://glimm.dev
-- **Type:** JS library (React / Next.js)
-- **Topics:** motion, 3d-and-shaders
-- **Pricing / licence:** Free / MIT (added in 0.1.4)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

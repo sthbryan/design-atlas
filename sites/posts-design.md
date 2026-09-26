@@ -1,12 +1,22 @@
+---
+title: posts.design
+description: Real company social posts, headers and OG images by post purpose, with a public JSON search API.
+url: https://posts.design
+type: gallery
+formats: inspiration gallery · API
+topics: [inspiration, assets, agents-and-prompts]
+verdict: useful
+agent: [llms-txt, api]
+pricing: free
+licence: Free to browse (optional member accounts). Its terms say featured images, videos, names and logos stay with their owners and that the site grants no permission to reuse third-party work
+licence_class: proprietary-free
+reviewed: 2026-09-25
+status: active
+related: [recent-design, inspora, appshot-gallery, collect-ui]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # posts.design
-
-- **URL:** https://posts.design
-- **Type:** inspiration gallery · API
-- **Topics:** inspiration, assets, agents-and-prompts
-- **Pricing / licence:** Free to browse (optional member accounts). Its terms say featured images, videos, names and logos stay with their owners and that the site grants no permission to reuse third-party work
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: Evil Buttons
+description: 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
+url: https://www.evilbuttons.com
+type: component-library
+formats: component library (shadcn registry)
+topics: [components, cta, motion]
+verdict: niche
+agent: [llms-txt, registry]
+pricing: free
+licence: free, Apache-2.0 / Open source
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [gradient-buttons, magic-ui, rareui, interior-dev, uiverse]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [cta](../topics/cta.md), [motion](../topics/motion.md)
 
 # Evil Buttons
-
-- **URL:** https://www.evilbuttons.com
-- **Type:** component library (shadcn registry)
-- **Topics:** components, cta, motion
-- **Pricing / licence:** free, Apache-2.0 / Open source
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

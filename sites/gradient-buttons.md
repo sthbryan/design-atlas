@@ -1,12 +1,22 @@
+---
+title: Gradient Buttons
+description: Gallery of copy-paste CSS gradient buttons.
+url: https://gradientbuttons.colorion.co
+type: gallery
+formats: gallery
+topics: [components, typography-and-styles]
+verdict: niche
+agent: []
+pricing: free
+licence: Free / Not specified
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [css-text-effects, kinetics, circle-loaders]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Gradient Buttons
-
-- **URL:** https://gradientbuttons.colorion.co
-- **Type:** gallery
-- **Topics:** components, typography-and-styles
-- **Pricing / licence:** Free / Not specified
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

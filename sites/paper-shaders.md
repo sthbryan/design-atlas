@@ -1,12 +1,22 @@
+---
+title: Paper Shaders
+description: 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
+url: https://shaders.paper.design
+type: js-library
+formats: JS library
+topics: [3d-and-shaders, motion, components]
+verdict: very-useful
+agent: [llms-txt]
+pricing: free
+licence: Free / Apache-2.0 (no visible attribution needed in end products; keep LICENSE and NOTICE if you redistribute the code)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [canvas-ui, shadcn-ui, liquid-glass, reactbits, book-of-shaders]
+---
 [← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [components](../topics/components.md)
 
 # Paper Shaders
-
-- **URL:** https://shaders.paper.design
-- **Type:** JS library
-- **Topics:** 3d-and-shaders, motion, components
-- **Pricing / licence:** Free / Apache-2.0 (no visible attribution needed in end products; keep LICENSE and NOTICE if you redistribute the code)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

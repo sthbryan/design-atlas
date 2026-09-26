@@ -1,12 +1,22 @@
+---
+title: mcpcn
+description: Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
+url: https://www.mcpcn.dev
+type: component-registry
+formats: component registry (shadcn) for MCP App widgets
+topics: [components, ai-interfaces, agents-and-prompts]
+verdict: useful
+agent: [llms-txt, registry, api, skill]
+pricing: free
+licence: free; MIT (repo `shadcn-labs/mcpcn`, © 2026 Shadcn Labs); a Sponsor link is the only paid option
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [mapcn, shadcn-ui, prompt-kit, agentcn, kibo-ui]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # mcpcn
-
-- **URL:** https://www.mcpcn.dev
-- **Type:** component registry (shadcn) for MCP App widgets
-- **Topics:** components, ai-interfaces, agents-and-prompts
-- **Pricing / licence:** free; MIT (repo `shadcn-labs/mcpcn`, © 2026 Shadcn Labs); a Sponsor link is the only paid option
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

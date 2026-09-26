@@ -1,12 +1,22 @@
+---
+title: designmd.supply
+description: Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
+url: https://www.designmd.supply
+type: tool
+formats: DESIGN.md generator · open-source app
+topics: [design-md, agents-and-prompts, typography-and-styles]
+verdict: useful
+agent: []
+pricing: free
+licence: free to use on the site. The app's source (`context-dot-dev/designmd-supply`) is MIT. Self-hosting needs your own Context.dev and Vercel AI Gateway keys. Not stated for the licence of the generated DESIGN.md files, and the site has no terms page.
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [designmd-me, hyperbrowser-design-md, getdesign-md, refero-styles, designmd]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # designmd.supply
-
-- **URL:** https://www.designmd.supply
-- **Type:** DESIGN.md generator · open-source app
-- **Topics:** design-md, agents-and-prompts, typography-and-styles
-- **Pricing / licence:** free to use on the site. The app's source (`context-dot-dev/designmd-supply`) is MIT. Self-hosting needs your own Context.dev and Vercel AI Gateway keys. Not stated for the licence of the generated DESIGN.md files, and the site has no terms page.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: Huashu Design
+description: Chinese-language HTML skill for prototypes, decks and MP4 animations; always shows three drafts first.
+url: https://github.com/alchaincyf/huashu-design
+type: agent-skill
+formats: agent skill · HTML prototyping, slides and motion toolkit
+topics: [agents-and-prompts, motion, typography-and-styles]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free. MIT, © 2026 alchaincyf (Huashu), relicensed from a personal-use licence on 2026-05-14. About 24.5k stars and about 47k skills.sh installs at review. Last push 2026-09-22.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [hallmark, impeccable, openmotion, superdesign-skill, visualize]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Huashu Design
-
-- **URL:** https://github.com/alchaincyf/huashu-design
-- **Type:** agent skill · HTML prototyping, slides and motion toolkit
-- **Topics:** agents-and-prompts, motion, typography-and-styles
-- **Pricing / licence:** free. MIT, © 2026 alchaincyf (Huashu), relicensed from a personal-use licence on 2026-05-14. About 24.5k stars and about 47k skills.sh installs at review. Last push 2026-09-22.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

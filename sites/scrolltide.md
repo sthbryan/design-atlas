@@ -1,12 +1,22 @@
+---
+title: Scrolltide
+description: Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+url: https://scrolltide.co
+type: template-library
+formats: template library · AI prompts
+topics: [motion, agents-and-prompts, inspiration, landing-pages]
+verdict: useful
+agent: [prompts]
+pricing: paid
+licence: Paid. Monthly $15/mo (was $29), yearly $89/yr (was $129), lifetime $159 one-time (was $239). Personal and client-use licence included on all plans.
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [kage, refero-styles, animejs, kinetics]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Scrolltide
-
-- **URL:** https://scrolltide.co
-- **Type:** template library · AI prompts
-- **Topics:** motion, agents-and-prompts, inspiration, landing-pages
-- **Pricing / licence:** Paid. Monthly $15/mo (was $29), yearly $89/yr (was $129), lifetime $159 one-time (was $239). Personal and client-use licence included on all plans.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

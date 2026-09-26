@@ -1,12 +1,22 @@
+---
+title: Hyperbrowser DESIGNMD
+description: Paste a domain, get a basic Google-style DESIGN.md via Hyperbrowser's branding API (bring your own key).
+url: https://design-md.hyperbrowser.ai
+type: tool
+formats: DESIGN.md generator (URL → file) · open-source example app
+topics: [design-md, typography-and-styles, agents-and-prompts]
+verdict: niche
+agent: [api]
+pricing: paid
+licence: the tool itself is free but needs your own Hyperbrowser API key. Hyperbrowser bills in credits (its docs list Fetch at 1 credit ≈ $0.001 per page; any extra charge for the branding format isn't stated). The source lives in `hyperbrowserai/hyperbrowser-app-examples` (about 1.9k stars), which has no licence file. No licence or terms are stated for the generated DESIGN.md.
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [designmd-cc, design-md-chrome, designmd, refero-styles, getdesign-md]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Hyperbrowser DESIGNMD
-
-- **URL:** https://design-md.hyperbrowser.ai
-- **Type:** DESIGN.md generator (URL → file) · open-source example app
-- **Topics:** design-md, typography-and-styles, agents-and-prompts
-- **Pricing / licence:** the tool itself is free but needs your own Hyperbrowser API key. Hyperbrowser bills in credits (its docs list Fetch at 1 credit ≈ $0.001 per page; any extra charge for the branding format isn't stated). The source lives in `hyperbrowserai/hyperbrowser-app-examples` (about 1.9k stars), which has no licence file. No licence or terms are stated for the generated DESIGN.md.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

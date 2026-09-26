@@ -1,12 +1,22 @@
+---
+title: VibeUI
+description: 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
+url: https://vibeui.online
+type: prompt-library
+formats: prompt library
+topics: [agents-and-prompts, components, cta, landing-pages]
+verdict: useful
+agent: [prompts]
+pricing: free
+licence: Free (the page title advertises 92 free prompts); no licence or terms stated. It promotes a companion product, GlowUp UI, with its own pricing
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [vibeprompts, kage, scrolltide, supahero, cta-gallery]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md), [cta](../topics/cta.md), [landing-pages](../topics/landing-pages.md)
 
 # VibeUI
-
-- **URL:** https://vibeui.online
-- **Type:** prompt library
-- **Topics:** agents-and-prompts, components, cta, landing-pages
-- **Pricing / licence:** Free (the page title advertises 92 free prompts); no licence or terms stated. It promotes a companion product, GlowUp UI, with its own pricing
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

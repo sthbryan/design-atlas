@@ -1,12 +1,23 @@
+---
+title: editorcn
+description: Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
+url: https://www.rtecn.space
+type: component-library
+formats: rich text editor components (shadcn registry and npm)
+topics: [components, ux-patterns]
+verdict: useful
+agent: [llms-txt, registry, api, skill]
+pricing: free
+licence: free; MIT on GitHub (repo `shadcn-labs/editorcn`), though the npm packages declare no licence field; Tiptap is MIT
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+note: The original `editorcn.vercel.app` redirects here.
+related: [shadcn-ui, termcn, pdfcn, component-gallery, uiable]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md)
 
 # editorcn
-
-- **URL:** https://www.rtecn.space (the original `editorcn.vercel.app` redirects here)
-- **Type:** rich text editor components (shadcn registry and npm)
-- **Topics:** components, ux-patterns
-- **Pricing / licence:** free; MIT on GitHub (repo `shadcn-labs/editorcn`), though the npm packages declare no licence field; Tiptap is MIT
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

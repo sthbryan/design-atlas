@@ -1,12 +1,22 @@
+---
+title: Design Lab
+description: Interviews you, mounts five code variants on a temporary route, then writes an implementation plan.
+url: https://github.com/0xdesign/design-plugin
+type: agent-skill
+formats: agent skill · Claude Code plugin (`design-and-refine`)
+topics: [agents-and-prompts, ux-patterns, components]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free. The README and `plugin.json` say MIT, but the repo has no licence file (GitHub shows none). About 760 stars and about 1.8k skills.sh installs at review. Plugin 1.1.0, skill last changed 2026-01-24.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [agentation, interface-design, superdesign-skill, laws-of-ux, impeccable]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [components](../topics/components.md)
 
 # Design Lab
-
-- **URL:** https://github.com/0xdesign/design-plugin
-- **Type:** agent skill · Claude Code plugin (`design-and-refine`)
-- **Topics:** agents-and-prompts, ux-patterns, components
-- **Pricing / licence:** free. The README and `plugin.json` say MIT, but the repo has no licence file (GitHub shows none). About 760 stars and about 1.8k skills.sh installs at review. Plugin 1.1.0, skill last changed 2026-01-24.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

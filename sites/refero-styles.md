@@ -1,12 +1,22 @@
+---
+title: Refero Styles
+description: 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
+url: https://styles.refero.design
+type: style-library
+formats: style library · AI-readable documentation · registry
+topics: [design-md, documentation, agents-and-prompts, typography-and-styles]
+verdict: very-useful
+agent: [mcp]
+pricing: not-stated
+licence: Not stated (site is in beta, "new styles added every week")
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [kage, scrolltide, designmd, vibeprompts]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Refero Styles
-
-- **URL:** https://styles.refero.design
-- **Type:** style library · AI-readable documentation · registry
-- **Topics:** design-md, documentation, agents-and-prompts, typography-and-styles
-- **Pricing / licence:** Not stated (site is in beta, "new styles added every week")
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

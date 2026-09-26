@@ -1,12 +1,22 @@
+---
+title: OpenDesign
+description: Apache-2.0 local design engine for coding agents, with 151 forkable DESIGN.md packages and MCP.
+url: https://open-design.ai
+type: design-workspace
+formats: open-source design workspace (desktop app) · DESIGN.md system catalogue · MCP · CLI
+topics: [design-md, agents-and-prompts, typography-and-styles]
+verdict: very-useful
+agent: [mcp, cli, skill]
+pricing: freemium
+licence: "the desktop app (macOS and Windows) is free and Apache-2.0 at `nexu-io/open-design` (about 98k stars on GitHub at review; the site's own counter shows 83.3K+). It's BYOK: you pay your model provider directly. Optional managed plans add bundled credits and cloud deploys: Plus $20, Pro $100, Max $200 per month, plus team seats and enterprise. The terms say you keep ownership of what you create. Each design-system package records its own provenance and licence."
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [designmd, refero-styles, getdesign-md, typeui, aura, screenshot-to-code]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # OpenDesign
-
-- **URL:** https://open-design.ai
-- **Type:** open-source design workspace (desktop app) · DESIGN.md system catalogue · MCP · CLI
-- **Topics:** design-md, agents-and-prompts, typography-and-styles
-- **Pricing / licence:** the desktop app (macOS and Windows) is free and Apache-2.0 at `nexu-io/open-design` (about 98k stars on GitHub at review; the site's own counter shows 83.3K+). It's BYOK: you pay your model provider directly. Optional managed plans add bundled credits and cloud deploys: Plus $20, Pro $100, Max $200 per month, plus team seats and enterprise. The terms say you keep ownership of what you create. Each design-system package records its own provenance and licence.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: TypeUI
+description: Style-named design skills (SKILL.md + DESIGN.md) via an MIT CLI/registry and a paid hosted MCP.
+url: https://www.typeui.sh
+type: style-library
+formats: style library of design skills · MCP · CLI · prompt library
+topics: [design-md, agents-and-prompts, typography-and-styles]
+verdict: useful
+agent: [mcp, cli, skill]
+pricing: freemium
+licence: "the CLI and the public GitHub registry (`bergside/awesome-design-skills`, 67 skills) are MIT. The website's own resources fall under a TypeUI EULA: Creative $30/month, Insights (beta) $30/month, All-access $50/month, with yearly billing and an AppSumo lifetime deal also offered."
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [designmd, getdesign-md, design-md-chrome, vibeprompts, refero-styles]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # TypeUI
-
-- **URL:** https://www.typeui.sh
-- **Type:** style library of design skills · MCP · CLI · prompt library
-- **Topics:** design-md, agents-and-prompts, typography-and-styles
-- **Pricing / licence:** the CLI and the public GitHub registry (`bergside/awesome-design-skills`, 67 skills) are MIT. The website's own resources fall under a TypeUI EULA: Creative $30/month, Insights (beta) $30/month, All-access $50/month, with yearly billing and an AppSumo lifetime deal also offered.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

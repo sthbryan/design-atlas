@@ -1,12 +1,22 @@
+---
+title: pdfcn
+description: React PDF primitives and 20 invoice/report/label templates for Takumi or Forme, installed via shadcn CLI.
+url: https://pdfcn.dev
+type: component-library
+formats: PDF component library (shadcn registry)
+topics: [components, typography-and-styles]
+verdict: useful
+agent: [llms-txt, registry, api, prompts, skill]
+pricing: free
+licence: free; MIT (repo `shadcn-labs/pdfcn`); the Takumi renderer is MIT or Apache-2.0 and Forme is MIT
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [emailcn, ogimagecn, termcn, shadcn-ui, mapcn]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # pdfcn
-
-- **URL:** https://pdfcn.dev
-- **Type:** PDF component library (shadcn registry)
-- **Topics:** components, typography-and-styles
-- **Pricing / licence:** free; MIT (repo `shadcn-labs/pdfcn`); the Takumi renderer is MIT or Apache-2.0 and Forme is MIT
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

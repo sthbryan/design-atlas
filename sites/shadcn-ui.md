@@ -1,12 +1,22 @@
+---
+title: shadcn/ui
+description: Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
+url: https://ui.shadcn.com
+type: component-library
+formats: component library / code registry
+topics: [components, documentation, agents-and-prompts]
+verdict: very-useful
+agent: [mcp, llms-txt, cli, registry]
+pricing: free
+licence: open source and free (the site itself states 125k GitHub stars)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [magic-ui, aceternity-ui, mapcn, uiable, 21st-dev]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # shadcn/ui
-
-- **URL:** https://ui.shadcn.com
-- **Type:** component library / code registry
-- **Topics:** components, documentation, agents-and-prompts
-- **Pricing / licence:** open source and free (the site itself states 125k GitHub stars)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

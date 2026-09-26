@@ -1,12 +1,22 @@
+---
+title: Agentation
+description: React toolbar that turns click-to-annotate feedback into selectors and file paths agents can act on over MCP.
+url: https://www.agentation.com
+type: tool
+formats: tool (React dev component) · MCP server · annotation schema
+topics: [agents-and-prompts, ai-interfaces]
+verdict: very-useful
+agent: [mcp, skill]
+pricing: free
+licence: free for individuals and companies for internal use, according to the site. You need a commercial licence to redistribute it inside a product you sell. The npm packages (`agentation` 3.1.2, `agentation-mcp` 1.3.2) declare `PolyForm-Shield-1.0.0`. The repo's LICENSE file is headed PolyForm Shield, but its body is a short custom text that bans competing products. It is source-available, not open source.
+licence_class: source-available
+reviewed: 2026-09-25
+status: active
+related: [dialkit, screenshot-to-code, impeccable, efecto]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Agentation
-
-- **URL:** https://www.agentation.com
-- **Type:** tool (React dev component) · MCP server · annotation schema
-- **Topics:** agents-and-prompts, ai-interfaces
-- **Pricing / licence:** free for individuals and companies for internal use, according to the site. You need a commercial licence to redistribute it inside a product you sell. The npm packages (`agentation` 3.1.2, `agentation-mcp` 1.3.2) declare `PolyForm-Shield-1.0.0`. The repo's LICENSE file is headed PolyForm Shield, but its body is a short custom text that bans competing products. It is source-available, not open source.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

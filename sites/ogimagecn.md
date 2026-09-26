@@ -1,12 +1,22 @@
+---
+title: ogimagecn
+description: 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
+url: https://www.ogimagecn.com
+type: component-library
+formats: Open Graph image component library (shadcn registry) · preview tool
+topics: [components, assets]
+verdict: useful
+agent: [llms-txt, registry, api, skill]
+pricing: free
+licence: free; MIT (repo `shadcn-labs/ogimagecn`); cards render through Satori (MPL-2.0) via Next.js `next/og`
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [posts-design, emailcn, pdfcn, shieldcn, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [assets](../topics/assets.md)
 
 # ogimagecn
-
-- **URL:** https://www.ogimagecn.com
-- **Type:** Open Graph image component library (shadcn registry) · preview tool
-- **Topics:** components, assets
-- **Pricing / licence:** free; MIT (repo `shadcn-labs/ogimagecn`); cards render through Satori (MPL-2.0) via Next.js `next/og`
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

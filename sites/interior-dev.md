@@ -1,12 +1,22 @@
+---
+title: interior.dev
+description: 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
+url: https://www.interior.dev
+type: component-library
+formats: component library (shadcn registry)
+topics: [motion, components, ux-patterns, agents-and-prompts]
+verdict: very-useful
+agent: [llms-txt, registry]
+pricing: free
+licence: free, MIT / Open source (GitHub Sponsors optional)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [kinetics, microkit, motion-primitives, rareui, bencho]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # interior.dev
-
-- **URL:** https://www.interior.dev
-- **Type:** component library (shadcn registry)
-- **Topics:** motion, components, ux-patterns, agents-and-prompts
-- **Pricing / licence:** free, MIT / Open source (GitHub Sponsors optional)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

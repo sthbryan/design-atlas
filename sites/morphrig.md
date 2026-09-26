@@ -1,12 +1,22 @@
+---
+title: Morphrig
+description: Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
+url: https://morphrig.dev
+type: documentation
+formats: documentation (interactive manual)
+topics: [motion, icons, documentation]
+verdict: useful
+agent: [llms-txt]
+pricing: free
+licence: Free to read / Not stated. The site says it is not open source and nothing is published to npm
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [animated-icons, useanimations, iconoir, torph]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [icons](../topics/icons.md), [documentation](../topics/documentation.md)
 
 # Morphrig
-
-- **URL:** https://morphrig.dev
-- **Type:** documentation (interactive manual)
-- **Topics:** motion, icons, documentation
-- **Pricing / licence:** Free to read / Not stated. The site says it is not open source and nothing is published to npm
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

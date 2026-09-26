@@ -1,12 +1,22 @@
+---
+title: Circle Loaders
+description: 24 standalone animated SVG loading spinners.
+url: https://circleloaders.dominikakissi.com
+type: asset-library
+formats: asset library
+topics: [components, motion, assets]
+verdict: niche
+agent: []
+pricing: not-stated
+licence: Not specified
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [kinetics, css-text-effects, gradient-buttons]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [assets](../topics/assets.md)
 
 # Circle Loaders
-
-- **URL:** https://circleloaders.dominikakissi.com
-- **Type:** asset library
-- **Topics:** components, motion, assets
-- **Pricing / licence:** Not specified
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

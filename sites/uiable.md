@@ -1,12 +1,22 @@
+---
+title: UIAble
+description: 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
+url: https://uiable.com
+type: component-library
+formats: component, block and template library
+topics: [components, documentation, agents-and-prompts]
+verdict: very-useful
+agent: []
+pricing: freemium
+licence: free MIT-licensed community tier, no account required; paid Pro tier is a one-time purchase with lifetime access (no subscription), with a 70% launch discount stated by the site
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [shadcn-ui, aceternity-ui, magic-ui, designmd, component-gallery]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # UIAble
-
-- **URL:** https://uiable.com
-- **Type:** component, block and template library
-- **Topics:** components, documentation, agents-and-prompts
-- **Pricing / licence:** free MIT-licensed community tier, no account required; paid Pro tier is a one-time purchase with lifetime access (no subscription), with a 70% launch discount stated by the site
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

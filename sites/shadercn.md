@@ -1,12 +1,22 @@
+---
+title: shadercn
+description: WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
+url: https://www.shadercn.run
+type: component-registry
+formats: Component registry
+topics: [3d-and-shaders, components, ai-interfaces]
+verdict: niche
+agent: [llms-txt, registry, api, skill]
+pricing: free
+licence: Free / repository MIT, but every orb shader file carries a non-commercial, attribution-required notice for XorDev
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [orbkit, shadcn-ui, libraries-dev-orbs, canvas-ui]
+---
 [← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # shadercn
-
-- **URL:** https://www.shadercn.run
-- **Type:** Component registry
-- **Topics:** 3d-and-shaders, components, ai-interfaces
-- **Pricing / licence:** Free / repository MIT, but every orb shader file carries a non-commercial, attribution-required notice for XorDev
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -26,9 +26,9 @@ const VOCAB = {
 
 const SITE_FIELDS = [
   'title', 'description', 'url', 'type', 'formats', 'topics', 'verdict', 'agent',
-  'pricing', 'licence', 'licence_class', 'reviewed', 'status', 'related',
+  'pricing', 'licence', 'licence_class', 'reviewed', 'status', 'note', 'related',
 ];
-const OPTIONAL = new Set(['formats']);
+const OPTIONAL = new Set(['formats', 'note']);
 const SECTIONS = [
   'What it is', 'When to open it', 'Most useful', 'Using it with agents',
   'Watch out for', 'Reusable ideas', 'Related',
@@ -112,7 +112,7 @@ for (const s of sites) {
   for (const key of Object.keys(d)) if (!SITE_FIELDS.includes(key)) fail(s.path, `unknown field "${key}"`);
   for (const key of SITE_FIELDS) if (d[key] === undefined && !OPTIONAL.has(key)) fail(s.path, `missing field "${key}"`);
   for (const key of ['title', 'description', 'url', 'licence']) if (d[key] !== undefined && !isString(d[key])) fail(s.path, `${key} must be a non-empty single string`);
-  if (d.formats !== undefined && !isString(d.formats)) fail(s.path, 'formats must be a non-empty string');
+  for (const key of OPTIONAL) if (d[key] !== undefined && !isString(d[key])) fail(s.path, `${key} must be a non-empty string`);
   if (isString(d.description) && (d.description.length > MAX_DESCRIPTION || d.description.includes('\n'))) fail(s.path, `description must be one line of at most ${MAX_DESCRIPTION} characters`);
   if (isString(d.url) && !/^https?:\/\/\S+$/.test(d.url)) fail(s.path, `url "${d.url}" is not an http(s) URL`);
   for (const key of ['type', 'verdict', 'pricing', 'licence_class', 'status']) {
@@ -239,7 +239,8 @@ for (const path of new Set([...markdownFiles(), ...[...outputs.keys()].filter((p
   for (const [, target] of prose.matchAll(/\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g)) {
     if (/^[a-z][a-z0-9+.-]*:/i.test(target) || target.startsWith('#')) continue;
     const file = decodeURI(target.split('#')[0]);
-    if (!existsSync(resolve(ROOT, dirname(path), file))) fail(path, `broken link to ${target}`);
+    const full = resolve(ROOT, dirname(path), file);
+    if (!existsSync(full) && !outputs.has(relative(ROOT, full))) fail(path, `broken link to ${target}`);
   }
 }
 

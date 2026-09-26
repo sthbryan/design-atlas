@@ -1,12 +1,22 @@
+---
+title: DesignMD.cc
+description: Free URL-to-DESIGN.md generator measuring live CSS, with an MIT CLI and a benchmark library.
+url: https://designmd.cc
+type: tool
+formats: DESIGN.md generator (URL → file) · benchmark library · CLI
+topics: [design-md, typography-and-styles, agents-and-prompts]
+verdict: very-useful
+agent: [cli, api]
+pricing: free
+licence: free, with no account. The quota is five generations per day per IP (the homepage also mentions "10 free analyses per day", but the FAQ and CLI both say five). Token-only JSON extraction doesn't count against it. The CLI (`@designmdcc/cli`) and the GitHub repo `adityarajdigital/designmd` (69 stars) are MIT. The site's terms keep the service and its content proprietary. No licence is stated for generated DESIGN.md files, and the FAQ asks you not to copy logos, trademarks or brand imagery and to respect each source site's terms.
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [hyperbrowser-design-md, design-md-chrome, designmd, refero-styles, open-design, getdesign-md]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # DesignMD.cc
-
-- **URL:** https://designmd.cc
-- **Type:** DESIGN.md generator (URL → file) · benchmark library · CLI
-- **Topics:** design-md, typography-and-styles, agents-and-prompts
-- **Pricing / licence:** free, with no account. The quota is five generations per day per IP (the homepage also mentions "10 free analyses per day", but the FAQ and CLI both say five). Token-only JSON extraction doesn't count against it. The CLI (`@designmdcc/cli`) and the GitHub repo `adityarajdigital/designmd` (69 stars) are MIT. The site's terms keep the service and its content proprietary. No licence is stated for generated DESIGN.md files, and the FAQ asks you not to copy logos, trademarks or brand imagery and to respect each source site's terms.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

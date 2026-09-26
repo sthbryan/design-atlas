@@ -1,12 +1,22 @@
+---
+title: design-mobile-apps (Sleek)
+description: REST client for Sleek's paid mobile-screen generator, with handoff to HTML, React Native or SwiftUI.
+url: https://github.com/designed-by-ai/skills
+type: agent-skill
+formats: agent skill · REST client for the hosted Sleek mobile design tool
+topics: [agents-and-prompts, components, icons]
+verdict: niche
+agent: [api, skill]
+pricing: paid
+licence: "the skill is MIT, © 2026 Sleek. Using it needs a sleek.design account: free accounts get one-time trial credits (about one design run), and ongoing use needs Pro at $49.99 a month or $30 a month billed yearly (20,000 AI credits a month, about 650 screens, per the skill). The repo had 6 stars at review, but skills.sh counted about 437k installs."
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [superdesign-skill, huashu-design, kombai, screenshot-to-code, ui-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md), [icons](../topics/icons.md)
 
 # design-mobile-apps (Sleek)
-
-- **URL:** https://github.com/designed-by-ai/skills
-- **Type:** agent skill · REST client for the hosted Sleek mobile design tool
-- **Topics:** agents-and-prompts, components, icons
-- **Pricing / licence:** the skill is MIT, © 2026 Sleek. Using it needs a sleek.design account: free accounts get one-time trial credits (about one design run), and ongoing use needs Pro at $49.99 a month or $30 a month billed yearly (20,000 AI credits a month, about 650 screens, per the skill). The repo had 6 stars at review, but skills.sh counted about 437k installs.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

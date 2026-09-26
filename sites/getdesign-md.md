@@ -1,12 +1,22 @@
+---
+title: getdesign.md
+description: ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
+url: https://getdesign.md
+type: style-library
+formats: style library · CLI · paid custom files
+topics: [design-md, agents-and-prompts, typography-and-styles]
+verdict: very-useful
+agent: [cli]
+pricing: freemium
+licence: "the public collection is free. Its GitHub repo (`VoltAgent/awesome-design-md`) and the `getdesign` CLI are MIT, and the site's Terms say public-directory files may be used in your projects. Paid products: a private DESIGN.md for $34 (one-time, shown as reduced from $54), Catalog Pass at $99/month, and a Website Starter Kit at $199. Paid deliverables may not be resold or republished as standalone products."
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [designmd, refero-styles, designmd-store, typeui, designmd-me]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # getdesign.md
-
-- **URL:** https://getdesign.md
-- **Type:** style library · CLI · paid custom files
-- **Topics:** design-md, agents-and-prompts, typography-and-styles
-- **Pricing / licence:** the public collection is free. Its GitHub repo (`VoltAgent/awesome-design-md`) and the `getdesign` CLI are MIT, and the site's Terms say public-directory files may be used in your projects. Paid products: a private DESIGN.md for $34 (one-time, shown as reduced from $54), Catalog Pass at $99/month, and a Website Starter Kit at $199. Paid deliverables may not be resold or republished as standalone products.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

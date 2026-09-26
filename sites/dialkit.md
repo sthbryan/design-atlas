@@ -1,12 +1,22 @@
+---
+title: DialKit
+description: MIT live control panel for tuning springs, easing, layout and timelines in React, Vue, Svelte, Solid and plain JS.
+url: https://dialkit.dev
+type: tool
+formats: tool (npm library for live tuning)
+topics: [motion, agents-and-prompts, documentation]
+verdict: very-useful
+agent: [llms-txt, prompts]
+pricing: free
+licence: free, MIT / Open source
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [kinetics, 60fps, motion-primitives, animejs]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [documentation](../topics/documentation.md)
 
 # DialKit
-
-- **URL:** https://dialkit.dev
-- **Type:** tool (npm library for live tuning)
-- **Topics:** motion, agents-and-prompts, documentation
-- **Pricing / licence:** free, MIT / Open source
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

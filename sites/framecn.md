@@ -1,12 +1,22 @@
+---
+title: framecn
+description: Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
+url: https://framecn.dev
+type: component-library
+formats: video component library (shadcn registry)
+topics: [motion, components, 3d-and-shaders]
+verdict: niche
+agent: [llms-txt, registry, api, skill]
+pricing: free
+licence: free; framecn code is MIT (repo `shadcn-labs/framecn`), but it runs on Editframe, which is source-available and free only for organisations of up to 3 people (paid tiers from $49/month)
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [remocn, openmotion, motion-primitives, magic-ui, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # framecn
-
-- **URL:** https://framecn.dev
-- **Type:** video component library (shadcn registry)
-- **Topics:** motion, components, 3d-and-shaders
-- **Pricing / licence:** free; framecn code is MIT (repo `shadcn-labs/framecn`), but it runs on Editframe, which is source-available and free only for organisations of up to 3 people (paid tiers from $49/month)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

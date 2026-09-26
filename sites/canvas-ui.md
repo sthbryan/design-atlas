@@ -1,12 +1,22 @@
+---
+title: Canvas UI
+description: 35 GPU effects over live, clickable HTML in WebGL or WebGPU, for six frameworks through a shadcn registry.
+url: https://canvasui.dev
+type: component-library
+formats: Component library
+topics: [3d-and-shaders, components, motion]
+verdict: very-useful
+agent: [llms-txt, registry]
+pricing: free
+licence: Free / MIT + Commons Clause (use it in any product, including commercial ones; don't sell or redistribute the components themselves)
+licence_class: source-available
+reviewed: 2026-09-25
+status: active
+related: [reactbits, paper-shaders, liquid-glass, aceternity-ui, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Canvas UI
-
-- **URL:** https://canvasui.dev
-- **Type:** Component library
-- **Topics:** 3d-and-shaders, components, motion
-- **Pricing / licence:** Free / MIT + Commons Clause (use it in any product, including commercial ones; don't sell or redistribute the components themselves)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

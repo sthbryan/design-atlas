@@ -1,12 +1,22 @@
+---
+title: UI Taste by Uizze
+description: Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.
+url: https://www.skills.sh/site/uizze.sh/ui-taste
+type: agent-skill
+formats: agent skill · optional paid MCP · GitHub Action
+topics: [agents-and-prompts, ux-patterns, inspiration]
+verdict: niche
+agent: [mcp, skill]
+pricing: freemium
+licence: the skill is free and needs no account; the reference MCP is paid. The `ui-taste` listing states no licence. Uizze's public mirror (GitHub `uizze/uizze`, about 26 stars, last push 2026-09-21) is MIT at the root with Apache-2.0 design playbooks, as its `LICENSING.md` explains.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [impeccable, antislop-ui, taste-skill, ui-skills, superfuture-design-review]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [inspiration](../topics/inspiration.md)
 
 # UI Taste by Uizze
-
-- **URL:** https://www.skills.sh/site/uizze.sh/ui-taste
-- **Type:** agent skill · optional paid MCP · GitHub Action
-- **Topics:** agents-and-prompts, ux-patterns, inspiration
-- **Pricing / licence:** the skill is free and needs no account; the reference MCP is paid. The `ui-taste` listing states no licence. Uizze's public mirror (GitHub `uizze/uizze`, about 26 stars, last push 2026-09-21) is MIT at the root with Apache-2.0 design playbooks, as its `LICENSING.md` explains.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

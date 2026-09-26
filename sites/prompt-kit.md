@@ -1,12 +1,22 @@
+---
+title: Prompt Kit
+description: "MIT shadcn components for chat UIs: prompt input, auto-scrolling conversation, reasoning, tool-call and citation views."
+url: https://www.prompt-kit.com
+type: component-library
+formats: component library (shadcn registry) for AI chat interfaces
+topics: [components, ai-interfaces, agents-and-prompts]
+verdict: very-useful
+agent: [llms-txt, registry]
+pricing: free
+licence: free; MIT (repo `ibelick/prompt-kit`, about 3.1k GitHub stars at review)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [motion-primitives, shadcn-ui, kibo-ui, mcpcn, shape-of-ai]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Prompt Kit
-
-- **URL:** https://www.prompt-kit.com
-- **Type:** component library (shadcn registry) for AI chat interfaces
-- **Topics:** components, ai-interfaces, agents-and-prompts
-- **Pricing / licence:** free; MIT (repo `ibelick/prompt-kit`, about 3.1k GitHub stars at review)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

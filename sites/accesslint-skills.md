@@ -1,12 +1,22 @@
+---
+title: AccessLint Skills
+description: Five WCAG-EM accessibility skills (scan, inspect, audit, fix, diff) that grade every finding by evidence.
+url: https://github.com/AccessLint/skills
+type: agent-skill-collection
+formats: agent skill collection · Claude Code plugin · local MCP server
+topics: [agents-and-prompts, ux-patterns]
+verdict: useful
+agent: [mcp, cli, skill]
+pricing: free
+licence: free. The README and plugin manifest say MIT, but the repo has no licence file (about 100 stars at review, plugin version 0.10.3, last change 2026-08-25). The npm packages the skills run (`@accesslint/cli`, `@accesslint/mcp`, `@accesslint/core`, `@accesslint/chrome`) are published as MIT. A separate hosted connector needs an accesslint.com account.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [addy-osmani-web-quality-skills, anthropic-design-plugin, inclusive-components, vercel-web-design-guidelines, impeccable]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md)
 
 # AccessLint Skills
-
-- **URL:** https://github.com/AccessLint/skills
-- **Type:** agent skill collection · Claude Code plugin · local MCP server
-- **Topics:** agents-and-prompts, ux-patterns
-- **Pricing / licence:** free. The README and plugin manifest say MIT, but the repo has no licence file (about 100 stars at review, plugin version 0.10.3, last change 2026-08-25). The npm packages the skills run (`@accesslint/cli`, `@accesslint/mcp`, `@accesslint/core`, `@accesslint/chrome`) are published as MIT. A separate hosted connector needs an accesslint.com account.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

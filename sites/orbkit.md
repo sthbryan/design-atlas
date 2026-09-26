@@ -1,12 +1,22 @@
+---
+title: Orbkit
+description: 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
+url: https://orbkit.zzzzshawn.cloud
+type: component-registry
+formats: Component registry
+topics: [3d-and-shaders, ai-interfaces, components]
+verdict: useful
+agent: [llms-txt, registry, api, skill]
+pricing: free
+licence: Free / runtime and 14 original orbs MIT; 19 orbs ported from XorDev's shaders are non-commercial only, with attribution
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [shadercn, libraries-dev-orbs, paper-shaders, reactbits]
+---
 [← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [ai-interfaces](../topics/ai-interfaces.md), [components](../topics/components.md)
 
 # Orbkit
-
-- **URL:** https://orbkit.zzzzshawn.cloud
-- **Type:** Component registry
-- **Topics:** 3d-and-shaders, ai-interfaces, components
-- **Pricing / licence:** Free / runtime and 14 original orbs MIT; 19 orbs ported from XorDev's shaders are non-commercial only, with attribution
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

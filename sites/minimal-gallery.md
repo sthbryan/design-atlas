@@ -1,12 +1,22 @@
+---
+title: Minimal Gallery
+description: Minimalist sites and templates collected since 2013, filterable by type and platform.
+url: https://minimal.gallery
+type: gallery
+formats: inspiration gallery
+topics: [inspiration, typography-and-styles]
+verdict: useful
+agent: []
+pricing: free
+licence: Not stated (free to browse; features third-party premium templates and sponsor slots)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [component-gallery, kage, designeer, appshot-gallery]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Minimal Gallery
-
-- **URL:** https://minimal.gallery
-- **Type:** inspiration gallery
-- **Topics:** inspiration, typography-and-styles
-- **Pricing / licence:** Not stated (free to browse; features third-party premium templates and sponsor slots)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

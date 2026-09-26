@@ -1,12 +1,22 @@
+---
+title: Curated
+description: About 2,240 live sites by industry and style, plus a 2,267-entry section library (mostly Pro).
+url: https://curated.design
+type: gallery
+formats: inspiration gallery · section library
+topics: [inspiration, landing-pages, typography-and-styles]
+verdict: very-useful
+agent: []
+pricing: freemium
+licence: Free to browse the site gallery; Pro $9/month (7-day trial) for the full section library, advanced filters and CSV/Notion exports. The terms let you study and take ideas from the library but forbid redistributing, republishing or bulk-scraping it; sites shown belong to their owners
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [craftwork, sections-wtf, seesaw, minimal-gallery, dark-mode-design]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Curated
-
-- **URL:** https://curated.design
-- **Type:** inspiration gallery · section library
-- **Topics:** inspiration, landing-pages, typography-and-styles
-- **Pricing / licence:** Free to browse the site gallery; Pro $9/month (7-day trial) for the full section library, advanced filters and CSV/Notion exports. The terms let you study and take ideas from the library but forbid redistributing, republishing or bulk-scraping it; sites shown belong to their owners
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

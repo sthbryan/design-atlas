@@ -1,12 +1,22 @@
+---
+title: DESIGN.md
+description: Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
+url: https://designmd.ai
+type: style-library
+formats: design-system library in markdown · MCP · CLI
+topics: [design-md, documentation, agents-and-prompts, typography-and-styles]
+verdict: very-useful
+agent: [mcp, cli]
+pricing: free
+licence: free to browse and download; a free API key is needed to use the MCP/CLI for uploading, downloading or deleting. Not indicated for the licence of each individual design system.
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [vibeprompts, shadcn-ui, uiable, 21st-dev]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # DESIGN.md
-
-- **URL:** https://designmd.ai
-- **Type:** design-system library in markdown · MCP · CLI
-- **Topics:** design-md, documentation, agents-and-prompts, typography-and-styles
-- **Pricing / licence:** free to browse and download; a free API key is needed to use the MCP/CLI for uploading, downloading or deleting. Not indicated for the licence of each individual design system.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

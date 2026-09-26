@@ -1,12 +1,22 @@
+---
+title: Easing Wizard
+description: Visual CSS easing editor (Bézier, spring, bounce) with a free REST API, MCP server and Claude Code plugin.
+url: https://easingwizard.com
+type: tool
+formats: tool · API · MCP server
+topics: [motion, agents-and-prompts]
+verdict: very-useful
+agent: [mcp, api, skill]
+pricing: free
+licence: Free / custom source-available licence (use inside larger products allowed; selling it as a product of its own is not), Claude plugin MIT
+licence_class: source-available
+reviewed: 2026-09-25
+status: active
+related: [dialkit, kinetics, transitions-dev, animejs]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Easing Wizard
-
-- **URL:** https://easingwizard.com
-- **Type:** tool · API · MCP server
-- **Topics:** motion, agents-and-prompts
-- **Pricing / licence:** Free / custom source-available licence (use inside larger products allowed; selling it as a product of its own is not), Claude plugin MIT
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

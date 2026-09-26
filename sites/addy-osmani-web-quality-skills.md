@@ -1,12 +1,22 @@
+---
+title: Web Quality Skills
+description: "Addy Osmani's six measurement-first skills: audit with Lighthouse and DevTools, fix, then re-run the same WCAG 2.2 audit."
+url: https://github.com/addyosmani/web-quality-skills
+type: agent-skill-collection
+formats: agent skill collection · Claude Code, Codex and Gemini CLI plugin
+topics: [agents-and-prompts, ux-patterns]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: free. MIT (repo-root `LICENSE`, © 2026 Addy Osmani; about 2.8k stars at review, version 2.0.0, last change 2026-08-24). The README calls the project unofficial.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [accesslint-skills, anthropic-design-plugin, vercel-web-design-guidelines, inclusive-components, ibelick-ui-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Web Quality Skills
-
-- **URL:** https://github.com/addyosmani/web-quality-skills
-- **Type:** agent skill collection · Claude Code, Codex and Gemini CLI plugin
-- **Topics:** agents-and-prompts, ux-patterns
-- **Pricing / licence:** free. MIT (repo-root `LICENSE`, © 2026 Addy Osmani; about 2.8k stars at review, version 2.0.0, last change 2026-08-24). The README calls the project unofficial.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

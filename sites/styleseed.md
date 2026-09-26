@@ -1,12 +1,22 @@
+---
+title: StyleSeed
+description: 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
+url: https://github.com/bitjaru/styleseed
+type: agent-skill-collection
+formats: agent skill collection · design-rule engine · Claude Code plugin marketplace
+topics: [agents-and-prompts, design-md, color, ux-patterns]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: "free. MIT (repo `LICENSE`; plugin 4.2.0). About 965 GitHub stars at review; skills.sh counts about 800 installs per skill. Demo and docs site: styleseed-demo.vercel.app."
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [impeccable, hallmark, getdesign-md, huetone, ui-ux-pro-max]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [color](../topics/color.md), [ux-patterns](../topics/ux-patterns.md)
 
 # StyleSeed
-
-- **URL:** https://github.com/bitjaru/styleseed
-- **Type:** agent skill collection · design-rule engine · Claude Code plugin marketplace
-- **Topics:** agents-and-prompts, design-md, color, ux-patterns
-- **Pricing / licence:** free. MIT (repo `LICENSE`; plugin 4.2.0). About 965 GitHub stars at review; skills.sh counts about 800 installs per skill. Demo and docs site: styleseed-demo.vercel.app.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

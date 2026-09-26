@@ -1,12 +1,22 @@
+---
+title: CTA Gallery
+description: Calls-to-action pulled from real sites and classified by business function, with copywriting tips alongside.
+url: https://cta.gallery
+type: gallery
+formats: inspiration gallery
+topics: [cta, inspiration]
+verdict: niche
+agent: []
+pricing: free
+licence: Not stated (free to browse; includes free templates from sponsors like Webestica)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [navbar-gallery, footer-design, gradient-buttons]
+---
 [← Atlas](../README.md) · Topics: [cta](../topics/cta.md), [inspiration](../topics/inspiration.md)
 
 # CTA Gallery
-
-- **URL:** https://cta.gallery
-- **Type:** inspiration gallery
-- **Topics:** cta, inspiration
-- **Pricing / licence:** Not stated (free to browse; includes free templates from sponsors like Webestica)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

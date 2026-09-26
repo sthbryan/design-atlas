@@ -1,12 +1,22 @@
+---
+title: Rebrand Gallery
+description: Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
+url: https://www.rebrand.gallery
+type: gallery
+formats: inspiration gallery
+topics: [inspiration, typography-and-styles]
+verdict: useful
+agent: []
+pricing: freemium
+licence: "Free account needed to keep browsing; Pro with a 7-day trial (shown as €4.92/month on yearly billing, via Stripe). Proprietary terms from Sahkyo SARL (Paris): no copying, mirroring, unauthorised scraping or AI-made derivative works; the identities shown belong to their owners"
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [typeface-fyi, craftwork, seesaw, curated-design]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Rebrand Gallery
-
-- **URL:** https://www.rebrand.gallery
-- **Type:** inspiration gallery
-- **Topics:** inspiration, typography-and-styles
-- **Pricing / licence:** Free account needed to keep browsing; Pro with a 7-day trial (shown as €4.92/month on yearly billing, via Stripe). Proprietary terms from Sahkyo SARL (Paris): no copying, mirroring, unauthorised scraping or AI-made derivative works; the identities shown belong to their owners
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

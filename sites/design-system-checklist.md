@@ -1,12 +1,22 @@
+---
+title: Design System Checklist
+description: 230 items across language, foundations, 29 components and maintenance, with shareable progress links.
+url: https://www.designsystemchecklist.com
+type: guidelines
+formats: checklist
+topics: [components, documentation, ux-patterns]
+verdict: useful
+agent: []
+pricing: free
+licence: Free, no account. The site calls itself open source, but its GitHub repo (`ardakaracizmeli/design-system-checklist`) has no licence file, so reuse rights for the checklist text are not stated.
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [component-gallery, ui-playbook, inclusive-components, astryx, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Design System Checklist
-
-- **URL:** https://www.designsystemchecklist.com
-- **Type:** checklist
-- **Topics:** components, documentation, ux-patterns
-- **Pricing / licence:** Free, no account. The site calls itself open source, but its GitHub repo (`ardakaracizmeli/design-system-checklist`) has no licence file, so reuse rights for the checklist text are not stated.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

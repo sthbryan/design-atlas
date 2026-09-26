@@ -1,12 +1,22 @@
+---
+title: Kibo UI
+description: Free MIT shadcn companion with 41 functional components (Gantt, Kanban, editor), 28 marketing blocks and an MCP server.
+url: https://www.kibo-ui.com
+type: component-registry
+formats: component registry (shadcn/ui) · blocks · MCP server
+topics: [components, landing-pages, agents-and-prompts]
+verdict: very-useful
+agent: [mcp, cli, registry]
+pricing: free
+licence: free; MIT (repo `shadcnblocks/kibo`, about 3.9k GitHub stars at review)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [shadcn-ui, magic-ui, 21st-dev, mapcn, prompt-kit]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Kibo UI
-
-- **URL:** https://www.kibo-ui.com
-- **Type:** component registry (shadcn/ui) · blocks · MCP server
-- **Topics:** components, landing-pages, agents-and-prompts
-- **Pricing / licence:** free; MIT (repo `shadcnblocks/kibo`, about 3.9k GitHub stars at review)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: Shaderfrog
+description: Graph editor that splices GLSL shaders into Three.js, Babylon and PlayCanvas materials, with a community gallery.
+url: https://shaderfrog.com
+type: tool
+formats: Tool
+topics: [3d-and-shaders, inspiration]
+verdict: niche
+agent: []
+pricing: free
+licence: Free (sign-in to save) / editor MIT, `@shaderfrog/core` ISC; each shared shader carries whatever licence its source says
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [book-of-shaders, compute-toys, paper-shaders, canvas-ui]
+---
 [← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [inspiration](../topics/inspiration.md)
 
 # Shaderfrog
-
-- **URL:** https://shaderfrog.com
-- **Type:** Tool
-- **Topics:** 3d-and-shaders, inspiration
-- **Pricing / licence:** Free (sign-in to save) / editor MIT, `@shaderfrog/core` ISC; each shared shader carries whatever licence its source says
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

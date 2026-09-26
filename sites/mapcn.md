@@ -1,12 +1,22 @@
+---
+title: mapcn
+description: Map components distributed as a shadcn/ui registry, with a "copy prompt for your agent" button.
+url: https://mapcn.dev
+type: component-library
+formats: map component library (shadcn registry)
+topics: [components, agents-and-prompts]
+verdict: useful
+agent: [registry, prompts]
+pricing: free
+licence: free and open source (repo `AnmolSaini16/mapcn` on GitHub)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [shadcn-ui, uiable, 21st-dev, component-gallery]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # mapcn
-
-- **URL:** https://mapcn.dev
-- **Type:** map component library (shadcn registry)
-- **Topics:** components, agents-and-prompts
-- **Pricing / licence:** free and open source (repo `AnmolSaini16/mapcn` on GitHub)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

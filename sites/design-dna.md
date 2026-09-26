@@ -1,12 +1,22 @@
+---
+title: Design DNA
+description: Turns references into a three-part JSON profile (tokens, style, WebGL effects), with measured colours and a ΔE verify loop.
+url: https://github.com/zanwei/design-dna
+type: agent-skill
+formats: agent skill · JSON design-profile schema · colour-measurement scripts
+topics: [agents-and-prompts, design-md, color, 3d-and-shaders]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free. MIT ("the design-dna authors"). About 1.8k GitHub stars and 5.1k skills.sh installs at review. The optional scripts need the `sharp` image library from npm.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [extract-design-system, styleseed, neuform, aura, paper-shaders]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [color](../topics/color.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # Design DNA
-
-- **URL:** https://github.com/zanwei/design-dna
-- **Type:** agent skill · JSON design-profile schema · colour-measurement scripts
-- **Topics:** agents-and-prompts, design-md, color, 3d-and-shaders
-- **Pricing / licence:** free. MIT ("the design-dna authors"). About 1.8k GitHub stars and 5.1k skills.sh installs at review. The optional scripts need the `sharp` image library from npm.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

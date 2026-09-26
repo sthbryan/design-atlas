@@ -1,12 +1,22 @@
+---
+title: Ramps
+description: One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
+url: https://www.ramps.studio
+type: tool
+formats: tool · API
+topics: [color, typography-and-styles, agents-and-prompts]
+verdict: very-useful
+agent: [llms-txt, api, prompts]
+pricing: free
+licence: Free, no account or key / MIT (source on GitHub)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [huetone, oklch, color-review, dialkit, uisfx]
+---
 [← Atlas](../README.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Ramps
-
-- **URL:** https://www.ramps.studio
-- **Type:** tool · API
-- **Topics:** color, typography-and-styles, agents-and-prompts
-- **Pricing / licence:** Free, no account or key / MIT (source on GitHub)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

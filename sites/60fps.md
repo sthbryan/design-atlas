@@ -1,12 +1,22 @@
+---
+title: 60fps
+description: About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
+url: https://60fps.design
+type: gallery
+formats: inspiration gallery (motion)
+topics: [inspiration, motion, agents-and-prompts]
+verdict: very-useful
+agent: [mcp, llms-txt]
+pricing: freemium
+licence: "free to browse; PRO $15/mo or $150/yr (full filters, storyboards, better player); MCP is a separate plan at $29/mo or $75/quarter, billed through Gumroad. Content is proprietary: recordings belong to the apps shown, and the curation and breakdowns belong to 60fps"
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [design-spells, kinetics, openmotion, dialkit, motion-primitives]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # 60fps
-
-- **URL:** https://60fps.design
-- **Type:** inspiration gallery (motion)
-- **Topics:** inspiration, motion, agents-and-prompts
-- **Pricing / licence:** free to browse; PRO $15/mo or $150/yr (full filters, storyboards, better player); MCP is a separate plan at $29/mo or $75/quarter, billed through Gumroad. Content is proprietary: recordings belong to the apps shown, and the curation and breakdowns belong to 60fps
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

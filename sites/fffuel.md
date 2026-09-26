@@ -1,12 +1,22 @@
+---
+title: Fffuel
+description: About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
+url: https://www.fffuel.co
+type: tool
+formats: tool · asset generators
+topics: [assets, color]
+verdict: useful
+agent: []
+pricing: free
+licence: Free tools / generated images free for personal and commercial use, no redistribution (optional paid video course)
+licence_class: proprietary-free
+reviewed: 2026-09-25
+status: active
+related: [gradient-buttons, 3dicons, liquid-glass, huetone]
+---
 [← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [color](../topics/color.md)
 
 # Fffuel
-
-- **URL:** https://www.fffuel.co
-- **Type:** tool · asset generators
-- **Topics:** assets, color
-- **Pricing / licence:** Free tools / generated images free for personal and commercial use, no redistribution (optional paid video course)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: SEESAW
+description: About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
+url: https://www.seesaw.website
+type: gallery
+formats: inspiration gallery
+topics: [inspiration, landing-pages, typography-and-styles]
+verdict: useful
+agent: []
+pricing: free
+licence: Not stated (free to browse, with a free weekly newsletter and a paid sponsor slot); the sites shown belong to their owners
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [recent-design, minimal-gallery, supahero, typeface-fyi, curated-design]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # SEESAW
-
-- **URL:** https://www.seesaw.website
-- **Type:** inspiration gallery
-- **Topics:** inspiration, landing-pages, typography-and-styles
-- **Pricing / licence:** Not stated (free to browse, with a free weekly newsletter and a paid sponsor slot); the sites shown belong to their owners
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

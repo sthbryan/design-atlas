@@ -1,12 +1,22 @@
+---
+title: UI UX Pro Max
+description: Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
+url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+type: agent-skill
+formats: agent skill collection · local search database · CLI installer
+topics: [agents-and-prompts, design-md, typography-and-styles, ux-patterns]
+verdict: very-useful
+agent: [cli, skill]
+pricing: freemium
+licence: free. MIT (repo `LICENSE`). About 130.7k GitHub stars at review; skills.sh counts 371k installs of the main skill and 748k across the repo. A paid "Premium" tier is sold at uupm.cc. One bundled sibling skill (`ui-styling`) ships an Apache-2.0 `LICENSE.txt` and a folder of OFL fonts.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [impeccable, hallmark, ui-skills, typeui, anthropic-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md), [ux-patterns](../topics/ux-patterns.md)
 
 # UI UX Pro Max
-
-- **URL:** https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-- **Type:** agent skill collection · local search database · CLI installer
-- **Topics:** agents-and-prompts, design-md, typography-and-styles, ux-patterns
-- **Pricing / licence:** free. MIT (repo `LICENSE`). About 130.7k GitHub stars at review; skills.sh counts 371k installs of the main skill and 748k across the repo. A paid "Premium" tier is sold at uupm.cc. One bundled sibling skill (`ui-styling`) ships an Apache-2.0 `LICENSE.txt` and a folder of OFL fonts.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

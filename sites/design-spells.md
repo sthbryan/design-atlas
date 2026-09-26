@@ -1,12 +1,22 @@
+---
+title: Design Spells
+description: 337 hand-picked recordings of micro-interactions and easter eggs; llms.txt plus a Markdown homepage via Accept header.
+url: https://designspells.com
+type: gallery
+formats: inspiration gallery
+topics: [inspiration, motion]
+verdict: useful
+agent: [llms-txt]
+pricing: free
+licence: free, no account needed; funded by sponsors. Recordings show other companies' products, so they are references, not assets you can reuse
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [60fps, kinetics, microkit, 404s, minimal-gallery]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md)
 
 # Design Spells
-
-- **URL:** https://designspells.com
-- **Type:** inspiration gallery
-- **Topics:** inspiration, motion
-- **Pricing / licence:** free, no account needed; funded by sponsors. Recordings show other companies' products, so they are references, not assets you can reuse
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

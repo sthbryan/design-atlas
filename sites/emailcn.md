@@ -1,12 +1,22 @@
+---
+title: emailcn
+description: Email sections and full templates for React Email, MJML React and JSX Email, with shared themes.
+url: https://emailcn.run
+type: component-library
+formats: email component library (shadcn registry)
+topics: [components, typography-and-styles]
+verdict: useful
+agent: [llms-txt, registry]
+pricing: free
+licence: free; MIT (repo `shadcn-labs/emailcn`); React Email, MJML React and JSX Email are also MIT
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [pdfcn, ogimagecn, termcn, shadcn-ui, cta-gallery]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # emailcn
-
-- **URL:** https://emailcn.run
-- **Type:** email component library (shadcn registry)
-- **Topics:** components, typography-and-styles
-- **Pricing / licence:** free; MIT (repo `shadcn-labs/emailcn`); React Email, MJML React and JSX Email are also MIT
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

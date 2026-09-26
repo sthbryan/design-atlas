@@ -1,12 +1,22 @@
+---
+title: Inclusive Components
+description: Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
+url: https://inclusive-components.design
+type: guidelines
+formats: guidelines · book
+topics: [components, ux-patterns, documentation]
+verdict: very-useful
+agent: []
+pricing: freemium
+licence: The blog is free. An updated ebook costs €18 (ePub, PDF and Kindle) and adds a bonus chapter on modal dialogs. Smashing Magazine sells a print edition. No licence is stated for the articles, and the demo repo on GitHub (`Heydon/Inclusive-Components`) has no licence file, so treat both as all rights reserved.
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [ui-playbook, component-gallery, design-system-checklist, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md), [documentation](../topics/documentation.md)
 
 # Inclusive Components
-
-- **URL:** https://inclusive-components.design
-- **Type:** guidelines · book
-- **Topics:** components, ux-patterns, documentation
-- **Pricing / licence:** The blog is free. An updated ebook costs €18 (ePub, PDF and Kindle) and adds a bonus chapter on modal dialogs. Smashing Magazine sells a print edition. No licence is stated for the articles, and the demo repo on GitHub (`Heydon/Inclusive-Components`) has no licence file, so treat both as all rights reserved.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

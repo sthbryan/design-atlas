@@ -1,12 +1,22 @@
+---
+title: Hallmark
+description: "MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates."
+url: https://www.usehallmark.com
+type: agent-skill
+formats: agent skill
+topics: [agents-and-prompts, typography-and-styles, landing-pages, design-md]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: free. MIT (GitHub `nutlope/hallmark`, about 29k stars at review). Made by Together AI.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [impeccable, ui-skills, typeui, getdesign-md, scrolltide]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md), [design-md](../topics/design-md.md)
 
 # Hallmark
-
-- **URL:** https://www.usehallmark.com
-- **Type:** agent skill
-- **Topics:** agents-and-prompts, typography-and-styles, landing-pages, design-md
-- **Pricing / licence:** free. MIT (GitHub `nutlope/hallmark`, about 29k stars at review). Made by Together AI.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

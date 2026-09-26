@@ -1,12 +1,22 @@
+---
+title: icons0
+description: Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
+url: https://icons0.dev
+type: icon-library
+formats: icon search · MCP server · shadcn registry
+topics: [icons, assets, agents-and-prompts]
+verdict: useful
+agent: [mcp, registry]
+pricing: free
+licence: free (Ko-fi donations). The app's code is MIT (GitHub `marcoripa96/i0`, about 150 stars). Each icon keeps its original collection's licence. Most are permissive, but some sets on the site use attribution or copyleft licences (Emoji One under CC BY, Dashicons under GPL, for example), so filter by licence before shipping.
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [iconoir, 3dicons, animated-icons, useanimations, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # icons0
-
-- **URL:** https://icons0.dev
-- **Type:** icon search · MCP server · shadcn registry
-- **Topics:** icons, assets, agents-and-prompts
-- **Pricing / licence:** free (Ko-fi donations). The app's code is MIT (GitHub `marcoripa96/i0`, about 150 stars). Each icon keeps its original collection's licence. Most are permissive, but some sets on the site use attribution or copyleft licences (Emoji One under CC BY, Dashicons under GPL, for example), so filter by licence before shipping.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

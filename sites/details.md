@@ -1,12 +1,22 @@
+---
+title: Details
+description: About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
+url: https://www.details.so
+type: gallery
+formats: inspiration gallery · code vault · MCP server
+topics: [inspiration, motion, landing-pages, agents-and-prompts]
+verdict: very-useful
+agent: [mcp, llms-txt]
+pricing: freemium
+licence: "Free Starter tier; Pro $9/mo (annual) or $12/mo (quarterly); Max $19/mo or $25/mo; Team $22 or $28 per seat per month; Lifetime $490 one-time. Proprietary: Vault code may be used in your own and client projects on a paid plan, but not redistributed or used to train models. Screenshots belong to the featured sites"
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [60fps, supahero, footer-design, scrolltide, landing-love]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Details
-
-- **URL:** https://www.details.so
-- **Type:** inspiration gallery · code vault · MCP server
-- **Topics:** inspiration, motion, landing-pages, agents-and-prompts
-- **Pricing / licence:** Free Starter tier; Pro $9/mo (annual) or $12/mo (quarterly); Max $19/mo or $25/mo; Team $22 or $28 per seat per month; Lifetime $490 one-time. Proprietary: Vault code may be used in your own and client projects on a paid plan, but not redistributed or used to train models. Screenshots belong to the featured sites
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

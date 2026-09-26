@@ -1,12 +1,22 @@
+---
+title: React Bits
+description: Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
+url: https://reactbits.dev
+type: component-library
+formats: component library
+topics: [components, motion, agents-and-prompts, 3d-and-shaders]
+verdict: very-useful
+agent: [llms-txt]
+pricing: freemium
+licence: MIT + Commons Clause (DavidHDev/react-bits); React Bits Pro is commercial
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [kinetics, animejs, motion-primitives, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # React Bits
-
-- **URL:** https://reactbits.dev
-- **Type:** component library
-- **Topics:** components, motion, agents-and-prompts, 3d-and-shaders
-- **Pricing / licence:** MIT + Commons Clause (DavidHDev/react-bits); React Bits Pro is commercial
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

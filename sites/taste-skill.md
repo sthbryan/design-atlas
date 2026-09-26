@@ -1,12 +1,22 @@
+---
+title: Taste Skill
+description: Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
+url: https://www.tasteskill.dev
+type: agent-skill-collection
+formats: agent skill collection
+topics: [agents-and-prompts, landing-pages, typography-and-styles, motion]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: free. MIT (© 2026 Leonxlnx, GitHub `Leonxlnx/taste-skill`, about 90k stars at review, last push 2026-09-23). Funded by sponsors; the README opens with sponsor and referral links.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [impeccable, hallmark, antislop-ui, ui-skills, emil-kowalski-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
 
 # Taste Skill
-
-- **URL:** https://www.tasteskill.dev
-- **Type:** agent skill collection
-- **Topics:** agents-and-prompts, landing-pages, typography-and-styles, motion
-- **Pricing / licence:** free. MIT (© 2026 Leonxlnx, GitHub `Leonxlnx/taste-skill`, about 90k stars at review, last push 2026-09-23). Funded by sponsors; the README opens with sponsor and referral links.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

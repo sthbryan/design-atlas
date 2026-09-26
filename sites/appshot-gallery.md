@@ -1,12 +1,22 @@
+---
+title: AppShot Gallery
+description: Real App Store and Play Store listing screenshots and icons, filterable by genre, style and tone.
+url: https://appshot.gallery
+type: gallery
+formats: inspiration gallery · assets
+topics: [inspiration, assets]
+verdict: niche
+agent: []
+pricing: free
+licence: Not stated (free to browse; includes sponsored listings and a "buy me a coffee"-style donation link)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [minimal-gallery, designeer, 3dicons]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md)
 
 # AppShot Gallery
-
-- **URL:** https://appshot.gallery
-- **Type:** inspiration gallery · assets
-- **Topics:** inspiration, assets
-- **Pricing / licence:** Not stated (free to browse; includes sponsored listings and a "buy me a coffee"-style donation link)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

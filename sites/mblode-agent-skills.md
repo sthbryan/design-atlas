@@ -1,12 +1,22 @@
+---
+title: mblode Agent Skills
+description: Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
+url: https://github.com/mblode/agent-skills
+type: agent-skill-collection
+formats: agent skill collection
+topics: [agents-and-prompts, ux-patterns, motion, typography-and-styles]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: free. MIT (© 2026 Matthew Blode). About 130 GitHub stars but 27.1k installs on skills.sh at review. The README also promotes the author's own course, Taste Training, whose first unit is free.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [impeccable, ui-skills, hallmark, design-motion-principles, dialkit, agentation]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # mblode Agent Skills
-
-- **URL:** https://github.com/mblode/agent-skills
-- **Type:** agent skill collection
-- **Topics:** agents-and-prompts, ux-patterns, motion, typography-and-styles
-- **Pricing / licence:** free. MIT (© 2026 Matthew Blode). About 130 GitHub stars but 27.1k installs on skills.sh at review. The README also promotes the author's own course, Taste Training, whose first unit is free.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

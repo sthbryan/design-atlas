@@ -1,12 +1,22 @@
+---
+title: Motion Primitives
+description: Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
+url: https://motion-primitives.com
+type: component-library
+formats: animated component library
+topics: [motion, components, typography-and-styles]
+verdict: useful
+agent: [cli]
+pricing: freemium
+licence: free, open-source core with frequent updates; a "Pro" tier at pro.motion-primitives.com
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [aceternity-ui, magic-ui, css-text-effects, animejs, kinetics]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Motion Primitives
-
-- **URL:** https://motion-primitives.com
-- **Type:** animated component library
-- **Topics:** motion, components, typography-and-styles
-- **Pricing / licence:** free, open-source core with frequent updates; a "Pro" tier at pro.motion-primitives.com
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

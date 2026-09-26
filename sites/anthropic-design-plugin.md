@@ -1,12 +1,22 @@
+---
+title: Anthropic Design Plugin
+description: "Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates."
+url: https://github.com/anthropics/knowledge-work-plugins/tree/main/design
+type: agent-skill-collection
+formats: agent skill collection · Claude Code and Cowork plugin
+topics: [agents-and-prompts, ux-patterns, documentation]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free. Apache-2.0 (repo-root `LICENSE`; `anthropics/knowledge-work-plugins` had about 25.6k stars at review). The design plugin is version 1.2.0; its folder last changed 2026-09-21.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [wondelai-skills, accesslint-skills, addy-osmani-web-quality-skills, design-system-checklist, laws-of-ux, impeccable]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [documentation](../topics/documentation.md)
 
 # Anthropic Design Plugin
-
-- **URL:** https://github.com/anthropics/knowledge-work-plugins/tree/main/design
-- **Type:** agent skill collection · Claude Code and Cowork plugin
-- **Topics:** agents-and-prompts, ux-patterns, documentation
-- **Pricing / licence:** free. Apache-2.0 (repo-root `LICENSE`; `anthropics/knowledge-work-plugins` had about 25.6k stars at review). The design plugin is version 1.2.0; its folder last changed 2026-09-21.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

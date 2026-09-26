@@ -1,12 +1,22 @@
+---
+title: OpenMotion
+description: Free closed desktop app that drives your Claude Code or Codex CLI to turn a brief into editable launch videos; nothing for your own agent to call.
+url: https://openmotion.design
+type: tool
+formats: tool (desktop app)
+topics: [motion, agents-and-prompts]
+verdict: niche
+agent: []
+pricing: free
+licence: free while in development, with a possible future Pro plan per the site; requires an account. Closed-source desktop app despite the name; no public repository, terms or licence page was found
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [60fps, scrolltide, animejs, dialkit]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # OpenMotion
-
-- **URL:** https://openmotion.design
-- **Type:** tool (desktop app)
-- **Topics:** motion, agents-and-prompts
-- **Pricing / licence:** free while in development, with a possible future Pro plan per the site; requires an account. Closed-source desktop app despite the name; no public repository, terms or licence page was found
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

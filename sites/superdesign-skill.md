@@ -1,12 +1,22 @@
+---
+title: Superdesign
+description: Drives the hosted superdesign.dev canvas from your agent to branch drafts and compare models.
+url: https://github.com/superdesigndev/superdesign-skill
+type: agent-skill
+formats: agent skill · client for the hosted superdesign.dev canvas (CLI `@superdesign/cli`)
+topics: [agents-and-prompts, design-md, inspiration]
+verdict: useful
+agent: [cli, skill]
+pricing: not-stated
+licence: the skill and the CLI are MIT, © 2026 Superdesign (about 600 stars and about 9.8k skills.sh installs at review; plugin 0.6.0, CLI 0.14.0 on npm). Designing needs a superdesign.dev account, and each generation spends that account's credits.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [huashu-design, design-lab, efecto, open-design, impeccable]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [inspiration](../topics/inspiration.md)
 
 # Superdesign
-
-- **URL:** https://github.com/superdesigndev/superdesign-skill
-- **Type:** agent skill · client for the hosted superdesign.dev canvas (CLI `@superdesign/cli`)
-- **Topics:** agents-and-prompts, design-md, inspiration
-- **Pricing / licence:** the skill and the CLI are MIT, © 2026 Superdesign (about 600 stars and about 9.8k skills.sh installs at review; plugin 0.6.0, CLI 0.14.0 on npm). Designing needs a superdesign.dev account, and each generation spends that account's credits.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

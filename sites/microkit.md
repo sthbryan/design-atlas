@@ -1,12 +1,22 @@
+---
+title: MicroKit
+description: 49 React microinteractions with polished transitions, ready to copy and adapt.
+url: https://microkit.co
+type: component-library
+formats: component library
+topics: [components, motion]
+verdict: useful
+agent: []
+pricing: free
+licence: MIT / Open source
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [kinetics, css-text-effects, animejs]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
 
 # MicroKit
-
-- **URL:** https://microkit.co
-- **Type:** component library
-- **Topics:** components, motion
-- **Pricing / licence:** MIT / Open source
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

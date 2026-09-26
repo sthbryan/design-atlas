@@ -1,12 +1,22 @@
+---
+title: CSS Text Effects
+description: 90 copy-ready animated text effects in pure CSS, with custom-property colour tokens.
+url: https://text-effects.colorion.co
+type: component-library
+formats: component library
+topics: [typography-and-styles, motion]
+verdict: useful
+agent: [prompts]
+pricing: free
+licence: MIT / Open source
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [kinetics, circle-loaders, gradient-buttons]
+---
 [← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
 
 # CSS Text Effects
-
-- **URL:** https://text-effects.colorion.co
-- **Type:** component library
-- **Topics:** typography-and-styles, motion
-- **Pricing / licence:** MIT / Open source
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

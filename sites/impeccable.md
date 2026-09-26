@@ -1,12 +1,22 @@
+---
+title: Impeccable
+description: Apache-2.0 design skill with 24 commands, a deterministic slop detector for CI, and PRODUCT.md/DESIGN.md context.
+url: https://impeccable.style
+type: agent-skill
+formats: agent skill · CLI · anti-pattern detector · browser extension
+topics: [agents-and-prompts, design-md, ux-patterns]
+verdict: very-useful
+agent: [llms-txt, cli, skill]
+pricing: free
+licence: free. Apache-2.0 (GitHub `pbakaus/impeccable`, about 71k stars at review; npm `impeccable` 4.1.0). The optional image-generation route bills your own `OPENAI_API_KEY`.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [hallmark, ui-skills, typeui, dialkit, getdesign-md]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Impeccable
-
-- **URL:** https://impeccable.style
-- **Type:** agent skill · CLI · anti-pattern detector · browser extension
-- **Topics:** agents-and-prompts, design-md, ux-patterns
-- **Pricing / licence:** free. Apache-2.0 (GitHub `pbakaus/impeccable`, about 71k stars at review; npm `impeccable` 4.1.0). The optional image-generation route bills your own `OPENAI_API_KEY`.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

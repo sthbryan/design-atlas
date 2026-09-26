@@ -1,12 +1,22 @@
+---
+title: Anthropic Skills
+description: Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
+url: https://github.com/anthropics/skills
+type: agent-skill-collection
+formats: agent skill collection · Claude Code plugin marketplace
+topics: [agents-and-prompts, typography-and-styles, landing-pages, color]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: "free. The repo has no root licence file. Each design skill ships its own Apache-2.0 `LICENSE.txt`, and the `canvas-fonts` are under the SIL Open Font Licence. The document skills (docx, pdf, pptx, xlsx) are source-available only and are not covered here. About 178k GitHub stars at review. skills.sh installs: `frontend-design` 923k, `canvas-design` 111k, `brand-guidelines` 96k, `theme-factory` 87k."
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [impeccable, hallmark, ui-skills, ui-ux-pro-max, typeui]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md), [color](../topics/color.md)
 
 # Anthropic Skills
-
-- **URL:** https://github.com/anthropics/skills
-- **Type:** agent skill collection · Claude Code plugin marketplace
-- **Topics:** agents-and-prompts, typography-and-styles, landing-pages, color
-- **Pricing / licence:** free. The repo has no root licence file. Each design skill ships its own Apache-2.0 `LICENSE.txt`, and the `canvas-fonts` are under the SIL Open Font Licence. The document skills (docx, pdf, pptx, xlsx) are source-available only and are not covered here. About 178k GitHub stars at review. skills.sh installs: `frontend-design` 923k, `canvas-design` 111k, `brand-guidelines` 96k, `theme-factory` 87k.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

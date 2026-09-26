@@ -1,12 +1,22 @@
+---
+title: Landing Love
+description: 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
+url: https://www.landing.love
+type: gallery
+formats: inspiration gallery (video)
+topics: [landing-pages, motion, inspiration]
+verdict: useful
+agent: [llms-txt]
+pricing: free
+licence: Free, with no paywall found. Funded by Google AdSense, Carbon/BuySellAds units, sponsor cards and affiliate template links. Every recording and screenshot stays © its owner, and the `llms.txt` asks you to credit the studio and link back to the entry
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [details, supahero, minimal-gallery, scrolltide, recent-design]
+---
 [← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
 
 # Landing Love
-
-- **URL:** https://www.landing.love
-- **Type:** inspiration gallery (video)
-- **Topics:** landing-pages, motion, inspiration
-- **Pricing / licence:** Free, with no paywall found. Funded by Google AdSense, Carbon/BuySellAds units, sponsor cards and affiliate template links. Every recording and screenshot stays © its owner, and the `llms.txt` asks you to credit the studio and link back to the entry
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

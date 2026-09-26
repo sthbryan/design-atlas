@@ -1,12 +1,22 @@
+---
+title: Collect UI
+description: Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
+url: https://collectui.com
+type: gallery
+formats: inspiration gallery
+topics: [inspiration, components, motion]
+verdict: useful
+agent: []
+pricing: free
+licence: Not stated (free to browse; funded by sponsor listings in the Panda Network; each design stays credited to its designer and links to the original post on X)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [inspora, recent-design, uiverse, minimal-gallery]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Collect UI
-
-- **URL:** https://collectui.com
-- **Type:** inspiration gallery
-- **Topics:** inspiration, components, motion
-- **Pricing / licence:** Not stated (free to browse; funded by sponsor listings in the Panda Network; each design stays credited to its designer and links to the original post on X)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

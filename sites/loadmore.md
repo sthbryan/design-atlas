@@ -1,12 +1,22 @@
+---
+title: loadmo.re
+description: Hand-picked archive of experimental mobile-first websites since 2021, tagged by technique and genre.
+url: https://loadmo.re
+type: gallery
+formats: inspiration gallery
+topics: [inspiration, typography-and-styles, motion]
+verdict: useful
+agent: []
+pricing: free
+licence: Free; according to the site it has no ads and no paid submissions and is supported through Ko-fi. The curation is marked © Kim Lê Boutin; featured sites belong to their makers
+licence_class: proprietary-free
+reviewed: 2026-09-25
+status: active
+related: [minimal-gallery, inspora, recent-design, scrolltide]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
 
 # loadmo.re
-
-- **URL:** https://loadmo.re
-- **Type:** inspiration gallery
-- **Topics:** inspiration, typography-and-styles, motion
-- **Pricing / licence:** Free; according to the site it has no ads and no paid submissions and is supported through Ko-fi. The curation is marked © Kim Lê Boutin; featured sites belong to their makers
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: agentcn
+description: Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
+url: https://www.agentcn.run
+type: component-registry
+formats: agent recipe registry (shadcn format)
+topics: [agents-and-prompts, ai-interfaces, design-md]
+verdict: niche
+agent: [llms-txt, registry, api, skill]
+pricing: free
+licence: free; MIT (repo `shadcn-labs/agentcn`, about 480 GitHub stars at review). Recipes call paid third-party APIs you bring keys for.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [mcpcn, prompt-kit, designmd-supply, designmd-cc, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md), [design-md](../topics/design-md.md)
 
 # agentcn
-
-- **URL:** https://www.agentcn.run
-- **Type:** agent recipe registry (shadcn format)
-- **Topics:** agents-and-prompts, ai-interfaces, design-md
-- **Pricing / licence:** free; MIT (repo `shadcn-labs/agentcn`, about 480 GitHub stars at review). Recipes call paid third-party APIs you bring keys for.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

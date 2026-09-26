@@ -1,12 +1,22 @@
+---
+title: The Shape of AI
+description: Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
+url: https://www.shapeof.ai
+type: pattern-library
+formats: pattern library (AI UX)
+topics: [ai-interfaces, ux-patterns, inspiration]
+verdict: very-useful
+agent: []
+pricing: free
+licence: free to read; the footer marks the content CC BY-NC-SA (share with credit, non-commercial, same licence). Free newsletter and Slack community.
+licence_class: cc-noncommercial
+reviewed: 2026-09-25
+status: active
+related: [prompt-kit, component-gallery, mcpcn, agentcn]
+---
 [← Atlas](../README.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [ux-patterns](../topics/ux-patterns.md), [inspiration](../topics/inspiration.md)
 
 # The Shape of AI
-
-- **URL:** https://www.shapeof.ai
-- **Type:** pattern library (AI UX)
-- **Topics:** ai-interfaces, ux-patterns, inspiration
-- **Pricing / licence:** free to read; the footer marks the content CC BY-NC-SA (share with credit, non-commercial, same licence). Free newsletter and Slack community.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

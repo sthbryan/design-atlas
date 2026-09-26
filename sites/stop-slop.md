@@ -1,12 +1,22 @@
+---
+title: Stop Slop
+description: Small prose skill listing AI phrases and sentence shapes to cut, with a 50-point score.
+url: https://github.com/hardikpandya/stop-slop
+type: agent-skill
+formats: agent skill
+topics: [agents-and-prompts, documentation]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free. MIT (© 2025 Hardik Pandya; about 17.6k stars at review, last push 2026-03-17).
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [no-ai-slop, antislop-ui, taste-skill, ui-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [documentation](../topics/documentation.md)
 
 # Stop Slop
-
-- **URL:** https://github.com/hardikpandya/stop-slop
-- **Type:** agent skill
-- **Topics:** agents-and-prompts, documentation
-- **Pricing / licence:** free. MIT (© 2025 Hardik Pandya; about 17.6k stars at review, last push 2026-03-17).
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: "Libraries.dev: Thinking orbs"
+description: MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
+url: https://libraries.dev/orbs
+type: js-library
+formats: JavaScript library (React), part of the Libraries.dev collection
+topics: [motion, components, agents-and-prompts, ai-interfaces]
+verdict: useful
+agent: [prompts, skill]
+pricing: freemium
+licence: "`thinking-orbs` is MIT and free on npm; Libraries Pro ($9/mo solo, $39/mo for a 5-seat team, or lifetime $149 / $499) adds the Studio, Pro presets, the Pro agent skill and a commercial licence for Pro content"
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [reactbits, magic-ui, rareui, liquid-glass, circle-loaders]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Libraries.dev: Thinking orbs
-
-- **URL:** https://libraries.dev/orbs
-- **Type:** JavaScript library (React), part of the Libraries.dev collection
-- **Topics:** motion, components, agents-and-prompts, ai-interfaces
-- **Pricing / licence:** `thinking-orbs` is MIT and free on npm; Libraries Pro ($9/mo solo, $39/mo for a 5-seat team, or lifetime $149 / $499) adds the Studio, Pro presets, the Pro agent skill and a commercial licence for Pro content
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

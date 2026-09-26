@@ -1,12 +1,22 @@
+---
+title: Design.md Store
+description: 51 free brand-inspired DESIGN.md packs plus clear docs on the Google DESIGN.md format; strict reuse terms.
+url: https://designmd-store.com
+type: style-library
+formats: style library · format documentation
+topics: [design-md, typography-and-styles, documentation]
+verdict: useful
+agent: [llms-txt]
+pricing: freemium
+licence: the 51 packs are free (the Terms say downloading may require registration). A Pro subscription is mentioned, but no price is published. The Terms grant a non-exclusive, non-transferable licence for personal and commercial projects. They forbid reselling or sublicensing packs, republishing the raw files on other platforms without permission, and removing copyright notices.
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [getdesign-md, designmd, refero-styles, designmd-supply, typeui]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md), [documentation](../topics/documentation.md)
 
 # Design.md Store
-
-- **URL:** https://designmd-store.com
-- **Type:** style library · format documentation
-- **Topics:** design-md, typography-and-styles, documentation
-- **Pricing / licence:** the 51 packs are free (the Terms say downloading may require registration). A Pro subscription is mentioned, but no price is published. The Terms grant a non-exclusive, non-transferable licence for personal and commercial projects. They forbid reselling or sublicensing packs, republishing the raw files on other platforms without permission, and removing copyright notices.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

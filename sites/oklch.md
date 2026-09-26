@@ -1,12 +1,22 @@
+---
+title: OKLCH
+description: Evil Martians' OKLCH picker and converter with P3/Rec. 2020 gamut views and sRGB fallbacks.
+url: https://oklch.com
+type: tool
+formats: tool
+topics: [color, typography-and-styles]
+verdict: very-useful
+agent: []
+pricing: free
+licence: Free / MIT (source on GitHub)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [huetone, ramps, color-review, dialkit]
+---
 [← Atlas](../README.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # OKLCH
-
-- **URL:** https://oklch.com
-- **Type:** tool
-- **Topics:** color, typography-and-styles
-- **Pricing / licence:** Free / MIT (source on GitHub)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

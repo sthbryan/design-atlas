@@ -1,12 +1,22 @@
+---
+title: Magic UI
+description: 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
+url: https://magicui.design
+type: component-library
+formats: animated component library
+topics: [components, motion, cta]
+verdict: very-useful
+agent: [registry]
+pricing: freemium
+licence: free and open source (repo `magicuidesign/magicui` on GitHub); a paid "Magic UI Pro" tier with extra landing-page blocks and templates
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [aceternity-ui, motion-primitives, shadcn-ui, 21st-dev, cta-gallery]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [cta](../topics/cta.md)
 
 # Magic UI
-
-- **URL:** https://magicui.design
-- **Type:** animated component library
-- **Topics:** components, motion, cta
-- **Pricing / licence:** free and open source (repo `magicuidesign/magicui` on GitHub); a paid "Magic UI Pro" tier with extra landing-page blocks and templates
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

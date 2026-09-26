@@ -1,12 +1,22 @@
+---
+title: Good UI
+description: 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
+url: https://goodui.org
+type: pattern-library
+formats: pattern library · A/B test database
+topics: [cta, ux-patterns, landing-pages]
+verdict: useful
+agent: []
+pricing: freemium
+licence: "Pattern names, test write-ups and the original 75 ideas are free to read. The actual effect sizes are members-only: Solo $60/month billed yearly ($720, 1 user), Team $120/month billed yearly ($1,440, 5 users), and an Expert-Guided plan at $1,950/month with a monthly test review. The site offers a 30-day refund if a pattern doesn't work for you. The Terms forbid copying, reproducing or reselling any part of the service without written permission, and each plan licenses the data to a set number of users."
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [cta-gallery, supahero, laws-of-ux, ui-playbook]
+---
 [← Atlas](../README.md) · Topics: [cta](../topics/cta.md), [ux-patterns](../topics/ux-patterns.md), [landing-pages](../topics/landing-pages.md)
 
 # Good UI
-
-- **URL:** https://goodui.org
-- **Type:** pattern library · A/B test database
-- **Topics:** cta, ux-patterns, landing-pages
-- **Pricing / licence:** Pattern names, test write-ups and the original 75 ideas are free to read. The actual effect sizes are members-only: Solo $60/month billed yearly ($720, 1 user), Team $120/month billed yearly ($1,440, 5 users), and an Expert-Guided plan at $1,950/month with a monthly test review. The site offers a 30-day refund if a pattern doesn't work for you. The Terms forbid copying, reproducing or reselling any part of the service without written permission, and each plan licenses the data to a set number of users.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

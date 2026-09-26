@@ -1,12 +1,22 @@
+---
+title: shieldcn
+description: shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
+url: https://shieldcn.dev
+type: asset-library
+formats: badge image service · README builder · agent skill
+topics: [assets, documentation, agents-and-prompts]
+verdict: useful
+agent: [llms-txt, registry, skill]
+pricing: free
+licence: free public service; MIT (repo `jal-co/shieldcn`); can be self-hosted with Docker
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [ogimagecn, iconoir, shadcn-ui, component-gallery]
+---
 [← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # shieldcn
-
-- **URL:** https://shieldcn.dev
-- **Type:** badge image service · README builder · agent skill
-- **Topics:** assets, documentation, agents-and-prompts
-- **Pricing / licence:** free public service; MIT (repo `jal-co/shieldcn`); can be self-hosted with Docker
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

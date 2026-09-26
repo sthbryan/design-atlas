@@ -1,12 +1,22 @@
+---
+title: NumberFlow
+description: "The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla."
+url: https://number-flow.barvian.me
+type: js-library
+formats: JS library
+topics: [motion, components, typography-and-styles]
+verdict: very-useful
+agent: []
+pricing: free
+licence: Free / MIT
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [torph, textmotion, motion-primitives, magic-ui]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # NumberFlow
-
-- **URL:** https://number-flow.barvian.me
-- **Type:** JS library
-- **Topics:** motion, components, typography-and-styles
-- **Pricing / licence:** Free / MIT
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

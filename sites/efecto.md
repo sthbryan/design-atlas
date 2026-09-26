@@ -1,12 +1,22 @@
+---
+title: Efecto
+description: Browser canvas your agent drives through MCP tools, plus an FX engine for dither, ASCII and halftone posters.
+url: https://efecto.app
+type: design-workspace
+formats: design canvas · MCP server · REST API · visual-effects tool
+topics: [agents-and-prompts, 3d-and-shaders, assets]
+verdict: useful
+agent: [mcp, llms-txt, api, skill]
+pricing: freemium
+licence: "driving Efecto from your own agent over MCP is free, with no API key or account, according to the docs. The pricing page renders only in JavaScript. Its code lists a Free plan (5 design files, all 30+ FX effects, screenshot and video export, share links) and paid plans for the built-in AI agent: Starter $4.99/mo (10 AI credits), Pro $14.99/mo (50 credits) and Max $89.99/mo (500 credits). The MCP package `@efectoapp/mcp` is MIT. The Terms say you keep ownership of what you create and grant Efecto a limited licence to host and process it."
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [open-design, aura, impeccable, screenshot-to-code]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [3d-and-shaders](../topics/3d-and-shaders.md), [assets](../topics/assets.md)
 
 # Efecto
-
-- **URL:** https://efecto.app
-- **Type:** design canvas · MCP server · REST API · visual-effects tool
-- **Topics:** agents-and-prompts, 3d-and-shaders, assets
-- **Pricing / licence:** driving Efecto from your own agent over MCP is free, with no API key or account, according to the docs. The pricing page renders only in JavaScript. Its code lists a Free plan (5 design files, all 30+ FX effects, screenshot and video export, share links) and paid plans for the built-in AI agent: Starter $4.99/mo (10 AI credits), Pro $14.99/mo (50 credits) and Max $89.99/mo (500 credits). The MCP package `@efectoapp/mcp` is MIT. The Terms say you keep ownership of what you create and grant Efecto a limited licence to host and process it.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

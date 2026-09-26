@@ -1,12 +1,22 @@
+---
+title: 21st.dev
+description: Community registry of React and Tailwind components with many variants per pattern, a CLI and an MCP server.
+url: https://21st.dev
+type: component-registry
+formats: community marketplace / registry of React components
+topics: [components, agents-and-prompts, inspiration]
+verdict: very-useful
+agent: [mcp, cli, api]
+pricing: freemium
+licence: free with a limit of 2 component copies per day; premium membership for unlimited copies and exclusive templates. Installed code stays "in your repo, as your code," with no runtime package of its own.
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [shadcn-ui, magic-ui, aceternity-ui, vibeprompts, component-gallery]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md)
 
 # 21st.dev
-
-- **URL:** https://21st.dev
-- **Type:** community marketplace / registry of React components
-- **Topics:** components, agents-and-prompts, inspiration
-- **Pricing / licence:** free with a limit of 2 component copies per day; premium membership for unlimited copies and exclusive templates. Installed code stays "in your repo, as your code," with no runtime package of its own.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: termcn
+description: Ink and OpenTUI terminal components via shadcn CLI, including agent chat, tool-approval and diff-review widgets.
+url: https://termcn.dev
+type: component-library
+formats: terminal UI component library (shadcn registry)
+topics: [components, agents-and-prompts, ai-interfaces]
+verdict: very-useful
+agent: [llms-txt, registry, api, skill]
+pricing: free
+licence: free; MIT (repo `shadcn-labs/termcn`); Ink and OpenTUI are also MIT
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [shadcn-ui, mapcn, pdfcn, emailcn, 21st-dev]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # termcn
-
-- **URL:** https://termcn.dev
-- **Type:** terminal UI component library (shadcn registry)
-- **Topics:** components, agents-and-prompts, ai-interfaces
-- **Pricing / licence:** free; MIT (repo `shadcn-labs/termcn`); Ink and OpenTUI are also MIT
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

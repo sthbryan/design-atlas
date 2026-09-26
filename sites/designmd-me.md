@@ -1,12 +1,22 @@
+---
+title: DesignMD (designmd.me)
+description: Credit-based URL-to-DESIGN.md generator with CLI, agent skill, Figma import and a free Discover gallery.
+url: https://designmd.me
+type: tool
+formats: DESIGN.md generator · CLI · agent skill · Figma plugin
+topics: [design-md, agents-and-prompts, typography-and-styles]
+verdict: useful
+agent: [llms-txt, cli, skill]
+pricing: freemium
+licence: credits. New visitors get 4 free credits, plus 20 more on first sign-in. Packs cost $5 (50 credits), $15 (175) and $30 (375), and credits don't expire. A single-page file costs 4 credits, a multi-page crawl 8, an HTML preview 8 more, and a Figma import 12. Discover and Compare are free. Not stated for the licence of generated files (the Terms of Use are Crowdlinker's general terms). The agent skill repo is MIT.
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [designmd-supply, hyperbrowser-design-md, design-md-chrome, getdesign-md, refero-styles]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # DesignMD (designmd.me)
-
-- **URL:** https://designmd.me
-- **Type:** DESIGN.md generator · CLI · agent skill · Figma plugin
-- **Topics:** design-md, agents-and-prompts, typography-and-styles
-- **Pricing / licence:** credits. New visitors get 4 free credits, plus 20 more on first sign-in. Packs cost $5 (50 credits), $15 (175) and $30 (375), and credits don't expire. A single-page file costs 4 credits, a multi-page crawl 8, an HTML preview 8 more, and a Figma import 12. Discover and Compare are free. Not stated for the licence of generated files (the Terms of Use are Crowdlinker's general terms). The agent skill repo is MIT.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

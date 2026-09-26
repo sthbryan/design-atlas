@@ -1,12 +1,22 @@
+---
+title: soundcn
+description: 813 recorded UI and game sounds installed via shadcn CLI; 110 Blizzard clips are non-commercial only.
+url: https://soundcn.xyz
+type: sound-library
+formats: sound library (shadcn registry)
+topics: [sound, assets, components]
+verdict: useful
+agent: [registry]
+pricing: free
+licence: free; site code MIT, most audio CC0 from Kenney, but the 110-sound World of Warcraft set is © Blizzard Entertainment and not freely licensed
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [uisfx, cuelume, sensory-ui, web-kits-audio, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [sound](../topics/sound.md), [assets](../topics/assets.md), [components](../topics/components.md)
 
 # soundcn
-
-- **URL:** https://soundcn.xyz
-- **Type:** sound library (shadcn registry)
-- **Topics:** sound, assets, components
-- **Pricing / licence:** free; site code MIT, most audio CC0 from Kenney, but the 110-sound World of Warcraft set is © Blizzard Entertainment and not freely licensed
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

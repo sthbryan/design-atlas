@@ -1,12 +1,22 @@
+---
+title: Recent
+description: Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
+url: https://recent.design
+type: gallery
+formats: inspiration gallery · skills directory
+topics: [inspiration, assets, agents-and-prompts]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: Not stated (free to browse, with optional free member accounts; funded by sponsorships, which the site prices at $5,000 per 30-day campaign, and a job board). Each entry credits its creator and links to the source
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [collect-ui, inspora, posts-design, appshot-gallery, minimal-gallery]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Recent
-
-- **URL:** https://recent.design
-- **Type:** inspiration gallery · skills directory
-- **Topics:** inspiration, assets, agents-and-prompts
-- **Pricing / licence:** Not stated (free to browse, with optional free member accounts; funded by sponsorships, which the site prices at $5,000 per 30-day campaign, and a job board). Each entry credits its creator and links to the source
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

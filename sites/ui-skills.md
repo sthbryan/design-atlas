@@ -1,12 +1,22 @@
+---
+title: UI Skills
+description: 306 design-engineering skills from 84 authors, with a routing skill, CLI, MCP and 18 real company DESIGN.md files.
+url: https://www.ui-skills.com
+type: directory
+formats: skills directory · CLI · MCP
+topics: [agents-and-prompts, design-md, motion, ux-patterns]
+verdict: very-useful
+agent: [mcp, llms-txt, cli, skill]
+pricing: free
+licence: free, no account. The site's own skills (GitHub `ibelick/ui-skills`, about 9.1k stars) and the `ui-skills` CLI are MIT. Every other listed skill keeps its author's licence, so check each source repo. No terms page is published.
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [impeccable, hallmark, typeui, motion-primitives, designmd]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
 
 # UI Skills
-
-- **URL:** https://www.ui-skills.com
-- **Type:** skills directory · CLI · MCP
-- **Topics:** agents-and-prompts, design-md, motion, ux-patterns
-- **Pricing / licence:** free, no account. The site's own skills (GitHub `ibelick/ui-skills`, about 9.1k stars) and the `ui-skills` CLI are MIT. Every other listed skill keeps its author's licence, so check each source repo. No terms page is published.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

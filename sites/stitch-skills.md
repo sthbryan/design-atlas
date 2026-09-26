@@ -1,12 +1,22 @@
+---
+title: Stitch Skills
+description: Google Labs' Stitch skills and source of the "Stitch format"; three DESIGN.md writers with different layouts.
+url: https://github.com/google-labs-code/stitch-skills
+type: agent-skill-collection
+formats: agent skill collection · plugin marketplace (Codex, Claude Code, Cursor)
+topics: [agents-and-prompts, design-md, typography-and-styles]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free skills. Apache-2.0 (repo `LICENSE`). About 8.4k GitHub stars at review; on skills.sh `design-md` has 62.6k installs and `taste-design` 18.5k. Most skills need a Google Stitch account and its MCP server set up with your own credentials; the upload script sends a Stitch API key. The README says it is not an officially supported Google product.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [designmd, getdesign-md, designmd-store, impeccable, extract-design-system]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Stitch Skills
-
-- **URL:** https://github.com/google-labs-code/stitch-skills
-- **Type:** agent skill collection · plugin marketplace (Codex, Claude Code, Cursor)
-- **Topics:** agents-and-prompts, design-md, typography-and-styles
-- **Pricing / licence:** free skills. Apache-2.0 (repo `LICENSE`). About 8.4k GitHub stars at review; on skills.sh `design-md` has 62.6k installs and `taste-design` 18.5k. Most skills need a Google Stitch account and its MCP server set up with your own credentials; the upload script sends a Stitch API key. The README says it is not an officially supported Google product.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: Kombai
+description: Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
+url: https://kombai.com
+type: ai-builder
+formats: AI builder (frontend coding agent) · desktop app · IDE extension · design gallery
+topics: [agents-and-prompts, inspiration, landing-pages]
+verdict: useful
+agent: [mcp, llms-txt, skill]
+pricing: freemium
+licence: credit-based. Free gives 300 credits a month (150 on sign-up, then 50 a day); Pro is $20/month for 2,000 credits; Team is $40 per user per month with a shared pool; Enterprise is custom; yearly billing saves 20%. "No AI training on your data" is listed from Pro upward. The terms leave you owning what you submit but say nothing specific about generated code. Kombai Gallery is free with no sign-up and states no reuse licence. The app is proprietary.
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [aura, neuform, screenshot-to-code, kage, recent-design]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Kombai
-
-- **URL:** https://kombai.com
-- **Type:** AI builder (frontend coding agent) · desktop app · IDE extension · design gallery
-- **Topics:** agents-and-prompts, inspiration, landing-pages
-- **Pricing / licence:** credit-based. Free gives 300 credits a month (150 on sign-up, then 50 a day); Pro is $20/month for 2,000 credits; Team is $40 per user per month with a shared pool; Enterprise is custom; yearly billing saves 20%. "No AI training on your data" is listed from Pro upward. The terms leave you owning what you submit but say nothing specific about generated code. Kombai Gallery is free with no sign-up and states no reuse licence. The app is proprietary.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: Detail (detail.design)
+description: About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
+url: https://detail.design
+type: gallery
+formats: inspiration gallery · agent skill · Figma plugin
+topics: [ux-patterns, motion, inspiration, agents-and-prompts]
+verdict: useful
+agent: [skill]
+pricing: freemium
+licence: Free to read. The paid Craft Manual costs $199, and sponsors fund the site. The terms let you read, quote, link to and teach from the writing, but not republish whole pieces or scrape it. The captured interfaces belong to their makers. The agent skill's README says MIT, but the repo has no LICENSE file
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [design-spells, 60fps, recent-design, devouring-details]
+---
 [← Atlas](../README.md) · Topics: [ux-patterns](../topics/ux-patterns.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Detail (detail.design)
-
-- **URL:** https://detail.design
-- **Type:** inspiration gallery · agent skill · Figma plugin
-- **Topics:** ux-patterns, motion, inspiration, agents-and-prompts
-- **Pricing / licence:** Free to read. The paid Craft Manual costs $199, and sponsors fund the site. The terms let you read, quote, link to and teach from the writing, but not republish whole pieces or scrape it. The captured interfaces belong to their makers. The agent skill's README says MIT, but the repo has no LICENSE file
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

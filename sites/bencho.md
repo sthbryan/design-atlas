@@ -1,12 +1,22 @@
+---
+title: Bencho
+description: 38 live, tunable React blocks whose "Copy prompt" hands an agent full source plus token-mapping instructions.
+url: https://bencho.dev
+type: component-library
+formats: component library · tool
+topics: [components, motion, inspiration]
+verdict: useful
+agent: [prompts]
+pricing: free
+licence: free; blocks MIT licensed (© 2026 Lorenzo Cabra), while the site, name, logo and bundled photos are not; paid sponsorship slots for companies
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [interior-dev, kinetics, dialkit, design-spells, 60fps]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
 
 # Bencho
-
-- **URL:** https://bencho.dev
-- **Type:** component library · tool
-- **Topics:** components, motion, inspiration
-- **Pricing / licence:** free; blocks MIT licensed (© 2026 Lorenzo Cabra), while the site, name, logo and bundled photos are not; paid sponsorship slots for companies
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

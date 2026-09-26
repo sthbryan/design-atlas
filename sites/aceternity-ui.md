@@ -1,12 +1,22 @@
+---
+title: Aceternity UI
+description: 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
+url: https://ui.aceternity.com
+type: component-library
+formats: React component library for landing pages
+topics: [components, motion, inspiration, landing-pages]
+verdict: very-useful
+agent: [mcp]
+pricing: freemium
+licence: free core; a one-time-payment "All-Access Pass" for lifetime access to premium blocks and templates, with commercial use allowed and its own refund policy
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [magic-ui, motion-primitives, shadcn-ui, reactbits, kinetics]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Aceternity UI
-
-- **URL:** https://ui.aceternity.com
-- **Type:** React component library for landing pages
-- **Topics:** components, motion, inspiration, landing-pages
-- **Pricing / licence:** free core; a one-time-payment "All-Access Pass" for lifetime access to premium blocks and templates, with commercial use allowed and its own refund policy
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

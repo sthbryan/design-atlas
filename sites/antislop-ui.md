@@ -1,12 +1,22 @@
+---
+title: antislop-ui
+description: Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
+url: https://www.skills.sh/miqdadbadjuber/anti-slop/antislop-ui
+type: agent-skill-collection
+formats: agent skill collection
+topics: [agents-and-prompts, ux-patterns, landing-pages]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free. MIT (© 2026 Miqdad Badjuber, GitHub `miqdadbadjuber/anti-slop`, about 3.7k stars at review, created 2026-08-07, last push 2026-09-24, version 3.2.16).
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [taste-skill, impeccable, hallmark, stop-slop, ui-skills]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [landing-pages](../topics/landing-pages.md)
 
 # antislop-ui
-
-- **URL:** https://www.skills.sh/miqdadbadjuber/anti-slop/antislop-ui
-- **Type:** agent skill collection
-- **Topics:** agents-and-prompts, ux-patterns, landing-pages
-- **Pricing / licence:** free. MIT (© 2026 Miqdad Badjuber, GitHub `miqdadbadjuber/anti-slop`, about 3.7k stars at review, created 2026-08-07, last push 2026-09-24, version 3.2.16).
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

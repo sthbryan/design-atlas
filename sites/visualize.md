@@ -1,12 +1,22 @@
+---
+title: visualize (display.dev)
+description: Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
+url: https://github.com/display-dev/visualize
+type: agent-skill
+formats: agent skill · artifact templates · design-system packages · deterministic detectors
+topics: [agents-and-prompts, design-md, documentation, typography-and-styles]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: "free. MIT, © 2026 display.dev, with exceptions listed in `NOTICES.md`: `reference/color.md` adapts CC BY 4.0 and Apache-2.0 material, `explore-system.md` adapts Apache-2.0 material from Impeccable, and the bundled tools (axe-core, Puppeteer, jq and others) keep their own licences. About 67 stars and about 60 skills.sh installs at review. v0.7.0, released 2026-09-16."
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [impeccable, hallmark, designmd, huashu-design, interface-design]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # visualize (display.dev)
-
-- **URL:** https://github.com/display-dev/visualize
-- **Type:** agent skill · artifact templates · design-system packages · deterministic detectors
-- **Topics:** agents-and-prompts, design-md, documentation, typography-and-styles
-- **Pricing / licence:** free. MIT, © 2026 display.dev, with exceptions listed in `NOTICES.md`: `reference/color.md` adapts CC BY 4.0 and Apache-2.0 material, `explore-system.md` adapts Apache-2.0 material from Impeccable, and the bundled tools (axe-core, Puppeteer, jq and others) keep their own licences. About 67 stars and about 60 skills.sh installs at review. v0.7.0, released 2026-09-16.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

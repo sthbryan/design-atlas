@@ -1,12 +1,22 @@
+---
+title: design.dev
+description: Free generators for DESIGN.md, AGENTS.md, CLAUDE.md and more, plus component prompts and style packs; strict terms.
+url: https://design.dev
+type: tool
+formats: generators · prompt library · style packs · CSS tools
+topics: [agents-and-prompts, design-md, components]
+verdict: useful
+agent: [llms-txt, prompts, skill]
+pricing: free
+licence: free, no account needed for the tools. No licence is stated for the prompts, style packs or generated files. The Terms (updated 24 March 2026) forbid copying, redistributing or publishing any portion of the site. The site is funded by sponsors and affiliate links, which the Terms say are not always labelled. Newsletter takeovers start at $300 per send.
+licence_class: proprietary-free
+reviewed: 2026-09-25
+status: active
+related: [typeui, designmd-cc, designmd-supply, vibeprompts, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [components](../topics/components.md)
 
 # design.dev
-
-- **URL:** https://design.dev
-- **Type:** generators · prompt library · style packs · CSS tools
-- **Topics:** agents-and-prompts, design-md, components
-- **Pricing / licence:** free, no account needed for the tools. No licence is stated for the prompts, style packs or generated files. The Terms (updated 24 March 2026) forbid copying, redistributing or publishing any portion of the site. The site is funded by sponsors and affiliate links, which the Terms say are not always labelled. Newsletter takeovers start at $300 per send.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

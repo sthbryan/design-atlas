@@ -1,12 +1,22 @@
+---
+title: Anime.js
+description: JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
+url: https://animejs.com
+type: js-library
+formats: JavaScript library
+topics: [motion, components, documentation]
+verdict: useful
+agent: []
+pricing: free
+licence: MIT / Open source
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [kinetics, css-text-effects, liquid-glass, microkit]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [documentation](../topics/documentation.md)
 
 # Anime.js
-
-- **URL:** https://animejs.com
-- **Type:** JavaScript library
-- **Topics:** motion, components, documentation
-- **Pricing / licence:** MIT / Open source
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

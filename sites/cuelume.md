@@ -1,12 +1,22 @@
+---
+title: Cuelume
+description: Seventeen synthesised interaction cues wired by data attributes and bind(), with a full agents.md guide.
+url: https://cuelume.dev
+type: js-library
+formats: JS library (npm)
+topics: [sound, agents-and-prompts]
+verdict: very-useful
+agent: [llms-txt]
+pricing: free
+licence: free, MIT / Open source
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [uisfx, soundcn, web-kits-audio, sensory-ui, dialkit]
+---
 [← Atlas](../README.md) · Topics: [sound](../topics/sound.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Cuelume
-
-- **URL:** https://cuelume.dev
-- **Type:** JS library (npm)
-- **Topics:** sound, agents-and-prompts
-- **Pricing / licence:** free, MIT / Open source
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

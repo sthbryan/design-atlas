@@ -1,12 +1,22 @@
+---
+title: Motionimo
+description: About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
+url: https://motionimo.xyz
+type: gallery
+formats: inspiration gallery (motion design video) · resource directory
+topics: [motion, inspiration]
+verdict: niche
+agent: [llms-txt]
+pricing: freemium
+licence: The free tier is capped at 3 video detail views a day and 5 saves. Pro costs $3/mo, $15/yr or $29 lifetime through Stripe (the `llms.txt` still says $20/year). The terms rule out refunds for partial periods. Videos are embedded from Vimeo and YouTube and remain their creators' property
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [openmotion, 60fps, design-spells, what-ships]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
 
 # Motionimo
-
-- **URL:** https://motionimo.xyz
-- **Type:** inspiration gallery (motion design video) · resource directory
-- **Topics:** motion, inspiration
-- **Pricing / licence:** The free tier is capped at 3 video detail views a day and 5 saves. Pro costs $3/mo, $15/yr or $29 lifetime through Stripe (the `llms.txt` still says $20/year). The terms rule out refunds for partial periods. Videos are embedded from Vimeo and YouTube and remain their creators' property
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

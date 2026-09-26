@@ -1,12 +1,22 @@
+---
+title: Dark Mode Design
+description: About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
+url: https://www.darkmodedesign.com
+type: gallery
+formats: inspiration gallery
+topics: [inspiration, typography-and-styles, color]
+verdict: niche
+agent: []
+pricing: free
+licence: Free to browse, no account. No reuse licence is stated; the footer says all screenshots belong to their respective owners
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [curated-design, minimal-gallery, seesaw, recent-design]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [color](../topics/color.md)
 
 # Dark Mode Design
-
-- **URL:** https://www.darkmodedesign.com
-- **Type:** inspiration gallery
-- **Topics:** inspiration, typography-and-styles, color
-- **Pricing / licence:** Free to browse, no account. No reuse licence is stated; the footer says all screenshots belong to their respective owners
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

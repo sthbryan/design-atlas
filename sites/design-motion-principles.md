@@ -1,12 +1,22 @@
+---
+title: Design Motion Principles
+description: Create or audit UI motion through Emil, Jakub and Jhey lenses; HTML audit report with looping demos.
+url: https://github.com/kylezantos/design-motion-principles
+type: agent-skill
+formats: agent skill
+topics: [agents-and-prompts, motion]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: free. MIT (© 2026 Kyle Zantos). About 1.1k GitHub stars and 10.1k installs on skills.sh at review.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [lottiefiles-motion-design, mblode-agent-skills, ui-skills, impeccable, easing-wizard]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [motion](../topics/motion.md)
 
 # Design Motion Principles
-
-- **URL:** https://github.com/kylezantos/design-motion-principles
-- **Type:** agent skill
-- **Topics:** agents-and-prompts, motion
-- **Pricing / licence:** free. MIT (© 2026 Kyle Zantos). About 1.1k GitHub stars and 10.1k installs on skills.sh at review.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

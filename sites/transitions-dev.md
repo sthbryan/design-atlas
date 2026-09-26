@@ -1,12 +1,22 @@
+---
+title: Transitions.dev
+description: Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
+url: https://transitions.dev
+type: component-library
+formats: component library · agent skill · CLI
+topics: [motion, components, agents-and-prompts, ai-interfaces]
+verdict: very-useful
+agent: [skill]
+pricing: freemium
+licence: Free core set; Pro $9/month solo, $39/month for 5 seats, or $149/$499 lifetime. Snippets may be used in unlimited commercial projects, but the collection may not be redistributed; Refine tool MIT
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [easing-wizard, dialkit, motion-primitives, microkit]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Transitions.dev
-
-- **URL:** https://transitions.dev
-- **Type:** component library · agent skill · CLI
-- **Topics:** motion, components, agents-and-prompts, ai-interfaces
-- **Pricing / licence:** Free core set; Pro $9/month solo, $39/month for 5 seats, or $149/$499 lifetime. Snippets may be used in unlimited commercial projects, but the collection may not be redistributed; Refine tool MIT
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

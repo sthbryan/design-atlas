@@ -1,12 +1,22 @@
+---
+title: Kinetics
+description: 153 spring-physics interaction effects in CSS, React and prompt form, with a live parameter editor.
+url: https://kinetics.colorion.co
+type: js-library
+formats: JavaScript library
+topics: [motion, components]
+verdict: useful
+agent: [prompts]
+pricing: free
+licence: MIT / Open source
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [css-text-effects, circle-loaders, animejs, gradient-buttons]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md)
 
 # Kinetics
-
-- **URL:** https://kinetics.colorion.co
-- **Type:** JavaScript library
-- **Topics:** motion, components
-- **Pricing / licence:** MIT / Open source
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

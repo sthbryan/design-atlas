@@ -1,12 +1,22 @@
+---
+title: Iconoir
+description: 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
+url: https://iconoir.com
+type: icon-library
+formats: icon library
+topics: [icons, assets, components]
+verdict: very-useful
+agent: []
+pricing: free
+licence: Free / MIT (donations via Open Collective)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [3dicons, useanimations, animated-icons, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [components](../topics/components.md)
 
 # Iconoir
-
-- **URL:** https://iconoir.com
-- **Type:** icon library
-- **Topics:** icons, assets, components
-- **Pricing / licence:** Free / MIT (donations via Open Collective)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

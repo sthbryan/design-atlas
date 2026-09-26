@@ -1,12 +1,22 @@
+---
+title: Huetone
+description: LCH/OKLCH palette editor that lines up tone steps across hues, with WCAG and APCA readouts.
+url: https://huetone.ardov.me
+type: tool
+formats: tool
+topics: [color, typography-and-styles]
+verdict: useful
+agent: []
+pricing: free
+licence: Free / MIT (source on GitHub)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [ramps, oklch, color-review, dialkit]
+---
 [← Atlas](../README.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Huetone
-
-- **URL:** https://huetone.ardov.me
-- **Type:** tool
-- **Topics:** color, typography-and-styles
-- **Pricing / licence:** Free / MIT (source on GitHub)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

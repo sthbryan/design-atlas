@@ -1,12 +1,22 @@
+---
+title: Astryx
+description: Meta's React design system with rich form controls, strong accessibility hooks and a plugin-based table.
+url: https://astryx.atmeta.com/components
+type: design-system
+formats: design system
+topics: [components, documentation]
+verdict: very-useful
+agent: [cli]
+pricing: free
+licence: MIT / Open source (© Meta, facebook/astryx)
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [shadcn-ui, kobra, aceternity-ui]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md)
 
 # Astryx
-
-- **URL:** https://astryx.atmeta.com/components
-- **Type:** design system
-- **Topics:** components, documentation
-- **Pricing / licence:** MIT / Open source (© Meta, facebook/astryx)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

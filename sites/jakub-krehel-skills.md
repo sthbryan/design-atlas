@@ -1,12 +1,22 @@
+---
+title: Jakub Krehel's skills
+description: Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
+url: https://github.com/jakubkrehel/skills
+type: agent-skill-collection
+formats: agent skill suite · Claude Code plugin
+topics: [agents-and-prompts, ux-patterns, typography-and-styles, color]
+verdict: very-useful
+agent: [skill]
+pricing: free
+licence: free. MIT (© 2026 Jakub Krehel, repo-root `LICENSE`; about 7.2k stars at review, last change 2026-08-29). The Claude Code plugin is called `interfaces` (version 1.6.3 at review).
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [emil-kowalski-skills, ui-skills, impeccable, hallmark, oklch]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [typography-and-styles](../topics/typography-and-styles.md), [color](../topics/color.md)
 
 # Jakub Krehel's skills
-
-- **URL:** https://github.com/jakubkrehel/skills
-- **Type:** agent skill suite · Claude Code plugin
-- **Topics:** agents-and-prompts, ux-patterns, typography-and-styles, color
-- **Pricing / licence:** free. MIT (© 2026 Jakub Krehel, repo-root `LICENSE`; about 7.2k stars at review, last change 2026-08-29). The Claude Code plugin is called `interfaces` (version 1.6.3 at review).
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

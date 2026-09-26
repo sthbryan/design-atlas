@@ -1,12 +1,22 @@
+---
+title: The Component Gallery
+description: Reference that compares how 95 design systems name, structure and document the same 60 components.
+url: https://component.gallery
+type: documentation
+formats: component library · documentation
+topics: [components, documentation]
+verdict: very-useful
+agent: []
+pricing: free
+licence: Not stated (free to access; the site's own code is built with Astro/Tailwind, no access restrictions mentioned)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [shadcn-ui, aceternity-ui, magic-ui, uiverse, kage]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md)
 
 # The Component Gallery
-
-- **URL:** https://component.gallery
-- **Type:** component library · documentation
-- **Topics:** components, documentation
-- **Pricing / licence:** Not stated (free to access; the site's own code is built with Astro/Tailwind, no access restrictions mentioned)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

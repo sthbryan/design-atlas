@@ -1,12 +1,22 @@
+---
+title: Typeface.fyi
+description: Chrome extension that identifies any web font, its metrics, where it's served from and its foundry.
+url: https://typeface.fyi
+type: browser-extension
+formats: tool · Chrome extension
+topics: [typography-and-styles, inspiration]
+verdict: niche
+agent: []
+pricing: free
+licence: Free on the Chrome Web Store / proprietary ("all rights reserved"); fonts it identifies keep their own licences
+licence_class: proprietary-free
+reviewed: 2026-09-25
+status: active
+related: [css-text-effects, refero-styles, designmd, minimal-gallery]
+---
 [← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
 
 # Typeface.fyi
-
-- **URL:** https://typeface.fyi
-- **Type:** tool · Chrome extension
-- **Topics:** typography-and-styles, inspiration
-- **Pricing / licence:** Free on the Chrome Web Store / proprietary ("all rights reserved"); fonts it identifies keep their own licences
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

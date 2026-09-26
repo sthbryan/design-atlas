@@ -1,12 +1,22 @@
+---
+title: Designer Skills
+description: 111 small design-practice skills in nine plugins, with a router that picks one entry point.
+url: https://github.com/Owl-Listener/designer-skills
+type: agent-skill-collection
+formats: agent skill collection · Claude Code plugin marketplace · Gemini CLI extensions
+topics: [agents-and-prompts, ux-patterns, typography-and-styles, documentation]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: free. MIT, © 2026 MC Dean (about 2.8k stars at review; single skills show about 1.4k–2.7k installs each on skills.sh). Last push 2026-09-05.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [ui-skills, laws-of-ux, interface-design, design-system-checklist, impeccable]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md), [typography-and-styles](../topics/typography-and-styles.md), [documentation](../topics/documentation.md)
 
 # Designer Skills
-
-- **URL:** https://github.com/Owl-Listener/designer-skills
-- **Type:** agent skill collection · Claude Code plugin marketplace · Gemini CLI extensions
-- **Topics:** agents-and-prompts, ux-patterns, typography-and-styles, documentation
-- **Pricing / licence:** free. MIT, © 2026 MC Dean (about 2.8k stars at review; single skills show about 1.4k–2.7k installs each on skills.sh). Last push 2026-09-05.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

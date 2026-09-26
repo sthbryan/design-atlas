@@ -1,12 +1,22 @@
+---
+title: sensory-ui
+description: Sound-enabled versions of 24 shadcn components with 17 semantic roles and nine synthesised packs.
+url: https://www.sensory-ui.com
+type: component-library
+formats: component library (shadcn registry)
+topics: [sound, components]
+verdict: useful
+agent: [registry]
+pricing: free
+licence: free, MIT / Open source
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [soundcn, cuelume, web-kits-audio, uisfx, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [sound](../topics/sound.md), [components](../topics/components.md)
 
 # sensory-ui
-
-- **URL:** https://www.sensory-ui.com
-- **Type:** component library (shadcn registry)
-- **Topics:** sound, components
-- **Pricing / licence:** free, MIT / Open source
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

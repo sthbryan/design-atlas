@@ -1,12 +1,22 @@
+---
+title: Inspora
+description: Small, fresh archive of recent design work tagged by industry, color and style.
+url: https://www.inspora.design
+type: gallery
+formats: inspiration gallery
+topics: [inspiration, typography-and-styles]
+verdict: niche
+agent: [llms-txt]
+pricing: free
+licence: Not stated (free to browse; its llms.txt says Inspora is not the rights holder of featured work and asks for creator credit plus a link to the original source)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [collect-ui, recent-design, posts-design, minimal-gallery]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Inspora
-
-- **URL:** https://www.inspora.design
-- **Type:** inspiration gallery
-- **Topics:** inspiration, typography-and-styles
-- **Pricing / licence:** Not stated (free to browse; its llms.txt says Inspora is not the rights holder of featured work and asks for creator credit plus a link to the original source)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

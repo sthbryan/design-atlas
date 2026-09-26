@@ -1,12 +1,22 @@
+---
+title: Screenshot to Code
+description: MIT tool turning screenshots, recordings or text into HTML/Tailwind/React/Vue code; hosted or self-hosted.
+url: https://screenshottocode.com
+type: tool
+formats: tool (screenshot/video → code) · open-source app with a hosted version
+topics: [agents-and-prompts, components]
+verdict: useful
+agent: []
+pricing: freemium
+licence: "the source is MIT at `abi/screenshot-to-code` (about 79.7k stars on GitHub at review) and free to self-host with your own model keys. The hosted app, run by WhimsyWorks, Inc., gives one free generation and then uses credit plans: Hobby $15/month (100 credits) and Pro $40/month (500 credits), with yearly options. The hosted terms let you use Output for personal or commercial purposes but make no promise that it's original or non-infringing, and they require you to hold the rights to any screenshot you upload."
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [open-design, aura, 21st-dev, vibeprompts, kage]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md)
 
 # Screenshot to Code
-
-- **URL:** https://screenshottocode.com
-- **Type:** tool (screenshot/video → code) · open-source app with a hosted version
-- **Topics:** agents-and-prompts, components
-- **Pricing / licence:** the source is MIT at `abi/screenshot-to-code` (about 79.7k stars on GitHub at review) and free to self-host with your own model keys. The hosted app, run by WhimsyWorks, Inc., gives one free generation and then uses credit plans: Hobby $15/month (100 credits) and Pro $40/month (500 credits), with yearly options. The hosted terms let you use Output for personal or commercial purposes but make no promise that it's original or non-infringing, and they require you to hold the rights to any screenshot you upload.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

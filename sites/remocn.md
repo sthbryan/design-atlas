@@ -1,12 +1,22 @@
+---
+title: Remocn
+description: 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
+url: https://remocn.dev
+type: component-library
+formats: video component library (shadcn registry) · agent skill
+topics: [motion, components, agents-and-prompts]
+verdict: very-useful
+agent: [llms-txt, registry, skill]
+pricing: free
+licence: free; remocn code is MIT (repo `Remocn/remocn`), but Remotion itself is free only for individuals, non-profits and companies of up to 3 employees; larger companies need a Remotion company licence
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [framecn, openmotion, motion-primitives, animejs, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Remocn
-
-- **URL:** https://remocn.dev
-- **Type:** video component library (shadcn registry) · agent skill
-- **Topics:** motion, components, agents-and-prompts
-- **Pricing / licence:** free; remocn code is MIT (repo `Remocn/remocn`), but Remotion itself is free only for individuals, non-profits and companies of up to 3 employees; larger companies need a Remotion company licence
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

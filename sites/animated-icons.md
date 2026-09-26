@@ -1,12 +1,22 @@
+---
+title: Animated Icons
+description: 4,000+ recolourable Lottie/SVG/GIF icons; free tier plus one-time All-Access, no attribution needed.
+url: https://animatedicons.co
+type: icon-library
+formats: icon library · animated icons
+topics: [icons, assets, motion]
+verdict: useful
+agent: []
+pricing: freemium
+licence: "Free and premium icons; All-Access is a one-time $99 (personal) or $349 (teams of up to 25). Custom licence: commercial use without attribution, but no redistribution and no competing services"
+licence_class: proprietary-paid
+reviewed: 2026-09-25
+status: active
+related: [useanimations, iconoir, 3dicons, circle-loaders]
+---
 [← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [motion](../topics/motion.md)
 
 # Animated Icons
-
-- **URL:** https://animatedicons.co
-- **Type:** icon library · animated icons
-- **Topics:** icons, assets, motion
-- **Pricing / licence:** Free and premium icons; All-Access is a one-time $99 (personal) or $349 (teams of up to 25). Custom licence: commercial use without attribution, but no redistribution and no competing services
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

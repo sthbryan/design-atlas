@@ -1,12 +1,22 @@
+---
+title: Uiverse
+description: Community gallery of copy-paste CSS and Tailwind UI snippets.
+url: https://uiverse.io
+type: gallery
+formats: community gallery of UI snippets (CSS/Tailwind)
+topics: [components, inspiration]
+verdict: useful
+agent: []
+pricing: not-stated
+licence: Not indicated (could not be verified live; see "Watch out for")
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [css-text-effects, circle-loaders, gradient-buttons, component-gallery]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [inspiration](../topics/inspiration.md)
 
 # Uiverse
-
-- **URL:** https://uiverse.io
-- **Type:** community gallery of UI snippets (CSS/Tailwind)
-- **Topics:** components, inspiration
-- **Pricing / licence:** Not indicated (could not be verified live; see "Watch out for")
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

@@ -1,12 +1,22 @@
+---
+title: Navbar Gallery
+description: Real examples of every major navbar pattern (sticky, mega menu, sidebar, tabs and more), plus a blog on when to use each.
+url: https://navbar.gallery
+type: gallery
+formats: inspiration gallery
+topics: [navigation, inspiration]
+verdict: niche
+agent: []
+pricing: free
+licence: Not stated (free to browse; sponsored by Mobbin)
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [footer-design, cta-gallery, minimal-gallery, designeer]
+---
 [← Atlas](../README.md) · Topics: [navigation](../topics/navigation.md), [inspiration](../topics/inspiration.md)
 
 # Navbar Gallery
-
-- **URL:** https://navbar.gallery
-- **Type:** inspiration gallery
-- **Topics:** navigation, inspiration
-- **Pricing / licence:** Not stated (free to browse; sponsored by Mobbin)
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

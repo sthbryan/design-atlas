@@ -1,12 +1,22 @@
+---
+title: useAnimations
+description: 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
+url: https://useanimations.com
+type: icon-library
+formats: icon library · animated icons
+topics: [icons, assets, motion]
+verdict: niche
+agent: []
+pricing: free
+licence: Free / CC BY 4.0 with extra restrictions (attribution required, no redistribution or resale in templates); npm package metadata says MIT
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [animated-icons, iconoir, circle-loaders, 3dicons]
+---
 [← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [motion](../topics/motion.md)
 
 # useAnimations
-
-- **URL:** https://useanimations.com
-- **Type:** icon library · animated icons
-- **Topics:** icons, assets, motion
-- **Pricing / licence:** Free / CC BY 4.0 with extra restrictions (attribution required, no redistribution or resale in templates); npm package metadata says MIT
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

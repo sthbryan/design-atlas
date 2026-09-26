@@ -1,12 +1,22 @@
+---
+title: Laws of UX
+description: 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
+url: https://lawsofux.com
+type: guidelines
+formats: guidelines · reference
+topics: [ux-patterns, documentation, agents-and-prompts]
+verdict: very-useful
+agent: [llms-txt]
+pricing: free
+licence: "Free to read. The Info page puts all site content, including the free 11×17\" posters, under CC BY-NC-ND 4.0: attribution is required, and commercial use and derivatives are not allowed. The site's llms.txt calls the project \"open-source\", but that licence is more restrictive than most open-source licences. Paid extras: a large index poster, the O'Reilly book (2nd edition) and a 54-card deck made with Pip Decks."
+licence_class: cc-noncommercial
+reviewed: 2026-09-25
+status: active
+related: [user-interface-wiki, good-ui, ui-playbook, component-gallery]
+---
 [← Atlas](../README.md) · Topics: [ux-patterns](../topics/ux-patterns.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Laws of UX
-
-- **URL:** https://lawsofux.com
-- **Type:** guidelines · reference
-- **Topics:** ux-patterns, documentation, agents-and-prompts
-- **Pricing / licence:** Free to read. The Info page puts all site content, including the free 11×17" posters, under CC BY-NC-ND 4.0: attribution is required, and commercial use and derivatives are not allowed. The site's llms.txt calls the project "open-source", but that licence is more restrictive than most open-source licences. Paid extras: a large index poster, the O'Reilly book (2nd edition) and a 54-card deck made with Pip Decks.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

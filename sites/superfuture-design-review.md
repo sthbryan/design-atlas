@@ -1,12 +1,22 @@
+---
+title: Superfuture Design Review
+description: Ten-area design critique ranked by severity with exact fixes; it sends a hidden usage ping.
+url: https://ui-skills.com/skills/superfuture/design-review
+type: agent-skill
+formats: agent skill · Claude Code plugin · paid server-side tier
+topics: [agents-and-prompts, ux-patterns]
+verdict: niche
+agent: [skill]
+pricing: freemium
+licence: "the free review is usable on its own; a paid Pro tier needs a licence key. No licence file: `plugin.json` and the README say MIT, but no licence text ships (GitHub `Superfuture/design-review`, 5 stars at review, skill last changed 2026-07-15)."
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [ui-skills, impeccable, ui-taste, emil-kowalski-skills, laws-of-ux]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Superfuture Design Review
-
-- **URL:** https://ui-skills.com/skills/superfuture/design-review
-- **Type:** agent skill · Claude Code plugin · paid server-side tier
-- **Topics:** agents-and-prompts, ux-patterns
-- **Pricing / licence:** the free review is usable on its own; a paid Pro tier needs a licence key. No licence file: `plugin.json` and the README say MIT, but no licence text ships (GitHub `Superfuture/design-review`, 5 stars at review, skill last changed 2026-07-15).
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

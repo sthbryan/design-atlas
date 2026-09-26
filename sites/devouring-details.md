@@ -1,12 +1,22 @@
+---
+title: Devouring Details
+description: Rauno Freiberg's paid interactive manual on interaction craft, with 23 chapters and downloadable React prototypes.
+url: https://devouringdetails.com
+type: documentation
+formats: interactive reference manual (paid) · downloadable React prototypes
+topics: [motion, documentation, ux-patterns]
+verdict: very-useful
+agent: []
+pricing: paid
+licence: $249 one-time for the current edition, paid through Polar. The FAQ offers a 30-day refund and a 20% student discount. Two chapters are free to preview. No licence is published for the downloadable source code
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [detail-design, 60fps, motion-primitives, dialkit, kinetics]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [documentation](../topics/documentation.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Devouring Details
-
-- **URL:** https://devouringdetails.com
-- **Type:** interactive reference manual (paid) · downloadable React prototypes
-- **Topics:** motion, documentation, ux-patterns
-- **Pricing / licence:** $249 one-time for the current edition, paid through Polar. The FAQ offers a 30-day refund and a 20% student discount. Two chapters are free to preview. No licence is published for the downloadable source code
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

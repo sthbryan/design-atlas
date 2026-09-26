@@ -1,12 +1,22 @@
+---
+title: slot-text
+description: Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
+url: https://textmotion.dev
+type: js-library
+formats: JS library
+topics: [motion, typography-and-styles, components]
+verdict: niche
+agent: [llms-txt]
+pricing: free
+licence: Free / MIT
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [torph, number-flow, css-text-effects, motion-primitives]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md), [components](../topics/components.md)
 
 # slot-text
-
-- **URL:** https://textmotion.dev
-- **Type:** JS library
-- **Topics:** motion, typography-and-styles, components
-- **Pricing / licence:** Free / MIT
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

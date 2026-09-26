@@ -1,12 +1,22 @@
+---
+title: TypeUI DESIGN.md Extractor
+description: MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.
+url: https://github.com/bergside/design-md-chrome
+type: browser-extension
+formats: browser extension (Chrome, Manifest V3) · open-source repo
+topics: [design-md, agents-and-prompts, typography-and-styles]
+verdict: useful
+agent: [skill]
+pricing: free
+licence: "free. The repo is MIT, with 2,907 stars and 315 forks at review. It's also listed on the Chrome Web Store as \"DESIGN.md Style Extractor - TypeUI\" (manifest version 0.4.0). No separate terms apply to the generated files: they come from the page you're viewing plus the extension's own MIT template text."
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [typeui, designmd-cc, hyperbrowser-design-md, designmd, refero-styles]
+---
 [← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # TypeUI DESIGN.md Extractor
-
-- **URL:** https://github.com/bergside/design-md-chrome
-- **Type:** browser extension (Chrome, Manifest V3) · open-source repo
-- **Topics:** design-md, agents-and-prompts, typography-and-styles
-- **Pricing / licence:** free. The repo is MIT, with 2,907 stars and 315 forks at review. It's also listed on the Chrome Web Store as "DESIGN.md Style Extractor - TypeUI" (manifest version 0.4.0). No separate terms apply to the generated files: they come from the page you're viewing plus the extension's own MIT template text.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

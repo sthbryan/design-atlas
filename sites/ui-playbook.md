@@ -1,12 +1,22 @@
+---
+title: UI Playbook
+description: Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
+url: https://uiplaybook.dev
+type: guidelines
+formats: guidelines
+topics: [components, ux-patterns, documentation]
+verdict: useful
+agent: []
+pricing: free
+licence: Free, no account. The GitHub repo (`raunofreiberg/ui-playbook`) is MIT (© 2020 Rauno Freiberg). The author accepts donations through Buy Me a Coffee.
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [component-gallery, inclusive-components, design-system-checklist, shadcn-ui]
+---
 [← Atlas](../README.md) · Topics: [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md), [documentation](../topics/documentation.md)
 
 # UI Playbook
-
-- **URL:** https://uiplaybook.dev
-- **Type:** guidelines
-- **Topics:** components, ux-patterns, documentation
-- **Pricing / licence:** Free, no account. The GitHub repo (`raunofreiberg/ui-playbook`) is MIT (© 2020 Rauno Freiberg). The author accepts donations through Buy Me a Coffee.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

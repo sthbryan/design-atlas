@@ -1,12 +1,22 @@
+---
+title: What Ships
+description: About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
+url: https://whatships.com
+type: directory
+formats: directory of launch videos · open API
+topics: [motion, inspiration, agents-and-prompts]
+verdict: useful
+agent: [llms-txt, api]
+pricing: free
+licence: Free, with no account, ads or paid placement according to the site. The site's source code is MIT on GitHub (`dingyi/whatships.com`). The videos, names and trademarks belong to their owners, and the terms ask you to cite the original X post
+licence_class: open-source-permissive
+reviewed: 2026-09-25
+status: active
+related: [openmotion, motionimo, recent-design, collect-ui, 60fps]
+---
 [← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # What Ships
-
-- **URL:** https://whatships.com
-- **Type:** directory of launch videos · open API
-- **Topics:** motion, inspiration, agents-and-prompts
-- **Pricing / licence:** Free, with no account, ads or paid placement according to the site. The site's source code is MIT on GitHub (`dingyi/whatships.com`). The videos, names and trademarks belong to their owners, and the terms ask you to cite the original X post
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

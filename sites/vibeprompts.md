@@ -1,12 +1,22 @@
+---
+title: VibePrompts
+description: Library of prompts organised by page section (pricing, hero, forms) to paste into any AI assistant.
+url: https://vibeprompts.dev
+type: prompt-library
+formats: library of layout prompts for "vibe coding"
+topics: [agents-and-prompts, components, cta]
+verdict: useful
+agent: [prompts]
+pricing: free
+licence: free, no account or download needed. Not indicated for the licence of the prompt text or of the code it generates.
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [designmd, 21st-dev, cta-gallery, navbar-gallery, footer-design]
+---
 [← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md), [cta](../topics/cta.md)
 
 # VibePrompts
-
-- **URL:** https://vibeprompts.dev
-- **Type:** library of layout prompts for "vibe coding"
-- **Topics:** agents-and-prompts, components, cta
-- **Pricing / licence:** free, no account or download needed. Not indicated for the licence of the prompt text or of the code it generates.
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

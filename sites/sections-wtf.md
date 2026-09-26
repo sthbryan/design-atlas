@@ -1,12 +1,22 @@
+---
+title: Sections.wtf
+description: About 280 single landing-page sections recorded as video, filterable across 22 section types.
+url: https://sections.wtf
+type: gallery
+formats: inspiration gallery
+topics: [inspiration, landing-pages, cta, footers]
+verdict: very-useful
+agent: []
+pricing: free
+licence: Not stated (free to browse, no account; weekly newsletter, sponsorship by email); the sections shown belong to the sites they come from
+licence_class: not-stated
+reviewed: 2026-09-25
+status: active
+related: [supahero, cta-gallery, footer-design, navbar-gallery, 404s, curated-design]
+---
 [← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [cta](../topics/cta.md), [footers](../topics/footers.md)
 
 # Sections.wtf
-
-- **URL:** https://sections.wtf
-- **Type:** inspiration gallery
-- **Topics:** inspiration, landing-pages, cta, footers
-- **Pricing / licence:** Not stated (free to browse, no account; weekly newsletter, sponsorship by email); the sections shown belong to the sites they come from
-- **Reviewed:** 2026-09-25
 
 ## What it is
 

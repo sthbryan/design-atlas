@@ -1,12 +1,22 @@
+---
+title: compute.toys
+description: "Browser playground for WebGPU compute shaders in WGSL or Slang: simulations, particles and path tracers to fork."
+url: https://compute.toys
+type: tool
+formats: Tool
+topics: [3d-and-shaders, inspiration]
+verdict: niche
+agent: []
+pricing: free
+licence: Free (sign-in to publish) / site code MIT; no licence stated for the shaders users publish
+licence_class: mixed
+reviewed: 2026-09-25
+status: active
+related: [book-of-shaders, shaderfrog, canvas-ui, paper-shaders]
+---
 [← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [inspiration](../topics/inspiration.md)
 
 # compute.toys
-
-- **URL:** https://compute.toys
-- **Type:** Tool
-- **Topics:** 3d-and-shaders, inspiration
-- **Pricing / licence:** Free (sign-in to publish) / site code MIT; no licence stated for the shaders users publish
-- **Reviewed:** 2026-09-25
 
 ## What it is
 
