@@ -40,7 +40,7 @@ Rules for the cells:
 
 - **Take** says what to use the reference for in this task, not what the site is.
 - **Licence** follows the wording in `licence-guide.md`.
-- **Agent** lists the index's channels. Add the gate the page names, such as an API key, an account or a paid plan, and write "none" for an empty list.
+- **Agent** lists the index's channels. Give each channel its gate as the page states it: an API key, an account, a paid plan, or free with no account. Write "gate not checked" when the page was not read, and "none" for an empty list.
 - **Reviewed** comes from the index, never from today's date.
 - **Reusable ideas** come from the pages' "Reusable ideas" and the hubs' "Patterns worth reusing", paraphrased, with three to six items.
 

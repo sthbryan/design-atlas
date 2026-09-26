@@ -178,6 +178,7 @@ Inside a clone, follow `AGENTS.md` and `CONTRIBUTING.md`. Never hand-edit `llms.
 | A row without its licence class or reviewed date | Fill it from the index |
 | `not-stated` recommended to ship, or `cc-noncommercial` in a commercial product | Mark it look-only |
 | A paid or gated channel presented as free | Name the account, key or tier it needs |
+| An agent channel with no gate stated | Write the page's word for it ("free, no account"), or "gate not checked" |
 | A DESIGN.md or component code written by this skill | Remove it and hand off to `design-atlas-ui` |
 | A pasted paragraph from a site page | Paraphrase it and link the page |
 | Bundled location, but no "Not checked" section | List every unread page there |
