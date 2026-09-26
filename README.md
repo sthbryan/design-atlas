@@ -88,6 +88,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [Icoon](sites/icoon.md) | asset-library | icons, assets | niche | none | proprietary-paid |
 | [Kitbitz](sites/kitbitz.md) | asset-library | assets, components | useful | none | not-stated |
 | [Klim Type Foundry](sites/klim.md) | asset-library | typography-and-styles, inspiration | useful | none | proprietary-paid |
+| [Lottie](sites/lottiefiles.md) | asset-library | motion, assets, agents-and-prompts | useful | mcp, llms-txt | mixed |
 | [shieldcn](sites/shieldcn.md) | asset-library | assets, documentation, agents-and-prompts | useful | llms-txt, registry, skill | open-source-permissive |
 | [Velvetyne](sites/velvetyne.md) | asset-library | typography-and-styles, assets, inspiration | useful | none | mixed |
 | [Venust Backgrounds](sites/venust-backgrounds.md) | asset-library | assets, agents-and-prompts, landing-pages | very-useful | llms-txt, prompts | public-domain |
@@ -96,6 +97,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [8bitcn](sites/8bitcn.md) | component-library | components, typography-and-styles, landing-pages | very-useful | registry | open-source-permissive |
 | [Aceternity UI](sites/aceternity-ui.md) | component-library | components, motion, inspiration, landing-pages | very-useful | mcp | proprietary-paid |
 | [Amicro](sites/amicro.md) | component-library | motion, components | useful | cli, registry | open-source-permissive |
+| [Annnimate](sites/annnimate.md) | component-library | motion, components, agents-and-prompts | useful | mcp, llms-txt | proprietary-paid |
 | [Bencho](sites/bencho.md) | component-library | components, motion, inspiration | useful | prompts | open-source-permissive |
 | [Butter Nav](sites/butter-nav.md) | component-library | navigation, motion, components | useful | registry, prompts | not-stated |
 | [Canvas UI](sites/canvas-ui.md) | component-library | 3d-and-shaders, components, motion | very-useful | llms-txt, registry | source-available |
@@ -226,16 +228,19 @@ A curated set of references for building websites and UI — galleries, componen
 | [Cuelume](sites/cuelume.md) | js-library | sound, agents-and-prompts | very-useful | llms-txt | open-source-permissive |
 | [glimm](sites/glimm.md) | js-library | motion, 3d-and-shaders | niche | prompts | open-source-permissive |
 | [Gradient Spin](sites/gradient-spin.md) | js-library | components, motion, color | niche | none | open-source-permissive |
+| [GSAP](sites/gsap.md) | js-library | motion, agents-and-prompts | very-useful | llms-txt, skill | proprietary-free |
 | [Kinetics](sites/kinetics.md) | js-library | motion, components | useful | prompts | open-source-permissive |
 | [Libraries.dev: Thinking orbs](sites/libraries-dev-orbs.md) | js-library | motion, components, agents-and-prompts, ai-interfaces | useful | prompts, skill | mixed |
 | [Liquid Glass](sites/liquid-glass.md) | js-library | motion, components | niche | none | not-stated |
 | [loading.dev](sites/loading-dev.md) | js-library | components, motion | useful | llms-txt | open-source-permissive |
 | [morphicons](sites/morphicons.md) | js-library | icons, motion, components | very-useful | llms-txt | open-source-permissive |
+| [Motion](sites/motion-dev.md) | js-library | motion, agents-and-prompts, components | very-useful | mcp, llms-txt, skill | mixed |
 | [NumberFlow](sites/number-flow.md) | js-library | motion, components, typography-and-styles | very-useful | none | open-source-permissive |
 | [Paper Shaders](sites/paper-shaders.md) | js-library | 3d-and-shaders, motion, components | very-useful | llms-txt | open-source-permissive |
 | [Rolling Number](sites/rolling-number.md) | js-library | motion, components, typography-and-styles | useful | llms-txt | open-source-permissive |
 | [Scritto](sites/scritto.md) | js-library | motion, typography-and-styles | useful | none | open-source-permissive |
 | [slot-text](sites/textmotion.md) | js-library | motion, typography-and-styles, components | niche | llms-txt | open-source-permissive |
+| [Theatre.js](sites/theatrejs.md) | js-library | motion, 3d-and-shaders | niche | none | mixed |
 | [Torph](sites/torph.md) | js-library | motion, typography-and-styles, components | useful | none | open-source-permissive |
 | [Good UI](sites/good-ui.md) | pattern-library | cta, ux-patterns, landing-pages | useful | none | proprietary-paid |
 | [The Shape of AI](sites/shape-of-ai.md) | pattern-library | ai-interfaces, ux-patterns, inspiration | very-useful | none | cc-noncommercial |
@@ -273,6 +278,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [OpenMotion](sites/openmotion.md) | tool | motion, agents-and-prompts | niche | none | not-stated |
 | [Playgrnd](sites/playgrnd.md) | tool | assets, motion | useful | none | not-stated |
 | [Ramps](sites/ramps.md) | tool | color, typography-and-styles, agents-and-prompts | very-useful | llms-txt, api, prompts | open-source-permissive |
+| [Rive](sites/rive.md) | tool | motion, assets, agents-and-prompts | very-useful | mcp, llms-txt, cli | mixed |
 | [Screan](sites/screan.md) | tool | assets, landing-pages | useful | none | open-source-permissive |
 | [Screenshot to Code](sites/screenshot-to-code.md) | tool | agents-and-prompts, components | useful | none | mixed |
 | [Shaderfrog](sites/shaderfrog.md) | tool | 3d-and-shaders, inspiration | niche | none | mixed |

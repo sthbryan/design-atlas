@@ -601,6 +601,37 @@
       ]
     },
     {
+      "slug": "annnimate",
+      "path": "sites/annnimate.md",
+      "title": "Annnimate",
+      "description": "105 GSAP components in React, Vue and HTML from a studio, with an MCP for paid subscribers.",
+      "url": "https://annnimate.com",
+      "type": "component-library",
+      "formats": "component library · MCP server · API",
+      "topics": [
+        "motion",
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "A handful of free components; Library subscription from €29 a month billed quarterly or €249 a year (Solo, 1 seat), plus 5- and 15-seat tiers; Menu and Reveal Kits €149 each, one-time / proprietary licence: unlimited end products including client work, no redistribution, and a ban on feeding components to AI tools",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "gsap",
+        "scrolltide",
+        "aceternity-ui",
+        "reactbits",
+        "motion-dev"
+      ]
+    },
+    {
       "slug": "anthropic-design-plugin",
       "path": "sites/anthropic-design-plugin.md",
       "title": "Anthropic Design Plugin",
@@ -2849,6 +2880,36 @@
       ]
     },
     {
+      "slug": "gsap",
+      "path": "sites/gsap.md",
+      "title": "GSAP",
+      "description": "Timeline animation engine, now free with every plugin under Webflow; llms.txt plus official agent skills.",
+      "url": "https://gsap.com",
+      "type": "js-library",
+      "formats": "JS library · agent skill",
+      "topics": [
+        "motion",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "Free for everyone, including every plugin and commercial use / Webflow's proprietary \"Standard no-charge\" GSAP licence (not open source); the official `gsap-skills` repo is MIT",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "motion-dev",
+        "annnimate",
+        "animejs",
+        "scrolltide",
+        "reactbits"
+      ]
+    },
+    {
       "slug": "hallmark",
       "path": "sites/hallmark.md",
       "title": "Hallmark",
@@ -4015,6 +4076,36 @@
       ]
     },
     {
+      "slug": "lottiefiles",
+      "path": "sites/lottiefiles.md",
+      "title": "Lottie",
+      "description": "Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.",
+      "url": "https://lottiefiles.com",
+      "type": "asset-library",
+      "formats": "assets · animation editor · runtimes · MCP server",
+      "topics": [
+        "motion",
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free plan; Individual $19.99, Team $24.99 and Enterprise $119.99 per user per month, billed annually (archived pricing page, July 2026) / free public animations under the Lottie Simple License; the terms limit Free and Individual plans to non-commercial use; dotLottie players and the Creator MCP are MIT",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "lottiefiles-motion-design",
+        "rive",
+        "animated-icons",
+        "useanimations"
+      ]
+    },
+    {
       "slug": "lucide-animated",
       "path": "sites/lucide-animated.md",
       "title": "Lucide Animated",
@@ -4340,6 +4431,38 @@
         "useanimations",
         "iconoir",
         "torph"
+      ]
+    },
+    {
+      "slug": "motion-dev",
+      "path": "sites/motion-dev.md",
+      "title": "Motion",
+      "description": "Former Framer Motion for React, JS and Vue: MIT core, free docs MCP and skill, paid Motion+ extras.",
+      "url": "https://motion.dev",
+      "type": "js-library",
+      "formats": "JS library · MCP server · agent skill",
+      "topics": [
+        "motion",
+        "agents-and-prompts",
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "Free and MIT for the `motion`, `motion/react` and `motion-v` packages; Motion+ is a one-time Personal licence (the site's structured data lists £299) or an annual per-seat Business plan; Motion Studio is a separate subscription",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "motion-primitives",
+        "dialkit",
+        "easing-wizard",
+        "emil-kowalski-skills",
+        "gsap"
       ]
     },
     {
@@ -5135,6 +5258,37 @@
         "motion-primitives",
         "animejs",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "rive",
+      "path": "sites/rive.md",
+      "title": "Rive",
+      "description": "State-machine vector editor with MIT runtimes, an agent-friendly CLI and a local MCP; exporting needs a paid seat.",
+      "url": "https://rive.app",
+      "type": "tool",
+      "formats": "tool · animation editor · runtimes · CLI · MCP server",
+      "topics": [
+        "motion",
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli"
+      ],
+      "pricing": "freemium",
+      "licence": "Free plan (3 collaborative files, no runtime export); Cadet, Voyager and Enterprise per seat, with exact prices that differ between the pricing page and the docs at review / closed commercial editor; official runtimes MIT; Marketplace files CC BY",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "lottiefiles",
+        "theatrejs",
+        "animated-icons",
+        "useanimations"
       ]
     },
     {
@@ -6213,6 +6367,32 @@
         "number-flow",
         "css-text-effects",
         "motion-primitives"
+      ]
+    },
+    {
+      "slug": "theatrejs",
+      "path": "sites/theatrejs.md",
+      "title": "Theatre.js",
+      "description": "In-browser keyframe editor for THREE.js and R3F scenes; Apache core, AGPL studio, stalled since 2024.",
+      "url": "https://www.theatrejs.com",
+      "type": "js-library",
+      "formats": "JS library · animation editor",
+      "topics": [
+        "motion",
+        "3d-and-shaders"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free / `@theatre/core` and most packages Apache-2.0; the `@theatre/studio` editor AGPL-3.0",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "rive",
+        "gsap",
+        "canvas-ui",
+        "shaderfrog"
       ]
     },
     {
