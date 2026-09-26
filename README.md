@@ -207,6 +207,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [User Interface Wiki](sites/user-interface-wiki.md) | guidelines | motion, ux-patterns, sound, agents-and-prompts | very-useful | skill | open-source-permissive |
 | [3dicons](sites/3dicons.md) | icon-library | icons, assets, components | useful | none | public-domain |
 | [Animated Icons](sites/animated-icons.md) | icon-library | icons, assets, motion | useful | none | proprietary-paid |
+| [Devicon](sites/devicon.md) | icon-library | icons, assets | useful | none | open-source-permissive |
 | [Heroicons Animated](sites/heroicons-animated.md) | icon-library | icons, motion, components | useful | llms-txt, registry | open-source-permissive |
 | [Hugeicons](sites/hugeicons.md) | icon-library | icons, assets, agents-and-prompts | very-useful | mcp, skill | mixed |
 | [Iconify](sites/iconify.md) | icon-library | icons, assets, agents-and-prompts | very-useful | api | mixed |
@@ -214,6 +215,11 @@ A curated set of references for building websites and UI — galleries, componen
 | [Icons.download](sites/icons-download.md) | icon-library | icons, assets | niche | none | proprietary-free |
 | [icons0](sites/icons0.md) | icon-library | icons, assets, agents-and-prompts | useful | mcp, registry | mixed |
 | [Lucide Animated](sites/lucide-animated.md) | icon-library | icons, motion, agents-and-prompts | very-useful | mcp, llms-txt, registry, skill | mixed |
+| [MX Icons](sites/mx-icons.md) | icon-library | icons, assets | niche | none | open-source-permissive |
+| [Reicon](sites/reicon.md) | icon-library | icons, assets, agents-and-prompts | useful | mcp, llms-txt, cli | open-source-permissive |
+| [Rune Icons](sites/rune-icons.md) | icon-library | icons, assets | niche | llms-txt | mixed |
+| [Simple Icons](sites/simple-icons.md) | icon-library | icons, assets | very-useful | none | mixed |
+| [theSVG](sites/thesvg.md) | icon-library | icons, assets, agents-and-prompts | very-useful | mcp, llms-txt, cli, skill | mixed |
 | [useAnimations](sites/useanimations.md) | icon-library | icons, assets, motion | niche | none | mixed |
 | [@web-kits/audio](sites/web-kits-audio.md) | js-library | sound, agents-and-prompts | very-useful | llms-txt, cli, skill | open-source-permissive |
 | [Anime.js](sites/animejs.md) | js-library | motion, components, documentation | useful | none | open-source-permissive |

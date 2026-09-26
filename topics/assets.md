@@ -31,6 +31,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
 - [Departure Mono](../sites/departure-mono.md) — Free OFL pixel monospace font by Helena Zhang with box drawing, Cyrillic and Greek.
 - [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
+- [Devicon](../sites/devicon.md) — MIT set of language and dev-tool logos as SVG and a font, made for tech-stack rows.
 - [DotForge](../sites/dotforge.md) — Browser tool with 51 animated effects, dither patterns and post-FX; exports PNG, video or an HTML embed.
 - [Efecto](../sites/efecto.md) — Browser canvas your agent drives through MCP tools, plus an FX engine for dither, ASCII and halftone posters.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
@@ -46,15 +47,20 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Inkword](../sites/inkword.md) — Turns one word into a small editable SVG editorial drawing in six fixed styles; private beta.
 - [Kitbitz](../sites/kitbitz.md) — 2,000+ hand-drawn illustrations with an artisanal, non-digital feel, free with no login required.
 - [Mascofast](../sites/mascofast.md) — Paid AI tool that turns text or photos into mascots, exported as transparent GIF, WebM or Lottie.
+- [MX Icons](../sites/mx-icons.md) — About 2,200 soft React icons in six styles labelled MIT; sources not credited.
 - [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
 - [Playgrnd](../sites/playgrnd.md) — 52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
 - [Recent](../sites/recent-design.md) — Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
+- [Reicon](../sites/reicon.md) — 2,630 MIT UI icons in Outline and Filled, with framework packages, llms files and an MCP server.
+- [Rune Icons](../sites/rune-icons.md) — 220 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.
 - [Screan](../sites/screan.md) — Free MIT browser studio that exports store screenshots for every size and language as one ZIP.
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
+- [Simple Icons](../sites/simple-icons.md) — The standard CC0 set of 3,461 one-colour brand logos, with official hex colours and a colour CDN.
 - [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds installed via shadcn CLI; 110 Blizzard clips are non-commercial only.
 - [Tabbied](../sites/tabbied.md) — 338 seeded geometric patterns as an MIT npm/React package, with a CLI and a hosted MCP.
+- [theSVG](../sites/thesvg.md) — 7,400+ brand and cloud icons with light, dark and wordmark variants, MCP, skill and CLI; licences vary per file.
 - [Tooooools](../sites/tooooools.md) — Free lo-fi effects for photos and video: dithering, stippling, halftone, CRT, ASCII, with SVG export.
 - [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.

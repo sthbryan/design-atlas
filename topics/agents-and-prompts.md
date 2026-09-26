@@ -71,6 +71,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
 - [Recent](../sites/recent-design.md) — Daily curated feed of design, sites, OG images and app icons, plus copyable agent-skill installs; replaces Godly.
 - [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
+- [Reicon](../sites/reicon.md) — 2,630 MIT UI icons in Outline and Filled, with framework packages, llms files and an MCP server.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
 - [Screenshot to Code](../sites/screenshot-to-code.md) — MIT tool turning screenshots, recordings or text into HTML/Tailwind/React/Vue code; hosted or self-hosted.
 - [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
@@ -85,6 +86,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [startercn](../sites/startercn.md) — MIT Next.js template for publishing your own shadcn registry, with Fumadocs docs, llms.txt and skill discovery.
 - [Tabbied](../sites/tabbied.md) — 338 seeded geometric patterns as an MIT npm/React package, with a CLI and a hosted MCP.
 - [termcn](../sites/termcn.md) — Ink and OpenTUI terminal components via shadcn CLI, including agent chat, tool-approval and diff-review widgets.
+- [theSVG](../sites/thesvg.md) — 7,400+ brand and cloud icons with light, dark and wordmark variants, MCP, skill and CLI; licences vary per file.
 - [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
 - [TypeUI](../sites/typeui.md) — Style-named design skills (SKILL.md + DESIGN.md) via an MIT CLI/registry and a paid hosted MCP.
 - [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.

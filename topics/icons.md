@@ -25,6 +25,7 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie/SVG/GIF icons; free tier plus one-time All-Access, no attribution needed.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
 - [design-mobile-apps (Sleek)](../sites/design-mobile-apps.md) — REST client for Sleek's paid mobile-screen generator, with handoff to HTML, React Native or SwiftUI.
+- [Devicon](../sites/devicon.md) — MIT set of language and dev-tool logos as SVG and a font, made for tech-stack rows.
 - [Heroicons Animated](../sites/heroicons-animated.md) — 316 Heroicons outline icons with hover animations built on Motion, via shadcn registry, npm and llms.txt.
 - [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
 - [Icon Foundry](../sites/icon-foundry.md) — Free search across about 49k icons from open sets plus logos; check each source's licence.
@@ -37,7 +38,12 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Lucide Animated](../sites/lucide-animated.md) — 467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.
 - [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
+- [MX Icons](../sites/mx-icons.md) — About 2,200 soft React icons in six styles labelled MIT; sources not credited.
+- [Reicon](../sites/reicon.md) — 2,630 MIT UI icons in Outline and Filled, with framework packages, llms files and an MCP server.
+- [Rune Icons](../sites/rune-icons.md) — 220 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.
 - [Shadcn Labs Skills](../sites/shadcn-skills.md) — Six MIT skills: launch a shadcn registry, generate, audit and extend SVG icon sets, Tailwind-to-StyleX.
+- [Simple Icons](../sites/simple-icons.md) — The standard CC0 set of 3,461 one-colour brand logos, with official hex colours and a colour CDN.
+- [theSVG](../sites/thesvg.md) — 7,400+ brand and cloud icons with light, dark and wordmark variants, MCP, skill and CLI; licences vary per file.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
 <!-- atlas:sources:end -->
 

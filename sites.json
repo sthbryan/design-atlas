@@ -1969,6 +1969,32 @@
       ]
     },
     {
+      "slug": "devicon",
+      "path": "sites/devicon.md",
+      "title": "Devicon",
+      "description": "MIT set of language and dev-tool logos as SVG and a font, made for tech-stack rows.",
+      "url": "https://devicon.dev",
+      "type": "icon-library",
+      "formats": "developer logo library · icon font",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. The project is MIT (created by Konpa in 2014, now community-maintained). The logos themselves belong to their owners, and the site asks users to follow each brand's policy",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "simple-icons",
+        "thesvg",
+        "shieldcn",
+        "iconoir"
+      ]
+    },
+    {
       "slug": "devl",
       "path": "sites/devl.md",
       "title": "devl",
@@ -4375,6 +4401,32 @@
       ]
     },
     {
+      "slug": "mx-icons",
+      "path": "sites/mx-icons.md",
+      "title": "MX Icons",
+      "description": "About 2,200 soft React icons in six styles labelled MIT; sources not credited.",
+      "url": "https://mx-icons.vercel.app",
+      "type": "icon-library",
+      "formats": "React icon library",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. MIT according to the repository and npm package. No source or design credits are given (see below)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "reicon",
+        "rune-icons",
+        "iconoir",
+        "icons0"
+      ]
+    },
+    {
       "slug": "navbar-gallery",
       "path": "sites/navbar-gallery.md",
       "title": "Navbar Gallery",
@@ -5023,6 +5075,37 @@
       ]
     },
     {
+      "slug": "reicon",
+      "path": "sites/reicon.md",
+      "title": "Reicon",
+      "description": "2,630 MIT UI icons in Outline and Filled, with framework packages, llms files and an MCP server.",
+      "url": "https://reicon.dev",
+      "type": "icon-library",
+      "formats": "icon library · MCP server",
+      "topics": [
+        "icons",
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "Free. MIT, and the site says no attribution is needed. The README also credits base elements from Solar Icons (CC BY 4.0, by 480 Design) and from Zappicon, a commercial set",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "rune-icons",
+        "mx-icons",
+        "iconoir",
+        "icons0"
+      ]
+    },
+    {
       "slug": "remocn",
       "path": "sites/remocn.md",
       "title": "Remocn",
@@ -5081,6 +5164,35 @@
         "textmotion",
         "torph",
         "rareui"
+      ]
+    },
+    {
+      "slug": "rune-icons",
+      "path": "sites/rune-icons.md",
+      "title": "Rune Icons",
+      "description": "220 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.",
+      "url": "https://runeiconsnex.vercel.app",
+      "type": "icon-library",
+      "formats": "icon library · in-browser icon editor",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free. The icons are Apache 2.0 with no attribution required. The website code (landing page, components, animations, editor) is Apache 2.0 plus an attribution clause and the Commons Clause",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "note": "The advertised domain, runeicons.com, had no DNS record at review.",
+      "related": [
+        "reicon",
+        "mx-icons",
+        "iconoir",
+        "animated-icons"
       ]
     },
     {
@@ -5588,6 +5700,32 @@
       ]
     },
     {
+      "slug": "simple-icons",
+      "path": "sites/simple-icons.md",
+      "title": "Simple Icons",
+      "description": "The standard CC0 set of 3,461 one-colour brand logos, with official hex colours and a colour CDN.",
+      "url": "https://simpleicons.org",
+      "type": "icon-library",
+      "formats": "brand logo library",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. The project is released under CC0 1.0, but the disclaimer says that does not make every icon CC0: some carry their own licence, and all remain their owners' trademarks",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "thesvg",
+        "devicon",
+        "shieldcn",
+        "icons0"
+      ]
+    },
+    {
       "slug": "skiper-ui",
       "path": "sites/skiper-ui.md",
       "title": "Skiper UI",
@@ -6075,6 +6213,38 @@
         "number-flow",
         "css-text-effects",
         "motion-primitives"
+      ]
+    },
+    {
+      "slug": "thesvg",
+      "path": "sites/thesvg.md",
+      "title": "theSVG",
+      "description": "7,400+ brand and cloud icons with light, dark and wordmark variants, MCP, skill and CLI; licences vary per file.",
+      "url": "https://thesvg.org",
+      "type": "icon-library",
+      "formats": "brand logo library · MCP server · agent skill · CLI",
+      "topics": [
+        "icons",
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "Free, no sign-up. The site and package code are MIT (GitHub `glincker/thesvg`, about 2,700 stars at review). Each icon carries its own licence field, and every logo stays its owner's trademark",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "simple-icons",
+        "devicon",
+        "icons0",
+        "shieldcn"
       ]
     },
     {
