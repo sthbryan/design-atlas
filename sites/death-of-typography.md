@@ -1,6 +1,6 @@
 ---
 title: Death of Typography
-description: Singaporean type collective with 20 experimental faces and an on-page specimen tester; some fonts are OFL, the rest are sold.
+description: Singapore type collective whose home page is a cropped 380px marquee in its own face, plus a specimen tester with 27 sliders.
 url: https://deathoftypography.com
 type: font-library
 formats: type foundry · live specimen tester · workshops · WooCommerce shop · newsletter
@@ -20,41 +20,45 @@ related: [velvetyne, fontshare, typeface-fyi, departure-mono]
 
 ## What it is
 
-Death of Typography (DOT) is a type collective from Singapore, presented as a young group that practices, researches and explores type through collaboration, and supported by Designing Cultures Studio Singapore. It sells its own typefaces through a WordPress and WooCommerce shop. At review the catalogue listed 20 products: Strait Sans in nine separate weights plus a bundle, Getai Grotesk Display, DT Nouveau, DT Nightingale, DT World Tour, DT Dumpling Display, DT Hooke, DT Robusta with a commercial licence, and Octopia Neue. Two other pages carry the rest of the site: a live specimen tester and a workshops page about type education. The blog has two posts, both from April 2023.
+Death of Typography is a type collective from Singapore, and it designs its own site the way a specimen sheet works: the letters are the layout. At review the home page measured a band of its name set at 380px in weight 600 on a 56px line, so the words are taller than their own line box and get cropped, running endlessly on a 45s linear loop. The ground is a warm off-white of rgb(255, 252, 252) with rgb(40, 40, 40) ink, not the default white and black. Blocks arrive on a 1.85s reveal with a `cubic-bezier(0.67, 0, 0.3, 1)`, an ease that starts and ends slowly. The rest of the site is a WordPress shop for the collective's own typefaces.
 
 ## When to open it
 
-Open it when a brief needs a display face with real character for a poster, event page, zine or loud landing page, and you want a small foundry rather than a big catalogue. It is also worth studying for the typeface page itself: it is an unusual example of a specimen embedded in the browser, with sliders that change size, line height and letter spacing across several families at once.
+Open it when a brief needs a display face with real character for a poster, event page, zine or loud landing page, and when you want to see how far a type-led page can go without photography: one marquee, one accent and a lot of whitespace. It is also the page to study for an in-browser specimen, because the typefaces page puts three controls on every line of sample text.
 
 ## Most useful
 
-- **The specimen tester** on the typefaces page: editable specimen lines, each with size, line-height and letter-spacing controls, so you can judge a face at poster scale and at text scale without downloading it
-- **A nine-weight ladder**: Strait Sans ships as thin, extra-light, light, regular, medium, semibold, bold, extra-bold and black, sold per weight and as one bundle
-- **Pay-what-you-want pricing** on Octopia Neue, with $0 still selectable, which makes it usable by students and side projects
-- **A plain-language SIL Open Font License page**, spelling out commercial use, redistribution, modification and the reserved-name rule instead of pointing at a PDF
-- **Workshops**, framed as experimental type workshops and honest conversations about design education, which is how a young foundry shows its thinking
-- **The home page itself**: the collective's name repeated at huge size as the layout, a compact reference for type-led heroes
+- **A cropped marquee band**: 380px type on a 56px line height, scrolled by a 45s linear animation, so the repetition becomes texture rather than a logo
+- **The specimen tester**: 27 range sliders across the page, three per sample line, for size, line height and letter spacing, so a face can be judged at poster scale and at text scale in place
+- **Two oranges doing different jobs**: the large specimen headings are rgb(236, 86, 54) at 85px in weight 800 on a 90px line, capitalised, while links are the hotter rgb(255, 72, 35)
+- **A body face of its own**: body copy is set in Area Normal at 15px on 20px, and sample lines are set in the foundry's own fonts, so the site doubles as a live catalogue
+- **A reveal worth copying**: 1.85s with a strong ease-in-out on large blocks, slow enough to read as deliberate
+- **Pay-what-you-want including zero** on Octopia Neue, which turns a price into an invitation without dropping the paid tiers
 
 ## Using it with agents
 
-There is nothing agent-specific here: `/llms.txt` returned 404, and there is no API, MCP server or package registry, so an agent cannot install a face from this site. `robots.txt` is the WordPress default and only blocks `/wp-admin/`, so reading pages is allowed. A workable loop is to have an agent fetch a product page for its price and name, download the files and their licence, commit both, and generate `@font-face` rules with a fallback stack.
+There is nothing agent-specific here: `/llms.txt` returned 404, and there is no API, MCP server or package registry, so an agent cannot install a face from this site. `robots.txt` is the WordPress default and only blocks `/wp-admin/`, so reading pages is allowed. The measured values are the useful part, because they can be lifted from a browser session to brief a font choice: crop the line box for a band, animate it linear rather than eased, keep the ground at rgb(255, 252, 252), and give a tester three sliders per line. The other workable loop is to have an agent read a product page for its name and price, then download the files and their licence and write `@font-face` rules with a fallback stack.
 
 ## Watch out for
 
+- A 56px line box under 380px type is deliberate cropping, and it needs a clipped container. Lifting the number without the overflow rule will overlap neighbouring sections
+- The linear 45s loop is what keeps the band calm. Adding an easing curve turns it into a banner advert
+- Several sample lines fell back to a generic sans at review, because the page depends on the foundry's webfonts loading; a tester like this needs real fallback stacks
 - `/shop/` returned HTTP 403 at review while individual product pages loaded normally, so the catalogue index is the one page a script cannot read
-- Prices are per weight. Only Strait Sans has a bundle, so a family can cost several times its single-weight price
-- The OFL page says the collective hosts open-source fonts but does not say which families they are, so check the download before assuming a face is free
-- Leftovers from earlier builds are still published: `home-new`, `resources-old`, `shop-old`, a second checkout, and product categories named "Uncategorized" and "Getai"
-- Octopia Neue and the newer display faces show as "$0.00" with a pay-what-you-want slider, which reads like a free font until you reach the cart
-- The blog has two posts from 2023, and the footer carries both a 2025 and a 2026 copyright line, so the site's freshness is hard to judge from the blog alone
+- Prices are per weight, and only Strait Sans has a bundle, so a family can cost several times its single-weight price
+- The Open Font License page says the collective hosts open-source fonts but does not name which families, so check the download before assuming a face is free
+- Leftovers from earlier builds are still published (`home-new`, `resources-old`, `shop-old`, a second checkout), and two product categories read "Uncategorized" and "Getai"
+- The blog has two posts from 2023 and the footer carries both a 2025 and a 2026 copyright line
 
 ## Reusable ideas
 
-- Put a real specimen tester on the typeface page, with sliders for size, line height and letter spacing, so a visitor can evaluate a face before downloading
-- Offer a pay-what-you-want slider that includes zero, which turns students into advocates without giving up paid tiers
-- Write the open-source licence as a short list of what you may do, then name the one condition that matters, such as reserved font names
-- Sell single weights beside the bundle, so a small project can buy one weight without feeling overcharged
-- Use workshops and talks as the proof that a young foundry knows its craft
+- Let one word at a size larger than its line box make the layout, and let the container crop it
+- Scroll a marquee linearly over a long duration instead of easing it, so repetition reads as texture
+- Use a warm off-white ground, around rgb(255, 252, 252), rather than pure white under large black type
+- Reserve the hottest colour in the palette for links and a slightly deeper one for display headings, so the two never compete
+- Put size, line-height and letter-spacing sliders on every sample line, because a face lives or dies on those three values
+- Slow big reveals to nearly two seconds with an ease-in-out, which reads as considered rather than as a transition library default
+- Sell single weights beside the bundle so a small project can buy one without feeling overcharged
 
 ## Related
 

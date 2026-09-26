@@ -32,7 +32,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Curated](../sites/curated-design.md) — About 2,240 live sites by industry and style, plus a 2,267-entry section library (mostly Pro).
 - [daisyUI](../sites/daisyui.md) — MIT Tailwind plugin of semantic component classes and 35 themes; llms.txt doubles as a skill, paid Blueprint MCP.
 - [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
-- [Death of Typography](../sites/death-of-typography.md) — Singaporean type collective with 20 experimental faces and an on-page specimen tester; some fonts are OFL, the rest are sold.
+- [Death of Typography](../sites/death-of-typography.md) — Singapore type collective whose home page is a cropped 380px marquee in its own face, plus a specimen tester with 27 sliders.
 - [Departure Mono](../sites/departure-mono.md) — Free OFL pixel monospace font by Helena Zhang with box drawing, Cyrillic and Greek.
 - [Design Minis](../sites/design-minis.md) — 128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.
 - [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
