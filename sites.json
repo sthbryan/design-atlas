@@ -246,6 +246,36 @@
       ]
     },
     {
+      "slug": "8bitcn",
+      "path": "sites/8bitcn.md",
+      "title": "8bitcn",
+      "description": "Retro 8-bit shadcn/ui skin: 56 components, 63 blocks, game UI pieces and 21 themes.",
+      "url": "https://www.8bitcn.com",
+      "type": "component-library",
+      "formats": "component library · blocks (shadcn registry)",
+      "topics": [
+        "components",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repo `TheOrcDev/8bitcn-ui`). The retro font it loads, Press Start 2P, comes from Google Fonts under its own licence.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "evil-buttons",
+        "termcn",
+        "srcl",
+        "dither-kit"
+      ]
+    },
+    {
       "slug": "accesslint-skills",
       "path": "sites/accesslint-skills.md",
       "title": "AccessLint Skills",
@@ -653,6 +683,32 @@
         "minimal-gallery",
         "designeer",
         "3dicons"
+      ]
+    },
+    {
+      "slug": "ascii-studio",
+      "path": "sites/ascii-studio.md",
+      "title": "ASCII Studio",
+      "description": "Turns images, GIFs and video into ASCII animation and exports a self-contained React component.",
+      "url": "https://www.asciistudio.space",
+      "type": "tool",
+      "formats": "tool · image and video to ASCII converter",
+      "topics": [
+        "assets",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "free to use at review time. The homepage shows a pricing section, but it has placeholder copy and no prices or checkout. The repo (`vansh-nagar/ascii-studio`) is public but has no licence file, so reuse of the code is Not stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "tooooools",
+        "dotforge",
+        "srcl",
+        "efecto"
       ]
     },
     {
@@ -1189,6 +1245,32 @@
         "minimal-gallery",
         "seesaw",
         "recent-design"
+      ]
+    },
+    {
+      "slug": "departure-mono",
+      "path": "sites/departure-mono.md",
+      "title": "Departure Mono",
+      "description": "Free OFL pixel monospace font by Helena Zhang with box drawing, Cyrillic and Greek.",
+      "url": "https://departuremono.com",
+      "type": "asset-library",
+      "formats": "typeface (pixel monospace)",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "free; the font is under the SIL Open Font License and the website code is MIT (repo `rektdeckard/departure-mono`). Donations are optional.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "srcl",
+        "8bitcn",
+        "termcn",
+        "typeface-fyi"
       ]
     },
     {
@@ -1763,6 +1845,92 @@
         "60fps",
         "motion-primitives",
         "animejs"
+      ]
+    },
+    {
+      "slug": "dither-kit",
+      "path": "sites/dither-kit.md",
+      "title": "Dither Kit",
+      "description": "Dithered canvas charts (area, bar, pie, radar) with a Recharts-style API and a single Markdown docs file.",
+      "url": "https://www.tripwire.sh/dither-kit",
+      "type": "component-registry",
+      "formats": "chart and component registry (shadcn) · CLI",
+      "topics": [
+        "components",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "cli",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free; the repo `Boring-Software-Inc/dither-kit` declares MIT in `package.json` but had no LICENSE file at review time; the `@dither-kit/cli` npm package is MIT",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "8bitcn",
+        "termcn",
+        "dotforge"
+      ]
+    },
+    {
+      "slug": "dot-matrix",
+      "path": "sites/dot-matrix.md",
+      "title": "Dot Matrix",
+      "description": "90 dot-grid loading animations as a shadcn registry, with a props playground; licence is restrictive.",
+      "url": "https://dotmatrix.zzzzshawn.cloud",
+      "type": "component-registry",
+      "formats": "loader component registry (shadcn)",
+      "topics": [
+        "components",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free to use; the site calls it \"free and open-source\", but the repo (`zzzzshawn/matrix`) carries a custom proprietary licence. It allows use in commercial and non-commercial products but forbids redistributing the components as a standalone or bundled component library, or selling them.",
+      "licence_class": "source-available",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "circle-loaders",
+        "shadcn-ui",
+        "8bitcn",
+        "dither-kit"
+      ]
+    },
+    {
+      "slug": "dotforge",
+      "path": "sites/dotforge.md",
+      "title": "DotForge",
+      "description": "Browser tool with 51 animated effects, dither patterns and post-FX; exports PNG, video or an HTML embed.",
+      "url": "https://dotforge.vercel.app",
+      "type": "tool",
+      "formats": "tool · animated dither generator",
+      "topics": [
+        "assets",
+        "motion",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "free, with no account; licence and terms for exported visuals or embed code: Not stated",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "tooooools",
+        "ascii-studio",
+        "efecto",
+        "paper-shaders",
+        "dither-kit"
       ]
     },
     {
@@ -4504,6 +4672,36 @@
       ]
     },
     {
+      "slug": "srcl",
+      "path": "sites/srcl.md",
+      "title": "SRCL",
+      "description": "Terminal-aesthetic React kit plus matching CLI framework, with llms.txt, AGENTS.md catalogue and porting skills.",
+      "url": "https://www.sacred.computer",
+      "type": "component-library",
+      "formats": "component library · CLI framework · llms.txt",
+      "topics": [
+        "components",
+        "typography-and-styles",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repo `internet-development/www-sacred`, © Internet Development Studio Company). The dozens of monospace fonts in the font switcher are third-party typefaces with their own licences and load from the studio's own storage bucket.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "termcn",
+        "8bitcn",
+        "departure-mono",
+        "ascii-studio"
+      ]
+    },
+    {
       "slug": "stitch-skills",
       "path": "sites/stitch-skills.md",
       "title": "Stitch Skills",
@@ -4802,6 +5000,32 @@
         "number-flow",
         "css-text-effects",
         "motion-primitives"
+      ]
+    },
+    {
+      "slug": "tooooools",
+      "path": "sites/tooooools.md",
+      "title": "Tooooools",
+      "description": "Free lo-fi effects for photos and video: dithering, stippling, halftone, CRT, ASCII, with SVG export.",
+      "url": "https://www.tooooools.app",
+      "type": "tool",
+      "formats": "tool · image and video effects",
+      "topics": [
+        "assets",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "free, no sign-up; the About page says output may be used for personal and commercial work and attribution is optional. Voluntary crypto donations; no uptime guarantee.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "dotforge",
+        "ascii-studio",
+        "efecto",
+        "fffuel"
       ]
     },
     {
