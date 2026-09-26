@@ -2,7 +2,7 @@
 title: Velvetyne
 description: French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 url: https://velvetyne.fr
-type: asset-library
+type: font-library
 formats: type foundry · libre fonts
 topics: [typography-and-styles, assets, inspiration]
 verdict: useful

@@ -1616,7 +1616,7 @@
       "title": "Departure Mono",
       "description": "Free OFL pixel monospace font by Helena Zhang with box drawing, Cyrillic and Greek.",
       "url": "https://departuremono.com",
-      "type": "asset-library",
+      "type": "font-library",
       "formats": "typeface (pixel monospace)",
       "topics": [
         "typography-and-styles",
@@ -2755,7 +2755,7 @@
       "title": "Fontshare",
       "description": "100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.",
       "url": "https://www.fontshare.com",
-      "type": "asset-library",
+      "type": "font-library",
       "formats": "font library · CSS API",
       "topics": [
         "typography-and-styles",
@@ -2783,7 +2783,7 @@
       "title": "Fontsource",
       "description": "2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.",
       "url": "https://fontsource.org",
-      "type": "asset-library",
+      "type": "font-library",
       "formats": "font library · npm packages · API",
       "topics": [
         "typography-and-styles",
@@ -3909,7 +3909,7 @@
       "title": "Klim Type Foundry",
       "description": "Premium New Zealand foundry (Söhne, Tiempos) with reference-grade essays and use-based licensing from USD 60.",
       "url": "https://klim.co.nz",
-      "type": "asset-library",
+      "type": "font-library",
       "formats": "type foundry · specimens",
       "topics": [
         "typography-and-styles",
@@ -7457,7 +7457,7 @@
       "title": "Velvetyne",
       "description": "French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.",
       "url": "https://velvetyne.fr",
-      "type": "asset-library",
+      "type": "font-library",
       "formats": "type foundry · libre fonts",
       "topics": [
         "typography-and-styles",

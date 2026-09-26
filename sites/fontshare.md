@@ -2,7 +2,7 @@
 title: Fontshare
 description: 100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.
 url: https://www.fontshare.com
-type: asset-library
+type: font-library
 formats: font library · CSS API
 topics: [typography-and-styles, assets]
 verdict: very-useful

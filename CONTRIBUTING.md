@@ -30,7 +30,7 @@ To feature the site in a hub's "Start here" list, edit that hub by hand. Keep th
 | `title` | yes | The site's name, identical to the page's H1. |
 | `description` | yes | One line, at most 160 characters, in your own words. Used in hubs, the README, `llms.txt` and `sites.json`. |
 | `url` | yes | The canonical `https://` address. |
-| `type` | yes | One of: `gallery`, `component-library`, `component-registry`, `design-system`, `js-library`, `icon-library`, `asset-library`, `sound-library`, `style-library`, `prompt-library`, `template-library`, `pattern-library`, `documentation`, `guidelines`, `directory`, `tool`, `design-workspace`, `browser-extension`, `ai-builder`, `agent-skill`, `agent-skill-collection`. |
+| `type` | yes | One of: `gallery`, `component-library`, `component-registry`, `design-system`, `js-library`, `icon-library`, `font-library`, `asset-library`, `sound-library`, `style-library`, `prompt-library`, `template-library`, `pattern-library`, `documentation`, `guidelines`, `directory`, `tool`, `design-workspace`, `browser-extension`, `ai-builder`, `agent-skill`, `agent-skill-collection`. |
 | `formats` | no | Free text with more detail on what the site offers, for example `component library · shadcn registry · MCP server`. |
 | `topics` | yes | One to four hub slugs, the file names in `topics/`. The first is the primary topic. |
 | `verdict` | yes | `very-useful` (you would reach for it often), `useful` (good in its lane) or `niche` (a narrow case or thin content). |

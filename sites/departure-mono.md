@@ -2,7 +2,7 @@
 title: Departure Mono
 description: Free OFL pixel monospace font by Helena Zhang with box drawing, Cyrillic and Greek.
 url: https://departuremono.com
-type: asset-library
+type: font-library
 formats: typeface (pixel monospace)
 topics: [typography-and-styles, assets]
 verdict: very-useful

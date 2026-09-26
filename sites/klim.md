@@ -2,7 +2,7 @@
 title: Klim Type Foundry
 description: Premium New Zealand foundry (Söhne, Tiempos) with reference-grade essays and use-based licensing from USD 60.
 url: https://klim.co.nz
-type: asset-library
+type: font-library
 formats: type foundry · specimens
 topics: [typography-and-styles, inspiration]
 verdict: useful

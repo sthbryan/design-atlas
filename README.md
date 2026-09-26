@@ -82,16 +82,11 @@ A curated set of references for building websites and UI — galleries, componen
 | [Backgrounds Supply](sites/backgrounds-supply.md) | asset-library | assets, landing-pages, 3d-and-shaders | useful | llms-txt | proprietary-paid |
 | [Circle Loaders](sites/circle-loaders.md) | asset-library | components, motion, assets | niche | none | not-stated |
 | [Craftwork](sites/craftwork.md) | asset-library | assets, agents-and-prompts, typography-and-styles | very-useful | mcp, api, skill | proprietary-paid |
-| [Departure Mono](sites/departure-mono.md) | asset-library | typography-and-styles, assets | very-useful | none | open-source-permissive |
-| [Fontshare](sites/fontshare.md) | asset-library | typography-and-styles, assets | very-useful | api | mixed |
-| [Fontsource](sites/fontsource.md) | asset-library | typography-and-styles, assets | very-useful | llms-txt, api, prompts | open-source-permissive |
 | [Icoon](sites/icoon.md) | asset-library | icons, assets | niche | none | proprietary-paid |
 | [Kitbitz](sites/kitbitz.md) | asset-library | assets, components | useful | none | not-stated |
-| [Klim Type Foundry](sites/klim.md) | asset-library | typography-and-styles, inspiration | useful | none | proprietary-paid |
 | [Lottie](sites/lottiefiles.md) | asset-library | motion, assets, agents-and-prompts | useful | mcp, llms-txt | mixed |
 | [Poly Haven](sites/poly-haven.md) | asset-library | 3d-and-shaders, assets | very-useful | llms-txt, api | public-domain |
 | [shieldcn](sites/shieldcn.md) | asset-library | assets, documentation, agents-and-prompts | useful | llms-txt, registry, skill | open-source-permissive |
-| [Velvetyne](sites/velvetyne.md) | asset-library | typography-and-styles, assets, inspiration | useful | none | mixed |
 | [Venust Backgrounds](sites/venust-backgrounds.md) | asset-library | assets, agents-and-prompts, landing-pages | very-useful | llms-txt, prompts | public-domain |
 | [Typeface.fyi](sites/typeface-fyi.md) | browser-extension | typography-and-styles, inspiration | niche | none | proprietary-free |
 | [TypeUI DESIGN.md Extractor](sites/design-md-chrome.md) | browser-extension | design-md, agents-and-prompts, typography-and-styles | useful | skill | open-source-permissive |
@@ -173,6 +168,11 @@ A curated set of references for building websites and UI — galleries, componen
 | [Morphrig](sites/morphrig.md) | documentation | motion, icons, documentation | useful | llms-txt | not-stated |
 | [The Book of Shaders](sites/book-of-shaders.md) | documentation | 3d-and-shaders, documentation | very-useful | none | proprietary-free |
 | [The Component Gallery](sites/component-gallery.md) | documentation | components, documentation | very-useful | none | not-stated |
+| [Departure Mono](sites/departure-mono.md) | font-library | typography-and-styles, assets | very-useful | none | open-source-permissive |
+| [Fontshare](sites/fontshare.md) | font-library | typography-and-styles, assets | very-useful | api | mixed |
+| [Fontsource](sites/fontsource.md) | font-library | typography-and-styles, assets | very-useful | llms-txt, api, prompts | open-source-permissive |
+| [Klim Type Foundry](sites/klim.md) | font-library | typography-and-styles, inspiration | useful | none | proprietary-paid |
+| [Velvetyne](sites/velvetyne.md) | font-library | typography-and-styles, assets, inspiration | useful | none | mixed |
 | [404s](sites/404s.md) | gallery | error-pages, inspiration | niche | llms-txt | not-stated |
 | [60fps](sites/60fps.md) | gallery | inspiration, motion, agents-and-prompts | very-useful | mcp, llms-txt | proprietary-paid |
 | [Appinspo](sites/appinspo.md) | gallery | inspiration, agents-and-prompts, design-md | useful | prompts | not-stated |

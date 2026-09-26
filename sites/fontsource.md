@@ -2,7 +2,7 @@
 title: Fontsource
 description: 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.
 url: https://fontsource.org
-type: asset-library
+type: font-library
 formats: font library · npm packages · API
 topics: [typography-and-styles, assets]
 verdict: very-useful

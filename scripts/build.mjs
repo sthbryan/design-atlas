@@ -10,7 +10,7 @@ const REVIEW_DAYS = 180;
 const VOCAB = {
   type: [
     'gallery', 'component-library', 'component-registry', 'design-system', 'js-library',
-    'icon-library', 'asset-library', 'sound-library', 'style-library', 'prompt-library',
+    'icon-library', 'font-library', 'asset-library', 'sound-library', 'style-library', 'prompt-library',
     'template-library', 'pattern-library', 'documentation', 'guidelines', 'directory', 'tool',
     'design-workspace', 'browser-extension', 'ai-builder', 'agent-skill', 'agent-skill-collection',
   ],
