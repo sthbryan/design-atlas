@@ -436,5 +436,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add, update or remove a site, 
 ## Licence
 
 - Content (the site pages, topic hubs, this README and the other Markdown files) is licensed under [CC BY 4.0](LICENSE). Credit "Design Atlas contributors" and link back to this repository when you reuse it.
-- Code (`scripts/`) and the agent skills in `skills/` are licensed under the [MIT licence](LICENSE-CODE). Each skill folder carries its own `LICENSE` file, because installers copy only that folder. The generated `catalog.json` and `hub-map.md` inside `skills/design-atlas/references/` are atlas content under CC BY 4.0.
+- Code (`scripts/`) and the agent skills in `skills/` are licensed under the [MIT licence](LICENSE-CODE). Each skill folder carries its own `LICENSE` file, because installers copy only that folder. The generated `catalog.json`, `hub-map.md` and `search-index.json` inside `skills/design-atlas/references/` are atlas content under CC BY 4.0.
 - Site names, logos and trademarks belong to their owners. Short quotes stay with their original authors, and the licence of every reviewed site still applies to that site's own code, assets and text.

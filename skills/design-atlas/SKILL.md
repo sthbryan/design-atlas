@@ -3,7 +3,7 @@ name: design-atlas
 description: Finds and shortlists design references from the Design Atlas wiki, covering galleries, component libraries, design systems, icons, type, colour, motion, DESIGN.md examples and agent-ready tools. Filters them by licence, agent channel, verdict and pricing, and returns a short cited brief with licence caveats. Use when the user wants design inspiration or references, or asks which library, icon set, font or tool to use. Also use it for licence-safe assets, DESIGN.md examples and design tools an agent can call, even when the atlas is not named. To build or review UI, or to write a DESIGN.md, use design-atlas-ui.
 license: MIT
 metadata:
-  version: "0.1.0"
+  version: "0.2.0"
 ---
 
 # Design Atlas
@@ -81,14 +81,19 @@ Then note the constraints, since each one becomes a filter:
 
 Run `scripts/query.mjs` with Node 18 or later. Call it by its full path from the user's working directory, so it finds a clone there. It reads local files first and makes at most one network request, to raw GitHub.
 
+When the need is free text, start with `--search` and the user's own words, plus the constraint filters. It ranks sites offline against `references/search-index.json`, folds plurals, expands design synonyms from `references/synonyms.json` and corrects typos. Filters apply before ranking.
+
 ```sh
 SKILL_DIR=path/to/design-atlas
+node "$SKILL_DIR/scripts/query.mjs" --search "animated icons for react" --licence ship
 node "$SKILL_DIR/scripts/query.mjs" --topic icons,assets --licence ship --agent any
 node "$SKILL_DIR/scripts/query.mjs" --topic components --agent mcp --min-verdict useful
 node "$SKILL_DIR/scripts/query.mjs" --slug iconoir,icons0 --full
 ```
 
 It prints JSON: `location`, `base`, `total`, and one row per site. Each row's `path` is relative to `base`, a local folder or the raw GitHub URL; `base` is null for the snapshot. Exit code 1 means no match, so widen one filter at a time. Add `--offline` when network use is not allowed.
+
+With `--search`, rows sort by `score` and carry `match`, the fields each term hit. The header's `search` object shows the stemmed `terms`, the `expanded` synonyms and any `corrected` typo; check a correction before trusting the results. Words such as "ship", "commercial" or "free" are not ranked: `search.suggest` names the filter to add instead. A score ranks within one query only, so still shortlist by fit, and cross-check the top rows with the hubs from step 1.
 
 Without Node, filter `llms.txt` or the catalog with grep or jq. Read `references/query-recipes.md` for those commands and for raw GitHub fetches.
 
@@ -147,7 +152,7 @@ When the user wants UI built, restyled or reviewed, or a DESIGN.md written, pass
 
 ## Contribute back
 
-Before calling a site missing, search the index for it with `--text`. When a needed reference is missing or a page looks wrong, offer to draft a suggestion, and file nothing without the user's yes. The route is the "Suggest a site" issue form at `https://github.com/sthbryan/design-atlas/issues/new?template=suggest-a-site.yml`.
+Before calling a site missing, search the index for it with `--search` and `--text`. When a needed reference is missing or a page looks wrong, offer to draft a suggestion, and file nothing without the user's yes. The route is the "Suggest a site" issue form at `https://github.com/sthbryan/design-atlas/issues/new?template=suggest-a-site.yml`.
 
 Inside a clone, follow `AGENTS.md` and `CONTRIBUTING.md`. Never hand-edit `llms.txt`, `sites.json`, the marker blocks in the README and hubs, or a page's Related line, because the build rewrites them.
 

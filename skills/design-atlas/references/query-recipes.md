@@ -11,6 +11,7 @@ Commands for filtering the atlas without `scripts/query.mjs`, and for reading pa
 - [Raw GitHub](#raw-github)
 - [Reading a page](#reading-a-page)
 - [Script flags](#script-flags)
+- [Ranked search](#ranked-search)
 
 ## Field values
 
@@ -124,3 +125,23 @@ grep -n -i -E 'scrap|crawl|bulk|automated|redistribut|mirror' sites/animated-ico
 | 1 | No match; widen one filter |
 | 2 | Bad argument; the message names the fix |
 | 3 | No index reachable; clone the atlas and pass `--atlas DIR` |
+
+## Ranked search
+
+`--search "words"` ranks the filtered sites by relevance and needs no network. Use it first when the need is free text; use `--text` when you know an exact word or name.
+
+```sh
+node scripts/query.mjs --search "pricing page inspiration"
+node scripts/query.mjs --search "animated icons for react" --licence ship --agent any
+node scripts/query.mjs --search "shdcn charts" --limit 5
+```
+
+How it ranks:
+
+- `references/search-index.json` holds each site's terms from its title, description, type and formats, topics, licence text, and the "What it is", "Most useful", "Using it with agents" and "Reusable ideas" sections. `npm run build` writes it. A local clone's own index wins over the bundled one; sites missing from the index are ranked on their metadata only, and stderr says how many.
+- Scoring is BM25F: the title weighs most, then the description, type and topics, then the body and licence text. Stopwords drop, and plurals and endings fold (`libraries` and `library`, `animated` and `animation`).
+- `references/synonyms.json` expands terms at a lower weight, such as `spinner` to `loader` and `pricing page` to `cta`, `tiers` and `plans`. Expansions that occur in more than a quarter of the sites are skipped. Each query term counts once, through its best-matching synonym. Its `filters` list maps words such as `ship`, `commercial`, `open source` and `free` to a filter; they are not ranked, and the header's `search.suggest` names the filter to add.
+- A word missing from the index is matched to the closest indexed term within one edit (two for words of six letters or more) at a penalty, and reported in `search.corrected` and on stderr, such as `shdcn→shadcn`.
+- Stale sites score 15% lower and broken ones 30% lower, but still appear. Rows scoring under a quarter of the best row are dropped.
+
+Each row adds `score` and `match`, a map from each matched term to the fields it hit. The header's `search` object lists `terms`, `expanded`, `corrected`, `unmatched` and, when present, `filter_words` and `suggest`. Terms appear stemmed, so `pricing` shows as `pric`. Scores compare rows within one query, not across queries.

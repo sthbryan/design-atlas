@@ -16,7 +16,7 @@ Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md`
 
 ## Agent skills
 
-`skills/design-atlas/` and `skills/design-atlas-ui/` are installable agent skills built on this atlas; the README's "Skills" section says what each does and how to install them. Inside a clone, `node skills/design-atlas/scripts/query.mjs --help` is a quick way to filter `sites.json` by topic, licence class, agent channel and verdict. To edit a skill, follow "Edit the skills" in [CONTRIBUTING.md](CONTRIBUTING.md).
+`skills/design-atlas/` and `skills/design-atlas-ui/` are installable agent skills built on this atlas; the README's "Skills" section says what each does and how to install them. Inside a clone, `node skills/design-atlas/scripts/query.mjs --help` is a quick way to filter `sites.json` by topic, licence class, agent channel and verdict, and `--search "free text"` ranks sites by relevance. To edit a skill, follow "Edit the skills" in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Generated content: never edit by hand
 
@@ -26,7 +26,7 @@ The build owns these parts; your edits there are overwritten or fail the check:
 - In each hub, everything between the `atlas:sources` start and end markers.
 - In each site page, the breadcrumb line directly after the frontmatter and the body of the `## Related` section.
 - `llms.txt` and `sites.json`.
-- `skills/design-atlas/references/catalog.json` and `skills/design-atlas/references/hub-map.md`, the snapshot the `design-atlas` skill falls back to offline.
+- `skills/design-atlas/references/catalog.json` and `skills/design-atlas/references/hub-map.md`, the snapshot the `design-atlas` skill falls back to offline, and `skills/design-atlas/references/search-index.json`, the index behind `query.mjs --search`.
 
 Change the frontmatter instead, then run the build. The markers are the only HTML comments allowed anywhere in the repo.
 
