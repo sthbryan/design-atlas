@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # DESIGN.md
 
 - **URL:** https://designmd.ai
 - **Type:** design-system library in markdown · MCP · CLI
-- **Topics:** documentation, agents and prompts, typography and styles
+- **Topics:** design-md, documentation, agents and prompts, typography and styles
 - **Pricing / licence:** free to browse and download; a free API key is needed to use the MCP/CLI for uploading, downloading or deleting. Not indicated for the licence of each individual design system.
 - **Reviewed:** 2026-09-25
 

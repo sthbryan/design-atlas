@@ -1,10 +1,10 @@
-[← Atlas](../README.md) · Topics: [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Refero Styles
 
 - **URL:** https://styles.refero.design
 - **Type:** style library · AI-readable documentation · registry
-- **Topics:** documentation, agents-and-prompts, typography-and-styles
+- **Topics:** design-md, documentation, agents-and-prompts, typography-and-styles
 - **Pricing / licence:** Not stated (site is in beta, "new styles added every week")
 - **Reviewed:** 2026-09-25
 
