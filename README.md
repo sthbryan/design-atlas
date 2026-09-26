@@ -289,7 +289,11 @@ The repository is private for now. Until it is public, both install commands nee
 | [User Interface Wiki](sites/user-interface-wiki.md) | guidelines | motion, ux-patterns, sound, agents-and-prompts | very-useful | skill | open-source-permissive |
 | [3dicons](sites/3dicons.md) | icon-library | icons, assets, components | useful | none | public-domain |
 | [Animated Icons](sites/animated-icons.md) | icon-library | icons, assets, motion | useful | none | proprietary-paid |
+| [Bootstrap Icons](sites/bootstrap-icons.md) | icon-library | icons, assets | very-useful | none | open-source-permissive |
+| [Boxicons](sites/boxicons.md) | icon-library | icons, assets, agents-and-prompts | useful | cli, skill | mixed |
+| [css.gg (stale)](sites/css-gg.md) | icon-library | icons, assets | niche | none | mixed |
 | [Devicon](sites/devicon.md) | icon-library | icons, assets | useful | none | open-source-permissive |
+| [Eva Icons (stale)](sites/eva-icons.md) | icon-library | icons, assets, motion | niche | none | open-source-permissive |
 | [Feather (stale)](sites/feather.md) | icon-library | icons, assets | useful | none | open-source-permissive |
 | [Heroicons (stale)](sites/heroicons.md) | icon-library | icons, assets, components | useful | none | open-source-permissive |
 | [Heroicons Animated](sites/heroicons-animated.md) | icon-library | icons, motion, components | useful | llms-txt, registry | open-source-permissive |
@@ -298,6 +302,8 @@ The repository is private for now. Until it is public, both install commands nee
 | [Iconoir](sites/iconoir.md) | icon-library | icons, assets, components | very-useful | none | open-source-permissive |
 | [Icons.download](sites/icons-download.md) | icon-library | icons, assets | niche | none | proprietary-free |
 | [icons0](sites/icons0.md) | icon-library | icons, assets, agents-and-prompts | useful | mcp, registry | mixed |
+| [Iconsax](sites/iconsax.md) | icon-library | icons, assets, agents-and-prompts | useful | mcp, cli | proprietary-paid |
+| [Ionicons](sites/ionicons.md) | icon-library | icons, assets, components | useful | none | open-source-permissive |
 | [Lucide](sites/lucide.md) | icon-library | icons, assets, components | very-useful | llms-txt | open-source-permissive |
 | [Lucide Animated](sites/lucide-animated.md) | icon-library | icons, motion, agents-and-prompts | very-useful | mcp, llms-txt, registry, skill | mixed |
 | [Material Symbols](sites/material-symbols.md) | icon-library | icons, assets, typography-and-styles | very-useful | none | open-source-permissive |

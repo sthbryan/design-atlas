@@ -50,6 +50,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Drawably](../sites/drawably.md) — MIT hand-drawn UI controls that sketch fresh on each mount, keep native inputs and ship an agent.md.
 - [Easing Wizard](../sites/easing-wizard.md) — Visual CSS easing editor (Bézier, spring, bounce) with a free REST API, MCP server and Claude Code plugin.
 - [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
+- [Eva Icons (stale)](../sites/eva-icons.md) — Akveo's MIT pack of 490 outline and fill icons with a data-attribute replace script and four hover animations; unmaintained since 2020.
 - [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
 - [Fancy Components](../sites/fancy-components.md) — Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.

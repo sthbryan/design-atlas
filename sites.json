@@ -1213,6 +1213,64 @@
       ]
     },
     {
+      "slug": "bootstrap-icons",
+      "path": "sites/bootstrap-icons.md",
+      "title": "Bootstrap Icons",
+      "description": "Bootstrap's official MIT set of 2,078 icons on a 16px grid, delivered as SVG, sprite, icon font, npm, Composer and Figma.",
+      "url": "https://icons.getbootstrap.com",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. MIT licensed, with no paid tier or sign-up. Brand logos in the set remain their owners' trademarks",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "ionicons",
+        "boxicons",
+        "iconoir",
+        "iconify",
+        "simple-icons"
+      ]
+    },
+    {
+      "slug": "boxicons",
+      "path": "sites/boxicons.md",
+      "title": "Boxicons",
+      "description": "Rounded UI icons with a free core, paid Pro packs and weights, framework packages, a CLI and a SKILL.md for coding agents.",
+      "url": "https://boxicons.com",
+      "type": "icon-library",
+      "formats": "icon library · CLI · agent skill file",
+      "topics": [
+        "icons",
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "cli",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "Freemium. The free docs put icons under CC 4.0, fonts under SIL OFL 1.1 and code under MIT, while GitHub and the npm packages say MIT. Pro is $39 a year for one user, $99 for up to 8 seats and $249 for up to 30, under a proprietary licence",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "bootstrap-icons",
+        "iconsax",
+        "hugeicons",
+        "iconify",
+        "simple-icons"
+      ]
+    },
+    {
       "slug": "browse-cool",
       "path": "sites/browse-cool.md",
       "title": "Browse.cool",
@@ -1584,6 +1642,33 @@
         "3dicons",
         "designeer",
         "kage"
+      ]
+    },
+    {
+      "slug": "css-gg",
+      "path": "sites/css-gg.md",
+      "title": "css.gg",
+      "description": "704 icons drawn in pure CSS, also as SVG and TSX; relicensed in 2024 to personal non-commercial use, so pin MIT v2.1.1.",
+      "url": "https://css.gg",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to download, but not open source since version 2.1.2 (August 2024). The custom licence allows personal, non-commercial use with attribution only, bans derivative works, and needs written permission for commercial use. Versions up to 2.1.1 remain MIT",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "stale",
+      "note": "Paused since the last commit and release in August 2024.",
+      "related": [
+        "bootstrap-icons",
+        "iconoir",
+        "iconify",
+        "eva-icons"
       ]
     },
     {
@@ -2819,6 +2904,35 @@
         "impeccable",
         "easing-wizard",
         "transitions-dev"
+      ]
+    },
+    {
+      "slug": "eva-icons",
+      "path": "sites/eva-icons.md",
+      "title": "Eva Icons",
+      "description": "Akveo's MIT pack of 490 outline and fill icons with a data-attribute replace script and four hover animations; unmaintained since 2020.",
+      "url": "https://akveo.github.io/eva-icons/",
+      "type": "icon-library",
+      "formats": "icon library",
+      "topics": [
+        "icons",
+        "assets",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. MIT licensed, with no paid tier",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "stale",
+      "note": "Unmaintained: last release in March 2020 and last commit in March 2023.",
+      "related": [
+        "ionicons",
+        "bootstrap-icons",
+        "useanimations",
+        "animated-icons",
+        "iconify"
       ]
     },
     {
@@ -4162,6 +4276,37 @@
       ]
     },
     {
+      "slug": "iconsax",
+      "path": "sites/iconsax.md",
+      "title": "Iconsax",
+      "description": "Vuesax's six-style icon library with 40k+ icons, a free no-auth MCP server, a web component and a Pro sync CLI.",
+      "url": "https://app.iconsax.io",
+      "type": "icon-library",
+      "formats": "icon library · MCP server · web component",
+      "topics": [
+        "icons",
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "cli"
+      ],
+      "pricing": "freemium",
+      "licence": "Freemium. Free icons use a proprietary free licence (commercial use allowed, no redistribution or resale). Premium is sold as monthly, annual or lifetime Pro plans and per-seat Team plans; prices load only inside the app and were not stated on any page we could read",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "hugeicons",
+        "boxicons",
+        "iconify",
+        "icons-download",
+        "ionicons"
+      ]
+    },
+    {
       "slug": "icoon",
       "path": "sites/icoon.md",
       "title": "Icoon",
@@ -4416,6 +4561,34 @@
         "motion-primitives",
         "rareui",
         "bencho"
+      ]
+    },
+    {
+      "slug": "ionicons",
+      "path": "sites/ionicons.md",
+      "title": "Ionicons",
+      "description": "Ionic's MIT icon set: about 1,357 SVGs in filled, outline and sharp variants, served by a lazy-loading ion-icon web component.",
+      "url": "https://ionic.io/ionicons/",
+      "type": "icon-library",
+      "formats": "icon library · web component",
+      "topics": [
+        "icons",
+        "assets",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. MIT licensed for personal and commercial use. The README notes that brand icons remain trademarks of their owners",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "bootstrap-icons",
+        "eva-icons",
+        "iconsax",
+        "iconify",
+        "iconoir"
       ]
     },
     {

@@ -28,8 +28,11 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
 - [Backgrounds Supply](../sites/backgrounds-supply.md) — Paid lifetime library of gradient, AI and animated hero backgrounds, plus a free Gradient Lab shader tool.
 - [Blender](../sites/blender.md) — Free GPL 3D suite for making and baking web assets, with glTF export and an official MCP server.
+- [Bootstrap Icons](../sites/bootstrap-icons.md) — Bootstrap's official MIT set of 2,078 icons on a 16px grid, delivered as SVG, sprite, icon font, npm, Composer and Figma.
+- [Boxicons](../sites/boxicons.md) — Rounded UI icons with a free core, paid Pro packs and weights, framework packages, a CLI and a SKILL.md for coding agents.
 - [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
 - [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
+- [css.gg (stale)](../sites/css-gg.md) — 704 icons drawn in pure CSS, also as SVG and TSX; relicensed in 2024 to personal non-commercial use, so pin MIT v2.1.1.
 - [Curations Supply](../sites/curations-supply.md) — Panda Network's directory of about 290 curated galleries, type, colour, UX and component sites, each with a logo, screenshot and one-line summary.
 - [Departure Mono](../sites/departure-mono.md) — Free OFL pixel monospace font by Helena Zhang with box drawing, Cyrillic and Greek.
 - [DesignBookmark](../sites/design-bookmark.md) — Directory of about 2,500 design, dev and AI tools in 59 categories, with a page per tool, clear sponsor labels and an llms.txt with counts.
@@ -37,6 +40,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Devicon](../sites/devicon.md) — MIT set of language and dev-tool logos as SVG and a font, made for tech-stack rows.
 - [DotForge](../sites/dotforge.md) — Browser tool with 51 animated effects, dither patterns and post-FX; exports PNG, video or an HTML embed.
 - [Efecto](../sites/efecto.md) — Browser canvas your agent drives through MCP tools, plus an FX engine for dither, ASCII and halftone posters.
+- [Eva Icons (stale)](../sites/eva-icons.md) — Akveo's MIT pack of 490 outline and fill icons with a data-attribute replace script and four hover animations; unmaintained since 2020.
 - [Feather (stale)](../sites/feather.md) — The original 287-icon minimal stroke set that Lucide forked. MIT, still usable, but no new icons since 2022.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
 - [Flowbase](../sites/flowbase.md) — Subscription library of 3,500+ Webflow, Figma and Framer sections, wireframes, icons and illustrations; use tied to the plan.
@@ -50,10 +54,12 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
 - [Icons.download](../sites/icons-download.md) — 275 hand-drawn UI icons in 16 styles (weight, fill, corner), free SVG and Figma.
 - [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
+- [Iconsax](../sites/iconsax.md) — Vuesax's six-style icon library with 40k+ icons, a free no-auth MCP server, a web component and a Pro sync CLI.
 - [Icoon](../sites/icoon.md) — About 1,500 AI-generated 3D icons, characters and shapes as PNGs, one-time $29, revocable licence.
 - [Imageory](../sites/imageory.md) — Small personal gallery of 125 AI-generated backgrounds and textures, each with its full prompt ready to copy; no licence stated.
 - [Inkword](../sites/inkword.md) — Turns one word into a small editable SVG editorial drawing in six fixed styles; private beta.
 - [Insposite](../sites/insposite.md) — Hand-picked list of 70 inspiration sites, designer portfolios and tools for design engineers, with its data file public on GitHub.
+- [Ionicons](../sites/ionicons.md) — Ionic's MIT icon set: about 1,357 SVGs in filled, outline and sharp variants, served by a lazy-loading ion-icon web component.
 - [Kitbitz](../sites/kitbitz.md) — 2,000+ hand-drawn illustrations with an artisanal, non-digital feel, free with no login required.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Lottie](../sites/lottiefiles.md) — Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.

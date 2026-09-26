@@ -79,6 +79,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
 - [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
 - [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
+- [Ionicons](../sites/ionicons.md) — Ionic's MIT icon set: about 1,357 SVGs in filled, outline and sharp variants, served by a lazy-loading ion-icon web component.
 - [Kage](../sites/kage.md) — Real interfaces packaged as agent-ready prompts and design briefs, browsable by component, with its own MCP server.
 - [Kibo UI](../sites/kibo-ui.md) — Free MIT shadcn companion with 41 functional components (Gantt, Kanban, editor), 28 marketing blocks and an MCP server.
 - [Kinetics](../sites/kinetics.md) — 153 spring-physics interaction effects in CSS, React and prompt form, with a live parameter editor.

@@ -23,9 +23,13 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [3dicons](../sites/3dicons.md) — 1,500+ CC0 rendered 3D icons with an online editor and a Figma plugin.
 - [Animate UI](../sites/animate-ui.md) — Animated Radix/Base UI/Headless UI primitives, styled components and 260 animated Lucide icons via the shadcn CLI.
 - [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie/SVG/GIF icons; free tier plus one-time All-Access, no attribution needed.
+- [Bootstrap Icons](../sites/bootstrap-icons.md) — Bootstrap's official MIT set of 2,078 icons on a 16px grid, delivered as SVG, sprite, icon font, npm, Composer and Figma.
+- [Boxicons](../sites/boxicons.md) — Rounded UI icons with a free core, paid Pro packs and weights, framework packages, a CLI and a SKILL.md for coding agents.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
+- [css.gg (stale)](../sites/css-gg.md) — 704 icons drawn in pure CSS, also as SVG and TSX; relicensed in 2024 to personal non-commercial use, so pin MIT v2.1.1.
 - [design-mobile-apps (Sleek)](../sites/design-mobile-apps.md) — REST client for Sleek's paid mobile-screen generator, with handoff to HTML, React Native or SwiftUI.
 - [Devicon](../sites/devicon.md) — MIT set of language and dev-tool logos as SVG and a font, made for tech-stack rows.
+- [Eva Icons (stale)](../sites/eva-icons.md) — Akveo's MIT pack of 490 outline and fill icons with a data-attribute replace script and four hover animations; unmaintained since 2020.
 - [Feather (stale)](../sites/feather.md) — The original 287-icon minimal stroke set that Lucide forked. MIT, still usable, but no new icons since 2022.
 - [Heroicons (stale)](../sites/heroicons.md) — Tailwind Labs' MIT set of 316 icons, each drawn in outline, solid, mini and micro sizes, with React and Vue packages.
 - [Heroicons Animated](../sites/heroicons-animated.md) — 316 Heroicons outline icons with hover animations built on Motion, via shadcn registry, npm and llms.txt.
@@ -36,7 +40,9 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
 - [Icons.download](../sites/icons-download.md) — 275 hand-drawn UI icons in 16 styles (weight, fill, corner), free SVG and Figma.
 - [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
+- [Iconsax](../sites/iconsax.md) — Vuesax's six-style icon library with 40k+ icons, a free no-auth MCP server, a web component and a Pro sync CLI.
 - [Icoon](../sites/icoon.md) — About 1,500 AI-generated 3D icons, characters and shapes as PNGs, one-time $29, revocable licence.
+- [Ionicons](../sites/ionicons.md) — Ionic's MIT icon set: about 1,357 SVGs in filled, outline and sharp variants, served by a lazy-loading ion-icon web component.
 - [Lucide](../sites/lucide.md) — Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.
 - [Lucide Animated](../sites/lucide-animated.md) — 467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.
 - [Material Symbols](../sites/material-symbols.md) — Google's Apache 2.0 variable icon font: about 3,900 symbols in three styles with fill, weight, grade and optical size axes.
