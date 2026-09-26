@@ -64,7 +64,7 @@ Skip this step when DESIGN.md already sets the direction and the request stays i
 
 1. Name the surface: marketing, product or reading. Each has its own density and expression budget in [references/direction.md](references/direction.md).
 2. If `design-atlas` is installed, ask it for a shortlist. Otherwise run the atlas lookup in [references/direction.md](references/direction.md), which filters references by topic and licence.
-3. Write the direction in five lines: audience and job, subject world, signature element, what it will not do, and 2–5 references with path, what you take and licence class.
+3. Write the direction in five lines: audience and job, subject world, signature element, what it will not do, and 2–5 references with path, what you take, licence class and reviewed date.
 
 The subject world is the product's own materials, vernacular and data. It is the main lever against generic output, so take it from the subject, never from the category's usual look.
 
