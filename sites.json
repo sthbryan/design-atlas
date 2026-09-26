@@ -515,6 +515,38 @@
       ]
     },
     {
+      "slug": "animate-ui",
+      "path": "sites/animate-ui.md",
+      "title": "Animate UI",
+      "description": "Animated Radix/Base UI/Headless UI primitives, styled components and 260 animated Lucide icons via the shadcn CLI.",
+      "url": "https://animate-ui.com",
+      "type": "component-registry",
+      "formats": "animated component registry (shadcn)",
+      "topics": [
+        "components",
+        "motion",
+        "icons"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free; the README and badge say MIT, but the repo's `LICENSE.md` is \"MIT + Commons Clause\" (use in any product, but you may not sell or redistribute the components themselves)",
+      "licence_class": "source-available",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "magic-ui",
+        "motion-primitives",
+        "animated-icons",
+        "useanimations",
+        "smooth-ui"
+      ]
+    },
+    {
       "slug": "animated-icons",
       "path": "sites/animated-icons.md",
       "title": "Animated Icons",
@@ -1220,6 +1252,37 @@
         "web-kits-audio",
         "sensory-ui",
         "dialkit"
+      ]
+    },
+    {
+      "slug": "cult-ui",
+      "path": "sites/cult-ui.md",
+      "title": "Cult UI",
+      "description": "Textured, distinctive marketing components and shader heroes built with Motion; paid blocks and templates.",
+      "url": "https://www.cult-ui.com",
+      "type": "component-registry",
+      "formats": "animated component registry (shadcn) with a paid Pro tier",
+      "topics": [
+        "components",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "free components under MIT (repo `nolly-studio/cult-ui`); Cult UI Pro is a one-time lifetime licence listed at $129 (reduced from $179) with blocks and templates under a restrictive commercial licence",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "magic-ui",
+        "aceternity-ui",
+        "paper-shaders",
+        "shadcn-ui",
+        "kokonut-ui",
+        "skiper-ui"
       ]
     },
     {
@@ -3350,6 +3413,39 @@
       ]
     },
     {
+      "slug": "kokonut-ui",
+      "path": "sites/kokonut-ui.md",
+      "title": "Kokonut UI",
+      "description": "Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.",
+      "url": "https://kokonutui.com",
+      "type": "component-registry",
+      "formats": "animated component registry (shadcn) with a paid Pro tier",
+      "topics": [
+        "components",
+        "motion",
+        "ai-interfaces",
+        "landing-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "free components under MIT (repo `kokonut-labs/kokonutui`); Kokonut UI Pro at kokonutui.pro is a one-time lifetime purchase listed at $119 (reduced from $159), non-refundable, under its own terms",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "prompt-kit",
+        "magic-ui",
+        "shadcn-ui",
+        "shape-of-ai",
+        "cult-ui",
+        "smooth-ui"
+      ]
+    },
+    {
       "slug": "kombai",
       "path": "sites/kombai.md",
       "title": "Kombai",
@@ -3470,6 +3566,41 @@
         "rareui",
         "liquid-glass",
         "circle-loaders"
+      ]
+    },
+    {
+      "slug": "lightswind",
+      "path": "sites/lightswind.md",
+      "title": "Lightswind",
+      "description": "Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.",
+      "url": "https://lightswind.com",
+      "type": "component-library",
+      "formats": "animated component library with its own CLI, freemium",
+      "topics": [
+        "components",
+        "motion",
+        "3d-and-shaders",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli",
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "free components; Pro is a one-time lifetime licence (the amount is rendered client-side and was not captured). The GitHub repo and npm package say MIT, but the site's licence page, while labelled \"MIT Standard\", adds restrictions (see below)",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "aceternity-ui",
+        "reactbits",
+        "liquid-glass",
+        "magic-ui",
+        "cult-ui",
+        "kokonut-ui"
       ]
     },
     {
@@ -5123,6 +5254,71 @@
       ]
     },
     {
+      "slug": "skiper-ui",
+      "path": "sites/skiper-ui.md",
+      "title": "Skiper UI",
+      "description": "Numbered, polished recreations of well-known designers' interactions; small free subset, murky licence.",
+      "url": "https://skiper-ui.com",
+      "type": "component-registry",
+      "formats": "animated component registry (shadcn), freemium",
+      "topics": [
+        "components",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "a free subset plus one-time plans: Premium $129 and Exclusive $549 (the latter adding a Figma file and site templates marked \"coming soon\"); no clear open-source licence, and the FAQ limits commercial use (see below)",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "rareui",
+        "devouring-details",
+        "emil-kowalski-skills",
+        "aceternity-ui",
+        "motion-primitives",
+        "cult-ui"
+      ]
+    },
+    {
+      "slug": "smooth-ui",
+      "path": "sites/smooth-ui.md",
+      "title": "Smooth UI",
+      "description": "198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.",
+      "url": "https://smoothui.dev",
+      "type": "component-registry",
+      "formats": "animated component registry (shadcn) with a public API",
+      "topics": [
+        "components",
+        "motion",
+        "ai-interfaces",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "cli",
+        "registry",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "free and open source under MIT (repo `educlopez/smoothui`); funded by sponsors, no paid tier found",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "prompt-kit",
+        "shape-of-ai",
+        "magic-ui",
+        "shadcn-ui",
+        "kokonut-ui",
+        "animate-ui"
+      ]
+    },
+    {
       "slug": "soundcn",
       "path": "sites/soundcn.md",
       "title": "soundcn",
@@ -5150,6 +5346,38 @@
         "sensory-ui",
         "web-kits-audio",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "spell-ui",
+      "path": "sites/spell-ui.md",
+      "title": "Spell UI",
+      "description": "Small, refined MIT set strong on text reveal animations, playful buttons and light-ray backgrounds.",
+      "url": "https://spell.sh",
+      "type": "component-registry",
+      "formats": "animated component registry (shadcn)",
+      "topics": [
+        "components",
+        "motion",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "free; component source under MIT (repo `xxtomm/spell-ui`); the site's terms state that the website, branding and docs design are not covered; optional monthly sponsorships",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "motion-primitives",
+        "css-text-effects",
+        "magic-ui",
+        "shadcn-ui",
+        "smooth-ui",
+        "animate-ui"
       ]
     },
     {
