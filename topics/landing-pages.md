@@ -61,6 +61,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [One Page Love](../sites/one-page-love.md) — 9,000+ single-page sites and cropped sections since 2008, searchable through a free, keyless MCP that returns hero copy.
 - [Preline UI](../sites/preline.md) — Tailwind components with headless JS plugins under MIT plus Fair Use terms; agent skills, block prompts, paid hosted MCP.
 - [Re UI](../sites/re-ui.md) — KeenThemes' shadcn registry with data grid, Gantt and calendar primitives, paid blocks and an MCP server.
+- [Rueya Supply](../sites/rueya-supply.md) — Pre-launch wallpaper and graphics shop, at review a one-screen waitlist hero over a canvas glass gradient plus finished legal pages.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.
 - [Saaspo](../sites/saaspo.md) — Free gallery of SaaS marketing pages you can filter by page type, industry, visual style, asset type and build stack, plus section and OG image views.

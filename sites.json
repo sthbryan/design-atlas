@@ -7914,6 +7914,32 @@
       ]
     },
     {
+      "slug": "rueya-supply",
+      "path": "sites/rueya-supply.md",
+      "title": "Rueya Supply",
+      "description": "Pre-launch wallpaper and graphics shop, at review a one-screen waitlist hero over a canvas glass gradient plus finished legal pages.",
+      "url": "https://www.rueya.supply",
+      "type": "asset-library",
+      "formats": "digital asset shop · waitlist landing page · Supabase-backed accounts, orders and file storage · admin workspace",
+      "topics": [
+        "assets",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "The terms say a purchase gives a non-exclusive, non-transferable licence for personal use and your own business work, that ownership of the original files stays with Rueya or its licensors, and that you may not resell, redistribute, sublicense or publicly share the originals, strip ownership notices or build a directly competing product. Refunds are reviewed within three business days, and a change-of-mind refund is offered inside 14 days only if the product was not accessed or downloaded. Nothing is stated about reusing the site's own design",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "backgrounds-supply",
+        "curations-supply",
+        "fffuel",
+        "gradient-buttons"
+      ]
+    },
+    {
       "slug": "rune-icons",
       "path": "sites/rune-icons.md",
       "title": "Rune Icons",

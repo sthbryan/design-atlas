@@ -118,6 +118,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Kitbitz](sites/kitbitz.md) | asset-library | assets, components | useful | none | not-stated |
 | [Lottie](sites/lottiefiles.md) | asset-library | motion, assets, agents-and-prompts | useful | mcp, llms-txt | mixed |
 | [Poly Haven](sites/poly-haven.md) | asset-library | 3d-and-shaders, assets | very-useful | llms-txt, api | public-domain |
+| [Rueya Supply](sites/rueya-supply.md) | asset-library | assets, landing-pages | niche | none | proprietary-paid |
 | [shieldcn](sites/shieldcn.md) | asset-library | assets, documentation, agents-and-prompts | useful | llms-txt, registry, skill | open-source-permissive |
 | [Venust Backgrounds](sites/venust-backgrounds.md) | asset-library | assets, agents-and-prompts, landing-pages | very-useful | llms-txt, prompts | public-domain |
 | [Typeface.fyi](sites/typeface-fyi.md) | browser-extension | typography-and-styles, inspiration | niche | none | proprietary-free |
