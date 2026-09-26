@@ -8596,6 +8596,37 @@
       ]
     },
     {
+      "slug": "site-of-sites",
+      "path": "sites/site-of-sites.md",
+      "title": "Site of Sites",
+      "description": "Curated gallery of about 600 live websites tagged by industry, style and platform, plus collections, an agency directory and a Wix MCP.",
+      "url": "https://www.siteofsites.co",
+      "type": "gallery",
+      "formats": "curated website gallery · collections · agency directory · design glossary · events calendar · Wix MCP server · llms.txt",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse and free to submit. The terms are Wix.com Ltd's boilerplate (the site runs on Wix) and say submissions are free, that the editors may accept, decline or remove a site at their discretion, and that submitting authorises them to show screenshots and screen recordings of your site here and on their social accounts. Nothing is stated about reusing the screenshots or the collection",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "best-website-gallery",
+        "minimal-gallery",
+        "awwwards",
+        "siteinspire",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "siteinspire",
       "path": "sites/siteinspire.md",
       "title": "Siteinspire",

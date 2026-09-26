@@ -111,6 +111,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [shadcnblocks](../sites/shadcnblocks.md) — 2,000+ paid shadcn marketing and app blocks in Radix, Base UI and React Aria builds, via CLI or MCP.
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
 - [Shoogle](../sites/shoogle.md) — Searches items across all shadcn registries from the web, the CLI or a remote MCP server.
+- [Site of Sites](../sites/site-of-sites.md) — Curated gallery of about 600 live websites tagged by industry, style and platform, plus collections, an agency directory and a Wix MCP.
 - [Siteinspire](../sites/siteinspire.md) — 10,000+ hand-picked, type-led sites since 2008, tagged by style, type and subject, with a free public read-only MCP server.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.
 - [Spline](../sites/spline.md) — Browser and desktop 3D tool with an event system, code and glTF export, and an MCP server in the desktop app.

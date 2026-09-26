@@ -313,6 +313,7 @@ The repository is private for now. Until it is public, both install commands nee
 | [Saaspo](sites/saaspo.md) | gallery | landing-pages, inspiration | useful | none | not-stated |
 | [Sections.wtf](sites/sections-wtf.md) | gallery | inspiration, landing-pages, cta, footers | very-useful | none | not-stated |
 | [SEESAW](sites/seesaw.md) | gallery | inspiration, landing-pages, typography-and-styles | useful | none | not-stated |
+| [Site of Sites](sites/site-of-sites.md) | gallery | inspiration, typography-and-styles, agents-and-prompts | useful | mcp, llms-txt | not-stated |
 | [Siteinspire](sites/siteinspire.md) | gallery | inspiration, typography-and-styles, agents-and-prompts | very-useful | mcp, llms-txt, api | proprietary-free |
 | [Supahero](sites/supahero.md) | gallery | inspiration, landing-pages, cta | niche | none | proprietary-free |
 | [UI Labs](sites/uilabs.md) | gallery | motion, components, inspiration | niche | none | not-stated |
