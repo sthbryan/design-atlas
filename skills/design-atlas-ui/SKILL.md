@@ -110,7 +110,7 @@ Before code, answer in writing: would a generic prompt for this surface produce 
 Follow [references/verification.md](references/verification.md): render at the test widths in every shipped theme and look at every screenshot, audit accessibility, walk the keyboard, measure contrast and check that every number adds up. Two rules decide whether the work counts:
 
 - Every PASS names its evidence: a saved file, a command and its output, or a measured value.
-- A check you could not run is `Not verified`, never PASS.
+- A check you could not run is `Not verified`, never PASS. A value read from source, such as `min-height: 44px`, is not a measurement of the rendered result.
 
 ### 7. Report the findings
 
