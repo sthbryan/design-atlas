@@ -951,6 +951,36 @@
       ]
     },
     {
+      "slug": "blender",
+      "path": "sites/blender.md",
+      "title": "Blender",
+      "description": "Free GPL 3D suite for making and baking web assets, with glTF export and an official MCP server.",
+      "url": "https://www.blender.org",
+      "type": "tool",
+      "formats": "desktop 3D suite (Windows, macOS, Linux) · Python API · MCP server (Blender Lab)",
+      "topics": [
+        "3d-and-shaders",
+        "assets",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "free; GNU GPL (source GPL v2 or later, binaries distributed under GPL v3; Cycles is Apache-2.0). What you make, including `.blend` files, belongs to you. Published add-ons must be GPL-compatible",
+      "licence_class": "open-source-copyleft",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "poly-haven",
+        "gltf-report",
+        "threejs",
+        "spline",
+        "3dicons"
+      ]
+    },
+    {
       "slug": "blocks-so",
       "path": "sites/blocks-so.md",
       "title": "blocks.so",
@@ -2227,6 +2257,36 @@
       ]
     },
     {
+      "slug": "drei",
+      "path": "sites/drei.md",
+      "title": "Drei",
+      "description": "133 MIT helpers for React Three Fiber (staging, loaders, controls, materials), with llms.txt and a docs MCP.",
+      "url": "https://drei.docs.pmnd.rs",
+      "type": "component-library",
+      "formats": "React component library (npm) · docs with llms.txt and MCP server",
+      "topics": [
+        "3d-and-shaders",
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repository `pmndrs/drei`)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "react-three-fiber",
+        "threejs",
+        "poly-haven",
+        "gltf-report",
+        "canvas-ui"
+      ]
+    },
+    {
       "slug": "easing-wizard",
       "path": "sites/easing-wizard.md",
       "title": "Easing Wizard",
@@ -2772,6 +2832,35 @@
         "reactbits",
         "transitions-dev",
         "animejs"
+      ]
+    },
+    {
+      "slug": "gltf-report",
+      "path": "sites/gltf-report.md",
+      "title": "gltf.report",
+      "description": "Drop in a GLB to inspect, validate, script and Draco/Meshopt-compress it locally, built on glTF Transform.",
+      "url": "https://gltf.report",
+      "type": "tool",
+      "formats": "in-browser tool (glTF viewer, inspector, validator, optimiser)",
+      "topics": [
+        "3d-and-shaders",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "free; no terms page. The site is \"open core\": the interface is closed, while the engine underneath, glTF Transform, is MIT and usable from npm or its CLI",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "threejs",
+        "drei",
+        "blender",
+        "spline",
+        "poly-haven"
       ]
     },
     {
@@ -4958,6 +5047,36 @@
       ]
     },
     {
+      "slug": "poly-haven",
+      "path": "sites/poly-haven.md",
+      "title": "Poly Haven",
+      "description": "About 2,400 CC0 HDRIs, PBR textures and models made by people, with a keyless API that asks for credit.",
+      "url": "https://polyhaven.com",
+      "type": "asset-library",
+      "formats": "3D asset library (HDRIs, textures, models) · public API",
+      "topics": [
+        "3d-and-shaders",
+        "assets"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "free; every asset is CC0 with no attribution needed. The public API is free, commercial use included, but requires visible credit to Poly Haven and a unique User-Agent. The paid Blender add-on ($49 once or via Patreon) and Patreon-only \"Vaults\" fund the project",
+      "licence_class": "public-domain",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "drei",
+        "threejs",
+        "blender",
+        "gltf-report",
+        "3dicons"
+      ]
+    },
+    {
       "slug": "posts-design",
       "path": "sites/posts-design.md",
       "title": "posts.design",
@@ -5079,6 +5198,37 @@
         "magic-ui",
         "shadcn-ui",
         "libraries-dev-orbs"
+      ]
+    },
+    {
+      "slug": "react-three-fiber",
+      "path": "sites/react-three-fiber.md",
+      "title": "React Three Fiber",
+      "description": "MIT React renderer that writes three.js scenes as JSX, with performance guides, llms-full.txt and a docs MCP.",
+      "url": "https://r3f.docs.pmnd.rs",
+      "type": "js-library",
+      "formats": "React renderer for three.js (npm) · docs with llms.txt and MCP server",
+      "topics": [
+        "3d-and-shaders",
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repository `pmndrs/react-three-fiber`)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "drei",
+        "threejs",
+        "spline",
+        "gltf-report",
+        "canvas-ui",
+        "reactbits"
       ]
     },
     {
@@ -6007,6 +6157,37 @@
       ]
     },
     {
+      "slug": "spline",
+      "path": "sites/spline.md",
+      "title": "Spline",
+      "description": "Browser and desktop 3D tool with an event system, code and glTF export, and an MCP server in the desktop app.",
+      "url": "https://spline.design",
+      "type": "tool",
+      "formats": "3D design tool · web runtime (npm) · MCP server (desktop app)",
+      "topics": [
+        "3d-and-shaders",
+        "motion",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "freemium; Free plan with limited files and a watermark on web exports, Hobby $12, Pro $25 and Max $60 per seat per month billed yearly ($15, $30 and $70 monthly), Enterprise on request. The editor and runtime are proprietary; community files default to Spline's \"Standard Commercial License\" for remixing",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "threejs",
+        "react-three-fiber",
+        "efecto",
+        "3dicons",
+        "shaderfrog"
+      ]
+    },
+    {
       "slug": "srcl",
       "path": "sites/srcl.md",
       "title": "SRCL",
@@ -6425,6 +6606,36 @@
         "devicon",
         "icons0",
         "shieldcn"
+      ]
+    },
+    {
+      "slug": "threejs",
+      "path": "sites/threejs.md",
+      "title": "Three.js",
+      "description": "The default MIT WebGL/WebGPU library: 607 examples, an editor, TSL, and an llms.txt with rules for code generators.",
+      "url": "https://threejs.org",
+      "type": "js-library",
+      "formats": "JavaScript 3D library (npm) · docs, manual and examples with llms.txt",
+      "topics": [
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "free; MIT (repository `mrdoob/three.js`). Some sample models and textures in the examples carry their own licences, credited on each example",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-25",
+      "status": "active",
+      "related": [
+        "react-three-fiber",
+        "drei",
+        "shaderfrog",
+        "book-of-shaders",
+        "paper-shaders",
+        "compute-toys"
       ]
     },
     {
