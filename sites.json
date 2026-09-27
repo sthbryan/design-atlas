@@ -847,6 +847,32 @@
       ]
     },
     {
+      "slug": "apple-human-interface-guidelines",
+      "path": "sites/apple-human-interface-guidelines.md",
+      "title": "Apple Human Interface Guidelines",
+      "description": "Apple platform UI reference with concrete examples for color, navigation, controls and adaptive interface states.",
+      "url": "https://developer.apple.com/design/human-interface-guidelines",
+      "type": "guidelines",
+      "formats": "platform design guidelines · component and interaction examples",
+      "topics": [
+        "components",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to read. Apple retains rights to HIG text, images and marks; use the pages as look-only references and do not reuse Apple product imagery or platform assets outside their stated terms.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "carbon-design-system",
+        "material-design-3",
+        "inclusive-components",
+        "design-system-checklist"
+      ]
+    },
+    {
       "slug": "appshot-gallery",
       "path": "sites/appshot-gallery.md",
       "title": "AppShot Gallery",
@@ -953,6 +979,32 @@
         "shadcn-ui",
         "kobra",
         "aceternity-ui"
+      ]
+    },
+    {
+      "slug": "atmos",
+      "path": "sites/atmos.md",
+      "title": "Atmos",
+      "description": "OKLCH palette workspace with shade, gamut and contrast tools for building UI color systems.",
+      "url": "https://atmos.style",
+      "type": "tool",
+      "formats": "color palette workspace · OKLCH/LCH playground · contrast tools",
+      "topics": [
+        "color",
+        "typography-and-styles"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free trial with paid Pro and lifetime plans. The service terms reserve rights to the service and do not state a separate licence for palettes or site materials.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "oklch",
+        "huetone",
+        "ramps",
+        "color-review"
       ]
     },
     {
@@ -1820,6 +1872,32 @@
         "shaderfrog",
         "canvas-ui",
         "paper-shaders"
+      ]
+    },
+    {
+      "slug": "coolors",
+      "path": "sites/coolors.md",
+      "title": "Coolors",
+      "description": "Palette generator and visualizer for trying color sets on UI, branding, typography and pattern mockups.",
+      "url": "https://coolors.co",
+      "type": "tool",
+      "formats": "palette generator · palette visualizer · image picker · contrast checker",
+      "topics": [
+        "color",
+        "inspiration"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free tier with limits on saved palettes, projects and some visualizer layouts; paid Pro adds broader features. Its palette licence allows use in your own commercial or non-commercial products but forbids standalone redistribution, resale and use in templates or for AI training.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "oklch",
+        "color-review",
+        "huetone",
+        "designspiration"
       ]
     },
     {
@@ -4670,6 +4748,34 @@
       ]
     },
     {
+      "slug": "huemint",
+      "path": "sites/huemint.md",
+      "title": "Huemint",
+      "description": "Palette generator that previews generated colors in brand, website, gradient and illustration templates.",
+      "url": "https://huemint.com",
+      "type": "tool",
+      "formats": "contextual palette generator · public color API",
+      "topics": [
+        "color",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "api"
+      ],
+      "pricing": "not-stated",
+      "licence": "The generator and API are publicly accessible without a posted price. The public color API is explicitly offered for non-commercial applications; the site does not state a separate licence for generated palettes or its template artwork.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "coolors",
+        "realtime-colors",
+        "color-review",
+        "huetone"
+      ]
+    },
+    {
       "slug": "huetone",
       "path": "sites/huetone.md",
       "title": "Huetone",
@@ -6369,6 +6475,33 @@
       ]
     },
     {
+      "slug": "material-design-3",
+      "path": "sites/material-design-3.md",
+      "title": "Material Design 3",
+      "description": "Google's component and color system with role-based schemes, adaptive UI examples and expressive component patterns.",
+      "url": "https://m3.material.io",
+      "type": "design-system",
+      "formats": "design system · component documentation · color system",
+      "topics": [
+        "components",
+        "color"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to read. The archived Material Theme Builder source is Apache-2.0; the current documentation does not provide a blanket licence for every design-kit image or brand asset.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "note": "The separate Material Theme Builder repository was archived in July 2026; use the current documentation as the reference and confirm any linked tooling before depending on it.",
+      "related": [
+        "carbon-design-system",
+        "daisyui",
+        "material-symbols",
+        "component-gallery"
+      ]
+    },
+    {
       "slug": "material-symbols",
       "path": "sites/material-symbols.md",
       "title": "Material Symbols",
@@ -7181,6 +7314,32 @@
       ]
     },
     {
+      "slug": "open-ui",
+      "path": "sites/open-ui.md",
+      "title": "Open UI",
+      "description": "Cross-system component research that maps names, visual states and behavior differences for common web controls.",
+      "url": "https://open-ui.org",
+      "type": "documentation",
+      "formats": "component research · web platform proposals · behavior comparisons",
+      "topics": [
+        "components",
+        "documentation"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free community-group research. Repository reports use the W3C Software and Document License; specifications use the W3C Community License Agreement, and test suites use BSD-3-Clause.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "component-gallery",
+        "inclusive-components",
+        "carbon-design-system",
+        "design-system-checklist"
+      ]
+    },
+    {
       "slug": "openmotion",
       "path": "sites/openmotion.md",
       "title": "OpenMotion",
@@ -7809,6 +7968,32 @@
         "animejs",
         "motion-primitives",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "realtime-colors",
+      "path": "sites/realtime-colors.md",
+      "title": "Realtime Colors",
+      "description": "Color and type visualizer that applies palette choices to a full responsive website-like sample.",
+      "url": "https://www.realtimecolors.com",
+      "type": "tool",
+      "formats": "color and type visualizer · CSS and framework exports",
+      "topics": [
+        "color",
+        "typography-and-styles"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. The author allows commercial or non-commercial use of generated colors. The website source and site-specific materials are CC BY-NC-ND 4.0, so do not republish or adapt those materials.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "coolors",
+        "huemint",
+        "oklch",
+        "color-review"
       ]
     },
     {
@@ -10467,6 +10652,32 @@
         "uisfx",
         "kinetics",
         "laws-of-ux"
+      ]
+    },
+    {
+      "slug": "uswds",
+      "path": "sites/uswds.md",
+      "title": "U.S. Web Design System",
+      "description": "Federal design system with live component previews, configurable tokens and restrained, accessible page patterns.",
+      "url": "https://designsystem.digital.gov",
+      "type": "design-system",
+      "formats": "design system · Sass package · component and pattern examples",
+      "topics": [
+        "components",
+        "color"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free. Most USWDS code and GSA changes are CC0 1.0; identified third-party files use their own licences, including Apache-2.0, MIT and OFL. GSA trademarks are reserved.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "carbon-design-system",
+        "inclusive-components",
+        "component-gallery",
+        "design-system-checklist"
       ]
     },
     {
