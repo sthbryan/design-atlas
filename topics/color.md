@@ -46,6 +46,7 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.
 - [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
 - [Realtime Colors](../sites/realtime-colors.md) — Color and type visualizer that applies palette choices to a full responsive website-like sample.
+- [Sephiro](../sites/sephiro.md) — A React and Preact component catalogue that pairs live state examples with six built-in themes and a compact token system.
 - [Shadcn Studio](../sites/shadcn-studio.md) — ThemeSelection's shadcn suite: blocks, templates, theme generator, Figma kit and an MCP; strict site licence.
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
 - [U.S. Web Design System](../sites/uswds.md) — Federal design system with live component previews, configurable tokens and restrained, accessible page patterns.

@@ -1726,6 +1726,34 @@
       ]
     },
     {
+      "slug": "canvas-ui-qwen-demo",
+      "path": "sites/canvas-ui-qwen-demo.md",
+      "title": "Canvas UI Qwen Demo",
+      "description": "An interactive Canvas UI showcase that previews shader effects over live HTML and keeps its controls and install snippets beside each example.",
+      "url": "https://canvas-ui.qwen.demos.sulat.com",
+      "type": "component-library",
+      "formats": "interactive WebGL showcase · shadcn registry · five framework targets",
+      "topics": [
+        "3d-and-shaders",
+        "components",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "The showcased Canvas UI components use MIT + Commons Clause: free for products, but not for resale or redistribution as a component collection.",
+      "licence_class": "source-available",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "canvas-ui",
+        "paper-shaders",
+        "liquid-glass"
+      ]
+    },
+    {
       "slug": "canvas-ui",
       "path": "sites/canvas-ui.md",
       "title": "Canvas UI",
@@ -3415,6 +3443,32 @@
       ]
     },
     {
+      "slug": "droppy-code",
+      "path": "sites/droppy-code.md",
+      "title": "Droppy Code",
+      "description": "A native Mac coding-agent app presented through detailed interface walkthroughs and a Liquid Glass visual system.",
+      "url": "https://getdroppycode.app",
+      "type": "design-workspace",
+      "formats": "macOS app · SwiftUI · interface feature walkthrough",
+      "topics": [
+        "inspiration",
+        "components",
+        "navigation"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free app; source is published under AGPL-3.0. The brand and icon are excluded by its trademark policy.",
+      "licence_class": "open-source-copyleft",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "appinspo",
+        "design-mobile-apps",
+        "liquid-glass"
+      ]
+    },
+    {
       "slug": "easing-wizard",
       "path": "sites/easing-wizard.md",
       "title": "Easing Wizard",
@@ -4445,6 +4499,58 @@
       ]
     },
     {
+      "slug": "glass-lens-react",
+      "path": "sites/glass-lens-react.md",
+      "title": "glass-lens-react",
+      "description": "A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.",
+      "url": "https://glass-lens-react.vercel.app",
+      "type": "component-library",
+      "formats": "React component · interactive demo · live preset editor",
+      "topics": [
+        "components",
+        "motion",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The package is MIT-licensed; no separate licence for demo media was stated.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "liquid-glass",
+        "canvas-ui",
+        "motion-primitives"
+      ]
+    },
+    {
+      "slug": "glass-projects-lab-demo",
+      "path": "sites/glass-projects-lab-demo.md",
+      "title": "Liquid Glass Playground by Pallav",
+      "description": "A long-form playground that maps liquid-glass presets, parameters and interface uses into a browsable visual lab.",
+      "url": "https://glass-projects-lab-custom-demo.vercel.app",
+      "type": "design-workspace",
+      "formats": "interactive visual playground · liquid-glass-web-react showcase",
+      "topics": [
+        "motion",
+        "components",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Demonstrates the MIT-licensed `liquid-glass-web-react` project; no separate licence for the demo page was stated.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "liquid-glass",
+        "canvas-ui",
+        "motion-primitives"
+      ]
+    },
+    {
       "slug": "glimm",
       "path": "sites/glimm.md",
       "title": "glimm",
@@ -4526,6 +4632,34 @@
         "supahero",
         "laws-of-ux",
         "ui-playbook"
+      ]
+    },
+    {
+      "slug": "gpui-kit",
+      "path": "sites/gpui-kit.md",
+      "title": "GPUI Kit",
+      "description": "A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.",
+      "url": "https://gpui-kit.com/versions/main/",
+      "type": "component-library",
+      "formats": "Rust UI framework · components · design guides · app stories",
+      "topics": [
+        "components",
+        "documentation",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Software and code examples use Apache-2.0; documentation prose and original illustrations are CC BY 4.0.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "base-ui",
+        "design-system-checklist",
+        "interface-design"
       ]
     },
     {
@@ -6329,6 +6463,32 @@
       ]
     },
     {
+      "slug": "liquid-glass-web-react",
+      "path": "sites/liquid-glass-web-react.md",
+      "title": "Liquid Glass Web React",
+      "description": "A detailed playground for draggable refractive lenses, with live controls for shape, light, colour fringing and motion.",
+      "url": "https://agpallav.com/liquid-glass",
+      "type": "component-library",
+      "formats": "React component · framework-free engine · interactive playground",
+      "topics": [
+        "motion",
+        "components",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "MIT; the demo and package source are linked from the project repository.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "liquid-glass",
+        "canvas-ui",
+        "motion-primitives"
+      ]
+    },
+    {
       "slug": "liquid-glass",
       "path": "sites/liquid-glass.md",
       "title": "Liquid Glass",
@@ -7789,6 +7949,35 @@
       ]
     },
     {
+      "slug": "paceui",
+      "path": "sites/paceui.md",
+      "title": "PaceUI",
+      "description": "React components, animated crafts, page blocks and app templates with live previews and a shadcn-compatible registry.",
+      "url": "https://paceui.com",
+      "type": "component-library",
+      "formats": "React component library · shadcn registry · MCP · blocks · templates",
+      "topics": [
+        "components",
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "Free catalogue plus one-time Pro and Team purchases; a component code licence is not stated on the reviewed pages.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "21st-dev",
+        "magic-ui",
+        "shadcn-ui"
+      ]
+    },
+    {
       "slug": "painterly",
       "path": "sites/painterly.md",
       "title": "Painting Loaders",
@@ -9070,6 +9259,32 @@
       ]
     },
     {
+      "slug": "sephiro",
+      "path": "sites/sephiro.md",
+      "title": "Sephiro",
+      "description": "A React and Preact component catalogue that pairs live state examples with six built-in themes and a compact token system.",
+      "url": "https://sephiro.justcallmebryan.com",
+      "type": "component-library",
+      "formats": "React and Preact component library · theme presets · source examples",
+      "topics": [
+        "components",
+        "inspiration",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The toolkit is source-available under PolyForm Perimeter 1.0.0; the code and catalogue can be viewed without payment.",
+      "licence_class": "source-available",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "base-ui",
+        "shadcn-ui",
+        "design-system-checklist"
+      ]
+    },
+    {
       "slug": "sera-ui",
       "path": "sites/sera-ui.md",
       "title": "Sera UI",
@@ -9437,6 +9652,31 @@
         "iconoir",
         "shadcn-ui",
         "component-gallery"
+      ]
+    },
+    {
+      "slug": "shiftbar",
+      "path": "sites/shiftbar.md",
+      "title": "ShiftBar",
+      "description": "A small macOS menu-bar utility with an interactive browser demo for hiding and restoring a chosen span of status icons.",
+      "url": "https://shiftbar.0x01.build/en",
+      "type": "tool",
+      "formats": "macOS menu-bar utility · interactive web demo",
+      "topics": [
+        "navigation",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Alpha app with a public GitHub release; no licence statement verified during review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "navbar-gallery",
+        "apple-human-interface-guidelines",
+        "design-mobile-apps"
       ]
     },
     {
