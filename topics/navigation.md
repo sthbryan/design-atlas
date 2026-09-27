@@ -24,6 +24,7 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 - [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
 - [RewampUI](../sites/rewampui.md) — About 75 animated React navbars, backgrounds, toggles and cursors with a copy CLI and per-component prompts; designs are admitted remixes.
 - [ShiftBar](../sites/shiftbar.md) — A small macOS menu-bar utility with an interactive browser demo for hiding and restoring a chosen span of status icons.
+- [Shochiku Games](../sites/shochiku-games.md) — Japanese publisher site pairing a green-framed game carousel with a categorized catalog and image-led title pages.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
 - [unlumen UI](../sites/unlumen-ui.md) — Animated React registry forked from Animate UI, with motion primitives, copyable components and a paid Pro set.
 <!-- atlas:sources:end -->

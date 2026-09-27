@@ -26,6 +26,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [8bitcn](../sites/8bitcn.md) — Retro 8-bit shadcn/ui skin: 56 components, 63 blocks, game UI pieces and 21 themes.
 - [Aave Design & Engineering](../sites/aave-design.md) — Aave Labs’ engineering article pairs live glass-effect controls with a cross-browser SVG displacement and WebGL implementation.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
+- [Adobe Spectrum](../sites/adobe-spectrum.md) — Adobe's Spectrum design system pairs visual foundations, components and patterns with separate open-source implementations.
 - [Ahmad Shadeed](../sites/ishadeed.md) — Hands-on CSS layout articles and an interactive lab for inspecting modern selectors, grids and container queries.
 - [Amacro](../sites/amacro.md) — 86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.
 - [Amicro](../sites/amicro.md) — Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.

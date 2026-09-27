@@ -637,6 +637,31 @@
       ]
     },
     {
+      "slug": "adobe-spectrum",
+      "path": "sites/adobe-spectrum.md",
+      "title": "Adobe Spectrum",
+      "description": "Adobe's Spectrum design system pairs visual foundations, components and patterns with separate open-source implementations.",
+      "url": "https://spectrum.adobe.com/?locale=en_GB",
+      "type": "design-system",
+      "formats": "design system · foundation guidance · components · patterns · code implementations",
+      "topics": [
+        "components",
+        "color",
+        "documentation"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. Spectrum CSS and Spectrum Web Components are Apache-2.0 implementations; the website, brand assets and downloadable design resources have separate rights, with no blanket licence stated for them.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "carbon-design-system",
+        "material-design-3"
+      ]
+    },
+    {
       "slug": "aframe",
       "path": "sites/aframe.md",
       "title": "A-Frame",
@@ -752,6 +777,30 @@
       ]
     },
     {
+      "slug": "aku",
+      "path": "sites/aku.md",
+      "title": "AKU",
+      "description": "Tallinn studio portfolio with spacious project listings, expressive typography and colorful visual identity case pages.",
+      "url": "https://aku.co/",
+      "type": "website",
+      "formats": "design studio portfolio · visual identity · editorial and digital work",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for its design, code or project materials, or public service prices, is stated; treat it as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "bluecanvas",
+        "behance"
+      ]
+    },
+    {
       "slug": "alpine-bio",
       "path": "sites/alpine-bio.md",
       "title": "Alpine Bio",
@@ -799,6 +848,29 @@
         "transitions-dev",
         "60fps",
         "animejs"
+      ]
+    },
+    {
+      "slug": "amanita-design",
+      "path": "sites/amanita-design.md",
+      "title": "Amanita Design",
+      "description": "Game studio site with an illustrated rotating feature, a tiled game catalogue and media-rich individual game pages.",
+      "url": "https://amanita-design.net/",
+      "type": "website",
+      "formats": "game studio website · illustrated game catalogue · individual game pages",
+      "topics": [
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The site states that all rights are reserved. Game artwork, trailers and other media are protected; use them as look-only references.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "marathonthegame"
       ]
     },
     {
@@ -1338,6 +1410,30 @@
       ]
     },
     {
+      "slug": "artcenter-grad-show-spring-2025",
+      "path": "sites/artcenter-grad-show-spring-2025.md",
+      "title": "ArtCenter Spring 2025 Grad Show",
+      "description": "A clean, searchable graduate portfolio catalogue with department routes, term filters and individual project pages.",
+      "url": "https://gradshow.artcenter.edu/spring-2025-grad-show",
+      "type": "gallery",
+      "formats": "college graduate show · searchable student directory · project portfolios",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. ArtCenter's terms protect site content and prohibit copying or redistribution without written permission; student projects remain attributed to their makers.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "folios-gallery",
+        "wall-of-portfolios"
+      ]
+    },
+    {
       "slug": "ascii-studio",
       "path": "sites/ascii-studio.md",
       "title": "ASCII Studio",
@@ -1525,6 +1621,32 @@
         "21st-dev",
         "vibeprompts",
         "open-design"
+      ]
+    },
+    {
+      "slug": "aurai",
+      "path": "sites/aurai.md",
+      "title": "AURAI LAB",
+      "description": "Shanghai creative studio with a pearl-toned editorial homepage and a public CityWalk product demo.",
+      "url": "https://aurailab.com/",
+      "type": "website",
+      "formats": "Creative studio · brand identity · websites · product design · live demo",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The public site and project images show no reuse licence. Access is free at review; treat the visuals and assets as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "higgsfield",
+        "design-sorcery",
+        "locomotive"
       ]
     },
     {
@@ -2371,6 +2493,31 @@
       ]
     },
     {
+      "slug": "business-cards-on-the-web",
+      "path": "sites/business-cards-on-the-web.md",
+      "title": "Business Cards on the Web — STstudio",
+      "description": "A poster and web workshop case pairs a black portfolio interface, electric blue linework and an acid-green poster with engraved coin imagery.",
+      "url": "https://www.ststudio.co.kr/work/cardsweb",
+      "type": "website",
+      "formats": "design studio portfolio · poster case study · web workshop",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse terms for the case imagery, poster, identity or site text were stated; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "typographic-posters",
+        "hover-states"
+      ]
+    },
+    {
       "slug": "butter-nav",
       "path": "sites/butter-nav.md",
       "title": "Butter Nav",
@@ -2570,6 +2717,31 @@
       ]
     },
     {
+      "slug": "chornobyl-exclusion-zone",
+      "path": "sites/chornobyl-exclusion-zone.md",
+      "title": "Chornobyl Exclusion Zone — Banda",
+      "description": "Banda's Ukrainian government identity turns the reactor silhouette into a yearly changing mark that gradually disappears by 2064.",
+      "url": "https://www.banda.agency/projects/chornobyl",
+      "type": "website",
+      "formats": "identity case study · time-based logo · visual system",
+      "topics": [
+        "inspiration",
+        "motion",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse terms for the case imagery, identity or site text were stated; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "rebrand-gallery",
+        "the-brand-identity"
+      ]
+    },
+    {
       "slug": "chrome-experiments",
       "path": "sites/chrome-experiments.md",
       "title": "Chrome Experiments",
@@ -2647,6 +2819,31 @@
       ]
     },
     {
+      "slug": "cirka",
+      "path": "sites/cirka.md",
+      "title": "CIRKA®",
+      "description": "Singapore creative portfolio pairing extreme condensed display type and compact project metadata with a cream canvas and full case studies.",
+      "url": "https://www.cirkastudio.com/",
+      "type": "website",
+      "formats": "creative studio · brand identity, art direction, web, UI/UX, print and packaging",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "Free to browse. No reuse licence for site text, portfolio images or client work was stated; the footer identifies CIRKA Studio copyright.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "brrranding",
+        "folios-gallery",
+        "awwwards"
+      ]
+    },
+    {
       "slug": "closeit-fast",
       "path": "sites/closeit-fast.md",
       "title": "closeit.fast",
@@ -2669,6 +2866,32 @@
         "before-click",
         "good-ui",
         "useronboard"
+      ]
+    },
+    {
+      "slug": "coca-cola-visual-system",
+      "path": "sites/coca-cola-visual-system.md",
+      "title": "Coca-Cola Visual System",
+      "description": "Coca-Cola’s 2026 identity announcement and embedded film show how its signature assets extend across packaging, retail and digital work.",
+      "url": "https://www.coca-colacompany.com/media-center/coca-cola-sharpens-its-identity-under-one-bold-visual-system",
+      "type": "website",
+      "formats": "visual identity announcement · embedded brand film",
+      "topics": [
+        "inspiration",
+        "color",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to read and watch. Coca-Cola’s terms reserve its content, designs and marks, grant no general reuse licence, and limit use to personal, non-commercial purposes.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "the-brand-identity",
+        "brrranding",
+        "vucko"
       ]
     },
     {
@@ -3566,6 +3789,30 @@
       ]
     },
     {
+      "slug": "design-academy-eindhoven-graduation-show-2025",
+      "path": "sites/design-academy-eindhoven-graduation-show-2025.md",
+      "title": "Design Academy Eindhoven Graduation Show 2025",
+      "description": "DAE's 2025 graduate exhibition page links its visual show presentation to a filterable archive of individual BA and MA projects.",
+      "url": "https://www.designacademy.nl/page/8471/graduation-show-2025",
+      "type": "gallery",
+      "formats": "graduate exhibition · BA and MA project archive · year and department filters",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to view. DAE states that its text, layout and images are copyrighted and may not be copied or reused without written permission; student work belongs to its credited makers.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "folios-gallery",
+        "wall-of-portfolios"
+      ]
+    },
+    {
       "slug": "design-bookmark",
       "path": "sites/design-bookmark.md",
       "title": "DesignBookmark",
@@ -4407,6 +4654,30 @@
       ]
     },
     {
+      "slug": "dia-studio",
+      "path": "sites/dia-studio.md",
+      "title": "DIA Studio",
+      "description": "A design studio archive with a dense monochrome work mosaic, compact filters and individual project overlays.",
+      "url": "https://www.dia.studio/",
+      "type": "website",
+      "formats": "design studio portfolio · searchable work archive · project case studies",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "No public reuse licence or pricing was stated at review. The studio work and project imagery are look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "active-theory",
+        "death-of-typography"
+      ]
+    },
+    {
       "slug": "dialkit",
       "path": "sites/dialkit.md",
       "title": "DialKit",
@@ -4686,6 +4957,31 @@
       ]
     },
     {
+      "slug": "duolingo-art-style",
+      "path": "sites/duolingo-art-style.md",
+      "title": "Duolingo Art Style",
+      "description": "Duolingo’s illustrated guide to readable vector shapes, expressive characters, negative space and playful visual storytelling.",
+      "url": "https://blog.duolingo.com/shape-language-duolingos-art-style/",
+      "type": "website",
+      "formats": "brand illustration · vector art · character design · UI examples",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The blog is free to read and the illustrations are copyrighted by Duolingo and their creators; no open reuse licence is stated. Treat the artwork as look-only.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "note": "The article was published in 2020; use it as a dated explanation of the art system and check current brand guidelines for present-day rules.",
+      "related": [
+        "the-brand-identity"
+      ]
+    },
+    {
       "slug": "easing-wizard",
       "path": "sites/easing-wizard.md",
       "title": "Easing Wizard",
@@ -4741,6 +5037,30 @@
         "magic-ui",
         "shadcnblocks",
         "kokonut-ui"
+      ]
+    },
+    {
+      "slug": "eca-graduate-show-2025",
+      "path": "sites/eca-graduate-show-2025.md",
+      "title": "Edinburgh College of Art Graduate Show 2025",
+      "description": "Edinburgh's cross-school 2025 graduate archive, searchable by discipline and theme, with student portfolios and curated collections.",
+      "url": "https://www.2025.graduateshow.eca.ed.ac.uk/",
+      "type": "gallery",
+      "formats": "university graduate show · student portfolios · topic search · curated collections",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to view. University terms protect site text and artwork; student portfolio work is attributable to its contributors and should be treated as look-only.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "folios-gallery",
+        "wall-of-portfolios"
       ]
     },
     {
@@ -4806,6 +5126,30 @@
         "aura",
         "impeccable",
         "screenshot-to-code"
+      ]
+    },
+    {
+      "slug": "eisaka-design",
+      "path": "sites/eisaka-design.md",
+      "title": "EISAKA DESIGN",
+      "description": "Riga designer portfolio with spacious project cards for visual identity, packaging and print work.",
+      "url": "https://eisakadesign.com/",
+      "type": "website",
+      "formats": "independent graphic design studio · branding · packaging · print",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "Free to browse; the site's all-rights-reserved page says reuse requires written permission.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "designme-agency",
+        "hover-states"
       ]
     },
     {
@@ -5042,6 +5386,30 @@
         "evil-buttons",
         "number-flow",
         "mapcn"
+      ]
+    },
+    {
+      "slug": "experimental-jetset",
+      "path": "sites/experimental-jetset.md",
+      "title": "Experimental Jetset",
+      "description": "Amsterdam graphic design studio archive with category filters, alphabetical and chronological sorting, and image-led project records.",
+      "url": "https://www.jetset.nl/",
+      "type": "website",
+      "formats": "graphic design studio · searchable project archive · typography and installations",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The archive is free to browse. No reuse licence for its design, code or project materials, or public service prices, is stated; treat it as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "fonts-in-use",
+        "typewolf"
       ]
     },
     {
@@ -6083,6 +6451,57 @@
       ]
     },
     {
+      "slug": "google-evolving-identity",
+      "path": "sites/google-evolving-identity.md",
+      "title": "Google Evolving Identity",
+      "description": "Google's 2015 identity story, with visual studies of its logotype, animated dots, compact G, color and product applications.",
+      "url": "https://design.google/library/evolving-google-identity",
+      "type": "website",
+      "formats": "historical identity case study · logo · typography · motion",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to view. Google Terms of Service apply; Google retains rights to its editorial content, imagery, marks and brand assets. No general reuse licence is stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "note": "Historical case study published in 2015; use it to study the documented system, not as proof of Google's current identity.",
+      "related": [
+        "material-design-3",
+        "google-pixel-design-story"
+      ]
+    },
+    {
+      "slug": "google-pixel-design-story",
+      "path": "sites/google-pixel-design-story.md",
+      "title": "Google Pixel design story",
+      "description": "A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 10 range.",
+      "url": "https://store.google.com/us/magazine/google-pixel-design-story?hl=en-US",
+      "type": "website",
+      "formats": "product design story · hardware photography · editorial page",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to view. Google Terms of Service apply; Google and its licensors retain rights to editorial images, product imagery and brand marks. No general reuse licence is stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "note": "This URL currently serves a Pixel 10 series story; its product lineup and page details may change with future launches.",
+      "related": [
+        "google-evolving-identity",
+        "google-arts-and-culture"
+      ]
+    },
+    {
       "slug": "gpui-kit",
       "path": "sites/gpui-kit.md",
       "title": "GPUI Kit",
@@ -6503,6 +6922,32 @@
       ]
     },
     {
+      "slug": "heydays",
+      "path": "sites/heydays.md",
+      "title": "Heydays",
+      "description": "Historical Oslo studio portfolio with a warm editorial home page and archived branding cases.",
+      "url": "https://heydays.no/",
+      "type": "website",
+      "formats": "historical design studio portfolio · brand strategy · visual identity · digital product",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "Free to browse; no reuse licence was stated on the pages checked. Treat portfolio and client work as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "note": "Historical studio archive; the current site says Heydays is now Kurppa Hosk. Project media on the Huddly case did not render during review.",
+      "related": [
+        "designme-agency",
+        "hover-states"
+      ]
+    },
+    {
       "slug": "higgsfield",
       "path": "sites/higgsfield.md",
       "title": "Higgsfield",
@@ -6813,6 +7258,31 @@
         "vercel-web-design-guidelines",
         "impeccable",
         "designmd"
+      ]
+    },
+    {
+      "slug": "ibm-design-language-color",
+      "path": "sites/ibm-design-language-color.md",
+      "title": "IBM Design Language color",
+      "description": "IBM's color reference shows palette families, accepted gradients, UI themes, accessibility rules and examples in use.",
+      "url": "https://www.ibm.com/design/language/color/",
+      "type": "guidelines",
+      "formats": "brand color guidance · palette · gradients · UI examples · accessibility",
+      "topics": [
+        "color",
+        "documentation",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to read. The page links IBM terms and shows an IBM copyright; it does not state a reuse licence for the palette or visual examples, so treat those as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "carbon-design-system",
+        "material-design-3"
       ]
     },
     {
@@ -7403,6 +7873,32 @@
       ]
     },
     {
+      "slug": "iphone",
+      "path": "sites/iphone.md",
+      "title": "iPhone",
+      "description": "Apple’s current iPhone lineup page shows product storytelling through large photography, spacious type, horizontal navigation and feature cards.",
+      "url": "https://www.apple.com/iphone/",
+      "type": "website",
+      "formats": "product landing page · product photography · interactive galleries",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "iPhones on the page ranged from US$699 to US$1,999 at review. Apple’s website terms reserve rights to page content, product imagery, typography, visual design and marks, with no general reuse licence.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "apple-human-interface-guidelines",
+        "baymard-ecommerce-design-examples",
+        "landingfolio"
+      ]
+    },
+    {
       "slug": "ishadeed",
       "path": "sites/ishadeed.md",
       "title": "Ahmad Shadeed",
@@ -7870,6 +8366,30 @@
         "screenshot-to-code",
         "kage",
         "recent-design"
+      ]
+    },
+    {
+      "slug": "konfekt",
+      "path": "sites/konfekt.md",
+      "title": "Konfekt",
+      "description": "Helsinki studio portfolio pairing quiet editorial framing with vivid packaging and identity work.",
+      "url": "https://www.konfekt.fi/",
+      "type": "website",
+      "formats": "design studio · packaging · visual identities · branding",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "Free to browse; no reuse licence was stated on the pages checked. Treat portfolio and client work as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "designme-agency",
+        "hover-states"
       ]
     },
     {
@@ -8689,6 +9209,31 @@
       ]
     },
     {
+      "slug": "luzhniki-identity",
+      "path": "sites/luzhniki-identity.md",
+      "title": "Luzhniki identity — Art. Lebedev Studio",
+      "description": "A Moscow sports and park identity uses custom arc forms, a broad blue palette and a flexible frame across signs, posters and merchandise.",
+      "url": "https://www.artlebedev.com/luzhniki/identity/",
+      "type": "website",
+      "formats": "visual identity case study · brand system · environmental graphics",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse terms for the case imagery, identity or site text were stated; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "brrranding",
+        "the-brand-identity"
+      ]
+    },
+    {
       "slug": "made-in-webflow",
       "path": "sites/made-in-webflow.md",
       "title": "Made in Webflow",
@@ -8972,6 +9517,32 @@
         "design-motion-principles",
         "dialkit",
         "agentation"
+      ]
+    },
+    {
+      "slug": "mccafe-visual-identity",
+      "path": "sites/mccafe-visual-identity.md",
+      "title": "McCafé Visual Identity Refresh",
+      "description": "McCafé’s 2026 refresh in packaging and storefront signage, pairing a script wordmark with gold, coffee-cherry tones and colorful drink photography.",
+      "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcdonalds-refreshes-mccafe-brand-visual-identity.html",
+      "type": "website",
+      "formats": "brand refresh · beverage packaging · retail signage · product photography",
+      "topics": [
+        "inspiration",
+        "color",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The story is free to read; McDonald’s terms reserve rights in site content, and separate media-library terms limit image use to editorial contexts. Treat the identity and images as look-only.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "note": "The page documents the 2026 refresh at launch; local market rollout and availability may vary.",
+      "related": [
+        "the-brand-identity",
+        "starbucks-holiday-ad-2024"
       ]
     },
     {
@@ -9278,6 +9849,30 @@
       "related": [
         "ishadeed",
         "every-layout"
+      ]
+    },
+    {
+      "slug": "monash-mada-now-2025",
+      "path": "sites/monash-mada-now-2025.md",
+      "title": "Monash MADA Now 2025",
+      "description": "Monash MADA's graduate archive groups featured projects and student work by Fine Art, Design and Architecture.",
+      "url": "https://www.monash.edu/mada/student-work/mada-now-2025",
+      "type": "gallery",
+      "formats": "graduate exhibition archive · student, course and award indexes",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to view. Monash says its site content is copyrighted and restricts reproduction without written permission, except limited private research or study use; student projects may have separate owners.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "folios-gallery",
+        "wall-of-portfolios"
       ]
     },
     {
@@ -9755,6 +10350,32 @@
       ]
     },
     {
+      "slug": "nike-why-do-it",
+      "path": "sites/nike-why-do-it.md",
+      "title": "Nike Why Do It?",
+      "description": "A 2025 Nike campaign page documents its film, athlete photography and cinematic newsroom presentation as a dated brand example.",
+      "url": "https://about.nike.com/en/newsroom/releases/nike-why-do-it-campaign",
+      "type": "website",
+      "formats": "campaign announcement · athlete photography · campaign film",
+      "topics": [
+        "inspiration",
+        "motion",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to read. Nike and its partners retain rights to campaign photography, film, copy and marks; no reuse licence is stated on the release.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "vucko",
+        "the-brand-identity",
+        "motion-zajno"
+      ]
+    },
+    {
       "slug": "ninna-ui",
       "path": "sites/ninna-ui.md",
       "title": "Ninna UI",
@@ -10001,6 +10622,31 @@
         "base-ui",
         "headless-ui",
         "prompt-kit"
+      ]
+    },
+    {
+      "slug": "oganna",
+      "path": "sites/oganna.md",
+      "title": "OGANNA®",
+      "description": "Taipei design studio portfolio spanning identity, illustration, web and motion work, with category-tagged projects and multilingual navigation.",
+      "url": "https://www.oganna.com/",
+      "type": "website",
+      "formats": "design studio · identity, graphic design, illustration, web and animation portfolio",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "Free to browse. The footer says all rights reserved; no reuse licence for the studio's writing, project images or client work was stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "brrranding",
+        "folios-gallery",
+        "active-theory"
       ]
     },
     {
@@ -10350,6 +10996,32 @@
       ]
     },
     {
+      "slug": "overtone",
+      "path": "sites/overtone.md",
+      "title": "Overtone",
+      "description": "Aarhus design studio site pairing a large pale gradient headline with a compact floating navigation and image-led project pages.",
+      "url": "https://overtone.dk/",
+      "type": "website",
+      "formats": "design studio portfolio · type design · motion and digital work",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for its design, code or project materials, or public service prices, is stated; treat it as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "bluecanvas",
+        "active-theory"
+      ]
+    },
+    {
       "slug": "ozgur-guler",
       "path": "sites/ozgur-guler.md",
       "title": "Özgür Güler",
@@ -10598,6 +11270,32 @@
       ]
     },
     {
+      "slug": "pepsi-visual-identity-2023",
+      "path": "sites/pepsi-visual-identity-2023.md",
+      "title": "Pepsi visual identity 2023",
+      "description": "A 2023 Pepsi identity announcement pairs a bold wordmark and electric blue pulse with can, fleet and digital applications.",
+      "url": "https://www.pepsico.com/newsroom/press-releases/2023/pepsi-unveils-a-new-logo-and-visual-identity-marking-the-iconic-brands-next-era",
+      "type": "website",
+      "formats": "historical identity announcement · logo · packaging · motion",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to view. PepsiCo's terms reserve the site's text, design, images and marks; personal, non-commercial access is permitted, while other reuse is restricted.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "note": "Historical 2023 identity announcement; the embedded 30-second video played during review.",
+      "related": [
+        "rebrand-gallery",
+        "google-evolving-identity"
+      ]
+    },
+    {
       "slug": "phosphor",
       "path": "sites/phosphor.md",
       "title": "Phosphor",
@@ -10733,6 +11431,30 @@
       "related": [
         "threejs",
         "spline"
+      ]
+    },
+    {
+      "slug": "playdead",
+      "path": "sites/playdead.md",
+      "title": "Playdead",
+      "description": "Game studio site with a spare dark layout, narrow uppercase typography and cinematic LIMBO and INSIDE project pages.",
+      "url": "https://playdead.com/",
+      "type": "website",
+      "formats": "game studio website · game pages · animated media gallery",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The site states that all rights are reserved. Game art, trailers and animations are protected; use the pages as look-only references.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "marathonthegame"
       ]
     },
     {
@@ -11452,6 +12174,30 @@
       ]
     },
     {
+      "slug": "regene-office",
+      "path": "sites/regene-office.md",
+      "title": "Regene Office — NOSIGNER",
+      "description": "NOSIGNER presents a Yokohama office built around reused construction materials through dark, full-width photography and a clear project narrative.",
+      "url": "https://nosigner.com/projects/office/",
+      "type": "website",
+      "formats": "architecture case study · office interior · sustainability narrative",
+      "topics": [
+        "inspiration",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "NOSIGNER states that its site content is copyrighted; no reuse permission for the case imagery or text was found. Treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "studio-dumbar",
+        "hover-states"
+      ]
+    },
+    {
       "slug": "reicon",
       "path": "sites/reicon.md",
       "title": "Reicon",
@@ -11683,6 +12429,31 @@
         "textmotion",
         "torph",
         "rareui"
+      ]
+    },
+    {
+      "slug": "room-1707",
+      "path": "sites/room-1707.md",
+      "title": "ROOM 1707",
+      "description": "Shanghai branding studio portfolio with oversized type, sparse layouts and long-form case pages showing campaign assets in sequence.",
+      "url": "https://www.room1707.com/",
+      "type": "website",
+      "formats": "branding studio · strategy, identity, digital products and social campaigns",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "Free to browse. The terms reserve all rights in site material and prohibit copying, republishing or redistributing it.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "brrranding",
+        "folios-gallery",
+        "awwwards"
       ]
     },
     {
@@ -11922,6 +12693,30 @@
         "a1-gallery",
         "siteinspire",
         "awwwards"
+      ]
+    },
+    {
+      "slug": "sanrio-games",
+      "path": "sites/sanrio-games.md",
+      "title": "Sanrio Games",
+      "description": "Character game hub with a pastel opening, illustrated gallery and a vivid rhythm-game page built from long visual sections.",
+      "url": "https://www.sanrio-games.jp/en-us/",
+      "type": "website",
+      "formats": "game brand site · game catalog · title pages",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site is free to browse. Sanrio states that reproduction of its illustrations, photos and text is prohibited; use all page assets as look-only references.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "marathonthegame"
       ]
     },
     {
@@ -12703,6 +13498,30 @@
       ]
     },
     {
+      "slug": "shochiku-games",
+      "path": "sites/shochiku-games.md",
+      "title": "Shochiku Games",
+      "description": "Japanese publisher site pairing a green-framed game carousel with a categorized catalog and image-led title pages.",
+      "url": "https://game.shochiku.co.jp/ja/",
+      "type": "website",
+      "formats": "game publisher site · game catalog · title pages",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "navigation"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The publisher site is free to browse. No reuse licence for its text, game art or branding was stated at review; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "marathonthegame"
+      ]
+    },
+    {
       "slug": "shoogle",
       "path": "sites/shoogle.md",
       "title": "Shoogle",
@@ -12963,6 +13782,31 @@
       ]
     },
     {
+      "slug": "snask",
+      "path": "sites/snask.md",
+      "title": "SNASK",
+      "description": "Stockholm creative agency portfolio with a dramatic video hero, oversized rounded type and a stream of image-led case pages.",
+      "url": "https://snask.com/",
+      "type": "website",
+      "formats": "creative agency portfolio · branding · film and motion",
+      "topics": [
+        "inspiration",
+        "motion",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for its design, code or project materials, or public service prices, is stated; treat it as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "bluecanvas",
+        "active-theory"
+      ]
+    },
+    {
       "slug": "sona-ui",
       "path": "sites/sona-ui.md",
       "title": "Sona UI",
@@ -13175,6 +14019,58 @@
       ]
     },
     {
+      "slug": "spotify-design-history",
+      "path": "sites/spotify-design-history.md",
+      "title": "Spotify Design History",
+      "description": "Spotify’s 20-year retrospective pairs archived app screens and logos with current identity details such as green, dark interfaces and Spotify Mix.",
+      "url": "https://newsroom.spotify.com/2026-04-23/spotify-design-history/",
+      "type": "website",
+      "formats": "visual history · app screenshots · identity commentary",
+      "topics": [
+        "inspiration",
+        "color",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to read. Spotify and credited contributors retain rights to the article, screenshots, logos and other media; no general reuse licence is stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "the-brand-identity",
+        "brrranding",
+        "apple-human-interface-guidelines"
+      ]
+    },
+    {
+      "slug": "spotify-wrapped-2021",
+      "path": "sites/spotify-wrapped-2021.md",
+      "title": "Spotify Wrapped 2021",
+      "description": "Spotify’s 2021 Wrapped interview explains a campaign-specific ribbon, symbols, motion and digital applications through contemporary examples.",
+      "url": "https://newsroom.spotify.com/2021-12-01/global-head-of-brand-design-rasmus-wangelin-explains-the-creative-behind-spotify-2021-wrapped/",
+      "type": "website",
+      "formats": "historical campaign identity · digital-first motion · interview",
+      "topics": [
+        "inspiration",
+        "motion",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to read. Spotify and credited contributors retain rights to the interview, campaign art and media; no general reuse licence is stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "spotify-design-history",
+        "vucko",
+        "motion-zajno"
+      ]
+    },
+    {
       "slug": "srbh-site",
       "path": "sites/srbh-site.md",
       "title": "Saurabh Sharma",
@@ -13227,6 +14123,32 @@
         "8bitcn",
         "departure-mono",
         "ascii-studio"
+      ]
+    },
+    {
+      "slug": "starbucks-holiday-ad-2024",
+      "path": "sites/starbucks-holiday-ad-2024.md",
+      "title": "Starbucks Holiday Ad (2024)",
+      "description": "A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.",
+      "url": "https://stories.starbucks.com/emea/stories/2024/blink-and-youll-miss-it-discover-the-secret-details-in-our-starbucks-holiday-ad/",
+      "type": "website",
+      "formats": "seasonal campaign · stop-motion film · miniature set design",
+      "topics": [
+        "inspiration",
+        "motion",
+        "color"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The story and film are free to view; Starbucks terms reserve rights in the site content, video and marks. Treat them as look-only references.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "note": "Historical campaign from 2024; seasonal product details and store presentation may no longer be current.",
+      "related": [
+        "mccafe-visual-identity",
+        "the-brand-identity"
       ]
     },
     {
@@ -13317,6 +14239,56 @@
         "antislop-ui",
         "taste-skill",
         "ui-skills"
+      ]
+    },
+    {
+      "slug": "studio-dumbar",
+      "path": "sites/studio-dumbar.md",
+      "title": "Studio Dumbar",
+      "description": "Rotterdam studio portfolio for bold visual identities, motion systems and expressive typography.",
+      "url": "https://studiodumbar.com/",
+      "type": "website",
+      "formats": "design studio · visual identity · motion and sound design · creative coding",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "Free to browse; no reuse licence was stated on the pages checked. Treat portfolio and project work as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "designme-agency",
+        "hover-states"
+      ]
+    },
+    {
+      "slug": "studio-yukiko",
+      "path": "sites/studio-yukiko.md",
+      "title": "Studio Yukiko",
+      "description": "Berlin studio portfolio pairing a condensed display face with a varied project grid, category filters and editorial case studies.",
+      "url": "https://y-u-k-i-k-o.com/",
+      "type": "website",
+      "formats": "creative studio portfolio · project archive · category filters",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "No public reuse licence or pricing was stated at review. Studio work, client identities and project imagery are look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "active-theory",
+        "death-of-typography"
       ]
     },
     {
@@ -13461,6 +14433,30 @@
         "ui-taste",
         "emil-kowalski-skills",
         "laws-of-ux"
+      ]
+    },
+    {
+      "slug": "supermassive-games",
+      "path": "sites/supermassive-games.md",
+      "title": "Supermassive Games",
+      "description": "Game studio site built around cinematic title art, with a poster catalogue and dedicated pages for its narrative games.",
+      "url": "https://www.supermassivegames.com/",
+      "type": "website",
+      "formats": "game studio website · game catalogue · title pages",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The site states that all rights are reserved. Game visuals, trailers and marks are protected; use them as look-only references.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "marathonthegame"
       ]
     },
     {
@@ -14041,6 +15037,30 @@
       ]
     },
     {
+      "slug": "toukana-interactive",
+      "path": "sites/toukana-interactive.md",
+      "title": "Toukana Interactive",
+      "description": "Indie studio site with a split game carousel, numbered project stories and colorful game art framing clear platform links.",
+      "url": "https://www.toukana.com/",
+      "type": "website",
+      "formats": "indie game studio site · project pages · game launch pages",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The studio site is free to browse. No reuse licence for its writing, game art or branding was stated at review; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "marathonthegame"
+      ]
+    },
+    {
       "slug": "transitions-dev",
       "path": "sites/transitions-dev.md",
       "title": "Transitions.dev",
@@ -14470,6 +15490,31 @@
       ]
     },
     {
+      "slug": "uic-year-end-show-2025",
+      "path": "sites/uic-year-end-show-2025.md",
+      "title": "UIC School of Design Year End Show 2025",
+      "description": "UIC's student exhibition splits work into undergraduate and graduate cohorts, with discipline filters and individual thesis excerpts.",
+      "url": "https://2025.yes.design.uic.edu/",
+      "type": "gallery",
+      "formats": "school exhibition archive · undergraduate and graduate project catalogues · special projects",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to view. No licence or reuse terms specific to this hosted exhibition were stated at review; student work is credited to its authors and is look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "folios-gallery",
+        "wall-of-portfolios"
+      ]
+    },
+    {
       "slug": "uilabs",
       "path": "sites/uilabs.md",
       "title": "UI Labs",
@@ -14721,6 +15766,30 @@
         "folios-gallery",
         "lusion",
         "unicorn-studio"
+      ]
+    },
+    {
+      "slug": "unsw-art-design-annual-2025",
+      "path": "sites/unsw-art-design-annual-2025.md",
+      "title": "UNSW Art & Design Annual 2025",
+      "description": "UNSW's graduate showcase pairs a media-led exhibition home page with filters for degree, discipline and student name.",
+      "url": "https://annual.artdesign.unsw.edu.au/",
+      "type": "gallery",
+      "formats": "university graduate showcase · student work catalogue · degree, discipline and name filters",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to view. UNSW permits reuse only for material it owns and identifies as such; other content may not be copied or distributed without the copyright owner's permission.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "folios-gallery",
+        "wall-of-portfolios"
       ]
     },
     {

@@ -31,6 +31,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
 - [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
 - [Athrix](../sites/athrix.md) — Developer portfolio with an editorial serif headline, dotted page grid and pale botanical accents.
+- [AURAI LAB](../sites/aurai.md) — Shanghai creative studio with a pearl-toned editorial homepage and a public CityWalk product demo.
 - [Awwwards](../sites/awwwards.md) — Paid-entry web design awards with jury-scored winners, interaction clips and studio credits; llms.txt plus a small awards API.
 - [Backgrounds Supply](../sites/backgrounds-supply.md) — Paid lifetime library of gradient, AI and animated hero backgrounds, plus a free Gradient Lab shader tool.
 - [Baymard Ecommerce Design Examples](../sites/baymard-ecommerce-design-examples.md) — Ecommerce page gallery with desktop, mobile and app captures annotated with research-based UX findings.
@@ -64,10 +65,13 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Godly](../sites/godly.md) — A dark, masonry-style gallery for websites, app screens, logos and UI details, with focused routes for page sections and visual assets.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
 - [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
+- [Google Pixel design story](../sites/google-pixel-design-story.md) — A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 10 range.
 - [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
+- [Heydays](../sites/heydays.md) — Historical Oslo studio portfolio with a warm editorial home page and archived branding cases.
 - [Higgsfield](../sites/higgsfield.md) — A dark, media-led creative-suite landing page with chartreuse controls, cinematic previews and a compact product navigation.
 - [HyperUI](../sites/hyperui.md) — Free MIT copy-paste Tailwind v4 snippets (about 540 with dark variants) for apps, marketing and a neobrutalism set, plus small tools.
 - [Ichiban Motorcycle](../sites/ichiban-bike.md) — A single-site visual reference for restrained product storytelling with oversized color, a centered object and tightly ordered labels.
+- [iPhone](../sites/iphone.md) — Apple’s current iPhone lineup page shows product storytelling through large photography, spacious type, horizontal navigation and feature cards.
 - [Japan Web Design Gallery](../sites/japan-web-design.md) — An English-language gallery of Japanese websites with visual mood filters and short editorial commentary on individual picks.
 - [Kibo UI](../sites/kibo-ui.md) — Free MIT shadcn companion with 41 functional components (Gantt, Kanban, editor), 28 marketing blocks and an MCP server.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
@@ -92,7 +96,9 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [Ninna UI](../sites/ninna-ui.md) — MIT React library on npm with CSS-only oklch theme presets, Radix internals, 92 free blocks and a strong llms.txt import map.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
+- [Overtone](../sites/overtone.md) — Aarhus design studio site pairing a large pale gradient headline with a compact floating navigation and image-led project pages.
 - [ozzyx](../sites/ozzyx.md) — Design engineer portfolio that turns an oversized, mixed-weight text introduction into the main visual composition.
+- [Playdead](../sites/playdead.md) — Game studio site with a spare dark layout, narrow uppercase typography and cinematic LIMBO and INSIDE project pages.
 - [Preline UI](../sites/preline.md) — Tailwind components with headless JS plugins under MIT plus Fair Use terms; agent skills, block prompts, paid hosted MCP.
 - [PsudoKit](../sites/psudokit.md) — Dark portfolio with a restrained monospace system, thin orbital lines and a split profile and activity layout.
 - [Railway](../sites/railway.md) — A cloud platform with a polished illustrated homepage and a focused no-signup VM campaign page.
@@ -102,6 +108,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.
 - [Saaspo](../sites/saaspo.md) — Free gallery of SaaS marketing pages you can filter by page type, industry, visual style, asset type and build stack, plus section and OG image views.
 - [Samwrks](../sites/samwrks.md) — Sameer Singh's split-screen design portfolio, with a fixed personal introduction beside full-width case-study previews.
+- [Sanrio Games](../sites/sanrio-games.md) — Character game hub with a pastel opening, illustrated gallery and a vivid rhythm-game page built from long visual sections.
 - [Screan](../sites/screan.md) — Free MIT browser studio that exports store screenshots for every size and language as one ZIP.
 - [Screen Movie](../sites/screen-movie.md) — A macOS recording and motion editor whose site shows cinematic ways to frame, zoom and animate product demos.
 - [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
@@ -110,14 +117,17 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Sera UI](../sites/sera-ui.md) — About 90 MIT animated React and Tailwind components via shadcn registry URLs; now owned by Pimjo, repo quiet since February 2026.
 - [Shadcn Studio](../sites/shadcn-studio.md) — ThemeSelection's shadcn suite: blocks, templates, theme generator, Figma kit and an MCP; strict site licence.
 - [shadcnblocks](../sites/shadcnblocks.md) — 2,000+ paid shadcn marketing and app blocks in Radix, Base UI and React Aria builds, via CLI or MCP.
+- [Shochiku Games](../sites/shochiku-games.md) — Japanese publisher site pairing a green-framed game carousel with a categorized catalog and image-led title pages.
 - [Siddz](../sites/siddz.md) — Minimal portfolio with a faint graph-paper grid, compact uppercase labels and paired project previews.
 - [SiteThis](../sites/sitethis.md) — A visual archive of websites with category and style browsing, full-page previews and palette notes.
 - [Spectrum UI](../sites/spectrum-ui.md) — Free Apache-2.0 animated shadcn components and blocks, strong on AI-assistant, chart and empty-state blocks, with an MCP server.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
+- [Supermassive Games](../sites/supermassive-games.md) — Game studio site built around cinematic title art, with a poster catalogue and dedicated pages for its narrative games.
 - [Syntax UI (stale)](../sites/syntax-ui.md) — MIT copy-paste Tailwind and Framer Motion buttons, loaders, blocks and effects; mostly dormant, with some docs pages erroring at review.
 - [Tailark](../sites/tailark.md) — shadcn registry of marketing blocks, full pages and illustrations; free MIT kits plus a paid Quartz kit, in Base UI and Radix builds.
 - [TailGrids](../sites/tailgrids.md) — React and Tailwind library with blocks, Figma system, CLI, MCP server, llms.txt and a design.md; MIT core, paid Pro blocks.
 - [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
+- [Toukana Interactive](../sites/toukana-interactive.md) — Indie studio site with a split game carousel, numbered project stories and colorful game art framing clear platform links.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
 - [UI Layouts](../sites/ui-layouts.md) — 300+ MIT animated React components and sections with a shadcn registry, an MCP server and a paid Pro block site.
 - [Unsection](../sites/unsection.md) — A searchable gallery of real website sections, filterable by block type, visual style and industry.

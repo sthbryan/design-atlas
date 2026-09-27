@@ -19,9 +19,12 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 ## All sources
 
 <!-- atlas:sources:start -->
+- [Adobe Spectrum](../sites/adobe-spectrum.md) — Adobe's Spectrum design system pairs visual foundations, components and patterns with separate open-source implementations.
 - [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
 - [Apple Human Interface Guidelines](../sites/apple-human-interface-guidelines.md) — Apple platform UI reference with concrete examples for color, navigation, controls and adaptive interface states.
 - [Atmos](../sites/atmos.md) — OKLCH palette workspace with shade, gamut and contrast tools for building UI color systems.
+- [Business Cards on the Web — STstudio](../sites/business-cards-on-the-web.md) — A poster and web workshop case pairs a black portfolio interface, electric blue linework and an acid-green poster with engraved coin imagery.
+- [Coca-Cola Visual System](../sites/coca-cola-visual-system.md) — Coca-Cola’s 2026 identity announcement and embedded film show how its signature assets extend across packaging, retail and digital work.
 - [Color.review](../sites/color-review.md) — WCAG 2.1 contrast checker with pass/fail lines on the picker and shareable pair links.
 - [Coolors](../sites/coolors.md) — Palette generator and visualizer for trying color sets on UI, branding, typography and pattern mockups.
 - [Cosmos](../sites/cosmos.md) — Ad-free mood-board platform with hex-colour and visual-similarity search, AI-image filtering and source captions; Premium $8/month.
@@ -31,24 +34,32 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [Design Minis](../sites/design-minis.md) — 128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.
 - [Designspiration](../sites/designspiration.md) — Image archive since 2010 with a five-colour palette on every save, colour search and Pro mood boards at $5/month.
 - [Ditherland](../sites/ditherland.md) — Browser editor for dithering images and video, plus an animated generator with pixel, palette and tone-curve controls.
+- [Duolingo Art Style](../sites/duolingo-art-style.md) — Duolingo’s illustrated guide to readable vector shapes, expressive characters, negative space and playful visual storytelling.
 - [extract-design-system](../sites/extract-design-system.md) — Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
 - [Grainient](../sites/grainient.md) — A curated library of smooth, grainy and animated gradients, plus a live shader editor for custom backgrounds.
 - [Huemint](../sites/huemint.md) — Palette generator that previews generated colors in brand, website, gradient and illustration templates.
 - [Huetone (stale)](../sites/huetone.md) — LCH/OKLCH palette editor that lines up tone steps across hues, with WCAG and APCA readouts.
+- [IBM Design Language color](../sites/ibm-design-language-color.md) — IBM's color reference shows palette families, accepted gradients, UI themes, accessibility rules and examples in use.
 - [Icon Museum](../sites/icon-museum.md) — A hand-picked archive of 245 crafted iOS app icons with copyable palettes, designer credits and redesign history.
 - [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
+- [Luzhniki identity — Art. Lebedev Studio](../sites/luzhniki-identity.md) — A Moscow sports and park identity uses custom arc forms, a broad blue palette and a flexible frame across signs, posters and merchandise.
 - [MagicPattern](../sites/magicpattern.md) — A toolbox of live pattern, mesh-gradient, shader and background editors with image and code exports.
 - [Material Design 3](../sites/material-design-3.md) — Google's component and color system with role-based schemes, adaptive UI examples and expressive component patterns.
+- [McCafé Visual Identity Refresh](../sites/mccafe-visual-identity.md) — McCafé’s 2026 refresh in packaging and storefront signage, pairing a script wordmark with gold, coffee-cherry tones and colorful drink photography.
 - [Noise & Gradient](../sites/noiseandgradient.md) — A p5.js canvas generator for textured color gradients with editable palettes, chaos and grain controls.
 - [OKLCH](../sites/oklch.md) — Evil Martians' OKLCH picker and converter with P3/Rec. 2020 gamut views and sRGB fallbacks.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.
 - [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
 - [Realtime Colors](../sites/realtime-colors.md) — Color and type visualizer that applies palette choices to a full responsive website-like sample.
+- [Regene Office — NOSIGNER](../sites/regene-office.md) — NOSIGNER presents a Yokohama office built around reused construction materials through dark, full-width photography and a clear project narrative.
 - [Sephiro](../sites/sephiro.md) — A React and Preact component catalogue that pairs live state examples with six built-in themes and a compact token system.
 - [Shadcn Studio](../sites/shadcn-studio.md) — ThemeSelection's shadcn suite: blocks, templates, theme generator, Figma kit and an MCP; strict site licence.
+- [Spotify Design History](../sites/spotify-design-history.md) — Spotify’s 20-year retrospective pairs archived app screens and logos with current identity details such as green, dark interfaces and Spotify Mix.
+- [Spotify Wrapped 2021](../sites/spotify-wrapped-2021.md) — Spotify’s 2021 Wrapped interview explains a campaign-specific ribbon, symbols, motion and digital applications through contemporary examples.
+- [Starbucks Holiday Ad (2024)](../sites/starbucks-holiday-ad-2024.md) — A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
 - [U.S. Web Design System](../sites/uswds.md) — Federal design system with live component previews, configurable tokens and restrained, accessible page patterns.
 <!-- atlas:sources:end -->

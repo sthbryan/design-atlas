@@ -20,6 +20,7 @@ How sites document components, design systems and style — for human readers an
 ## All sources
 
 <!-- atlas:sources:start -->
+- [Adobe Spectrum](../sites/adobe-spectrum.md) — Adobe's Spectrum design system pairs visual foundations, components and patterns with separate open-source implementations.
 - [Ahmad Shadeed](../sites/ishadeed.md) — Hands-on CSS layout articles and an interactive lab for inspecting modern selectors, grids and container queries.
 - [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
 - [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
@@ -34,6 +35,7 @@ How sites document components, design systems and style — for human readers an
 - [DialKit](../sites/dialkit.md) — MIT live control panel for tuning springs, easing, layout and timelines in React, Vue, Svelte, Solid and plain JS.
 - [Every Layout](../sites/every-layout.md) — Intrinsic CSS layout primitives with free visual examples, interactive demos and configurable generators.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
+- [IBM Design Language color](../sites/ibm-design-language-color.md) — IBM's color reference shows palette families, accepted gradients, UI themes, accessibility rules and examples in use.
 - [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
 - [Josh W. Comeau](../sites/josh-w-comeau.md) — Interactive CSS guides where you can resize layouts, change rules and inspect the resulting interface.
 - [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.

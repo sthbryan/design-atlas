@@ -26,6 +26,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
 - [Active Theory](../sites/active-theory.md) — A creative studio portfolio built around a dark, animated particle scene and a compact route into its project work.
 - [Amacro](../sites/amacro.md) — 86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.
+- [Amanita Design](../sites/amanita-design.md) — Game studio site with an illustrated rotating feature, a tiled game catalogue and media-rich individual game pages.
 - [Amicro](../sites/amicro.md) — Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.
 - [Anim8](../sites/anim8.md) — Browser editor that traces video into editable animated SVG and Lottie; MCP and CLI on Pro.
 - [Animate UI](../sites/animate-ui.md) — Animated Radix/Base UI/Headless UI primitives, styled components and 260 animated Lucide icons via the shadcn CLI.
@@ -48,6 +49,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Butter Nav](../sites/butter-nav.md) — Mega-menu that is one card morphing between menus, with a full rebuild prompt; no licence published.
 - [Canvas UI](../sites/canvas-ui.md) — 35 GPU effects over live, clickable HTML in WebGL or WebGPU, for six frameworks through a shadcn registry.
 - [Canvas UI Qwen Demo](../sites/canvas-ui-qwen-demo.md) — An interactive Canvas UI showcase that previews shader effects over live HTML and keeps its controls and install snippets beside each example.
+- [Chornobyl Exclusion Zone — Banda](../sites/chornobyl-exclusion-zone.md) — Banda's Ukrainian government identity turns the reactor silhouette into a yearly changing mark that gradually disappears by 2064.
 - [Chrome Experiments](../sites/chrome-experiments.md) — Google's archive of creative browser experiments, with WebGL, sound and motion collections linked to their live demos.
 - [Chrome Music Lab](../sites/chrome-music-lab.md) — Google's hands-on music experiments, useful for studying playful grids, musical controls and sound-led visual interaction.
 - [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
@@ -92,6 +94,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [glass-lens-react](../sites/glass-lens-react.md) — A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.
 - [glimm](../sites/glimm.md) — WebGL colour-band page transitions for React/Next.js, with a copyable agent prompt.
 - [Godly](../sites/godly.md) — A dark, masonry-style gallery for websites, app screens, logos and UI details, with focused routes for page sections and visual assets.
+- [Google Evolving Identity](../sites/google-evolving-identity.md) — Google's 2015 identity story, with visual studies of its logotype, animated dots, compact G, color and product applications.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
 - [Grainient](../sites/grainient.md) — A curated library of smooth, grainy and animated gradients, plus a live shader editor for custom backgrounds.
 - [Great UI](../sites/great-ui.md) — 50 Motion and Tailwind components strong on page and theme transitions; the badge says MIT but the licence bars redistribution.
@@ -141,16 +144,19 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [MUUUUU.ORG](../sites/muuuuu.md) — A Japanese design award gallery that highlights a daily site and tags work by composition, typography, color, motion and visual technique.
 - [NextWell Lab](../sites/nextwell-lab.md) — A portfolio lab of browser experiments with deep-linked 3D, interaction, game, clock and Pomodoro scenes.
 - [Nexvyn UI](../sites/nexvyn-ui.md) — 40 MIT spring-physics components for shadcn projects, from gooey dropdowns to eye-tracking password fields, via the @nexvyn namespace.
+- [Nike Why Do It?](../sites/nike-why-do-it.md) — A 2025 Nike campaign page documents its film, athlete photography and cinematic newsroom presentation as a dated brand example.
 - [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
 - [ObsidianUI](../sites/obsidianui.md) — A free React component library whose live previews pair restrained documentation layouts with expressive hover and motion effects.
 - [Odyssey UI](../sites/odyssey-ui.md) — Animated primitives, AI chat parts and pricing blocks built on Animate UI, via the @odysseyui namespace; no licence file in the repo.
 - [Oneko](../sites/oneko.md) — Cursor-chasing pixel cat for React via shadcn, with llms.txt and an agent prompt; sprite art not relicensed.
 - [OpenMotion](../sites/openmotion.md) — Free closed desktop app that drives your Claude Code or Codex CLI to turn a brief into editable launch videos; nothing for your own agent to call.
 - [OriginKit](../sites/originkit.md) — An interactive component catalogue for shader, cursor, animation and other high-impact web effects, with live parameter controls.
+- [Overtone](../sites/overtone.md) — Aarhus design studio site pairing a large pale gradient headline with a compact floating navigation and image-led project pages.
 - [PaceUI](../sites/paceui.md) — React components, animated crafts, page blocks and app templates with live previews and a shadcn-compatible registry.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
 - [Patatap](../sites/patatap.md) — A keyboard-driven sound and shape toy where each letter triggers a brief animated mark against a quiet canvas.
+- [Pepsi visual identity 2023](../sites/pepsi-visual-identity-2023.md) — A 2023 Pepsi identity announcement pairs a bold wordmark and electric blue pulse with can, fleet and digital applications.
 - [Pin UI](../sites/pin-ui.md) — Six playful React components rebuilt from Pinterest interface shots, installed by shadcn URL; MIT per the site terms, brand new.
 - [Pixel Perfect UI](../sites/pixel-perfect.md) — A free React component gallery with live previews, visual controls, source code and shadcn-compatible install commands.
 - [Playgrnd](../sites/playgrnd.md) — 52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.
@@ -166,6 +172,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Rive](../sites/rive.md) — State-machine vector editor with MIT runtimes, an agent-friendly CLI and a local MCP; exporting needs a paid seat.
 - [Rolling Number](../sites/rolling-number.md) — Interruptible rolling digits and split-flap text for DOM, React and Solid, with llms.txt and Markdown docs.
 - [Ruru UI (stale)](../sites/ruru-ui.md) — Small Radix and Tailwind v3 library with its own CLI; its author says it is no longer maintained.
+- [Sanrio Games](../sites/sanrio-games.md) — Character game hub with a pastel opening, illustrated gallery and a vivid rhythm-game page built from long visual sections.
 - [Saved](../sites/saved.md) — Daily design gallery with filters for web, interfaces, branding, motion, 3D, illustration, typography and posters.
 - [Savee](../sites/savee.md) — Editorial motion-template shop with After Effects, Figma and Jitter previews for studying kinetic type and product compositions.
 - [SceneAI](../sites/sceneai.md) — Curated landing-page prompts, animated backgrounds and gradients for studying expressive web sections and motion.
@@ -176,10 +183,16 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Skiper UI](../sites/skiper-ui.md) — Numbered, polished recreations of well-known designers' interactions; small free subset, murky licence.
 - [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.
+- [SNASK](../sites/snask.md) — Stockholm creative agency portfolio with a dramatic video hero, oversized rounded type and a stream of image-led case pages.
 - [Sona UI](../sites/sona-ui.md) — Small MIT set of accessible animated React components with an agent manifest, catalog, skill and read-only API through shadcn.
 - [Sora UI](../sites/sora-ui.md) — Animated React component registry with live motion demos and ready-made layout showcases.
 - [Spell UI](../sites/spell-ui.md) — Small, refined MIT set strong on text reveal animations, playful buttons and light-ray backgrounds.
 - [Spline](../sites/spline.md) — Browser and desktop 3D tool with an event system, code and glTF export, and an MCP server in the desktop app.
+- [Spotify Wrapped 2021](../sites/spotify-wrapped-2021.md) — Spotify’s 2021 Wrapped interview explains a campaign-specific ribbon, symbols, motion and digital applications through contemporary examples.
+- [Starbucks Holiday Ad (2024)](../sites/starbucks-holiday-ad-2024.md) — A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.
+- [Studio Dumbar](../sites/studio-dumbar.md) — Rotterdam studio portfolio for bold visual identities, motion systems and expressive typography.
+- [Studio Yukiko](../sites/studio-yukiko.md) — Berlin studio portfolio pairing a condensed display face with a varied project grid, category filters and editorial case studies.
+- [Supermassive Games](../sites/supermassive-games.md) — Game studio site built around cinematic title art, with a poster catalogue and dedicated pages for its narrative games.
 - [Swift Pieces](../sites/swift-pieces.md) — Animated SwiftUI components for iOS with live interaction previews, single-file source and agent installation paths.
 - [Syntax UI (stale)](../sites/syntax-ui.md) — MIT copy-paste Tailwind and Framer Motion buttons, loaders, blocks and effects; mostly dormant, with some docs pages erroring at review.
 - [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
@@ -189,11 +202,13 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Three.js](../sites/threejs.md) — The default MIT WebGL/WebGPU library: 607 examples, an editor, TSL, and an llms.txt with rules for code generators.
 - [Tokokino](../sites/tokokino.md) — A browser editor with reusable device-frame, screenshot and animated product-demo compositions.
 - [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.
+- [Toukana Interactive](../sites/toukana-interactive.md) — Indie studio site with a split game carousel, numbered project stories and colorful game art framing clear platform links.
 - [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
 - [UI Labs](../sites/uilabs.md) — Mariana Castilho's dozen live Framer Motion experiments with morphing toolbars, popovers and widgets; demo-only.
 - [UI Layouts](../sites/ui-layouts.md) — 300+ MIT animated React components and sections with a shadcn registry, an MCP server and a paid Pro block site.
 - [UI Skills](../sites/ui-skills.md) — 306 design-engineering skills from 84 authors, with a routing skill, CLI, MCP and 18 real company DESIGN.md files.
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.
+- [UIC School of Design Year End Show 2025](../sites/uic-year-end-show-2025.md) — UIC's student exhibition splits work into undergraduate and graduate cohorts, with discipline filters and individual thesis excerpts.
 - [Uiuno](../sites/uiuno.md) — Early shadcn workspace where a bot collects motion and shader effects into registries; credit to originals is lost.
 - [Unicorn Studio](../sites/unicorn-studio.md) — A visual shader editor with a gallery of animated, interactive graphics that can be embedded on websites.
 - [unlumen UI](../sites/unlumen-ui.md) — Animated React registry forked from Animate UI, with motion primitives, copyable components and a paid Pro set.
