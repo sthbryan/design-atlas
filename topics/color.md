@@ -33,11 +33,14 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [extract-design-system](../sites/extract-design-system.md) — Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
+- [Grainient](../sites/grainient.md) — A curated library of smooth, grainy and animated gradients, plus a live shader editor for custom backgrounds.
 - [Huemint](../sites/huemint.md) — Palette generator that previews generated colors in brand, website, gradient and illustration templates.
 - [Huetone (stale)](../sites/huetone.md) — LCH/OKLCH palette editor that lines up tone steps across hues, with WCAG and APCA readouts.
 - [Icon Museum](../sites/icon-museum.md) — A hand-picked archive of 245 crafted iOS app icons with copyable palettes, designer credits and redesign history.
 - [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
+- [MagicPattern](../sites/magicpattern.md) — A toolbox of live pattern, mesh-gradient, shader and background editors with image and code exports.
 - [Material Design 3](../sites/material-design-3.md) — Google's component and color system with role-based schemes, adaptive UI examples and expressive component patterns.
+- [Noise & Gradient](../sites/noiseandgradient.md) — A p5.js canvas generator for textured color gradients with editable palettes, chaos and grain controls.
 - [OKLCH](../sites/oklch.md) — Evil Martians' OKLCH picker and converter with P3/Rec. 2020 gamut views and sRGB fallbacks.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.

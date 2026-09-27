@@ -749,6 +749,29 @@
       ]
     },
     {
+      "slug": "animista",
+      "path": "sites/animista.md",
+      "title": "Animista",
+      "description": "A live CSS animation workbench with preview objects, timing controls and copyable generated keyframes.",
+      "url": "https://animista.net/",
+      "type": "style-library",
+      "formats": "CSS animation library · live preview · CSS code generator",
+      "topics": [
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Generated CSS animations are stated to be free for personal and commercial use under the FreeBSD license; redistribution requires retaining its copyright and licence notice. This does not license the site artwork.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "motion-primitives",
+        "ripplix"
+      ]
+    },
+    {
       "slug": "annnimate",
       "path": "sites/annnimate.md",
       "title": "Annnimate",
@@ -2321,6 +2344,30 @@
         "minimal-gallery",
         "seesaw",
         "recent-design"
+      ]
+    },
+    {
+      "slug": "dataviz-project",
+      "path": "sites/dataviz-project.md",
+      "title": "Data Viz Project",
+      "description": "A visual index of chart forms with small examples and filters for comparing shape, purpose and input before choosing a display.",
+      "url": "https://datavizproject.com/",
+      "type": "gallery",
+      "formats": "data visualization taxonomy · illustrated examples · one-dataset study",
+      "topics": [
+        "data-viz",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The public reference is free to browse. No licence for the diagrams or featured visualizations was stated at review; use them as look-only references and credit Ferdio.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "flourish",
+        "evil-charts"
       ]
     },
     {
@@ -3904,6 +3951,32 @@
       ]
     },
     {
+      "slug": "flourish",
+      "path": "sites/flourish.md",
+      "title": "Flourish",
+      "description": "An interactive data storytelling editor and gallery of working charts, maps and stories to study or adapt.",
+      "url": "https://flourish.studio/",
+      "type": "tool",
+      "formats": "interactive chart and story editor · example gallery · MCP connector",
+      "topics": [
+        "data-viz",
+        "inspiration"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Free accounts can use the service while the account remains active; free publishing includes attribution. At review, paid plans add features such as attribution removal, exports, branding and team controls. Flourish owns its templates and service content; downloaded projects may be published unmodified under an irrevocable, non-exclusive licence. Published projects require visible credit and a link to Flourish.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "dataviz-project",
+        "evil-charts"
+      ]
+    },
+    {
       "slug": "flowbase",
       "path": "sites/flowbase.md",
       "title": "Flowbase",
@@ -4505,6 +4578,31 @@
         "circle-loaders",
         "oklch",
         "gradient-buttons"
+      ]
+    },
+    {
+      "slug": "grainient",
+      "path": "sites/grainient.md",
+      "title": "Grainient",
+      "description": "A curated library of smooth, grainy and animated gradients, plus a live shader editor for custom backgrounds.",
+      "url": "https://grainient.supply/",
+      "type": "asset-library",
+      "formats": "gradient and background library · animated gradients · shader editor",
+      "topics": [
+        "assets",
+        "color",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Freebies are listed alongside paid assets. At review, pricing showed a $299 lifetime option and conflicting yearly figures ($59, $13/month and a $149/year call to action). The published licence allows personal and commercial use of paid assets, but bars independent redistribution; check the individual asset and current price before production use.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "magicpattern",
+        "noiseandgradient"
       ]
     },
     {
@@ -6543,6 +6641,34 @@
       ]
     },
     {
+      "slug": "magicpattern",
+      "path": "sites/magicpattern.md",
+      "title": "MagicPattern",
+      "description": "A toolbox of live pattern, mesh-gradient, shader and background editors with image and code exports.",
+      "url": "https://www.magicpattern.design/",
+      "type": "tool",
+      "formats": "pattern and gradient generators · CSS/SVG exports · API for enterprise",
+      "topics": [
+        "assets",
+        "color",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "Free tools are available. At review, Basic was $10/month ($120 billed yearly) and Pro $20/month ($240 billed yearly); both pricing cards list commercial use, while Enterprise offers API or widget integration. The Terms last updated in 2023 broadly restrict commercial reuse of service content, so confirm that the terms cover the specific output you intend to ship.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "design-minis",
+        "fffuel",
+        "noiseandgradient"
+      ]
+    },
+    {
       "slug": "make-design",
       "path": "sites/make-design.md",
       "title": "make.design",
@@ -7257,6 +7383,30 @@
         "antislop-ui",
         "taste-skill",
         "ui-skills"
+      ]
+    },
+    {
+      "slug": "noiseandgradient",
+      "path": "sites/noiseandgradient.md",
+      "title": "Noise & Gradient",
+      "description": "A p5.js canvas generator for textured color gradients with editable palettes, chaos and grain controls.",
+      "url": "https://www.noiseandgradient.com/",
+      "type": "tool",
+      "formats": "textured gradient generator · adjustable palette · raster export",
+      "topics": [
+        "color",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The free generator exports a 1000×1000 image at review. It advertises a Pro version for high-resolution output, but that link returned a 404; pricing and reuse terms for generated images could not be verified.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "magicpattern",
+        "grainient"
       ]
     },
     {
@@ -8472,6 +8622,30 @@
         "aceternity-ui",
         "magic-ui",
         "skiper-ui"
+      ]
+    },
+    {
+      "slug": "ripplix",
+      "path": "sites/ripplix.md",
+      "title": "Ripplix",
+      "description": "A searchable library of motion clips from real apps, grouped by product, interaction and platform.",
+      "url": "https://www.ripplix.com/",
+      "type": "gallery",
+      "formats": "UI motion video references · platform and interaction categories · Figma plugin",
+      "topics": [
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Public browsing is free. Pro is $5/month at review and adds features including advanced search and private collections. Terms allow viewing and linking, but prohibit downloading or re-uploading clips; featured footage remains with its respective owners.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "animista",
+        "motion-primitives"
       ]
     },
     {
@@ -10970,6 +11144,30 @@
         "uisfx",
         "kinetics",
         "laws-of-ux"
+      ]
+    },
+    {
+      "slug": "useronboard",
+      "path": "sites/useronboard.md",
+      "title": "UserOnboard",
+      "description": "Annotated onboarding teardowns presented as navigable screen sequences, useful for studying flow, hierarchy and progressive disclosure.",
+      "url": "https://www.useronboard.com/",
+      "type": "gallery",
+      "formats": "annotated onboarding teardowns · UX pattern articles",
+      "topics": [
+        "ux-patterns",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Teardowns are free to browse. No licence for the screen captures or annotations was stated at review; treat them as look-only references.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "laws-of-ux",
+        "good-ui"
       ]
     },
     {

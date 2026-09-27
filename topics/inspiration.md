@@ -46,6 +46,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Curated](../sites/curated-design.md) — Live-site gallery filtered by industry and style, with a separate section library for comparing page blocks.
 - [Curations Supply](../sites/curations-supply.md) — Panda Network's directory of about 290 curated galleries, type, colour, UX and component sites, each with a logo, screenshot and one-line summary.
 - [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
+- [Data Viz Project](../sites/dataviz-project.md) — A visual index of chart forms with small examples and filters for comparing shape, purpose and input before choosing a display.
 - [DesEngs](../sites/desengs.md) — Dated feed of about 106 design-engineering links (tools, libraries, essays, jobs) plus site, minimal-site and designer galleries; MIT source.
 - [Design Engineer Tools](../sites/designengineer-tools.md) — One-page list of about 128 apps and sites a web design engineer uses, from galleries and component kits to 3D, capture and motion tools.
 - [Design Spells](../sites/design-spells.md) — 337 hand-picked recordings of micro-interactions and easter eggs; llms.txt plus a Markdown homepage via Accept header.
@@ -57,6 +58,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
 - [Dribbble](../sites/dribbble.md) — Huge shot-sharing community and designer marketplace for fast visual and motion exploration; mostly concepts, no agent access.
+- [Flourish](../sites/flourish.md) — An interactive data storytelling editor and gallery of working charts, maps and stories to study or adapt.
 - [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
 - [Fonts In Use](../sites/fonts-in-use.md) — Archive of real typography across web, print, identity and packaging, searchable by typeface, format, topic and visual tag.
 - [Footer Design](../sites/footer-design.md) — Gallery dedicated to footers, filtered by style, with an Editor's Choice flag.
@@ -98,6 +100,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
 - [Recent](../sites/recent-design.md) — Curated visual feeds for websites and other design work, with source links, style tags and a directory of third-party agent skills.
 - [Refs.Gallery](../sites/refs-gallery.md) — Dark 16:9 screenshot grid of 2,163 sites set entirely in a system stack, with display type tracked in at minus 0.06em.
+- [Ripplix](../sites/ripplix.md) — A searchable library of motion clips from real apps, grouped by product, interaction and platform.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.
 - [Saaspo](../sites/saaspo.md) — Free gallery of SaaS marketing pages you can filter by page type, industry, visual style, asset type and build stack, plus section and OG image views.
@@ -122,6 +125,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Uiverse](../sites/uiverse.md) — Community gallery of copy-paste CSS and Tailwind UI snippets.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
 - [Untitled UI](../sites/untitled-ui.md) — Large Figma and React design system with a clean component browser and a clearly marked free subset alongside paid kits.
+- [UserOnboard](../sites/useronboard.md) — Annotated onboarding teardowns presented as navigable screen sequences, useful for studying flow, hierarchy and progressive disclosure.
 - [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 - [Wall of Portfolios](../sites/wall-of-portfolios.md) — Curated product-designer portfolios filterable by company, role, experience and country, plus case studies and monthly picks.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.

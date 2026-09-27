@@ -61,6 +61,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [UI-Patterns.com](../sites/ui-patterns.md) — A reference library that explains recurring interface and persuasion patterns with usage notes and screenshot examples.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
 - [User Interface Wiki](../sites/user-interface-wiki.md) — Raphael Salaja's nine demo-rich articles on motion, sound and type, installable as a 152-rule agent skill.
+- [UserOnboard](../sites/useronboard.md) — Annotated onboarding teardowns presented as navigable screen sequences, useful for studying flow, hierarchy and progressive disclosure.
 - [Vercel Web Design Guidelines](../sites/vercel-web-design-guidelines.md) — Tiny review skill that fetches Vercel's live Web Interface Guidelines each run and reports terse file:line findings.
 - [Web Quality Skills](../sites/addy-osmani-web-quality-skills.md) — Addy Osmani's six measurement-first skills: audit with Lighthouse and DevTools, fix, then re-run the same WCAG 2.2 audit.
 - [Wondel.ai Skills](../sites/wondelai-skills.md) — Refactoring UI, Nielsen/Krug heuristics and web typography turned into scored audit skills.

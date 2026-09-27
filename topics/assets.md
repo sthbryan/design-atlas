@@ -53,6 +53,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Fontsource](../sites/fontsource.md) — 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.
 - [Free Icon Resources](../sites/free-icon-resources.md) — A categorized index of icon libraries, search tools, generators and learning references for choosing a specific icon source.
 - [gltf.report](../sites/gltf-report.md) — Drop in a GLB to inspect, validate, script and Draco/Meshopt-compress it locally, built on glTF Transform.
+- [Grainient](../sites/grainient.md) — A curated library of smooth, grainy and animated gradients, plus a live shader editor for custom backgrounds.
 - [GreatStuff](../sites/greatstuff.md) — Framer-built archive of about 600 links for designers (tools, assets, galleries, AI, Mac apps), filterable by type, with a shuffle button.
 - [Heroicons (stale)](../sites/heroicons.md) — Tailwind Labs' MIT set of 316 icons, each drawn in outline, solid, mini and micro sizes, with React and Vue packages.
 - [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
@@ -72,9 +73,11 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Lottie](../sites/lottiefiles.md) — Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.
 - [Lucide](../sites/lucide.md) — Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.
+- [MagicPattern](../sites/magicpattern.md) — A toolbox of live pattern, mesh-gradient, shader and background editors with image and code exports.
 - [Mascofast](../sites/mascofast.md) — Paid AI tool that turns text or photos into mascots, exported as transparent GIF, WebM or Lottie.
 - [Material Symbols](../sites/material-symbols.md) — Google's Apache 2.0 variable icon font: about 3,900 symbols in three styles with fill, weight, grade and optical size axes.
 - [MX Icons](../sites/mx-icons.md) — About 2,200 soft React icons in six styles labelled MIT; sources not credited.
+- [Noise & Gradient](../sites/noiseandgradient.md) — A p5.js canvas generator for textured color gradients with editable palettes, chaos and grain controls.
 - [Nucleo](../sites/nucleo.md) — A polished SVG icon system with sharply differentiated families, a desktop editor, and an agent workflow for licensed icons.
 - [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
