@@ -7,6 +7,7 @@ How to choose a visual direction: name the surface, look up references in the at
 - [Surfaces](#surfaces)
 - [Find the atlas](#find-the-atlas)
 - [Look up references](#look-up-references)
+- [Optional research subagent](#optional-research-subagent)
 - [Inspect live examples](#inspect-live-examples)
 - [Licence hygiene](#licence-hygiene)
 - [Default fingerprints](#default-fingerprints)
@@ -82,6 +83,14 @@ Read the index before pages. Stop at two hubs and five site pages unless the use
 6. **Record.** For each reference, copy the index row's `sites/<slug>.md` path exactly, then note what you take from it, its `licence_class` and its `reviewed` date. The skill directory and the gallery homepage are not atlas page paths. Counts and prices on a page are true only as of that date.
 
 For asset or library selection, prefer variety: a gallery, a tool and an asset source can solve different parts of a task. For visual direction, prioritize a few concrete website examples over a longer list of directories.
+
+## Optional research subagent
+
+When a new direction needs several Atlas lookups and live-site inspection, delegate that bounded research to one subagent if the host supports it. This keeps the main agent's working context focused on the project. Give the subagent the design brief, audience and constraints, and ask for visual patterns rather than sites that merely share the subject. A small edit or an existing DESIGN.md needs no research delegation.
+
+Ask for a compact handoff of one to three individual examples: Atlas page path (or `outside Atlas`), exact live URL, what was visibly observed at desktop and narrow widths, the design move worth adapting, what should not carry over, licence class and review date or `not checked`. Include screenshots of the actual examples when the browser can capture and share them, with the URL and viewport identified. Keep working screenshots outside the Atlas repository. If screenshots cannot be transferred, say so instead of claiming visual proof.
+
+The main agent opens the shared screenshots before using the findings, checks that each proposed move fits the project, and records the chosen examples in DESIGN.md. If no visual evidence reaches the main agent, open the strongest example directly or mark the visual judgment `not visually verified`. The main agent still owns implementation and review of the built UI; the research handoff is not a review of the result.
 
 ## Inspect live examples
 

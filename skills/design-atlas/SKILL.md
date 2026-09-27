@@ -146,6 +146,8 @@ Fill `references/brief-template.md`, which has the full structure and a worked e
 
 For visual work, include the individual example URLs and observed design moves, not only the gallery names. Paraphrase each idea and attribute it to its source. Copy install commands only from "Using it with agents". Keep the version the page gives, or tell the user to pin one at install.
 
+When another agent requested the research, hand back a compact brief of one to three individual examples. For each, give the Atlas page path (or `outside Atlas`), exact live URL, observed visual pattern, proposed adaptation, what not to copy, licence class and review date or `not checked`. Include screenshots with their URL and viewport when the host can share them; keep files outside the Atlas repository. State plainly when screenshots or live inspection were unavailable. The requesting agent must inspect shared visual evidence before treating the findings as seen.
+
 ### 8. Hand off
 
 When the user wants UI built, restyled or reviewed, or a DESIGN.md written, use the brief in `design-atlas-ui` when it is installed. If it is unavailable, continue the user's task with the same observed references and state the limitation; do not stop at a brief solely because a second skill is absent.

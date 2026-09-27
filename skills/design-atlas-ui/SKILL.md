@@ -63,7 +63,7 @@ Match the project's styling system. Never add a second component or animation li
 Skip this step when DESIGN.md already sets the direction and the request stays inside it.
 
 1. Name the surface: marketing, product or reading. Each has its own density and expression budget in [references/direction.md](references/direction.md).
-2. If `design-atlas` is installed, follow its lookup and live-example workflow. Otherwise use [references/direction.md](references/direction.md) for both.
+2. If `design-atlas` is installed, follow its lookup and live-example workflow. Otherwise use [references/direction.md](references/direction.md) for both. For substantial reference research, use the optional subagent handoff in [references/direction.md](references/direction.md) when the host supports delegation; keep the design decision and build in this agent.
 3. Write the direction in five lines: audience and job, subject world, signature element, what it will not do, and the few references that matter (up to five) with the indexed atlas page path (`sites/<slug>.md`), individual example URL when visual, what you observed and will adapt, licence class and reviewed date. A skill folder or gallery URL is not the atlas page path.
 
 The subject world is the product's own materials, vernacular and data. It is the main lever against generic output, so take it from the subject, never from the category's usual look.
