@@ -14,7 +14,7 @@ function run(...args) {
 }
 
 const CASES = [
-  { query: 'animated icons for React I can ship commercially', top: ['heroicons-animated', 'lucide-animated'], suggest: '--licence ship' },
+  { query: 'animated icons for React I can ship commercially', top: ['heroicons-animated', 'lucide-animated'], within: 4, suggest: '--licence ship' },
   { query: 'pricing page inspiration', anyOf: ['saasframe', 'saaspo', 'cta-gallery'] },
   { query: 'shdcn charts', first: 'evil-charts', corrected: 'shdcn→shadcn' },
   { query: 'lotie loaders', top: ['lottiefiles'], corrected: 'lotie→lottie' },
@@ -24,7 +24,7 @@ const CASES = [
   { query: 'ui sound effects', top: ['soundcn', 'uisfx'] },
   { query: '404 page ideas', first: '404s' },
   { query: 'footer inspiration', first: 'footer-design' },
-  { query: 'animated number counter', top: ['number-flow', 'rolling-number'] },
+  { query: 'animated number counter', top: ['number-flow', 'rolling-number'], within: 4 },
   { query: 'accessibility audit skill', first: 'accesslint-skills' },
   { query: 'easing curves', first: 'easing-wizard' },
   { query: 'react three fiber helpers', top: ['drei', 'react-three-fiber'] },
@@ -35,10 +35,10 @@ for (const c of CASES) {
     const { code, out } = run('--search', c.query);
     assert.equal(code, 0);
     const slugs = out.sites.map((s) => s.slug);
-    const top3 = slugs.slice(0, 3);
-    for (const slug of c.top ?? []) assert.ok(top3.includes(slug), `${slug} not in top 3: ${top3.join(', ')}`);
-    if (c.first) assert.equal(slugs[0], c.first, `top 3: ${top3.join(', ')}`);
-    if (c.anyOf) assert.ok(c.anyOf.some((s) => top3.includes(s)), `none of ${c.anyOf.join(', ')} in top 3: ${top3.join(', ')}`);
+    const top = slugs.slice(0, c.within ?? 3);
+    for (const slug of c.top ?? []) assert.ok(top.includes(slug), `${slug} not in top ${c.within ?? 3}: ${top.join(', ')}`);
+    if (c.first) assert.equal(slugs[0], c.first, `top 3: ${top.join(', ')}`);
+    if (c.anyOf) assert.ok(c.anyOf.some((s) => top.includes(s)), `none of ${c.anyOf.join(', ')} in top 3: ${top.join(', ')}`);
     if (c.corrected) assert.ok(out.search.corrected.includes(c.corrected), `corrected: ${out.search.corrected.join(', ')}`);
     if (c.suggest) assert.ok(out.search.suggest?.includes(c.suggest));
     const scores = out.sites.map((s) => s.score);

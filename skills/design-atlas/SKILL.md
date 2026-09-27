@@ -85,12 +85,12 @@ Run `scripts/query.mjs` with Node 18 or later. Call it by its full path from the
 
 When the need is free text, start with `--search` and the user's most distinctive design terms, plus the constraint filters. Drop generic words such as "website" and "design" if they drown out the intended style. It ranks sites offline against `references/search-index.json`, folds plurals, expands design synonyms from `references/synonyms.json` and corrects typos. Filters apply before ranking.
 
-For a whole website's visual direction, start with `--type gallery` so matching skills, tools and component kits do not displace real website references; broaden to other types only for a specific need. A `directory` points to sources, a component library or registry helps compare one UI pattern, and an agent skill supplies rules rather than an observed website. Keep those roles separate in the brief.
+For a whole website's visual direction, start with `--type gallery,website` so matching skills, tools and component kits do not displace real website references; broaden to other types only for a specific need. A `gallery` leads to examples by others; a `website` is itself the example to inspect. A `directory` points to sources, a component library or registry helps compare one UI pattern, and an agent skill supplies rules rather than an observed website. Keep those roles separate in the brief.
 
 ```sh
 SKILL_DIR=path/to/design-atlas
 node "$SKILL_DIR/scripts/query.mjs" --search "animated icons for react" --licence ship
-node "$SKILL_DIR/scripts/query.mjs" --search "brutalism" --type gallery
+node "$SKILL_DIR/scripts/query.mjs" --search "brutalism" --type gallery,website
 node "$SKILL_DIR/scripts/query.mjs" --topic icons,assets --licence ship --agent any
 node "$SKILL_DIR/scripts/query.mjs" --topic components --agent mcp --min-verdict useful
 node "$SKILL_DIR/scripts/query.mjs" --slug iconoir,icons0 --full
@@ -122,7 +122,7 @@ Read "When to open it", "Using it with agents", "Watch out for" and "Reusable id
 
 ### 5. Inspect real examples for visual requests
 
-An atlas page about a gallery is a route to designs, not itself a design example. For a request about how a site should look or behave, open the shortlisted source in the browser tools available in the host. Use its style filter, category page or links in the atlas page to reach one to three **individual, live sites** relevant to the task. Look at their rendered desktop and narrow layouts; capture and inspect screenshots when the browser supports it. Record the exact example URL and what is visible: composition, type hierarchy, spacing, colour roles, imagery, motion or interaction. Distinguish what you saw from what the atlas says. Explain the design decision worth adapting to the user's own content and constraints.
+An atlas page about a gallery is a route to designs, not itself a design example; a `website` page points directly to an example. For a request about how a site should look or behave, open the shortlisted source in the browser tools available in the host. For a gallery, use its style filter, category page or links to reach one to three **individual, live sites** relevant to the task. Look at their rendered desktop and narrow layouts; capture and inspect screenshots when the browser supports it. Record the exact example URL and what is visible: composition, type hierarchy, spacing, colour roles, imagery, motion or interaction. Distinguish what you saw from what the atlas says. Explain the design decision worth adapting to the user's own content and constraints.
 
 Do this after shortlisting, not as a crawl. Follow the source's access terms, do not bulk-download or copy its images, and keep screenshots as working evidence outside the atlas repository. If a site is unavailable or the host has no visual browser, use another relevant example where possible and mark unobserved details `not visually verified`. Text or a gallery thumbnail alone does not prove a live site's layout or interaction. For non-visual requests, such as choosing an icon package by licence, skip this step.
 
