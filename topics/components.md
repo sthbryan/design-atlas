@@ -35,6 +35,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Annnimate](../sites/annnimate.md) — 105 GSAP components in React, Vue and HTML from a studio, with an MCP for paid subscribers.
 - [Apple Human Interface Guidelines](../sites/apple-human-interface-guidelines.md) — Apple platform UI reference with concrete examples for color, navigation, controls and adaptive interface states.
 - [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
+- [Arc](../sites/arc-ui.md) — React components and interactive blocks with motion and live examples.
 - [Astryx](../sites/astryx.md) — Meta's React design system with rich form controls, strong accessibility hooks and a plugin-based table.
 - [Atelier UI](../sites/atelier-ui.md) — An interactive library of shader and motion components with a live preview, adjustable controls and copyable implementation prompts.
 - [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.

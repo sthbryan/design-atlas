@@ -1280,6 +1280,33 @@
       ]
     },
     {
+      "slug": "arc-ui",
+      "path": "sites/arc-ui.md",
+      "title": "Arc",
+      "description": "React components and interactive blocks with motion and live examples.",
+      "url": "https://uiarc.dev",
+      "type": "component-library",
+      "formats": "React components · UI blocks · interactive previews",
+      "topics": [
+        "components",
+        "motion",
+        "data-viz"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free source is MIT. Arc Pro has a separate licence; its current price was not visible at review. The site terms say the terms are a draft pending legal review. Preview names, photos and brand marks are not licensed for reuse.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "magic-ui",
+        "aceternity-ui",
+        "motion-primitives",
+        "fancy-components"
+      ]
+    },
+    {
       "slug": "are-na",
       "path": "sites/are-na.md",
       "title": "Are.na",
@@ -1610,6 +1637,34 @@
         "paper-shaders",
         "supahero",
         "venust-backgrounds"
+      ]
+    },
+    {
+      "slug": "banani",
+      "path": "sites/banani.md",
+      "title": "Banani",
+      "description": "Public UI-screen references and an AI editor for turning prompts or screenshots into editable prototypes.",
+      "url": "https://www.banani.co",
+      "type": "ai-builder",
+      "formats": "UI generation and editing workspace · reference-screen library · MCP",
+      "topics": [
+        "ai-interfaces",
+        "inspiration",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Free browsing and a limited free account; paid tiers add generation capacity and export options. Terms retain user content ownership, license it to operate the service and allow de-identified free-account content to train models for accounts created on or after 2026-06-23; Banani's own interface and materials remain proprietary.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "aura",
+        "v0",
+        "figma"
       ]
     },
     {
@@ -2103,6 +2158,32 @@
       ]
     },
     {
+      "slug": "bluecanvas",
+      "path": "sites/bluecanvas.md",
+      "title": "BlueCanvas",
+      "description": "Seoul digital studio showing live motion experiments, interactive web craft and selected client projects alongside its service work.",
+      "url": "https://www.specialog.co.kr/en/",
+      "type": "website",
+      "formats": "Seoul digital studio · motion showreel · interactive graphics · client portfolio",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The studio site is free to browse; project services are quoted and the English site lists estimate ranges from KRW 5 million at review. No reuse licence for the site's design or project assets was stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "locomotive",
+        "lusion",
+        "81-web"
+      ]
+    },
+    {
       "slug": "book-of-shaders",
       "path": "sites/book-of-shaders.md",
       "title": "The Book of Shaders",
@@ -2153,6 +2234,31 @@
         "iconoir",
         "iconify",
         "simple-icons"
+      ]
+    },
+    {
+      "slug": "bounshy",
+      "path": "sites/bounshy.md",
+      "title": "Bounshy",
+      "description": "A live Framer specimen for glitching text, particle trails and configurable colour treatments on hover.",
+      "url": "https://bounshy.framer.website/",
+      "type": "website",
+      "formats": "Framer interactive text effect demo",
+      "topics": [
+        "motion",
+        "typography-and-styles"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The public demo is viewable without an account. No price or reuse licence for the Glitch Input Canvas component or its visual assets was stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "motion-primitives",
+        "css-text-effects",
+        "textmotion"
       ]
     },
     {
@@ -2212,6 +2318,31 @@
         "minimal-gallery",
         "curated-design",
         "hover-states"
+      ]
+    },
+    {
+      "slug": "brrranding",
+      "path": "sites/brrranding.md",
+      "title": "BRRRANDING",
+      "description": "Human curated identity projects with filters for industry, colour, typography, medium and year, linked to original case studies.",
+      "url": "https://www.brrranding.com/",
+      "type": "gallery",
+      "formats": "branding inspiration gallery · case studies",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; sponsorship is sold separately ($150 per newsletter issue or $400–$800/month for site placements at review). No reuse licence for gallery text or project imagery was stated; the featured work is credited to its creators.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "rebrand-gallery",
+        "the-brand-identity",
+        "best-website-gallery"
       ]
     },
     {
@@ -2538,6 +2669,31 @@
         "before-click",
         "good-ui",
         "useronboard"
+      ]
+    },
+    {
+      "slug": "codepen",
+      "path": "sites/codepen.md",
+      "title": "CodePen",
+      "description": "Public interactive Pens and monthly challenges make it easy to study small web experiments, motion and interface details.",
+      "url": "https://codepen.io",
+      "type": "gallery",
+      "formats": "interactive front-end demos · challenge prompts · public collections",
+      "topics": [
+        "inspiration",
+        "motion",
+        "data-viz"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "At review, the free plan includes unlimited public Pens and 3 files per Pen; PRO Starter is $8/mo billed annually ($96/year). CodePen's terms say public Pens are MIT-licensed, while private Pens are unlicensed; the CodePen service itself is proprietary. Check each Pen's external assets and dependencies before reuse.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "flourish",
+        "uiuno"
       ]
     },
     {
@@ -3280,6 +3436,30 @@
       ]
     },
     {
+      "slug": "david-bagdasaryan",
+      "path": "sites/david-bagdasaryan.md",
+      "title": "David Bagdasaryan",
+      "description": "A minimal designer portfolio pairs a full-bleed portrait with a small pixel mark, location details and two compact links.",
+      "url": "https://davidbagdasaryan.com/",
+      "type": "website",
+      "formats": "designer portfolio · full-bleed portrait · compact contact and profile links",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for its design, portrait, mark or linked work, or public service pricing, is stated; treat it as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siddz",
+        "chloe-maillot"
+      ]
+    },
+    {
       "slug": "dead-simple-sites",
       "path": "sites/dead-simple-sites.md",
       "title": "Dead Simple Sites",
@@ -4006,6 +4186,32 @@
       ]
     },
     {
+      "slug": "designme-agency",
+      "path": "sites/designme-agency.md",
+      "title": "DesignMe",
+      "description": "Startup design studio portfolio with a detailed N3XT case study and a live fintech site to inspect.",
+      "url": "https://www.designme.agency",
+      "type": "website",
+      "formats": "design studio · brand, product and website case studies",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "The studio is paid: its FAQ lists monthly retainers of US$6,000–10,000 and focused projects from US$10,000 at review. No reuse licence is stated; the portfolio and client work remain protected by their owners' rights.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "behance",
+        "active-theory",
+        "closeit-fast"
+      ]
+    },
+    {
       "slug": "designspiration",
       "path": "sites/designspiration.md",
       "title": "Designspiration",
@@ -4258,6 +4464,31 @@
         "8bitcn",
         "termcn",
         "dotforge"
+      ]
+    },
+    {
+      "slug": "ditherland",
+      "path": "sites/ditherland.md",
+      "title": "Ditherland",
+      "description": "Browser editor for dithering images and video, plus an animated generator with pixel, palette and tone-curve controls.",
+      "url": "https://ditherland.leobecker.com",
+      "type": "tool",
+      "formats": "image editor · video effects · animated pattern generator",
+      "topics": [
+        "assets",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "not stated; no repository or reuse terms were linked from the reviewed interface.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "ditther",
+        "dotforge",
+        "dither-kit"
       ]
     },
     {
@@ -5497,6 +5728,31 @@
       ]
     },
     {
+      "slug": "fuser",
+      "path": "sites/fuser.md",
+      "title": "Fuser",
+      "description": "A polished recipe page explains an image workflow with a connected input, recipe and output diagram.",
+      "url": "https://fuser.studio/recipes/album-art-mockup",
+      "type": "website",
+      "formats": "creative workspace landing page · AI image workflow · input and output diagram",
+      "topics": [
+        "landing-pages",
+        "ai-interfaces"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The recipe page is free to view. Fuser's terms reserve its service design and content; paid plans include a commercial licence for generated work, subject to source-media and model-provider rights. Do not reuse the recipe artwork or interface assets.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "shape-of-ai",
+        "supaste",
+        "framer"
+      ]
+    },
+    {
       "slug": "gallereee",
       "path": "sites/gallereee.md",
       "title": "Gallereee",
@@ -5550,6 +5806,32 @@
         "designmd-store",
         "typeui",
         "designmd-me"
+      ]
+    },
+    {
+      "slug": "getdroppy",
+      "path": "sites/getdroppy.md",
+      "title": "Droppy (getdroppy.app)",
+      "description": "Mac utility landing page with a vivid blue hero, animated product films and a modular gallery of notch interactions.",
+      "url": "https://getdroppy.app/",
+      "type": "website",
+      "formats": "macOS product landing page · interactive feature showcases",
+      "topics": [
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "The page showed a regional price of $8.49 at review; product docs give a $9.99 reference price. It is a one-time purchase with a three-day trial and lifetime updates. Terms grant a limited, non-transferable licence and reserve rights in the software, branding, design and content. This is getdroppy.app, separate from getdroppycode.app.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "note": "Separate from Droppy Code at getdroppycode.app.",
+      "related": [
+        "landing-love",
+        "framer",
+        "motion-dev"
       ]
     },
     {
@@ -6248,6 +6530,31 @@
         "marathonthegame",
         "design-sorcery",
         "supahero"
+      ]
+    },
+    {
+      "slug": "hk-grotesk-wide",
+      "path": "sites/hk-grotesk-wide.md",
+      "title": "HK Grotesk Wide",
+      "description": "A wide display family presented with bold green poster layouts and an editable preview across every weight.",
+      "url": "https://hanken.co/products/hk-grotesk-wide",
+      "type": "font-library",
+      "formats": "font product specimen · editable multi-style tester · licensing guides",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Listed at $0.00 for personal desktop use at review. Hanken's terms reserve commercial work and web or app embedding for an additional paid licence; site and specimen artwork remain proprietary.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "typewolf",
+        "death-of-typography",
+        "fonts-in-use"
       ]
     },
     {
@@ -7181,6 +7488,33 @@
       ]
     },
     {
+      "slug": "japan-web-design",
+      "path": "sites/japan-web-design.md",
+      "title": "Japan Web Design Gallery",
+      "description": "An English-language gallery of Japanese websites with visual mood filters and short editorial commentary on individual picks.",
+      "url": "https://japanwebdesign.com/",
+      "type": "gallery",
+      "formats": "Japanese website gallery · mood filters · editorial site notes",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. No reuse licence for the gallery or featured websites was stated; use as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "81-web",
+        "muuuuu",
+        "web-design-clip",
+        "pop-is-you-sakae"
+      ]
+    },
+    {
       "slug": "jessy-in-gallery",
       "path": "sites/jessy-in-gallery.md",
       "title": "Jessy In's Gallery",
@@ -7918,6 +8252,31 @@
       ]
     },
     {
+      "slug": "linden-hill",
+      "path": "sites/linden-hill.md",
+      "title": "Linden Hill",
+      "description": "Serif font specimen with Regular and Italic switching, a detailed glyph map and visual examples of OpenType features.",
+      "url": "https://www.theleagueofmoveabletype.com/linden-hill",
+      "type": "font-library",
+      "formats": "type specimen · glyph and OpenType feature examples · GitHub source",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The League distributes all its fonts, including Linden Hill, under the SIL Open Font License and permits commercial use. The linked repository includes the OFL; this covers the font files, not the specimen site.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "fontsource",
+        "fonts-in-use",
+        "typewolf"
+      ]
+    },
+    {
       "slug": "liquefy-ui",
       "path": "sites/liquefy-ui.md",
       "title": "Liquefy UI",
@@ -7995,6 +8354,32 @@
         "kinetics",
         "css-text-effects",
         "animejs"
+      ]
+    },
+    {
+      "slug": "liquid-orb-editor",
+      "path": "sites/liquid-orb-editor.md",
+      "title": "Liquid Orb Editor",
+      "description": "Live WebGPU editor for liquid-glass orbs, with shareable parameter links and Web or SwiftUI/Metal code export.",
+      "url": "https://lersent001.github.io/orb/",
+      "type": "tool",
+      "formats": "WebGPU shader playground · SwiftUI/Metal exporter",
+      "topics": [
+        "3d-and-shaders",
+        "motion",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The author's `LerSent001/orb` repository states that project code is MIT licensed; bundled Toolcraft UI code retains its original MIT notices.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "orbkit",
+        "shadercn",
+        "liquid-glass-web-react"
       ]
     },
     {
@@ -8249,6 +8634,32 @@
         "shadcn-ui",
         "simple-icons",
         "tabler-icons"
+      ]
+    },
+    {
+      "slug": "luna-ui",
+      "path": "sites/luna-ui.md",
+      "title": "Luna UI",
+      "description": "Framer startup templates and case studies with cinematic imagery, oversized type and scroll driven product showcases.",
+      "url": "https://lunaui.co/",
+      "type": "template-library",
+      "formats": "Framer website templates · design studio portfolio",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free and paid templates. Terms allow personal and commercial projects but prohibit resale, redistribution and marketplace republishing; site content remains Luna UI's intellectual property. Individual template prices vary.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "framer",
+        "landing-love",
+        "saas-landing-page"
       ]
     },
     {
@@ -8785,6 +9196,34 @@
       ]
     },
     {
+      "slug": "mlx-fast",
+      "path": "sites/mlx-fast.md",
+      "title": "MLX.fast",
+      "description": "Live MLX optimization challenge with a paired performance chart, model filters and a detailed contribution leaderboard.",
+      "url": "https://www.yukon.org/mlxfast",
+      "type": "website",
+      "formats": "benchmark challenge · live chart · contribution leaderboard · CLI",
+      "topics": [
+        "data-viz",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "No fee was listed to view or participate at review; challenge participation requires a GitHub account and compatible Apple Silicon Mac. The terms grant only a limited licence to use the platform for its challenges. The site, chart and leaderboard remain Eigen Labs' property; no design or content reuse licence is stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "keel-workspace",
+        "flourish",
+        "evil-charts",
+        "tremor"
+      ]
+    },
+    {
       "slug": "mobbin",
       "path": "sites/mobbin.md",
       "title": "Mobbin",
@@ -8839,6 +9278,31 @@
       "related": [
         "ishadeed",
         "every-layout"
+      ]
+    },
+    {
+      "slug": "montagu-slab",
+      "path": "sites/montagu-slab.md",
+      "title": "Montagu Slab",
+      "description": "Variable slab serif with a live tester that exposes weight, optical size, spacing and leading across several scripts.",
+      "url": "https://fonts.floriankarsten.com/montagu-slab",
+      "type": "font-library",
+      "formats": "type specimen · variable font tester · downloadable font · specimen PDF",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Montagu Slab is released under SIL Open Font License 1.1 and downloadable from the designer's GitHub. The licence applies to the font, not the foundry page design.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "v-fonts",
+        "fontsource",
+        "typewolf"
       ]
     },
     {
@@ -9121,6 +9585,31 @@
         "rune-icons",
         "iconoir",
         "icons0"
+      ]
+    },
+    {
+      "slug": "nacelle",
+      "path": "sites/nacelle.md",
+      "title": "Nacelle",
+      "description": "Japanese type specimen pairing a quiet split layout and oversized word sample with named styles and an OFL licence.",
+      "url": "https://dotcolon.net/fonts/nacelle/",
+      "type": "font-library",
+      "formats": "Japanese type specimen · downloadable font · SIL Open Font License",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The page links Nacelle's SIL Open Font License 1.1 and says the font may be used for websites, print and logos, modified and redistributed. The licence covers the font, not the specimen page design.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "fontsource",
+        "death-of-typography",
+        "typewolf"
       ]
     },
     {
@@ -10273,6 +10762,31 @@
       ]
     },
     {
+      "slug": "plomb-type",
+      "path": "sites/plomb-type.md",
+      "title": "Plomb Type",
+      "description": "Lyon type foundry with expressive specimen pages, live text controls, extensive glyph maps and real identity examples.",
+      "url": "https://plombtype.com/savate/",
+      "type": "font-library",
+      "formats": "independent type foundry · live font specimens · variable and static fonts",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Savate is available free under SIL Open Font License 1.1 for commercial and non-commercial projects. The licence covers the font, not Plomb Type's page design or specimen imagery.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "death-of-typography",
+        "too-much-type",
+        "fonts-in-use"
+      ]
+    },
+    {
       "slug": "poly-haven",
       "path": "sites/poly-haven.md",
       "title": "Poly Haven",
@@ -10300,6 +10814,33 @@
         "blender",
         "gltf-report",
         "3dicons"
+      ]
+    },
+    {
+      "slug": "pop-is-you-sakae",
+      "path": "sites/pop-is-you-sakae.md",
+      "title": "POP IS YOU SAKAE",
+      "description": "A Nagoya event microsite that links pop-culture listings to a calendar and a filterable map of Sakae venues.",
+      "url": "https://popisyousakae.com/",
+      "type": "website",
+      "formats": "Japanese event microsite · multilingual branding · program, schedule and interactive venue map",
+      "topics": [
+        "inspiration",
+        "navigation",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The microsite is free to browse. No reuse licence for its design or event assets was stated; treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "note": "The 2026 campaign dates shown on the page run July 22–August 16; most individual program entries are now marked ended.",
+      "related": [
+        "japan-web-design",
+        "web-design-clip",
+        "muuuuu"
       ]
     },
     {
@@ -10567,6 +11108,30 @@
       ]
     },
     {
+      "slug": "rauno-field-notes-5",
+      "path": "sites/rauno-field-notes-5.md",
+      "title": "Rauno's Field Notes #5",
+      "description": "A video-backed interaction study of stacked sidebar cards, hover cues, hit areas and dismissal motion.",
+      "url": "https://rauno.me/notes/5",
+      "type": "website",
+      "formats": "interaction design essay · animated prototypes · sidebar card navigation",
+      "topics": [
+        "motion",
+        "ux-patterns"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "This note is free to read. No reuse licence for its writing, prototypes or visuals is stated; treat it as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "devouring-details",
+        "uiwtf"
+      ]
+    },
+    {
       "slug": "re-ui",
       "path": "sites/re-ui.md",
       "title": "Re UI",
@@ -10825,6 +11390,35 @@
         "scrolltide",
         "designmd",
         "vibeprompts"
+      ]
+    },
+    {
+      "slug": "refero",
+      "path": "sites/refero.md",
+      "title": "Refero",
+      "description": "Search real web and app screens by page type, UX pattern, element, flow, company, colour or font.",
+      "url": "https://refero.design",
+      "type": "gallery",
+      "formats": "web and iOS screen gallery · user flows · Figma plugin · MCP · agent skill",
+      "topics": [
+        "inspiration",
+        "ux-patterns",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "At review, free access covered roughly 3% of the library and basic search. Pro was US$10/month billed annually (US$120/year), with MCP and the full screen and flow library. Terms permit ordinary design research and product design from what you learn, but prohibit redistributing screenshots, scraping, republishing the library or using its content for model training. Third-party screens remain their owners' property.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "mobbin",
+        "appinspo",
+        "refero-styles"
       ]
     },
     {
@@ -12870,6 +13464,34 @@
       ]
     },
     {
+      "slug": "svgl",
+      "path": "sites/svgl.md",
+      "title": "Svgl",
+      "description": "Searchable brand-logo SVG library with category filters, light and dark variants, copy formats, downloads and an API.",
+      "url": "https://svgl.app",
+      "type": "icon-library",
+      "formats": "brand-logo library · API · shadcn registry · browser extensions",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "api",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Free library and MIT-licensed site code. The site explicitly says users must obtain permission before using a logo; logos and marks remain subject to their owners' rights.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "simple-icons",
+        "thesvg",
+        "iconify"
+      ]
+    },
+    {
       "slug": "swift-pieces",
       "path": "sites/swift-pieces.md",
       "title": "Swift Pieces",
@@ -13609,6 +14231,31 @@
         "rebrand-gallery",
         "what-ships",
         "craftwork"
+      ]
+    },
+    {
+      "slug": "ui-design-studio",
+      "path": "sites/ui-design-studio.md",
+      "title": "ui-design.studio",
+      "description": "A free interface gallery with credited shots, designer pages and tags for patterns such as settings, forms and navigation.",
+      "url": "https://www.ui-design.studio/",
+      "type": "gallery",
+      "formats": "interface gallery · designer profiles · visual tags and search",
+      "topics": [
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Public browsing is free. Featured designs remain the creators' property and no general reuse licence is offered; follow the original post for credit and rights, and treat shots as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "mobbin",
+        "refero-styles",
+        "appinspo"
       ]
     },
     {
@@ -14481,6 +15128,36 @@
       ]
     },
     {
+      "slug": "vgpu",
+      "path": "sites/vgpu.md",
+      "title": "vgpu",
+      "description": "A composable WebGPU library with live shader examples, versioned docs, CLI discovery and agent resources.",
+      "url": "https://vgpu.sh",
+      "type": "js-library",
+      "formats": "TypeScript WebGPU library · WGSL modules · browser and Node.js · CLI · MCP · agent skill",
+      "topics": [
+        "3d-and-shaders",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "The library and repository are MIT licensed; review licences for third-party example assets and dependencies separately.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "threejs",
+        "compute-toys",
+        "canvas-ui"
+      ]
+    },
+    {
       "slug": "vibeprompts",
       "path": "sites/vibeprompts.md",
       "title": "VibePrompts",
@@ -14879,6 +15556,32 @@
         "sections-wtf",
         "hover-states",
         "landing-love"
+      ]
+    },
+    {
+      "slug": "zian-lu",
+      "path": "sites/zian-lu.md",
+      "title": "Zian Lu",
+      "description": "Shanghai designer's portfolio spanning brand identity, typography and motion experiments, with concise credits and project context.",
+      "url": "https://zian.work/",
+      "type": "website",
+      "formats": "designer portfolio · brand identity · typography · motion and generative experiments",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. No reuse licence for the portfolio or featured project work was stated; use it as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "ozzyx",
+        "juliette",
+        "psudokit"
       ]
     },
     {
