@@ -3429,6 +3429,30 @@
       ]
     },
     {
+      "slug": "every-layout",
+      "path": "sites/every-layout.md",
+      "title": "Every Layout",
+      "description": "Intrinsic CSS layout primitives with free visual examples, interactive demos and configurable generators.",
+      "url": "https://every-layout.dev",
+      "type": "documentation",
+      "formats": "CSS layout reference · interactive examples · generators",
+      "topics": [
+        "documentation",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free rudiments, axioms and selected layout examples; full access is $69 at review. Terms license authored content to purchasers and forbid republication; no code reuse licence is stated.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "utopia",
+        "design-system-checklist"
+      ]
+    },
+    {
       "slug": "everywhere-tools",
       "path": "sites/everywhere-tools.md",
       "title": "everywhere.tools",
@@ -5252,6 +5276,30 @@
       ]
     },
     {
+      "slug": "ishadeed",
+      "path": "sites/ishadeed.md",
+      "title": "Ahmad Shadeed",
+      "description": "Hands-on CSS layout articles and an interactive lab for inspecting modern selectors, grids and container queries.",
+      "url": "https://ishadeed.com",
+      "type": "documentation",
+      "formats": "CSS articles · interactive lab",
+      "topics": [
+        "documentation",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Articles and lab are free to view. No content or code reuse licence was stated on the reviewed pages.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "every-layout",
+        "modern-css"
+      ]
+    },
+    {
       "slug": "isthereanytool",
       "path": "sites/isthereanytool.md",
       "title": "isthereanytool",
@@ -5335,6 +5383,30 @@
         "minimal-gallery",
         "designeer",
         "shape-of-ai"
+      ]
+    },
+    {
+      "slug": "josh-w-comeau",
+      "path": "sites/josh-w-comeau.md",
+      "title": "Josh W. Comeau",
+      "description": "Interactive CSS guides where you can resize layouts, change rules and inspect the resulting interface.",
+      "url": "https://www.joshwcomeau.com",
+      "type": "documentation",
+      "formats": "CSS guides · interactive code playgrounds",
+      "topics": [
+        "documentation",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Blog guides are free to view. The author says the blog source is closed-source; no general reuse licence for article content or demos is stated. The separate HTML skeleton snippet is CC0.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "every-layout",
+        "utopia"
       ]
     },
     {
@@ -6445,6 +6517,31 @@
         "laws-of-ux",
         "appshot-gallery",
         "appinspo"
+      ]
+    },
+    {
+      "slug": "modern-css",
+      "path": "sites/modern-css.md",
+      "title": "Modern CSS Solutions",
+      "description": "Practical CSS references with rendered examples for responsive layouts, components, typography and interaction states.",
+      "url": "https://moderncss.dev",
+      "type": "documentation",
+      "formats": "CSS tutorials · rendered UI examples",
+      "topics": [
+        "documentation",
+        "components",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Tutorials are free to view. No general licence for the tutorial text, demo code or assets was stated on the reviewed pages.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "ishadeed",
+        "every-layout"
       ]
     },
     {
