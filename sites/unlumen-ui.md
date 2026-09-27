@@ -1,6 +1,6 @@
 ---
 title: unlumen UI
-description: "Animated React registry forked from Animate UI: 42 free Motion primitives, polished free components and a paid Pro set by key."
+description: "Animated React registry forked from Animate UI, with motion primitives, copyable components and a paid Pro set."
 url: https://ui.unlumen.com
 type: component-registry
 formats: animated component registry (shadcn) with a paid Pro tier
@@ -10,7 +10,7 @@ agent: [llms-txt, registry]
 pricing: freemium
 licence: public code and registry items under MIT (repo `leovvx/unlumen-ui-docs`); Pro is $119 one-time (listed down from $149), $69 a year, or $430 for a five-seat Studio licence, with no refunds and no reselling or redistribution as a standalone product
 licence_class: mixed
-reviewed: 2026-09-25
+reviewed: 2026-09-26
 status: active
 related: [animate-ui, skiper-ui, cult-ui, motion-primitives, smooth-ui, kokonut-ui]
 ---
@@ -28,6 +28,7 @@ When you want refined navigation and interface motion rather than big hero effec
 
 ## Most useful
 
+- **[Theme Switch](https://unlumen-ui-docs.vercel.app/docs/ui/unlumen/theme-switch)**: the docs' dark preview places a small moon control in a quiet stage. Clicking it animates the sun/moon swap and uses a circular View Transition reveal from the pointer position; the page documents an instant-change fallback when that API is unavailable.
 - Navigation pieces: expandable navbar, floating navbar, gooey navbar menu, motion tabs and slide menus (several are Pro)
 - Free interface details such as an Apple-style switch, animated digits, scramble text, shimmer skeleton, file tree and GitHub contribution graph
 - Motion primitives for text (typing, rolling, morphing, splitting) and effects (blur, fade, zoom, particles, theme toggler)
@@ -45,6 +46,7 @@ A short `/llms.txt` points to the installation page, the component list and pric
 
 ## Reusable ideas
 
+- Tie a theme transition's reveal origin to the toggle's click position, and keep a non-animated fallback when View Transitions are unavailable.
 - Credit the project you forked in both the introduction and a dedicated credits page
 - Put free and paid components in one registry and gate paid ones with a key, so the install command is the same
 - Ship low-level motion primitives next to finished components so people can rebuild variants

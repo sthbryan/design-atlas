@@ -10,7 +10,7 @@ agent: [registry]
 pricing: free
 licence: free to use; the site calls it "free and open-source", but the repo (`zzzzshawn/matrix`) carries a custom proprietary licence. It allows use in commercial and non-commercial products but forbids redistributing the components as a standalone or bundled component library, or selling them.
 licence_class: source-available
-reviewed: 2026-09-25
+reviewed: 2026-09-26
 status: active
 related: [circle-loaders, shadcn-ui, 8bitcn, dither-kit]
 ---
@@ -29,8 +29,8 @@ Dot Matrix is a registry of animated loading indicators drawn as grids of dots, 
 
 ## Most useful
 
-- **Gallery**: every loader animates live on the homepage with a name (Neon Drift, Radar Arc, Braille Beat and so on) and its install command.
-- **Playground**: tune size, dot size, speed, opacity levels, pattern and colour preset, then copy the resulting JSX props.
+- **[Loader gallery](https://dotmatrix.zzzzshawn.cloud)**: the dark page arranges live dot animations in a compact card grid, with eight color presets above it. The examples range from Neon Drift and Pulse Ladder to Core Spiral, Tri Orbit, Radar Arc and Braille Beat; compare their silhouettes and pacing before picking one.
+- **[Square loader playground](https://dotmatrix.zzzzshawn.cloud/playground?loader=dotm-square-1)**: tune size, dot size, speed, opacity levels, pattern and colour preset, then copy the resulting JSX props.
 - **Manual setup**: a shared core component, hooks file and CSS file you paste once, after which any loader's source can be copied by hand.
 - **Showcase**: short videos of the loaders used in real products.
 
@@ -47,6 +47,7 @@ Add `"@dotmatrix": "https://dotmatrix.zzzzshawn.cloud/r/{name}.json"` to `compon
 
 ## Reusable ideas
 
+- Keep a family visually coherent through a shared dot grid while varying the geometry and travel path; the gallery makes those differences easy to scan.
 - Build loaders from one shared dot-grid engine and vary only the pattern, so a whole family stays consistent.
 - Put the loader next to the action it describes, such as inside the save button, rather than covering the page.
 - Offer a playground that outputs ready-to-paste props instead of asking people to read the prop docs.

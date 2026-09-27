@@ -10,7 +10,7 @@ agent: [registry]
 pricing: free
 licence: free for personal and commercial projects under a custom "Great UI Custom License Agreement" that forbids reselling or republishing the components as a kit, template or derivative library; the README badge says MIT, which does not match the licence file
 licence_class: source-available
-reviewed: 2026-09-25
+reviewed: 2026-09-26
 status: active
 related: [transitions-dev, reactbits, aceternity-ui, skiper-ui, animate-ui, magic-ui]
 ---
@@ -28,6 +28,7 @@ When you want a route change or theme toggle to feel like an event, for example 
 
 ## Most useful
 
+- **[Staggered Page Transition](https://www.great-ui.com/components/staggered-page-transition)**: a dark, rounded documentation stage centers a white instruction line above four direction controls. Selecting one triggers a full-screen curtain of staggered panels; the preview exposes columns, duration, stagger and exit direction as props.
 - Page transitions, from a simple staggered wipe to a canvas-drawn pixel swipe with dithered edges
 - Theme transition providers (circular, split, swipe, blur fade) that animate the switch instead of snapping
 - Scroll text effects: text on a path, word focus, blur reveal, split-line fly-in
@@ -45,6 +46,7 @@ A standard shadcn index lives at `/r/registry.json`, with a description per item
 
 ## Reusable ideas
 
+- Give a full-screen transition a stable demo stage, direction controls and tunable stagger/duration props so its timing and coverage can be reviewed before adoption.
 - Treat the theme switch as a transition worth designing, not an instant swap
 - Offer several page-transition styles behind one API so a site can change its mood without new plumbing
 - Generate a per-component Markdown summary (install, dependencies, usage, props) from the same metadata as the docs

@@ -1821,7 +1821,7 @@
       "slug": "componentry",
       "path": "sites/componentry.md",
       "title": "Componentry",
-      "description": "53 animated React effects: text, WebGL hero backgrounds and image effects, installed through the shadcn CLI.",
+      "description": "53 animated React effects, from text and WebGL hero backgrounds to image effects, installed through the shadcn CLI.",
       "url": "https://componentry.dev",
       "type": "component-registry",
       "formats": "animated component registry (shadcn)",
@@ -1836,9 +1836,9 @@
         "registry"
       ],
       "pricing": "free",
-      "licence": "Free. MIT (repo `harshjdhv/componentry`, about 520 GitHub stars at review). A paid \"Componentry Pro\" for blocks is announced but not yet available",
+      "licence": "Free. MIT for the component code (repo `harshjdhv/componentry`); some items use GSAP, whose separate licence terms apply. The site and branding are proprietary.",
       "licence_class": "open-source-permissive",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-09-26",
       "status": "active",
       "related": [
         "reactbits",
@@ -3166,7 +3166,7 @@
       "pricing": "free",
       "licence": "free to use; the site calls it \"free and open-source\", but the repo (`zzzzshawn/matrix`) carries a custom proprietary licence. It allows use in commercial and non-commercial products but forbids redistributing the components as a standalone or bundled component library, or selling them.",
       "licence_class": "source-available",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-09-26",
       "status": "active",
       "related": [
         "circle-loaders",
@@ -4473,7 +4473,7 @@
       "pricing": "free",
       "licence": "free for personal and commercial projects under a custom \"Great UI Custom License Agreement\" that forbids reselling or republishing the components as a kit, template or derivative library; the README badge says MIT, which does not match the licence file",
       "licence_class": "source-available",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-09-26",
       "status": "active",
       "related": [
         "transitions-dev",
@@ -7281,6 +7281,34 @@
       ]
     },
     {
+      "slug": "onepromptdesign",
+      "path": "sites/onepromptdesign.md",
+      "title": "OnePromptDesign",
+      "description": "Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.",
+      "url": "https://onepromptdesign.com",
+      "type": "prompt-library",
+      "formats": "image prompt gallery · palette extraction",
+      "topics": [
+        "inspiration",
+        "assets",
+        "color"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "prompts"
+      ],
+      "pricing": "not-stated",
+      "licence": "Pricing and reuse terms for the displayed prompts and images were not stated on the public pages checked; treat the gallery as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "muzli",
+        "mobbin",
+        "awwwards"
+      ]
+    },
+    {
       "slug": "open-design",
       "path": "sites/open-design.md",
       "title": "OpenDesign",
@@ -9294,7 +9322,7 @@
       "pricing": "free",
       "licence": "free, supported by sponsors and the Vercel OSS programme. The code is Apache-2.0 in `arihantcodes/spectrum-ui` (about 1.4k stars at review), and the MCP package is MIT. The site's own facts page says there is no paid tier",
       "licence_class": "open-source-permissive",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-09-26",
       "status": "active",
       "related": [
         "prompt-kit",
@@ -10568,7 +10596,7 @@
       "slug": "unlumen-ui",
       "path": "sites/unlumen-ui.md",
       "title": "unlumen UI",
-      "description": "Animated React registry forked from Animate UI: 42 free Motion primitives, polished free components and a paid Pro set by key.",
+      "description": "Animated React registry forked from Animate UI, with motion primitives, copyable components and a paid Pro set.",
       "url": "https://ui.unlumen.com",
       "type": "component-registry",
       "formats": "animated component registry (shadcn) with a paid Pro tier",
@@ -10585,7 +10613,7 @@
       "pricing": "freemium",
       "licence": "public code and registry items under MIT (repo `leovvx/unlumen-ui-docs`); Pro is $119 one-time (listed down from $149), $69 a year, or $430 for a five-seat Studio licence, with no refunds and no reselling or redistribution as a standalone product",
       "licence_class": "mixed",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-09-26",
       "status": "active",
       "related": [
         "animate-ui",
@@ -10594,6 +10622,36 @@
         "motion-primitives",
         "smooth-ui",
         "kokonut-ui"
+      ]
+    },
+    {
+      "slug": "untitled-ui",
+      "path": "sites/untitled-ui.md",
+      "title": "Untitled UI",
+      "description": "Large Figma and React design system with a clean component browser and a clearly marked free subset alongside paid kits.",
+      "url": "https://www.untitledui.com/react",
+      "type": "component-library",
+      "formats": "Figma UI kit · React component library · MCP server · CLI",
+      "topics": [
+        "components",
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "cli"
+      ],
+      "pricing": "freemium",
+      "licence": "Selected React components marked open source use MIT; paid React and Figma products use a custom licence. Commercial end-product use is allowed, but redistribution, public source exposure and resale as a competing kit are prohibited. React plans include free and paid tiers.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "radix",
+        "base-ui",
+        "figma"
       ]
     },
     {
@@ -11115,7 +11173,7 @@
       "pricing": "free",
       "licence": "Free. MIT for both the platform repo (`WatermelonCorp/watermelon-platform`, about 580 GitHub stars at review) and the registry repo (`WatermelonCorp/watermellon-registry`)",
       "licence_class": "open-source-permissive",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-09-26",
       "status": "active",
       "related": [
         "shadcn-ui",

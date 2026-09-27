@@ -1,6 +1,6 @@
 ---
 title: Componentry
-description: "53 animated React effects: text, WebGL hero backgrounds and image effects, installed through the shadcn CLI."
+description: 53 animated React effects, from text and WebGL hero backgrounds to image effects, installed through the shadcn CLI.
 url: https://componentry.dev
 type: component-registry
 formats: animated component registry (shadcn)
@@ -8,9 +8,9 @@ topics: [motion, components, 3d-and-shaders]
 verdict: useful
 agent: [llms-txt, registry]
 pricing: free
-licence: Free. MIT (repo `harshjdhv/componentry`, about 520 GitHub stars at review). A paid "Componentry Pro" for blocks is announced but not yet available
+licence: Free. MIT for the component code (repo `harshjdhv/componentry`); some items use GSAP, whose separate licence terms apply. The site and branding are proprietary.
 licence_class: open-source-permissive
-reviewed: 2026-09-25
+reviewed: 2026-09-26
 status: active
 related: [reactbits, magic-ui, aceternity-ui, motion-primitives, canvas-ui]
 ---
@@ -20,37 +20,36 @@ related: [reactbits, magic-ui, aceternity-ui, motion-primitives, canvas-ui]
 
 ## What it is
 
-Componentry is an open-source collection of animated React components and visual effects by Harsh Jadhav, built with TypeScript, Tailwind CSS and Framer Motion, with WebGL or canvas for the heavier effects. Despite the name, it is not a set of primitives. It is a showcase-style library of interactive pieces, and it joined Vercel's open-source programme in 2026. At review the `llms.txt` listed 53 components in five groups: 7 text animations (letter cascade, text repel, particle typography, velocity scroll), 24 interactive components (magnetic dock, sticky scroll cards, fisheye image grid, Mac keyboard, vinyl music player, GitHub contribution calendar), 11 hero backgrounds (aurora, liquid chrome, grain and dither gradients, WebGL liquid), 10 visual effects (image ripple, image trail, matrix rain, magnet lines, pixel canvas) and one ASCII effect. Themed "collections" pages group items for text, scroll, background and image effects.
+Componentry is an animated React component and visual-effects collection built with TypeScript, Tailwind CSS and Framer Motion, with WebGL or canvas for heavier effects. It is a showcase-style library rather than a set of primitives. Its `llms.txt` groups text animations, interactive components, hero backgrounds and visual effects. The homepage redirects from `componentry.fun` to `componentry.dev`.
 
 ## When to open it
 
-Open it when a portfolio, launch page or 404 needs one memorable interactive moment: a headline that reacts to the cursor, an image wall that bends, a hero background with moving light. It is less useful for everyday app UI.
+Open it when a portfolio, launch page or 404 needs one memorable interactive moment: a headline that reacts to the cursor, an image wall that bends, or a hero background with moving light. It is less useful for everyday app UI.
 
 ## Most useful
 
-- **Text animations** with spring physics and per-letter control, easy to drop into a headline
-- **Hero backgrounds**: gradient, aurora and liquid shaders sized for a full-width hero
-- **Image effects**: WebGL ripples, trails, a liquid-glass carousel and a dithered particle logo
-- **Scroll pieces**: sticky scroll cards and a case-study flip stack for editorial pages
-- **Collections pages** that compare several effects of one kind side by side
+- **[Magnetic Dock](https://componentry.dev/docs/components/magnetic-dock)**: a row of glossy icon tiles sits in a large dark rounded stage. Hover magnifies nearby icons, tooltips identify them, a badge marks Mail and a small dot marks the active Home item. The docs expose default, solid and large-scale variants.
+- **Text animations** with spring physics and per-letter control, easy to drop into a headline.
+- **Hero backgrounds**: gradient, aurora and liquid shaders sized for a full-width hero.
+- **Image effects**: WebGL ripples, trails, a liquid-glass carousel and a dithered particle logo.
+- **Collections pages** compare several effects of one kind side by side.
 
 ## Using it with agents
 
-Each component installs through the shadcn CLI as `npx shadcn@latest add @componentry/<name>` once the `@componentry` namespace (`https://componentry.dev/r/{name}.json`) is in `components.json`. The MCP page simply points to shadcn's own MCP server (`shadcn mcp init`) with that registry added, so agents can search and add items by name. An `llms.txt` lists every component with a one-line description and its docs URL.
+Each component installs through the shadcn CLI as `npx shadcn@latest add @componentry/<name>` after adding the `@componentry` namespace to `components.json`. The `llms.txt` lists components with short descriptions and docs URLs. The MCP instructions point to shadcn's own MCP server with this registry added; there is no dedicated Componentry MCP server.
 
 ## Watch out for
 
-- Many effects use WebGL or canvas and can be heavy, so test performance on low-end devices and check reduced-motion handling before shipping
-- It is mostly one developer's work (a handful of outside contributors), started in December 2025 and still changing quickly
-- The Pro subdomain linked from the Blocks page did not resolve during this review
-- Several pieces are novelty items (eyes that track the cursor, a keyboard replica) that fit playful sites more than products
+- Many effects use WebGL or canvas and can be heavy; test performance on low-end devices and check reduced-motion handling before shipping.
+- The image-trail and layered-stack components use GSAP, which has separate licensing terms.
+- It is mostly one developer's work and changes quickly; check the exact source and dependencies before shipping.
+- The Pro subdomain linked from the Blocks page did not resolve during the review.
 
 ## Reusable ideas
 
-- Group effects into themed collections so people compare options for one job instead of browsing a flat list
-- Let text react to cursor distance with spring physics for a tactile headline
-- Use a single interactive hero background instead of scattering small animations across the page
-- Point agents at the shadcn MCP server plus a namespaced registry rather than running a custom MCP server
+- Give a dock a clear active marker as well as hover feedback, so selection stays visible after the magnification settles.
+- Group effects into themed collections so people compare options for one job instead of browsing a flat list.
+- In the Magnetic Dock preview, combine magnification with a persistent active marker and badge so transient hover state does not obscure selection.
 
 ## Related
 

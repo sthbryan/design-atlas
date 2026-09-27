@@ -10,7 +10,7 @@ agent: [mcp, llms-txt, registry, api]
 pricing: free
 licence: Free. MIT for both the platform repo (`WatermelonCorp/watermelon-platform`, about 580 GitHub stars at review) and the registry repo (`WatermelonCorp/watermellon-registry`)
 licence_class: open-source-permissive
-reviewed: 2026-09-25
+reviewed: 2026-09-26
 status: active
 related: [shadcn-ui, shadcnblocks, 21st-dev, magic-ui]
 ---
@@ -28,6 +28,7 @@ Open it when you want a large, free pool of shadcn-style parts with ready landin
 
 ## Most useful
 
+- **[SaaS Launch Stack showcase](https://ui.watermelon.sh/showcase/saas-launch-stack)**: a dark docs shell pairs a left navigation rail with a large rounded intro card and a right-hand panel linking the exact hero, feature, testimonial, pricing, CTA and footer blocks used below. It makes the composed page easier to evaluate than isolated thumbnails.
 - **Blocks**: nearly 200 copy-paste page sections for landing and product pages
 - **Animated components**: interaction-heavy pieces such as inline disclosure menus with two-step delete confirmation
 - **Dashboards**: a dozen complete layouts to start an admin screen from
@@ -47,6 +48,7 @@ This is the strongest part. Items install with `npx shadcn@latest add` from `reg
 
 ## Reusable ideas
 
+- Show a block-built page beside a labelled list of its source sections, so people can inspect the whole composition and reuse only the needed parts.
 - Expose a catalogue as a read-only JSON API and an MCP server, not just as web pages
 - Show a few composed pages built only from your own blocks so users can judge them in context
 - Keep the storefront and the installable registry in separate repositories

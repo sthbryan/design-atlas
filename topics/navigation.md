@@ -22,7 +22,7 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 - [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
 - [RewampUI](../sites/rewampui.md) — About 75 animated React navbars, backgrounds, toggles and cursors with a copy CLI and per-component prompts; designs are admitted remixes.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
-- [unlumen UI](../sites/unlumen-ui.md) — Animated React registry forked from Animate UI: 42 free Motion primitives, polished free components and a paid Pro set by key.
+- [unlumen UI](../sites/unlumen-ui.md) — Animated React registry forked from Animate UI, with motion primitives, copyable components and a paid Pro set.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

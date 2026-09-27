@@ -10,7 +10,7 @@ agent: [mcp, registry]
 pricing: free
 licence: free, supported by sponsors and the Vercel OSS programme. The code is Apache-2.0 in `arihantcodes/spectrum-ui` (about 1.4k stars at review), and the MCP package is MIT. The site's own facts page says there is no paid tier
 licence_class: open-source-permissive
-reviewed: 2026-09-25
+reviewed: 2026-09-26
 status: active
 related: [prompt-kit, aceternity-ui, magic-ui, tremor, shadcn-ui]
 ---
@@ -28,6 +28,7 @@ When a SaaS or AI product needs the in-app pieces that marketing kits skip: a st
 
 ## Most useful
 
+- **[Account Access Card](https://ui.spectrumhq.in/docs/account-access-card)**: a two-part security form with a credential card, forgot link and primary action, followed by a separately emphasized Danger Zone archive row. The docs preview shows the interaction and the code side by side.
 - **AI assistant blocks**: chat surfaces, agent activity feeds and approval steps for AI products.
 - **Empty states**: 25 layouts, a category few libraries bother with.
 - **Charts and tables**: finance and product dashboards with copy-paste React source.
@@ -46,6 +47,8 @@ Strong. `@spectrumui` is in the official shadcn directory, so `npx shadcn@latest
 
 ## Reusable ideas
 
+- Separate a routine security update from the destructive account action with a distinct Danger Zone row and archive control.
+- In the account-access preview, show the form and the destructive action together so their different consequences are legible.
 - Give AI products their own block category (streams, traces, approvals) instead of forcing chat into generic cards.
 - Design empty states as a set, so every blank screen in an app has a next step.
 - Render simple charts in plain SVG to avoid a charting dependency for sparklines and heatmaps.
