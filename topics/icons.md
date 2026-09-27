@@ -53,6 +53,7 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Nucleo](../sites/nucleo.md) — A polished SVG icon system with sharply differentiated families, a desktop editor, and an agent workflow for licensed icons.
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.
+- [Reeoo](../sites/reeoo.md) — Searchable references for websites, apps, store screenshots, event cards, icons and tools, with filters for industry, colour, style and layout.
 - [Reicon](../sites/reicon.md) — 2,630 MIT UI icons in Outline and Filled, with framework packages, llms files and an MCP server.
 - [Remix Icon](../sites/remix-icon.md) — About 3,230 line-and-fill system icons with an official MCP server, under a custom free licence since January 2026.
 - [Rune Icons](../sites/rune-icons.md) — 220 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.

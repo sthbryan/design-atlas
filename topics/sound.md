@@ -21,6 +21,7 @@ Interface sounds for the web: semantic cue sets, synthesis libraries, sound-enab
 
 <!-- atlas:sources:start -->
 - [@web-kits/audio](../sites/web-kits-audio.md) — Declarative Web Audio synthesis with JSON sound patches, a CLI, llms.txt and a create-sound agent skill.
+- [Chrome Music Lab](../sites/chrome-music-lab.md) — Google's hands-on music experiments, useful for studying playful grids, musical controls and sound-led visual interaction.
 - [Cuelume](../sites/cuelume.md) — Seventeen synthesised interaction cues wired by data attributes and bind(), with a full agents.md guide.
 - [sensory-ui](../sites/sensory-ui.md) — Sound-enabled versions of 24 shadcn components with 17 semantic roles and nine synthesised packs.
 - [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds installed via shadcn CLI; 110 Blizzard clips are non-commercial only.

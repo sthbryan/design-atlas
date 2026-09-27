@@ -75,6 +75,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Kobra](../sites/kobra.md) — Proprietary component system for AI and agent product interfaces, with an llms.txt index and a markdown API per component.
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
 - [Lafys](../sites/lafys.md) — Paid library of long website prompts for Claude, Lovable and v0, each with a video of the result; conflicting licence terms.
+- [Landing.Gallery](../sites/landing-gallery.md) — A landing page library with filters for page type, site builder and framework, plus desktop, mobile and OG image previews.
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section galleries with an MCP that returns screenshots, categories and source links to coding agents.
 - [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.

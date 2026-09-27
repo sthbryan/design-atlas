@@ -155,6 +155,31 @@
       ]
     },
     {
+      "slug": "10xshivam",
+      "path": "sites/10xshivam.md",
+      "title": "10xShivam",
+      "description": "Dark developer portfolio using dashed outlines, serif headings and expandable work entries to structure a long page.",
+      "url": "https://10xshivam.dev/",
+      "type": "website",
+      "formats": "personal portfolio · projects · blog",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse terms stated; treat the portfolio and its assets as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "psudokit",
+        "adityalogs"
+      ]
+    },
+    {
       "slug": "21st-dev",
       "path": "sites/21st-dev.md",
       "title": "21st.dev",
@@ -363,6 +388,32 @@
       ]
     },
     {
+      "slug": "a-fresh",
+      "path": "sites/a-fresh.md",
+      "title": "a-fresh",
+      "description": "A categorized website and component archive with previews, desktop and mobile views, and filters for design traits.",
+      "url": "https://a-fresh.website/",
+      "type": "gallery",
+      "formats": "website and component inspiration archive · category tags · desktop and mobile previews · paid all-access tier",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Public examples are browsable free. Pro all-access is listed at $6 per month billed yearly ($72 per year) at review. The site says screenshots belong to their respective owners; no general reuse licence was stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "godly",
+        "minimal-gallery"
+      ]
+    },
+    {
       "slug": "a1-gallery",
       "path": "sites/a1-gallery.md",
       "title": "A1",
@@ -533,6 +584,31 @@
         "vercel-web-design-guidelines",
         "inclusive-components",
         "ibelick-ui-skills"
+      ]
+    },
+    {
+      "slug": "adityalogs",
+      "path": "sites/adityalogs.md",
+      "title": "Aditya Logs",
+      "description": "Monospace portfolio with inline emphasis, an activity sidebar and a compact, terminal-like visual language.",
+      "url": "https://adityalogs.xyz/",
+      "type": "website",
+      "formats": "personal portfolio · project log · writing",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse terms stated; treat the portfolio and its assets as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "psudokit",
+        "craft-gustavo-fior"
       ]
     },
     {
@@ -851,6 +927,30 @@
       ]
     },
     {
+      "slug": "anjil-ink",
+      "path": "sites/anjil-ink.md",
+      "title": "Anjil",
+      "description": "A restrained developer portfolio pairing a dithered travel photograph with a serif headline, concise biography and compact work timeline.",
+      "url": "https://anjil.ink/",
+      "type": "website",
+      "formats": "developer portfolio · editorial profile · work history",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. No reuse licence for the writing, photograph or site visuals was stated; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "chloe-maillot",
+        "muuuuu"
+      ]
+    },
+    {
       "slug": "annnimate",
       "path": "sites/annnimate.md",
       "title": "Annnimate",
@@ -1029,6 +1129,35 @@
       ]
     },
     {
+      "slug": "appllama",
+      "path": "sites/appllama.md",
+      "title": "Appllama",
+      "description": "iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.",
+      "url": "https://appllama.io/",
+      "type": "gallery",
+      "formats": "iOS screens and flows · video chapters · UI element index · MCP",
+      "topics": [
+        "inspiration",
+        "ux-patterns",
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Free tier includes welcome screens and a limited rotating set of full app examples; broader access and MCP require paid Pro. Screen designs belong to their respective app owners, and the library is licensed for reference and analysis, not redistribution.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "before-click",
+        "appinspo",
+        "appshot-gallery",
+        "loader-buttons"
+      ]
+    },
+    {
       "slug": "appshot-gallery",
       "path": "sites/appshot-gallery.md",
       "title": "AppShot Gallery",
@@ -1111,6 +1240,30 @@
       ]
     },
     {
+      "slug": "ashish-gogula",
+      "path": "sites/ashish-gogula.md",
+      "title": "Ashish Gogula",
+      "description": "A restrained design engineer portfolio that presents a short profile beside a row of live media and visual widgets.",
+      "url": "https://ashishgogula.in/",
+      "type": "website",
+      "formats": "software and design engineer portfolio · media and time widgets · project previews",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for its writing, visuals or work was stated at review; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "chloe-maillot",
+        "samwrks",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "astryx",
       "path": "sites/astryx.md",
       "title": "Astryx",
@@ -1135,6 +1288,31 @@
         "shadcn-ui",
         "kobra",
         "aceternity-ui"
+      ]
+    },
+    {
+      "slug": "athrix",
+      "path": "sites/athrix.md",
+      "title": "Athrix",
+      "description": "Developer portfolio with an editorial serif headline, dotted page grid and pale botanical accents.",
+      "url": "https://www.athrix.me/",
+      "type": "website",
+      "formats": "personal portfolio · projects · command palette",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse terms stated; treat the portfolio and its assets as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "chloe-maillot",
+        "craft-gustavo-fior"
       ]
     },
     {
@@ -1365,6 +1543,32 @@
         "coss-ui",
         "radix",
         "headless-ui"
+      ]
+    },
+    {
+      "slug": "baymard-ecommerce-design-examples",
+      "path": "sites/baymard-ecommerce-design-examples.md",
+      "title": "Baymard Ecommerce Design Examples",
+      "description": "Ecommerce page gallery with desktop, mobile and app captures annotated with research-based UX findings.",
+      "url": "https://baymard.com/ecommerce-design-examples",
+      "type": "gallery",
+      "formats": "ecommerce screenshot library · 74 page types · UX annotations · desktop, mobile web and app",
+      "topics": [
+        "ux-patterns",
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Selected examples are publicly viewable; fuller research requires a paid plan (Foundation $200/month or $2,400 billed annually; Expansion $350/month or $4,200 billed annually, at review). Terms restrict use of paid Services and their content to internal viewing, prohibit automated extraction and redistribution, and state that third-party screenshot rights are not licensed.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "good-ui",
+        "goodcart",
+        "mobbin"
       ]
     },
     {
@@ -1980,6 +2184,57 @@
       ]
     },
     {
+      "slug": "case-study-club",
+      "path": "sites/case-study-club.md",
+      "title": "Case Study Club",
+      "description": "A weekly design publication with a restrained, print-like layout for long-form notes, portfolios and design links.",
+      "url": "https://www.casestudy.club/",
+      "type": "website",
+      "formats": "design newsletter · editorial website · weekly archive",
+      "topics": [
+        "typography-and-styles",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The newsletter is free to read and subscribe to. No licence for the site's writing or visuals is stated; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "typewolf",
+        "siteinspire"
+      ]
+    },
+    {
+      "slug": "chanh-dai",
+      "path": "sites/chanh-dai.md",
+      "title": "Chánh Đại",
+      "description": "A design-engineer portfolio framed by isometric line art, hand-drawn annotations and a deep catalogue of components, blocks and projects.",
+      "url": "https://chanhdai.com/",
+      "type": "website",
+      "formats": "design engineer portfolio · component and block catalogue · project archive",
+      "topics": [
+        "inspiration",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "The footer identifies the site source as MIT and links to agent-facing llms.txt and index.md files. The site's writing, illustrations and project imagery remain look-only unless separately licensed.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "sahil-singh",
+        "chloe-maillot",
+        "component-gallery"
+      ]
+    },
+    {
       "slug": "chloe-maillot",
       "path": "sites/chloe-maillot.md",
       "title": "Chloé Maillot",
@@ -2028,6 +2283,32 @@
       "related": [
         "threejs",
         "book-of-shaders"
+      ]
+    },
+    {
+      "slug": "chrome-music-lab",
+      "path": "sites/chrome-music-lab.md",
+      "title": "Chrome Music Lab",
+      "description": "Google's hands-on music experiments, useful for studying playful grids, musical controls and sound-led visual interaction.",
+      "url": "https://musiclab.chromeexperiments.com/",
+      "type": "tool",
+      "formats": "browser music experiments · visual sound tools · Song Maker",
+      "topics": [
+        "sound",
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The experiments are free to use in a browser. Google links source code for many experiments, but no blanket licence for the site's artwork or sounds is stated; check each project before reuse.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "chrome-experiments",
+        "web-kits-audio",
+        "soundcn"
       ]
     },
     {
@@ -2494,6 +2775,32 @@
       ]
     },
     {
+      "slug": "cssline",
+      "path": "sites/cssline.md",
+      "title": "CSSline",
+      "description": "A long-running web design gallery with tagged site previews, a tag browser and direct links to current sites.",
+      "url": "https://cssline.com/",
+      "type": "gallery",
+      "formats": "website showcase · tags · search · site details and outbound links",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No general reuse licence was stated on the reviewed gallery pages. Treat entries as look-only and check the original site's terms before reusing work.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "minimal-gallery",
+        "godly"
+      ]
+    },
+    {
       "slug": "cta-gallery",
       "path": "sites/cta-gallery.md",
       "title": "CTA Gallery",
@@ -2516,6 +2823,33 @@
         "navbar-gallery",
         "footer-design",
         "gradient-buttons"
+      ]
+    },
+    {
+      "slug": "cue-design",
+      "path": "sites/cue-design.md",
+      "title": "Cue",
+      "description": "Hand-picked web interaction and UI component references with motion demos and prompts for recreating them.",
+      "url": "https://www.cuedesign.space/",
+      "type": "component-library",
+      "formats": "curated component gallery · AI prompts",
+      "topics": [
+        "motion",
+        "components",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "Free browsing with limited prompt access; Cue+ and individual component unlocks are paid, and reuse licence terms are not stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "sora-ui",
+        "loader-buttons"
       ]
     },
     {
@@ -2739,6 +3073,32 @@
       "related": [
         "flourish",
         "evil-charts"
+      ]
+    },
+    {
+      "slug": "dead-simple-sites",
+      "path": "sites/dead-simple-sites.md",
+      "title": "Dead Simple Sites",
+      "description": "A screenshot-led archive of minimal websites, with creator names and direct visit links in a sparse grid.",
+      "url": "https://deadsimplesites.com/",
+      "type": "gallery",
+      "formats": "minimal website archive · screenshot grid · creator credits · live-site links",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The gallery says all content belongs to its original owners. No general reuse licence was stated; use as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "minimalny",
+        "minimal-gallery",
+        "siteinspire"
       ]
     },
     {
@@ -3059,6 +3419,34 @@
         "ui-skills",
         "impeccable",
         "easing-wizard"
+      ]
+    },
+    {
+      "slug": "design-sorcery",
+      "path": "sites/design-sorcery.md",
+      "title": "DesignSorcery",
+      "description": "Website gallery with scroll-video previews, screenshot modes, and filters for visual style, framework, color and industry.",
+      "url": "https://designsorcery.com/",
+      "type": "gallery",
+      "formats": "website screenshot gallery · scroll-video previews · DESIGN.md downloads",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "not-stated",
+      "licence": "not stated; the gallery links to third-party websites and displays their screenshots. No reuse permission was stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "a1-gallery",
+        "siteinspire",
+        "best-saas-web-designs"
       ]
     },
     {
@@ -4805,6 +5193,32 @@
       ]
     },
     {
+      "slug": "framio",
+      "path": "sites/framio.md",
+      "title": "Framio",
+      "description": "Full-page desktop and mobile captures of curated websites, with extracted palettes and filters for industry, style, colour and typeface.",
+      "url": "https://www.framio.site/",
+      "type": "gallery",
+      "formats": "full-page website captures · desktop and mobile · extracted palettes · industry and style tags",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The gallery is browsable without an account. Framio says the screenshots belong to their makers; no separate reuse licence for its index or palette data was stated at review. Treat captures as look-only and check each original site's terms before reuse.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "godly",
+        "a1-gallery",
+        "minimal-gallery"
+      ]
+    },
+    {
       "slug": "free-icon-resources",
       "path": "sites/free-icon-resources.md",
       "title": "Free Icon Resources",
@@ -5054,6 +5468,32 @@
         "supahero",
         "laws-of-ux",
         "ui-playbook"
+      ]
+    },
+    {
+      "slug": "goodcart",
+      "path": "sites/goodcart.md",
+      "title": "GoodCart",
+      "description": "E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.",
+      "url": "https://www.goodcart.design/",
+      "type": "gallery",
+      "formats": "full-page ecommerce screenshots · desktop and mobile · industry, style and UX-pattern filters",
+      "topics": [
+        "inspiration",
+        "ux-patterns",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse without an account. Its terms prohibit copying or distributing site content without permission; screenshots include third-party imagery and marks whose rights remain with their owners.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "good-ui",
+        "mobbin",
+        "a1-gallery"
       ]
     },
     {
@@ -5499,6 +5939,32 @@
         "browse-cool",
         "minimal-gallery",
         "design-spells"
+      ]
+    },
+    {
+      "slug": "httpster",
+      "path": "sites/httpster.md",
+      "title": "Httpster",
+      "description": "A large gallery of website captures with separate filters for visual styles and site types, linking each reference to its live source.",
+      "url": "https://httpster.net/",
+      "type": "gallery",
+      "formats": "website gallery · style and type filters · linked live examples",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. The site has a copyright notice, but no reuse licence for gallery captures was stated at review. Treat them as look-only and check the original maker's terms before reusing work.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "a1-gallery",
+        "minimal-gallery",
+        "curations-supply"
       ]
     },
     {
@@ -6152,6 +6618,32 @@
       ]
     },
     {
+      "slug": "interact-gallery",
+      "path": "sites/interact-gallery.md",
+      "title": "Interact Gallery",
+      "description": "Screenshot-backed reviews of browser 3D configurators, virtual tours and interactive product experiences, sortable by UX and performance.",
+      "url": "https://www.interact.gallery",
+      "type": "gallery",
+      "formats": "interactive 3D and 2D web experiences · configurators · scored reviews · feature and technology filters",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The gallery is browseable without a visible paywall; no reuse licence for its screenshots or editorial content is stated. Treat them as look-only. The curator offers consulting, with pricing not stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "threejs",
+        "react-three-fiber",
+        "100000-stars",
+        "awwwards"
+      ]
+    },
+    {
       "slug": "interface-design",
       "path": "sites/interface-design.md",
       "title": "Interface Design",
@@ -6399,6 +6891,31 @@
       "related": [
         "every-layout",
         "utopia"
+      ]
+    },
+    {
+      "slug": "juliette",
+      "path": "sites/juliette.md",
+      "title": "Juliette",
+      "description": "A designer’s portfolio pairing restrained editorial typography with a playful, layered collage of personal and project imagery.",
+      "url": "https://shedsgns.me/",
+      "type": "website",
+      "formats": "independent designer portfolio · selected work · essays",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence or terms were stated for its work. Collaborations start at $7,000 at review; treat the work as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "wall-of-portfolios",
+        "layers",
+        "minimal-gallery"
       ]
     },
     {
@@ -6686,6 +7203,30 @@
       ]
     },
     {
+      "slug": "kush-bothra",
+      "path": "sites/kush-bothra.md",
+      "title": "Kush Bothra",
+      "description": "A product designer portfolio that treats its introduction as a playful canvas of oversized type, tilted labels and floating work previews.",
+      "url": "https://www.kushbothra.com/",
+      "type": "website",
+      "formats": "product designer portfolio · case studies · experiments",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for its writing, visuals or work was stated at review; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "chloe-maillot",
+        "samwrks",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "lab01",
       "path": "sites/lab01.md",
       "title": "Lab01",
@@ -6799,6 +7340,34 @@
         "landing-love",
         "minimal-gallery",
         "saaspo"
+      ]
+    },
+    {
+      "slug": "landing-gallery",
+      "path": "sites/landing-gallery.md",
+      "title": "Landing.Gallery",
+      "description": "A landing page library with filters for page type, site builder and framework, plus desktop, mobile and OG image previews.",
+      "url": "https://landing.gallery/",
+      "type": "gallery",
+      "formats": "landing page archive · page, builder and framework filters · responsive and OG image previews · MCP for coding agents",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "The gallery states that screenshots and logos belong to their respective owners. No general reuse licence was stated; use as look-only references.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "landingfolio",
+        "lapa-ninja",
+        "land-book"
       ]
     },
     {
@@ -7322,6 +7891,32 @@
       ]
     },
     {
+      "slug": "lusion",
+      "path": "sites/lusion.md",
+      "title": "Lusion",
+      "description": "A creative studio portfolio with sculptural 3D scenes, restrained typography and immersive project storytelling.",
+      "url": "https://lusion.co/",
+      "type": "website",
+      "formats": "creative studio portfolio · interactive 3D and motion work",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for the site's design, code or featured work is stated; treat it as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "unicorn-studio",
+        "spline",
+        "mesh3d"
+      ]
+    },
+    {
       "slug": "made-in-webflow",
       "path": "sites/made-in-webflow.md",
       "title": "Made in Webflow",
@@ -7723,6 +8318,35 @@
       ]
     },
     {
+      "slug": "microcharts",
+      "path": "sites/microcharts.md",
+      "title": "microcharts",
+      "description": "MIT React charts sized for sentences, tables and KPI cards, with a catalog and seven live example apps.",
+      "url": "https://microcharts.dev",
+      "type": "component-library",
+      "formats": "React chart components · 106 SVG microcharts · seven live example apps",
+      "topics": [
+        "data-viz",
+        "components",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "The React package is free and MIT; the repository links from the site. The MCP package is separately published for local agent use.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "evil-charts",
+        "dataviz-project",
+        "flourish"
+      ]
+    },
+    {
       "slug": "microkit",
       "path": "sites/microkit.md",
       "title": "MicroKit",
@@ -7771,6 +8395,32 @@
         "kage",
         "designeer",
         "appshot-gallery"
+      ]
+    },
+    {
+      "slug": "minimalny",
+      "path": "sites/minimalny.md",
+      "title": "Minimalny",
+      "description": "A minimal web design archive with category filters, search and compact records for each featured designer or studio.",
+      "url": "https://minimalny.com",
+      "type": "gallery",
+      "formats": "curated website archive · agency, portfolio, design, development and resources categories · search and RSS",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The gallery says featured content belongs to its original owners. No general reuse licence was stated; use its screenshots and the linked work as look-only references.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "minimal-gallery",
+        "landingfolio"
       ]
     },
     {
@@ -8419,6 +9069,30 @@
       ]
     },
     {
+      "slug": "nur",
+      "path": "sites/nur.md",
+      "title": "Nur",
+      "description": "Nur's product engineer portfolio pairs a watercolor pond illustration with a sparse introduction and inline type styling controls.",
+      "url": "https://nurlab.xyz/",
+      "type": "website",
+      "formats": "product engineer portfolio · watercolor illustration · editable introduction",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for its writing, illustration or other content was stated at review; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "chloe-maillot",
+        "samwrks",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "odyssey-ui",
       "path": "sites/odyssey-ui.md",
       "title": "Odyssey UI",
@@ -8505,6 +9179,32 @@
         "ramps",
         "color-review",
         "dialkit"
+      ]
+    },
+    {
+      "slug": "on-display",
+      "path": "sites/on-display.md",
+      "title": "Websites on Display",
+      "description": "A searchable web design archive with filters for style, type, typeface, color, technology and performance.",
+      "url": "https://ondisplay.website",
+      "type": "gallery",
+      "formats": "website archive · filters for industry, design style, page type, typeface, color, technology, performance and author",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse licence was stated for the archive. The site says featured designs, screenshots, logos and trademarks remain the intellectual property of their original creators; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "godly",
+        "minimal-gallery"
       ]
     },
     {
@@ -8742,6 +9442,55 @@
       ]
     },
     {
+      "slug": "ozgur-guler",
+      "path": "sites/ozgur-guler.md",
+      "title": "Özgür Güler",
+      "description": "A pixel-art portfolio framed as a small explorable village, with a compact welcome card and a separate professional view.",
+      "url": "https://ozgurguler.tech/",
+      "type": "website",
+      "formats": "developer portfolio · pixel-art game interface · Turkish and English",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for its writing, pixel art or other visuals was stated at review; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "marathonthegame",
+        "samwrks",
+        "a1-gallery"
+      ]
+    },
+    {
+      "slug": "ozzyx",
+      "path": "sites/ozzyx.md",
+      "title": "ozzyx",
+      "description": "Design engineer portfolio that turns an oversized, mixed-weight text introduction into the main visual composition.",
+      "url": "https://ozzyx.xyz/",
+      "type": "website",
+      "formats": "personal portfolio · writing · interaction work",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse terms stated; treat the portfolio and its assets as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "craft-gustavo-fior",
+        "chloe-maillot"
+      ]
+    },
+    {
       "slug": "paceui",
       "path": "sites/paceui.md",
       "title": "PaceUI",
@@ -8768,6 +9517,31 @@
         "21st-dev",
         "magic-ui",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "page-flows",
+      "path": "sites/page-flows.md",
+      "title": "Page Flows",
+      "description": "Recorded web and app journeys with annotated steps, screen references and UI examples.",
+      "url": "https://pageflows.com/",
+      "type": "gallery",
+      "formats": "mobile and web flows · screen recordings · annotations",
+      "topics": [
+        "ux-patterns",
+        "inspiration"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free previews and a paid subscription for the full library; site content is copyrighted and no reuse licence is stated.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "appllama",
+        "before-click",
+        "useronboard"
       ]
     },
     {
@@ -9151,6 +9925,31 @@
       ]
     },
     {
+      "slug": "psudokit",
+      "path": "sites/psudokit.md",
+      "title": "PsudoKit",
+      "description": "Dark portfolio with a restrained monospace system, thin orbital lines and a split profile and activity layout.",
+      "url": "https://psudokit.in/",
+      "type": "website",
+      "formats": "personal portfolio · projects · writing",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse terms stated; treat the portfolio and its assets as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "adityalogs",
+        "chloe-maillot"
+      ]
+    },
+    {
       "slug": "radix",
       "path": "sites/radix.md",
       "title": "Radix",
@@ -9268,6 +10067,32 @@
         "magic-ui",
         "shadcn-ui",
         "libraries-dev-orbs"
+      ]
+    },
+    {
+      "slug": "ratnesh-chipre",
+      "path": "sites/ratnesh-chipre.md",
+      "title": "Ratnesh Chipre",
+      "description": "A restrained design engineer portfolio with a small shadcn-compatible component registry and interactive demos.",
+      "url": "https://ratneshc.com",
+      "type": "website",
+      "formats": "shadcn-compatible component registry · portfolio · blog",
+      "topics": [
+        "components",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "The portfolio repository is MIT-licensed, and the component registry is available to install for free at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "animate-ui"
       ]
     },
     {
@@ -9472,6 +10297,33 @@
         "60fps",
         "motion-primitives",
         "appshot-gallery"
+      ]
+    },
+    {
+      "slug": "reeoo",
+      "path": "sites/reeoo.md",
+      "title": "Reeoo",
+      "description": "Searchable references for websites, apps, store screenshots, event cards, icons and tools, with filters for industry, colour, style and layout.",
+      "url": "https://reeoo.com/",
+      "type": "gallery",
+      "formats": "website and app references · store screenshots · event cards · icons · design tools · visual metadata",
+      "topics": [
+        "inspiration",
+        "ux-patterns",
+        "icons"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse at review. Reeoo states that all rights are reserved; no separate reuse licence for screenshots or metadata was stated. Treat its captures as look-only and check the original source before reusing its work.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "appinspo",
+        "appshot-gallery",
+        "a1-gallery"
       ]
     },
     {
@@ -9932,6 +10784,30 @@
         "saas-landing-page",
         "supahero",
         "landing-love"
+      ]
+    },
+    {
+      "slug": "sahil-singh",
+      "path": "sites/sahil-singh.md",
+      "title": "Sahil Singh",
+      "description": "A dark, grid-based design engineer portfolio with a command palette, live component examples, projects and writing.",
+      "url": "https://sahilcodex.vercel.app/",
+      "type": "website",
+      "formats": "design engineer portfolio · interactive component examples · command palette",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for its writing, visuals or component examples was stated at review; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "chloe-maillot",
+        "component-gallery",
+        "samwrks"
       ]
     },
     {
@@ -10689,6 +11565,31 @@
       ]
     },
     {
+      "slug": "siddz",
+      "path": "sites/siddz.md",
+      "title": "Siddz",
+      "description": "Minimal portfolio with a faint graph-paper grid, compact uppercase labels and paired project previews.",
+      "url": "https://siddz.com/",
+      "type": "website",
+      "formats": "personal portfolio · projects · components",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse terms stated; treat the portfolio and its assets as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "chloe-maillot",
+        "craft-gustavo-fior"
+      ]
+    },
+    {
       "slug": "simple-icons",
       "path": "sites/simple-icons.md",
       "title": "Simple Icons",
@@ -10771,6 +11672,32 @@
         "curated-design",
         "awwwards",
         "a1-gallery"
+      ]
+    },
+    {
+      "slug": "sitethis",
+      "path": "sites/sitethis.md",
+      "title": "SiteThis",
+      "description": "A visual archive of websites with category and style browsing, full-page previews and palette notes.",
+      "url": "https://sitethis.com/",
+      "type": "gallery",
+      "formats": "curated website gallery · category and style tags · palette strips · detail pages",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No general reuse licence was stated for gallery content. Treat screenshots and featured work as look-only and check each creator's terms before reuse.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "minimal-gallery",
+        "godly"
       ]
     },
     {
@@ -10869,6 +11796,35 @@
         "base-ui",
         "paper-shaders",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "sora-ui",
+      "path": "sites/sora-ui.md",
+      "title": "Sora UI",
+      "description": "Animated React component registry with live motion demos and ready-made layout showcases.",
+      "url": "https://ui.soralabs.studio/catalog",
+      "type": "component-registry",
+      "formats": "shadcn-compatible React registry · CLI · MCP",
+      "topics": [
+        "motion",
+        "components",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "cli",
+        "mcp",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Free to preview and install; original code is MIT, while some components derived from Animate UI retain its MIT + Commons Clause terms.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "smooth-ui",
+        "motion-zajno"
       ]
     },
     {
@@ -11019,6 +11975,31 @@
         "efecto",
         "3dicons",
         "shaderfrog"
+      ]
+    },
+    {
+      "slug": "srbh-site",
+      "path": "sites/srbh-site.md",
+      "title": "Saurabh Sharma",
+      "description": "A compact developer portfolio that turns contribution history, pull requests, components and a dated learning log into browsable sections.",
+      "url": "https://www.srbh.site/",
+      "type": "website",
+      "formats": "developer portfolio · activity dashboard · component catalogue",
+      "topics": [
+        "inspiration",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. No reuse licence for the portfolio's writing, visuals or examples was stated; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "sahil-singh",
+        "chloe-maillot",
+        "component-gallery"
       ]
     },
     {
@@ -12439,6 +13420,33 @@
       ]
     },
     {
+      "slug": "unsection",
+      "path": "sites/unsection.md",
+      "title": "Unsection",
+      "description": "A searchable gallery of real website sections, filterable by block type, visual style and industry.",
+      "url": "https://www.unsection.com",
+      "type": "gallery",
+      "formats": "website section gallery · style and type filters · templates",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The homepage is free to browse. Pro is listed at $5/month or $36/year at review, with a $99 lifetime option; gallery captures remain third-party work and no reuse licence is stated.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "landingfolio",
+        "site-of-sites",
+        "81-web",
+        "godly"
+      ]
+    },
+    {
       "slug": "untitled-ui",
       "path": "sites/untitled-ui.md",
       "title": "Untitled UI",
@@ -12935,6 +13943,32 @@
       ]
     },
     {
+      "slug": "vucko",
+      "path": "sites/vucko.md",
+      "title": "Vucko",
+      "description": "A motion identity studio portfolio with vivid brand case studies and a modular, clock-and-project rail.",
+      "url": "https://vucko.co",
+      "type": "website",
+      "formats": "motion identity studio · brand case studies",
+      "topics": [
+        "motion",
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. The footer reserves copyright; no reuse licence for case-study text or media was stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "motion-zajno",
+        "folios-gallery",
+        "motion-dev"
+      ]
+    },
+    {
       "slug": "wakamai-fondue",
       "path": "sites/wakamai-fondue.md",
       "title": "Wakamai Fondue",
@@ -13076,6 +14110,32 @@
         "sensory-ui",
         "soundcn",
         "dialkit"
+      ]
+    },
+    {
+      "slug": "websitevice",
+      "path": "sites/websitevice.md",
+      "title": "Websitevice",
+      "description": "A website inspiration directory organized by industry and site purpose, with short notes on why each example is notable.",
+      "url": "https://websitevice.com/",
+      "type": "gallery",
+      "formats": "website directory · business and site categories · image previews · live links and short annotations",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No general reuse licence was stated on the reviewed pages. Treat the examples as look-only references and check each source's terms before reusing work.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "made-in-webflow",
+        "godly"
       ]
     },
     {

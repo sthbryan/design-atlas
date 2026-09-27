@@ -24,6 +24,7 @@ Chart components, dashboard building blocks and small data displays (spark chart
 - [Flourish](../sites/flourish.md) — An interactive data storytelling editor and gallery of working charts, maps and stories to study or adapt.
 - [Internet Artifacts](../sites/internet-artifacts-neal-fun.md) — Neal.fun's interactive timeline of early internet objects, built as a playful illustrated archive.
 - [Keel Workspace](../sites/keel-workspace.md) — A polished CRM workspace demo with dense pipeline metrics, source-backed agent decisions and keyboard-first review controls.
+- [microcharts](../sites/microcharts.md) — MIT React charts sized for sentences, tables and KPI cards, with a catalog and seven live example apps.
 - [Nex UI](../sites/nex-ui.md) — About 100 shadcn-style React and Tailwind components including 23 charts; MIT claimed without a LICENSE file and the CLI registry is empty.
 - [Spherium](../sites/spherium.md) — A WebGL globe editor for styling world maps as dot fields and exporting the result as SVG.
 - [The Pudding](../sites/the-pudding.md) — Visual essays that turn data and reported stories into distinctive, interactive editorial experiences.

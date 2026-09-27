@@ -21,18 +21,26 @@ Galleries of real interfaces, sites and components to look at before designing y
 
 <!-- atlas:sources:start -->
 - [100,000 Stars](../sites/100000-stars.md) — Interactive Chrome Experiment that turns nearby stellar data into a navigable, cinematic star map.
+- [10xShivam](../sites/10xshivam.md) — Dark developer portfolio using dashed outlines, serif headings and expandable work entries to structure a long page.
 - [21st.dev](../sites/21st-dev.md) — Community registry of React and Tailwind components with many variants per pattern, a CLI and an MCP server.
 - [404s](../sites/404s.md) — Curated gallery of 404 pages, filterable by style, interaction and industry.
 - [60fps](../sites/60fps.md) — About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
 - [81-web](../sites/81-web.md) — A Japanese web design archive with filters for type, category, color, font, tags, studio and date, plus desktop/mobile and cover/masonry views.
+- [a-fresh](../sites/a-fresh.md) — A categorized website and component archive with previews, desktop and mobile views, and filters for design traits.
 - [A1](../sites/a1-gallery.md) — A curated gallery of live websites, full pages and individual sections, with visual filters and measured design details.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
+- [Aditya Logs](../sites/adityalogs.md) — Monospace portfolio with inline emphasis, an activity sidebar and a compact, terminal-like visual language.
+- [Anjil](../sites/anjil-ink.md) — A restrained developer portfolio pairing a dithered travel photograph with a serif headline, concise biography and compact work timeline.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
+- [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
 - [AppShot Gallery](../sites/appshot-gallery.md) — Real App Store and Play Store listing screenshots and icons, filterable by genre, style and tone.
 - [Are.na](../sites/are-na.md) — Independent research-style bookmarking in connected channels, with a v3 REST API, llms.txt, official OAuth MCP server and CLI.
+- [Ashish Gogula](../sites/ashish-gogula.md) — A restrained design engineer portfolio that presents a short profile beside a row of live media and visual widgets.
+- [Athrix](../sites/athrix.md) — Developer portfolio with an editorial serif headline, dotted page grid and pale botanical accents.
 - [Auri (auri.ai)](../sites/auri.md) — Interactive demos of an AI keyboard, visual chat and notes show how assistant features can fit into everyday writing flows.
 - [Awesome Design Systems](../sites/awesome-design-systems.md) — A tagged index of public design systems that helps you compare their components, voice guidance, designer kits and source links.
 - [Awwwards](../sites/awwwards.md) — Paid-entry web design awards with jury-scored winners, interaction clips and studio credits; llms.txt plus a small awards API.
+- [Baymard Ecommerce Design Examples](../sites/baymard-ecommerce-design-examples.md) — Ecommerce page gallery with desktop, mobile and app captures annotated with research-based UX findings.
 - [before.click](../sites/before-click.md) — 361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.
 - [Behance](../sites/behance.md) — Adobe's portfolio network of long-form case studies for branding, type and UI; blocks AI crawlers and scripted access.
 - [Bencho](../sites/bencho.md) — 38 live, tunable React blocks whose "Copy prompt" hands an agent full source plus token-mapping instructions.
@@ -40,8 +48,11 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Best SaaS Web Designs](../sites/best-saas-web-designs.md) — Free, no-login catalogue of about 390 SaaS sites, each with desktop, mobile and OG captures, per-section crops, detected stack and a colour palette.
 - [Best Website Gallery](../sites/best-website-gallery.md) — One curator's 2,640 noteworthy sites since 2008, tagged by colour, features and shipped libraries; updated irregularly.
 - [Browse.cool](../sites/browse-cool.md) — A beta gallery of 25 high-craft, type-led sites and 194 screenshots and clips for mood-boarding.
+- [Case Study Club](../sites/case-study-club.md) — A weekly design publication with a restrained, print-like layout for long-form notes, portfolios and design links.
+- [Chánh Đại](../sites/chanh-dai.md) — A design-engineer portfolio framed by isometric line art, hand-drawn annotations and a deep catalogue of components, blocks and projects.
 - [Chloé Maillot](../sites/chloe-maillot.md) — A quiet design-engineer portfolio combining short editorial notes, a small component catalogue and a handmade image grid.
 - [Chrome Experiments](../sites/chrome-experiments.md) — Google's archive of creative browser experiments, with WebGL, sound and motion collections linked to their live demos.
+- [Chrome Music Lab](../sites/chrome-music-lab.md) — Google's hands-on music experiments, useful for studying playful grids, musical controls and sound-led visual interaction.
 - [closeit.fast](../sites/closeit-fast.md) — An e-signature product page with a clickable four-screen walkthrough and a step-by-step document lifecycle.
 - [Codrops](../sites/codrops.md) — Creative web demos, interaction tutorials and a handpicked site exhibition for expressive frontend design.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
@@ -51,12 +62,15 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Craft](../sites/craft-gustavo-fior.md) — Short design-engineering notes pair practical interface principles with small live demos and before-and-after comparisons.
 - [CSS Design Awards](../sites/css-design-awards.md) — A daily web-awards archive with jury ratings and links to featured sites, useful for current portfolio and campaign references.
 - [CSS Nectar](../sites/css-nectar.md) — A tagged website gallery with nominees, winners and daily selections that link from showcase cards to the live sites.
+- [CSSline](../sites/cssline.md) — A long-running web design gallery with tagged site previews, a tag browser and direct links to current sites.
 - [CTA Gallery](../sites/cta-gallery.md) — Calls-to-action pulled from real sites and classified by business function, with copywriting tips alongside.
+- [Cue](../sites/cue-design.md) — Hand-picked web interaction and UI component references with motion demos and prompts for recreating them.
 - [Curated](../sites/curated-design.md) — Live-site gallery filtered by industry and style, with a separate section library for comparing page blocks.
 - [Curations Supply](../sites/curations-supply.md) — Panda Network's directory of about 290 curated galleries, type, colour, UX and component sites, each with a logo, screenshot and one-line summary.
 - [Dark Design](../sites/dark-design.md) — Browse a large gallery of dark-themed websites with category filters, new or popular sorting, and direct links to live examples.
 - [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
 - [Data Viz Project](../sites/dataviz-project.md) — A visual index of chart forms with small examples and filters for comparing shape, purpose and input before choosing a display.
+- [Dead Simple Sites](../sites/dead-simple-sites.md) — A screenshot-led archive of minimal websites, with creator names and direct visit links in a sparse grid.
 - [DesEngs](../sites/desengs.md) — Dated feed of about 106 design-engineering links (tools, libraries, essays, jobs) plus site, minimal-site and designer galleries; MIT source.
 - [Design Engineer Tools](../sites/designengineer-tools.md) — One-page list of about 128 apps and sites a web design engineer uses, from galleries and component kits to 3D, capture and motion tools.
 - [Design Spells](../sites/design-spells.md) — 337 hand-picked recordings of micro-interactions and easter eggs; llms.txt plus a Markdown homepage via Accept header.
@@ -64,6 +78,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [DesignBookmark](../sites/design-bookmark.md) — Directory of about 2,500 design, dev and AI tools in 59 categories, with a page per tool, clear sponsor labels and an llms.txt with counts.
 - [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
 - [DesignEng](../sites/designeng-tools.md) — About 200 design-engineering links by category (component kits, icons, tools, agent skills, inspiration, people) with pricing filters and saves.
+- [DesignSorcery](../sites/design-sorcery.md) — Website gallery with scroll-video previews, screenshot modes, and filters for visual style, framework, color and industry.
 - [Designspiration](../sites/designspiration.md) — Image archive since 2010 with a five-colour palette on every save, colour search and Pro mood boards at $5/month.
 - [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
@@ -74,13 +89,16 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
 - [Fonts In Use](../sites/fonts-in-use.md) — Archive of real typography across web, print, identity and packaging, searchable by typeface, format, topic and visual tag.
 - [Footer Design](../sites/footer-design.md) — Gallery dedicated to footers, filtered by style, with an Editor's Choice flag.
+- [Framio](../sites/framio.md) — Full-page desktop and mobile captures of curated websites, with extracted palettes and filters for industry, style, colour and typeface.
 - [Godly](../sites/godly.md) — A dark, masonry-style gallery for websites, app screens, logos and UI details, with focused routes for page sections and visual assets.
+- [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
 - [Google Arts & Culture](../sites/google-arts-and-culture.md) — Museum collections and interactive exhibits for studying editorial art storytelling, high-resolution viewing and playful cultural experiences.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [Great Apps](../sites/great-apps.md) — A small, opinionated gallery of about 216 well-crafted indie iOS apps, from the curator of Sections.wtf.
 - [GreatStuff](../sites/greatstuff.md) — Framer-built archive of about 600 links for designers (tools, assets, galleries, AI, Mac apps), filterable by type, with a shuffle button.
 - [HexGL](../sites/hexgl.md) — A WebGL racing game whose landing page frames a playable 3D experience with a futuristic visual theme.
 - [Hover States](../sites/hover-states.md) — An archive of about 1,775 experimental sites since 2012, each with a short note on its interaction and credits.
+- [Httpster](../sites/httpster.md) — A large gallery of website captures with separate filters for visual styles and site types, linking each reference to its live source.
 - [Huemint](../sites/huemint.md) — Palette generator that previews generated colors in brand, website, gradient and illustration templates.
 - [Ichiban Motorcycle](../sites/ichiban-bike.md) — A single-site visual reference for restrained product storytelling with oversized color, a centered object and tightly ordered labels.
 - [Icon Museum](../sites/icon-museum.md) — A hand-picked archive of 245 crafted iOS app icons with copyable palettes, designer credits and redesign history.
@@ -88,27 +106,33 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Inspiration Grid](../sites/inspiration-grid.md) — Daily art, illustration, branding and typography magazine since 2011; broad moodboard fuel, little interface content.
 - [Inspora](../sites/inspora.md) — Small, fresh archive of recent design work tagged by industry, color and style.
 - [Insposite](../sites/insposite.md) — Hand-picked list of 70 inspiration sites, designer portfolios and tools for design engineers, with its data file public on GitHub.
+- [Interact Gallery](../sites/interact-gallery.md) — Screenshot-backed reviews of browser 3D configurators, virtual tours and interactive product experiences, sortable by UX and performance.
 - [Internet Artifacts](../sites/internet-artifacts-neal-fun.md) — Neal.fun's interactive timeline of early internet objects, built as a playful illustrated archive.
 - [Jessy In's Gallery](../sites/jessy-in-gallery.md) — Social art gallery built on MoMA's open collection, with shared two-player curation, live chat, postcards and WebMCP tools for browser agents.
+- [Juliette](../sites/juliette.md) — A designer’s portfolio pairing restrained editorial typography with a playful, layered collage of personal and project imagery.
 - [Kage](../sites/kage.md) — Real product pages and components tagged by style, with screenshot-backed design prompts and a public MCP server.
 - [Keel Workspace](../sites/keel-workspace.md) — A polished CRM workspace demo with dense pipeline metrics, source-backed agent decisions and keyboard-first review controls.
 - [Klim Type Foundry](../sites/klim.md) — Premium New Zealand foundry (Söhne, Tiempos) with reference-grade essays and use-based licensing from USD 60.
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
 - [Kombai Selects](../sites/kombai-selects.md) — A stream of interface and motion references selected from X, Dribbble and Behance, with links back to each creator's post.
+- [Kush Bothra](../sites/kush-bothra.md) — A product designer portfolio that treats its introduction as a playful canvas of oversized type, tilted labels and floating work previews.
 - [Lab01](../sites/lab01.md) — Sebastiano Guerriero's 12 live web-app UI experiments, each with its icons, fonts and palette listed.
 - [Landbook](../sites/land-book.md) — Veteran human-curated website gallery with 20,000+ sites and 200,000+ cropped sections, filters by colour, style and platform, and an experts directory.
 - [Landdding](../sites/landdding.md) — Daily feed of about 2,400 landing pages in 40 categories, with tag, colour and platform filters and an llms.txt; free browsing is metered.
 - [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
+- [Landing.Gallery](../sites/landing-gallery.md) — A landing page library with filters for page type, site builder and framework, plus desktop, mobile and OG image previews.
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section galleries with an MCP that returns screenshots, categories and source links to coding agents.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Layers](../sites/layers.md) — Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.
 - [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile websites, tagged by visual style, genre and interaction technique.
 - [LogoLounge](../sites/logo-lounge.md) — A searchable logo archive and open annual trend reports for researching identity marks, recurring forms and visual directions.
+- [Lusion](../sites/lusion.md) — A creative studio portfolio with sculptural 3D scenes, restrained typography and immersive project storytelling.
 - [Made in Webflow](../sites/made-in-webflow.md) — A searchable showcase of community websites, with category filters, live previews and an explicit cloneable-sites option.
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Marathon](../sites/marathonthegame.md) — Bungie's game launch site pairs cinematic footage with acid-lime typography and a dense, game-like navigation rail.
 - [mesh3d](../sites/mesh3d.md) — A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.
 - [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
+- [Minimalny](../sites/minimalny.md) — A minimal web design archive with category filters, search and compact records for each featured designer or studio.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motion](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
@@ -118,22 +142,31 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [NextWell Lab](../sites/nextwell-lab.md) — A portfolio lab of browser experiments with deep-linked 3D, interaction, game, clock and Pomodoro scenes.
 - [Nous Portal](../sites/nous-portal.md) — A dark AI service portal with a fixed resource rail, editorial typography, model catalog and clear subscription comparisons.
+- [Nur](../sites/nur.md) — Nur's product engineer portfolio pairs a watercolor pond illustration with a sparse introduction and inline type styling controls.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
+- [Özgür Güler](../sites/ozgur-guler.md) — A pixel-art portfolio framed as a small explorable village, with a compact welcome card and a separate professional view.
+- [ozzyx](../sites/ozzyx.md) — Design engineer portfolio that turns an oversized, mixed-weight text introduction into the main visual composition.
 - [PaceUI](../sites/paceui.md) — React components, animated crafts, page blocks and app templates with live previews and a shadcn-compatible registry.
+- [Page Flows](../sites/page-flows.md) — Recorded web and app journeys with annotated steps, screen references and UI examples.
 - [Pinterest](../sites/pinterest.md) — The mass-market mood-board network, with visual search and AI-image labels; API v5 needs review, official MCP not yet public.
 - [PlayCanvas](../sites/playcanvas.md) — A WebGL and WebGPU engine whose Explore catalog links to live games, product configurators and real-time graphics demos.
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
+- [PsudoKit](../sites/psudokit.md) — Dark portfolio with a restrained monospace system, thin orbital lines and a split profile and activity layout.
 - [Railway](../sites/railway.md) — A cloud platform with a polished illustrated homepage and a focused no-signup VM campaign page.
+- [Ratnesh Chipre](../sites/ratnesh-chipre.md) — A restrained design engineer portfolio with a small shadcn-compatible component registry and interactive demos.
 - [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
 - [Recent](../sites/recent-design.md) — Curated visual feeds for websites and other design work, with source links, style tags and a directory of third-party agent skills.
 - [Reelfolio](../sites/reelfolio.md) — A showreel maker whose template previews demonstrate ways to stage interface screenshots as short motion sequences.
+- [Reeoo](../sites/reeoo.md) — Searchable references for websites, apps, store screenshots, event cards, icons and tools, with filters for industry, colour, style and layout.
 - [Refs.Gallery](../sites/refs-gallery.md) — Dark 16:9 screenshot grid of 2,163 sites set entirely in a system stack, with display type tracked in at minus 0.06em.
 - [Ripplix](../sites/ripplix.md) — Real-app UI microinteractions and motion clips, searchable by product, interaction and platform.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.
 - [Saaspo](../sites/saaspo.md) — Free gallery of SaaS marketing pages you can filter by page type, industry, visual style, asset type and build stack, plus section and OG image views.
+- [Sahil Singh](../sites/sahil-singh.md) — A dark, grid-based design engineer portfolio with a command palette, live component examples, projects and writing.
 - [Samwrks](../sites/samwrks.md) — Sameer Singh's split-screen design portfolio, with a fixed personal introduction beside full-width case-study previews.
+- [Saurabh Sharma](../sites/srbh-site.md) — A compact developer portfolio that turns contribution history, pull requests, components and a dated learning log into browsable sections.
 - [Saved](../sites/saved.md) — Daily design gallery with filters for web, interfaces, branding, motion, 3D, illustration, typography and posters.
 - [SceneAI](../sites/sceneai.md) — Curated landing-page prompts, animated backgrounds and gradients for studying expressive web sections and motion.
 - [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
@@ -143,8 +176,11 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Shaderfrog](../sites/shaderfrog.md) — Graph editor that splices GLSL shaders into Three.js, Babylon and PlayCanvas materials, with a community gallery.
 - [ShiftBar](../sites/shiftbar.md) — A small macOS menu-bar utility with an interactive browser demo for hiding and restoring a chosen span of status icons.
 - [Shoogle](../sites/shoogle.md) — Searches items across all shadcn registries from the web, the CLI or a remote MCP server.
+- [Siddz](../sites/siddz.md) — Minimal portfolio with a faint graph-paper grid, compact uppercase labels and paired project previews.
 - [Site of Sites](../sites/site-of-sites.md) — Wix gallery of about 600 sites with a pure-blue serif display on white, 16:9 screenshot tiles and four crossable tag axes.
 - [Siteinspire](../sites/siteinspire.md) — A curated website gallery with filters for visual style, site type, subject and platform, plus screenshots and links to the live work.
+- [SiteThis](../sites/sitethis.md) — A visual archive of websites with category and style browsing, full-page previews and palette notes.
+- [Sora UI](../sites/sora-ui.md) — Animated React component registry with live motion demos and ready-made layout showcases.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
 - [Supaste](../sites/supaste.md) — A vivid product landing page that uses a simulated clipboard library to explain a native macOS utility.
 - [Superdesign](../sites/superdesign-skill.md) — Drives the hosted superdesign.dev canvas from your agent to branch drafts and compare models.
@@ -162,11 +198,15 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Uiverse](../sites/uiverse.md) — Community gallery of copy-paste CSS and Tailwind UI snippets.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
 - [Unicorn Studio](../sites/unicorn-studio.md) — A visual shader editor with a gallery of animated, interactive graphics that can be embedded on websites.
+- [Unsection](../sites/unsection.md) — A searchable gallery of real website sections, filterable by block type, visual style and industry.
 - [Untitled UI](../sites/untitled-ui.md) — Large Figma and React design system with a clean component browser and a clearly marked free subset alongside paid kits.
 - [UserOnboard](../sites/useronboard.md) — Annotated onboarding teardowns presented as navigable screen sequences, useful for studying flow, hierarchy and progressive disclosure.
 - [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
+- [Vucko](../sites/vucko.md) — A motion identity studio portfolio with vivid brand case studies and a modular, clock-and-project rail.
 - [Wall of Portfolios](../sites/wall-of-portfolios.md) — Curated product-designer portfolios filterable by company, role, experience and country, plus case studies and monthly picks.
 - [Web Design Clip](../sites/web-design-clip.md) — A Japanese website gallery with separate Japan, world, landing-page and smartphone collections plus color, layout, category and technology filters.
+- [Websites on Display](../sites/on-display.md) — A searchable web design archive with filters for style, type, typeface, color, technology and performance.
+- [Websitevice](../sites/websitevice.md) — A website inspiration directory organized by industry and site purpose, with short notes on why each example is notable.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 - [wwwtf.site](../sites/wwwtf.md) — A young gallery of 25 weird, WebGL-heavy experimental websites from the curator of Sections.wtf.
 - [Zoomquilt](../sites/zoomquilt.md) — A collaborative painting built as a seamless infinite zoom, useful for studying continuous visual transitions and layered surreal scenes.

@@ -24,7 +24,9 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [AI UX Playground](../sites/ai-ux-playground.md) — A practical AI-interface reference with named patterns, live interaction demos, product teardowns, and agent skills.
 - [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
 - [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
+- [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
 - [Auri (auri.ai)](../sites/auri.md) — Interactive demos of an AI keyboard, visual chat and notes show how assistant features can fit into everyday writing flows.
+- [Baymard Ecommerce Design Examples](../sites/baymard-ecommerce-design-examples.md) — Ecommerce page gallery with desktop, mobile and app captures annotated with research-based UX findings.
 - [before.click](../sites/before-click.md) — 361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
 - [closeit.fast](../sites/closeit-fast.md) — An e-signature product page with a clickable four-screen walkthrough and a step-by-step document lifecycle.
@@ -39,6 +41,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [editorcn](../sites/editorcn.md) — Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
 - [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
+- [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
 - [Google Arts & Culture](../sites/google-arts-and-culture.md) — Museum collections and interactive exhibits for studying editorial art storytelling, high-resolution viewing and playful cultural experiences.
 - [Great Apps](../sites/great-apps.md) — A small, opinionated gallery of about 216 well-crafted indie iOS apps, from the curator of Sections.wtf.
 - [Headless UI](../sites/headless-ui.md) — Tailwind Labs' small set of unstyled accessible React components, styled through data attributes.
@@ -53,6 +56,8 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motion Design Principles by Zajno](../sites/motion-zajno.md) — An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.
+- [Page Flows](../sites/page-flows.md) — Recorded web and app journeys with annotated steps, screen references and UI examples.
+- [Reeoo](../sites/reeoo.md) — Searchable references for websites, apps, store screenshots, event cards, icons and tools, with filters for industry, colour, style and layout.
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.
 - [Sona UI](../sites/sona-ui.md) — Small MIT set of accessible animated React components with an agent manifest, catalog, skill and read-only API through shadcn.
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
@@ -69,6 +74,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [UserOnboard](../sites/useronboard.md) — Annotated onboarding teardowns presented as navigable screen sequences, useful for studying flow, hierarchy and progressive disclosure.
 - [Vercel Web Design Guidelines](../sites/vercel-web-design-guidelines.md) — Tiny review skill that fetches Vercel's live Web Interface Guidelines each run and reports terse file:line findings.
 - [Web Quality Skills](../sites/addy-osmani-web-quality-skills.md) — Addy Osmani's six measurement-first skills: audit with Lighthouse and DevTools, fix, then re-run the same WCAG 2.2 audit.
+- [Websitevice](../sites/websitevice.md) — A website inspiration directory organized by industry and site purpose, with short notes on why each example is notable.
 - [Wondel.ai Skills](../sites/wondelai-skills.md) — Refactoring UI, Nielsen/Krug heuristics and web typography turned into scored audit skills.
 <!-- atlas:sources:end -->
 

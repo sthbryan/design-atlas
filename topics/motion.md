@@ -42,6 +42,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Canvas UI](../sites/canvas-ui.md) — 35 GPU effects over live, clickable HTML in WebGL or WebGPU, for six frameworks through a shadcn registry.
 - [Canvas UI Qwen Demo](../sites/canvas-ui-qwen-demo.md) — An interactive Canvas UI showcase that previews shader effects over live HTML and keeps its controls and install snippets beside each example.
 - [Chrome Experiments](../sites/chrome-experiments.md) — Google's archive of creative browser experiments, with WebGL, sound and motion collections linked to their live demos.
+- [Chrome Music Lab](../sites/chrome-music-lab.md) — Google's hands-on music experiments, useful for studying playful grids, musical controls and sound-led visual interaction.
 - [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
 - [Codrops](../sites/codrops.md) — Creative web demos, interaction tutorials and a handpicked site exhibition for expressive frontend design.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
@@ -49,6 +50,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Craft](../sites/craft-gustavo-fior.md) — Short design-engineering notes pair practical interface principles with small live demos and before-and-after comparisons.
 - [CSS Design Awards](../sites/css-design-awards.md) — A daily web-awards archive with jury ratings and links to featured sites, useful for current portfolio and campaign references.
 - [CSS Text Effects](../sites/css-text-effects.md) — 90 copy-ready animated text effects in pure CSS, with custom-property colour tokens.
+- [Cue](../sites/cue-design.md) — Hand-picked web interaction and UI component references with motion demos and prompts for recreating them.
 - [Cult UI](../sites/cult-ui.md) — Textured, distinctive marketing components and shader heroes built with Motion; paid blocks and templates.
 - [Design Engineer Tools](../sites/designengineer-tools.md) — One-page list of about 128 apps and sites a web design engineer uses, from galleries and component kits to 3D, capture and motion tools.
 - [Design Minis](../sites/design-minis.md) — 128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.
@@ -105,6 +107,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Lottie](../sites/lottiefiles.md) — Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.
 - [LottieFiles Motion Design Skill](../sites/lottiefiles-motion-design.md) — Motion-director skill: four personalities, duration and stagger tables, Disney principles adapted for UI.
 - [Lucide Animated](../sites/lucide-animated.md) — 467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.
+- [Lusion](../sites/lusion.md) — A creative studio portfolio with sculptural 3D scenes, restrained typography and immersive project storytelling.
 - [Made in Webflow](../sites/made-in-webflow.md) — A searchable showcase of community websites, with category filters, live previews and an explicit cloneable-sites option.
 - [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
 - [MagicPattern](../sites/magicpattern.md) — A toolbox of live pattern, mesh-gradient, shader and background editors with image and code exports.
@@ -153,6 +156,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.
 - [Sona UI](../sites/sona-ui.md) — Small MIT set of accessible animated React components with an agent manifest, catalog, skill and read-only API through shadcn.
+- [Sora UI](../sites/sora-ui.md) — Animated React component registry with live motion demos and ready-made layout showcases.
 - [Spell UI](../sites/spell-ui.md) — Small, refined MIT set strong on text reveal animations, playful buttons and light-ray backgrounds.
 - [Spline](../sites/spline.md) — Browser and desktop 3D tool with an event system, code and glTF export, and an MCP server in the desktop app.
 - [Swift Pieces](../sites/swift-pieces.md) — Animated SwiftUI components for iOS with live interaction previews, single-file source and agent installation paths.
@@ -177,6 +181,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Velora UI](../sites/velora-ui.md) — New MIT set of 100 animated shadcn components, 31 blocks and a free landing template, each with size and dependency counts.
 - [Vengeance UI](../sites/vengeance-ui.md) — MIT animated hover, text and scroll effects plus landing blocks for Next.js, installed with shadcn from a GitHub-hosted registry.
 - [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
+- [Vucko](../sites/vucko.md) — A motion identity studio portfolio with vivid brand case studies and a modular, clock-and-project rail.
 - [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 - [Zoomquilt](../sites/zoomquilt.md) — A collaborative painting built as a seamless infinite zoom, useful for studying continuous visual transitions and layered surreal scenes.
