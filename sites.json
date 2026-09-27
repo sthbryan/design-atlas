@@ -129,6 +129,32 @@
   ],
   "sites": [
     {
+      "slug": "100000-stars",
+      "path": "sites/100000-stars.md",
+      "title": "100,000 Stars",
+      "description": "Interactive Chrome Experiment that turns nearby stellar data into a navigable, cinematic star map.",
+      "url": "https://stars.chromeexperiments.com/",
+      "type": "gallery",
+      "formats": "interactive astronomy visualization · WebGL experience",
+      "topics": [
+        "data-viz",
+        "3d-and-shaders",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The experience is free to browse. No project-specific licence for the visualization or its data presentation was found; treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "dataviz-project",
+        "flourish",
+        "compute-toys"
+      ]
+    },
+    {
       "slug": "21st-dev",
       "path": "sites/21st-dev.md",
       "title": "21st.dev",
@@ -1980,6 +2006,31 @@
       ]
     },
     {
+      "slug": "chrome-experiments",
+      "path": "sites/chrome-experiments.md",
+      "title": "Chrome Experiments",
+      "description": "Google's archive of creative browser experiments, with WebGL, sound and motion collections linked to their live demos.",
+      "url": "https://experiments.withgoogle.com",
+      "type": "gallery",
+      "formats": "Chrome Experiments collection · WebGL tag · third-party live demos",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. Experiments are made by independent creators; reuse rights vary by project and are often not stated, so check the individual project before using its code or assets.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "threejs",
+        "book-of-shaders"
+      ]
+    },
+    {
       "slug": "circle-loaders",
       "path": "sites/circle-loaders.md",
       "title": "Circle Loaders",
@@ -2028,6 +2079,32 @@
         "before-click",
         "good-ui",
         "useronboard"
+      ]
+    },
+    {
+      "slug": "codrops",
+      "path": "sites/codrops.md",
+      "title": "Codrops",
+      "description": "Creative web demos, interaction tutorials and a handpicked site exhibition for expressive frontend design.",
+      "url": "https://tympanus.net/codrops/",
+      "type": "gallery",
+      "formats": "web design publication · demo library · tutorials · curated site exhibition",
+      "topics": [
+        "inspiration",
+        "motion",
+        "3d-and-shaders"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Codrops says downloadable demos are MIT licensed unless a demo says otherwise. Design freebies allow personal and commercial use but not redistribution or resale. Article text and featured site work have separate rights.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "awwwards",
+        "compute-toys",
+        "best-website-gallery"
       ]
     },
     {
@@ -4980,6 +5057,31 @@
       ]
     },
     {
+      "slug": "google-arts-and-culture",
+      "path": "sites/google-arts-and-culture.md",
+      "title": "Google Arts & Culture",
+      "description": "Museum collections and interactive exhibits for studying editorial art storytelling, high-resolution viewing and playful cultural experiences.",
+      "url": "https://artsandculture.google.com/",
+      "type": "gallery",
+      "formats": "museum collections · online exhibits · interactive experiments · 3D objects · virtual galleries",
+      "topics": [
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The public site is free to browse. Google’s Terms of Service apply; Google retains rights to its own content and partner institutions retain rights to their contributed content. Treat artworks and other media as look-only unless the individual asset grants reuse.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "internet-artifacts-neal-fun",
+        "refs-gallery",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "gpui-kit",
       "path": "sites/gpui-kit.md",
       "title": "GPUI Kit",
@@ -5344,6 +5446,32 @@
         "shadcn-ui",
         "headless-ui",
         "tremor"
+      ]
+    },
+    {
+      "slug": "hexgl",
+      "path": "sites/hexgl.md",
+      "title": "HexGL",
+      "description": "A WebGL racing game whose landing page frames a playable 3D experience with a futuristic visual theme.",
+      "url": "https://hexgl.bkcore.com/",
+      "type": "tool",
+      "formats": "browser-based WebGL racing game · source on GitHub",
+      "topics": [
+        "3d-and-shaders",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free browser demo. The source repository says its code and resources are MIT unless a file specifies otherwise; check individual assets because the repository notes exceptions",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "threejs",
+        "react-three-fiber",
+        "wwwtf",
+        "blender"
       ]
     },
     {
@@ -6084,6 +6212,31 @@
         "motion-primitives",
         "rareui",
         "bencho"
+      ]
+    },
+    {
+      "slug": "internet-artifacts-neal-fun",
+      "path": "sites/internet-artifacts-neal-fun.md",
+      "title": "Internet Artifacts",
+      "description": "Neal.fun's interactive timeline of early internet objects, built as a playful illustrated archive.",
+      "url": "https://neal.fun/internet-artifacts/",
+      "type": "gallery",
+      "formats": "interactive timeline · illustrated digital archive",
+      "topics": [
+        "inspiration",
+        "data-viz",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. The site provides a privacy policy but no general reuse licence for this experience or its artwork; treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "dataviz-project",
+        "flourish"
       ]
     },
     {
@@ -8825,6 +8978,30 @@
       ]
     },
     {
+      "slug": "playcanvas",
+      "path": "sites/playcanvas.md",
+      "title": "PlayCanvas",
+      "description": "A WebGL and WebGPU engine whose Explore catalog links to live games, product configurators and real-time graphics demos.",
+      "url": "https://playcanvas.com/explore",
+      "type": "gallery",
+      "formats": "interactive project gallery · games · product configurators · WebGL/WebGPU demos",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The engine and editor frontend are MIT-licensed and the engine is free; the hosted service has paid plans. Featured projects are created by others and have their own rights and terms.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "threejs",
+        "spline"
+      ]
+    },
+    {
       "slug": "playgrnd",
       "path": "sites/playgrnd.md",
       "title": "Playgrnd",
@@ -11412,6 +11589,32 @@
       ]
     },
     {
+      "slug": "the-pudding",
+      "path": "sites/the-pudding.md",
+      "title": "The Pudding",
+      "description": "Visual essays that turn data and reported stories into distinctive, interactive editorial experiences.",
+      "url": "https://pudding.cool/",
+      "type": "gallery",
+      "formats": "visual journalism · interactive essays · data storytelling",
+      "topics": [
+        "data-viz",
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Stories are free to read and the publication is supported through its studio, donations and merchandise. No general reuse licence for the essays or their code is stated; treat them as look-only references.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "dataviz-project",
+        "flourish",
+        "awwwards"
+      ]
+    },
+    {
       "slug": "theatrejs",
       "path": "sites/theatrejs.md",
       "title": "Theatre.js",
@@ -12960,6 +13163,30 @@
         "sections-wtf",
         "hover-states",
         "landing-love"
+      ]
+    },
+    {
+      "slug": "zoomquilt",
+      "path": "sites/zoomquilt.md",
+      "title": "Zoomquilt",
+      "description": "A collaborative painting built as a seamless infinite zoom, useful for studying continuous visual transitions and layered surreal scenes.",
+      "url": "https://zoomquilt.org",
+      "type": "gallery",
+      "formats": "continuous zoom artwork · keyboard-controlled navigation",
+      "topics": [
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to view. The artwork is a collaboration by named illustrators; the site does not state a reuse licence, so treat the images as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "design-motion-principles",
+        "inspiration-grid"
       ]
     }
   ]
