@@ -1291,6 +1291,36 @@
       ]
     },
     {
+      "slug": "atelier-ui",
+      "path": "sites/atelier-ui.md",
+      "title": "Atelier UI",
+      "description": "An interactive library of shader and motion components with a live preview, adjustable controls and copyable implementation prompts.",
+      "url": "https://atelier-ui.com/en",
+      "type": "component-library",
+      "formats": "React components · WebGL effects · CLI · prompts",
+      "topics": [
+        "components",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "cli",
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "The free catalogue is MIT licensed at review; Pro is listed at $79.99 one-time for additional components and Shader Studio.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "componentry",
+        "godly",
+        "shadcn-ui"
+      ]
+    },
+    {
       "slug": "athrix",
       "path": "sites/athrix.md",
       "title": "Athrix",
@@ -5740,6 +5770,33 @@
       ]
     },
     {
+      "slug": "gummble",
+      "path": "sites/gummble.md",
+      "title": "Gummble",
+      "description": "Explore app screenshots and complete mobile and web flows with filters for platform, category and interface pattern.",
+      "url": "https://gummble.com/apps",
+      "type": "gallery",
+      "formats": "app screenshots · UI elements · user flows · MCP",
+      "topics": [
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Free browsing is limited; paid web plans start at $9.99/month at review. Content is for design research and internal reference; scraping, bulk downloading, redistribution and competing datasets are prohibited. Third-party app designs remain their owners' property.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "appllama",
+        "page-flows",
+        "mobbin"
+      ]
+    },
+    {
       "slug": "hallmark",
       "path": "sites/hallmark.md",
       "title": "Hallmark",
@@ -9093,6 +9150,36 @@
       ]
     },
     {
+      "slug": "obsidianui",
+      "path": "sites/obsidianui.md",
+      "title": "ObsidianUI",
+      "description": "A free React component library whose live previews pair restrained documentation layouts with expressive hover and motion effects.",
+      "url": "https://obsidianui.dev/",
+      "type": "component-library",
+      "formats": "React components · Tailwind CSS · shadcn registry · API · llms.txt",
+      "topics": [
+        "components",
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "registry",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "The library is MIT licensed at review; third-party assets and dependencies retain their own licences.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "componentry",
+        "godly"
+      ]
+    },
+    {
       "slug": "odyssey-ui",
       "path": "sites/odyssey-ui.md",
       "title": "Odyssey UI",
@@ -9439,6 +9526,34 @@
         "libraries-dev-orbs",
         "paper-shaders",
         "reactbits"
+      ]
+    },
+    {
+      "slug": "originkit",
+      "path": "sites/originkit.md",
+      "title": "OriginKit",
+      "description": "An interactive component catalogue for shader, cursor, animation and other high-impact web effects, with live parameter controls.",
+      "url": "https://originkit.dev/",
+      "type": "component-library",
+      "formats": "interactive component catalogue · live property editor · MCP server",
+      "topics": [
+        "components",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Free, Pro and Ultimate tiers are listed at review. The terms restrict redistribution of components and templates; check their current conditions before reuse.",
+      "licence_class": "source-available",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "componentry",
+        "shadcn-ui",
+        "godly"
       ]
     },
     {
@@ -10939,6 +11054,33 @@
         "ui-camera",
         "backgrounds-supply",
         "craftwork"
+      ]
+    },
+    {
+      "slug": "screensdesign",
+      "path": "sites/screensdesign.md",
+      "title": "ScreensDesign",
+      "description": "Study real app onboarding, paywalls and product flows through searchable screens, chaptered videos and app breakdowns.",
+      "url": "https://screensdesign.com/library",
+      "type": "gallery",
+      "formats": "app screenshots · recorded flows · paywalls · onboarding · MCP",
+      "topics": [
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Some library previews are available without payment; further flow segments show an Unlock Pro gate. Pricing and reuse terms were not stated in the public pages reviewed.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "gummble",
+        "appllama",
+        "page-flows"
       ]
     },
     {
@@ -13909,6 +14051,32 @@
         "scrolltide",
         "supahero",
         "cta-gallery"
+      ]
+    },
+    {
+      "slug": "viewport-ui",
+      "path": "sites/viewport-ui.md",
+      "title": "Viewport UI",
+      "description": "A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.",
+      "url": "https://viewport-ui.design/",
+      "type": "gallery",
+      "formats": "visual reference gallery · web, desktop, mobile, watch, icon and motion categories",
+      "topics": [
+        "inspiration",
+        "components",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse licence or paid tier was stated at review; treat gallery records as look-only references.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "curated-design",
+        "site-of-sites",
+        "godly"
       ]
     },
     {
