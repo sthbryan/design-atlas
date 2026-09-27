@@ -1954,6 +1954,32 @@
       ]
     },
     {
+      "slug": "chloe-maillot",
+      "path": "sites/chloe-maillot.md",
+      "title": "Chloé Maillot",
+      "description": "A quiet design-engineer portfolio combining short editorial notes, a small component catalogue and a handmade image grid.",
+      "url": "https://chloemaillot.fr",
+      "type": "website",
+      "formats": "design engineer portfolio · writing · component examples",
+      "topics": [
+        "inspiration",
+        "components",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site is free to browse. No reuse licence was stated on the reviewed pages; treat the writing, components and artwork as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "component-gallery",
+        "siteinspire",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "circle-loaders",
       "path": "sites/circle-loaders.md",
       "title": "Circle Loaders",
@@ -2254,6 +2280,33 @@
         "3dicons",
         "designeer",
         "kage"
+      ]
+    },
+    {
+      "slug": "css-design-awards",
+      "path": "sites/css-design-awards.md",
+      "title": "CSS Design Awards",
+      "description": "A daily web-awards archive with jury ratings and links to featured sites, useful for current portfolio and campaign references.",
+      "url": "https://www.cssdesignawards.com",
+      "type": "gallery",
+      "formats": "web design awards · Website of the Day archive · nominee gallery",
+      "topics": [
+        "inspiration",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to browse. Site submissions cost $50 USD at review. CSSDA's terms reserve its original gallery content and prohibit copying its screenshots, descriptions, credits or other data; featured sites remain their creators' property.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "awwwards",
+        "siteinspire",
+        "a1-gallery",
+        "best-website-gallery"
       ]
     },
     {
@@ -7183,6 +7236,33 @@
       ]
     },
     {
+      "slug": "marathonthegame",
+      "path": "sites/marathonthegame.md",
+      "title": "Marathon",
+      "description": "Bungie's game launch site pairs cinematic footage with acid-lime typography and a dense, game-like navigation rail.",
+      "url": "https://marathonthegame.com/",
+      "type": "website",
+      "formats": "video game launch page · cinematic promotional experience",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "typography-and-styles",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The promotional site is free to browse. No reuse licence for its copy, visuals or branding was stated at review; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "awwwards",
+        "60fps",
+        "threejs"
+      ]
+    },
+    {
       "slug": "mascofast",
       "path": "sites/mascofast.md",
       "title": "Mascofast",
@@ -7355,6 +7435,33 @@
         "preline",
         "uiverse",
         "headless-ui"
+      ]
+    },
+    {
+      "slug": "mesh3d",
+      "path": "sites/mesh3d.md",
+      "title": "mesh3d",
+      "description": "A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.",
+      "url": "https://mesh3d.gallery",
+      "type": "gallery",
+      "formats": "curated Three.js and WebGL gallery · experiments · maker directory",
+      "topics": [
+        "3d-and-shaders",
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Browsing and submissions are free. The gallery's terms say its branding, design and original content belong to mesh3d, while featured sites remain their creators' property; no reuse licence for gallery material is stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "threejs",
+        "awwwards",
+        "60fps",
+        "shaderfrog"
       ]
     },
     {
@@ -7858,6 +7965,33 @@
         "tremor",
         "evil-charts",
         "shadcn-studio"
+      ]
+    },
+    {
+      "slug": "nextwell-lab",
+      "path": "sites/nextwell-lab.md",
+      "title": "NextWell Lab",
+      "description": "A portfolio lab of browser experiments with deep-linked 3D, interaction, game, clock and Pomodoro scenes.",
+      "url": "https://nextwell.top",
+      "type": "gallery",
+      "formats": "personal experiment gallery · CSS, Canvas, Three.js and WebGL demos",
+      "topics": [
+        "inspiration",
+        "motion",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The experiments are free to browse. A reuse licence was not stated on the reviewed pages; treat the demos as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "60fps",
+        "threejs",
+        "shaderfrog",
+        "awwwards"
       ]
     },
     {
@@ -9519,6 +9653,31 @@
         "saas-landing-page",
         "supahero",
         "landing-love"
+      ]
+    },
+    {
+      "slug": "samwrks",
+      "path": "sites/samwrks.md",
+      "title": "Samwrks",
+      "description": "Sameer Singh's split-screen design portfolio, with a fixed personal introduction beside full-width case-study previews.",
+      "url": "https://samwrks.in",
+      "type": "website",
+      "formats": "independent designer portfolio · work samples and case studies",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence or pricing terms were stated on the reviewed pages; treat its work as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "a1-gallery",
+        "siteinspire",
+        "awwwards"
       ]
     },
     {
