@@ -988,6 +988,31 @@
       ]
     },
     {
+      "slug": "awesome-design-systems",
+      "path": "sites/awesome-design-systems.md",
+      "title": "Awesome Design Systems",
+      "description": "A tagged index of public design systems that helps you compare their components, voice guidance, designer kits and source links.",
+      "url": "https://github.com/alexpate/awesome-design-systems",
+      "type": "directory",
+      "formats": "GitHub list of design systems and pattern libraries",
+      "topics": [
+        "components",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The repository is released under The Unlicense. Listed design systems keep their own terms and licences.",
+      "licence_class": "public-domain",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "design-system-checklist",
+        "component-gallery",
+        "shadcn-ui"
+      ]
+    },
+    {
       "slug": "awwwards",
       "path": "sites/awwwards.md",
       "title": "Awwwards",
@@ -4023,6 +4048,31 @@
         "rive",
         "figma",
         "v0"
+      ]
+    },
+    {
+      "slug": "free-icon-resources",
+      "path": "sites/free-icon-resources.md",
+      "title": "Free Icon Resources",
+      "description": "A categorized index of icon libraries, search tools, generators and learning references for choosing a specific icon source.",
+      "url": "https://github.com/noahelhadedy/free-icon-resources",
+      "type": "directory",
+      "formats": "GitHub list of icon sets, tools, Figma plugins and learning references",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The repository content is dedicated to the public domain under CC0 1.0. Each linked icon set or tool has its own licence and pricing, which must be checked at its source.",
+      "licence_class": "public-domain",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "iconify",
+        "lucide",
+        "tabler-icons"
       ]
     },
     {
