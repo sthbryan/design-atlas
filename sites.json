@@ -341,6 +341,32 @@
       ]
     },
     {
+      "slug": "aave-design",
+      "path": "sites/aave-design.md",
+      "title": "Aave Design & Engineering",
+      "description": "Aave Labs’ engineering article pairs live glass-effect controls with a cross-browser SVG displacement and WebGL implementation.",
+      "url": "https://aave.com/design",
+      "type": "documentation",
+      "topics": [
+        "3d-and-shaders",
+        "motion",
+        "components"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The public article and its examples are free to read. Aave's terms permit reasonable attributed documentation extracts for building or writing, but treat code samples as illustrative and reserve rights in the site and designs; check individual open-source licences for separately licensed components.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "liquid-glass",
+        "canvas-ui",
+        "paper-shaders",
+        "shadercn"
+      ]
+    },
+    {
       "slug": "abstract-by-wannathis",
       "path": "sites/abstract-by-wannathis.md",
       "title": "Abstract by Wannathis",
@@ -1114,6 +1140,33 @@
         "21st-dev",
         "vibeprompts",
         "open-design"
+      ]
+    },
+    {
+      "slug": "auri",
+      "path": "sites/auri.md",
+      "title": "Auri (auri.ai)",
+      "description": "Interactive demos of an AI keyboard, visual chat and notes show how assistant features can fit into everyday writing flows.",
+      "url": "https://auri.ai",
+      "type": "tool",
+      "formats": "AI keyboard · visual chat · voice dictation · smart notes",
+      "topics": [
+        "ai-interfaces",
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The keyboard and core writing features have a free plan with usage limits. Auri Pro is $10/month billed yearly or $17 month-to-month at review. The terms reserve rights in the app, content and design and prohibit copying or exploiting them without permission.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "aura",
+        "ai-ux-playground",
+        "appinspo",
+        "design-mobile-apps"
       ]
     },
     {
@@ -5933,6 +5986,32 @@
       ]
     },
     {
+      "slug": "keel-workspace",
+      "path": "sites/keel-workspace.md",
+      "title": "Keel Workspace",
+      "description": "A polished CRM workspace demo with dense pipeline metrics, source-backed agent decisions and keyboard-first review controls.",
+      "url": "https://keel-workspace.vercel.app",
+      "type": "design-workspace",
+      "topics": [
+        "data-viz",
+        "ai-interfaces",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "No public pricing or reuse licence was found at review; the live workspace is available as a visual reference only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "ai-ux-playground",
+        "dataviz-project",
+        "ui-playbook",
+        "design-mobile-apps"
+      ]
+    },
+    {
       "slug": "kibo-ui",
       "path": "sites/kibo-ui.md",
       "title": "Kibo UI",
@@ -7113,6 +7192,34 @@
         "preline",
         "uiverse",
         "headless-ui"
+      ]
+    },
+    {
+      "slug": "metalforge",
+      "path": "sites/metalforge.md",
+      "title": "MetalForge",
+      "description": "Live GPU-effect editor and gallery that previews shader looks and exports tuned code for SwiftUI, React Native, Android and web.",
+      "url": "https://metalforge.xyz",
+      "type": "tool",
+      "formats": "WebGPU and WebGL effects · Metal and SwiftUI export · Skia, AGSL and web variants",
+      "topics": [
+        "3d-and-shaders",
+        "motion",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The editor and previews are free. Pro is €9.99/month or €29 one-time at review and unlocks generated files and runnable projects. Its terms license generated effects for personal or commercial inclusion inside an app, but prohibit sharing or reselling the generated shader source; the site's own code is proprietary.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "canvas-ui",
+        "paper-shaders",
+        "shadercn",
+        "orbkit",
+        "abstract-by-wannathis"
       ]
     },
     {
@@ -9196,6 +9303,60 @@
         "saas-landing-page",
         "supahero",
         "landing-love"
+      ]
+    },
+    {
+      "slug": "saved",
+      "path": "sites/saved.md",
+      "title": "Saved",
+      "description": "Daily design gallery with filters for web, interfaces, branding, motion, 3D, illustration, typography and posters.",
+      "url": "https://saved.design",
+      "type": "gallery",
+      "topics": [
+        "inspiration",
+        "motion",
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The public gallery is viewable without an account. A Subscribe control is present, but no pricing or reuse licence was found at review; treat featured work as look-only and retain its creator attribution.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "best-website-gallery",
+        "inspiration-grid",
+        "designspiration",
+        "curated-design"
+      ]
+    },
+    {
+      "slug": "sceneai",
+      "path": "sites/sceneai.md",
+      "title": "SceneAI",
+      "description": "Curated landing-page prompts, animated backgrounds and gradients for studying expressive web sections and motion.",
+      "url": "https://sceneai.art",
+      "type": "asset-library",
+      "formats": "landing-page and section prompts · animated backgrounds · gradients",
+      "topics": [
+        "inspiration",
+        "assets",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free assets are available to registered users; paid access is $49 monthly or $199 one-time at review. The licence allows personal and commercial projects but prohibits standalone redistribution; premium asset access ends with a monthly subscription, while lifetime access makes downloaded assets perpetual. Prompts are premium.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "sections-wtf",
+        "animated-shadcn-ui",
+        "backgrounds-supply",
+        "aceternity-ui"
       ]
     },
     {
