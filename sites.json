@@ -2252,6 +2252,34 @@
       ]
     },
     {
+      "slug": "craft-gustavo-fior",
+      "path": "sites/craft-gustavo-fior.md",
+      "title": "Craft",
+      "description": "Short design-engineering notes pair practical interface principles with small live demos and before-and-after comparisons.",
+      "url": "https://craft.gustavofior.com",
+      "type": "documentation",
+      "formats": "design-engineering notes · interactive demos · installable agent skill",
+      "topics": [
+        "motion",
+        "typography-and-styles",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "The public GitHub repository states MIT for the project; Inter and Redaction 35 fonts retain their SIL Open Font Licences.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "design-motion-principles",
+        "emil-kowalski-skills",
+        "modern-css"
+      ]
+    },
+    {
       "slug": "craftwork",
       "path": "sites/craftwork.md",
       "title": "Craftwork",
@@ -2559,6 +2587,30 @@
         "flowbite",
         "shadcn-ui",
         "headless-ui"
+      ]
+    },
+    {
+      "slug": "dark-design",
+      "path": "sites/dark-design.md",
+      "title": "Dark Design",
+      "description": "Browse a large gallery of dark-themed websites with category filters, new or popular sorting, and direct links to live examples.",
+      "url": "https://www.dark.design",
+      "type": "gallery",
+      "formats": "dark website gallery · category filters · free templates",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The gallery is free to browse and offers a separate free-template section; no reuse licence for gallery captures or site content was found.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "dark-mode-design",
+        "curated-design",
+        "a1-gallery"
       ]
     },
     {
@@ -4098,6 +4150,31 @@
         "design-md-chrome",
         "design-dna",
         "stitch-skills"
+      ]
+    },
+    {
+      "slug": "eyecannndy",
+      "path": "sites/eyecannndy.md",
+      "title": "Eyecandy",
+      "description": "Browse named visual techniques through short explanations and example clips, useful for motion and art-direction references.",
+      "url": "https://eyecannndy.com",
+      "type": "gallery",
+      "formats": "filmmaking technique library · clips and GIFs · breakdowns",
+      "topics": [
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; the terms describe the footage as copyrighted material for educational fair use and warn visitors not to redistribute it without permission.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "60fps",
+        "design-spells",
+        "transitions-dev"
       ]
     },
     {
@@ -8105,6 +8182,31 @@
       "related": [
         "magicpattern",
         "grainient"
+      ]
+    },
+    {
+      "slug": "nous-portal",
+      "path": "sites/nous-portal.md",
+      "title": "Nous Portal",
+      "description": "A dark AI service portal with a fixed resource rail, editorial typography, model catalog and clear subscription comparisons.",
+      "url": "https://portal.nousresearch.com",
+      "type": "tool",
+      "formats": "AI service portal · model catalog · subscription dashboard",
+      "topics": [
+        "ai-interfaces",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "A free plan is listed alongside paid monthly plans. The footer displays “MIT License,” while the Terms of Service reserve rights in the visual interface, graphics, design and other platform materials.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "ai-ux-playground",
+        "shape-of-ai",
+        "designmd"
       ]
     },
     {
