@@ -10,7 +10,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/build.mjs --check && npm test --silent",
-    "test": "node --test scripts/search.test.mjs"
+    "test": "node --test scripts/search.test.mjs scripts/design-md.test.mjs"
   },
   "devDependencies": {
     "yaml": "2.9.1"

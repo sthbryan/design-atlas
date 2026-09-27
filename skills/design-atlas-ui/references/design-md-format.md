@@ -5,6 +5,8 @@ The Design Atlas DESIGN.md: one markdown file at the project root that records t
 ## Contents
 
 - [Rules](#rules)
+- [Value types](#value-types)
+- [Colors table and contrast pairs](#colors-table-and-contrast-pairs)
 - [Sections](#sections)
 - [Template](#template)
 - [Worked excerpt](#worked-excerpt)
@@ -15,17 +17,47 @@ The Design Atlas DESIGN.md: one markdown file at the project root that records t
 ## Rules
 
 - One DESIGN.md per project, at the root. Add one line to `AGENTS.md` or `CLAUDE.md` pointing to it, so every agent finds it.
-- Front matter uses only the spec keys: `version`, `name`, `description`, `colors`, `typography`, `rounded`, `spacing` and `components`. Motion, breakpoints and accessibility targets live in body tables, because unknown keys break some parsers.
+- Front matter uses all eight spec keys and no others: `version`, `name`, `description`, `colors`, `typography`, `rounded`, `spacing` and `components`. Motion, breakpoints and accessibility targets live in body tables, because unknown keys break some parsers.
 - Front-matter colours are sRGB hex strings, which every parser in the atlas comparison reads. Record the OKLCH source beside each one in the Colors table.
-- Components point at tokens by path (`"{colors.ink}"`) and never repeat a raw value.
-- The front matter holds the default theme. Other themes reuse the same token names in the Colors table.
+- Components point at tokens by path (`"{colors.ink}"`) and never repeat a raw colour, type role or radius. Only the dimension properties (`padding`, `size`, `height`, `width`) may hold raw px values.
+- Every `{group.token}` reference, in the front matter or the body, resolves to a token that exists.
+- The front matter holds the default theme, which is the first theme column of the Colors table. Other themes reuse the same token names in the columns after it.
 - Measured values go in tokens. Uncertainty goes in prose, marked `inferred`, and a value you could not measure is written `not measured`, never guessed.
 - Do's and Don'ts are hard limits a reviewer can check ("one filled button per view"), not advice ("keep it clean").
-- Values that differ from `references/resolved-conflicts.md` are listed under Overrides with a reason, so later agents follow the project instead of the default.
+- Values that differ from `references/resolved-conflicts.md` are listed under Overrides with a reason, so later agents follow the project instead of the default. A motion token in the Motion table whose value differs from the token block there is named in an Overrides row.
+- No HTML comments. Anything worth saying goes in the prose.
+
+The Design Atlas repository checks its own DESIGN.md files against these rules with `npm run check`. Other projects can follow the same rules by hand or with their own linter.
+
+## Value types
+
+| Key | Type |
+|---|---|
+| `version` | The string `alpha` until the spec publishes another version |
+| `name`, `description` | One-line strings |
+| `colors.<token>` | A `"#RRGGBB"` string, six hex digits, no alpha |
+| `typography.<role>` | A map with exactly `fontFamily` (string, a stack is allowed), `fontSize` (px), `fontWeight` (integer 100–1000), `lineHeight` (unitless number) and `letterSpacing` (em) |
+| `rounded.<step>`, `spacing.<step>` | A px value such as `8px` |
+| `components.<name>` | A map using only `backgroundColor` and `textColor` (`{colors.*}`), `typography` (`{typography.*}`), `rounded` (`{rounded.*}`), and `padding`, `size`, `height` and `width` (px values or `{spacing.*}`) |
+
+Token, role and component names use lowercase letters, digits and hyphens. States and variants are separate components named with a suffix, such as `link-hover` or `chip-selected`.
+
+## Colors table and contrast pairs
+
+The Colors table is the one place that holds every theme, so it is also where contrast is declared.
+
+- Columns, in order: `Token`, one column per theme (`Light`, `Dark`, or just one for a single-theme system), `OKLCH (<default theme>)`, `Job`, `Pairs (measured)`.
+- One row per front-matter colour, and no rows for anything else. Every theme cell is a `#RRGGBB` value, and the first theme column equals the front matter.
+- The OKLCH cell is `L C H` or `oklch(L C H)`, with L from 0 to 1. It must round to the default theme's hex within 0.01 in L and C, and within 5° of hue when chroma is 0.02 or more.
+- A row's Pairs cell declares the pairs where that token is the foreground, separated by semicolons. Each pair reads `<kind> on <background token> <ratio>:1`, with one ratio per theme column separated by ` / `, for example `text on bg 15.10:1 / 14.87:1`.
+- The kind sets the WCAG 2.2 floor from C4 and T3 in `references/resolved-conflicts.md`: `text` needs 4.5:1, `large` (large text) needs 3:1 and `ui` (control boundaries, focus rings, meaningful icons and chart marks) needs 3:1.
+- Ratios are computed with the WCAG formula in `references/color.md` and written with two decimals. A declared ratio that differs from the computed one by more than 0.01 is wrong, and so is any pair below its floor in any theme.
+- Every component with both `textColor` and `backgroundColor` is a pair too. It must reach 4.5:1 in every theme column, or 3:1 when its `typography` role is large text (T3).
+- Background tokens, such as `bg` and `surface`, leave the Pairs cell empty.
 
 ## Sections
 
-Keep this order. Omit a section only when it truly does not apply, and say so in one line.
+Keep these fifteen headings, in this order, under one H1 title. When a section truly does not apply, keep its heading and say why in one line. Use H3 headings for anything inside a section, never another H2.
 
 | # | Section | What it holds |
 |---|---|---|
@@ -87,6 +119,7 @@ components:
 ## Colors
 | Token | Light | Dark | OKLCH (light) | Job | Pairs (measured) |
 |---|---|---|---|---|---|
+| <token> | <#RRGGBB> | <#RRGGBB> | <L C H> | <job> | <text on bg 0.00:1 / 0.00:1> |
 
 ## Typography
 - Families: <family> (<licence>, <reason>); <mono family> (<licence>, <reason>)
@@ -154,7 +187,7 @@ components:
 
 ## Worked excerpt
 
-A product surface for a fictional tide planner. Contrast values were measured with the WCAG formula from the hex values shown.
+A product surface for a fictional tide planner, showing the front matter and six of the fifteen sections. Contrast values were computed with the WCAG formula from the hex values shown.
 
 ```markdown
 ---
@@ -224,13 +257,15 @@ components:
 ## Colors
 | Token | Light | Dark | OKLCH (light) | Job | Pairs (measured) |
 |---|---|---|---|---|---|
-| ink | #11212C | #EBEFF2 | 0.24 0.03 240 | Body text, primary fill | 15.79:1 on paper; dark 15.96:1 |
-| paper | #F7FBFD | #0B151C | 0.985 0.005 240 | Page background | |
-| surface | #EDF3F7 | #131E26 | 0.96 0.008 240 | Raised panels | ink 14.69:1; dark 14.63:1 |
-| text-muted | #545F68 | #A1ADB5 | 0.48 0.02 240 | Secondary text | 6.28:1 on paper, 5.84:1 on surface |
-| control-border | #76828B | #67737C | 0.60 0.02 240 | Input and toggle edges | 3.78:1 on paper; dark 3.80:1 |
-| caution | #B51C79 | #F080B8 | 0.52 0.2 350 | Below-draft warnings only | 5.92:1 on paper; on-caution text 6.16:1 |
-| tide | #287AA3 | #5BB0D7 | 0.55 0.1 235 | Tide curve stroke | 4.58:1 on paper; dark 7.59:1 |
+| ink | #11212C | #EBEFF2 | 0.24 0.03 240 | Body text, primary fill | text on paper 15.79:1 / 15.96:1; text on surface 14.69:1 / 14.63:1 |
+| paper | #F7FBFD | #0B151C | 0.985 0.005 240 | Page background, text on ink | text on ink 15.79:1 / 15.96:1 |
+| surface | #EDF3F7 | #131E26 | 0.96 0.008 240 | Raised panels | |
+| line | #D1D9DF | #272F35 | 0.88 0.012 240 | Decorative dividers only | |
+| text-muted | #545F68 | #A1ADB5 | 0.48 0.02 240 | Secondary text | text on paper 6.28:1 / 8.05:1; text on surface 5.84:1 / 7.38:1 |
+| control-border | #76828B | #67737C | 0.60 0.02 240 | Input and toggle edges | ui on paper 3.78:1 / 3.80:1; ui on surface 3.52:1 / 3.48:1 |
+| caution | #B51C79 | #F080B8 | 0.52 0.2 350 | Below-draft warnings only | text on paper 5.92:1 / 7.45:1 |
+| on-caution | #FFFFFF | #260B19 | 1 0 0 | Text on the caution banner | text on caution 6.16:1 / 7.41:1 |
+| tide | #287AA3 | #5BB0D7 | 0.55 0.1 235 | Tide curve stroke | ui on paper 4.58:1 / 7.59:1 |
 
 ## Motion
 | Token | Value | Used for |
@@ -243,7 +278,7 @@ components:
 ## Overrides
 | Row | Project value | Reason |
 |---|---|---|
-| C5 | Light only | Read in direct sunlight; a dark theme ships later behind a setting |
+| C5 | Light by default; dark only from the in-app setting, never from `prefers-color-scheme` | Read in direct sunlight, where a phone's system dark mode would hide the chart |
 
 ## References
 | Atlas page (`sites/<slug>.md`) | Live example and visual evidence | What we adapted | Licence class | Reviewed |
@@ -254,7 +289,7 @@ components:
 
 ## Provenance
 - Written: 2026-09-25 by the design agent, approved by the product owner.
-- Measured: all contrast pairs, from the hex values above.
+- Measured: all contrast pairs, computed from the hex values above.
 - Inferred: control heights, pending a test with gloves on.
 - Unverified: individual sites from Dark Mode Design were not opened.
 ```

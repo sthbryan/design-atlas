@@ -1,0 +1,290 @@
+import { parse } from 'yaml';
+
+export const SECTIONS = [
+  'Overview', 'Colors', 'Typography', 'Layout and spacing', 'Elevation and depth', 'Shapes', 'Components',
+  'Motion', 'Accessibility', 'Responsive behaviour', "Do's and Don'ts", 'Overrides', 'References',
+  'Agent guide', 'Provenance',
+];
+export const KEYS = ['version', 'name', 'description', 'colors', 'typography', 'rounded', 'spacing', 'components'];
+const TYPE_KEYS = ['fontFamily', 'fontSize', 'fontWeight', 'lineHeight', 'letterSpacing'];
+const COMPONENT_KEYS = {
+  backgroundColor: 'colors', textColor: 'colors', typography: 'typography', rounded: 'rounded',
+  padding: 'spacing', size: 'spacing', height: 'spacing', width: 'spacing',
+};
+const DIMENSIONS = new Set(['padding', 'size', 'height', 'width']);
+export const THRESHOLDS = { text: 4.5, large: 3, ui: 3 };
+const HEX = /^#[0-9A-Fa-f]{6}$/;
+const PX = /^\d+(\.\d+)?px$/;
+const EM = /^-?\d+(\.\d+)?em$/;
+const TOKEN = /^[a-z0-9][a-z0-9-]*$/;
+const REF = /^\{([a-z]+)\.([a-z0-9][a-z0-9-]*)\}$/;
+const PAIR = /^(text|large|ui) on ([a-z0-9][a-z0-9-]*) (\d+\.\d{2}):1((?: \/ \d+\.\d{2}:1)*)$/;
+
+const channel = (v) => (v <= 0.04045 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4);
+const linear = (hex) => [1, 3, 5].map((i) => channel(parseInt(hex.slice(i, i + 2), 16) / 255));
+
+export function luminance(hex) {
+  const [r, g, b] = linear(hex);
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+}
+
+export function contrast(a, b) {
+  const [hi, lo] = [luminance(a), luminance(b)].sort((x, y) => y - x);
+  return (hi + 0.05) / (lo + 0.05);
+}
+
+export function oklch(hex) {
+  const [r, g, b] = linear(hex);
+  const l = Math.cbrt(0.4122214708 * r + 0.5363325363 * g + 0.0514459929 * b);
+  const m = Math.cbrt(0.2119034982 * r + 0.6806995451 * g + 0.1073969566 * b);
+  const s = Math.cbrt(0.0883024619 * r + 0.2817188376 * g + 0.6299787005 * b);
+  const L = 0.2104542553 * l + 0.793617785 * m - 0.0040720468 * s;
+  const A = 1.9779984951 * l - 2.428592205 * m + 0.4505937099 * s;
+  const B = 0.0259040371 * l + 0.7827717662 * m - 0.808675766 * s;
+  return [L, Math.hypot(A, B), ((Math.atan2(B, A) * 180) / Math.PI + 360) % 360];
+}
+
+function parseOklch(text) {
+  const inner = text.replace(/^oklch\((.*)\)$/, '$1').trim();
+  const parts = inner.split(/\s+/);
+  if (parts.length !== 3) return null;
+  const [l, c, h] = parts;
+  const L = l.endsWith('%') ? Number(l.slice(0, -1)) / 100 : Number(l);
+  const values = [L, Number(c), Number(h)];
+  return values.every((v) => Number.isFinite(v)) && L >= 0 && L <= 1 && values[1] >= 0 ? values : null;
+}
+
+const isLarge = (role) => {
+  if (!role) return false;
+  const size = parseFloat(role.fontSize);
+  return size >= 24 || (size >= 18.66 && role.fontWeight >= 700);
+};
+
+const stripCode = (body) => body.replace(/^```[\s\S]*?^```[^\n]*$/gm, '');
+const cells = (line) => line.trim().replace(/^\|/, '').replace(/\|$/, '').split(/(?<!\\)\|/).map((c) => c.trim().replace(/^`(.*)`$/, '$1'));
+
+function sectionText(body, name) {
+  const match = body.match(new RegExp(`^## ${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\n([\\s\\S]*?)(?=^## |(?![\\s\\S]))`, 'm'));
+  return match ? match[1] : '';
+}
+
+function firstTable(text) {
+  const lines = text.split('\n');
+  const start = lines.findIndex((l) => l.trim().startsWith('|'));
+  if (start < 0 || !/^\|?\s*:?-{3,}/.test(lines[start + 1]?.trim() ?? '')) return null;
+  const rows = [];
+  for (const line of lines.slice(start + 2)) {
+    if (!line.trim().startsWith('|')) break;
+    rows.push(cells(line));
+  }
+  return { header: cells(lines[start]), rows };
+}
+
+export function parseMotionTokens(css) {
+  return Object.fromEntries([...css.matchAll(/^\s*(--[a-z0-9-]+):\s*([^;]+);/gm)].map((m) => [m[1], m[2].trim()]));
+}
+
+function checkFrontMatter(data, err) {
+  for (const key of KEYS) if (data[key] === undefined) err(`front matter is missing "${key}"`);
+  for (const key of Object.keys(data)) if (!KEYS.includes(key)) err(`front matter key "${key}" is not in the format (allowed: ${KEYS.join(', ')})`);
+  for (const key of ['version', 'name', 'description']) {
+    if (data[key] !== undefined && (typeof data[key] !== 'string' || !data[key].trim() || data[key].includes('\n'))) err(`${key} must be a one-line string`);
+  }
+  const groups = {};
+  for (const key of ['colors', 'typography', 'rounded', 'spacing', 'components']) {
+    const value = data[key];
+    if (value === undefined) continue;
+    if (!value || typeof value !== 'object' || Array.isArray(value) || !Object.keys(value).length) {
+      err(`${key} must be a non-empty map`);
+      continue;
+    }
+    groups[key] = value;
+    for (const name of Object.keys(value)) if (!TOKEN.test(name)) err(`${key}.${name}: token names use lowercase letters, digits and hyphens`);
+  }
+  for (const [name, value] of Object.entries(groups.colors ?? {})) {
+    if (typeof value !== 'string' || !HEX.test(value)) err(`colors.${name}: "${value}" is not a #RRGGBB hex string`);
+  }
+  for (const [name, role] of Object.entries(groups.typography ?? {})) {
+    if (!role || typeof role !== 'object' || Array.isArray(role)) {
+      err(`typography.${name} must be a map of ${TYPE_KEYS.join(', ')}`);
+      continue;
+    }
+    for (const key of TYPE_KEYS) if (role[key] === undefined) err(`typography.${name} is missing ${key}`);
+    for (const key of Object.keys(role)) if (!TYPE_KEYS.includes(key)) err(`typography.${name}.${key} is not in the format (allowed: ${TYPE_KEYS.join(', ')})`);
+    if (role.fontFamily !== undefined && (typeof role.fontFamily !== 'string' || !role.fontFamily.trim())) err(`typography.${name}.fontFamily must be a string`);
+    if (role.fontSize !== undefined && !PX.test(String(role.fontSize))) err(`typography.${name}.fontSize "${role.fontSize}" must be in px`);
+    if (role.fontWeight !== undefined && !(Number.isInteger(role.fontWeight) && role.fontWeight >= 100 && role.fontWeight <= 1000)) err(`typography.${name}.fontWeight must be an integer from 100 to 1000`);
+    if (role.lineHeight !== undefined && !(typeof role.lineHeight === 'number' && role.lineHeight > 0 && role.lineHeight <= 3)) err(`typography.${name}.lineHeight must be a unitless number`);
+    if (role.letterSpacing !== undefined && !EM.test(String(role.letterSpacing))) err(`typography.${name}.letterSpacing "${role.letterSpacing}" must be in em`);
+  }
+  for (const key of ['rounded', 'spacing']) {
+    for (const [name, value] of Object.entries(groups[key] ?? {})) if (!PX.test(String(value))) err(`${key}.${name}: "${value}" must be in px`);
+  }
+  for (const [name, component] of Object.entries(groups.components ?? {})) {
+    if (!component || typeof component !== 'object' || Array.isArray(component) || !Object.keys(component).length) {
+      err(`components.${name} must be a non-empty map`);
+      continue;
+    }
+    for (const [prop, value] of Object.entries(component)) {
+      const group = COMPONENT_KEYS[prop];
+      if (!group) {
+        err(`components.${name}.${prop} is not in the format (allowed: ${Object.keys(COMPONENT_KEYS).join(', ')})`);
+        continue;
+      }
+      const ref = typeof value === 'string' ? value.match(REF) : null;
+      if (DIMENSIONS.has(prop) && !ref) {
+        if (!/^\d+(\.\d+)?px( \d+(\.\d+)?px){0,3}$/.test(String(value))) err(`components.${name}.${prop} "${value}" must be px values or a {spacing.*} reference`);
+        continue;
+      }
+      if (!ref) err(`components.${name}.${prop} must be a {${group}.*} reference, not a raw value`);
+      else if (ref[1] !== group) err(`components.${name}.${prop} points at {${ref[1]}.${ref[2]}}; it takes a {${group}.*} token`);
+    }
+  }
+  return groups;
+}
+
+function checkReferences(value, path, groups, err) {
+  if (typeof value === 'string') {
+    for (const [whole, group, token] of value.matchAll(/\{([a-z]+)\.([a-z0-9][a-z0-9-]*)\}/g)) {
+      if (!groups[group] || groups[group][token] === undefined) err(`${path}: ${whole} does not resolve`);
+    }
+  } else if (value && typeof value === 'object') {
+    for (const [key, child] of Object.entries(value)) checkReferences(child, path ? `${path}.${key}` : key, groups, err);
+  }
+}
+
+function checkColors(body, groups, err) {
+  const colors = groups.colors ?? {};
+  const table = firstTable(sectionText(body, 'Colors'));
+  if (!table) {
+    err('Colors needs a table starting with a Token column');
+    return null;
+  }
+  const { header, rows } = table;
+  const oklchAt = header.findIndex((h) => /^OKLCH\b/.test(h));
+  const pairsAt = header.findIndex((h) => /^Pairs\b/.test(h));
+  if (header[0] !== 'Token' || oklchAt < 2 || !header.includes('Job') || pairsAt < 0) {
+    err('Colors table header must be: Token, one column per theme, OKLCH (<theme>), Job, Pairs (measured)');
+    return null;
+  }
+  const themes = header.slice(1, oklchAt);
+  const values = {};
+  for (const row of rows) {
+    const token = row[0];
+    if (!colors[token]) {
+      err(`Colors table row "${token}" is not a front-matter colour`);
+      continue;
+    }
+    if (values[token]) err(`Colors table lists "${token}" twice`);
+    values[token] = themes.map((theme, i) => {
+      const hex = row[1 + i] ?? '';
+      if (!HEX.test(hex)) err(`Colors table ${token} ${theme}: "${hex}" is not a #RRGGBB hex value`);
+      return hex.toUpperCase();
+    });
+    if (HEX.test(values[token][0]) && values[token][0] !== colors[token].toUpperCase()) err(`Colors table ${token} ${themes[0]} is ${values[token][0]}, but the front matter says ${colors[token]}`);
+    const source = parseOklch(row[oklchAt] ?? '');
+    if (!source) err(`Colors table ${token}: OKLCH "${row[oklchAt] ?? ''}" must be "L C H" or oklch(L C H)`);
+    else if (HEX.test(values[token][0])) {
+      const [L, C, H] = oklch(values[token][0]);
+      const dh = Math.abs(((H - source[2] + 540) % 360) - 180);
+      if (Math.abs(L - source[0]) > 0.01 || Math.abs(C - source[1]) > 0.01 || (C >= 0.02 && dh > 5)) {
+        err(`Colors table ${token}: OKLCH ${row[oklchAt]} does not match ${values[token][0]} (computed ${L.toFixed(3)} ${C.toFixed(3)} ${H.toFixed(0)})`);
+      }
+    }
+  }
+  for (const token of Object.keys(colors)) if (!values[token]) err(`colour "${token}" has no row in the Colors table`);
+  for (const row of rows) {
+    const token = row[0];
+    const cell = row[pairsAt] ?? '';
+    if (!values[token] || !cell) continue;
+    for (const entry of cell.split(';').map((e) => e.trim()).filter(Boolean)) {
+      const match = entry.match(PAIR);
+      if (!match) {
+        err(`Colors table ${token}: pair "${entry}" must read "<text|large|ui> on <token> <ratio>:1${themes.length > 1 ? ' / <ratio>:1' : ''}"`);
+        continue;
+      }
+      const [, kind, other, first, rest] = match;
+      const declared = [first, ...[...rest.matchAll(/(\d+\.\d{2}):1/g)].map((m) => m[1])].map(Number);
+      if (!values[other]) {
+        err(`Colors table ${token}: pair "${entry}" names unknown colour "${other}"`);
+        continue;
+      }
+      if (declared.length !== themes.length) {
+        err(`Colors table ${token}: pair "${entry}" needs one ratio per theme (${themes.join(', ')})`);
+        continue;
+      }
+      themes.forEach((theme, i) => {
+        const [fg, bg] = [values[token][i], values[other][i]];
+        if (!HEX.test(fg) || !HEX.test(bg)) return;
+        const actual = contrast(fg, bg);
+        if (Math.abs(actual - declared[i]) > 0.01) err(`Colors table ${token} on ${other} (${theme}): declared ${declared[i].toFixed(2)}:1, computed ${actual.toFixed(2)}:1`);
+        if (actual < THRESHOLDS[kind]) err(`Colors table ${token} on ${other} (${theme}): ${actual.toFixed(2)}:1 is below ${THRESHOLDS[kind]}:1 for ${kind}`);
+      });
+    }
+  }
+  return { themes, values };
+}
+
+function checkComponentPairs(groups, palette, err) {
+  for (const [name, component] of Object.entries(groups.components ?? {})) {
+    const fg = String(component.textColor ?? '').match(REF);
+    const bg = String(component.backgroundColor ?? '').match(REF);
+    if (!fg || !bg || !palette.values[fg[2]] || !palette.values[bg[2]]) continue;
+    const role = String(component.typography ?? '').match(REF);
+    const large = isLarge(role ? groups.typography?.[role[2]] : null);
+    const floor = large ? THRESHOLDS.large : THRESHOLDS.text;
+    palette.themes.forEach((theme, i) => {
+      const [a, b] = [palette.values[fg[2]][i], palette.values[bg[2]][i]];
+      if (!HEX.test(a) || !HEX.test(b)) return;
+      const actual = contrast(a, b);
+      if (actual < floor) err(`components.${name} (${theme}): ${fg[2]} on ${bg[2]} is ${actual.toFixed(2)}:1, below ${floor}:1`);
+    });
+  }
+}
+
+function checkMotion(body, motionTokens, err) {
+  const table = firstTable(sectionText(body, 'Motion'));
+  if (!table || !motionTokens) return;
+  const overrides = sectionText(body, 'Overrides');
+  for (const row of table.rows) {
+    const [token, value] = row;
+    if (!token?.startsWith('--') || motionTokens[token] === undefined) continue;
+    if (value !== motionTokens[token] && !overrides.includes(token)) {
+      err(`Motion ${token} is ${value}, but resolved-conflicts sets ${motionTokens[token]}; list ${token} under Overrides with a reason`);
+    }
+  }
+}
+
+export function validateDesignMd(src, { motionTokens } = {}) {
+  const errors = [];
+  const err = (message) => errors.push(message);
+  if (/<!--/.test(src)) err('HTML comments are not allowed');
+  const match = src.match(/^---\n([\s\S]*?)\n---\n/);
+  if (!match) return [...errors, 'missing YAML front matter'];
+  let data;
+  try {
+    data = parse(match[1]) ?? {};
+  } catch (error) {
+    return [...errors, `invalid YAML: ${error.message.split('\n')[0]}`];
+  }
+  if (typeof data !== 'object' || Array.isArray(data)) return [...errors, 'front matter must be a map'];
+  const body = stripCode(src.slice(match[0].length));
+  const groups = checkFrontMatter(data, err);
+  checkReferences(data, '', groups, err);
+  for (const [whole, group, token] of body.matchAll(/\{([a-z]+)\.([a-z0-9][a-z0-9-]*)\}/g)) {
+    if (KEYS.includes(group) && (!groups[group] || groups[group][token] === undefined)) err(`body reference ${whole} does not resolve`);
+  }
+  const h1 = body.match(/^# .+$/gm) ?? [];
+  if (h1.length !== 1) err(`needs exactly one H1 title, found ${h1.length}`);
+  const headings = [...body.matchAll(/^## (.+)$/gm)].map((m) => m[1].trim());
+  if (headings.join('|') !== SECTIONS.join('|')) {
+    const missing = SECTIONS.filter((s) => !headings.includes(s));
+    const extra = headings.filter((h) => !SECTIONS.includes(h));
+    err(`sections must be, in order: ${SECTIONS.join(', ')}${missing.length ? `; missing: ${missing.join(', ')}` : ''}${extra.length ? `; not in the format: ${extra.join(', ')}` : ''}`);
+  }
+  for (const name of SECTIONS) if (headings.includes(name) && !sectionText(body, name).trim()) err(`section "${name}" is empty; say in one line why it does not apply`);
+  const palette = groups.colors ? checkColors(body, groups, err) : null;
+  if (palette) checkComponentPairs(groups, palette, err);
+  checkMotion(body, motionTokens, err);
+  return errors;
+}

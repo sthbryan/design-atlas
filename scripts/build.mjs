@@ -3,6 +3,7 @@ import { dirname, join, relative, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'yaml';
 import { searchDoc, searchIndexJson } from '../skills/design-atlas/scripts/search.mjs';
+import { parseMotionTokens, validateDesignMd } from './design-md.mjs';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const CHECK = process.argv.includes('--check');
@@ -132,6 +133,14 @@ for (const s of sites) {
   if (headings.join('|') !== SECTIONS.join('|')) fail(s.path, `sections must be, in order: ${SECTIONS.join(', ')}`);
   Object.assign(s, d);
 }
+const motionTokens = parseMotionTokens(read('skills/design-atlas-ui/references/resolved-conflicts.md'));
+if (!motionTokens['--dur-menu']) fail('skills/design-atlas-ui/references/resolved-conflicts.md', 'motion token block not found');
+const designFiles = [
+  'DESIGN.md',
+  ...(existsSync(join(ROOT, 'design-md')) ? readdirSync(join(ROOT, 'design-md')).filter((f) => f.endsWith('.md') && f !== 'README.md').sort().map((f) => `design-md/${f}`) : []),
+].filter((path) => existsSync(join(ROOT, path)));
+for (const path of designFiles) for (const message of validateDesignMd(read(path), { motionTokens })) fail(path, message);
+
 function exitOnErrors() {
   if (!errors.length) return;
   writeSync(2, `${errors.join('\n')}\n\n${errors.length} error(s)\n`);
@@ -293,7 +302,7 @@ if (CHECK) {
     writeSync(2, `${stale.length} generated file(s) out of date; run npm run build:\n${stale.join('\n')}\n`);
     process.exit(1);
   }
-  console.log(`ok: ${listed.length} sites, ${topics.length} topics`);
+  console.log(`ok: ${listed.length} sites, ${topics.length} topics, ${designFiles.length} DESIGN.md file(s)`);
 } else {
   for (const path of stale) writeFileSync(join(ROOT, path), outputs.get(path));
   console.log(`built: ${listed.length} sites, ${topics.length} topics, ${stale.length} file(s) updated`);
