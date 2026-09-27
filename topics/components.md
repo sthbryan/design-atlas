@@ -111,6 +111,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section galleries with an MCP that returns screenshots, categories and source links to coding agents.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
+- [Liquefy UI](../sites/liquefy-ui.md) — MIT React primitives with a live playground for tuning refractive glass, spring motion, and accessible component states.
 - [Liquid Glass](../sites/liquid-glass.md) — DOM-manipulation tool for real-time refractive "liquid glass" distortion effects.
 - [Liquid Glass Playground by Pallav](../sites/glass-projects-lab-demo.md) — A long-form playground that maps liquid-glass presets, parameters and interface uses into a browsable visual lab.
 - [Liquid Glass Web React](../sites/liquid-glass-web-react.md) — A detailed playground for draggable refractive lenses, with live controls for shape, light, colour fringing and motion.

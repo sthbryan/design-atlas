@@ -1844,6 +1844,31 @@
       ]
     },
     {
+      "slug": "closeit-fast",
+      "path": "sites/closeit-fast.md",
+      "title": "closeit.fast",
+      "description": "An e-signature product page with a clickable four-screen walkthrough and a step-by-step document lifecycle.",
+      "url": "https://closeit.fast",
+      "type": "tool",
+      "formats": "electronic signature · product walkthrough · document workflow",
+      "topics": [
+        "ux-patterns",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free signup is offered; paid plans are $12 per user monthly or $6 per user per month billed yearly at review. The linked terms page did not load during review, so product and screenshot reuse rights are not stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "before-click",
+        "good-ui",
+        "useronboard"
+      ]
+    },
+    {
       "slug": "collect-ui",
       "path": "sites/collect-ui.md",
       "title": "Collect UI",
@@ -6463,6 +6488,35 @@
       ]
     },
     {
+      "slug": "liquefy-ui",
+      "path": "sites/liquefy-ui.md",
+      "title": "Liquefy UI",
+      "description": "MIT React primitives with a live playground for tuning refractive glass, spring motion, and accessible component states.",
+      "url": "https://liquefy-ui.com",
+      "type": "component-library",
+      "formats": "React components · WebGL material playground · shadcn registry · MCP",
+      "topics": [
+        "components",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Free and open source under MIT; the library, docs and live demos are public at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "liquid-glass",
+        "base-ui",
+        "motion-primitives"
+      ]
+    },
+    {
       "slug": "liquid-glass-web-react",
       "path": "sites/liquid-glass-web-react.md",
       "title": "Liquid Glass Web React",
@@ -7291,6 +7345,31 @@
       ]
     },
     {
+      "slug": "motion-zajno",
+      "path": "sites/motion-zajno.md",
+      "title": "Motion Design Principles by Zajno",
+      "description": "An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.",
+      "url": "https://motion.zajno.com",
+      "type": "documentation",
+      "formats": "interactive motion lessons · technique examples",
+      "topics": [
+        "motion",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Public lessons and examples are viewable without payment. The footer reserves copyright; no reuse licence was stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "design-motion-principles",
+        "60fps",
+        "easing-wizard"
+      ]
+    },
+    {
       "slug": "motionimo",
       "path": "sites/motionimo.md",
       "title": "Motionimo",
@@ -7316,6 +7395,34 @@
         "60fps",
         "design-spells",
         "what-ships"
+      ]
+    },
+    {
+      "slug": "motionin",
+      "path": "sites/motionin.md",
+      "title": "Motion",
+      "description": "A categorized gallery of interactive web sections with live examples and detailed motion specifications.",
+      "url": "https://motionin.design",
+      "type": "gallery",
+      "formats": "interactive demos · motion prompts and specs",
+      "topics": [
+        "motion",
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "Free examples are marked in the gallery; full prompts and specs require paid access. Monthly is $9 for three sections, lifetime is $99, and Studio is $249 at review. The site marks its content all rights reserved.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "60fps",
+        "motion-primitives",
+        "design-motion-principles"
       ]
     },
     {
@@ -8601,6 +8708,34 @@
         "posts-design",
         "appshot-gallery",
         "minimal-gallery"
+      ]
+    },
+    {
+      "slug": "reelfolio",
+      "path": "sites/reelfolio.md",
+      "title": "Reelfolio",
+      "description": "A showreel maker whose template previews demonstrate ways to stage interface screenshots as short motion sequences.",
+      "url": "https://reelfolio.io",
+      "type": "tool",
+      "formats": "showreel templates · screenshot-to-video · render API",
+      "topics": [
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The home page lists All Access at $12 monthly or $9 per month billed yearly. Terms describe free previews and a lifetime tier, so the offer conflicts across pages. Export videos may be used commercially; templates and service code are proprietary.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "note": "Current pricing page and terms disagree about whether the paid offer is recurring or lifetime.",
+      "related": [
+        "60fps",
+        "motion-primitives",
+        "appshot-gallery"
       ]
     },
     {
@@ -10195,6 +10330,31 @@
         "footer-design",
         "vibeui",
         "minimal-gallery"
+      ]
+    },
+    {
+      "slug": "supaste",
+      "path": "sites/supaste.md",
+      "title": "Supaste",
+      "description": "A vivid product landing page that uses a simulated clipboard library to explain a native macOS utility.",
+      "url": "https://supaste.com",
+      "type": "tool",
+      "formats": "macOS product · clipboard history manager",
+      "topics": [
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "One-time purchase, shown from $15 USD for one device at review; the app is proprietary and activated under a one-device licence.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "appinspo",
+        "appshot-gallery",
+        "ui-patterns"
       ]
     },
     {

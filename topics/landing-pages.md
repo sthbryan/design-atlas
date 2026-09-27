@@ -58,6 +58,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Made in Webflow](../sites/made-in-webflow.md) — A searchable showcase of community websites, with category filters, live previews and an explicit cloneable-sites option.
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Meraki UI](../sites/meraki-ui.md) — Free MIT Tailwind snippets (about 228) with left-to-right and right-to-left versions and dark mode; Alpine.js for interactive parts.
+- [Motion](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
 - [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [Ninna UI](../sites/ninna-ui.md) — MIT React library on npm with CSS-only oklch theme presets, Radix internals, 92 free blocks and a strong llms.txt import map.

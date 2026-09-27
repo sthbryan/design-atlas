@@ -85,6 +85,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
+- [Liquefy UI](../sites/liquefy-ui.md) — MIT React primitives with a live playground for tuning refractive glass, spring motion, and accessible component states.
 - [Liquid Glass](../sites/liquid-glass.md) — DOM-manipulation tool for real-time refractive "liquid glass" distortion effects.
 - [Liquid Glass Playground by Pallav](../sites/glass-projects-lab-demo.md) — A long-form playground that maps liquid-glass presets, parameters and interface uses into a browsable visual lab.
 - [Liquid Glass Web React](../sites/liquid-glass-web-react.md) — A detailed playground for draggable refractive lenses, with live controls for shape, light, colour fringing and motion.
@@ -103,6 +104,8 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
 - [Motion](../sites/motion-dev.md) — Former Framer Motion for React, JS and Vue: MIT core, free docs MCP and skill, paid Motion+ extras.
+- [Motion](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
+- [Motion Design Principles by Zajno](../sites/motion-zajno.md) — An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
 - [Nexvyn UI](../sites/nexvyn-ui.md) — 40 MIT spring-physics components for shadcn projects, from gooey dropdowns to eye-tracking password fields, via the @nexvyn namespace.
@@ -117,6 +120,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Playgrnd](../sites/playgrnd.md) — 52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.
 - [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
+- [Reelfolio](../sites/reelfolio.md) — A showreel maker whose template previews demonstrate ways to stage interface screenshots as short motion sequences.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
 - [Reverse UI](../sites/reverse-ui.md) — 68 animated React feature illustrations and shader effects for SaaS pages; 19 free, the rest a one-time paid licence. MUI and Emotion.
 - [RewampUI](../sites/rewampui.md) — About 75 animated React navbars, backgrounds, toggles and cursors with a copy CLI and per-component prompts; designs are admitted remixes.

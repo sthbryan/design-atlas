@@ -37,6 +37,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Best SaaS Web Designs](../sites/best-saas-web-designs.md) — Free, no-login catalogue of about 390 SaaS sites, each with desktop, mobile and OG captures, per-section crops, detected stack and a colour palette.
 - [Best Website Gallery](../sites/best-website-gallery.md) — One curator's 2,640 noteworthy sites since 2008, tagged by colour, features and shipped libraries; updated irregularly.
 - [Browse.cool](../sites/browse-cool.md) — A beta gallery of 25 high-craft, type-led sites and 194 screenshots and clips for mood-boarding.
+- [closeit.fast](../sites/closeit-fast.md) — An e-signature product page with a clickable four-screen walkthrough and a step-by-step document lifecycle.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
 - [compute.toys](../sites/compute-toys.md) — Browser playground for WebGPU compute shaders in WGSL or Slang: simulations, particles and path tracers to fork.
 - [Coolors](../sites/coolors.md) — Palette generator and visualizer for trying color sets on UI, branding, typography and pattern mockups.
@@ -91,6 +92,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
+- [Motion](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
 - [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.
 - [Navbar Gallery](../sites/navbar-gallery.md) — Real examples of every major navbar pattern (sticky, mega menu, sidebar, tabs and more), plus a blog on when to use each.
@@ -102,6 +104,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
 - [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
 - [Recent](../sites/recent-design.md) — Curated visual feeds for websites and other design work, with source links, style tags and a directory of third-party agent skills.
+- [Reelfolio](../sites/reelfolio.md) — A showreel maker whose template previews demonstrate ways to stage interface screenshots as short motion sequences.
 - [Refs.Gallery](../sites/refs-gallery.md) — Dark 16:9 screenshot grid of 2,163 sites set entirely in a system stack, with display type tracked in at minus 0.06em.
 - [Ripplix](../sites/ripplix.md) — Real-app UI microinteractions and motion clips, searchable by product, interaction and platform.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
@@ -117,6 +120,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Site of Sites](../sites/site-of-sites.md) — Wix gallery of about 600 sites with a pure-blue serif display on white, 16:9 screenshot tiles and four crossable tag axes.
 - [Siteinspire](../sites/siteinspire.md) — A curated website gallery with filters for visual style, site type, subject and platform, plus screenshots and links to the live work.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
+- [Supaste](../sites/supaste.md) — A vivid product landing page that uses a simulated clipboard library to explain a native macOS utility.
 - [Superdesign](../sites/superdesign-skill.md) — Drives the hosted superdesign.dev canvas from your agent to branch drafts and compare models.
 - [The Brand Identity](../sites/the-brand-identity.md) — Editorial case studies of identity systems across typography, packaging, digital work and motion, with searchable visual tags.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.

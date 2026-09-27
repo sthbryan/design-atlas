@@ -26,6 +26,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
 - [before.click](../sites/before-click.md) — 361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
+- [closeit.fast](../sites/closeit-fast.md) — An e-signature product page with a clickable four-screen walkthrough and a step-by-step document lifecycle.
 - [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with about 500 composed particles and agent skills; mixed MIT/AGPL repo.
 - [DesEngs](../sites/desengs.md) — Dated feed of about 106 design-engineering links (tools, libraries, essays, jobs) plus site, minimal-site and designer galleries; MIT source.
 - [Design Lab](../sites/design-lab.md) — Interviews you, mounts five code variants on a temporary route, then writes an implementation plan.
@@ -49,9 +50,11 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Layers](../sites/layers.md) — Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
+- [Motion Design Principles by Zajno](../sites/motion-zajno.md) — An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.
 - [Sona UI](../sites/sona-ui.md) — Small MIT set of accessible animated React components with an agent manifest, catalog, skill and read-only API through shadcn.
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
+- [Supaste](../sites/supaste.md) — A vivid product landing page that uses a simulated clipboard library to explain a native macOS utility.
 - [Superfuture Design Review](../sites/superfuture-design-review.md) — Ten-area design critique ranked by severity with exact fixes; it sends a hidden usage ping.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
 - [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
