@@ -57,6 +57,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [UI Skills](../sites/ui-skills.md) — 306 design-engineering skills from 84 authors, with a routing skill, CLI, MCP and 18 real company DESIGN.md files.
 - [UI Taste by Uizze](../sites/ui-taste.md) — Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.
 - [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
+- [UI-Patterns.com](../sites/ui-patterns.md) — A reference library that explains recurring interface and persuasion patterns with usage notes and screenshot examples.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
 - [User Interface Wiki](../sites/user-interface-wiki.md) — Raphael Salaja's nine demo-rich articles on motion, sound and type, installable as a 152-rule agent skill.
 - [Vercel Web Design Guidelines](../sites/vercel-web-design-guidelines.md) — Tiny review skill that fetches Vercel's live Web Interface Guidelines each run and reports terse file:line findings.

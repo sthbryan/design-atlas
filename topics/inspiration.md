@@ -47,6 +47,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [DesEngs](../sites/desengs.md) — Dated feed of about 106 design-engineering links (tools, libraries, essays, jobs) plus site, minimal-site and designer galleries; MIT source.
 - [Design Engineer Tools](../sites/designengineer-tools.md) — One-page list of about 128 apps and sites a web design engineer uses, from galleries and component kits to 3D, capture and motion tools.
 - [Design Spells](../sites/design-spells.md) — 337 hand-picked recordings of micro-interactions and easter eggs; llms.txt plus a Markdown homepage via Accept header.
+- [Design Systems Repo](../sites/design-systems-repo.md) — An alphabetized catalog of public design systems, style guides and pattern libraries with direct links to their source sites.
 - [DesignBookmark](../sites/design-bookmark.md) — Directory of about 2,500 design, dev and AI tools in 59 categories, with a page per tool, clear sponsor labels and an llms.txt with counts.
 - [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
 - [DesignEng](../sites/designeng-tools.md) — About 200 design-engineering links by category (component kits, icons, tools, agent skills, inspiration, people) with pricing filters and saves.
@@ -81,6 +82,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
+- [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.
 - [Navbar Gallery](../sites/navbar-gallery.md) — Real examples of every major navbar pattern (sticky, mega menu, sidebar, tabs and more), plus a blog on when to use each.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
@@ -102,10 +104,12 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
 - [Superdesign](../sites/superdesign-skill.md) — Drives the hosted superdesign.dev canvas from your agent to branch drafts and compare models.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
+- [TOOOLS.design](../sites/toools.md) — A category-indexed directory that points designers to curated galleries, inspiration libraries, icon sets and other design resources.
 - [Typeface.fyi](../sites/typeface-fyi.md) — Chrome extension that identifies any web font, its metrics, where it's served from and its foundry.
 - [Typewolf](../sites/typewolf.md) — Typography reference for the web, pairing real site screenshots with named fonts, alternatives, free picks and usage notes.
 - [UI Labs](../sites/uilabs.md) — Mariana Castilho's dozen live Framer Motion experiments with morphing toolbars, popovers and widgets; demo-only.
 - [UI Taste by Uizze](../sites/ui-taste.md) — Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.
+- [UI-Patterns.com](../sites/ui-patterns.md) — A reference library that explains recurring interface and persuasion patterns with usage notes and screenshot examples.
 - [Uiverse](../sites/uiverse.md) — Community gallery of copy-paste CSS and Tailwind UI snippets.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
 - [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.

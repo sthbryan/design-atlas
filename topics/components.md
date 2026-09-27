@@ -54,6 +54,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [DesEngs](../sites/desengs.md) — Dated feed of about 106 design-engineering links (tools, libraries, essays, jobs) plus site, minimal-site and designer galleries; MIT source.
 - [Design Lab](../sites/design-lab.md) — Interviews you, mounts five code variants on a temporary route, then writes an implementation plan.
 - [Design System Checklist](../sites/design-system-checklist.md) — 230 items across language, foundations, 29 components and maintenance, with shareable progress links.
+- [Design Systems Repo](../sites/design-systems-repo.md) — An alphabetized catalog of public design systems, style guides and pattern libraries with direct links to their source sites.
 - [design-mobile-apps (Sleek)](../sites/design-mobile-apps.md) — REST client for Sleek's paid mobile-screen generator, with handoff to HTML, React Native or SwiftUI.
 - [design.dev](../sites/design-dev.md) — Free generators for DESIGN.md, AGENTS.md, CLAUDE.md and more, plus component prompts and style packs; strict terms.
 - [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.

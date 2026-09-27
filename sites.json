@@ -2544,6 +2544,31 @@
       ]
     },
     {
+      "slug": "design-systems-repo",
+      "path": "sites/design-systems-repo.md",
+      "title": "Design Systems Repo",
+      "description": "An alphabetized catalog of public design systems, style guides and pattern libraries with direct links to their source sites.",
+      "url": "https://designsystemsrepo.com/",
+      "type": "directory",
+      "formats": "curated directory of design systems · style guides · pattern libraries",
+      "topics": [
+        "components",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. No licence or terms for the directory's content were stated on the site or its linked GitHub repository at review. Each listed system and its assets have their own terms; check those at the source.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "awesome-design-systems",
+        "component-gallery",
+        "carbon-design-system"
+      ]
+    },
+    {
       "slug": "designeer",
       "path": "sites/designeer.md",
       "title": "Designeer",
@@ -6720,6 +6745,33 @@
       ]
     },
     {
+      "slug": "muzli",
+      "path": "sites/muzli.md",
+      "title": "Muzli",
+      "description": "Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.",
+      "url": "https://muz.li/",
+      "type": "gallery",
+      "formats": "design inspiration gallery · browser extension · curated collections",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to browse the public collections and use the basic extension. Muzli Pro is paid ($9/month, $60/year at a launch price from $90, or $350 lifetime at review) for broader web access and feed controls. Muzli's terms reserve rights to site material; featured work is credited to its creators, so use it as visual reference only.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "dribbble",
+        "land-book",
+        "best-saas-web-designs",
+        "curated-design"
+      ]
+    },
+    {
       "slug": "mx-icons",
       "path": "sites/mx-icons.md",
       "title": "MX Icons",
@@ -9729,6 +9781,32 @@
       ]
     },
     {
+      "slug": "toools",
+      "path": "sites/toools.md",
+      "title": "TOOOLS.design",
+      "description": "A category-indexed directory that points designers to curated galleries, inspiration libraries, icon sets and other design resources.",
+      "url": "https://www.toools.design/",
+      "type": "directory",
+      "formats": "directory of design tools and visual reference sites · categorized resources",
+      "topics": [
+        "inspiration",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. TOOOLS.design retains rights to its text, images and data compilation; its legal notice prohibits copying or automated scraping, including AI data mining. Some outgoing links are affiliate links, and the site sells sponsored placements ($200 for a four-week homepage feature or $100 for a newsletter spotlight at review). Logos and linked resources belong to their owners.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "curations-supply",
+        "dark-mode-design",
+        "muzli",
+        "designengineer-tools"
+      ]
+    },
+    {
       "slug": "tooooools",
       "path": "sites/tooooools.md",
       "title": "Tooooools",
@@ -9980,6 +10058,32 @@
         "skiper-ui",
         "motion-primitives",
         "velora-ui"
+      ]
+    },
+    {
+      "slug": "ui-patterns",
+      "path": "sites/ui-patterns.md",
+      "title": "UI-Patterns.com",
+      "description": "A reference library that explains recurring interface and persuasion patterns with usage notes and screenshot examples.",
+      "url": "https://ui-patterns.com/",
+      "type": "pattern-library",
+      "formats": "UI and persuasive design patterns · searchable screenshot library",
+      "topics": [
+        "ux-patterns",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The site's written pattern material is CC BY-NC-SA 2.5 Denmark; give attribution, share adaptations under the same terms and keep use noncommercial. The website is free to browse; printed card decks start at $49 at review. Embedded screenshots and linked products retain their owners' rights.",
+      "licence_class": "cc-noncommercial",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "laws-of-ux",
+        "user-interface-wiki",
+        "interface-design",
+        "awesome-design-systems"
       ]
     },
     {

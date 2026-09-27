@@ -70,6 +70,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
 - [Modern CSS Solutions](../sites/modern-css.md) — Practical CSS references with rendered examples for responsive layouts, components, typography and interaction states.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
+- [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.
 - [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
 - [OKLCH](../sites/oklch.md) — Evil Martians' OKLCH picker and converter with P3/Rec. 2020 gamut views and sRGB fallbacks.
 - [OpenDesign](../sites/open-design.md) — Apache-2.0 local design engine for coding agents, with 151 forkable DESIGN.md packages and MCP.
