@@ -41,6 +41,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [compute.toys](../sites/compute-toys.md) — Browser playground for WebGPU compute shaders in WGSL or Slang: simulations, particles and path tracers to fork.
 - [Coolors](../sites/coolors.md) — Palette generator and visualizer for trying color sets on UI, branding, typography and pattern mockups.
 - [Cosmos](../sites/cosmos.md) — Ad-free mood-board platform with hex-colour and visual-similarity search, AI-image filtering and source captions; Premium $8/month.
+- [CSS Nectar](../sites/css-nectar.md) — A tagged website gallery with nominees, winners and daily selections that link from showcase cards to the live sites.
 - [CTA Gallery](../sites/cta-gallery.md) — Calls-to-action pulled from real sites and classified by business function, with copywriting tips alongside.
 - [Curated](../sites/curated-design.md) — Live-site gallery filtered by industry and style, with a separate section library for comparing page blocks.
 - [Curations Supply](../sites/curations-supply.md) — Panda Network's directory of about 290 curated galleries, type, colour, UX and component sites, each with a logo, screenshot and one-line summary.
@@ -72,6 +73,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Kage](../sites/kage.md) — Real product pages and components tagged by style, with screenshot-backed design prompts and a public MCP server.
 - [Klim Type Foundry](../sites/klim.md) — Premium New Zealand foundry (Söhne, Tiempos) with reference-grade essays and use-based licensing from USD 60.
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
+- [Kombai Selects](../sites/kombai-selects.md) — A stream of interface and motion references selected from X, Dribbble and Behance, with links back to each creator's post.
 - [Lab01](../sites/lab01.md) — Sebastiano Guerriero's 12 live web-app UI experiments, each with its icons, fonts and palette listed.
 - [Landbook](../sites/land-book.md) — Veteran human-curated website gallery with 20,000+ sites and 200,000+ cropped sections, filters by colour, style and platform, and an experts directory.
 - [Landdding](../sites/landdding.md) — Daily feed of about 2,400 landing pages in 40 categories, with tag, colour and platform filters and an llms.txt; free browsing is metered.
@@ -80,6 +82,8 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Layers](../sites/layers.md) — Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.
 - [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile websites, tagged by visual style, genre and interaction technique.
+- [LogoLounge](../sites/logo-lounge.md) — A searchable logo archive and open annual trend reports for researching identity marks, recurring forms and visual directions.
+- [Made in Webflow](../sites/made-in-webflow.md) — A searchable showcase of community websites, with category filters, live previews and an explicit cloneable-sites option.
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
@@ -106,10 +110,12 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Siteinspire](../sites/siteinspire.md) — A curated website gallery with filters for visual style, site type, subject and platform, plus screenshots and links to the live work.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
 - [Superdesign](../sites/superdesign-skill.md) — Drives the hosted superdesign.dev canvas from your agent to branch drafts and compare models.
+- [The Brand Identity](../sites/the-brand-identity.md) — Editorial case studies of identity systems across typography, packaging, digital work and motion, with searchable visual tags.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
 - [TOOOLS.design](../sites/toools.md) — A category-indexed directory that points designers to curated galleries, inspiration libraries, icon sets and other design resources.
 - [Typeface.fyi](../sites/typeface-fyi.md) — Chrome extension that identifies any web font, its metrics, where it's served from and its foundry.
 - [Typewolf](../sites/typewolf.md) — Typography reference for the web, pairing real site screenshots with named fonts, alternatives, free picks and usage notes.
+- [typo/graphic posters](../sites/typographic-posters.md) — An international archive of print posters with filters for composition, colour, print process and other visual qualities.
 - [UI Labs](../sites/uilabs.md) — Mariana Castilho's dozen live Framer Motion experiments with morphing toolbars, popovers and widgets; demo-only.
 - [UI Taste by Uizze](../sites/ui-taste.md) — Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.
 - [UI-Patterns.com](../sites/ui-patterns.md) — A reference library that explains recurring interface and persuasion patterns with usage notes and screenshot examples.

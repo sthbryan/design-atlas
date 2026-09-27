@@ -2072,6 +2072,31 @@
       ]
     },
     {
+      "slug": "css-nectar",
+      "path": "sites/css-nectar.md",
+      "title": "CSS Nectar",
+      "description": "A tagged website gallery with nominees, winners and daily selections that link from showcase cards to the live sites.",
+      "url": "https://cssnectar.com/",
+      "type": "gallery",
+      "formats": "website showcase · nominees · winners · site-of-the-day",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Browsing is free. Site submission costs $9 at review. CSS Nectar's terms say submitted sites and their content remain the property of their owners; no reuse licence for showcased work is stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "best-website-gallery",
+        "made-in-webflow",
+        "the-brand-identity"
+      ]
+    },
+    {
       "slug": "css-text-effects",
       "path": "sites/css-text-effects.md",
       "title": "CSS Text Effects",
@@ -5823,6 +5848,30 @@
       ]
     },
     {
+      "slug": "kombai-selects",
+      "path": "sites/kombai-selects.md",
+      "title": "Kombai Selects",
+      "description": "A stream of interface and motion references selected from X, Dribbble and Behance, with links back to each creator's post.",
+      "url": "https://kombai.com/selects/",
+      "type": "gallery",
+      "formats": "curated interface and motion references · X · Dribbble · Behance",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. Kombai's terms reserve its own intellectual property; each selected work links to its original creator or source platform, and no reuse licence is stated for those works.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "kombai",
+        "designspiration",
+        "best-website-gallery"
+      ]
+    },
+    {
       "slug": "kombai",
       "path": "sites/kombai.md",
       "title": "Kombai",
@@ -6290,6 +6339,30 @@
       ]
     },
     {
+      "slug": "logo-lounge",
+      "path": "sites/logo-lounge.md",
+      "title": "LogoLounge",
+      "description": "A searchable logo archive and open annual trend reports for researching identity marks, recurring forms and visual directions.",
+      "url": "https://www.logolounge.com/",
+      "type": "gallery",
+      "formats": "logo archive · identity search · annual trend reports",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Annual trend reports are publicly readable. Searching the logo archive requires membership, listed at $100/year at review. The terms allow personal, non-commercial viewing only and prohibit copying or public display without permission.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "the-brand-identity",
+        "designspiration",
+        "typographic-posters"
+      ]
+    },
+    {
       "slug": "lottiefiles-motion-design",
       "path": "sites/lottiefiles-motion-design.md",
       "title": "LottieFiles Motion Design Skill",
@@ -6409,6 +6482,34 @@
         "shadcn-ui",
         "simple-icons",
         "tabler-icons"
+      ]
+    },
+    {
+      "slug": "made-in-webflow",
+      "path": "sites/made-in-webflow.md",
+      "title": "Made in Webflow",
+      "description": "A searchable showcase of community websites, with category filters, live previews and an explicit cloneable-sites option.",
+      "url": "https://webflow.com/made-in-webflow/showcase",
+      "type": "gallery",
+      "formats": "Webflow community showcase · live sites · cloneable projects",
+      "topics": [
+        "inspiration",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse. Creators retain rights to their website content; cloning is available only where the creator enabled it and through Webflow's clone feature. Publishing a showcase listing requires a paid Site or Workspace plan at review.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "css-nectar",
+        "best-website-gallery",
+        "awwwards"
       ]
     },
     {
@@ -9988,6 +10089,32 @@
       ]
     },
     {
+      "slug": "the-brand-identity",
+      "path": "sites/the-brand-identity.md",
+      "title": "The Brand Identity",
+      "description": "Editorial case studies of identity systems across typography, packaging, digital work and motion, with searchable visual tags.",
+      "url": "https://the-brandidentity.com/",
+      "type": "gallery",
+      "formats": "brand identity case studies · interviews · type and motion resources",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "motion"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Editorial pages are free to browse; the store sells paid mockups, templates and guides. Site terms reserve content rights to The Brand Identity and third-party owners, and restrict reuse; store products have separate buyer licences.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "logo-lounge",
+        "typographic-posters",
+        "css-nectar"
+      ]
+    },
+    {
       "slug": "theatrejs",
       "path": "sites/theatrejs.md",
       "title": "Theatre.js",
@@ -10319,6 +10446,31 @@
         "typeface-fyi",
         "fontshare",
         "fontsource"
+      ]
+    },
+    {
+      "slug": "typographic-posters",
+      "path": "sites/typographic-posters.md",
+      "title": "typo/graphic posters",
+      "description": "An international archive of print posters with filters for composition, colour, print process and other visual qualities.",
+      "url": "https://www.typographicposters.com/",
+      "type": "gallery",
+      "formats": "poster archive · typographic and graphic design · print-process references",
+      "topics": [
+        "typography-and-styles",
+        "inspiration"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The public archive is browseable; membership is €6/month or €54/year at review for searchable access to more than 12,000 posters. Poster pages attribute the designer and state that all rights are reserved; the subscription grants no reuse rights.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "designspiration",
+        "logo-lounge",
+        "the-brand-identity"
       ]
     },
     {
