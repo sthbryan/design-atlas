@@ -56,11 +56,11 @@
     {
       "id": 5,
       "prompt": "I want to write a DESIGN.md for our brand (a boutique coffee roaster). What should I base it on? Then go ahead and write it.",
-      "expected_output": "A brief of design-md hub references (formats, generators, example files), then a hand-off to design-atlas-ui for writing the DESIGN.md.",
+      "expected_output": "A brief of design-md hub references (formats, generators, example files), then the DESIGN.md written by continuing with design-atlas-ui, or a note that it is not installed.",
       "files": [],
       "expectations": [
         "At least two cited sites are tagged design-md in sites.json",
-        "The response names design-atlas-ui as the skill that writes the DESIGN.md, or says it is not installed",
+        "The transcript shows design-atlas-ui's SKILL.md being read before any DESIGN.md is written, or the response says design-atlas-ui is not installed",
         "The response warns that brand DESIGN.md examples describe another company's identity and should be used for structure only",
         "This skill's response does not itself contain a full DESIGN.md"
       ]
@@ -170,11 +170,11 @@
     {
       "id": 14,
       "prompt": "Here's the brief you gave me for the pricing page. Now build the pricing section in src/components/Pricing.tsx.",
-      "expected_output": "Hands off to design-atlas-ui for the build, or says it is not installed; this skill writes no component code.",
+      "expected_output": "Continues the build with design-atlas-ui, or says it is not installed; no component code is written from the design-atlas skill alone.",
       "files": [],
       "expectations": [
-        "The response names design-atlas-ui for building",
-        "The design-atlas skill writes no .tsx file"
+        "The transcript shows design-atlas-ui's SKILL.md being read for the build, or the response says design-atlas-ui is not installed",
+        "No .tsx file is written before design-atlas-ui's SKILL.md is read"
       ]
     },
     {
