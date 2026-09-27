@@ -266,6 +266,7 @@ outputs.set('llms.txt', [
   '- [Page template](TEMPLATE.md): the frontmatter fields and sections every site page uses',
   '- [Contributing](CONTRIBUTING.md): how sites are added, reviewed and removed, and the allowed frontmatter values',
   '- [AGENTS.md](AGENTS.md): how agents should read and edit this repository',
+  '- [DESIGN.md](DESIGN.md): the visual identity for the atlas website, in the DESIGN.md format the design-atlas-ui skill reads',
   '- [design-atlas skill](skills/design-atlas/SKILL.md): an agent skill that queries this atlas and writes a cited, licence-checked brief',
   '- [design-atlas-ui skill](skills/design-atlas-ui/SKILL.md): an agent skill that builds and reviews UI from a DESIGN.md, using this atlas for references',
   '',
