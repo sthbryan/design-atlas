@@ -49,6 +49,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Figma](../sites/figma.md) — The default design canvas, with Dev Mode, Code Connect and a remote MCP server that reads designs and writes back to the canvas.
 - [FlyonUI](../sites/flyonui.md) — Semantic Tailwind classes plus bundled Preline JS plugins; MIT with Preline Fair Use terms inherited, paid Pro blocks and MCP builder.
 - [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
+- [Fonts In Use](../sites/fonts-in-use.md) — Archive of real typography across web, print, identity and packaging, searchable by typeface, format, topic and visual tag.
 - [Fontshare](../sites/fontshare.md) — 100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.
 - [Fontsource](../sites/fontsource.md) — 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.
 - [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
@@ -90,13 +91,16 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [SRCL](../sites/srcl.md) — Terminal-aesthetic React kit plus matching CLI framework, with llms.txt, AGENTS.md catalogue and porting skills.
 - [Stitch Skills](../sites/stitch-skills.md) — Google Labs' Stitch skills and source of the "Stitch format"; three DESIGN.md writers with different layouts.
 - [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
+- [Too Much Type](../sites/too-much-type.md) — Experimental type foundry and specimen lab with interactive variable fonts, browser controls and downloadable font projects.
 - [Tooooools](../sites/tooooools.md) — Free lo-fi effects for photos and video: dithering, stippling, halftone, CRT, ASCII, with SVG export.
 - [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.
 - [Typeface.fyi](../sites/typeface-fyi.md) — Chrome extension that identifies any web font, its metrics, where it's served from and its foundry.
 - [TypeUI](../sites/typeui.md) — Style-named design skills (SKILL.md + DESIGN.md) via an MIT CLI/registry and a paid hosted MCP.
 - [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.
+- [Typewolf](../sites/typewolf.md) — Typography reference for the web, pairing real site screenshots with named fonts, alternatives, free picks and usage notes.
 - [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
 - [Utopia](../sites/utopia.md) — Free calculators that turn two type and spacing scales into fluid CSS clamp() tokens, with npm packages.
+- [V-Fonts](../sites/v-fonts.md) — Searchable variable-font catalogue with live specimens, adjustable axes, metadata and per-family licensing links.
 - [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 - [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.

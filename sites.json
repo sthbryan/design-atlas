@@ -3868,6 +3868,32 @@
       ]
     },
     {
+      "slug": "fonts-in-use",
+      "path": "sites/fonts-in-use.md",
+      "title": "Fonts In Use",
+      "description": "Archive of real typography across web, print, identity and packaging, searchable by typeface, format, topic and visual tag.",
+      "url": "https://fontsinuse.com",
+      "type": "directory",
+      "formats": "typography archive · real-world web and print examples",
+      "topics": [
+        "typography-and-styles",
+        "inspiration"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; example images carry their own rights notices and are commonly marked All Rights Reserved. Do not reuse archive images as assets.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "typewolf",
+        "typeface-fyi",
+        "inspiration-grid",
+        "fontshare"
+      ]
+    },
+    {
       "slug": "fontshare",
       "path": "sites/fontshare.md",
       "title": "Fontshare",
@@ -9677,6 +9703,32 @@
       ]
     },
     {
+      "slug": "too-much-type",
+      "path": "sites/too-much-type.md",
+      "title": "Too Much Type",
+      "description": "Experimental type foundry and specimen lab with interactive variable fonts, browser controls and downloadable font projects.",
+      "url": "https://toomuchtype.com",
+      "type": "font-library",
+      "formats": "experimental type foundry · interactive font specimens · downloadable code",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site says its projects are open source and fonts and code may be used or edited; the exact licence is not consistently named. Music Box explicitly states SIL Open Font License. Verify each font and any remixed source before reuse.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "death-of-typography",
+        "velvetyne",
+        "fontsource",
+        "departure-mono"
+      ]
+    },
+    {
       "slug": "tooooools",
       "path": "sites/tooooools.md",
       "title": "Tooooools",
@@ -9842,6 +9894,32 @@
         "design-md-chrome",
         "vibeprompts",
         "refero-styles"
+      ]
+    },
+    {
+      "slug": "typewolf",
+      "path": "sites/typewolf.md",
+      "title": "Typewolf",
+      "description": "Typography reference for the web, pairing real site screenshots with named fonts, alternatives, free picks and usage notes.",
+      "url": "https://www.typewolf.com",
+      "type": "gallery",
+      "formats": "web typography gallery · font recommendations · pairing guides",
+      "topics": [
+        "typography-and-styles",
+        "inspiration"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The reference pages are free to browse; paid products include the Flawless Typography Checklist at $399 and font pairing guides. Site content and screenshots are proprietary.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "fonts-in-use",
+        "typeface-fyi",
+        "fontshare",
+        "fontsource"
       ]
     },
     {
@@ -10311,6 +10389,33 @@
         "wakamai-fondue",
         "design-system-checklist",
         "css-text-effects"
+      ]
+    },
+    {
+      "slug": "v-fonts",
+      "path": "sites/v-fonts.md",
+      "title": "V-Fonts",
+      "description": "Searchable variable-font catalogue with live specimens, adjustable axes, metadata and per-family licensing links.",
+      "url": "https://v-fonts.com",
+      "type": "font-library",
+      "formats": "variable font catalogue · live axis testers",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; individual fonts range from open source and free to commercial, trial or bundled. Check each font’s linked licence before use.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "note": "Limited beta catalogue; the showcased fonts require a browser with OpenType variation support, and each font has separate terms.",
+      "related": [
+        "fontsource",
+        "typeface-fyi",
+        "fontshare",
+        "death-of-typography"
       ]
     },
     {

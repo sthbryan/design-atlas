@@ -94,10 +94,12 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Tabbied](../sites/tabbied.md) — 338 seeded geometric patterns as an MIT npm/React package, with a CLI and a hosted MCP.
 - [Tabler Icons](../sites/tabler-icons.md) — Over 6,200 MIT outline and filled icons on a 2px grid, with packages for every major framework and llms.txt docs.
 - [theSVG](../sites/thesvg.md) — 7,400+ brand and cloud icons with light, dark and wordmark variants, MCP, skill and CLI; licences vary per file.
+- [Too Much Type](../sites/too-much-type.md) — Experimental type foundry and specimen lab with interactive variable fonts, browser controls and downloadable font projects.
 - [Tooooools](../sites/tooooools.md) — Free lo-fi effects for photos and video: dithering, stippling, halftone, CRT, ASCII, with SVG export.
 - [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
+- [V-Fonts](../sites/v-fonts.md) — Searchable variable-font catalogue with live specimens, adjustable axes, metadata and per-family licensing links.
 - [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 - [Venust Backgrounds](../sites/venust-backgrounds.md) — CC0 AI hero backgrounds sorted by page slot, each with its prompt; llms.txt and Markdown for agents.
 - [Wakamai Fondue](../sites/wakamai-fondue.md) — Drop in a font to see its OpenType features, variable axes and glyphs, then get ready-made CSS, all in-browser.

@@ -55,6 +55,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
 - [Dribbble](../sites/dribbble.md) — Huge shot-sharing community and designer marketplace for fast visual and motion exploration; mostly concepts, no agent access.
 - [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
+- [Fonts In Use](../sites/fonts-in-use.md) — Archive of real typography across web, print, identity and packaging, searchable by typeface, format, topic and visual tag.
 - [Footer Design](../sites/footer-design.md) — Gallery dedicated to footers, filtered by style, with an Editor's Choice flag.
 - [Great Apps](../sites/great-apps.md) — A small, opinionated gallery of about 216 well-crafted indie iOS apps, from the curator of Sections.wtf.
 - [GreatStuff](../sites/greatstuff.md) — Framer-built archive of about 600 links for designers (tools, assets, galleries, AI, Mac apps), filterable by type, with a shuffle button.
@@ -102,6 +103,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Superdesign](../sites/superdesign-skill.md) — Drives the hosted superdesign.dev canvas from your agent to branch drafts and compare models.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
 - [Typeface.fyi](../sites/typeface-fyi.md) — Chrome extension that identifies any web font, its metrics, where it's served from and its foundry.
+- [Typewolf](../sites/typewolf.md) — Typography reference for the web, pairing real site screenshots with named fonts, alternatives, free picks and usage notes.
 - [UI Labs](../sites/uilabs.md) — Mariana Castilho's dozen live Framer Motion experiments with morphing toolbars, popovers and widgets; demo-only.
 - [UI Taste by Uizze](../sites/ui-taste.md) — Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.
 - [Uiverse](../sites/uiverse.md) — Community gallery of copy-paste CSS and Tailwind UI snippets.
