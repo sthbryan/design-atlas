@@ -105,6 +105,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Loader Buttons](../sites/loader-buttons.md) — 25 experimental loading-state buttons in WebGL, SVG, Canvas and CSS; no licence published.
 - [loading.dev](../sites/loading-dev.md) — 27 small React 19 spinners that inherit currentColor, with a Markdown page per spinner.
 - [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile websites, tagged by visual style, genre and interaction technique.
+- [Locomotive](../sites/locomotive.md) — Montreal studio portfolio pairing an audiovisual hero with a filterable work archive and detailed project pages.
 - [Lottie](../sites/lottiefiles.md) — Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.
 - [LottieFiles Motion Design Skill](../sites/lottiefiles-motion-design.md) — Motion-director skill: four personalities, duration and stagger tables, Disney principles adapted for UI.
 - [Lucide Animated](../sites/lucide-animated.md) — 467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.
@@ -179,6 +180,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Uiuno](../sites/uiuno.md) — Early shadcn workspace where a bot collects motion and shader effects into registries; credit to originals is lost.
 - [Unicorn Studio](../sites/unicorn-studio.md) — A visual shader editor with a gallery of animated, interactive graphics that can be embedded on websites.
 - [unlumen UI](../sites/unlumen-ui.md) — Animated React registry forked from Animate UI, with motion primitives, copyable components and a paid Pro set.
+- [Unseen Studio](../sites/unseen.md) — Studio portfolio with a pastel 3D world, expressive serif and sans typography, and a filtered project grid.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
 - [User Interface Wiki](../sites/user-interface-wiki.md) — Raphael Salaja's nine demo-rich articles on motion, sound and type, installable as a 152-rule agent skill.
 - [Velora UI](../sites/velora-ui.md) — New MIT set of 100 animated shadcn components, 31 blocks and a free landing template, each with size and dependency counts.

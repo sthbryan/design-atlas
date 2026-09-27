@@ -26,6 +26,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [a-fresh](../sites/a-fresh.md) — A categorized website and component archive with previews, desktop and mobile views, and filters for design traits.
 - [A1](../sites/a1-gallery.md) — A curated gallery of live websites, full pages and individual sections, with visual filters and measured design details.
 - [Aditya Logs](../sites/adityalogs.md) — Monospace portfolio with inline emphasis, an activity sidebar and a compact, terminal-like visual language.
+- [Animesh Thakur](../sites/animesh-thakur.md) — A grid-based portfolio with offset display lettering, diagonal section dividers, project cards and a compact music player.
 - [Anjil](../sites/anjil-ink.md) — A restrained developer portfolio pairing a dithered travel photograph with a serif headline, concise biography and compact work timeline.
 - [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
 - [Athrix](../sites/athrix.md) — Developer portfolio with an editorial serif headline, dotted page grid and pale botanical accents.
@@ -55,6 +56,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [DesignMD.cc](../sites/designmd-cc.md) — Free URL-to-DESIGN.md generator measuring live CSS, with an MIT CLI and a benchmark library.
 - [designmd.supply](../sites/designmd-supply.md) — Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
 - [DesignSorcery](../sites/design-sorcery.md) — Website gallery with scroll-video previews, screenshot modes, and filters for visual style, framework, color and industry.
+- [Dhruv Deora](../sites/dhruv-deora.md) — A playful portfolio pairing editorial typography and colorful project tiles with small pixel-art interactions.
 - [Dither Kit](../sites/dither-kit.md) — Dithered canvas charts (area, bar, pie, radar) with a Recharts-style API and a single Markdown docs file.
 - [Ditther](../sites/ditther.md) — A browser editor and effect gallery for pixel, dither, ASCII and print-like treatments across still images and motion.
 - [DotForge](../sites/dotforge.md) — Browser tool with 51 animated effects, dither patterns and post-FX; exports PNG, video or an HTML embed.
@@ -108,6 +110,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Refs.Gallery](../sites/refs-gallery.md) — Dark 16:9 screenshot grid of 2,163 sites set entirely in a system stack, with display type tracked in at minus 0.06em.
 - [Rolling Number](../sites/rolling-number.md) — Interruptible rolling digits and split-flap text for DOM, React and Solid, with llms.txt and Markdown docs.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
+- [Samiran De](../sites/samiran-de.md) — A dark portfolio with a pixel-art waterfall banner and vivid project cards arranged in a strict grid.
 - [Saved](../sites/saved.md) — Daily design gallery with filters for web, interfaces, branding, motion, 3D, illustration, typography and posters.
 - [Scritto](../sites/scritto.md) — MIT web component that animates only the characters that change in any string.
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.

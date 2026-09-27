@@ -30,6 +30,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [A1](../sites/a1-gallery.md) — A curated gallery of live websites, full pages and individual sections, with visual filters and measured design details.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
 - [Aditya Logs](../sites/adityalogs.md) — Monospace portfolio with inline emphasis, an activity sidebar and a compact, terminal-like visual language.
+- [Animesh Thakur](../sites/animesh-thakur.md) — A grid-based portfolio with offset display lettering, diagonal section dividers, project cards and a compact music player.
 - [Anjil](../sites/anjil-ink.md) — A restrained developer portfolio pairing a dithered travel photograph with a serif headline, concise biography and compact work timeline.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
 - [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
@@ -82,6 +83,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Designspiration](../sites/designspiration.md) — Image archive since 2010 with a five-colour palette on every save, colour search and Pro mood boards at $5/month.
 - [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
+- [Dhruv Deora](../sites/dhruv-deora.md) — A playful portfolio pairing editorial typography and colorful project tiles with small pixel-art interactions.
 - [Dribbble](../sites/dribbble.md) — Huge shot-sharing community and designer marketplace for fast visual and motion exploration; mostly concepts, no agent access.
 - [Droppy Code](../sites/droppy-code.md) — A native Mac coding-agent app presented through detailed interface walkthroughs and a Liquid Glass visual system.
 - [Eyecandy](../sites/eyecannndy.md) — Browse named visual techniques through short explanations and example clips, useful for motion and art-direction references.
@@ -126,6 +128,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Layers](../sites/layers.md) — Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.
 - [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile websites, tagged by visual style, genre and interaction technique.
+- [Locomotive](../sites/locomotive.md) — Montreal studio portfolio pairing an audiovisual hero with a filterable work archive and detailed project pages.
 - [LogoLounge](../sites/logo-lounge.md) — A searchable logo archive and open annual trend reports for researching identity marks, recurring forms and visual directions.
 - [Lusion](../sites/lusion.md) — A creative studio portfolio with sculptural 3D scenes, restrained typography and immersive project storytelling.
 - [Made in Webflow](../sites/made-in-webflow.md) — A searchable showcase of community websites, with category filters, live previews and an explicit cloneable-sites option.
@@ -167,6 +170,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.
 - [Saaspo](../sites/saaspo.md) — Free gallery of SaaS marketing pages you can filter by page type, industry, visual style, asset type and build stack, plus section and OG image views.
 - [Sahil Singh](../sites/sahil-singh.md) — A dark, grid-based design engineer portfolio with a command palette, live component examples, projects and writing.
+- [Samiran De](../sites/samiran-de.md) — A dark portfolio with a pixel-art waterfall banner and vivid project cards arranged in a strict grid.
 - [Samwrks](../sites/samwrks.md) — Sameer Singh's split-screen design portfolio, with a fixed personal introduction beside full-width case-study previews.
 - [Saurabh Sharma](../sites/srbh-site.md) — A compact developer portfolio that turns contribution history, pull requests, components and a dated learning log into browsable sections.
 - [Saved](../sites/saved.md) — Daily design gallery with filters for web, interfaces, branding, motion, 3D, illustration, typography and posters.
@@ -202,6 +206,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
 - [Unicorn Studio](../sites/unicorn-studio.md) — A visual shader editor with a gallery of animated, interactive graphics that can be embedded on websites.
 - [Unsection](../sites/unsection.md) — A searchable gallery of real website sections, filterable by block type, visual style and industry.
+- [Unseen Studio](../sites/unseen.md) — Studio portfolio with a pastel 3D world, expressive serif and sans typography, and a filtered project grid.
 - [Untitled UI](../sites/untitled-ui.md) — Large Figma and React design system with a clean component browser and a clearly marked free subset alongside paid kits.
 - [UserOnboard](../sites/useronboard.md) — Annotated onboarding teardowns presented as navigable screen sequences, useful for studying flow, hierarchy and progressive disclosure.
 - [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.

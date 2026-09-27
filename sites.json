@@ -904,6 +904,30 @@
       ]
     },
     {
+      "slug": "animesh-thakur",
+      "path": "sites/animesh-thakur.md",
+      "title": "Animesh Thakur",
+      "description": "A grid-based portfolio with offset display lettering, diagonal section dividers, project cards and a compact music player.",
+      "url": "https://animeshh.me",
+      "type": "website",
+      "formats": "Personal portfolio · project gallery",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site states all rights reserved; no reuse licence stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "wall-of-portfolios",
+        "minimal-gallery"
+      ]
+    },
+    {
       "slug": "animista",
       "path": "sites/animista.md",
       "title": "Animista",
@@ -4000,6 +4024,30 @@
         "motion-primitives",
         "dialkit",
         "kinetics"
+      ]
+    },
+    {
+      "slug": "dhruv-deora",
+      "path": "sites/dhruv-deora.md",
+      "title": "Dhruv Deora",
+      "description": "A playful portfolio pairing editorial typography and colorful project tiles with small pixel-art interactions.",
+      "url": "https://dhruvdeora.com",
+      "type": "website",
+      "formats": "Personal portfolio · product and project gallery",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No reuse terms stated; treat the portfolio and project visuals as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "wall-of-portfolios",
+        "minimal-gallery"
       ]
     },
     {
@@ -7802,6 +7850,31 @@
       ]
     },
     {
+      "slug": "locomotive",
+      "path": "sites/locomotive.md",
+      "title": "Locomotive",
+      "description": "Montreal studio portfolio pairing an audiovisual hero with a filterable work archive and detailed project pages.",
+      "url": "https://locomotive.ca/en",
+      "type": "website",
+      "formats": "creative studio portfolio · filterable project archive · case studies",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. Its privacy policy is published, but no reuse licence or site terms were found; project visuals belong to their respective owners and should be treated as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "folios-gallery",
+        "siteinspire"
+      ]
+    },
+    {
       "slug": "logo-lounge",
       "path": "sites/logo-lounge.md",
       "title": "LogoLounge",
@@ -10926,6 +10999,30 @@
       ]
     },
     {
+      "slug": "samiran-de",
+      "path": "sites/samiran-de.md",
+      "title": "Samiran De",
+      "description": "A dark portfolio with a pixel-art waterfall banner and vivid project cards arranged in a strict grid.",
+      "url": "https://samworks.vercel.app",
+      "type": "website",
+      "formats": "Personal portfolio · project gallery",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site states all rights reserved; no reuse licence stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "wall-of-portfolios",
+        "minimal-gallery"
+      ]
+    },
+    {
       "slug": "samwrks",
       "path": "sites/samwrks.md",
       "title": "Samwrks",
@@ -13586,6 +13683,33 @@
         "site-of-sites",
         "81-web",
         "godly"
+      ]
+    },
+    {
+      "slug": "unseen",
+      "path": "sites/unseen.md",
+      "title": "Unseen Studio",
+      "description": "Studio portfolio with a pastel 3D world, expressive serif and sans typography, and a filtered project grid.",
+      "url": "https://unseen.co/",
+      "type": "website",
+      "formats": "creative studio portfolio · 3D environment · branding, digital and motion projects",
+      "topics": [
+        "inspiration",
+        "motion",
+        "3d-and-shaders",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site is free to browse. No reuse licence for its design, writing, imagery or featured work was stated at review; treat these as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "folios-gallery",
+        "lusion",
+        "unicorn-studio"
       ]
     },
     {
