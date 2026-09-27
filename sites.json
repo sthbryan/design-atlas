@@ -280,6 +280,33 @@
       ]
     },
     {
+      "slug": "81-web",
+      "path": "sites/81-web.md",
+      "title": "81-web",
+      "description": "A Japanese web design archive with filters for type, category, color, font, tags, studio and date, plus desktop/mobile and cover/masonry views.",
+      "url": "https://81-web.com",
+      "type": "gallery",
+      "formats": "Japanese website gallery · desktop and mobile previews · cover and masonry layouts · multi-axis filters",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. No reuse licence for gallery captures or indexed websites was stated on the accessible pages; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "a1-gallery",
+        "minimal-gallery",
+        "awwwards"
+      ]
+    },
+    {
       "slug": "8bitcn",
       "path": "sites/8bitcn.md",
       "title": "8bitcn",
@@ -4769,6 +4796,33 @@
       ]
     },
     {
+      "slug": "godly",
+      "path": "sites/godly.md",
+      "title": "Godly",
+      "description": "A dark, masonry-style gallery for websites, app screens, logos and UI details, with focused routes for page sections and visual assets.",
+      "url": "https://godly.design",
+      "type": "gallery",
+      "formats": "curated web and app references · website records · section and asset galleries",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. No reuse licence was stated on the accessible pages; treat gallery media and featured work as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "a1-gallery",
+        "minimal-gallery",
+        "awwwards"
+      ]
+    },
+    {
       "slug": "good-ui",
       "path": "sites/good-ui.md",
       "title": "Good UI",
@@ -5392,6 +5446,32 @@
         "vercel-web-design-guidelines",
         "impeccable",
         "designmd"
+      ]
+    },
+    {
+      "slug": "ichiban-bike",
+      "path": "sites/ichiban-bike.md",
+      "title": "Ichiban Motorcycle",
+      "description": "A single-site visual reference for restrained product storytelling with oversized color, a centered object and tightly ordered labels.",
+      "url": "https://www.ichiban.bike/",
+      "type": "website",
+      "formats": "electric motorcycle product landing page · editorial product storytelling",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The page invites visitors to register interest for release dates and pricing; no site or asset reuse licence was stated. Privacy and cookie policies are linked, but no general terms were verified. Treat the design and media as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "awwwards",
+        "minimal-gallery"
       ]
     },
     {
@@ -7613,6 +7693,33 @@
         "60fps",
         "motion-primitives",
         "design-motion-principles"
+      ]
+    },
+    {
+      "slug": "muuuuu",
+      "path": "sites/muuuuu.md",
+      "title": "MUUUUU.ORG",
+      "description": "A Japanese design award gallery that highlights a daily site and tags work by composition, typography, color, motion and visual technique.",
+      "url": "https://muuuuu.org",
+      "type": "gallery",
+      "formats": "Japanese web design gallery · daily site award · visual and industry categories · studio credits",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. No reuse licence for captures or featured sites was stated on the accessible pages; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "a1-gallery",
+        "minimal-gallery",
+        "awwwards"
       ]
     },
     {
@@ -12447,6 +12554,33 @@
         "shadcnblocks",
         "21st-dev",
         "magic-ui"
+      ]
+    },
+    {
+      "slug": "web-design-clip",
+      "path": "sites/web-design-clip.md",
+      "title": "Web Design Clip",
+      "description": "A Japanese website gallery with separate Japan, world, landing-page and smartphone collections plus color, layout, category and technology filters.",
+      "url": "https://webdesignclip.com",
+      "type": "gallery",
+      "formats": "Japanese website gallery · color and layout filters · category and technology tags · regional collections",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. The accessible pages did not state a reuse licence for screenshots or index data; treat both as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "a1-gallery",
+        "minimal-gallery",
+        "awwwards"
       ]
     },
     {
