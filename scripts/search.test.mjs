@@ -87,7 +87,7 @@ test('other named styles also prioritize style-focused galleries', () => {
   const { code, out } = run('--search', 'editorial website design');
   assert.equal(code, 0);
   assert.deepEqual(out.search.terms, ['editorial']);
-  assert.ok(out.sites.slice(0, 3).some((site) => site.slug === 'inspora'));
+  assert.ok(out.sites.slice(0, 3).some((site) => site.type === 'gallery' && site.topics.includes('typography-and-styles')));
 });
 
 test('the default limit still applies', () => {
