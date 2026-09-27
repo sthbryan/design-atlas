@@ -85,9 +85,12 @@ Run `scripts/query.mjs` with Node 18 or later. Call it by its full path from the
 
 When the need is free text, start with `--search` and the user's most distinctive design terms, plus the constraint filters. Drop generic words such as "website" and "design" if they drown out the intended style. It ranks sites offline against `references/search-index.json`, folds plurals, expands design synonyms from `references/synonyms.json` and corrects typos. Filters apply before ranking.
 
+For a whole website's visual direction, start with `--type gallery` so matching skills, tools and component kits do not displace real website references; broaden to other types only for a specific need. A `directory` points to sources, a component library or registry helps compare one UI pattern, and an agent skill supplies rules rather than an observed website. Keep those roles separate in the brief.
+
 ```sh
 SKILL_DIR=path/to/design-atlas
 node "$SKILL_DIR/scripts/query.mjs" --search "animated icons for react" --licence ship
+node "$SKILL_DIR/scripts/query.mjs" --search "brutalism" --type gallery
 node "$SKILL_DIR/scripts/query.mjs" --topic icons,assets --licence ship --agent any
 node "$SKILL_DIR/scripts/query.mjs" --topic components --agent mcp --min-verdict useful
 node "$SKILL_DIR/scripts/query.mjs" --slug iconoir,icons0 --full
