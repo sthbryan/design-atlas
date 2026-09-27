@@ -26,6 +26,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Atmos](../sites/atmos.md) — OKLCH palette workspace with shade, gamut and contrast tools for building UI color systems.
 - [Behance](../sites/behance.md) — Adobe's portfolio network of long-form case studies for branding, type and UI; blocks AI crawlers and scripted access.
 - [Best Designs on X](../sites/bestdesignsonx.md) — Hourly feed of 9,400+ credited design posts from X, plus Instagram, Dribbble, Behance, fonts, app icons and OG images; Panda Network, sponsor-funded.
+- [Best Free Fonts](../sites/best-free-fonts.md) — A searchable font catalog with live specimens, variable-font details and license information on each font page.
 - [Browse.cool](../sites/browse-cool.md) — A beta gallery of 25 high-craft, type-led sites and 194 screenshots and clips for mood-boarding.
 - [Color.review](../sites/color-review.md) — WCAG 2.1 contrast checker with pass/fail lines on the picker and shareable pair links.
 - [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
@@ -43,6 +44,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [DesignMD.cc](../sites/designmd-cc.md) — Free URL-to-DESIGN.md generator measuring live CSS, with an MIT CLI and a benchmark library.
 - [designmd.supply](../sites/designmd-supply.md) — Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
 - [Dither Kit](../sites/dither-kit.md) — Dithered canvas charts (area, bar, pie, radar) with a Recharts-style API and a single Markdown docs file.
+- [Ditther](../sites/ditther.md) — A browser editor and effect gallery for pixel, dither, ASCII and print-like treatments across still images and motion.
 - [DotForge](../sites/dotforge.md) — Browser tool with 51 animated effects, dither patterns and post-FX; exports PNG, video or an HTML embed.
 - [emailcn](../sites/emailcn.md) — Email sections and full templates for React Email, MJML React and JSX Email, with shared themes.
 - [everywhere.tools](../sites/everywhere-tools.md) — Small hand-picked set of 20 experimental type tools, open-source foundries, generative image tools and portfolio builders for designers.

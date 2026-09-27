@@ -1459,6 +1459,62 @@
       ]
     },
     {
+      "slug": "benday",
+      "path": "sites/benday.md",
+      "title": "benday",
+      "description": "An MIT React component that turns a logo into a halftone mark with 21 controllable loading and agent-state animations.",
+      "url": "https://benday.kacemmathlouthi.dev",
+      "type": "component-library",
+      "formats": "React component · shadcn registry · logo-based loading indicator",
+      "topics": [
+        "motion",
+        "components",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free; the public GitHub repository declares MIT.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "heroicons-animated",
+        "animated-icons",
+        "motion-primitives",
+        "magic-ui"
+      ]
+    },
+    {
+      "slug": "best-free-fonts",
+      "path": "sites/best-free-fonts.md",
+      "title": "Best Free Fonts",
+      "description": "A searchable font catalog with live specimens, variable-font details and license information on each font page.",
+      "url": "https://bestfreefonts.com",
+      "type": "font-library",
+      "formats": "font catalog · live text specimens · individual font pages",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; each typeface has its own license, shown on its detail page. The site's terms say specimens are for display and the fonts belong to their creators.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "fontsource",
+        "typeface-fyi",
+        "typewolf",
+        "fonts-in-use"
+      ]
+    },
+    {
       "slug": "best-saas-web-designs",
       "path": "sites/best-saas-web-designs.md",
       "title": "Best SaaS Web Designs",
@@ -3377,6 +3433,33 @@
         "8bitcn",
         "termcn",
         "dotforge"
+      ]
+    },
+    {
+      "slug": "ditther",
+      "path": "sites/ditther.md",
+      "title": "Ditther",
+      "description": "A browser editor and effect gallery for pixel, dither, ASCII and print-like treatments across still images and motion.",
+      "url": "https://ditther.com",
+      "type": "tool",
+      "formats": "browser-based image and video editor · pixel effects · poster tutorials",
+      "topics": [
+        "assets",
+        "motion",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The core editor is free; Pro is listed at $8/month and Pro+ at $69 one-time. No reuse licence for the editor or its showcased images is stated; treat those as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "dither-kit",
+        "imageory",
+        "screan",
+        "ui-camera"
       ]
     },
     {
@@ -8579,6 +8662,32 @@
       ]
     },
     {
+      "slug": "railway",
+      "path": "sites/railway.md",
+      "title": "Railway",
+      "description": "A cloud platform with a polished illustrated homepage and a focused no-signup VM campaign page.",
+      "url": "https://railway.com",
+      "type": "tool",
+      "formats": "cloud deployment platform · product marketing site · free VM campaign page",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Railway has a $0 Free plan, $5/month Hobby and $20/month Pro, with usage-based billing. The service and site are proprietary; no reuse licence for their visual assets is stated.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "vercel-web-design-guidelines",
+        "framer",
+        "best-saas-web-designs",
+        "appinspo"
+      ]
+    },
+    {
       "slug": "ramps",
       "path": "sites/ramps.md",
       "title": "Ramps",
@@ -9382,6 +9491,33 @@
         "before-click",
         "appshot-gallery",
         "ui-camera"
+      ]
+    },
+    {
+      "slug": "screen-movie",
+      "path": "sites/screen-movie.md",
+      "title": "Screen Movie",
+      "description": "A macOS recording and motion editor whose site shows cinematic ways to frame, zoom and animate product demos.",
+      "url": "https://screen.movie",
+      "type": "tool",
+      "formats": "native macOS screen recorder · video editor · motion presets · 3D mockups",
+      "topics": [
+        "motion",
+        "assets",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "The one-time app price is $39 for one device during the early offer ($79 regular price at review); terms provide a limited personal app license. Built-in assets may be used in exported videos but cannot be extracted or redistributed.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "screan",
+        "ui-camera",
+        "backgrounds-supply",
+        "craftwork"
       ]
     },
     {
@@ -10284,6 +10420,32 @@
       ]
     },
     {
+      "slug": "spherium",
+      "path": "sites/spherium.md",
+      "title": "Spherium",
+      "description": "A WebGL globe editor for styling world maps as dot fields and exporting the result as SVG.",
+      "url": "https://tryspherium.com",
+      "type": "tool",
+      "formats": "WebGL map generator · point patterns · SVG export",
+      "topics": [
+        "3d-and-shaders",
+        "data-viz",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "Beta 1.0 at review; no pricing, terms or reuse licence were stated on the public editor page.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "dot-matrix",
+        "threejs",
+        "poly-haven"
+      ]
+    },
+    {
       "slug": "spline",
       "path": "sites/spline.md",
       "title": "Spline",
@@ -10576,6 +10738,38 @@
         "ui-taste",
         "emil-kowalski-skills",
         "laws-of-ux"
+      ]
+    },
+    {
+      "slug": "swift-pieces",
+      "path": "sites/swift-pieces.md",
+      "title": "Swift Pieces",
+      "description": "Animated SwiftUI components for iOS with live interaction previews, single-file source and agent installation paths.",
+      "url": "https://swiftpieces.com",
+      "type": "component-library",
+      "formats": "SwiftUI component library · CLI · MCP · shadcn-style registry",
+      "topics": [
+        "components",
+        "motion",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli",
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "The 55-item free library at review is MIT plus Commons Clause: usable in personal and commercial apps, but not for resale or redistribution as a library. Pro is a $199 one-time purchase per developer at review and grants commercial use for its paid screens and templates.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "liquid-glass",
+        "motion-primitives",
+        "base-ui",
+        "shadcn-ui"
       ]
     },
     {
@@ -10935,6 +11129,33 @@
         "book-of-shaders",
         "paper-shaders",
         "compute-toys"
+      ]
+    },
+    {
+      "slug": "tokokino",
+      "path": "sites/tokokino.md",
+      "title": "Tokokino",
+      "description": "A browser editor with reusable device-frame, screenshot and animated product-demo compositions.",
+      "url": "https://tokokino.com",
+      "type": "design-workspace",
+      "formats": "screenshot and product-demo editor · device frames · templates · motion timeline",
+      "topics": [
+        "assets",
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The editor is free at review. The source and project materials are AGPL-3.0; site terms reserve third-party images, brand assets and user content to their respective owners.",
+      "licence_class": "open-source-copyleft",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "screan",
+        "ui-camera",
+        "craftwork",
+        "before-click"
       ]
     },
     {
@@ -11585,6 +11806,33 @@
         "devouring-details",
         "design-spells",
         "uilabs"
+      ]
+    },
+    {
+      "slug": "unicorn-studio",
+      "path": "sites/unicorn-studio.md",
+      "title": "Unicorn Studio",
+      "description": "A visual shader editor with a gallery of animated, interactive graphics that can be embedded on websites.",
+      "url": "https://www.unicorn.studio",
+      "type": "design-workspace",
+      "formats": "shader and motion editor · interactive scenes · inspiration gallery · embed",
+      "topics": [
+        "3d-and-shaders",
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free is $0 and limited to personal, non-commercial use with a watermark. Legend is $14/month billed yearly or $20 month-to-month and grants commercial use; do not redistribute the editor or its assets.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-26",
+      "status": "active",
+      "related": [
+        "paper-shaders",
+        "spline",
+        "theatrejs",
+        "threejs"
       ]
     },
     {
