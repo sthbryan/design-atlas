@@ -558,6 +558,31 @@
       ]
     },
     {
+      "slug": "active-theory",
+      "path": "sites/active-theory.md",
+      "title": "Active Theory",
+      "description": "A creative studio portfolio built around a dark, animated particle scene and a compact route into its project work.",
+      "url": "https://activetheory.net/",
+      "type": "website",
+      "formats": "creative studio portfolio · animated 3D scene and project archive",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse. No reuse licence for its design, code or featured work, or public pricing, is stated; treat it as a look-only reference.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "lusion",
+        "locomotive"
+      ]
+    },
+    {
       "slug": "addy-osmani-web-quality-skills",
       "path": "sites/addy-osmani-web-quality-skills.md",
       "title": "Web Quality Skills",
@@ -609,6 +634,30 @@
       "related": [
         "psudokit",
         "craft-gustavo-fior"
+      ]
+    },
+    {
+      "slug": "aframe",
+      "path": "sites/aframe.md",
+      "title": "A-Frame",
+      "description": "An HTML-first framework for interactive WebXR scenes, with live 3D examples and a visual inspector.",
+      "url": "https://aframe.io",
+      "type": "js-library",
+      "formats": "JavaScript WebXR framework · HTML entity-component model · live scene examples",
+      "topics": [
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The framework source is MIT-licensed in the repository. Check each example's third-party assets separately; the site content has no stated blanket reuse licence.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "threejs",
+        "playcanvas"
       ]
     },
     {
@@ -700,6 +749,30 @@
         "anthropic-design-plugin",
         "accesslint-skills",
         "ui-ux-pro-max"
+      ]
+    },
+    {
+      "slug": "alpine-bio",
+      "path": "sites/alpine-bio.md",
+      "title": "Alpine Bio",
+      "description": "Biotech brand landing page by Resn with ingredient macro imagery, oversized sans type and floating navigation.",
+      "url": "https://alpbio.com/",
+      "type": "website",
+      "formats": "biotech brand landing page · editorial product imagery",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The website is free to browse; no reuse licence for its design, code, imagery or branding was stated on the pages checked. Treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "unseen",
+        "locomotive"
       ]
     },
     {
@@ -1800,6 +1873,32 @@
       ]
     },
     {
+      "slug": "bentogrids",
+      "path": "sites/bentogrids.md",
+      "title": "BentoGrids",
+      "description": "A visual catalogue of tile based layouts with category and theme filters and links to the live sites behind each example.",
+      "url": "https://bentogrids.com",
+      "type": "gallery",
+      "formats": "bento layout gallery · category and theme filters · source links",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; the About page says featured work remains the respective creators' intellectual property. No reuse licence for gallery material was stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "design-sorcery",
+        "css-design-awards"
+      ]
+    },
+    {
       "slug": "best-free-fonts",
       "path": "sites/best-free-fonts.md",
       "title": "Best Free Fonts",
@@ -2113,6 +2212,31 @@
         "minimal-gallery",
         "curated-design",
         "hover-states"
+      ]
+    },
+    {
+      "slug": "bruno-simon",
+      "path": "sites/bruno-simon.md",
+      "title": "Bruno Simon",
+      "description": "A playable 3D portfolio that turns project discovery into driving through a stylized low-poly world.",
+      "url": "https://bruno-simon.com/",
+      "type": "website",
+      "formats": "personal portfolio · interactive Three.js driving world",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The public folio-2025 repository licenses its source under MIT and identifies its music as CC0. Check individual media and assets before reuse.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "hexgl",
+        "lusion"
       ]
     },
     {
@@ -3052,6 +3176,32 @@
         "flowbite",
         "shadcn-ui",
         "headless-ui"
+      ]
+    },
+    {
+      "slug": "daniel-white",
+      "path": "sites/daniel-white.md",
+      "title": "Daniel White",
+      "description": "A portfolio presented as an illustrated book, with warm paper tones, editorial serif typography and chapter-like project navigation.",
+      "url": "https://www.danielwhite.uk",
+      "type": "website",
+      "formats": "design engineer portfolio · illustrated editorial layout",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Public portfolio pages are free to view; no reuse licence for the writing or illustrations was stated. Treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "design-sorcery",
+        "siteinspire",
+        "css-design-awards"
       ]
     },
     {
@@ -5271,6 +5421,31 @@
       ]
     },
     {
+      "slug": "frameset",
+      "path": "sites/frameset.md",
+      "title": "Frameset",
+      "description": "Search film and advertising frames by text or image, then open individual references to study composition, colour and camera treatment.",
+      "url": "https://frameset.app/",
+      "type": "gallery",
+      "formats": "searchable film and advertising frame library · text and image search · saved projects",
+      "topics": [
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "At review, the free tier showed 10 searches remaining and allowed one project per type; Pro was listed at $15.99 per member per month on monthly billing, with an annual option advertised at 32% savings. Terms permit reference and inspiration use only; library content cannot be used as the final published media.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "eyecannndy",
+        "motionimo",
+        "landing-love"
+      ]
+    },
+    {
       "slug": "framio",
       "path": "sites/framio.md",
       "title": "Framio",
@@ -5319,6 +5494,32 @@
         "iconify",
         "lucide",
         "tabler-icons"
+      ]
+    },
+    {
+      "slug": "gallereee",
+      "path": "sites/gallereee.md",
+      "title": "Gallereee",
+      "description": "A portfolio gallery filterable by visual style, with individual records that link to the published sites.",
+      "url": "https://gallereee.com/",
+      "type": "gallery",
+      "formats": "curated portfolio gallery · style and profession filters · website detail pages · live-site links",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The gallery was free to browse at review, and no separate price or reuse licence for its featured screenshots was stated on the pages inspected. Treat captures as look-only; featured work belongs to its creators.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "siteinspire",
+        "a1-gallery",
+        "one-page-love"
       ]
     },
     {
@@ -6017,6 +6218,36 @@
         "react-three-fiber",
         "wwwtf",
         "blender"
+      ]
+    },
+    {
+      "slug": "higgsfield",
+      "path": "sites/higgsfield.md",
+      "title": "Higgsfield",
+      "description": "A dark, media-led creative-suite landing page with chartreuse controls, cinematic previews and a compact product navigation.",
+      "url": "https://higgsfield.ai/",
+      "type": "website",
+      "formats": "AI creative product landing page · cinematic showcase · MCP, CLI and API integrations",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "mcp",
+        "cli",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The site has a free plan; Starter is listed at $15/month with annual billing at review. The Terms of Use reserve rights in the Service and site content, while generated outputs are treated separately; use the page and its media as look-only.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "marathonthegame",
+        "design-sorcery",
+        "supahero"
       ]
     },
     {
@@ -9790,6 +10021,30 @@
       ]
     },
     {
+      "slug": "patatap",
+      "path": "sites/patatap.md",
+      "title": "Patatap",
+      "description": "A keyboard-driven sound and shape toy where each letter triggers a brief animated mark against a quiet canvas.",
+      "url": "https://patatap.com/",
+      "type": "website",
+      "formats": "interactive sound and motion experiment · two-dimensional canvas",
+      "topics": [
+        "inspiration",
+        "motion",
+        "sound"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The browser experience is available to try. Its linked privacy policy describes analytics but states no reuse licence for the site's code, visuals or sounds; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "chrome-music-lab"
+      ]
+    },
+    {
       "slug": "pdfcn",
       "path": "sites/pdfcn.md",
       "title": "pdfcn",
@@ -9937,6 +10192,34 @@
         "are-na",
         "designspiration",
         "appinspo"
+      ]
+    },
+    {
+      "slug": "pixel-perfect",
+      "path": "sites/pixel-perfect.md",
+      "title": "Pixel Perfect UI",
+      "description": "A free React component gallery with live previews, visual controls, source code and shadcn-compatible install commands.",
+      "url": "https://www.pixel-perfect.space",
+      "type": "component-library",
+      "formats": "React component gallery · live playground · shadcn-compatible registry",
+      "topics": [
+        "components",
+        "motion",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "The site offers free browsing and component install commands and suggests a $3 donation at review to support maintenance. Its linked GitHub repository had no named licence at review, so code reuse terms are not stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "motion-primitives",
+        "aceternity-ui",
+        "nexvyn-ui"
       ]
     },
     {
@@ -11075,6 +11358,33 @@
       ]
     },
     {
+      "slug": "savee",
+      "path": "sites/savee.md",
+      "title": "Savee",
+      "description": "Editorial motion-template shop with After Effects, Figma and Jitter previews for studying kinetic type and product compositions.",
+      "url": "https://marketplace.savee.com/",
+      "type": "template-library",
+      "formats": "After Effects · Figma · Jitter motion templates",
+      "topics": [
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "paid",
+      "licence": "Marketplace templates are paid; at review, Standard, Commercial and Commercial+ licences covered up to 1, 5 and 20 users respectively, with unlimited projects. Redistribution is prohibited. The main Savee MCP is available on paid plans; the included imagery in the reviewed Titles example is not licensed for commercial use.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "lottiefiles",
+        "dribbble",
+        "godly"
+      ]
+    },
+    {
       "slug": "sceneai",
       "path": "sites/sceneai.md",
       "title": "SceneAI",
@@ -11664,6 +11974,33 @@
       ]
     },
     {
+      "slug": "shadertoy",
+      "path": "sites/shadertoy.md",
+      "title": "Shadertoy",
+      "description": "Community gallery of live GLSL scenes with an in-browser shader editor and a documented API for public examples.",
+      "url": "https://www.shadertoy.com/",
+      "type": "gallery",
+      "formats": "GLSL fragment shaders · interactive WebGL canvas · API",
+      "topics": [
+        "3d-and-shaders",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "Browsing and authoring are free; API keys are free but require Silver or Gold account status, and API use is capped at 1,500 requests per month at review. Each shader's author controls its licence; the default when none is selected is CC BY-NC-SA 3.0. The platform and editor are proprietary.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "grainient",
+        "metalforge",
+        "mesh3d"
+      ]
+    },
+    {
       "slug": "shape-of-ai",
       "path": "sites/shape-of-ai.md",
       "title": "The Shape of AI",
@@ -11937,6 +12274,33 @@
         "siteinspire",
         "minimal-gallery",
         "godly"
+      ]
+    },
+    {
+      "slug": "sketchfab",
+      "path": "sites/sketchfab.md",
+      "title": "Sketchfab",
+      "description": "Interactive 3D model gallery with orbitable browser previews, model annotations and filters for visual reference.",
+      "url": "https://sketchfab.com/3d-models",
+      "type": "gallery",
+      "formats": "interactive 3D model viewer · glTF · Viewer API",
+      "topics": [
+        "3d-and-shaders",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "Basic is free; Pro is $15/month and Premium $79/month when billed yearly at review. Model rights and download licences vary by uploader; free downloads can use Sketchfab's License Agreement or a Creative Commons licence, and paid downloads have a separate licence. The platform, viewer and its own content are proprietary.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "spline",
+        "mesh3d",
+        "3dicons"
       ]
     },
     {
