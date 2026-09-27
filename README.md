@@ -20,7 +20,9 @@ A curated set of references for building websites and UI — galleries, componen
 | [`llms.txt`](llms.txt) | One line per site with its filterable fields, for agents that read text |
 | [`sites.json`](sites.json) | The same metadata as JSON, for agents that read structured data |
 | [`skills/`](skills) | Two installable agent skills built on the atlas |
-| [`scripts/`](scripts) | `build.mjs`, which generates every index, and the search tests |
+| [`DESIGN.md`](DESIGN.md) | The atlas website's own visual identity, as a DESIGN.md file |
+| [`design-md/`](design-md) | A library of original DESIGN.md files to copy into your own projects |
+| [`scripts/`](scripts) | `build.mjs`, which generates every index and validates the DESIGN.md files, and the tests |
 | [`TEMPLATE.md`](TEMPLATE.md) | The frontmatter fields and sections every site page uses |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How sites are added, reviewed and removed, and the writing rules |
 | [`AGENTS.md`](AGENTS.md) | How coding agents should read and edit this repository |
@@ -70,6 +72,10 @@ In Claude Code, install them as a plugin. The skills then run as `/design-atlas:
 
 A plugin install carries the whole atlas, so `design-atlas` reads the site pages directly. The skills CLI copies only the skill folder, so `design-atlas` then uses raw GitHub or its bundled catalog, which `npm run build` regenerates from the same data as `sites.json`.
 
+## DESIGN.md files
+
+The atlas writes its own DESIGN.md files, in the format the `design-atlas-ui` skill reads: exact tokens for light and dark, type, spacing, motion and components, with the reasons behind them and every contrast pair computed. [DESIGN.md](DESIGN.md) at the root is the identity for the atlas website and the reference example. [`design-md/`](design-md/README.md) holds the style library, with its index, the licence (CC BY 4.0, credit line included) and how to copy a file into your project. `npm run check` validates every one of them.
+
 ## How the indexes work
 
 `npm run build` generates `llms.txt`, `sites.json`, the hub source lists, each page's breadcrumb and "Related" line, and the three reference files inside `skills/design-atlas/references/`. Nothing generated is edited by hand, and `npm run check` fails if any of it is stale.
@@ -90,6 +96,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add, update or remove a site, 
 
 ## Licence
 
-- Content (the site pages, topic hubs, this README and the other Markdown files) is licensed under [CC BY 4.0](LICENSE). Credit "Design Atlas contributors" and link back to this repository when you reuse it.
+- Content (the site pages, topic hubs, the DESIGN.md files, this README and the other Markdown files) is licensed under [CC BY 4.0](LICENSE). Credit "Design Atlas contributors" and link back to this repository when you reuse it.
 - Code (`scripts/`) and the agent skills in `skills/` are licensed under the [MIT licence](LICENSE-CODE). Each skill folder carries its own `LICENSE` file, because installers copy only that folder. The generated `catalog.json`, `hub-map.md` and `search-index.json` inside `skills/design-atlas/references/` are atlas content under CC BY 4.0.
 - Site names, logos and trademarks belong to their owners. Short quotes stay with their original authors, and the licence of every reviewed site still applies to that site's own code, assets and text.
