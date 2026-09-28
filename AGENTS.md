@@ -4,9 +4,9 @@ Instructions for coding agents that read or edit this repository. The user's own
 
 ## What this repo is
 
-Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md` holds one page per site, with YAML frontmatter and seven fixed sections. `topics/<slug>.md` holds the topic hubs. `scripts/build.mjs` generates every index from the frontmatter. `DESIGN.md` is the visual identity for the atlas website, and `design-md/` holds a library of original style DESIGN.md files; `npm run check` validates both against the format in `skills/design-atlas-ui/references/design-md-format.md`.
+Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md` holds one page per site, with YAML frontmatter and seven fixed sections. `topics/<slug>.md` holds the topic hubs. `scripts/build.mjs` generates every index from the frontmatter. `site/DESIGN.md` is the visual identity for the atlas website, and `design-md/` holds a library of original style DESIGN.md files; `npm run check` validates both against the format in `skills/design-atlas-ui/references/design-md-format.md`.
 
-Before any UI work on the atlas website, read `DESIGN.md` and take every value from it.
+Before any UI work on the atlas website, read `site/DESIGN.md` and take every value from it.
 
 ## Reading the atlas
 

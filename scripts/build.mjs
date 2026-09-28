@@ -136,7 +136,7 @@ for (const s of sites) {
 const motionTokens = parseMotionTokens(read('skills/design-atlas-ui/references/resolved-conflicts.md'));
 if (!motionTokens['--dur-menu']) fail('skills/design-atlas-ui/references/resolved-conflicts.md', 'motion token block not found');
 const designFiles = [
-  'DESIGN.md',
+  'site/DESIGN.md',
   ...(existsSync(join(ROOT, 'design-md')) ? readdirSync(join(ROOT, 'design-md')).filter((f) => f.endsWith('.md') && f !== 'README.md').sort().map((f) => `design-md/${f}`) : []),
 ].filter((path) => existsSync(join(ROOT, path)));
 for (const path of designFiles) for (const message of validateDesignMd(read(path), { motionTokens })) fail(path, message);
@@ -268,7 +268,7 @@ outputs.set('llms.txt', [
   '- [Page template](TEMPLATE.md): the frontmatter fields and sections every site page uses',
   '- [Contributing](CONTRIBUTING.md): how sites are added, reviewed and removed, and the allowed frontmatter values',
   '- [AGENTS.md](AGENTS.md): how agents should read and edit this repository',
-  '- [DESIGN.md](DESIGN.md): the visual identity for the atlas website, in the DESIGN.md format the design-atlas-ui skill reads',
+  '- [DESIGN.md](site/DESIGN.md): the visual identity for the atlas website, in the DESIGN.md format the design-atlas-ui skill reads',
   '- [DESIGN.md library](design-md/README.md): original style DESIGN.md files to copy into a project, under CC BY 4.0',
   '- [design-atlas skill](skills/design-atlas/SKILL.md): an agent skill that queries this atlas and writes a cited, licence-checked brief',
   '- [design-atlas-ui skill](skills/design-atlas-ui/SKILL.md): an agent skill that builds and reviews UI from a DESIGN.md, using this atlas for references',

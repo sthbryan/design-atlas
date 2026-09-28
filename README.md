@@ -20,7 +20,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [`llms.txt`](llms.txt) | One line per site with its filterable fields, for agents that read text |
 | [`sites.json`](sites.json) | The same metadata as JSON, for agents that read structured data |
 | [`skills/`](skills) | Two installable agent skills built on the atlas |
-| [`DESIGN.md`](DESIGN.md) | The atlas website's own visual identity, as a DESIGN.md file |
+| [`site/DESIGN.md`](site/DESIGN.md) | The atlas website's own visual identity, as a DESIGN.md file |
 | [`design-md/`](design-md) | A library of original DESIGN.md files to copy into your own projects |
 | [`scripts/`](scripts) | `build.mjs`, which generates every index and validates the DESIGN.md files, and the tests |
 | [`TEMPLATE.md`](TEMPLATE.md) | The frontmatter fields and sections every site page uses |
@@ -74,7 +74,7 @@ A plugin install carries the whole atlas, so `design-atlas` reads the site pages
 
 ## DESIGN.md files
 
-The atlas writes its own DESIGN.md files, in the format the `design-atlas-ui` skill reads: exact tokens for light and dark, type, spacing, motion and components, with the reasons behind them and every contrast pair computed. [DESIGN.md](DESIGN.md) at the root is the identity for the atlas website and the reference example. [`design-md/`](design-md/README.md) holds the style library, with its index, the licence (CC BY 4.0, credit line included) and how to copy a file into your project. `npm run check` validates every one of them, and `node scripts/design-md.mjs path/to/DESIGN.md` checks any file against the same format. The `design-atlas-ui` skill ships the same validator, so an installed skill can check a project's DESIGN.md without the atlas.
+The atlas writes its own DESIGN.md files, in the format the `design-atlas-ui` skill reads: exact tokens for light and dark, type, spacing, motion and components, with the reasons behind them and every contrast pair computed. [site/DESIGN.md](site/DESIGN.md) is the identity for the atlas website and the reference example. [`design-md/`](design-md/README.md) holds the style library, with its index, the licence (CC BY 4.0, credit line included) and how to copy a file into your project. `npm run check` validates every one of them, and `node scripts/design-md.mjs path/to/DESIGN.md` checks any file against the same format. The `design-atlas-ui` skill ships the same validator, so an installed skill can check a project's DESIGN.md without the atlas.
 
 ## How the indexes work
 

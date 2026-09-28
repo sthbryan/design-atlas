@@ -82,7 +82,7 @@ Don't delete the file. Set `status` to `removed` and give the reason in `note`. 
 
 ## Add a DESIGN.md
 
-The atlas keeps its own DESIGN.md files: `DESIGN.md` at the root, the identity for the atlas website, and a style library in `design-md/`, one file per style.
+The atlas keeps its own DESIGN.md files: `site/DESIGN.md`, the identity for the atlas website, and a style library in `design-md/`, one file per style.
 
 1. Pick a slug that names the style, such as `design-md/<style>.md`. Never name a brand, a product or a person.
 2. Write it in the format owned by the `design-atlas-ui` skill, [design-md-format.md](skills/design-atlas-ui/references/design-md-format.md): the eight front-matter keys, the Colors table with a dark column and a declared pair for every foreground, and the fifteen sections in order. Follow the skill's workflow to choose the direction: read the atlas, inspect a few live examples, write the five-line direction and run the anti-default check.
