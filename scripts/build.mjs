@@ -300,7 +300,7 @@ exitOnErrors();
 const stale = [...outputs].filter(([path, content]) => read(path) !== content).map(([path]) => path);
 if (CHECK) {
   if (stale.length) {
-    writeSync(2, `${stale.length} generated file(s) out of date; run npm run build:\n${stale.join('\n')}\n`);
+    writeSync(2, `${stale.length} generated file(s) out of date; run bun run build:\n${stale.join('\n')}\n`);
     process.exit(1);
   }
   console.log(`ok: ${listed.length} sites, ${topics.length} topics, ${DESIGN_FILE} valid`);

@@ -4,12 +4,13 @@
   "description": "Build and check scripts and the website for the Design Atlas wiki",
   "license": "MIT",
   "type": "module",
+  "packageManager": "bun@1.4.2",
   "engines": {
     "node": ">=20"
   },
   "scripts": {
     "build": "node scripts/build.mjs",
-    "check": "node scripts/build.mjs --check && npm test --silent",
+    "check": "node scripts/build.mjs --check && bun run --silent test",
     "test": "node --test scripts/search.test.mjs scripts/design-md.test.mjs",
     "site:dev": "vitepress dev site --host 127.0.0.1",
     "site:build": "vitepress build site",

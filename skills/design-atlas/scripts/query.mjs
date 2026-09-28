@@ -229,7 +229,7 @@ if (opts.help) {
 const index = await loadIndex(opts);
 const sites = Array.isArray(index.data.sites) ? index.data.sites : [];
 const topics = Array.isArray(index.data.topics) ? index.data.topics : [];
-if (!sites.length) die(3, `the index at ${index.root} has no sites; rebuild it with npm run build in the atlas.`);
+if (!sites.length) die(3, `the index at ${index.root} has no sites; rebuild it with bun run build in the atlas.`);
 const header = { location: index.location, base: index.pages, ...(index.snapshot ? { snapshot: index.snapshot } : {}) };
 
 if (opts.topics) {
