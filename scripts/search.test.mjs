@@ -116,3 +116,41 @@ test('normalisation folds plurals and inflections', () => {
   assert.equal(stem('404s'), '404');
   assert.deepEqual(tokenize('The shadcn/ui registry, for Next.js'), ['shadcn', 'ui', 'registry', 'next', 'js']);
 });
+
+test('real words are never fuzzy-corrected into other terms', () => {
+  const overprint = run('--search', 'overprint poster');
+  assert.equal(overprint.code, 0);
+  assert.deepEqual(overprint.out.search.corrected, []);
+  assert.ok(overprint.out.search.terms.includes('overprint'));
+  assert.ok(overprint.out.search.expanded.includes('riso'), overprint.out.search.expanded.join(', '));
+  for (const query of ['rave flyer', 'gritty poster', 'kraft paper', 'linen texture', 'bakery menu']) {
+    const { out } = run('--search', query);
+    assert.deepEqual(out?.search.corrected ?? [], [], query);
+  }
+  assert.ok(run('--search', 'gritty poster').out.search.unmatched.includes('gritty'));
+});
+
+test('a real word may still fold into the word it is formed from', () => {
+  const { out } = run('--search', 'moody earthy palette');
+  assert.ok(out.search.corrected.includes('moody→mood'), out.search.corrected.join(', '));
+  assert.ok(out.search.corrected.includes('earthy→earth'), out.search.corrected.join(', '));
+});
+
+test('print, map and style words expand to terms the atlas uses', () => {
+  const cases = [
+    ['risograph', 'riso'],
+    ['halftone', 'benday'],
+    ['letterpress', 'print'],
+    ['cartography', 'map'],
+    ['y2k', 'retro'],
+    ['acid graphics', 'neon'],
+    ['chrome lettering', 'metallic'],
+    ['glassmorphism', 'frost'],
+  ];
+  for (const [query, term] of cases) {
+    const { code, out } = run('--search', query);
+    assert.equal(code, 0, query);
+    assert.ok(out.search.expanded.includes(term), `${query}: ${out.search.expanded.join(', ')}`);
+    assert.deepEqual(out.search.corrected, [], query);
+  }
+});

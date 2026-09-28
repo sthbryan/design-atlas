@@ -158,7 +158,8 @@ export function prepareSynonyms(raw) {
     }
   }
   const visualStyles = new Set((raw?.visual_styles ?? []).flatMap((style) => tokenize(style)));
-  return { synonyms, filters, visualStyles };
+  const realWords = new Set(Object.values(raw?.real_words ?? {}).flatMap((list) => tokenize(String(list))));
+  return { synonyms, filters, visualStyles, realWords };
 }
 
 function distance(a, b, max) {
@@ -181,6 +182,8 @@ function distance(a, b, max) {
   return prev[b.length];
 }
 
+const derivedFrom = (word, term) => [`${term}y`, `${term}${term.at(-1)}y`, `${term}ish`].includes(word);
+
 function closest(word, candidates, df) {
   if (word.length < 4 || /\d/.test(word)) return null;
   const max = word.length >= 6 ? 2 : 1;
@@ -196,7 +199,7 @@ function closest(word, candidates, df) {
   return best;
 }
 
-export function planQuery(query, corpus, { synonyms, filters, visualStyles = new Set() }) {
+export function planQuery(query, corpus, { synonyms, filters, visualStyles = new Set(), realWords = new Set() }) {
   const singles = [...synonyms.keys()].filter((k) => !k.includes(' '));
   const known = new Set([...corpus.df.keys(), ...singles]);
   const candidates = [...known].sort();
@@ -228,7 +231,8 @@ export function planQuery(query, corpus, { synonyms, filters, visualStyles = new
       base.push([word, 1]);
       continue;
     }
-    const fix = closest(word, candidates, corpus.df);
+    const found = closest(word, candidates, corpus.df);
+    const fix = found && (!realWords.has(word) || derivedFrom(word, found.term)) ? found : null;
     if (fix && !base.some(([term]) => term === fix.term)) {
       base.push([fix.term, FUZZY_WEIGHT[fix.d]]);
       corrected.push(`${raw}→${fix.term}`);

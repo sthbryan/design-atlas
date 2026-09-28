@@ -3,7 +3,7 @@
     "--licence ship": ["ship", "shippable", "commercial", "commercially", "licence", "license", "licensed", "royalty free", "open source", "open-source"],
     "--pricing free,freemium": ["free", "gratis", "no budget"]
   },
-  "visual_styles": ["brutalism", "brutalist", "brutalismo", "brutalista", "neobrutalism", "editorial", "swiss", "minimal", "minimalist", "maximalist", "retro", "futuristic", "cyberpunk", "glassmorphism", "skeuomorphic", "bento"],
+  "visual_styles": ["brutalism", "brutalist", "brutalismo", "brutalista", "neobrutalism", "editorial", "swiss", "minimal", "minimalist", "maximalist", "retro", "futuristic", "cyberpunk", "glassmorphism", "skeuomorphic", "bento", "y2k", "acid", "vaporwave", "risograph", "riso"],
   "synonyms": {
     "brutalismo": ["brutalism", "brutalist", "neobrutalism"],
     "brutalista": ["brutalism", "brutalist", "neobrutalism"],
@@ -87,6 +87,39 @@
     "claude code": ["agent", "skill"],
     "copy paste": ["copy", "paste", "source"],
     "number": ["counter", "digits"],
-    "counter": ["number", "digits"]
+    "counter": ["number", "digits"],
+    "print": ["risograph", "riso", "halftone", "letterpress", "screenprint", "poster"],
+    "risograph": ["riso", "print", "halftone", "grain", "duotone"],
+    "riso": ["risograph", "print", "halftone", "duotone"],
+    "overprint": ["risograph", "riso", "print", "duotone", "halftone"],
+    "halftone": ["benday", "dither", "print", "dots"],
+    "letterpress": ["print", "typographic", "stamp", "ink", "paper"],
+    "screen print": ["print", "halftone", "poster"],
+    "zine": ["print", "risograph", "magazine", "collage", "editorial"],
+    "flyer": ["poster", "print"],
+    "cartography": ["map", "maps", "terrain", "topographic", "contour", "geography"],
+    "cartographic": ["map", "maps", "terrain", "topographic", "contour"],
+    "nautical chart": ["map", "cartography", "terrain", "contour", "topographic"],
+    "nautical": ["map", "marine", "cartography"],
+    "y2k": ["retro", "chrome", "metallic", "holographic", "iridescent", "futuristic", "2000s"],
+    "acid graphics": ["y2k", "rave", "chrome", "distortion", "warp", "neon"],
+    "acid": ["y2k", "rave", "neon", "distortion", "warp"],
+    "rave": ["acid", "neon", "flyer", "y2k"],
+    "vaporwave": ["retro", "y2k", "90s", "gradient", "glitch"],
+    "chrome type": ["metallic", "reflective", "holographic", "y2k"],
+    "chrome text": ["metallic", "reflective", "holographic", "y2k"],
+    "chrome lettering": ["metallic", "reflective", "holographic", "y2k"],
+    "liquid chrome": ["metallic", "reflective", "liquid", "y2k"],
+    "glassmorphism": ["glass", "frosted", "blur", "translucent", "backdrop"],
+    "liquid glass": ["glassmorphism", "glass", "frosted", "translucent", "blur"],
+    "frosted glass": ["glassmorphism", "glass", "frosted", "translucent", "blur"],
+    "glass": ["glassmorphism", "frosted", "translucent"]
+  },
+  "real_words": {
+    "print and craft": "overprint overprinting risograph letterpress linocut woodcut screenprint stencil engraving etching lithograph lithography zine flyer collage scrapbook gouache watercolour watercolor charcoal crayon calligraphy signage embroidery knitting weaving pottery ceramics kiln glaze bookbinding papercraft origami",
+    "materials": "kraft cardboard newsprint linen leather wood timber marble concrete brick stone slate granite copper brass bronze velvet denim canvas felt cork rattan bamboo terracotta porcelain enamel",
+    "styles and moods": "moody gritty cozy cosy rustic vintage earthy austere cluttered chaotic kitsch kitschy bauhaus memphis noir western cowboy psychedelic surreal whimsical dreamy grungy grunge punk goth gothic baroque rococo victorian nouveau utilitarian industrial pastoral nostalgic quirky cheeky sleek glossy matte rugged lush sombre somber serene tranquil vibrant muted faded weathered distressed hazy smoky",
+    "subjects": "rave desert forest mountain floral farm bakery bookshop bookstore florist winery brewery vineyard orchard greenhouse kindergarten clinic hospital pharmacy dentist veterinary atelier boutique museum theatre theater opera ballet circus carnival festival wedding funeral church temple harbour harbor lighthouse nautical maritime sailing yacht fishing surf surfing skate skateboard ski climbing hiking camping cycling bicycle motorcycle garage mechanic plumber carpenter butcher grocer deli cafe coffee wine beer cocktail manga anime superhero comic cartoon television cinema radio vinyl cassette",
+    "effects": "glitter melt drip speckle shimmer sheen lustre luster glint"
   }
 }

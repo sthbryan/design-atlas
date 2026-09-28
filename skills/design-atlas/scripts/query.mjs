@@ -33,7 +33,8 @@ Search:
   --search "words"     rank sites by relevance to a free-text need, e.g.
                        "animated icons for react". Filters apply first. Uses
                        references/search-index.json and references/synonyms.json,
-                       folds plurals, expands design synonyms and corrects typos.
+                       folds plurals, expands design synonyms and corrects typos
+                       (never the real words listed in synonyms.json).
                        Each row gains score and match (term -> fields); the
                        header's search object lists terms, expanded, corrected.
                        Licence and price words ("ship", "commercial", "free")
