@@ -112,7 +112,7 @@ Stop if DESIGN.md is not on disk yet. Write it first (step 3), then create or up
 
 Follow [references/verification.md](references/verification.md): render at the test widths in every shipped theme and look at every screenshot, audit accessibility, walk the keyboard, measure contrast and check that every number adds up. Two rules decide whether the work counts:
 
-- Every PASS names its evidence: a saved file, a command and its output, or a measured value.
+- Every PASS names its evidence: a saved file, a command and its output, or a measured value. When the host cannot save screenshots, follow "When screenshots cannot be saved" in [references/verification.md](references/verification.md) and mark those rows `PASS (inline, not saved)`.
 - A check you could not run is `Not verified`, never PASS. A value read from source, such as `min-height: 44px`, is not a measurement of the rendered result.
 
 ### 7. Report the findings

@@ -5,6 +5,7 @@ How to prove the work with evidence: which tools to use, what to capture, the pr
 ## Contents
 
 - [Evidence rules](#evidence-rules)
+- [When screenshots cannot be saved](#when-screenshots-cannot-be-saved)
 - [Tools, in order of preference](#tools-in-order-of-preference)
 - [Session and matrix](#session-and-matrix)
 - [Procedure](#procedure)
@@ -20,6 +21,15 @@ How to prove the work with evidence: which tools to use, what to capture, the pr
 - Capture before interpreting. Write the screenshot or measurement to disk, then judge it.
 - A fix is verified by re-running the same check under the same conditions, not by reading the diff. Keep the before and after evidence side by side.
 
+## When screenshots cannot be saved
+
+Some hosts show a screenshot to the agent but cannot write it to disk or pass it on. A visual check then counts only with both of these, recorded for each width and theme:
+
+1. **A described observation**, written right after looking at the capture: route, width, theme and what is on screen, specific enough for someone else to check. "390px, light: the nav wraps to two rows and the first heading breaks after its third word" is evidence; "looks good at 390px" is not.
+2. **Measured values from the DOM** for the same state, from the probes below: overflow, target sizes, computed colours and the focus ring.
+
+Such a row reads `PASS (inline, not saved)`, never a bare `PASS`, and its Evidence cell says the capture was not saved. A capture you did not look at is no evidence, and a description with no capture behind it is `Not verified`. Say in the report's coverage that the screenshots were inline only.
+
 ## Tools, in order of preference
 
 1. A browser tool the host already provides, such as a DevTools, Playwright or browser-pane MCP server.
@@ -31,7 +41,7 @@ These checks run against the local preview and never send project content anywhe
 
 ## Session and matrix
 
-- Start the preview with the project's own command and record its URL. For performance or layout-shift numbers, use a production build, since development servers measure the bundler.
+- Start the preview with the project's own command and record its URL. With no preview command, or when the browser tool refuses `file://` URLs outside a project, serve the folder on loopback with a server the machine already has, for example `python3 -m http.server 8000 --bind 127.0.0.1 --directory <folder>`, open `http://127.0.0.1:8000/` and stop the server when you finish. Never bind it to `0.0.0.0`. For performance or layout-shift numbers, use a production build, since development servers measure the bundler.
 - Widths: the L3 set.
 - Themes: every theme the project ships.
 - Keep the matrix small. Routes × widths × themes grows fast, so add conditions only where a check already found an edge.
@@ -126,6 +136,7 @@ Copy this, fill every row and attach it to the report. Add rows for anything the
 | Check | Result | Evidence |
 |---|---|---|
 | Screenshots, 1280 / 390 / 320, each theme | PASS | .design-check/2026-09-25/pricing/*.png, 6 files viewed |
+| Screenshots, 768, light | PASS (inline, not saved) | host could not save captures; 768px light: tiers sit two over one, no clipping; overflow probe false |
 | Automated audit, each theme | PASS | axe 4.x (project devDependency): 0 violations light, 0 dark |
 | Keyboard walk | PASS | 23 stops, order matches layout, ring visible at each |
 | Overlays by keyboard | PASS | menu and dialog open, Escape closes, focus returns to trigger |
@@ -141,4 +152,4 @@ Copy this, fill every row and attach it to the report. Add rows for anything the
 | Screen reader | Not verified | no screen reader available in this session |
 ```
 
-A row reading PASS with an empty Evidence cell is a failed checklist.
+A row reading PASS with an empty Evidence cell is a failed checklist, and so is a bare PASS whose only evidence is an unsaved capture.
