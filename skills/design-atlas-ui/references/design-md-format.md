@@ -88,7 +88,7 @@ Use black as the backdrop under a light tint with dark text, and white under a d
 | glass-worst | #B0B1B3 | #5C6166 | 0.760 0.003 265 | Composite of glass at 72% over black / white | |
 ```
 
-The validator recomputes each composite, checks that the row uses the worse backdrop for every pair declared on it, and fails a foreground whose luminance falls between the composites over black and over white, since some backdrop would then match it exactly.
+The opaque fallback, the blur budget and the other rules for translucent surfaces are row C9 in `references/resolved-conflicts.md`. The validator recomputes each composite, checks that the row uses the worse backdrop for every pair declared on it, and fails a foreground whose luminance falls between the composites over black and over white, since some backdrop would then match it exactly.
 
 ## Sections
 

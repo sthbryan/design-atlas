@@ -99,7 +99,13 @@ Colours and sizes actually rendered, for the contrast calculation in `color.md`.
 });
 ```
 
-A transparent background means the colour comes from an ancestor. Walk up until a solid colour is found, and treat text over images separately.
+A transparent background means the colour comes from an ancestor. Walk up until a solid colour is found. When the walk reaches a texture, pattern, gradient, image or translucent surface instead, measure the worst case (C4, C9):
+
+- **Generated texture or pattern.** Composite its darkest mark at its opacity and blend mode over the ground it sits on, from the token values, and measure dark text against that. Use its lightest mark for light text.
+- **Image, video or user photo.** Measure against the scrim or panel composited over black and over white, as in the composite rows of `design-md-format.md`. Measuring one sample photo proves nothing about the next one.
+- **Rendered check.** Set the text to `color: transparent`, capture the region it covers and read the darkest and lightest pixels of that capture with an image tool, then restore the text. Record the pixel values and the ratio.
+
+A text pair over one of these backgrounds with no measured worst case is Blocking, not `Not verified`: put the text on a solid token surface, or measure it.
 
 ## Numbers add up
 

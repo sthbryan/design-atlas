@@ -1,6 +1,6 @@
 # Colour
 
-How to build and check a colour system. The contested values (accent share, pure black and white, neutral tint, the contrast floor, theme choice, dark elevation, gradients and depth) are rows C1 to C8 in `resolved-conflicts.md`.
+How to build and check a colour system. The contested values (accent share, pure black and white, neutral tint, the contrast floor, theme choice, dark elevation, gradients, depth and translucent surfaces) are rows C1 to C9 in `resolved-conflicts.md`.
 
 ## Contents
 
@@ -69,7 +69,7 @@ Pairs to measure in every shipped theme:
 - `on-accent` on `accent`, and each status text on its own background.
 - `border-control` and `focus` against the colours next to them.
 - Chart marks against the plot background and against each other where they touch.
-- Text over images, at the worst region the text crosses. Add a scrim when it fails.
+- Text over images, textures and translucent surfaces, at the worst case the text can meet (C4, C9). Add a scrim or a solid surface when it fails.
 
 The WCAG formula, for two sRGB hex values:
 

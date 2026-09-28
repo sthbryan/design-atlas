@@ -157,6 +157,7 @@ Search the changed files for each pattern. The target count is zero unless the b
 | Stagger on more than one group in a view (M8) | Keep one moment |
 | A decorative side stripe (`border-left` or `border-inline-start` of 2px or more) | Remove it, or mark a real state with a label |
 | `100vh` on a full-height mobile section | `100dvh` |
+| `backdrop-filter` without its `-webkit-` twin, without an opaque fallback under `prefers-reduced-transparency` and `@supports`, or inside a transition or animation (C9) | Add the C9 fallbacks, and fade opacity instead of blur |
 
 ## Hand-off
 

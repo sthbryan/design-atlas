@@ -25,7 +25,7 @@ Each failure below is Blocking in a report, whatever the surface.
 | Something reachable by pointer but not by keyboard, or a keyboard trap | 2.1.1, 2.1.2 |
 | A keyboard-focusable element with no visible focus indicator | 2.4.7 |
 | A focused element entirely hidden under a sticky header, footer or banner | 2.4.11 |
-| Text, control boundaries, meaningful icons or chart marks below the C4 ratio | 1.4.3, 1.4.11 |
+| Text, control boundaries, meaningful icons or chart marks below the C4 ratio, including over a texture, image or translucent surface at its worst case | 1.4.3, 1.4.11 |
 | Meaning carried by colour alone | 1.4.1 |
 | A target below the L2 floor with no spacing exception | 2.5.8 |
 | Content clipped or needing horizontal scroll at 320 CSS px, or lost at 200% zoom | 1.4.10, 1.4.4 |
@@ -37,6 +37,7 @@ Each failure below is Blocking in a report, whatever the surface.
 | A status update that assistive technology never hears | 4.1.3 |
 | No `lang` on the page | 3.1.1 |
 | Motion that ignores `prefers-reduced-motion` | 2.3.3 is AAA; this skill treats it as the floor (M11) |
+| Translucency that ignores `prefers-reduced-transparency`, or stays translucent where `backdrop-filter` is unsupported | No WCAG criterion; this skill treats it as the floor (C9) |
 
 ## Native first
 
@@ -124,7 +125,7 @@ Beyond the automated audit, always:
 2. Open and close every overlay by keyboard, and confirm focus returns to the trigger.
 3. Read the accessibility tree for names, roles and states of every control the change touched.
 4. Zoom to 200% and resize to 320px.
-5. Turn on reduced motion and confirm movement stops while state changes stay visible.
+5. Turn on reduced motion and confirm movement stops while state changes stay visible. Where the page uses translucency, turn on reduced transparency and confirm every translucent surface turns opaque.
 6. Turn on forced colours or high contrast and confirm focus and borders still show.
 
 Record what you could not do, such as a screen-reader pass, as `Not verified`. Never claim a screen-reader result you did not observe.
