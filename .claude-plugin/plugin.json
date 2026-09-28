@@ -1,6 +1,6 @@
 {
   "name": "design-atlas",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Two skills for coding agents: design-atlas finds and visually inspects design references; design-atlas-ui builds and reviews UI from those examples and a DESIGN.md.",
   "author": { "name": "Bryan Villafuerte" },
   "homepage": "https://github.com/sthbryan/design-atlas",

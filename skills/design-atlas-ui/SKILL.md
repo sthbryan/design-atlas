@@ -3,7 +3,7 @@ name: design-atlas-ui
 description: Builds and reviews frontend UI using a deliberate direction, the project's DESIGN.md and live design examples found through Design Atlas. For new visual directions, inspects shortlisted websites in a browser before adapting their design moves. Use when the user asks to build, restyle, polish, redesign or critique an interface, or wants a DESIGN.md written or applied. For reference research alone, use design-atlas.
 license: MIT
 metadata:
-  version: "0.2.0"
+  version: "0.3.0"
 ---
 
 # Design Atlas UI
