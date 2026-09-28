@@ -83,7 +83,7 @@ def ratio(a, b):
     hi, lo = sorted((lum(a), lum(b)), reverse=True)
     return round((hi + 0.05) / (lo + 0.05), 2)
 
-print(ratio("#545F68", "#F7FBFD"))
+print(ratio("#56645E", "#F4F9F7"))
 ```
 
 Report two decimals and compare them with the threshold for that text size (T3, C4). To fix a failing pair, change lightness, the channel contrast responds to, not hue. In a review, report the failing pair and leave the colours alone unless the user asked for fixes.

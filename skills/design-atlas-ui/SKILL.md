@@ -69,11 +69,11 @@ Skip this step when DESIGN.md already sets the direction and the request stays i
 The subject world is the product's own materials, vernacular and data. It is the main lever against generic output, so take it from the subject, never from the category's usual look.
 
 ```text
-Audience and job: skippers checking on a phone, outdoors, whether they can cross the harbour bar today.
-Subject world: nautical chart conventions, with blue shallows, buff land and magenta reserved for cautions.
-Signature element: today's tide curve across the top of each harbour, with the boat's draft as a line it must clear.
-Will not: marketing hero, cards around every block, dark by default (it is read in sunlight), wave illustrations.
-References: sites/ramps.md (OKLCH ramps, MIT tool), sites/number-flow.md (tide heights, MIT code), sites/dark-mode-design.md (look only).
+Audience and job: library members on a phone, often on a bus, checking what is due and renewing it before a fine starts.
+Subject world: the date-due slip and the catalogue card, with stamped dates, call numbers and green ink that marks what is yours.
+Signature element: each loan drawn as a date-due slip, with the next due date stamped largest and renewals counted as stamps.
+Will not: marketing hero, cards around every block, star ratings, reading-streak badges, book-spine illustrations.
+References: sites/ramps.md (OKLCH ramps, MIT tool), sites/number-flow.md (days-left counter, MIT code), sites/dark-mode-design.md (look only).
 ```
 
 ### 3. Record it in DESIGN.md

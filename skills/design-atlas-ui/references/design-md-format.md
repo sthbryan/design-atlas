@@ -222,23 +222,24 @@ components:
 
 ## Worked excerpt
 
-A product surface for a fictional tide planner, showing the front matter and six of the fifteen sections. Contrast values were computed with the WCAG formula from the hex values shown.
+A product surface for a fictional library app, showing the front matter and seven of the fifteen sections. Contrast values were computed with the WCAG formula from the hex values shown, and the `paper-veil` row shows a translucent label over book covers.
 
 ```markdown
 ---
 version: alpha
-name: Tidewater
-description: Tide and harbour-bar planner for small-boat skippers, read on a phone outdoors.
+name: Shelfmark
+description: Loans and holds for public-library members, checked on a phone between stops.
 colors:
-  ink: "#11212C"
-  paper: "#F7FBFD"
-  surface: "#EDF3F7"
-  line: "#D1D9DF"
-  control-border: "#76828B"
-  text-muted: "#545F68"
-  caution: "#B51C79"
-  on-caution: "#FFFFFF"
-  tide: "#287AA3"
+  ink: "#19251F"
+  paper: "#F4F9F7"
+  surface: "#EAF2EE"
+  line: "#D1DAD5"
+  control-border: "#76847D"
+  text-muted: "#56645E"
+  accent: "#176A4E"
+  on-accent: "#F7FBF9"
+  overdue: "#AF2B25"
+  on-overdue: "#FEFBFA"
 typography:
   heading-1:
     fontFamily: "'Atkinson Hyperlegible Next', system-ui, sans-serif"
@@ -271,61 +272,67 @@ spacing:
   2xl: 32px
 components:
   button-primary:
-    backgroundColor: "{colors.ink}"
-    textColor: "{colors.paper}"
+    backgroundColor: "{colors.accent}"
+    textColor: "{colors.on-accent}"
     rounded: "{rounded.md}"
     padding: 12px 16px
-  caution-banner:
-    backgroundColor: "{colors.caution}"
-    textColor: "{colors.on-caution}"
+  overdue-banner:
+    backgroundColor: "{colors.overdue}"
+    textColor: "{colors.on-overdue}"
     rounded: "{rounded.md}"
     padding: 12px 16px
 ---
 
 ## Overview
 - Surface: product
-- Audience and job: skippers deciding on a phone, outdoors, whether they can cross the bar today.
-- Subject world: nautical chart conventions. Blue marks water, and magenta marks cautions and nothing else.
-- Signature element: today's tide curve across each harbour, with the boat's draft drawn as the line it must clear.
-- Will not: marketing hero, cards around every block, dark by default, wave illustrations, gradient washes.
+- Audience and job: library members on a phone, often on a bus, checking what is due and renewing it before a fine starts.
+- Subject world: the date-due slip and the catalogue card, with stamped dates, call numbers and green ink that marks what is yours.
+- Signature element: each loan drawn as a date-due slip, with the next due date stamped largest and renewals counted as stamps.
+- Will not: marketing hero, cards around every block, star ratings, reading-streak badges, book-spine illustrations.
 
 ## Colors
 | Token | Light | Dark | OKLCH (light) | Job | Pairs (measured) |
 |---|---|---|---|---|---|
-| ink | #11212C | #EBEFF2 | 0.24 0.03 240 | Body text, primary fill | text on paper 15.79:1 / 15.96:1; text on surface 14.69:1 / 14.63:1 |
-| paper | #F7FBFD | #0B151C | 0.985 0.005 240 | Page background, text on ink | text on ink 15.79:1 / 15.96:1 |
-| surface | #EDF3F7 | #131E26 | 0.96 0.008 240 | Raised panels | |
-| line | #D1D9DF | #272F35 | 0.88 0.012 240 | Decorative dividers only | |
-| text-muted | #545F68 | #A1ADB5 | 0.48 0.02 240 | Secondary text | text on paper 6.28:1 / 8.05:1; text on surface 5.84:1 / 7.38:1 |
-| control-border | #76828B | #67737C | 0.60 0.02 240 | Input and toggle edges | ui on paper 3.78:1 / 3.80:1; ui on surface 3.52:1 / 3.48:1 |
-| caution | #B51C79 | #F080B8 | 0.52 0.2 350 | Below-draft warnings only | text on paper 5.92:1 / 7.45:1 |
-| on-caution | #FFFFFF | #260B19 | 1 0 0 | Text on the caution banner | text on caution 6.16:1 / 7.41:1 |
-| tide | #287AA3 | #5BB0D7 | 0.55 0.1 235 | Tide curve stroke | ui on paper 4.58:1 / 7.59:1 |
+| ink | #19251F | #E6EDEA | 0.251 0.020 163 | Body text, due dates | text on paper 14.89:1 / 15.45:1; text on surface 13.90:1 / 14.15:1; text on paper-veil 9.77:1 / 8.92:1 |
+| paper | #F4F9F7 | #0F1612 | 0.978 0.006 170 | Page background, cover label tint | |
+| paper-veil | #C8CCCB | #3A403D | 0.842 0.005 180 | Composite of paper at 82% over black / white. Worst case under the label on a cover | |
+| surface | #EAF2EE | #171F1B | 0.954 0.010 165 | Raised panels | |
+| line | #D1DAD5 | #2A332E | 0.880 0.012 162 | Decorative dividers only | |
+| text-muted | #56645E | #A5B1AB | 0.489 0.020 168 | Call numbers, secondary text | text on paper 5.84:1 / 8.29:1; text on surface 5.45:1 / 7.59:1 |
+| control-border | #76847D | #6B7872 | 0.600 0.019 164 | Input and toggle edges | ui on paper 3.68:1 / 3.98:1; ui on surface 3.43:1 / 3.65:1 |
+| accent | #176A4E | #7BC3A4 | 0.469 0.090 165 | Renew and Place hold, "yours" stamps | text on paper 6.15:1 / 8.90:1 |
+| on-accent | #F7FBF9 | #0F1612 | 0.985 0.005 165 | Text on the primary button | text on accent 6.27:1 / 8.90:1 |
+| overdue | #AF2B25 | #ED8C80 | 0.499 0.170 28 | Overdue loans only | text on paper 6.18:1 / 7.57:1 |
+| on-overdue | #FEFBFA | #1E1311 | 0.990 0.003 39 | Text on the overdue banner | text on overdue 6.38:1 / 7.49:1 |
+
+## Elevation and depth
+- Strategy: borders. Slips and panels take a 1px `line` border and no shadow in either theme.
+- Cover labels: `paper` at 82% with a 16px backdrop blur, opaque `paper` under reduced transparency or without `backdrop-filter` support (C9).
 
 ## Motion
 | Token | Value | Used for |
 |---|---|---|
-| --dur-menu | 200ms | Harbour picker |
-| --dur-toast | 200ms | "Saved to passage plan" |
-- Reduced motion: the tide curve draws instantly; the time scrubber moves without easing.
-- Orchestrated moment: none. The app is opened many times a day.
+| --dur-menu | 200ms | Branch picker |
+| --dur-toast | 200ms | "Hold placed" |
+- Reduced motion: the due-date stamp appears without its press; the days-left counter changes without rolling.
+- Orchestrated moment: none. Members open the app for seconds at a time.
 
 ## Overrides
 | Row | Project value | Reason |
 |---|---|---|
-| C5 | Light by default; dark only from the in-app setting, never from `prefers-color-scheme` | Read in direct sunlight, where a phone's system dark mode would hide the chart |
+| L2 | 48 × 48 targets for Renew and Place hold under `(pointer: coarse)` | Many members renew one-handed on a moving bus |
 
 ## References
 | Atlas page (`sites/<slug>.md`) | Live example and visual evidence | What we adapted | Licence class | Reviewed |
 |---|---|---|---|---|
-| sites/ramps.md | none, tool | Built the blue and magenta ramps in OKLCH | MIT tool, no asset shipped | 2026-09-25 |
-| sites/number-flow.md | none, code library | Animated tide heights with stable digit widths | MIT code, notice kept | 2026-09-25 |
+| sites/ramps.md | none, tool | Built the green and red ramps in OKLCH | MIT tool, no asset shipped | 2026-09-25 |
+| sites/number-flow.md | none, code library | Days-left counter with stable digit widths | MIT code, notice kept | 2026-09-25 |
 | sites/dark-mode-design.md | not visually verified | No visual decision taken yet | Look only | 2026-09-25 |
 
 ## Provenance
-- Written: 2026-09-25 by the design agent, approved by the product owner.
-- Measured: all contrast pairs, computed from the hex values above.
-- Inferred: control heights, pending a test with gloves on.
+- Written: 2026-09-27 by the design agent; direction not reviewed.
+- Measured: all contrast pairs and the cover-label composite, computed from the hex values above.
+- Inferred: target sizes, pending a test on a moving bus.
 - Unverified: individual sites from Dark Mode Design were not opened.
 ```
 

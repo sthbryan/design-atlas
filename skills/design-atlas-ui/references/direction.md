@@ -157,4 +157,4 @@ Will not: three to five defaults this direction rejects, each specific.
 References: two to five atlas pages (the limit in Look up references), each with what you take and its licence class.
 ```
 
-A good subject world is concrete enough to settle an argument. "Nautical chart conventions" tells you which colour means caution and how labels are set. "Clean and modern" settles nothing.
+A good subject world is concrete enough to settle an argument. "The date-due slip" tells you how dates are set and which colour marks what is yours. "Clean and modern" settles nothing.
