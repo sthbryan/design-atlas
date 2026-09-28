@@ -12,7 +12,7 @@ This skill uses the Design Atlas to find sources, then studies real examples whe
 
 Calibration: shortlist only sources that help the task, normally two to five. Atlas source pages must exist in the index; individual live examples may be linked directly. Ideas are free to borrow; code and assets are only as free as their licence class.
 
-Limits: read at most two hubs and five site pages, and cite at most five atlas sources in one brief, unless the user asks for more. These are the only lookup caps; the rest of this skill and `design-atlas-ui` use the same numbers.
+Limits: read at most two hubs and five site pages, and cite at most five atlas sources in one brief, unless the user asks for more. Count every hub or page opened, regardless of whether it came from a clone or a remote URL. The bundled catalog and hub map are indexes, not site-page reads. These lookup caps also apply when handing a brief to `design-atlas-ui`.
 
 Scope: this skill writes the reference brief. If the same request asks for UI, continue with `design-atlas-ui` when available. A skill boundary must not leave the user's build request unfinished.
 
@@ -28,12 +28,12 @@ Terms used below:
 Use the first location that answers. `scripts/query.mjs` follows this order and reports its choice in `location`.
 
 1. **Local clone.** A directory holding `sites.json` and `topics/`: the working tree or a parent, `$DESIGN_ATLAS_DIR`, or the plugin root two levels above this skill folder.
-2. **Raw GitHub.** `https://raw.githubusercontent.com/sthbryan/design-atlas/main/` plus `sites.json`, `llms.txt`, `topics/<slug>.md` or `sites/<slug>.md`. Fetch only these files, one per request.
+2. **Raw GitHub.** `https://raw.githubusercontent.com/sthbryan/design-atlas/main/` plus `sites.json`, `llms.txt`, `topics/<slug>.md` or `sites/<slug>.md`. Use this only when network access is allowed. Fetch only these files, one per request, and count each opened hub or site page against the limits.
 3. **Bundled snapshot.** `references/catalog.json` for the index and `references/hub-map.md` for the hubs. It holds no site pages, so every reference goes under "Not checked" in the brief.
 
-The repository `github.com/sthbryan/design-atlas` is private for now. Until it is public, every raw GitHub request returns 404 and the script falls through to the bundled snapshot. The snapshot is the supported offline path, so a 404 there is expected and not an error to report.
+Offline rule: raw GitHub (location 2) is the only network use for finding Atlas data. Never try it when the user, host or delegating agent has not allowed network access; pass `--offline` to `query.mjs` in that case. The script then reads a local clone or the bundled snapshot and nothing else. A failed or unavailable raw request falls through to the bundled snapshot; describe the location actually used, not the failed attempt. Browsing live examples in step 5 is separate and follows that step.
 
-Offline rule: raw GitHub (location 2) is the only network use, and `query.mjs` makes at most one request per call, only when no local clone is found. Pass `--offline` whenever the user, the host or a delegating agent has not allowed network access; the script then reads a local clone or the bundled snapshot and nothing else. Browsing live examples in step 5 is separate and follows that step.
+Portability: resolve `SKILL_DIR` from the installed skill's own `SKILL.md` location. Use the bundled `references/catalog.json` and `references/hub-map.md` when no clone is available; do not assume the skill was installed inside the atlas repository. The catalog contains metadata, not site-page contents. If a selected page cannot be read from an allowed source, list it under "Not checked" and do not present its details as verified.
 
 Tell the user which location you used. A snapshot is only as fresh as its `about.latest_review` date.
 
@@ -116,11 +116,13 @@ A hub with fewer than three matching sites is thin. Say so, and widen to one adj
 
 Rank by "Start here" membership, then verdict, then fit to the constraints. For a visual direction, favor sources that lead to relevant real websites; for implementation choices, mix galleries, libraries and assets as needed. Stop at the source limit in Limits.
 
-List each pick's sections before reading it, from `base`:
+For a local `base`, list each pick's sections before reading it:
 
 ```sh
 grep -n '^## ' sites/iconoir.md
 ```
+
+For a raw GitHub `base`, open `base` + `/` + the row's `path` with the host's URL reader. Read the headings and selected sections from that response; the shell command above applies only to local files. If the URL cannot be read, mark that page "Not checked".
 
 Read "When to open it", "Using it with agents", "Watch out for" and "Reusable ideas". Open "What it is" only when the one-line description leaves a doubt. Stay within the page limit in Limits.
 

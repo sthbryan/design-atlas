@@ -4,16 +4,16 @@
     {
       "id": 1,
       "prompt": "we're redoing the pricing page for our dev-tool startup (next.js + tailwind). three tiers, annual/monthly toggle, want it to feel technical not salesy. can you pull references and give me a brief?",
-      "expected_output": "A reference brief following the template, with 3-7 atlas references drawn mainly from the landing-pages and cta hubs, each with its page path, licence class and reviewed date.",
+      "expected_output": "A reference brief following the template, with 2-5 atlas references drawn mainly from the landing-pages and cta hubs, each with its page path, licence class and reviewed date. It stays within two hub reads and five site-page reads and reports unread pages accurately.",
       "files": [],
       "expectations": [
-        "The brief lists between 3 and 7 references",
+        "The brief lists between 2 and 5 references",
         "Every reference cites a sites/<slug>.md path whose slug exists in sites.json",
         "At least one cited site is tagged landing-pages or cta in sites.json",
         "Every references-table row has a licence_class value and a YYYY-MM-DD reviewed date",
         "The brief states which atlas location was used (local clone, raw GitHub or bundled snapshot)",
-        "The transcript shows no more than 2 topics/*.md reads and no more than 8 sites/*.md reads",
-        "The brief has a Not checked section"
+        "The transcript shows no more than 2 topics/*.md reads and no more than 5 sites/*.md reads",
+        "The brief has a Not checked section and accurately lists unread pages without implying checked pages were unread"
       ]
     },
     {
@@ -80,14 +80,14 @@
     {
       "id": 7,
       "prompt": "I installed this skill with npx skills and I'm offline on a flight, no repo clone. Which colour tools should I use to build an OKLCH palette with dark mode tokens?",
-      "expected_output": "Run without a clone or network. The skill uses the bundled catalog, says so, and lists every reference under Not checked.",
+      "expected_output": "Run without a clone or network. The skill uses the bundled catalog, says so, and lists every selected reference under Not checked because the snapshot has metadata but no site pages.",
       "files": [],
       "expectations": [
         "The response says the bundled snapshot or references/catalog.json was used",
         "The response gives the snapshot's latest review date",
         "Every cited site appears in references/catalog.json",
         "The brief lists the cited pages under Not checked, or says site pages were not read",
-        "The transcript shows no network request other than at most one attempt at raw.githubusercontent.com"
+        "The transcript shows no network requests for Atlas data"
       ]
     },
     {
