@@ -170,6 +170,14 @@ test('motion tokens follow resolved-conflicts unless overridden', () => {
   has(check(fixture({ motion: slow, overrides: '| Row | Project value | Reason |\n|---|---|---|\n| M4 | `--dur-menu` 200ms | Long menus |' })), /--dur-menu is 320ms, but resolved-conflicts sets 200ms/);
 });
 
+test('easing overrides match the complete value', () => {
+  const motion = `${MOTION}\n| \`--ease-out\` | cubic-bezier(0.4, 0, 1, 1) | Menu easing |`;
+  const overrides = '| Row | Project value | Reason |\n|---|---|---|\n| M4 | `--ease-out` cubic-bezier(0.4, 0, 1, 1) | A sharper exit |';
+  assert.deepEqual(check(fixture({ motion, overrides })), []);
+  has(check(fixture({ motion, overrides: overrides.replace('cubic-bezier(0.4, 0, 1, 1)', 'cubic-bezier(0.4, 0, 1, 1) extra') })), /--ease-out is cubic-bezier/);
+  has(check(fixture({ motion, overrides: overrides.replace('--ease-out', '--ease-out-extra') })), /--ease-out is cubic-bezier/);
+});
+
 test('comments are rejected', () => {
   has(check(fixture({ overrides: 'None. <!-- later -->' })), /HTML comments are not allowed/);
 });

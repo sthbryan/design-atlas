@@ -402,10 +402,12 @@ function checkMotion(body, motionTokens, err) {
     const reasonIndex = columns.indexOf('reason');
     if (valueIndex < 0 || reasonIndex < 0) return false;
     return overrideTable.rows.some((row) => {
-      const projectValue = row[valueIndex] ?? '';
+      const projectValue = (row[valueIndex] ?? '').replaceAll('`', '').trim();
       const reason = row[reasonIndex]?.trim() ?? '';
-      const projectValues = projectValue.replaceAll('`', '').split(/\s+/);
-      return projectValues.includes(token) && projectValues.includes(motionValue) && Boolean(reason);
+      const tokenPattern = new RegExp(`(^|\\s)${token}(?=\\s|$)`);
+      return tokenPattern.test(projectValue)
+        && projectValue.replace(tokenPattern, '$1').trim() === motionValue
+        && Boolean(reason);
     });
   };
   for (const row of table.rows) {
