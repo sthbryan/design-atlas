@@ -4,7 +4,7 @@ Instructions for coding agents that read or edit this repository. The user's own
 
 ## What this repo is
 
-Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md` holds one page per site, with YAML frontmatter and seven fixed sections. `topics/<slug>.md` holds the topic hubs. `scripts/build.mjs` generates every index from the frontmatter. `site/DESIGN.md` is the visual identity for the atlas website, and `design-md/` holds a library of original style DESIGN.md files; `npm run check` validates both against the format in `skills/design-atlas-ui/references/design-md-format.md`.
+Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md` holds one page per site, with YAML frontmatter and seven fixed sections. `topics/<slug>.md` holds the topic hubs. `scripts/build.mjs` generates every index from the frontmatter. `site/DESIGN.md` is the visual identity for the atlas website, and `npm run check` validates it against the format in `skills/design-atlas-ui/references/design-md-format.md`. The atlas keeps no library of style DESIGN.md files: it sends people to real, reviewed sites for inspiration.
 
 Before any UI work on the atlas website, read `site/DESIGN.md` and take every value from it.
 
@@ -41,9 +41,9 @@ Change the frontmatter instead, then run the build. The `atlas:sources` markers 
 4. Run `npm ci` (first time only), `npm run build`, then `npm run check`. The check must pass before you commit.
 5. Use conventional commit messages that match the history, such as `docs(sites): add <name>` or `docs(topics): …`.
 
-## Adding or changing a DESIGN.md
+## Changing the website DESIGN.md
 
-Follow "Add a DESIGN.md" in [CONTRIBUTING.md](CONTRIBUTING.md): original values in your own words, the fifteen sections of the format, every contrast pair declared, and a row in `design-md/README.md`. Run `npm run build` and `npm run check`; the check recomputes every ratio and fails on any mismatch.
+Follow "Change the website DESIGN.md" in [CONTRIBUTING.md](CONTRIBUTING.md): original values in your own words, the fifteen sections of the format and every contrast pair declared. Run `npm run build` and `npm run check`; the check recomputes every ratio and fails on any mismatch. Don't add other DESIGN.md files to the repository.
 
 ## Adding or changing a topic
 

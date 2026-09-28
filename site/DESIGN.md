@@ -388,7 +388,7 @@ Test at 320, 390, 768 and 1280px, plus 200% zoom (L3). No horizontal page scroll
 | Row | Project value | Reason |
 |---|---|---|
 | C1 | A second hue, water blue, for the focus ring only | Selected chips are filled with the sienna accent, so a sienna ring would disappear against them; blue keeps focus distinct from selection |
-| C5 | A reading surface that ships light and dark, following `prefers-color-scheme` | People read the atlas in long sessions beside both light design tools and dark editors, and the style library it links to documents both themes |
+| C5 | A reading surface that ships light and dark, following `prefers-color-scheme` | People read the atlas in long sessions beside both light design tools and dark editors |
 
 ## References
 

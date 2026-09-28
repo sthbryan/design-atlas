@@ -41,7 +41,7 @@ node <this skill's folder>/scripts/validate-design-md.mjs DESIGN.md
 - Exit code 0 means the file is valid, 1 that it has errors and 2 that it could not run: a missing file, a bad option or no motion token block.
 - Fix every error and run it again until it exits 0. When Node is not available, check the rules by hand and report the file as `Not verified` by the validator.
 
-The Design Atlas repository runs the same checks on its own DESIGN.md files with `npm run check`.
+The Design Atlas repository runs the same checks on its website DESIGN.md with `npm run check`.
 
 ## Value types
 
