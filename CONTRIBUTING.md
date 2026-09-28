@@ -17,8 +17,8 @@ Open an issue with the [Suggest a site](.github/ISSUE_TEMPLATE/suggest-a-site.ym
 1. Pick a slug: the product name in kebab-case (`magic-ui`, `laws-of-ux`). If the name is generic, use the domain without its TLD. Never rename an existing page.
 2. Copy `TEMPLATE.md` to `sites/<slug>.md`.
 3. Fill in the frontmatter (fields below) and write the seven sections in order: What it is, When to open it, Most useful, Using it with agents, Watch out for, Reusable ideas, Related. Leave the Related section empty; the build writes it from `related`.
-4. Run `npm ci` once, then `npm run build`. The build adds the breadcrumb line, writes the Related line, and updates every hub's "All sources" list, the hub source lists inside `skills/design-atlas/references/`, `llms.txt` and `sites.json`.
-5. Run `npm run check` and fix anything it reports. `npm run site:build` also checks that every link on the website resolves.
+4. Run `bun install` once, then `bun run build`. The build adds the breadcrumb line, writes the Related line, and updates every hub's "All sources" list, the hub source lists inside `skills/design-atlas/references/`, `llms.txt` and `sites.json`.
+5. Run `bun run check` and fix anything it reports. `bun run site:build` also checks that every link on the website resolves.
 6. Commit with a conventional message, for example `docs(sites): add <name>`, and open a pull request.
 
 To feature the site in a hub's "Start here" list, edit that hub by hand. Keep the list to five entries, all tagged with that hub, and say why to start there rather than repeating the site's description.
@@ -58,7 +58,7 @@ Licence classes:
 
 ## Update a site
 
-Re-check the live site, its `llms.txt`, any MCP, CLI or API docs, its pricing page, its terms and its repository licence. Correct the frontmatter and the prose, set `reviewed` to today, and run `npm run build` and `npm run check`. Don't bump `reviewed` without re-checking.
+Re-check the live site, its `llms.txt`, any MCP, CLI or API docs, its pricing page, its terms and its repository licence. Correct the frontmatter and the prose, set `reviewed` to today, and run `bun run build` and `bun run check`. Don't bump `reviewed` without re-checking.
 
 ## Remove a site
 
@@ -86,7 +86,7 @@ The atlas keeps one DESIGN.md: `site/DESIGN.md`, the visual identity for the atl
 
 1. Keep the format owned by the `design-atlas-ui` skill, [design-md-format.md](skills/design-atlas-ui/references/design-md-format.md): the eight front-matter keys, the Colors table with a dark column and a declared pair for every foreground, and the fifteen sections in order. When a change moves the direction, follow the skill's workflow: read the atlas, inspect a few live examples, write the five-line direction and run the anti-default check.
 2. Change the theme in `site/.vitepress/theme/style.css` in the same commit, so the website and the file never disagree.
-3. While you write, `node scripts/design-md.mjs site/DESIGN.md` checks the file and exits 1 with one error per line on stderr. Then run `npm run build` and `npm run check`. The check fails when a front-matter key is missing or unknown, a value has the wrong type, a `{token}` reference does not resolve, a colour is not `#RRGGBB`, a Colors row does not match the front matter or its OKLCH source, a declared contrast ratio differs from the computed one, any text pair falls below 4.5:1 (3:1 for large text and UI) in any theme, a section is missing or out of order, a motion token departs from `resolved-conflicts.md` without an Overrides row, or the file holds a comment.
+3. While you write, `node scripts/design-md.mjs site/DESIGN.md` checks the file and exits 1 with one error per line on stderr. Then run `bun run build` and `bun run check`. The check fails when a front-matter key is missing or unknown, a value has the wrong type, a `{token}` reference does not resolve, a colour is not `#RRGGBB`, a Colors row does not match the front matter or its OKLCH source, a declared contrast ratio differs from the computed one, any text pair falls below 4.5:1 (3:1 for large text and UI) in any theme, a section is missing or out of order, a motion token departs from `resolved-conflicts.md` without an Overrides row, or the file holds a comment.
 4. Commit with a message such as `docs(site): <change>`.
 
 Rules for the file:
@@ -104,12 +104,12 @@ The agent skills live in `skills/<name>/`, and `.claude-plugin/` publishes them 
 - Keep one owner per rule. `design-atlas` owns finding references, the brief and the licence rules in its `references/licence-guide.md`. `design-atlas-ui` owns the DESIGN.md workflow, the visual rules and verification. Point to the owner instead of restating a rule in the other skill.
 - Keep each skill folder self-contained, because installers copy only that folder. Never link across skills with a relative path; name the sibling skill in backticks.
 - Keep the frontmatter to `name` (equal to the folder name), `description` (at most 1,024 characters, no angle brackets, naming the sibling skill as the boundary), `license` and `metadata`.
-- Don't edit `skills/design-atlas/references/catalog.json`, `hub-map.md` or `search-index.json`. `npm run build` writes them from the site pages, and `npm run check` fails when they are stale.
-- Don't edit `skills/design-atlas-ui/scripts/validate-design-md.mjs` either. It is a copy of `scripts/design-md.mjs`, which the build writes into the skill so the validator works without the atlas; `npm run check` fails when the copy is stale. Keep `scripts/design-md.mjs` free of dependencies for that reason. The search synonyms in `references/synonyms.json` are hand-edited, and so is its `real_words` list of English words the search must never correct into another word; `npm run check` also runs `npm test`, whose ranking cases in `scripts/search.test.mjs` must still pass.
+- Don't edit `skills/design-atlas/references/catalog.json`, `hub-map.md` or `search-index.json`. `bun run build` writes them from the site pages, and `bun run check` fails when they are stale.
+- Don't edit `skills/design-atlas-ui/scripts/validate-design-md.mjs` either. It is a copy of `scripts/design-md.mjs`, which the build writes into the skill so the validator works without the atlas; `bun run check` fails when the copy is stale. Keep `scripts/design-md.mjs` free of dependencies for that reason. The search synonyms in `references/synonyms.json` are hand-edited, and so is its `real_words` list of English words the search must never correct into another word; `bun run check` also runs `npm test`, whose ranking cases in `scripts/search.test.mjs` must still pass.
 - Scripts use Node built-ins only, with no dependencies and no comments. They print JSON on stdout, errors on stderr and answer `--help`.
 - Run the skill's evals before you open a pull request: the cases in `evals/evals.json` with and without the skill, and the queries in `evals/triggers.json` for triggering. The skill-creator skill can run both. Say in the pull request which cases you ran and what changed.
 - For a release, bump `metadata.version` in each changed `SKILL.md` and `version` in `.claude-plugin/plugin.json` together.
-- `npm run check` also checks that every relative link in `skills/` resolves.
+- `bun run check` also checks that every relative link in `skills/` resolves.
 
 ## Trademarks, screenshots and assets
 

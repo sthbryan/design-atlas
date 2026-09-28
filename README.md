@@ -69,28 +69,28 @@ In Claude Code, install them as a plugin. The skills then run as `/design-atlas:
 /plugin install design-atlas@design-atlas
 ```
 
-A plugin install carries the whole atlas, so `design-atlas` reads the site pages directly. The skills CLI copies only the skill folder, so `design-atlas` then uses raw GitHub or its bundled catalog, which `npm run build` regenerates from the same data as `sites.json`.
+A plugin install carries the whole atlas, so `design-atlas` reads the site pages directly. The skills CLI copies only the skill folder, so `design-atlas` then uses raw GitHub or its bundled catalog, which `bun run build` regenerates from the same data as `sites.json`.
 
 ## Website
 
 The atlas website is built with [VitePress](https://vitepress.dev) from the Markdown in this repository. Nothing is copied: VitePress reads this README as the home page, the hubs in `topics/`, the pages in `sites/`, `CONTRIBUTING.md` and `site/DESIGN.md` where they are, and the sidebar is generated from each hub's `title` and `order`. Two small pages in `site/` add the full site list, which can be filtered, and the list of hubs.
 
 ```sh
-npm ci
-npm run site:dev
-npm run site:build
-npm run site:preview
+bun install
+bun run site:dev
+bun run site:build
+bun run site:preview
 ```
 
-`site:dev` and `site:preview` serve on `127.0.0.1` only. `site:build` writes to `site/.vitepress/dist/` (ignored by git) and fails on any dead link, which the CI check also runs. Links to repository files that are not pages, such as `LICENSE` or `llms.txt`, point to GitHub. The theme in `site/.vitepress/theme/` takes every value from `site/DESIGN.md`. Headings use Montagu Slab, self-hosted from the pinned `@fontsource-variable/montagu-slab` package under the SIL Open Font Licence 1.1, with the licence copied into the build. Nacelle is not on npm, so the text face falls back to the system sans unless Nacelle is installed locally.
+[Bun](https://bun.sh) 1.4.2 installs the dependencies and runs the scripts, and the scripts themselves run on Node 20 or later, so you need both. `site:dev` and `site:preview` serve on `127.0.0.1` only. `site:build` writes to `site/.vitepress/dist/` (ignored by git) and fails on any dead link, which the CI check also runs. Links to repository files that are not pages, such as `LICENSE` or `llms.txt`, point to GitHub. The theme in `site/.vitepress/theme/` takes every value from `site/DESIGN.md`. Headings use Montagu Slab, self-hosted from the pinned `@fontsource-variable/montagu-slab` package under the SIL Open Font Licence 1.1, with the licence copied into the build. Nacelle is not on npm, so the text face falls back to the system sans unless Nacelle is installed locally.
 
 ## The website's DESIGN.md
 
-[site/DESIGN.md](site/DESIGN.md) is the visual identity for the atlas website, in the format the `design-atlas-ui` skill reads: exact tokens for light and dark, type, spacing, motion and components, with the reasons behind them and every contrast pair computed. It is the only DESIGN.md the atlas keeps. For a style of your own, start from the reviewed sites in the hubs rather than from a ready-made file. `npm run check` validates it, and `node scripts/design-md.mjs path/to/DESIGN.md` checks any file against the same format. The `design-atlas-ui` skill ships the same validator, so an installed skill can check a project's DESIGN.md without the atlas.
+[site/DESIGN.md](site/DESIGN.md) is the visual identity for the atlas website, in the format the `design-atlas-ui` skill reads: exact tokens for light and dark, type, spacing, motion and components, with the reasons behind them and every contrast pair computed. It is the only DESIGN.md the atlas keeps. For a style of your own, start from the reviewed sites in the hubs rather than from a ready-made file. `bun run check` validates it, and `node scripts/design-md.mjs path/to/DESIGN.md` checks any file against the same format. The `design-atlas-ui` skill ships the same validator, so an installed skill can check a project's DESIGN.md without the atlas.
 
 ## How the indexes work
 
-`npm run build` generates `llms.txt`, `sites.json`, the hub source lists, each page's breadcrumb and "Related" line, the three reference files inside `skills/design-atlas/references/`, and the copy of the DESIGN.md validator inside `skills/design-atlas-ui/scripts/`. Nothing generated is edited by hand, and `npm run check` fails if any of it is stale.
+`bun run build` generates `llms.txt`, `sites.json`, the hub source lists, each page's breadcrumb and "Related" line, the three reference files inside `skills/design-atlas/references/`, and the copy of the DESIGN.md validator inside `skills/design-atlas-ui/scripts/`. Nothing generated is edited by hand, and `bun run check` fails if any of it is stale.
 
 The indexes are meant to be filtered, never read whole. A full read of `llms.txt` costs tens of thousands of tokens and `sites.json` several times that, while a filtered query costs a few hundred:
 
@@ -104,7 +104,7 @@ jq -r '.sites[] | select(.licence_class=="open-source-permissive" and (.agent|in
 
 ## Adding a site
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add, update or remove a site, the frontmatter fields and their allowed values, and the review and writing rules. In short: copy `TEMPLATE.md` to `sites/<slug>.md`, fill in the frontmatter and sections, then run `npm run build` and `npm run check`. The hub source lists, `llms.txt` and `sites.json` are generated, so don't edit them by hand.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add, update or remove a site, the frontmatter fields and their allowed values, and the review and writing rules. In short: copy `TEMPLATE.md` to `sites/<slug>.md`, fill in the frontmatter and sections, then run `bun run build` and `bun run check`. The hub source lists, `llms.txt` and `sites.json` are generated, so don't edit them by hand.
 
 ## Licence
 

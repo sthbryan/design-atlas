@@ -4,9 +4,9 @@ Instructions for coding agents that read or edit this repository. The user's own
 
 ## What this repo is
 
-Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md` holds one page per site, with YAML frontmatter and seven fixed sections. `topics/<slug>.md` holds the topic hubs. `scripts/build.mjs` generates every index from the frontmatter. `site/` holds the VitePress website, which renders the README, the hubs, the site pages, `CONTRIBUTING.md` and `site/DESIGN.md` in place. `site/DESIGN.md` is the visual identity for the atlas website, and `npm run check` validates it against the format in `skills/design-atlas-ui/references/design-md-format.md`. The atlas keeps no library of style DESIGN.md files: it sends people to real, reviewed sites for inspiration.
+Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md` holds one page per site, with YAML frontmatter and seven fixed sections. `topics/<slug>.md` holds the topic hubs. `scripts/build.mjs` generates every index from the frontmatter. `site/` holds the VitePress website, which renders the README, the hubs, the site pages, `CONTRIBUTING.md` and `site/DESIGN.md` in place. `site/DESIGN.md` is the visual identity for the atlas website, and `bun run check` validates it against the format in `skills/design-atlas-ui/references/design-md-format.md`. The atlas keeps no library of style DESIGN.md files: it sends people to real, reviewed sites for inspiration.
 
-Before any UI work on the atlas website, read `site/DESIGN.md` and take every value from it. The theme lives in `site/.vitepress/theme/`: colours, type, spacing and motion are CSS variables in `style.css`, so change a value there and in `site/DESIGN.md` together. Don't copy wiki Markdown into `site/`; the config maps the existing files to routes. Run `npm run site:build` after changing the site or a page's links; it fails on dead links. Serve previews on `127.0.0.1` only, and keep screenshots outside the repository.
+Before any UI work on the atlas website, read `site/DESIGN.md` and take every value from it. The theme lives in `site/.vitepress/theme/`: colours, type, spacing and motion are CSS variables in `style.css`, so change a value there and in `site/DESIGN.md` together. Don't copy wiki Markdown into `site/`; the config maps the existing files to routes. Run `bun run site:build` after changing the site or a page's links; it fails on dead links. Serve previews on `127.0.0.1` only, and keep screenshots outside the repository.
 
 ## Reading the atlas
 
@@ -38,12 +38,12 @@ Change the frontmatter instead, then run the build. The `atlas:sources` markers 
 1. Follow [CONTRIBUTING.md](CONTRIBUTING.md): slug rule, frontmatter fields and allowed values, licence classes and writing rules.
 2. Copy `TEMPLATE.md` to `sites/<slug>.md`, fill in the frontmatter, and keep the seven sections in their order.
 3. Check the live site before you write anything down: the home page, `/llms.txt`, any MCP, CLI or API docs, the pricing page, the terms and the repository licence. Set `reviewed` to today.
-4. Run `npm ci` (first time only), `npm run build`, then `npm run check`. The check must pass before you commit.
+4. Run `bun install` (first time only), `bun run build`, then `bun run check`. The check must pass before you commit.
 5. Use conventional commit messages that match the history, such as `docs(sites): add <name>` or `docs(topics): …`.
 
 ## Changing the website DESIGN.md
 
-Follow "Change the website DESIGN.md" in [CONTRIBUTING.md](CONTRIBUTING.md): original values in your own words, the fifteen sections of the format and every contrast pair declared. Run `npm run build` and `npm run check`; the check recomputes every ratio and fails on any mismatch. Don't add other DESIGN.md files to the repository.
+Follow "Change the website DESIGN.md" in [CONTRIBUTING.md](CONTRIBUTING.md): original values in your own words, the fifteen sections of the format and every contrast pair declared. Run `bun run build` and `bun run check`; the check recomputes every ratio and fails on any mismatch. Don't add other DESIGN.md files to the repository.
 
 ## Adding or changing a topic
 
