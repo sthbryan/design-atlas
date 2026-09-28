@@ -1,7 +1,7 @@
 {
   "name": "design-atlas",
   "private": true,
-  "description": "Build and check script for the Design Atlas wiki",
+  "description": "Build and check scripts and the website for the Design Atlas wiki",
   "license": "MIT",
   "type": "module",
   "engines": {
@@ -10,9 +10,15 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/build.mjs --check && npm test --silent",
-    "test": "node --test scripts/search.test.mjs scripts/design-md.test.mjs"
+    "test": "node --test scripts/search.test.mjs scripts/design-md.test.mjs",
+    "site:dev": "vitepress dev site --host 127.0.0.1",
+    "site:build": "vitepress build site",
+    "site:preview": "vitepress preview site --host 127.0.0.1"
   },
   "devDependencies": {
+    "@fontsource-variable/montagu-slab": "5.3.0",
+    "@phosphor-icons/core": "2.1.1",
+    "vitepress": "1.6.4",
     "yaml": "2.9.1"
   }
 }
