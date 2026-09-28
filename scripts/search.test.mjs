@@ -59,6 +59,14 @@ test('filters apply before ranking', () => {
   }
 });
 
+test('empty comma-separated filter values are rejected', () => {
+  for (const args of [['--topic', ','], ['--type', 'gallery,,website'], ['--agent', '']]) {
+    const res = spawnSync(process.execPath, [QUERY, '--atlas', ROOT, '--offline', ...args], { encoding: 'utf8' });
+    assert.equal(res.status, 2, args.join(' '));
+    assert.match(res.stderr, /values must not be empty/);
+  }
+});
+
 test('stale sites stay in the results', () => {
   const { code, out } = run('--search', 'icons', '--status', 'stale');
   assert.equal(code, 0);

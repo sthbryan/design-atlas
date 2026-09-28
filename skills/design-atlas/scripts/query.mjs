@@ -88,7 +88,11 @@ function parseArgs(argv) {
     if (!valued.has(key)) die(2, `unknown option --${key}. Run --help.`);
     const value = inline ?? argv[++i];
     if (value === undefined || value.startsWith('--')) die(2, `--${key} needs a value. Run --help.`);
-    if (key in LIST_FILTERS) opts.filters[key] = value.split(',').map((v) => v.trim()).filter(Boolean);
+    if (key in LIST_FILTERS) {
+      const values = value.split(',').map((v) => v.trim());
+      if (values.some((v) => !v)) die(2, `--${key} values must not be empty.`);
+      opts.filters[key] = values;
+    }
     else if (key === 'min-verdict') opts.minVerdict = value;
     else if (key === 'text') opts.text = value.toLowerCase().split(/\s+/).filter(Boolean);
     else if (key === 'search') opts.search = value;
