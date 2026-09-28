@@ -53,7 +53,7 @@ Copy this checklist and tick it as you go.
 
 ### 1. Classify the task
 
-Map the request to one to three hubs. The index's topic list is authoritative, so run `node scripts/query.mjs --topics` when this table misses the request.
+Map the request to one to three hubs. The index's topic list is authoritative, so run the installed skill's `query.mjs --topics` as shown in step 2 when this table misses the request.
 
 | The request is about | Hubs |
 |---|---|
