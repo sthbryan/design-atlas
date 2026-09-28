@@ -18,7 +18,7 @@ Open an issue with the [Suggest a site](.github/ISSUE_TEMPLATE/suggest-a-site.ym
 2. Copy `TEMPLATE.md` to `sites/<slug>.md`.
 3. Fill in the frontmatter (fields below) and write the seven sections in order: What it is, When to open it, Most useful, Using it with agents, Watch out for, Reusable ideas, Related. Leave the Related section empty; the build writes it from `related`.
 4. Run `npm ci` once, then `npm run build`. The build adds the breadcrumb line, writes the Related line, and updates every hub's "All sources" list, the hub source lists inside `skills/design-atlas/references/`, `llms.txt` and `sites.json`.
-5. Run `npm run check` and fix anything it reports.
+5. Run `npm run check` and fix anything it reports. `npm run site:build` also checks that every link on the website resolves.
 6. Commit with a conventional message, for example `docs(sites): add <name>`, and open a pull request.
 
 To feature the site in a hub's "Start here" list, edit that hub by hand. Keep the list to five entries, all tagged with that hub, and say why to start there rather than repeating the site's description.
@@ -85,8 +85,9 @@ Don't delete the file. Set `status` to `removed` and give the reason in `note`. 
 The atlas keeps one DESIGN.md: `site/DESIGN.md`, the visual identity for the atlas website. There is no library of style files. The atlas exists to send people to real, reviewed sites for inspiration, and a set of ready-made styles would compete with that.
 
 1. Keep the format owned by the `design-atlas-ui` skill, [design-md-format.md](skills/design-atlas-ui/references/design-md-format.md): the eight front-matter keys, the Colors table with a dark column and a declared pair for every foreground, and the fifteen sections in order. When a change moves the direction, follow the skill's workflow: read the atlas, inspect a few live examples, write the five-line direction and run the anti-default check.
-2. While you write, `node scripts/design-md.mjs site/DESIGN.md` checks the file and exits 1 with one error per line on stderr. Then run `npm run build` and `npm run check`. The check fails when a front-matter key is missing or unknown, a value has the wrong type, a `{token}` reference does not resolve, a colour is not `#RRGGBB`, a Colors row does not match the front matter or its OKLCH source, a declared contrast ratio differs from the computed one, any text pair falls below 4.5:1 (3:1 for large text and UI) in any theme, a section is missing or out of order, a motion token departs from `resolved-conflicts.md` without an Overrides row, or the file holds a comment.
-3. Commit with a message such as `docs(site): <change>`.
+2. Change the theme in `site/.vitepress/theme/style.css` in the same commit, so the website and the file never disagree.
+3. While you write, `node scripts/design-md.mjs site/DESIGN.md` checks the file and exits 1 with one error per line on stderr. Then run `npm run build` and `npm run check`. The check fails when a front-matter key is missing or unknown, a value has the wrong type, a `{token}` reference does not resolve, a colour is not `#RRGGBB`, a Colors row does not match the front matter or its OKLCH source, a declared contrast ratio differs from the computed one, any text pair falls below 4.5:1 (3:1 for large text and UI) in any theme, a section is missing or out of order, a motion token departs from `resolved-conflicts.md` without an Overrides row, or the file holds a comment.
+4. Commit with a message such as `docs(site): <change>`.
 
 Rules for the file:
 

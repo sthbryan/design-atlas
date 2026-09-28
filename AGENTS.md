@@ -4,9 +4,9 @@ Instructions for coding agents that read or edit this repository. The user's own
 
 ## What this repo is
 
-Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md` holds one page per site, with YAML frontmatter and seven fixed sections. `topics/<slug>.md` holds the topic hubs. `scripts/build.mjs` generates every index from the frontmatter. `site/DESIGN.md` is the visual identity for the atlas website, and `npm run check` validates it against the format in `skills/design-atlas-ui/references/design-md-format.md`. The atlas keeps no library of style DESIGN.md files: it sends people to real, reviewed sites for inspiration.
+Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md` holds one page per site, with YAML frontmatter and seven fixed sections. `topics/<slug>.md` holds the topic hubs. `scripts/build.mjs` generates every index from the frontmatter. `site/` holds the VitePress website, which renders the README, the hubs, the site pages, `CONTRIBUTING.md` and `site/DESIGN.md` in place. `site/DESIGN.md` is the visual identity for the atlas website, and `npm run check` validates it against the format in `skills/design-atlas-ui/references/design-md-format.md`. The atlas keeps no library of style DESIGN.md files: it sends people to real, reviewed sites for inspiration.
 
-Before any UI work on the atlas website, read `site/DESIGN.md` and take every value from it.
+Before any UI work on the atlas website, read `site/DESIGN.md` and take every value from it. The theme lives in `site/.vitepress/theme/`: colours, type, spacing and motion are CSS variables in `style.css`, so change a value there and in `site/DESIGN.md` together. Don't copy wiki Markdown into `site/`; the config maps the existing files to routes. Run `npm run site:build` after changing the site or a page's links; it fails on dead links. Serve previews on `127.0.0.1` only, and keep screenshots outside the repository.
 
 ## Reading the atlas
 

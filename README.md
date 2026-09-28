@@ -20,7 +20,7 @@ A curated set of references for building websites and UI — galleries, componen
 | [`llms.txt`](llms.txt) | One line per site with its filterable fields, for agents that read text |
 | [`sites.json`](sites.json) | The same metadata as JSON, for agents that read structured data |
 | [`skills/`](skills) | Two installable agent skills built on the atlas |
-| [`site/DESIGN.md`](site/DESIGN.md) | The atlas website's own visual identity, as a DESIGN.md file |
+| [`site/`](site) | The VitePress website: its config and theme in `site/.vitepress/`, two index pages, and [`site/DESIGN.md`](site/DESIGN.md), the website's visual identity |
 | [`scripts/`](scripts) | `build.mjs`, which generates every index and validates the website's DESIGN.md, and the tests |
 | [`TEMPLATE.md`](TEMPLATE.md) | The frontmatter fields and sections every site page uses |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How sites are added, reviewed and removed, and the writing rules |
@@ -70,6 +70,19 @@ In Claude Code, install them as a plugin. The skills then run as `/design-atlas:
 ```
 
 A plugin install carries the whole atlas, so `design-atlas` reads the site pages directly. The skills CLI copies only the skill folder, so `design-atlas` then uses raw GitHub or its bundled catalog, which `npm run build` regenerates from the same data as `sites.json`.
+
+## Website
+
+The atlas website is built with [VitePress](https://vitepress.dev) from the Markdown in this repository. Nothing is copied: VitePress reads this README as the home page, the hubs in `topics/`, the pages in `sites/`, `CONTRIBUTING.md` and `site/DESIGN.md` where they are, and the sidebar is generated from each hub's `title` and `order`. Two small pages in `site/` add the full site list, which can be filtered, and the list of hubs.
+
+```sh
+npm ci
+npm run site:dev
+npm run site:build
+npm run site:preview
+```
+
+`site:dev` and `site:preview` serve on `127.0.0.1` only. `site:build` writes to `site/.vitepress/dist/` (ignored by git) and fails on any dead link, which the CI check also runs. Links to repository files that are not pages, such as `LICENSE` or `llms.txt`, point to GitHub. The theme in `site/.vitepress/theme/` takes every value from `site/DESIGN.md`. Headings use Montagu Slab, self-hosted from the pinned `@fontsource-variable/montagu-slab` package under the SIL Open Font Licence 1.1, with the licence copied into the build. Nacelle is not on npm, so the text face falls back to the system sans unless Nacelle is installed locally.
 
 ## The website's DESIGN.md
 
