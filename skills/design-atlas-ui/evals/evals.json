@@ -157,7 +157,7 @@
         "No '.dark' class selector or data-theme selector is added alongside the media query",
         "tokens.css or the base styles set 'color-scheme' to include dark",
         "The dark page background is not #000000 and dark body text is not #FFFFFF",
-        "The DESIGN.md Colors table has a filled Dark column in place of 'not designed'",
+        "The DESIGN.md Colors table gains a Dark column of hex values, every pair declares one ratio per theme, and the skill's validator exits 0 on the updated file",
         "The reply lists measured contrast ratios with two decimals for at least text, muted text and on-accent pairs in dark"
       ]
     },
@@ -229,6 +229,154 @@
         "If browser access, a site or a screenshot is unavailable, the response marks it not inspected or Not verified and makes no visual claim about it",
         "The existing Profile, Notifications and Danger zone actions and labels remain present in the output",
         "The final report separates verified code changes from rendered appearance that was not verified"
+      ]
+    },
+    {
+      "id": 17,
+      "prompt": "Write our DESIGN.md and build the issue 7 contents page as src/issue.html with src/issue.css. I want it raw and brutalist: thick black borders, monospace everywhere, zero border radius, nothing soft. No need to run the direction past me, just build it.",
+      "expected_output": "Commits to a brutalist reading surface drawn from Slab's concrete-criticism subject: a mono family for every role with a stated licence, a radius scale of 0px only, heavy borders as the single depth strategy, and the brief's departures (mono as display, the terminal/brutalist family) named once. Lists only the four real articles and the real subscription price, keeps contrast and focus at the floor, and writes a DESIGN.md that passes the validator.",
+      "files": ["evals/files/slab-review/PRODUCT.md", "evals/files/slab-review/package.json", "evals/files/slab-review/src/index.html"],
+      "expectations": [
+        "Every typography role in DESIGN.md uses a monospace family, and every value in the rounded scale is 0px",
+        "Borders of 3px or more are the recorded depth strategy (Elevation and depth), with no soft shadows in the built CSS",
+        "The reply or DESIGN.md names the brief-requested departures (mono used as a display face, the brutalist or terminal default family) once, with an Overrides row or a one-line reason, and still follows the brief",
+        "The page lists exactly the four issue 7 articles with their titles, authors and word counts from PRODUCT.md, and no subscriber count, press quote or award appears",
+        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
+        "No hex, rgb(), hsl() or oklch() colour literal appears in component or page styles outside the one token file or token block",
+        "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
+        "Each font is named with its licence in DESIGN.md, and no font or asset is loaded from a source whose licence is not stated",
+        "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
+      ]
+    },
+    {
+      "id": 18,
+      "prompt": "Set up a DESIGN.md for Loden & Pell and build the product page for the Pell tote in app/products/pell-tote/ (page.tsx plus a CSS module). Direction: quiet luxury. A big serif display face, very generous whitespace, almost no colour, nothing that shouts. You don't need to check the direction with me first.",
+      "expected_output": "Chooses a licensed serif display paired with a quiet text face, a spacing scale that reaches the large steps, a near-monochrome palette whose muted greys still pass 4.5:1, and states why the plan is not the portfolio/editorial default (cream, high-contrast serif, terracotta). Shows only real product facts and labelled photo placeholders, with no reviews, press or urgency.",
+      "files": ["evals/files/loden-pell/PRODUCT.md", "evals/files/loden-pell/app/layout.tsx", "evals/files/loden-pell/package.json"],
+      "expectations": [
+        "The display typography role uses a serif family at 40px or more, and a reflex serif (Playfair Display, Fraunces, Instrument Serif) if chosen carries a one-line reason",
+        "The spacing scale in DESIGN.md includes at least one step of 96px or more, and the page's main section gaps use the top steps",
+        "The palette has at most one accent hue, and every muted or secondary text colour declared in the Colors table passes 4.5:1 on its background",
+        "The page shows the price as EUR 1,480 and only facts from PRODUCT.md; no review, rating, press logo, quote, scarcity or urgency line appears",
+        "Product photos are labelled placeholders, not stock images or invented URLs",
+        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
+        "No hex, rgb(), hsl() or oklch() colour literal appears in component or page styles outside the one token file or token block",
+        "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
+        "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
+      ]
+    },
+    {
+      "id": 19,
+      "prompt": "Write the DESIGN.md for Sprout Sounds and build the lesson-complete screen in src/screens/LessonComplete.tsx. Make it round, bright and bouncy: when a kid gets it right, the star should really bounce. Go ahead and build, no sign-off needed.",
+      "expected_output": "Takes a round, bright direction with large radii and big targets for small hands, allows a real overshoot bounce on the star because the brief asks for it (naming the M6 clash once and recording an Overrides row), builds it with the project's own motion library, and keeps a reduced-motion path in which the star appears without bounce or travel. Uses props and PRODUCT.md facts only, with no rankings or streaks.",
+      "files": ["evals/files/sprout-sounds/PRODUCT.md", "evals/files/sprout-sounds/package.json", "evals/files/sprout-sounds/src/main.tsx"],
+      "expectations": [
+        "The star animation has a bounce above 0 or an overshoot curve, and DESIGN.md records it under Overrides (M6) with the brief as the reason, naming the clash once in the reply",
+        "Under prefers-reduced-motion (the motion library's reduced-motion hook or a CSS media query) the star appears without bounce, scale or translate, while the earned state stays visible",
+        "Animation uses the motion package already in package.json, and package.json is unchanged",
+        "Touch targets for Play again, Next lesson and the audio button are at least 44 by 44 CSS px, and DESIGN.md records the target size",
+        "Radius tokens are larger than the 8 to 16px card default on primary surfaces or buttons, and bright fills keep every declared text pair at 4.5:1 or large-text 3:1",
+        "Every action has an icon plus an accessible name, and no emoji is used as an icon",
+        "No ranking, streak, percentage or comparison with other children appears; the sounds and star count come from props",
+        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
+        "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
+        "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
+      ]
+    },
+    {
+      "id": 20,
+      "prompt": "Write DESIGN.md for Kestrel Desk and build the positions panel in src/screens/Positions.tsx with our Tailwind setup. Dark only, monospace, as dense as a real trading terminal: tight rows, no wasted padding. Just build it, don't wait for me.",
+      "expected_output": "Commits to a dark-only, monospace, high-density product surface, records dark-only (C5) and the dense target size as Overrides with reasons, puts tokens in the Tailwind theme or CSS variables, derives market value, P&L, P&L % and totals in code from positions.json, and shows gains and losses with a sign or symbol as well as colour.",
+      "files": ["evals/files/kestrel-desk/PRODUCT.md", "evals/files/kestrel-desk/package.json", "evals/files/kestrel-desk/src/data/positions.json", "evals/files/kestrel-desk/src/index.css", "evals/files/kestrel-desk/tailwind.config.js"],
+      "expectations": [
+        "DESIGN.md has a single dark theme column, with dark-only recorded under Overrides (C5) with a reason",
+        "Table rows are 32px tall or less, while interactive targets stay at least 24 by 24 CSS px (the floor) or state the spacing exception",
+        "Numbers use a monospace family or tabular figures (font-variant-numeric: tabular-nums)",
+        "Market value, P&L, P&L % and the totals row are computed in code from src/data/positions.json, with no hand-typed derived number",
+        "Gain and loss are marked by a sign, arrow or text as well as colour, so they do not rely on red versus green",
+        "Tokens live in tailwind.config.js or CSS variables it reads; no arbitrary colour values such as bg-[#...] in the component",
+        "Only symbols from positions.json appear, and no other desk data is invented",
+        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
+        "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
+      ]
+    },
+    {
+      "id": 21,
+      "prompt": "Write our DESIGN.md and build the shop-front section as src/components/ShopFront.astro, used from src/pages/index.astro. Warm and handmade: paper textures and hand-drawn touches like our studio. Please don't make it look like a Shopify theme. Build it, no need to check back.",
+      "expected_output": "Draws a warm handmade direction from the barn studio and wood-firing, makes textures and hand-drawn marks in original CSS or SVG (or names a licensed source), keeps any handwriting face to display or accents with its licence stated, keeps text on solid token colours that pass contrast, lists exactly the four pieces with real prices and stock, and uses labelled photo placeholders.",
+      "files": ["evals/files/wren-hill/PRODUCT.md", "evals/files/wren-hill/package.json", "evals/files/wren-hill/src/pages/index.astro"],
+      "expectations": [
+        "Paper texture and hand-drawn marks are original CSS or inline SVG written in the output, or cite a source with a licence that allows shipping; no texture or drawing is copied from an unnamed source",
+        "Any handwriting or script face is used only for display or accents, never body text or prices, and its licence is stated in DESIGN.md",
+        "Body text and prices sit on a solid colour token whose declared pair passes 4.5:1, or DESIGN.md records a measured darkest composite of the texture under them that passes 4.5:1 (C4); an unmeasured worst case fails",
+        "Exactly the four pieces from PRODUCT.md appear with their glazes, prices and Left counts; no review, rating, quote, countdown or invented scarcity line",
+        "Photos are labelled placeholders",
+        "The neutral palette leans warm (OKLCH hue roughly 40 to 100 for neutrals), with one temperature across the product",
+        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
+        "No hex, rgb(), hsl() or oklch() colour literal appears in component or page styles outside the one token file or token block",
+        "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
+        "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
+      ]
+    },
+    {
+      "id": 22,
+      "prompt": "Write DESIGN.md for the Lowtide high-score night and build the leaderboard in src/Leaderboard.svelte. 8-bit arcade: a pixel font, chunky hard drop shadows, no rounded corners, all caps, and the classic blinking INSERT COIN. It shows on the bar TV and on phones. Go straight to building.",
+      "expected_output": "Uses a licensed pixel font with a readable size floor, hard offset shadows with zero blur as the only depth strategy, a 0px radius scale, and uppercase recorded as a T10 override. The blink stays under three flashes a second, stops or can be paused within five seconds, and is off under reduced motion. Ranks are computed from scores.json (top score per player per game, ties handled), with no invented records or prizes.",
+      "files": ["evals/files/lowtide-arcade/PRODUCT.md", "evals/files/lowtide-arcade/package.json", "evals/files/lowtide-arcade/src/data/scores.json", "evals/files/lowtide-arcade/src/main.js"],
+      "expectations": [
+        "The pixel font is named with an open licence (for example OFL) and self-hosted or loaded from a stated source; no pixel font of unstated licence",
+        "Shadows are hard offsets with 0 blur, recorded as the one depth strategy, and the rounded scale is 0px only",
+        "Uppercase copy is recorded as an override of T10 (sentence case) with the brief as the reason, named once",
+        "The INSERT COIN blink runs at no more than 3 flashes per second, stops or has a pause control within 5 seconds (WCAG 2.2.2), and does not blink under prefers-reduced-motion",
+        "Ranks are derived in code from src/data/scores.json keeping each player's top score per game, and the tie in Brick Tower is handled deterministically or shown as a tie",
+        "Only the two games, the real initials and the drink-token prize appear; no all-time record, player name or other prize",
+        "Pixel text used for scores or names is at least 16px at phone width, and every declared text pair passes 4.5:1",
+        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "No hex, rgb(), hsl() or oklch() colour literal appears in component or page styles outside the one token file or token block",
+        "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
+        "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
+      ]
+    },
+    {
+      "id": 23,
+      "prompt": "Write DESIGN.md for Driftwood and build the trip overview screen in src/screens/TripOverview.tsx (plus a CSS module). I want liquid glass: translucent frosted panels with backdrop blur floating over the trip's cover photo. Build it now, no sign-off needed.",
+      "expected_output": "Builds translucent panels with backdrop-filter while guaranteeing text contrast over any user photo, by a panel tint or scrim whose worst case (over white and over black) is measured, a solid fallback under prefers-reduced-transparency and when backdrop-filter is unsupported, and a written blur budget (cap on blur radius and on the number of blurred layers, no animated blur). Shows only trip.json data and flags the missing sample cover photo.",
+      "files": ["evals/files/driftwood-trips/PRODUCT.md", "evals/files/driftwood-trips/package.json", "evals/files/driftwood-trips/src/data/trip.json"],
+      "expectations": [
+        "Panel text contrast is guaranteed independent of the photo: the DESIGN.md Colors table declares a composite row for the panel tint over the worse of black and white, and the body-text pair on it reaches 4.5:1",
+        "A @media (prefers-reduced-transparency: reduce) rule replaces the glass with an opaque token surface",
+        "When backdrop-filter is unsupported the panel is opaque or near-opaque, either through @supports not (...) or an opaque default with the glass added inside @supports (...)",
+        "The build follows the C9 blur budget: backdrop blur of 24px or less, at most two blurred layers visible at once, and no transition or animation on backdrop-filter",
+        "The -webkit-backdrop-filter prefix is included for iOS Safari, which PRODUCT.md names",
+        "Only data from src/data/trip.json appears, dates are formatted from the JSON, and the reply says the sample cover file is missing",
+        "The Open itinerary action is a real link to /trips/lisbon-oct/itinerary (or built from the id), with a focus-visible style that shows over the glass",
+        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
+        "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
+      ]
+    },
+    {
+      "id": 24,
+      "prompt": "Write DESIGN.md for Signal Bloom and build the event page in src/index.html with src/styles.css. Acid graphics and Y2K: chrome lettering, warped and distorted display type, neon on black, and I want it to feel alive and moving. Build it straight away.",
+      "expected_output": "Allows chrome gradient and distortion on the decorative display wordmark only (naming the C7 gradient-text clash once), keeps the real event facts in plain, legible, contrast-passing text, puts all motion inside a no-preference query with a pause control or a stop within five seconds, avoids flashing, and lists only the real lineup, date, venue and prices.",
+      "files": ["evals/files/signal-bloom/PRODUCT.md", "evals/files/signal-bloom/package.json", "evals/files/signal-bloom/src/index.html"],
+      "expectations": [
+        "Chrome gradient or background-clip text is applied only to the decorative display wordmark, and the reply or DESIGN.md names the C7 gradient-text clash once",
+        "Distortion (SVG filter, transform or variable-font warp) is applied only to decorative display type; the date, venue, lineup and prices are plain live text",
+        "The distorted wordmark keeps an accessible name equal to the event name (real text, aria-label or visually hidden text)",
+        "Neon text colours declared in the Colors table pass 4.5:1 on the black or near-black background, and any pure #000 background is named as a brief-driven exception",
+        "All animation sits inside @media (prefers-reduced-motion: no-preference), no effect flashes more than 3 times per second, and any motion lasting over 5 seconds has a pause control or stops",
+        "Only the four lineup names, the date, the venue, the two prices, 18+ and step-free entry appear; the ticket link is the real URL; no capacity, sold-out claim, sponsor or quote",
+        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
+        "No hex, rgb(), hsl() or oklch() colour literal appears in component or page styles outside the one token file or token block",
+        "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
+        "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
       ]
     }
   ]

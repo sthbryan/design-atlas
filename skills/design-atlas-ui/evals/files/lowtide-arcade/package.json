@@ -1,0 +1,16 @@
+{
+  "name": "lowtide-arcade",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "svelte": "4.2.19"
+  },
+  "devDependencies": {
+    "vite": "5.4.10",
+    "@sveltejs/vite-plugin-svelte": "3.1.2"
+  }
+}

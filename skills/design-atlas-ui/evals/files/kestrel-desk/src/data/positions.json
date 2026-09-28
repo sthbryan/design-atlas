@@ -1,0 +1,44 @@
+[
+  {
+    "symbol": "ACME",
+    "side": "long",
+    "quantity": 1200,
+    "avg": 41.18,
+    "last": 43.02
+  },
+  {
+    "symbol": "BOLT",
+    "side": "short",
+    "quantity": 800,
+    "avg": 17.55,
+    "last": 18.1
+  },
+  {
+    "symbol": "CRNR",
+    "side": "long",
+    "quantity": 350,
+    "avg": 212.4,
+    "last": 205.91
+  },
+  {
+    "symbol": "DUSK",
+    "side": "long",
+    "quantity": 5000,
+    "avg": 3.12,
+    "last": 3.47
+  },
+  {
+    "symbol": "EMBR",
+    "side": "short",
+    "quantity": 1500,
+    "avg": 64.8,
+    "last": 61.25
+  },
+  {
+    "symbol": "FJRD",
+    "side": "long",
+    "quantity": 90,
+    "avg": 1310.0,
+    "last": 1318.75
+  }
+]

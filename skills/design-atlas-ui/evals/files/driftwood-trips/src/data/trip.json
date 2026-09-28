@@ -1,0 +1,31 @@
+{
+  "id": "lisbon-oct",
+  "name": "Lisbon with the Harpers",
+  "start": "2026-10-14",
+  "end": "2026-10-19",
+  "cover": "src/assets/cover-sample.jpg",
+  "items": [
+    {
+      "when": "2026-10-14T15:20",
+      "title": "Arrive LIS, taxi to Alfama flat"
+    },
+    {
+      "when": "2026-10-15T10:00",
+      "title": "Tram 28 to Estrela"
+    },
+    {
+      "when": "2026-10-15T20:30",
+      "title": "Dinner at the fado place Nell booked"
+    },
+    {
+      "when": "2026-10-16T09:00",
+      "title": "Train to Sintra"
+    }
+  ],
+  "travellers": [
+    "Nell Harper",
+    "Sam Harper",
+    "Priya Nair",
+    "Tom Okoye"
+  ]
+}

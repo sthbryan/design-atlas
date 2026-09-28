@@ -313,3 +313,8 @@ test('the translucent-surface example in the format spec is valid', () => {
   const src = fixture({ front, colors: table }).replaceAll('using {colors.accent}', 'using {colors.ink}');
   assert.deepEqual(check(src), []);
 });
+
+test('the shiftboard eval fixture is a valid DESIGN.md', () => {
+  const src = readFileSync(join(ROOT, 'skills/design-atlas-ui/evals/files/shiftboard/DESIGN.md'), 'utf8');
+  assert.deepEqual(check(src), []);
+});
