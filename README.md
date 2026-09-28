@@ -62,6 +62,12 @@ npx skills add sthbryan/design-atlas
 npx skills add sthbryan/design-atlas --skill design-atlas
 ```
 
+For Codex in the current project, select its agent target explicitly:
+
+```sh
+npx skills add sthbryan/design-atlas --agent codex
+```
+
 In Claude Code, install them as a plugin. The skills then run as `/design-atlas:design-atlas` and `/design-atlas:design-atlas-ui`:
 
 ```text

@@ -229,7 +229,7 @@ Neutrals lean to hue 165 at chroma 0.004 to 0.018 (C3); the accent is sienna at 
 
 - Scale: 4 to 48px (L1); gaps between groups at least twice the gaps inside one.
 - Frame: VitePress nav, sidebar and content. Prose at `max-width: 68ch` (T5); rows and legends span the content width.
-- Home: a short introduction, two paths separated by rules, then task-based topic links; the README has its own `/readme` route. Topics index: cards in `repeat(auto-fill, minmax(16rem, 1fr))`. Site index: labelled search field, live count, legend and rows, with 50 initially shown and more revealed on demand. Hubs: "All sources" as rows, no table of contents. Site pages: the seven sections beside a 280px facts rail.
+- Home: a short introduction, two paths separated by rules, task-based topic links, and installation commands for Codex and Claude Code; the README has its own `/readme` route. Topics index: cards in `repeat(auto-fill, minmax(16rem, 1fr))`. Site index: labelled search field, live count, legend and rows, with 50 initially shown and more revealed on demand. Hubs: "All sources" as rows, no table of contents. Site pages: the seven sections beside a 280px facts rail.
 - Density: rows at least 48px with 12px padding; buttons 32px, 44px on coarse pointers (L2); search field 40px.
 
 ## Elevation and depth
@@ -304,7 +304,7 @@ Test at 320, 390, 768 and 1280px plus 200% zoom (L3), with no horizontal page sc
 
 - Do: keep the four slots in order on every list, with a legend above.
 - Do: show a live count under the search field and keep the query in the URL.
-- Do: search the full catalog, including verdict, status and reviewed date, while revealing index rows in groups of 50.
+- Do: search the full catalog, including visible licence badge labels, verdict, status and reviewed date, while revealing index rows in groups of 50.
 - Do: write dates as `YYYY-MM-DD` and "at review" next to counts.
 - Don't: show screenshots, logos or favicons of reviewed sites, or put site lists in cards.
 - Don't: use `accent` beyond links, the current-page mark and the sidebar indicator.

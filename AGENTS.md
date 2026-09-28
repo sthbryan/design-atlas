@@ -47,7 +47,7 @@ Follow "Change the website DESIGN.md" in [CONTRIBUTING.md](CONTRIBUTING.md): ori
 
 ## Adding or changing a topic
 
-A topic slug is valid only if `topics/<slug>.md` exists with `title`, `description` and `order` in its frontmatter and an `atlas:sources` block under "All sources". Keep "Start here" to five entries, each tagged with that topic.
+A topic slug is valid only if `topics/<slug>.md` exists with `title`, `description` and `order` in its frontmatter and an `atlas:sources` block under "All sources". Keep "Start here" to at most five entries, each tagged with that topic.
 
 ## Rules
 

@@ -5,6 +5,6 @@ description: Every reviewed site in the atlas as one filterable list, with its v
 
 # All sites
 
-Every reviewed site in one list. Filter by name, type, topic, verdict, agent channel or review date, then open a page for the full review.
+Every reviewed site in one list. Filter by name, type, topic, verdict, licence badge, agent channel or review date, then open a page for the full review.
 
 <AtlasSiteIndex />

@@ -1,5 +1,5 @@
 ---
-title: Motion
+title: Motion (motionin.design)
 description: A categorized gallery of interactive web sections with live examples and detailed motion specifications.
 url: https://motionin.design
 type: gallery
@@ -16,7 +16,7 @@ related: [60fps, motion-primitives, design-motion-principles]
 ---
 [← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
-# Motion
+# Motion (motionin.design)
 
 ## What it is
 

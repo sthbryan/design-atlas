@@ -108,12 +108,18 @@ topics.sort((a, b) => a.order - b.order);
 
 const sites = loadDir('sites');
 const siteBySlug = Object.fromEntries(sites.map((s) => [s.slug, s]));
+const siteTitles = new Map();
 const today = new Date();
 for (const s of sites) {
   const d = s.data;
   for (const key of Object.keys(d)) if (!SITE_FIELDS.includes(key)) fail(s.path, `unknown field "${key}"`);
   for (const key of SITE_FIELDS) if (d[key] === undefined && !OPTIONAL.has(key)) fail(s.path, `missing field "${key}"`);
   for (const key of ['title', 'description', 'url', 'licence']) if (d[key] !== undefined && !isString(d[key])) fail(s.path, `${key} must be a non-empty single string`);
+  if (isString(d.title)) {
+    const key = d.title.toLocaleLowerCase('en');
+    if (siteTitles.has(key)) fail(s.path, `title "${d.title}" duplicates ${siteTitles.get(key)}`);
+    else siteTitles.set(key, s.path);
+  }
   for (const key of OPTIONAL) if (d[key] !== undefined && !isString(d[key])) fail(s.path, `${key} must be a non-empty string`);
   if (isString(d.description) && (d.description.length > MAX_DESCRIPTION || d.description.includes('\n'))) fail(s.path, `description must be one line of at most ${MAX_DESCRIPTION} characters`);
   if (isString(d.url) && !/^https?:\/\/\S+$/.test(d.url)) fail(s.path, `url "${d.url}" is not an http(s) URL`);

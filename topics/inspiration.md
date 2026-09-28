@@ -179,7 +179,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [MLX.fast](../sites/mlx-fast.md) — Live MLX optimization challenge with a paired performance chart, model filters and a detailed contribution leaderboard.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Monash MADA Now 2025](../sites/monash-mada-now-2025.md) — Monash MADA's graduate archive groups featured projects and student work by Fine Art, Design and Architecture.
-- [Motion](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
+- [Motion (motionin.design)](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
 - [MUUUUU.ORG](../sites/muuuuu.md) — A Japanese design award gallery that highlights a daily site and tags work by composition, typography, color, motion and visual technique.
 - [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.

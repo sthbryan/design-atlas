@@ -21,13 +21,13 @@ Open an issue with the [Suggest a site](.github/ISSUE_TEMPLATE/suggest-a-site.ym
 5. Run `bun run check` and fix anything it reports. `bun run site:build` also checks that every link on the website resolves.
 6. Commit with a conventional message, for example `docs(sites): add <name>`, and open a pull request.
 
-To feature the site in a hub's "Start here" list, edit that hub by hand. Keep the list to five entries, all tagged with that hub, and say why to start there rather than repeating the site's description.
+To feature the site in a hub's "Start here" list, edit that hub by hand. Keep the list to at most five entries, all tagged with that hub, and say why to start there rather than repeating the site's description.
 
 ## Frontmatter fields
 
 | Field | Required | Allowed values |
 |---|---|---|
-| `title` | yes | The site's name, identical to the page's H1. |
+| `title` | yes | The site's name, identical to the page's H1. If another entry has the same name, add the domain in parentheses to distinguish them in lists. |
 | `description` | yes | One line, at most 160 characters, in your own words. Used in hubs, the README, `llms.txt` and `sites.json`. |
 | `url` | yes | The canonical `https://` address. |
 | `type` | yes | One of: `gallery`, `website`, `component-library`, `component-registry`, `design-system`, `js-library`, `icon-library`, `font-library`, `asset-library`, `sound-library`, `style-library`, `prompt-library`, `template-library`, `pattern-library`, `documentation`, `guidelines`, `directory`, `tool`, `design-workspace`, `browser-extension`, `ai-builder`, `agent-skill`, `agent-skill-collection`. Use `gallery` for a collection of others' work and `website` for one live site reviewed as a visual example. |
