@@ -139,6 +139,15 @@ test('the Colors table must match the front matter', () => {
   has(check(fixture({ colors: COLORS.replace('0.480 0.107 56', '0.60 0.107 56') })), /accent: OKLCH 0\.60 0\.107 56 does not match/);
   has(check(fixture({ colors: COLORS.replace('0.480 0.107 56', '0.480 0.107 90') })), /accent: OKLCH .* does not match/);
   assert.deepEqual(check(fixture({ colors: COLORS.replace('0.480 0.107 56', 'oklch(48% 0.107 56)') })), []);
+  const extraHeader = COLORS
+    .replace('| Token | Light | Dark | OKLCH (light) | Job | Pairs (measured) |', '| Token | Light | Dark | OKLCH (light) | Job | Pairs (measured) | Extra |')
+    .replace('|---|---|---|---|---|---|', '|---|---|---|---|---|---|---|');
+  has(check(fixture({ colors: extraHeader })), /Colors table header must be/);
+  has(check(fixture({ colors: COLORS.replace('| bg | #F6F7F4 | #1A1C19 | 0.975 0.004 122 | Page | |', '| bg | #F6F7F4 | #1A1C19 | 0.975 0.004 122 | Page | | Extra |') })), /Colors table row has 7 columns; expected 6/);
+  const aligned = COLORS.replace('|---|---|---|---|---|---|', '|:---|---:|:---:|---:|---|:---:|');
+  assert.deepEqual(check(fixture({ colors: aligned })), []);
+  has(check(fixture({ colors: COLORS.replace('|---|---|---|---|---|---|', '|---| invalid |---|---|---|---|') })), /Colors needs a table/);
+  has(check(fixture({ colors: COLORS.replace('|---|---|---|---|---|---|', '|---|---|---|---|---|') })), /Colors needs a table/);
 });
 
 test('declared pairs are recomputed and held to their floor', () => {
@@ -168,6 +177,8 @@ test('motion tokens follow resolved-conflicts unless overridden', () => {
   has(check(fixture({ motion: slow, overrides: '| Row | Project value | Reason |\n|---|---|---|\n| M4 | `--dur-menu` 320ms | |' })), /--dur-menu is 320ms, but resolved-conflicts sets 200ms/);
   has(check(fixture({ motion: slow, overrides: '| Row | Project value | Reason |\n|---|---|---|\n| M4 | `--dur-menu-extra` 320ms | Long menus |' })), /--dur-menu is 320ms, but resolved-conflicts sets 200ms/);
   has(check(fixture({ motion: slow, overrides: '| Row | Project value | Reason |\n|---|---|---|\n| M4 | `--dur-menu` 200ms | Long menus |' })), /--dur-menu is 320ms, but resolved-conflicts sets 200ms/);
+  has(check(fixture({ motion: MOTION.replace('| Token | Value | Used for |', '| Name | Duration | Purpose |') })), /Motion table header must be/);
+  has(check(fixture({ motion: MOTION.replace('| `--dur-menu` | 200ms | Menus |', '| `--dur-menu` | 200ms | Menus | Extra |') })), /Motion table row has 4 columns; expected 3/);
 });
 
 test('easing overrides match the complete value', () => {

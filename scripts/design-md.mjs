@@ -176,13 +176,17 @@ function sectionText(body, name) {
 function firstTable(text) {
   const lines = text.split('\n');
   const start = lines.findIndex((l) => l.trim().startsWith('|'));
-  if (start < 0 || !/^\|?\s*:?-{3,}/.test(lines[start + 1]?.trim() ?? '')) return null;
+  if (start < 0) return null;
+  const header = cells(lines[start]);
+  const separator = lines[start + 1]?.trim() ?? '';
+  const separatorCells = cells(separator);
+  if (separatorCells.length !== header.length || !separatorCells.every((cell) => /^:?-{3,}:?$/.test(cell))) return null;
   const rows = [];
   for (const line of lines.slice(start + 2)) {
     if (!line.trim().startsWith('|')) break;
     rows.push(cells(line));
   }
-  return { header: cells(lines[start]), rows };
+  return { header, rows };
 }
 
 export function parseMotionTokens(css) {
@@ -270,7 +274,8 @@ function checkColors(body, groups, err) {
   const { header, rows } = table;
   const oklchAt = header.findIndex((h) => /^OKLCH\b/.test(h));
   const pairsAt = header.findIndex((h) => /^Pairs\b/.test(h));
-  if (header[0] !== 'Token' || oklchAt < 2 || !header.includes('Job') || pairsAt < 0) {
+  if (header[0] !== 'Token' || oklchAt < 2 || oklchAt !== header.length - 3
+    || header[oklchAt + 1] !== 'Job' || pairsAt !== header.length - 1 || header.at(-1) !== 'Pairs (measured)') {
     err('Colors table header must be: Token, one column per theme, OKLCH (<theme>), Job, Pairs (measured)');
     return null;
   }
@@ -279,6 +284,7 @@ function checkColors(body, groups, err) {
   const values = {};
   const composites = {};
   for (const row of rows) {
+    if (row.length !== header.length) err(`Colors table row has ${row.length} columns; expected ${header.length}`);
     const token = row[0];
     const mix = (row[jobAt] ?? '').match(COMPOSITE);
     if (mix && colors[token]) err(`Colors table ${token}: a composite row is measured, never painted; remove "${token}" from the front matter`);
@@ -394,6 +400,10 @@ function checkComponentPairs(groups, palette, err) {
 function checkMotion(body, motionTokens, err) {
   const table = firstTable(sectionText(body, 'Motion'));
   if (!table || !motionTokens) return;
+  if (table.header.join('|') !== 'Token|Value|Used for') {
+    err('Motion table header must be: Token, Value, Used for');
+    return;
+  }
   const overrideTable = firstTable(sectionText(body, 'Overrides'));
   const hasOverride = (token, motionValue) => {
     if (!overrideTable) return false;
@@ -411,6 +421,10 @@ function checkMotion(body, motionTokens, err) {
     });
   };
   for (const row of table.rows) {
+    if (row.length !== table.header.length) {
+      err(`Motion table row has ${row.length} columns; expected ${table.header.length}`);
+      continue;
+    }
     const [token, value] = row;
     if (!token?.startsWith('--') || motionTokens[token] === undefined) continue;
     if (value !== motionTokens[token] && !hasOverride(token, value)) {
