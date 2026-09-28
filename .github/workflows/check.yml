@@ -18,3 +18,4 @@ jobs:
           node-version: 24
           cache: npm
       - run: npm ci && npm run check
+      - run: npm run site:build
