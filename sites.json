@@ -2640,6 +2640,31 @@
       ]
     },
     {
+      "slug": "cari",
+      "path": "sites/cari.md",
+      "title": "CARI",
+      "description": "The Consumer Aesthetics Research Institute: dated, credited pages on consumer-era looks such as Y2K, Neo-Y2K and Frutiger Aero, each with a gallery.",
+      "url": "https://cari.institute/",
+      "type": "gallery",
+      "formats": "aesthetics index · dated style pages · image galleries · glossary and articles",
+      "topics": [
+        "typography-and-styles",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. The site says its artifacts are for research and reference, asks for attribution, and does not condone redistribution; it states no open licence for its text or images at review.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "typographic-posters",
+        "peoples-graphic-design-archive",
+        "css-text-effects"
+      ]
+    },
+    {
       "slug": "case-study-club",
       "path": "sites/case-study-club.md",
       "title": "Case Study Club",
@@ -11270,6 +11295,31 @@
       ]
     },
     {
+      "slug": "peoples-graphic-design-archive",
+      "path": "sites/peoples-graphic-design-archive.md",
+      "title": "People's Graphic Design Archive",
+      "description": "Crowd-sourced archive of graphic design at least ten years old, from posters and magazines to game covers, browsable by type, tag and date.",
+      "url": "https://peoplesgdarchive.org/",
+      "type": "gallery",
+      "formats": "crowd-sourced design archive · tags and collections · item pages with designer and date",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. Its legal page says materials are shown for non-commercial educational and research use, that rights stay with their holders, and that users must check copyright before reuse; it offers a DMCA takedown route. No open licence at review.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "typographic-posters",
+        "fonts-in-use",
+        "cari"
+      ]
+    },
+    {
       "slug": "pepsi-visual-identity-2023",
       "path": "sites/pepsi-visual-identity-2023.md",
       "title": "Pepsi visual identity 2023",
@@ -11851,6 +11901,31 @@
       "related": [
         "devouring-details",
         "uiwtf"
+      ]
+    },
+    {
+      "slug": "rave-preservation-project",
+      "path": "sites/rave-preservation-project.md",
+      "title": "Rave Preservation Project",
+      "description": "Archive of about 40,000 scanned rave flyers, posters and tickets from the mid-1980s to the early 2000s, grouped by country, region and city.",
+      "url": "https://www.ravepreservationproject.com/",
+      "type": "gallery",
+      "formats": "flyer and poster archive · galleries by place · free sign-in for galleries",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, funded by donations and paid directory listings for businesses. Public flyer pages are open and the galleries need a free sign-in. No licence, copyright notice or usage terms for the scans were found on the reviewed pages.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-27",
+      "status": "active",
+      "related": [
+        "typographic-posters",
+        "peoples-graphic-design-archive",
+        "cari"
       ]
     },
     {
