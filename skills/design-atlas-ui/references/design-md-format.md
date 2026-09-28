@@ -338,8 +338,8 @@ components:
 
 ## Updating an existing file
 
-- Read the whole file first. Keep its layout, token names and section order, and add missing sections at the end.
-- A file in the nine-part layout (Visual Theme and Atmosphere through Agent Prompt Guide) stays in that layout unless the user asks for a conversion. Map our sections onto its headings.
+- Read the whole file first. Preserve its tokens, values and design decisions, then map its content into the fifteen canonical sections above. The validator requires those headings and their order, so convert legacy layouts as part of updating the file; no separate user request is needed.
+- Move content into the closest matching section and combine overlapping sections where needed. Do not invent values to fill gaps: mark them `not measured` or `inferred`, and explain genuinely inapplicable sections in one line.
 - Never rename a token that code already uses. Add the new token and list the old one under Agent guide as deprecated.
 - Change a value only with a reason, and record the change in Provenance with the date.
 - If the file conflicts with the implemented theme, report the drift instead of silently picking a side.
