@@ -253,8 +253,10 @@ let hits = filtered.sort(byDefault);
 let rows = (list) => list.map((s) => shape(s, opts.full));
 if (opts.search !== undefined) {
   const localIndex = index.location === 'local' ? join(index.root, SEARCH_INDEX) : null;
-  const indexPath = localIndex && existsSync(localIndex) ? localIndex : BUNDLED_SEARCH;
-  const docs = existsSync(indexPath) ? readJson(indexPath)?.docs : null;
+  const indexPath = index.location === 'local'
+    ? (existsSync(localIndex) ? localIndex : null)
+    : index.location === 'bundled' ? BUNDLED_SEARCH : null;
+  const docs = indexPath && existsSync(indexPath) ? readJson(indexPath)?.docs : null;
   const synonyms = prepareSynonyms(existsSync(SYNONYMS) ? readJson(SYNONYMS) : {});
   const corpus = buildCorpus(sites, docs);
   const plan = planQuery(opts.search, corpus, synonyms);
@@ -263,7 +265,8 @@ if (opts.search !== undefined) {
       ? `--search "${opts.search}" holds only filter words; use ${plan.hints.join(' ')} and search for what you need, such as icons or charts.`
       : `--search "${opts.search}" has no searchable words; add a noun such as icons, charts or pricing.`);
   }
-  if (corpus.missing) process.stderr.write(`search index lacks ${corpus.missing} site(s); they are ranked on index metadata only, without page text.\n`);
+  if (index.location === 'remote') process.stderr.write('no matching search index for the remote catalog; ranking site metadata only, without page text.\n');
+  else if (corpus.missing) process.stderr.write(`search index lacks ${corpus.missing} site(s); they are ranked on index metadata only, without page text.\n`);
   if (plan.corrected.length) process.stderr.write(`corrected: ${plan.corrected.join(', ')}\n`);
   header.search = {
     query: opts.search,

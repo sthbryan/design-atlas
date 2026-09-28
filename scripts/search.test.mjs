@@ -1,5 +1,7 @@
 import assert from 'node:assert/strict';
 import { spawnSync } from 'node:child_process';
+import { mkdtempSync, rmSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
 import { dirname, join, resolve } from 'node:path';
 import { test } from 'node:test';
 import { fileURLToPath } from 'node:url';
@@ -105,6 +107,24 @@ test('the bundled index is used when no clone is found', () => {
   const res = spawnSync(process.execPath, [QUERY, '--location', 'bundled', '--search', 'shdcn charts'], { encoding: 'utf8', cwd: dirname(ROOT) });
   assert.equal(res.status, 0);
   assert.equal(JSON.parse(res.stdout).sites[0].slug, 'evil-charts');
+});
+
+test('remote catalogs do not rank against the potentially stale bundled search index', () => {
+  const dir = mkdtempSync(join(tmpdir(), 'design-atlas-query-'));
+  try {
+    const preload = join(dir, 'mock-fetch.mjs');
+    const freshCatalog = {
+      topics: [],
+      sites: [{ slug: 'evil-charts', path: 'sites/evil-charts.md', title: 'Purple lantern', description: 'A lantern reference', type: 'website', topics: [], verdict: 'useful', agent: [], pricing: 'free', licence_class: 'not-stated', reviewed: '2026-09-28', status: 'active' }],
+    };
+    writeFileSync(preload, `globalThis.fetch = async () => new Response(${JSON.stringify(JSON.stringify(freshCatalog))}, { status: 200 });\n`);
+    const res = spawnSync(process.execPath, ['--import', preload, QUERY, '--location', 'remote', '--search', 'charts'], { encoding: 'utf8' });
+    assert.equal(res.status, 1);
+    assert.deepEqual(JSON.parse(res.stdout).sites, []);
+    assert.match(res.stderr, /no matching search index for the remote catalog/);
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
 });
 
 test('normalisation folds plurals and inflections', () => {
