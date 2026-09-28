@@ -83,7 +83,7 @@ How to apply it:
 
 | ID | Topic | Position | Instead of | Reason |
 |---|---|---|---|---|
-| P1 | Direction approval | Ask once, and only when no DESIGN.md exists or the request changes its direction. Skip when the user said to proceed. | three questions every time; a mode question every session | One round-trip where it changes the outcome, and none where it does not. |
+| P1 | Direction approval | Ask once, and only when no DESIGN.md exists or the request changes its direction. Skip when the user said to proceed. A brief that says to build without sign-off ("build it now", "no need to check with me") counts as proceed, whether the user wrote it or an agent that delegated the task passed it on, and so does a delegated task with nobody to answer. When you skip, label the report `Direction not reviewed`. | three questions every time; a mode question every session | One round-trip where it changes the outcome, and none where it does not. |
 | P2 | Render rounds | Two at most: one full round, then one confirming round. Report what remains. | three scoring rounds; open-ended loops | Cost stays bounded and the report stays honest about leftovers. |
 | P3 | Severity | Blocking: the accessibility floor, broken function, dishonest content, numbers that do not add up, a preserved item changed. Important: hierarchy, consistency, token drift and ban-list hits. Polish: isolated details. Taste is never Blocking. | HIGH/MEDIUM/LOW; P0–P3; critical/major/minor | Three levels defined by user impact are enough to act on. |
 | P4 | Findings cap | Ten findings in full and the rest counted in one line. Blocking findings are never cut. | a cap of 15; a cap of 3 | Ten is what a person fixes in one sitting. |

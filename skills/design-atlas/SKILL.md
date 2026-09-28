@@ -10,7 +10,9 @@ metadata:
 
 This skill uses the Design Atlas to find sources, then studies real examples when the task needs a visual direction. Its brief names the atlas page, the example URL, the observed design move, its fit to the user's project, the licence class and the review date.
 
-Calibration: shortlist only sources that help the task, normally two to five. Atlas source pages must exist in the index; individual live examples may be linked directly. Ideas are free to borrow; code and assets are only as free as their licence class.
+Calibration: shortlist only sources that help the task, normally two to five.
+
+Limits: read at most two hubs and five site pages, and cite at most five atlas sources in one brief, unless the user asks for more. These are the only lookup caps; the rest of this skill and `design-atlas-ui` use the same numbers. Atlas source pages must exist in the index; individual live examples may be linked directly. Ideas are free to borrow; code and assets are only as free as their licence class.
 
 Scope: this skill writes the reference brief. If the same request asks for UI, continue with `design-atlas-ui` when available. A skill boundary must not leave the user's build request unfinished.
 
@@ -31,6 +33,8 @@ Use the first location that answers. `scripts/query.mjs` follows this order and 
 
 The repository `github.com/sthbryan/design-atlas` is private for now. Until it is public, every raw GitHub request returns 404 and the script falls through to the bundled snapshot. The snapshot is the supported offline path, so a 404 there is expected and not an error to report.
 
+Offline rule: raw GitHub (location 2) is the only network use, and `query.mjs` makes at most one request per call, only when no local clone is found. Pass `--offline` whenever the user, the host or a delegating agent has not allowed network access; the script then reads a local clone or the bundled snapshot and nothing else. Browsing live examples in step 5 is separate and follows that step.
+
 Tell the user which location you used. A snapshot is only as fresh as its `about.latest_review` date.
 
 ## Workflow
@@ -40,8 +44,8 @@ Copy this checklist and tick it as you go.
 ```text
 - [ ] 1. Task classified into hubs and constraints
 - [ ] 2. Index queried
-- [ ] 3. Two hubs read at most
-- [ ] 4. Shortlist made, eight pages read at most
+- [ ] 3. Hubs read, within the limits
+- [ ] 4. Shortlist made and pages read, within the limits
 - [ ] 5. Live examples inspected when the task is visual
 - [ ] 6. Licence decided per reference
 - [ ] 7. Brief written and handed to the build task, or finished
@@ -81,7 +85,7 @@ Then note the constraints, since each one becomes a filter:
 
 ### 2. Query the index, not the pages
 
-Run `scripts/query.mjs` with Node 18 or later. Call it by its full path from the user's working directory, so it finds a clone there. It reads local files first and makes at most one network request, to raw GitHub.
+Run `scripts/query.mjs` with Node 18 or later. Call it by its full path from the user's working directory, so it finds a clone there. It reads local files first and follows the offline rule above.
 
 When the need is free text, start with `--search` and the user's most distinctive design terms, plus the constraint filters. Drop generic words such as "website" and "design" if they drown out the intended style. It ranks sites offline against `references/search-index.json`, folds plurals, expands design synonyms from `references/synonyms.json` and corrects typos. Filters apply before ranking.
 
@@ -96,13 +100,13 @@ node "$SKILL_DIR/scripts/query.mjs" --topic components --agent mcp --min-verdict
 node "$SKILL_DIR/scripts/query.mjs" --slug iconoir,icons0 --full
 ```
 
-It prints JSON: `location`, `base`, `total`, and one row per site. Each row's `path` is relative to `base`, a local folder or the raw GitHub URL; `base` is null for the snapshot. Exit code 1 means no match, so widen one filter at a time. Add `--offline` when network use is not allowed.
+It prints JSON: `location`, `base`, `total`, and one row per site. Each row's `path` is relative to `base`, a local folder or the raw GitHub URL; `base` is null for the snapshot. Exit code 1 means no match, so widen one filter at a time.
 
 With `--search`, rows sort by `score` and carry `match`, the fields each term hit. The header's `search` object shows the stemmed `terms`, the `expanded` synonyms and any `corrected` typo; check a correction before trusting the results. Words such as "ship", "commercial" or "free" are not ranked: `search.suggest` names the filter to add instead. A score ranks within one query only, so still shortlist by fit, and cross-check the top rows with the hubs from step 1.
 
 Without Node, filter `llms.txt` or the catalog with grep or jq. Read `references/query-recipes.md` for those commands and for raw GitHub fetches.
 
-### 3. Read two hubs at most
+### 3. Read the hubs
 
 Open the chosen hubs, or their rows in `references/hub-map.md` when only the snapshot is available. Read "Start here", "Patterns worth reusing" and "Pitfalls", and skip "All sources", which repeats the index.
 
@@ -110,7 +114,7 @@ A hub with fewer than three matching sites is thin. Say so, and widen to one adj
 
 ### 4. Shortlist, then read only the sections that matter
 
-Rank by "Start here" membership, then verdict, then fit to the constraints. For a visual direction, favor sources that lead to relevant real websites; for implementation choices, mix galleries, libraries and assets as needed. Stop at seven.
+Rank by "Start here" membership, then verdict, then fit to the constraints. For a visual direction, favor sources that lead to relevant real websites; for implementation choices, mix galleries, libraries and assets as needed. Stop at the source limit in Calibration.
 
 List each pick's sections before reading it, from `base`:
 
@@ -118,7 +122,7 @@ List each pick's sections before reading it, from `base`:
 grep -n '^## ' sites/iconoir.md
 ```
 
-Read "When to open it", "Using it with agents", "Watch out for" and "Reusable ideas". Open "What it is" only when the one-line description leaves a doubt. Eight pages is the ceiling unless the user asks for more.
+Read "When to open it", "Using it with agents", "Watch out for" and "Reusable ideas". Open "What it is" only when the one-line description leaves a doubt. Stay within the page limit in Calibration.
 
 ### 5. Inspect real examples for visual requests
 
@@ -185,7 +189,7 @@ Inside a clone, follow `AGENTS.md` and `CONTRIBUTING.md`. Never hand-edit `llms.
 | Detect | Fix |
 |---|---|
 | A reference with no `sites/<slug>.md` path, or a slug missing from the index | Add the path, or drop the reference |
-| More than seven atlas sources, or more than eight pages read | Cut to the strongest and say what you dropped |
+| More atlas sources cited, or more hubs or pages read, than the limits in Calibration | Cut to the strongest and say what you dropped |
 | A row without its licence class or reviewed date | Fill it from the index |
 | `not-stated` recommended to ship, or `cc-noncommercial` in a commercial product | Mark it look-only |
 | A paid or gated channel presented as free | Name the account, key or tier it needs |

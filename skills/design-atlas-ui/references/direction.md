@@ -37,9 +37,9 @@ If none exists, say so and write `Atlas not available` in the References section
 
 ## Look up references
 
-Read the index before pages. Stop at two hubs and five site pages unless the user asks for more.
+Read the index before pages. Read at most two hubs and five site pages, and cite at most five atlas sources, unless the user asks for more. These are the same limits the `design-atlas` skill uses.
 
-1. **Query the index.** When the `design-atlas` skill sits beside this skill folder, or the atlas root has `skills/design-atlas/`, run its query script. Always pass `--offline`, so the lookup reads a local clone or that skill's bundled catalog and never the network:
+1. **Query the index.** When the `design-atlas` skill sits beside this skill folder, or the atlas root has `skills/design-atlas/`, run its query script and follow the offline rule in that skill's "Find the atlas first" section. The examples below are the offline form, which reads a local clone or that skill's bundled catalog and nothing else:
 
    ```sh
    Q=path/to/design-atlas/scripts/query.mjs
@@ -154,7 +154,7 @@ Audience and job: who uses it, where, and the one thing they came to do.
 Subject world: the materials, conventions or data this look is drawn from.
 Signature element: one element that could only belong to this product.
 Will not: three to five defaults this direction rejects, each specific.
-References: 2–5 atlas pages, each with what you take and its licence class.
+References: two to five atlas pages (the limit in Look up references), each with what you take and its licence class.
 ```
 
 A good subject world is concrete enough to settle an argument. "Nautical chart conventions" tells you which colour means caution and how labels are set. "Clean and modern" settles nothing.
