@@ -213,7 +213,7 @@ components:
 - Known gaps: <list>
 
 ## Provenance
-- Written: <YYYY-MM-DD> by <who or which agent>
+- Date: <YYYY-MM-DD of the last change>
 - Read: <files>
 - Measured: <values measured from computed styles>
 - Inferred: <values taken from prose or guessed from context>
@@ -330,7 +330,7 @@ components:
 | sites/dark-mode-design.md | not visually verified | No visual decision taken yet | Look only | 2026-09-25 |
 
 ## Provenance
-- Written: 2026-09-27 by the design agent; direction not reviewed.
+- Date: 2026-09-27; direction not reviewed.
 - Measured: all contrast pairs and the cover-label composite, computed from the hex values above.
 - Inferred: target sizes, pending a test on a moving bus.
 - Unverified: individual sites from Dark Mode Design were not opened.

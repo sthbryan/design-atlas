@@ -134,4 +134,4 @@ None recorded. The system was drawn from the paper rota, not from outside refere
 - Known gaps: dark theme, responsive layout of the week grid.
 
 ## Provenance
-- Written: 2026-09-01. Measured: all pairs above, from hex values.
+- Date: 2026-09-01. Measured: all pairs above, from hex values.
