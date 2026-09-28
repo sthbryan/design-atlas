@@ -164,6 +164,10 @@ test('motion tokens follow resolved-conflicts unless overridden', () => {
   const slow = MOTION.replace('200ms', '320ms');
   has(check(fixture({ motion: slow })), /--dur-menu is 320ms, but resolved-conflicts sets 200ms/);
   assert.deepEqual(check(fixture({ motion: slow, overrides: '| Row | Project value | Reason |\n|---|---|---|\n| M4 | `--dur-menu` 320ms | Long menus |' })), []);
+  has(check(fixture({ motion: slow, overrides: 'We use `--dur-menu` at 320ms for long menus.' })), /--dur-menu is 320ms, but resolved-conflicts sets 200ms/);
+  has(check(fixture({ motion: slow, overrides: '| Row | Project value | Reason |\n|---|---|---|\n| M4 | `--dur-menu` 320ms | |' })), /--dur-menu is 320ms, but resolved-conflicts sets 200ms/);
+  has(check(fixture({ motion: slow, overrides: '| Row | Project value | Reason |\n|---|---|---|\n| M4 | `--dur-menu-extra` 320ms | Long menus |' })), /--dur-menu is 320ms, but resolved-conflicts sets 200ms/);
+  has(check(fixture({ motion: slow, overrides: '| Row | Project value | Reason |\n|---|---|---|\n| M4 | `--dur-menu` 200ms | Long menus |' })), /--dur-menu is 320ms, but resolved-conflicts sets 200ms/);
 });
 
 test('comments are rejected', () => {

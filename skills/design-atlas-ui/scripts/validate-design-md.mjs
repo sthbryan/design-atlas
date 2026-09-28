@@ -394,11 +394,24 @@ function checkComponentPairs(groups, palette, err) {
 function checkMotion(body, motionTokens, err) {
   const table = firstTable(sectionText(body, 'Motion'));
   if (!table || !motionTokens) return;
-  const overrides = sectionText(body, 'Overrides');
+  const overrideTable = firstTable(sectionText(body, 'Overrides'));
+  const hasOverride = (token, motionValue) => {
+    if (!overrideTable) return false;
+    const columns = overrideTable.header.map((cell) => cell.toLowerCase());
+    const valueIndex = columns.indexOf('project value');
+    const reasonIndex = columns.indexOf('reason');
+    if (valueIndex < 0 || reasonIndex < 0) return false;
+    return overrideTable.rows.some((row) => {
+      const projectValue = row[valueIndex] ?? '';
+      const reason = row[reasonIndex]?.trim() ?? '';
+      const projectValues = projectValue.replaceAll('`', '').split(/\s+/);
+      return projectValues.includes(token) && projectValues.includes(motionValue) && Boolean(reason);
+    });
+  };
   for (const row of table.rows) {
     const [token, value] = row;
     if (!token?.startsWith('--') || motionTokens[token] === undefined) continue;
-    if (value !== motionTokens[token] && !overrides.includes(token)) {
+    if (value !== motionTokens[token] && !hasOverride(token, value)) {
       err(`Motion ${token} is ${value}, but resolved-conflicts sets ${motionTokens[token]}; list ${token} under Overrides with a reason`);
     }
   }
