@@ -63,7 +63,7 @@ Token, role and component names use lowercase letters, digits and hyphens. State
 The Colors table is the one place that holds every theme, so it is also where contrast is declared.
 
 - Columns, in order: `Token`, one column per theme (`Light`, `Dark`, or just one for a single-theme system), `OKLCH (<default theme>)`, `Job`, `Pairs (measured)`.
-- One row per front-matter colour, and no rows for anything else. Every theme cell is a `#RRGGBB` value, and the first theme column equals the front matter.
+- One row per front-matter colour, plus only the composite rows defined under Translucent surfaces below. Every theme cell is a `#RRGGBB` value, and each front-matter colour's first theme cell equals its front-matter value.
 - The OKLCH cell is `L C H` or `oklch(L C H)`, with L from 0 to 1. It must round to the default theme's hex within 0.01 in L and C, and within 5° of hue when chroma is 0.02 or more.
 - A row's Pairs cell declares the pairs where that token is the foreground, separated by semicolons. Each pair reads `<kind> on <background token> <ratio>:1`, with one ratio per theme column separated by ` / `, for example `text on bg 15.10:1 / 14.87:1`.
 - The kind sets the WCAG 2.2 floor from C4 and T3 in `references/resolved-conflicts.md`: `text` needs 4.5:1, `large` (large text) needs 3:1 and `ui` (control boundaries, focus rings, meaningful icons and chart marks) needs 3:1.

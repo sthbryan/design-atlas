@@ -93,6 +93,7 @@ For a whole website's visual direction, start with `--type gallery,website` so m
 
 ```sh
 SKILL_DIR=path/to/design-atlas
+node "$SKILL_DIR/scripts/query.mjs" --topics
 node "$SKILL_DIR/scripts/query.mjs" --search "animated icons for react" --licence ship
 node "$SKILL_DIR/scripts/query.mjs" --search "brutalism" --type gallery,website
 node "$SKILL_DIR/scripts/query.mjs" --topic icons,assets --licence ship --agent any

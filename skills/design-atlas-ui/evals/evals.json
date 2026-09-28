@@ -241,7 +241,7 @@
         "Borders of 3px or more are the recorded depth strategy (Elevation and depth), with no soft shadows in the built CSS",
         "The reply or DESIGN.md names the brief-requested departures (mono used as a display face, the brutalist or terminal default family) once, with an Overrides row or a one-line reason, and still follows the brief",
         "The page lists exactly the four issue 7 articles with their titles, authors and word counts from PRODUCT.md, and no subscriber count, press quote or award appears",
-        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "DESIGN.md passes the skill's validator with zero errors (run node <installed skill folder>/scripts/validate-design-md.mjs DESIGN.md from the project root; it exits 0)",
         "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
         "No hex, rgb(), hsl() or oklch() colour literal appears in component or page styles outside the one token file or token block",
         "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
@@ -260,7 +260,7 @@
         "The palette has at most one accent hue, and every muted or secondary text colour declared in the Colors table passes 4.5:1 on its background",
         "The page shows the price as EUR 1,480 and only facts from PRODUCT.md; no review, rating, press logo, quote, scarcity or urgency line appears",
         "Product photos are labelled placeholders, not stock images or invented URLs",
-        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "DESIGN.md passes the skill's validator with zero errors (run node <installed skill folder>/scripts/validate-design-md.mjs DESIGN.md from the project root; it exits 0)",
         "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
         "No hex, rgb(), hsl() or oklch() colour literal appears in component or page styles outside the one token file or token block",
         "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
@@ -280,7 +280,7 @@
         "Radius tokens are larger than the 8 to 16px card default on primary surfaces or buttons, and bright fills keep every declared text pair at 4.5:1 or large-text 3:1",
         "Every action has an icon plus an accessible name, and no emoji is used as an icon",
         "No ranking, streak, percentage or comparison with other children appears; the sounds and star count come from props",
-        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "DESIGN.md passes the skill's validator with zero errors (run node <installed skill folder>/scripts/validate-design-md.mjs DESIGN.md from the project root; it exits 0)",
         "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
         "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
         "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
@@ -299,7 +299,7 @@
         "Gain and loss are marked by a sign, arrow or text as well as colour, so they do not rely on red versus green",
         "Tokens live in tailwind.config.js or CSS variables it reads; no arbitrary colour values such as bg-[#...] in the component",
         "Only symbols from positions.json appear, and no other desk data is invented",
-        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "DESIGN.md passes the skill's validator with zero errors (run node <installed skill folder>/scripts/validate-design-md.mjs DESIGN.md from the project root; it exits 0)",
         "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
         "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
       ]
@@ -316,7 +316,7 @@
         "Exactly the four pieces from PRODUCT.md appear with their glazes, prices and Left counts; no review, rating, quote, countdown or invented scarcity line",
         "Photos are labelled placeholders",
         "The neutral palette leans warm (OKLCH hue roughly 40 to 100 for neutrals), with one temperature across the product",
-        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "DESIGN.md passes the skill's validator with zero errors (run node <installed skill folder>/scripts/validate-design-md.mjs DESIGN.md from the project root; it exits 0)",
         "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
         "No hex, rgb(), hsl() or oklch() colour literal appears in component or page styles outside the one token file or token block",
         "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
@@ -336,7 +336,7 @@
         "Ranks are derived in code from src/data/scores.json keeping each player's top score per game, and the tie in Brick Tower is handled deterministically or shown as a tie",
         "Only the two games, the real initials and the drink-token prize appear; no all-time record, player name or other prize",
         "Pixel text used for scores or names is at least 16px at phone width, and every declared text pair passes 4.5:1",
-        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "DESIGN.md passes the skill's validator with zero errors (run node <installed skill folder>/scripts/validate-design-md.mjs DESIGN.md from the project root; it exits 0)",
         "No hex, rgb(), hsl() or oklch() colour literal appears in component or page styles outside the one token file or token block",
         "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
         "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
@@ -355,7 +355,7 @@
         "The -webkit-backdrop-filter prefix is included for iOS Safari, which PRODUCT.md names",
         "Only data from src/data/trip.json appears, dates are formatted from the JSON, and the reply says the sample cover file is missing",
         "The Open itinerary action is a real link to /trips/lisbon-oct/itinerary (or built from the id), with a focus-visible style that shows over the glass",
-        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "DESIGN.md passes the skill's validator with zero errors (run node <installed skill folder>/scripts/validate-design-md.mjs DESIGN.md from the project root; it exits 0)",
         "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
         "The transcript shows DESIGN.md written to disk before any component, page or token file is created or edited"
       ]
@@ -372,7 +372,7 @@
         "Neon text colours declared in the Colors table pass 4.5:1 on the black or near-black background, and any pure #000 background is named as a brief-driven exception",
         "All animation sits inside @media (prefers-reduced-motion: no-preference), no effect flashes more than 3 times per second, and any motion lasting over 5 seconds has a pause control or stops",
         "Only the four lineup names, the date, the venue, the two prices, 18+ and step-free entry appear; the ticket link is the real URL; no capacity, sold-out claim, sponsor or quote",
-        "DESIGN.md passes the skill's validator with zero errors (node scripts/validate-design-md.mjs DESIGN.md, run from the skill folder, exits 0)",
+        "DESIGN.md passes the skill's validator with zero errors (run node <installed skill folder>/scripts/validate-design-md.mjs DESIGN.md from the project root; it exits 0)",
         "Every interactive element in the built screen has a visible :focus-visible style (or an inherited global :focus-visible rule), and no outline is removed without one",
         "No hex, rgb(), hsl() or oklch() colour literal appears in component or page styles outside the one token file or token block",
         "The reply or DESIGN.md contains a written anti-default check: the stock version of the named style (the Named styles table in direction.md) or the surface default, compared axis by axis with the chosen plan",
