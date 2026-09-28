@@ -10,9 +10,9 @@ metadata:
 
 This skill uses the Design Atlas to find sources, then studies real examples when the task needs a visual direction. Its brief names the atlas page, the example URL, the observed design move, its fit to the user's project, the licence class and the review date.
 
-Calibration: shortlist only sources that help the task, normally two to five.
+Calibration: shortlist only sources that help the task, normally two to five. Atlas source pages must exist in the index; individual live examples may be linked directly. Ideas are free to borrow; code and assets are only as free as their licence class.
 
-Limits: read at most two hubs and five site pages, and cite at most five atlas sources in one brief, unless the user asks for more. These are the only lookup caps; the rest of this skill and `design-atlas-ui` use the same numbers. Atlas source pages must exist in the index; individual live examples may be linked directly. Ideas are free to borrow; code and assets are only as free as their licence class.
+Limits: read at most two hubs and five site pages, and cite at most five atlas sources in one brief, unless the user asks for more. These are the only lookup caps; the rest of this skill and `design-atlas-ui` use the same numbers.
 
 Scope: this skill writes the reference brief. If the same request asks for UI, continue with `design-atlas-ui` when available. A skill boundary must not leave the user's build request unfinished.
 
@@ -114,7 +114,7 @@ A hub with fewer than three matching sites is thin. Say so, and widen to one adj
 
 ### 4. Shortlist, then read only the sections that matter
 
-Rank by "Start here" membership, then verdict, then fit to the constraints. For a visual direction, favor sources that lead to relevant real websites; for implementation choices, mix galleries, libraries and assets as needed. Stop at the source limit in Calibration.
+Rank by "Start here" membership, then verdict, then fit to the constraints. For a visual direction, favor sources that lead to relevant real websites; for implementation choices, mix galleries, libraries and assets as needed. Stop at the source limit in Limits.
 
 List each pick's sections before reading it, from `base`:
 
@@ -122,7 +122,7 @@ List each pick's sections before reading it, from `base`:
 grep -n '^## ' sites/iconoir.md
 ```
 
-Read "When to open it", "Using it with agents", "Watch out for" and "Reusable ideas". Open "What it is" only when the one-line description leaves a doubt. Stay within the page limit in Calibration.
+Read "When to open it", "Using it with agents", "Watch out for" and "Reusable ideas". Open "What it is" only when the one-line description leaves a doubt. Stay within the page limit in Limits.
 
 ### 5. Inspect real examples for visual requests
 
@@ -189,7 +189,7 @@ Inside a clone, follow `AGENTS.md` and `CONTRIBUTING.md`. Never hand-edit `llms.
 | Detect | Fix |
 |---|---|
 | A reference with no `sites/<slug>.md` path, or a slug missing from the index | Add the path, or drop the reference |
-| More atlas sources cited, or more hubs or pages read, than the limits in Calibration | Cut to the strongest and say what you dropped |
+| More atlas sources cited, or more hubs or pages read, than the Limits allow | Cut to the strongest and say what you dropped |
 | A row without its licence class or reviewed date | Fill it from the index |
 | `not-stated` recommended to ship, or `cc-noncommercial` in a commercial product | Mark it look-only |
 | A paid or gated channel presented as free | Name the account, key or tier it needs |
