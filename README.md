@@ -74,11 +74,11 @@ A plugin install carries the whole atlas, so `design-atlas` reads the site pages
 
 ## DESIGN.md files
 
-The atlas writes its own DESIGN.md files, in the format the `design-atlas-ui` skill reads: exact tokens for light and dark, type, spacing, motion and components, with the reasons behind them and every contrast pair computed. [DESIGN.md](DESIGN.md) at the root is the identity for the atlas website and the reference example. [`design-md/`](design-md/README.md) holds the style library, with its index, the licence (CC BY 4.0, credit line included) and how to copy a file into your project. `npm run check` validates every one of them.
+The atlas writes its own DESIGN.md files, in the format the `design-atlas-ui` skill reads: exact tokens for light and dark, type, spacing, motion and components, with the reasons behind them and every contrast pair computed. [DESIGN.md](DESIGN.md) at the root is the identity for the atlas website and the reference example. [`design-md/`](design-md/README.md) holds the style library, with its index, the licence (CC BY 4.0, credit line included) and how to copy a file into your project. `npm run check` validates every one of them, and `node scripts/design-md.mjs path/to/DESIGN.md` checks any file against the same format. The `design-atlas-ui` skill ships the same validator, so an installed skill can check a project's DESIGN.md without the atlas.
 
 ## How the indexes work
 
-`npm run build` generates `llms.txt`, `sites.json`, the hub source lists, each page's breadcrumb and "Related" line, and the three reference files inside `skills/design-atlas/references/`. Nothing generated is edited by hand, and `npm run check` fails if any of it is stale.
+`npm run build` generates `llms.txt`, `sites.json`, the hub source lists, each page's breadcrumb and "Related" line, the three reference files inside `skills/design-atlas/references/`, and the copy of the DESIGN.md validator inside `skills/design-atlas-ui/scripts/`. Nothing generated is edited by hand, and `npm run check` fails if any of it is stale.
 
 The indexes are meant to be filtered, never read whole. A full read of `llms.txt` costs tens of thousands of tokens and `sites.json` several times that, while a filtered query costs a few hundred:
 

@@ -5,6 +5,7 @@ The Design Atlas DESIGN.md: one markdown file at the project root that records t
 ## Contents
 
 - [Rules](#rules)
+- [Validate](#validate)
 - [Value types](#value-types)
 - [Colors table and contrast pairs](#colors-table-and-contrast-pairs)
 - [Sections](#sections)
@@ -27,7 +28,20 @@ The Design Atlas DESIGN.md: one markdown file at the project root that records t
 - Values that differ from `references/resolved-conflicts.md` are listed under Overrides with a reason, so later agents follow the project instead of the default. A motion token in the Motion table whose value differs from the token block there is named in an Overrides row.
 - No HTML comments. Anything worth saying goes in the prose.
 
-The Design Atlas repository checks its own DESIGN.md files against these rules with `npm run check`. Other projects can follow the same rules by hand or with their own linter.
+## Validate
+
+This skill ships a validator, [scripts/validate-design-md.mjs](../scripts/validate-design-md.mjs), that checks every rule on this page a machine can check. It needs Node 18 or later and nothing else. Run it from the project root:
+
+```sh
+node <this skill's folder>/scripts/validate-design-md.mjs DESIGN.md
+```
+
+- It reads the motion token block from `references/resolved-conflicts.md` beside it. Pass `--motion-tokens <file>` to read another copy.
+- It prints JSON on stdout (`ok`, and each file with its `errors`) and one `path: message` line per error on stderr.
+- Exit code 0 means the file is valid, 1 that it has errors and 2 that it could not run: a missing file, a bad option or no motion token block.
+- Fix every error and run it again until it exits 0. When Node is not available, check the rules by hand and report the file as `Not verified` by the validator.
+
+The Design Atlas repository runs the same checks on its own DESIGN.md files with `npm run check`.
 
 ## Value types
 

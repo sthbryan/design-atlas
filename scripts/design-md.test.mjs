@@ -1,11 +1,12 @@
 import assert from 'node:assert/strict';
 import { spawnSync } from 'node:child_process';
-import { mkdtempSync, readFileSync, writeFileSync } from 'node:fs';
+import { cpSync, mkdtempSync, readFileSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { dirname, join, resolve } from 'node:path';
 import { test } from 'node:test';
 import { fileURLToPath } from 'node:url';
-import { SECTIONS, contrast, oklch, parseMotionTokens, validateDesignMd } from './design-md.mjs';
+import { parse } from 'yaml';
+import { SECTIONS, contrast, oklch, parseFrontMatter, parseMotionTokens, validateDesignMd } from './design-md.mjs';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const UI_REFS = join(ROOT, 'skills/design-atlas-ui/references');
@@ -195,4 +196,61 @@ test('the command line validates files and reports through its exit code', () =>
   assert.equal(cli('--motion-tokens', join(dir, 'good.md'), good).status, 2);
   assert.equal(cli().status, 2);
   assert.match(cli('--help').stdout, /Exit codes/);
+});
+
+test('the built-in front-matter parser reads the format subset exactly as YAML does', () => {
+  const same = [
+    FRONT.slice(4, -5),
+    'a: Nacelle, system-ui, sans-serif',
+    'a: "\'Azeret Mono\', ui-monospace, monospace"',
+    "a: '\"Azeret Mono\", ui-monospace'",
+    "a: 'it''s'",
+    'a: "x\\u00e9 \\"q\\""',
+    'a: x # note',
+    'a: x#y',
+    'a: "#FFFFFF" # white',
+    'a: #FFFFFF',
+    'a:',
+    'a: ~',
+    'a: 1.50',
+    'a: -0.02em',
+    'a: +1',
+    'a: 1e3',
+    'a: .5',
+    'a: 0x1F',
+    'a: True',
+    'a: yes',
+    'a: x,',
+    'a: 12:30',
+    'a: http://x.test',
+    '2xl: 32px',
+    '"k y": 1',
+    '# comment\na:\n  # nested comment\n  b: 1\n\n  c: 2\nd: 3',
+  ];
+  for (const text of same) assert.deepEqual(parseFrontMatter(text), parse(text), text);
+  const rejectedByBoth = [
+    'a: "Azeret Mono", ui-monospace, monospace',
+    "a: 'Azeret Mono', ui-monospace",
+    'a: "x"y',
+    'a: b: c',
+    'a: @x',
+    'a: 1\na: 2',
+    'a:\n  b: 1\n   c: 2',
+    'a: - x',
+  ];
+  for (const text of rejectedByBoth) {
+    assert.throws(() => parse(text), text);
+    assert.throws(() => parseFrontMatter(text), text);
+  }
+  const outsideTheFormat = ['a: [1]', 'a: {b: 1}', 'a: |\n  x', 'a: &x 1', 'a: x\n  y', 'a:\n\tb: 1'];
+  for (const text of outsideTheFormat) assert.throws(() => parseFrontMatter(text), /not part of the format|one line|tabs/, text);
+});
+
+test('the copy shipped with design-atlas-ui runs from the skill folder alone', () => {
+  const dir = mkdtempSync(join(tmpdir(), 'design-atlas-ui-'));
+  for (const sub of ['scripts', 'references']) cpSync(join(ROOT, 'skills/design-atlas-ui', sub), join(dir, sub), { recursive: true });
+  writeFileSync(join(dir, 'DESIGN.md'), fixture());
+  const res = spawnSync(process.execPath, [join(dir, 'scripts/validate-design-md.mjs')], { encoding: 'utf8', cwd: dir });
+  assert.equal(res.status, 0, res.stderr);
+  assert.equal(JSON.parse(res.stdout).motion_tokens, join('references', 'resolved-conflicts.md'));
 });

@@ -78,7 +78,7 @@ References: sites/ramps.md (OKLCH ramps, MIT tool), sites/number-flow.md (tide h
 
 ### 3. Record it in DESIGN.md
 
-Write or update DESIGN.md from the template in [references/design-md-format.md](references/design-md-format.md) before building. Update in place and keep one DESIGN.md per project. Put measured values in tokens and uncertainty in prose, marked `inferred`. Record observed example URLs and screenshot evidence separately from atlas metadata.
+Write or update DESIGN.md from the template in [references/design-md-format.md](references/design-md-format.md) before building. Update in place and keep one DESIGN.md per project. Put measured values in tokens and uncertainty in prose, marked `inferred`. Record observed example URLs and screenshot evidence separately from atlas metadata. Then run the validator in this skill's `scripts/` folder as described under Validate in [references/design-md-format.md](references/design-md-format.md), and fix every error until it exits 0.
 
 When row P1 of [references/resolved-conflicts.md](references/resolved-conflicts.md) calls for approval, show the five-line direction and a token summary of 20 lines at most, then wait for a yes. A direction you wrote yourself is not approval. When P1 lets you skip it, build and label the report `Direction not reviewed`.
 

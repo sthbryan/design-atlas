@@ -194,6 +194,8 @@ outputs.set('sites.json', `${JSON.stringify({
   sites: listed.map(pick),
 }, null, 2)}\n`);
 
+outputs.set('skills/design-atlas-ui/scripts/validate-design-md.mjs', read('scripts/design-md.mjs'));
+
 const SKILL_REFS = 'skills/design-atlas/references';
 const CATALOG_FIELDS = [
   'slug', 'path', 'title', 'description', 'url', 'type', 'topics', 'verdict', 'agent',

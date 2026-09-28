@@ -29,6 +29,7 @@ The build owns these parts; your edits there are overwritten or fail the check:
 - In each site page, the breadcrumb line directly after the frontmatter and the body of the `## Related` section.
 - `llms.txt` and `sites.json`.
 - `skills/design-atlas/references/catalog.json` and `skills/design-atlas/references/hub-map.md`, the snapshot the `design-atlas` skill falls back to offline, and `skills/design-atlas/references/search-index.json`, the index behind `query.mjs --search`.
+- `skills/design-atlas-ui/scripts/validate-design-md.mjs`, a copy of `scripts/design-md.mjs` that ships the DESIGN.md validator with the `design-atlas-ui` skill. Edit `scripts/design-md.mjs`, then run the build.
 
 Change the frontmatter instead, then run the build. The `atlas:sources` markers are the only HTML comments allowed anywhere in the repo. The `README.md` is written by hand, so update it yourself when the repository's structure or workflow changes.
 
