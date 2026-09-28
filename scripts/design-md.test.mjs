@@ -1,5 +1,7 @@
 import assert from 'node:assert/strict';
-import { readFileSync } from 'node:fs';
+import { spawnSync } from 'node:child_process';
+import { mkdtempSync, readFileSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
 import { dirname, join, resolve } from 'node:path';
 import { test } from 'node:test';
 import { fileURLToPath } from 'node:url';
@@ -172,4 +174,25 @@ test('the worked excerpt in the format spec is valid apart from its omitted sect
   const excerpt = spec.split('## Worked excerpt')[1].match(/```markdown\n([\s\S]*?)\n```\n/)[1];
   const errors = check(`${excerpt}\n`).filter((e) => !/^sections must be|exactly one H1/.test(e));
   assert.deepEqual(errors, []);
+});
+
+test('the command line validates files and reports through its exit code', () => {
+  const dir = mkdtempSync(join(tmpdir(), 'design-md-'));
+  const good = join(dir, 'good.md');
+  const bad = join(dir, 'bad.md');
+  writeFileSync(good, fixture());
+  writeFileSync(bad, fixture({ overrides: '' }));
+  const cli = (...args) => spawnSync(process.execPath, [join(ROOT, 'scripts/design-md.mjs'), ...args], { encoding: 'utf8', cwd: dir });
+  const ok = cli(good);
+  assert.equal(ok.status, 0, ok.stderr);
+  assert.equal(JSON.parse(ok.stdout).ok, true);
+  const failed = cli(good, bad);
+  assert.equal(failed.status, 1);
+  const out = JSON.parse(failed.stdout);
+  assert.deepEqual(out.files.map((f) => f.ok), [true, false]);
+  assert.match(failed.stderr, /bad\.md: section "Overrides" is empty/);
+  assert.equal(cli(join(dir, 'missing.md')).status, 2);
+  assert.equal(cli('--motion-tokens', join(dir, 'good.md'), good).status, 2);
+  assert.equal(cli().status, 2);
+  assert.match(cli('--help').stdout, /Exit codes/);
 });

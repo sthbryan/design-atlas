@@ -1,3 +1,6 @@
+import { existsSync, readFileSync, realpathSync } from 'node:fs';
+import { dirname, join, relative } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { parse } from 'yaml';
 
 export const SECTIONS = [
@@ -288,3 +291,73 @@ export function validateDesignMd(src, { motionTokens } = {}) {
   checkMotion(body, motionTokens, err);
   return errors;
 }
+
+const HERE = dirname(fileURLToPath(import.meta.url));
+const MOTION_SOURCES = [
+  join(HERE, '..', 'references', 'resolved-conflicts.md'),
+  join(HERE, '..', 'skills', 'design-atlas-ui', 'references', 'resolved-conflicts.md'),
+];
+
+const HELP = `Usage: node <this script> [DESIGN.md ...] [--motion-tokens FILE]
+
+Checks each DESIGN.md against the design-atlas-ui format: the eight front-matter
+keys and their value types, {group.token} references, the Colors table and its
+declared contrast pairs, the fifteen sections in order, motion tokens against
+resolved-conflicts.md, and HTML comments. With no file, checks ./DESIGN.md.
+
+Prints JSON on stdout: ok, motion_tokens (the file the motion block was read
+from) and one entry per file with its errors. Errors also go to stderr, one per
+line, as "path: message".
+
+Options:
+  --motion-tokens FILE  read the motion token block from this resolved-conflicts.md
+                        (default: ../references/resolved-conflicts.md beside this
+                        script, or the copy inside a Design Atlas clone)
+  --help                show this text
+
+Exit codes: 0 every file is valid, 1 at least one file has errors, 2 bad
+arguments, a missing file or no motion token block.`;
+
+function fail(message) {
+  process.stderr.write(`${message}\n`);
+  process.exit(2);
+}
+
+function main(argv) {
+  const files = [];
+  let motionPath = null;
+  for (let i = 0; i < argv.length; i += 1) {
+    const arg = argv[i];
+    if (arg === '--help' || arg === '-h') {
+      process.stdout.write(`${HELP}\n`);
+      process.exit(0);
+    }
+    if (arg === '--motion-tokens') {
+      motionPath = argv[i + 1];
+      if (!motionPath || motionPath.startsWith('--')) fail('--motion-tokens needs a file');
+      i += 1;
+    } else if (arg.startsWith('--')) fail(`unknown option ${arg}; see --help`);
+    else files.push(arg);
+  }
+  if (!files.length) {
+    if (!existsSync('DESIGN.md')) fail('no DESIGN.md in the current directory; pass a path, or see --help');
+    files.push('DESIGN.md');
+  }
+  const source = motionPath ?? MOTION_SOURCES.find((path) => existsSync(path));
+  if (!source || !existsSync(source)) fail(`no resolved-conflicts.md found${motionPath ? ` at ${motionPath}` : ''}; pass --motion-tokens FILE`);
+  const motionTokens = parseMotionTokens(readFileSync(source, 'utf8'));
+  if (!motionTokens['--dur-menu']) fail(`${source} holds no motion token block`);
+  const results = files.map((path) => {
+    if (!existsSync(path)) fail(`${path}: file not found`);
+    const errors = validateDesignMd(readFileSync(path, 'utf8'), { motionTokens });
+    return { path, ok: errors.length === 0, errors };
+  });
+  const total = results.reduce((n, r) => n + r.errors.length, 0);
+  for (const r of results) for (const message of r.errors) process.stderr.write(`${r.path}: ${message}\n`);
+  if (total) process.stderr.write(`${total} error(s) in ${results.filter((r) => !r.ok).length} file(s)\n`);
+  process.stdout.write(`${JSON.stringify({ ok: total === 0, motion_tokens: relative(process.cwd(), source) || source, files: results }, null, 2)}\n`);
+  process.exit(total ? 1 : 0);
+}
+
+const invoked = process.argv[1] && existsSync(process.argv[1]) ? realpathSync(process.argv[1]) : '';
+if (invoked === realpathSync(fileURLToPath(import.meta.url))) main(process.argv.slice(2));
