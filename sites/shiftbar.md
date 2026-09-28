@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [navbar-gallery, apple-human-interface-guidelines, design-mobile-apps]
 ---
-[← Atlas](../README.md) · Topics: [navigation](../topics/navigation.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [navigation](../topics/navigation.md), [inspiration](../topics/inspiration.md)
 
 # ShiftBar
 

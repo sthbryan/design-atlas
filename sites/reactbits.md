@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [kinetics, animejs, motion-primitives, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [3d-and-shaders](../topics/3d-and-shaders.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # React Bits
 

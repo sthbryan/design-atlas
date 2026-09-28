@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [detail-design, 60fps, motion-primitives, dialkit, kinetics]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [documentation](../topics/documentation.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [documentation](../topics/documentation.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Devouring Details
 

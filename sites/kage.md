@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [scrolltide, refero-styles, component-gallery, vibeprompts]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md)
 
 # Kage
 

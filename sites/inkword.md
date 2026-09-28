@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [craftwork, 3dicons, fffuel, drawably]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [inspiration](../topics/inspiration.md)
 
 # Inkword
 

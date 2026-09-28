@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [typeui, designmd-cc, designmd-supply, vibeprompts, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [components](../topics/components.md)
 
 # design.dev
 

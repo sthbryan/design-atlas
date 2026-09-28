@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [screan, ui-camera, backgrounds-supply, craftwork]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [assets](../topics/assets.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [assets](../topics/assets.md), [landing-pages](../topics/landing-pages.md)
 
 # Screen Movie
 

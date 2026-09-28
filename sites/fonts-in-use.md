@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [typewolf, typeface-fyi, inspiration-grid, fontshare]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
 
 # Fonts In Use
 

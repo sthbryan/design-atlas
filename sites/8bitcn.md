@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [shadcn-ui, evil-buttons, termcn, srcl, dither-kit]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md)
 
 # 8bitcn
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [motion-primitives, aceternity-ui, magic-ui, shadcn-ui, libraries-dev-orbs]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [navigation](../topics/navigation.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [navigation](../topics/navigation.md)
 
 # Rare UI
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [designmd-cc, design-md-chrome, designmd, refero-styles, getdesign-md]
 ---
-[← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Hyperbrowser DESIGNMD
 

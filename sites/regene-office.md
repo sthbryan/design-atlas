@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [studio-dumbar, hover-states]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [color](../topics/color.md)
 
 # Regene Office — NOSIGNER
 

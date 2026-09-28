@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [minimal-gallery, typeface-fyi, curated-design, awwwards, a1-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Siteinspire
 

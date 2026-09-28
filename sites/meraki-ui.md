@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [hyperui, flowbite, preline, uiverse, headless-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md)
 
 # Meraki UI
 

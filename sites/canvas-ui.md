@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [reactbits, paper-shaders, liquid-glass, aceternity-ui, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [components](../topics/components.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Canvas UI
 

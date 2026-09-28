@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [locomotive, lusion, 81-web]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md)
 
 # BlueCanvas
 

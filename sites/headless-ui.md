@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [radix, base-ui, shadcn-ui, inclusive-components]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Headless UI
 

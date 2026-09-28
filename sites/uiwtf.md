@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [ui-playbook, devouring-details, design-spells, uilabs]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [navigation](../topics/navigation.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [navigation](../topics/navigation.md)
 
 # UIWTF
 

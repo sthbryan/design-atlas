@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [sahil-singh, chloe-maillot, component-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md)
 
 # Saurabh Sharma
 

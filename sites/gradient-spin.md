@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [loading-dev, circle-loaders, oklch, gradient-buttons]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [color](../topics/color.md)
 
 # Gradient Spin
 

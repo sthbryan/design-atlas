@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [animate-ui, skiper-ui, cult-ui, motion-primitives, smooth-ui, kokonut-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [navigation](../topics/navigation.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [navigation](../topics/navigation.md)
 
 # unlumen UI
 

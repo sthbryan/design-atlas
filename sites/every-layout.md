@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [utopia, design-system-checklist]
 ---
-[← Atlas](../README.md) · Topics: [documentation](../topics/documentation.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [documentation](../topics/documentation.md), [components](../topics/components.md)
 
 # Every Layout
 

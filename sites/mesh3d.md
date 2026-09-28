@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [threejs, awwwards, 60fps, shaderfrog]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [inspiration](../topics/inspiration.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [inspiration](../topics/inspiration.md), [motion](../topics/motion.md)
 
 # mesh3d
 

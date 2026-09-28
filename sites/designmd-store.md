@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [getdesign-md, designmd, refero-styles, designmd-supply, typeui]
 ---
-[← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md), [documentation](../topics/documentation.md)
+[← Atlas](../site/home.md) · Topics: [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md), [documentation](../topics/documentation.md)
 
 # Design.md Store
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [land-book, lapa-ninja, saaspo, shadcnblocks, mobbin]
 ---
-[← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Landingfolio
 

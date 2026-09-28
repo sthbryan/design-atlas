@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [smooth-ui, prompt-kit, animate-ui, motion-primitives, evil-charts, sona-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [ai-interfaces](../topics/ai-interfaces.md), [data-viz](../topics/data-viz.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [ai-interfaces](../topics/ai-interfaces.md), [data-viz](../topics/data-viz.md)
 
 # beUI
 

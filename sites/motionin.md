@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [60fps, motion-primitives, design-motion-principles]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Motion
 

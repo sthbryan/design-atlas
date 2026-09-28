@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [impeccable, hallmark, antislop-ui, ui-skills, emil-kowalski-skills]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
 
 # Taste Skill
 

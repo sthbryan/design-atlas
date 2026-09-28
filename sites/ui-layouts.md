@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [aceternity-ui, magic-ui, skiper-ui, motion-primitives, velora-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md)
 
 # UI Layouts
 

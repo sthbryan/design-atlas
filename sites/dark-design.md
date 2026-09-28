@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [dark-mode-design, curated-design, a1-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md)
 
 # Dark Design
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [kage, scrolltide, designmd, vibeprompts]
 ---
-[← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Refero Styles
 

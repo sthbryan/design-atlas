@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [design-motion-principles, 60fps, easing-wizard]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Motion Design Principles by Zajno
 

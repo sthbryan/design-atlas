@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [design-minis, fffuel, noiseandgradient]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [color](../topics/color.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [color](../topics/color.md), [motion](../topics/motion.md)
 
 # MagicPattern
 

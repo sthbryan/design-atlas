@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [wall-of-portfolios, collect-ui, inspora, appinspo]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Layers
 

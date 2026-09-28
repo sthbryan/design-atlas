@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [designmd, getdesign-md, designmd-store, impeccable, extract-design-system]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Stitch Skills
 

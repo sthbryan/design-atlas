@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [carbon-design-system, material-design-3]
 ---
-[← Atlas](../README.md) · Topics: [color](../topics/color.md), [documentation](../topics/documentation.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [color](../topics/color.md), [documentation](../topics/documentation.md), [inspiration](../topics/inspiration.md)
 
 # IBM Design Language color
 

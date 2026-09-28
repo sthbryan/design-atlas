@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [css-text-effects, kinetics, circle-loaders]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Gradient Buttons
 

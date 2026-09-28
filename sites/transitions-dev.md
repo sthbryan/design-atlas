@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [easing-wizard, dialkit, motion-primitives, microkit]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Transitions.dev
 

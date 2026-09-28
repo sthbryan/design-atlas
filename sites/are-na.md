@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [cosmos, pinterest, designspiration, posts-design]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Are.na
 

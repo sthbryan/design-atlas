@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [shadcn-ui, kombai, open-design, penpot, framer, v0]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Figma
 

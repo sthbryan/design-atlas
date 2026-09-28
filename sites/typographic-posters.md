@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [designspiration, logo-lounge, the-brand-identity]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
 
 # typo/graphic posters
 

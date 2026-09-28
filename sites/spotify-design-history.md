@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [the-brand-identity, brrranding, apple-human-interface-guidelines]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Spotify Design History
 

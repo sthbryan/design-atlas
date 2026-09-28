@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [user-interface-wiki, good-ui, ui-playbook, component-gallery]
 ---
-[← Atlas](../README.md) · Topics: [ux-patterns](../topics/ux-patterns.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [ux-patterns](../topics/ux-patterns.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Laws of UX
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [impeccable, hallmark, ui-skills, design-lab, designer-skills]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Interface Design
 

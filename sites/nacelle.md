@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [fontsource, death-of-typography, typewolf]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
 
 # Nacelle
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: stale
 related: [rive, gsap, canvas-ui, shaderfrog]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # Theatre.js
 

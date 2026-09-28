@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [openmotion, motionimo, recent-design, collect-ui, 60fps]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # What Ships
 

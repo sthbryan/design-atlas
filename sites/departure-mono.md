@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [srcl, 8bitcn, termcn, typeface-fyi]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
 
 # Departure Mono
 

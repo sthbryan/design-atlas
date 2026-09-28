@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [iconify, lucide, tabler-icons]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
 
 # Free Icon Resources
 

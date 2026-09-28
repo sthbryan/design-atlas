@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [threejs, react-three-fiber, wwwtf, blender]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [inspiration](../topics/inspiration.md)
 
 # HexGL
 

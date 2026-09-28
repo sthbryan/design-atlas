@@ -15,7 +15,7 @@ status: stale
 note: "Unmaintained: last release in March 2020 and last commit in March 2023."
 related: [ionicons, bootstrap-icons, useanimations, animated-icons, iconify]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [motion](../topics/motion.md)
 
 # Eva Icons
 

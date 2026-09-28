@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [kombai, designspiration, best-website-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md)
 
 # Kombai Selects
 

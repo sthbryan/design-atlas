@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [wall-of-portfolios, layers, minimal-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Juliette
 

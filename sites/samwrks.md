@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [a1-gallery, siteinspire, awwwards]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Samwrks
 

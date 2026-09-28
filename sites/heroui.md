@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [base-ui, radix, shadcn-ui, headless-ui, tremor]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # HeroUI
 

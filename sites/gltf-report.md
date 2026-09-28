@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [threejs, drei, blender, spline, poly-haven]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [assets](../topics/assets.md)
 
 # gltf.report
 

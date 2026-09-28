@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [appshot-gallery, recent-design, 3dicons, great-apps]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [inspiration](../topics/inspiration.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [inspiration](../topics/inspiration.md), [color](../topics/color.md)
 
 # Icon Museum
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [base-ui, design-system-checklist, interface-design]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md), [inspiration](../topics/inspiration.md)
 
 # GPUI Kit
 

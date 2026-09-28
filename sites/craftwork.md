@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [kitbitz, 3dicons, designeer, kage]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Craftwork
 

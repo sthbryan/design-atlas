@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [rareui, devouring-details, emil-kowalski-skills, aceternity-ui, motion-primitives, cult-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Skiper UI
 

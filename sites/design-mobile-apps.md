@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [superdesign-skill, huashu-design, kombai, screenshot-to-code, ui-skills]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [components](../topics/components.md), [icons](../topics/icons.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [components](../topics/components.md), [icons](../topics/icons.md)
 
 # design-mobile-apps (Sleek)
 

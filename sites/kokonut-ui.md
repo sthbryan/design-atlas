@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [prompt-kit, magic-ui, shadcn-ui, shape-of-ai, cult-ui, smooth-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [ai-interfaces](../topics/ai-interfaces.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [ai-interfaces](../topics/ai-interfaces.md), [landing-pages](../topics/landing-pages.md)
 
 # Kokonut UI
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [motion-primitives, aceternity-ui, nexvyn-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Pixel Perfect UI
 

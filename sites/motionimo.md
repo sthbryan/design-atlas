@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [openmotion, 60fps, design-spells, what-ships]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
 
 # Motionimo
 

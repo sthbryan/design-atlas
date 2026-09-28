@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [animated-icons, iconoir, circle-loaders, 3dicons]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [motion](../topics/motion.md)
 
 # useAnimations
 

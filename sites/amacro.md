@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [amicro, transitions-dev, 60fps, animejs]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md)
 
 # Amacro
 

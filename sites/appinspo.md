@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [refero-styles, getdesign-md, collect-ui, mobbin]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md)
 
 # Appinspo
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [reactbits, magic-ui, rareui, liquid-glass, circle-loaders]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Libraries.dev: Thinking orbs
 

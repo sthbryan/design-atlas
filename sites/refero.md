@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [mobbin, appinspo, refero-styles]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Refero
 

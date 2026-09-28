@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [the-brand-identity, designspiration, typographic-posters]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md)
 
 # LogoLounge
 

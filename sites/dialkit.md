@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [kinetics, 60fps, motion-primitives, animejs]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [documentation](../topics/documentation.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [documentation](../topics/documentation.md)
 
 # DialKit
 

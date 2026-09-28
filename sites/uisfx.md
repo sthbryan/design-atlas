@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [useanimations, animated-icons, kinetics, vibeprompts]
 ---
-[← Atlas](../README.md) · Topics: [sound](../topics/sound.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [sound](../topics/sound.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # UI SFX
 

@@ -15,7 +15,7 @@ status: active
 note: Historical case study published in 2015; use it to study the documented system, not as proof of Google's current identity.
 related: [material-design-3, google-pixel-design-story]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
 
 # Google Evolving Identity
 

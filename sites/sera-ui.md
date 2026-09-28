@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [magic-ui, aceternity-ui, reactbits, cult-ui, kokonut-ui, uiverse]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
 
 # Sera UI
 

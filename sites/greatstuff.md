@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [designeer, design-minis, everywhere-tools, drawably, ramps]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md)
 
 # GreatStuff
 

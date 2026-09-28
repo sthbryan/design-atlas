@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [liquid-glass, motion-primitives, base-ui, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Swift Pieces
 

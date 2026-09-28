@@ -15,7 +15,7 @@ status: active
 note: This URL currently serves a Pixel 10 series story; its product lineup and page details may change with future launches.
 related: [google-evolving-identity, google-arts-and-culture]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Google Pixel design story
 

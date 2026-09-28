@@ -15,7 +15,7 @@ status: stale
 note: Paused since the last commit and release in August 2024.
 related: [bootstrap-icons, iconoir, iconify, eva-icons]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
 
 # css.gg
 

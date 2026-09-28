@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [landingfolio, site-of-sites, 81-web, godly]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [components](../topics/components.md)
 
 # Unsection
 

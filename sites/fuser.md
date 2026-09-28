@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [shape-of-ai, supaste, framer]
 ---
-[← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Fuser
 

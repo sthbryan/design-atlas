@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [siteinspire, appinspo, appshot-gallery, a1-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [icons](../topics/icons.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [icons](../topics/icons.md)
 
 # Reeoo
 

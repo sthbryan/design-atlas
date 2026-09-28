@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [shadcn-ui, magic-ui, motion-primitives, animated-icons, useanimations, smooth-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [icons](../topics/icons.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [icons](../topics/icons.md)
 
 # Animate UI
 

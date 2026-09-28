@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [curated-design, site-of-sites, godly]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Viewport UI
 

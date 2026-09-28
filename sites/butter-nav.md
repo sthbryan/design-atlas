@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [navbar-gallery, rareui, transitions-dev, motion-primitives]
 ---
-[← Atlas](../README.md) · Topics: [navigation](../topics/navigation.md), [motion](../topics/motion.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [navigation](../topics/navigation.md), [motion](../topics/motion.md), [components](../topics/components.md)
 
 # Butter Nav
 

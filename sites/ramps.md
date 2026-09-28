@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [huetone, oklch, color-review, dialkit, uisfx]
 ---
-[← Atlas](../README.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Ramps
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [design-system-checklist, component-gallery, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [inspiration](../topics/inspiration.md)
 
 # Awesome Design Systems
 

@@ -15,7 +15,7 @@ status: active
 note: The page documents the 2026 refresh at launch; local market rollout and availability may vary.
 related: [the-brand-identity, starbucks-holiday-ad-2024]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # McCafé Visual Identity Refresh
 

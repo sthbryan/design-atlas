@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [design-spells, kinetics, openmotion, dialkit, motion-primitives]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # 60fps
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [magic-ui, aceternity-ui, motion-primitives, fancy-components]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [data-viz](../topics/data-viz.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [data-viz](../topics/data-viz.md)
 
 # Arc
 

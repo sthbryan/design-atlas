@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [carbon-design-system, material-design-3]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [color](../topics/color.md), [documentation](../topics/documentation.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [color](../topics/color.md), [documentation](../topics/documentation.md)
 
 # Adobe Spectrum
 

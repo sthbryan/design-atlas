@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [drei, threejs, blender, gltf-report, 3dicons]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [assets](../topics/assets.md)
 
 # Poly Haven
 

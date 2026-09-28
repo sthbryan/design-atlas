@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [fffuel, paper-shaders, supahero, venust-backgrounds]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [landing-pages](../topics/landing-pages.md), [3d-and-shaders](../topics/3d-and-shaders.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [landing-pages](../topics/landing-pages.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # Backgrounds Supply
 

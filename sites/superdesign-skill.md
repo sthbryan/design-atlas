@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [huashu-design, design-lab, efecto, open-design, impeccable]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [inspiration](../topics/inspiration.md)
 
 # Superdesign
 

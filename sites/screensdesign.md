@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [gummble, appllama, page-flows]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
 
 # ScreensDesign
 

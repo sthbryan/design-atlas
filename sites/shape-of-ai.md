@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [prompt-kit, component-gallery, mcpcn, agentcn]
 ---
-[← Atlas](../README.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [ux-patterns](../topics/ux-patterns.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [ux-patterns](../topics/ux-patterns.md), [inspiration](../topics/inspiration.md)
 
 # The Shape of AI
 

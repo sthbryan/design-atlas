@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [navbar-gallery, cta-gallery, 404s]
 ---
-[← Atlas](../README.md) · Topics: [footers](../topics/footers.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [footers](../topics/footers.md), [inspiration](../topics/inspiration.md)
 
 # Footer Design
 

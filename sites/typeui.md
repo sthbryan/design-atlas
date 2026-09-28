@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [designmd, getdesign-md, design-md-chrome, vibeprompts, refero-styles]
 ---
-[← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [design-md](../topics/design-md.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # TypeUI
 

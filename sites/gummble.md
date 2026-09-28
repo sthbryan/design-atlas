@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [appllama, page-flows, mobbin]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Gummble
 

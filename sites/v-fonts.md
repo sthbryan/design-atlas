@@ -15,7 +15,7 @@ status: active
 note: Limited beta catalogue; the showcased fonts require a browser with OpenType variation support, and each font has separate terms.
 related: [fontsource, typeface-fyi, fontshare, death-of-typography]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
 
 # V-Fonts
 

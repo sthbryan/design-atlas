@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [mcpcn, prompt-kit, designmd-supply, designmd-cc, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md), [design-md](../topics/design-md.md)
+[← Atlas](../site/home.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md), [design-md](../topics/design-md.md)
 
 # agentcn
 

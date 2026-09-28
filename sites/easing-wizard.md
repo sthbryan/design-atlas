@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [dialkit, kinetics, transitions-dev, animejs]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Easing Wizard
 

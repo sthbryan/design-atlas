@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [design-motion-principles, mblode-agent-skills, easing-wizard, transitions-dev, ui-skills]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [motion](../topics/motion.md)
 
 # LottieFiles Motion Design Skill
 

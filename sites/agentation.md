@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [dialkit, screenshot-to-code, impeccable, efecto]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Agentation
 

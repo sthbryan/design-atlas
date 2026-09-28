@@ -15,7 +15,7 @@ status: active
 note: Historical 2023 identity announcement; the embedded 30-second video played during review.
 related: [rebrand-gallery, google-evolving-identity]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
 
 # Pepsi visual identity 2023
 

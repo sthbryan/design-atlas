@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [drei, threejs, spline, gltf-report, canvas-ui, reactbits]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [components](../topics/components.md)
 
 # React Three Fiber
 

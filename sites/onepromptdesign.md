@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [muzli, mobbin, awwwards]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md), [color](../topics/color.md)
 
 # OnePromptDesign
 

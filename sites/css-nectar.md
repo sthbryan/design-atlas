@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [best-website-gallery, made-in-webflow, the-brand-identity]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # CSS Nectar
 

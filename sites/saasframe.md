@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [saaspo, mobbin, best-saas-web-designs, land-book, sections-wtf]
 ---
-[← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [ux-patterns](../topics/ux-patterns.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [ux-patterns](../topics/ux-patterns.md), [inspiration](../topics/inspiration.md)
 
 # SaaSFrame
 

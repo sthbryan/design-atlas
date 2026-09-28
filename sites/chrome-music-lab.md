@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [chrome-experiments, web-kits-audio, soundcn]
 ---
-[← Atlas](../README.md) · Topics: [sound](../topics/sound.md), [inspiration](../topics/inspiration.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [sound](../topics/sound.md), [inspiration](../topics/inspiration.md), [motion](../topics/motion.md)
 
 # Chrome Music Lab
 

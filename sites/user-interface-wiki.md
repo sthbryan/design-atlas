@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [dialkit, motion-primitives, uisfx, kinetics, laws-of-ux]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md), [sound](../topics/sound.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md), [sound](../topics/sound.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # User Interface Wiki
 

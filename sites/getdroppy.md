@@ -15,7 +15,7 @@ status: active
 note: Separate from Droppy Code at getdroppycode.app.
 related: [landing-love, framer, motion-dev]
 ---
-[← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md)
 
 # Droppy (getdroppy.app)
 

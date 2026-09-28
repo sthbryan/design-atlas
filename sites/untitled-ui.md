@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [shadcn-ui, radix, base-ui, figma]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md)
 
 # Untitled UI
 

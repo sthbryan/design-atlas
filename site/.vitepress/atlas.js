@@ -2,15 +2,16 @@ import { existsSync, readFileSync, readdirSync, statSync } from 'node:fs';
 import { dirname, join, relative, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'yaml';
-import { legendHtml, slotsHtml } from './theme/legend.js';
+import { gazetteerHeaderHtml, legendHtml, slotsHtml } from './theme/legend.js';
 
 export const REPO = resolve(dirname(fileURLToPath(import.meta.url)), '../..');
 export const GITHUB = 'https://github.com/sthbryan/design-atlas';
 
 export const ROUTES = {
-  'README.md': 'index.md',
+  'README.md': 'readme.md',
   'CONTRIBUTING.md': 'contributing.md',
   'site/DESIGN.md': 'design.md',
+  'site/home.md': 'index.md',
   'site/sites.md': 'sites/index.md',
   'site/topics.md': 'topics/index.md',
 };
@@ -103,16 +104,10 @@ function gazetteer(state, sites) {
         html(state, `</span><span class="gz-slots">${slotsHtml(site)}</span>`),
       ];
     }
+    tokens.splice(i + 2, 0, html(state, `<li class="gz-header" role="presentation" aria-hidden="true">${gazetteerHeaderHtml}</li>\n`, 'html_block'));
     tokens.splice(i + 1, 0, html(state, legendHtml(), 'html_block'));
-    i = j + 1;
+    i = j + 2;
   }
-}
-
-function homeCards(state) {
-  if ((state.env.realPath ?? '') !== join(REPO, 'README.md')) return;
-  const tokens = state.tokens;
-  const close = tokens.findIndex((token) => token.type === 'paragraph_close');
-  if (close >= 0) tokens.splice(close + 1, 0, html(state, '<AtlasTopicCards />\n', 'html_block'));
 }
 
 function siteFacts(state) {
@@ -126,6 +121,5 @@ export function atlasMarkdown(md) {
   const sites = loadSites();
   md.core.ruler.push('atlas_gazetteer', (state) => gazetteer(state, sites));
   md.core.ruler.push('atlas_repo_links', rewriteLinks);
-  md.core.ruler.push('atlas_home_cards', homeCards);
   md.core.ruler.push('atlas_site_facts', siteFacts);
 }

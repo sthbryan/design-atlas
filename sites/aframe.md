@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [threejs, playcanvas]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md)
 
 # A-Frame
 

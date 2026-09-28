@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [gsap, scrolltide, aceternity-ui, reactbits, motion-dev]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Annnimate
 

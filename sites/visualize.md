@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [impeccable, hallmark, designmd, huashu-design, interface-design]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # visualize (display.dev)
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [shadcn-ui, animate-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [inspiration](../topics/inspiration.md)
 
 # Ratnesh Chipre
 

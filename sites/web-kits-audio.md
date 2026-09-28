@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [cuelume, uisfx, sensory-ui, soundcn, dialkit]
 ---
-[← Atlas](../README.md) · Topics: [sound](../topics/sound.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [sound](../topics/sound.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # @web-kits/audio
 

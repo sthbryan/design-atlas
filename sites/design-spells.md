@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [60fps, kinetics, microkit, 404s, minimal-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md)
 
 # Design Spells
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [death-of-typography, velvetyne, fontsource, departure-mono]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
 
 # Too Much Type
 

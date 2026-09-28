@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [spotify-design-history, vucko, motion-zajno]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [color](../topics/color.md)
 
 # Spotify Wrapped 2021
 

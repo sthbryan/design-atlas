@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [iconoir, astryx, shadcn-ui, component-gallery, design-system-checklist]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [icons](../topics/icons.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [icons](../topics/icons.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Carbon Design System
 

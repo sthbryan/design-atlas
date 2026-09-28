@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [paper-shaders, spline, theatrejs, threejs]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
 
 # Unicorn Studio
 

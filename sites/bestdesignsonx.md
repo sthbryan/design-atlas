@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [collect-ui, curations-supply, appinspo, recent-design]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Best Designs on X
 

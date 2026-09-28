@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [tooooools, dotforge, fffuel, everywhere-tools, ascii-studio]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [typography-and-styles](../topics/typography-and-styles.md), [color](../topics/color.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [typography-and-styles](../topics/typography-and-styles.md), [color](../topics/color.md), [motion](../topics/motion.md)
 
 # Design Minis
 

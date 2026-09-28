@@ -15,7 +15,7 @@ status: stale
 note: "Frozen: no new icons since version 4.29.0 in March 2022; Lucide is the maintained fork."
 related: [lucide, iconoir, tabler-icons, heroicons]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
 
 # Feather
 

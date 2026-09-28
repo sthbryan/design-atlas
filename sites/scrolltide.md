@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [kage, refero-styles, animejs, kinetics]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Scrolltide
 

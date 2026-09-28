@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [60fps, scrolltide, animejs, dialkit]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # OpenMotion
 

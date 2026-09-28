@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [design-motion-principles, inspiration-grid]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
 
 # Zoomquilt
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [ishadeed, every-layout]
 ---
-[← Atlas](../README.md) · Topics: [documentation](../topics/documentation.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [documentation](../topics/documentation.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Modern CSS Solutions
 

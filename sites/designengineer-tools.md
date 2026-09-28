@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [designeng-tools, desengs, designeer, spline, theatrejs]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md)
 
 # Design Engineer Tools
 

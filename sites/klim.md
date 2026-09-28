@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [fontshare, velvetyne, typeface-fyi, refero-styles]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
 
 # Klim Type Foundry
 

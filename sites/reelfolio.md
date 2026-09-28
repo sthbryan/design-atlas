@@ -15,7 +15,7 @@ status: active
 note: Current pricing page and terms disagree about whether the paid offer is recurring or lifetime.
 related: [60fps, motion-primitives, appshot-gallery]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
 
 # Reelfolio
 

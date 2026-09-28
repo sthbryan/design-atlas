@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [minimal-gallery, inspora, recent-design, scrolltide]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [motion](../topics/motion.md)
 
 # loadmo.re
 

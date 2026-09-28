@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [dither-kit, imageory, screan, ui-camera]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Ditther
 

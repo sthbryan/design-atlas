@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [daisyui, preline, flowbite, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # FlyonUI
 

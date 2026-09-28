@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [laws-of-ux, good-ui]
 ---
-[← Atlas](../README.md) · Topics: [ux-patterns](../topics/ux-patterns.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [ux-patterns](../topics/ux-patterns.md), [inspiration](../topics/inspiration.md)
 
 # UserOnboard
 

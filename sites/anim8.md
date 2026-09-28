@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [lottiefiles-motion-design, morphrig, efecto, animated-icons]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Anim8
 

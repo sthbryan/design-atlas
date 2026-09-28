@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [designme-agency, hover-states]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # EISAKA DESIGN
 

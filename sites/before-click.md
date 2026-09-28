@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [appshot-gallery, screan, design-mobile-apps, what-ships]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [agent-skills](../topics/agent-skills.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [agent-skills](../topics/agent-skills.md)
 
 # before.click
 

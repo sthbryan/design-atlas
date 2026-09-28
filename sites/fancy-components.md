@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [reactbits, motion-primitives, css-text-effects, rareui, magic-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Fancy Components
 

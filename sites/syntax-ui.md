@@ -15,7 +15,7 @@ status: stale
 note: "Mostly dormant: no real activity since November 2024 apart from a May 2026 dependency fix."
 related: [uiverse, magic-ui, eldora-ui, motion-dev]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
 
 # Syntax UI
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [scrolltide, libraries-dev-orbs, aura, neuform, 60fps]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # GetLayers
 

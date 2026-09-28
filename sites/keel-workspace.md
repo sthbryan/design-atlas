@@ -13,7 +13,7 @@ reviewed: 2026-09-26
 status: active
 related: [ai-ux-playground, dataviz-project, ui-playbook, design-mobile-apps]
 ---
-[← Atlas](../README.md) · Topics: [data-viz](../topics/data-viz.md), [ai-interfaces](../topics/ai-interfaces.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [data-viz](../topics/data-viz.md), [ai-interfaces](../topics/ai-interfaces.md), [inspiration](../topics/inspiration.md)
 
 # Keel Workspace
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [carbon-design-system, inclusive-components, component-gallery, design-system-checklist]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [color](../topics/color.md)
 
 # U.S. Web Design System
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [circle-loaders, paper-shaders, loading-dev, loader-buttons]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [assets](../topics/assets.md)
 
 # Painting Loaders
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [typographic-posters, peoples-graphic-design-archive, css-text-effects]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
 
 # CARI
 

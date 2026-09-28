@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [shadercn, libraries-dev-orbs, paper-shaders, reactbits]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [ai-interfaces](../topics/ai-interfaces.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [ai-interfaces](../topics/ai-interfaces.md), [components](../topics/components.md)
 
 # Orbkit
 

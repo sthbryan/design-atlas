@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [fontshare, klim, typeface-fyi, minimal-gallery]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md), [inspiration](../topics/inspiration.md)
 
 # Velvetyne
 

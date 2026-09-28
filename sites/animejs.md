@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [kinetics, css-text-effects, liquid-glass, microkit]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [documentation](../topics/documentation.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [documentation](../topics/documentation.md)
 
 # Anime.js
 

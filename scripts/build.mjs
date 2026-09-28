@@ -38,7 +38,7 @@ const SECTIONS = [
 const MAX_TOPICS = 4;
 const MAX_START_HERE = 5;
 const MAX_DESCRIPTION = 160;
-const CRUMB_PREFIX = '[← Atlas](../README.md)';
+const CRUMB_PREFIX = '[← Atlas](../site/home.md)';
 const MARKER = (name, edge) => `<!-- atlas:${name}:${edge} -->`;
 const MARKER_NAMES = ['sources'];
 const ALLOWED_COMMENTS = new Set(MARKER_NAMES.flatMap((n) => [MARKER(n, 'start'), MARKER(n, 'end')]));
@@ -180,7 +180,8 @@ for (const t of topics) {
 for (const s of sites) {
   if (!s.head || !Array.isArray(s.topics) || !Array.isArray(s.related)) continue;
   const crumb = `${CRUMB_PREFIX} · Topics: ${s.topics.map((t) => `[${t}](../topics/${t}.md)`).join(', ')}`;
-  let body = s.body.startsWith(CRUMB_PREFIX) ? s.body.replace(/^.*\n/, `${crumb}\n`) : `${crumb}\n\n${s.body}`;
+  const withoutCrumb = s.body.replace(/^(?:\[← Atlas\]\([^)]+\) · Topics: [^\n]*\n\n?)+/, '');
+  let body = `${crumb}\n\n${withoutCrumb}`;
   const related = s.related.filter((r) => siteBySlug[r]).map((r) => `[${siteBySlug[r].title}](${r}.md)`).join(', ');
   body = body.replace(/\n## Related\n[\s\S]*$/, `\n## Related\n\n${related}\n`);
   outputs.set(s.path, s.head + body);

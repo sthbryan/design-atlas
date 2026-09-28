@@ -15,7 +15,7 @@ status: active
 note: The 2026 campaign dates shown on the page run July 22–August 16; most individual program entries are now marked ended.
 related: [japan-web-design, web-design-clip, muuuuu]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [navigation](../topics/navigation.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [navigation](../topics/navigation.md), [motion](../topics/motion.md)
 
 # POP IS YOU SAKAE
 

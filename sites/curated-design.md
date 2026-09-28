@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [craftwork, sections-wtf, seesaw, minimal-gallery, dark-mode-design]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Curated
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [higgsfield, design-sorcery, locomotive]
 ---
-[← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
 
 # AURAI LAB
 

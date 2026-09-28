@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [shadcn-labs, startercn, iconoir, shadcn-ui, anthropic-skills]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [icons](../topics/icons.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [icons](../topics/icons.md), [components](../topics/components.md)
 
 # Shadcn Labs Skills
 

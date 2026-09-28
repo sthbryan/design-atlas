@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [60fps, threejs, shaderfrog, awwwards]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # NextWell Lab
 

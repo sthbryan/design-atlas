@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [react-three-fiber, threejs, poly-haven, gltf-report, canvas-ui]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [components](../topics/components.md)
 
 # Drei
 

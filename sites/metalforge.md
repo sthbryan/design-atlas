@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [canvas-ui, paper-shaders, shadercn, orbkit, abstract-by-wannathis]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [assets](../topics/assets.md)
 
 # MetalForge
 

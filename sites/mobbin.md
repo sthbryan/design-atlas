@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [collect-ui, good-ui, laws-of-ux, appshot-gallery, appinspo]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Mobbin
 

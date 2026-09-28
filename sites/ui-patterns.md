@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [laws-of-ux, user-interface-wiki, interface-design, awesome-design-systems]
 ---
-[← Atlas](../README.md) · Topics: [ux-patterns](../topics/ux-patterns.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [ux-patterns](../topics/ux-patterns.md), [inspiration](../topics/inspiration.md)
 
 # UI-Patterns.com
 

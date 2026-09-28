@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [cta-gallery, navbar-gallery, footer-design, vibeui, minimal-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [cta](../topics/cta.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [cta](../topics/cta.md)
 
 # Supahero
 

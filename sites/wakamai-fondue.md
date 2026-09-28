@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [fontsource, utopia, typeface-fyi, css-text-effects]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
 
 # Wakamai Fondue
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [aura, v0, figma]
 ---
-[← Atlas](../README.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [inspiration](../topics/inspiration.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Banani
 

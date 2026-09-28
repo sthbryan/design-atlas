@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [minimal-gallery, designeer, shape-of-ai]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Jessy In's Gallery
 

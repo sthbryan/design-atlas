@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [ditther, dotforge, dither-kit]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [color](../topics/color.md)
 
 # Ditherland
 

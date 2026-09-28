@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [designmd, 21st-dev, cta-gallery, navbar-gallery, footer-design]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md), [cta](../topics/cta.md)
+[← Atlas](../site/home.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md), [cta](../topics/cta.md)
 
 # VibePrompts
 

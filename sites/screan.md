@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [before-click, appshot-gallery, ui-camera]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [landing-pages](../topics/landing-pages.md)
 
 # Screan
 

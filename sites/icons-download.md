@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [iconoir, hugeicons, icon-foundry, 3dicons]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
 
 # Icons.download
 

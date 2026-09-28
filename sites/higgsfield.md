@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [marathonthegame, design-sorcery, supahero]
 ---
-[← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md), [motion](../topics/motion.md)
 
 # Higgsfield
 

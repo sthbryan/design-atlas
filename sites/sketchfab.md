@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [spline, mesh3d, 3dicons]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [inspiration](../topics/inspiration.md)
 
 # Sketchfab
 

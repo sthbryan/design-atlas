@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [3dicons, iconoir, phosphor]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [agent-skills](../topics/agent-skills.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [agent-skills](../topics/agent-skills.md)
 
 # Nucleo
 

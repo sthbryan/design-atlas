@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [motion-primitives, interior-dev, transitions-dev, design-spells, uiwtf]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [inspiration](../topics/inspiration.md)
 
 # UI Labs
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [iconify, icons-download, iconoir, icons0, morphicons]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Hugeicons
 

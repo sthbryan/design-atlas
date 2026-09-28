@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [details, supahero, minimal-gallery, scrolltide, recent-design]
 ---
-[← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
 
 # Landing Love
 

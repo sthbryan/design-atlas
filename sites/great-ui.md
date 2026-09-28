@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [transitions-dev, reactbits, aceternity-ui, skiper-ui, animate-ui, magic-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Great UI
 

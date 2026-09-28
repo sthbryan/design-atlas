@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [torph, number-flow, css-text-effects, motion-primitives]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md), [components](../topics/components.md)
 
 # slot-text
 

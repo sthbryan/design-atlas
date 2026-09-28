@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [neuform, designmd, refero-styles, 21st-dev, vibeprompts, open-design]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [components](../topics/components.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [design-md](../topics/design-md.md), [components](../topics/components.md), [assets](../topics/assets.md)
 
 # Aura
 

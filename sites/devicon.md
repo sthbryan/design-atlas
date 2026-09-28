@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [simple-icons, thesvg, shieldcn, iconoir]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
 
 # Devicon
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [circle-loaders, shadcn-ui, 8bitcn, dither-kit]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Dot Matrix
 

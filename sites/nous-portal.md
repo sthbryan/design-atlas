@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [ai-ux-playground, shape-of-ai, designmd]
 ---
-[← Atlas](../README.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [inspiration](../topics/inspiration.md)
 
 # Nous Portal
 

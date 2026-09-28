@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [3dicons, circle-loaders]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [components](../topics/components.md)
 
 # Kitbitz
 

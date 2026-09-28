@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [shadcn-ui, shadcnblocks, blocks-so, uiuno, 21st-dev]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [inspiration](../topics/inspiration.md)
 
 # Shoogle
 

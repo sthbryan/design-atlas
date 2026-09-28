@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [evil-charts, dataviz-project, flourish]
 ---
-[← Atlas](../README.md) · Topics: [data-viz](../topics/data-viz.md), [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [data-viz](../topics/data-viz.md), [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # microcharts
 

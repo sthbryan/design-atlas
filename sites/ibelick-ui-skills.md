@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [ui-skills, motion-primitives, prompt-kit, vercel-web-design-guidelines, impeccable, designmd]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md), [motion](../topics/motion.md), [design-md](../topics/design-md.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md), [motion](../topics/motion.md), [design-md](../topics/design-md.md)
 
 # ibelick UI Skills
 

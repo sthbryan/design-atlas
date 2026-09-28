@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [folios-gallery, lusion, unicorn-studio]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md), [landing-pages](../topics/landing-pages.md)
 
 # Unseen Studio
 

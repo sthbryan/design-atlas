@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [aceternity-ui, reactbits, liquid-glass, magic-ui, cult-ui, kokonut-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md), [landing-pages](../topics/landing-pages.md)
 
 # Lightswind
 

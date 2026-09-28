@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [component-gallery, kage, designeer, appshot-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Minimal Gallery
 

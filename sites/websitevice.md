@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [siteinspire, made-in-webflow, godly]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Websitevice
 

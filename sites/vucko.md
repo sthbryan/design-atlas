@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [motion-zajno, folios-gallery, motion-dev]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Vucko
 

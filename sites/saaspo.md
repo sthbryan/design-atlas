@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [saasframe, best-saas-web-designs, saas-landing-page, supahero, landing-love]
 ---
-[← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md)
 
 # Saaspo
 

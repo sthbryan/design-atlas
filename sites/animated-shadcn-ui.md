@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [shadcn-ui, base-ui, animate-ui, motion-dev, motion-primitives]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Animated shadcn/ui
 

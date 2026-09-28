@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [screan, rebrand-gallery, what-ships, craftwork]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md)
 
 # ui.camera
 

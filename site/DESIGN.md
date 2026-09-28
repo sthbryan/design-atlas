@@ -13,7 +13,6 @@ colors:
   accent: "#974E0C"
   accent-strong: "#723D12"
   accent-soft: "#FAE5D7"
-  on-accent: "#FDF9F6"
   focus: "#1762B6"
   success: "#2D693D"
   success-soft: "#DFF3E2"
@@ -47,19 +46,19 @@ typography:
     lineHeight: 1.25
     letterSpacing: 0em
   body:
-    fontFamily: Nacelle
+    fontFamily: system-ui
     fontSize: 16px
     fontWeight: 400
     lineHeight: 1.55
     letterSpacing: 0em
   body-sm:
-    fontFamily: Nacelle
+    fontFamily: system-ui
     fontSize: 14px
     fontWeight: 400
     lineHeight: 1.45
     letterSpacing: 0em
   label:
-    fontFamily: Nacelle
+    fontFamily: system-ui
     fontSize: 14px
     fontWeight: 600
     lineHeight: 1.3
@@ -83,8 +82,6 @@ spacing:
   xl: 24px
   2xl: 32px
   3xl: 48px
-  4xl: 64px
-  5xl: 96px
 components:
   link:
     textColor: "{colors.accent}"
@@ -185,7 +182,7 @@ The identity of the Design Atlas website, a VitePress theme in `site/.vitepress/
 - Surface: reading, with product density on the lists.
 - Audience and job: designers, developers and coding agents picking a reviewed reference and checking its licence and agent channels first, on desktop or phone, in either theme.
 - Subject world: the back of a printed atlas: gazetteer, legend, survey date, contour brown and water blue.
-- Signature element: the gazetteer row. Name and description, then four slots in a fixed order: verdict, licence class, agent channels, reviewed date, explained by a legend above the list.
+- Signature element: the gazetteer row. Name and description, then four slots in a fixed order: verdict, licence class, agent channels, reviewed date. A header labels the columns when they fit; a legend explains the licence badges.
 - Will not: screenshot card grids, a gradient hero, a purple accent, colour-only licence signals, animated lists.
 
 ## Colors
@@ -204,7 +201,6 @@ Neutrals lean to hue 165 at chroma 0.004 to 0.018 (C3); the accent is sienna at 
 | accent | #974E0C | #E6A375 | 0.505 0.120 55 | Links, current-page mark, sidebar indicator | text on bg 5.85:1 / 8.45:1; text on surface 5.46:1 / 7.86:1; text on surface-raised 6.05:1 / 7.16:1 |
 | accent-strong | #723D12 | #EFC4A8 | 0.420 0.092 55 | Link hover, search-match text | text on bg 8.34:1 / 11.25:1; text on accent-soft 7.21:1 / 8.67:1 |
 | accent-soft | #FAE5D7 | #3F2717 | 0.935 0.030 55 | Button hover, search-match highlight | |
-| on-accent | #FDF9F6 | #121815 | 0.985 0.006 55 | Text on an accent fill; no view has one | text on accent 5.88:1 / 8.45:1 |
 | focus | #1762B6 | #81B4F6 | 0.500 0.150 255 | Focus ring only | ui on bg 5.77:1 / 8.39:1; ui on surface 5.39:1 / 7.81:1; ui on surface-raised 5.97:1 / 7.11:1 |
 | success | #2D693D | #85CF95 | 0.470 0.095 150 | Ship licence badge | text on bg 6.23:1 / 9.73:1; text on success-soft 5.64:1 / 7.63:1 |
 | success-soft | #DFF3E2 | #1B301F | 0.945 0.030 150 | Ship badge fill | |
@@ -215,23 +211,25 @@ Neutrals lean to hue 165 at chroma 0.004 to 0.018 (C3); the accent is sienna at 
 
 ## Typography
 
-- Families: Montagu Slab for headings (OFL 1.1, bundled from `@fontsource-variable/montagu-slab` with optical sizing; its licence ships as `fonts/montagu-slab-OFL.txt`). Nacelle (OFL 1.1) leads the text stack but is not bundled, so text falls back to the system sans. Code uses the system monospace stack.
+- Families: Montagu Slab for headings (OFL 1.1, bundled from `@fontsource-variable/montagu-slab` with optical sizing; its licence ships as `fonts/montagu-slab-OFL.txt`). System sans handles body text consistently across machines; code uses the system monospace stack.
 - Scale: 1.25 from a 16px body (T6), 14px for dense rows (T4), weights 400 and 600 only. Montagu Slab stays at 20px or more and never sets figures; dates and counts use `tabular-nums`.
 
-| Role | Size | Use |
-|---|---|---|
-| display | 31 to 49px, `clamp(1.9375rem, 1.2rem + 2.6vw, 3.0625rem)` | Home title |
-| heading-1, heading-2, heading-3 | 31, 25, 20px | Page titles, sections, nav title and card titles |
-| body | 16px | Prose, search input |
-| body-sm | 14px | Descriptions, slots, legend, facts, tables |
-| label | 14px | Row names, badges, buttons, nav, table headers |
-| code | 14px | Code, licence class in the facts panel |
+| Role | Size | Weight | Line height | Tracking | Use |
+|---|---|---|---|---|---|
+| display | 31 to 49px, `clamp(1.9375rem, 1.2rem + 2.6vw, 3.0625rem)` | 600 | 1.08 | -0.02em | Home title |
+| heading-1 | 31px | 600 | 1.15 | 0em | Page titles |
+| heading-2 | 25px | 600 | 1.2 | 0em | Sections |
+| heading-3 | 20px | 600 | 1.25 | 0em | Nav title and card titles |
+| body | 16px | 400 | 1.55 | 0em | Prose, search input |
+| body-sm | 14px | 400 | 1.45 | 0em | Descriptions, slots, legend, facts, tables |
+| label | 14px | 600 | 1.3 | 0em | Row names, badges, buttons, nav, table headers |
+| code | 14px | 400 | 1.5 | 0em | Code, licence class in the facts panel |
 
 ## Layout and spacing
 
-- Scale: 4 to 96px (L1); gaps between groups at least twice the gaps inside one.
+- Scale: 4 to 48px (L1); gaps between groups at least twice the gaps inside one.
 - Frame: VitePress nav, sidebar and content. Prose at `max-width: 68ch` (T5); rows and legends span the content width.
-- Home and topics index: topic cards in `repeat(auto-fill, minmax(16rem, 1fr))`. Site index: labelled search field, live count, legend, rows. Hubs: "All sources" as rows, no table of contents. Site pages: the seven sections beside a 280px facts rail.
+- Home: a short introduction, two paths separated by rules, then task-based topic links; the README has its own `/readme` route. Topics index: cards in `repeat(auto-fill, minmax(16rem, 1fr))`. Site index: labelled search field, live count, legend and rows, with 50 initially shown and more revealed on demand. Hubs: "All sources" as rows, no table of contents. Site pages: the seven sections beside a 280px facts rail.
 - Density: rows at least 48px with 12px padding; buttons 32px, 44px on coarse pointers (L2); search field 40px.
 
 ## Elevation and depth
@@ -250,13 +248,16 @@ Neutrals lean to hue 165 at chroma 0.004 to 0.018 (C3); the accent is sienna at 
 | Nav | `nav`; title in heading-3; Topics, Sites, DESIGN.md; GitHub icon; local search | Current: 2px `{colors.accent}` bar under the label; hover underline |
 | Sidebar | `{colors.surface}` | Current: accent indicator |
 | Search field | `search-field`, `border-control` edge, magnifier, visible label | Filters live; Clear with a value; query in `?q=`; empty state names the query and offers to clear |
-| Result count | body-sm, `role="status"`, under the field | "N sites" or "N of M sites" |
+| Result count | body-sm, `role="status"`, under the field | "Showing N of M sites" or "Showing N of M matches" |
 | Button | `button`, `border-control` edge | `button-hover`; press `--scale-press` |
+| Home paths | `bg`, `border`, `accent`, `text-muted`; two columns above 36rem | Whole links; hover uses `surface`; one column below 36rem |
+| Home guide | `border`, `accent`, `text-muted`; rule-separated rows | Task links lead to topic hubs |
+| Gazetteer header | `{colors.surface}`, `{colors.text-muted}`, bottom `border`, label type | Visible with fixed columns from 52rem; hidden below |
 | Gazetteer row | `gazetteer-row`, bottom `border`, name in label, muted description, four slots | `gazetteer-row-hover` (M9); stale and broken rows add a badge |
-| Legend | `legend`, above each list | Explains the slots and the three licence glyphs |
+| Legend | `legend`, above each list | Explains the three licence glyphs |
 | Badge | `badge-ship`, `badge-conditional`, `badge-look-only`, `badge-broken`, glyph plus word | Static; the licence class is screen-reader text |
 | Topic card | `card`, 1px `border`; title, description, site count | One link; hover edge `border-control` |
-| Site facts | `{colors.surface}`, `{rounded.md}`; site, type, verdict, licence, agent channels, pricing, reviewed, note | Rail from 1280px, inline under the H1 below |
+| Site facts | `{colors.surface}`, `{rounded.md}`; site, type, verdict, licence, agent channels, pricing, reviewed, note | Rail from 1280px, inline under the H1 below; compact label/value rows below 36rem |
 | Code | `code-block`, `code-inline`; syntax colours flattened to `{colors.text}` | VitePress copy button |
 | Prose table | `table-header` | Static |
 | Callout | VitePress blocks: warning on `{colors.warning-soft}`, danger on `{colors.danger-soft}`, others on `{colors.surface}` | Static; unused so far |
@@ -273,7 +274,6 @@ Neutrals lean to hue 165 at chroma 0.004 to 0.018 (C3); the accent is sienna at 
 | `--scale-press` | 0.97 | Button press |
 | `--dur-hover` | 150ms | Link, nav, button and card colour |
 | `--dur-row-out` | 100ms | Row highlight fade-out; it appears at 0ms |
-| `--dur-reduced` | 150ms | Longest fade under reduced motion |
 
 - No orchestrated moment (M5); filtering and search results are instant (M8, M14).
 - Reduced motion: the press scale runs only under `no-preference`; colour changes stay (M11).
@@ -291,8 +291,9 @@ Neutrals lean to hue 165 at chroma 0.004 to 0.018 (C3); the accent is sienna at 
 | Breakpoint | What changes |
 |---|---|
 | Row container under 36rem | Slots wrap under the description, keys shown |
+| Viewport under 36rem | Home paths stack; site facts use compact label/value rows |
 | Row container 36rem | Slots stack in a right-hand column |
-| Row container 52rem | Slots take fixed columns (7, 8.5, 9, 6.5rem); keys become screen-reader text |
+| Row container 52rem | Header appears; slots take fixed columns (7, 8.5, 9, 6.5rem); keys become screen-reader text |
 | Viewport under 768px | Nav links move behind the menu button |
 | Viewport 960px | Sidebar stays open |
 | Viewport 1280px | Facts rail appears; below it the facts sit under the H1 |
@@ -303,6 +304,7 @@ Test at 320, 390, 768 and 1280px plus 200% zoom (L3), with no horizontal page sc
 
 - Do: keep the four slots in order on every list, with a legend above.
 - Do: show a live count under the search field and keep the query in the URL.
+- Do: search the full catalog, including verdict, status and reviewed date, while revealing index rows in groups of 50.
 - Do: write dates as `YYYY-MM-DD` and "at review" next to counts.
 - Don't: show screenshots, logos or favicons of reviewed sites, or put site lists in cards.
 - Don't: use `accent` beyond links, the current-page mark and the sidebar indicator.
@@ -321,7 +323,7 @@ Test at 320, 390, 768 and 1280px plus 200% zoom (L3), with no horizontal page sc
 | Atlas page (`sites/<slug>.md`) | Live example and visual evidence | What we adapted | Licence class | Reviewed |
 |---|---|---|---|---|
 | [sites/uswds.md](../sites/uswds.md) | https://designsystem.digital.gov/components/overview/, desktop and 375px, 2026-09-27 | Live count under the filter, underlined titles | mixed; ideas only | 2026-09-26 |
-| [sites/nacelle.md](../sites/nacelle.md) | https://dotcolon.net/fonts/nacelle/, desktop, 2026-09-27 | Text face; the narrow facts rail | open-source-permissive | 2026-09-27 |
+| [sites/nacelle.md](../sites/nacelle.md) | https://dotcolon.net/fonts/nacelle/, desktop, 2026-09-27 | Narrow facts rail | open-source-permissive | 2026-09-27 |
 | [sites/montagu-slab.md](../sites/montagu-slab.md) | https://fonts.floriankarsten.com/montagu-slab, desktop, 2026-09-27 | Headings with optical sizing, no figures | open-source-permissive | 2026-09-27 |
 | [sites/ramps.md](../sites/ramps.md) | none, tool | A ratio beside every colour, recomputed | open-source-permissive | 2026-09-25 |
 | [sites/phosphor.md](../sites/phosphor.md) | none, icon library | One set, one weight | open-source-permissive | 2026-09-25 |

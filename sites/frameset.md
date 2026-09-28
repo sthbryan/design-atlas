@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [eyecannndy, motionimo, landing-love]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
 
 # Frameset
 

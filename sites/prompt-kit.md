@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [motion-primitives, shadcn-ui, kibo-ui, mcpcn, shape-of-ai]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Prompt Kit
 

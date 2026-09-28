@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [magicpattern, grainient]
 ---
-[← Atlas](../README.md) · Topics: [color](../topics/color.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [color](../topics/color.md), [assets](../topics/assets.md)
 
 # Noise & Gradient
 

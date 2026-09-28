@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: stale
 related: [component-gallery, inclusive-components, design-system-checklist, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md), [documentation](../topics/documentation.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md), [documentation](../topics/documentation.md)
 
 # UI Playbook
 

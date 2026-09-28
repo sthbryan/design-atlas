@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [skiper-ui, rareui, uiverse, cult-ui, nexvyn-ui, great-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Pin UI
 

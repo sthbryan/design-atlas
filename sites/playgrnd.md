@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [fffuel, tabbied, compute-toys, shaderfrog]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [motion](../topics/motion.md)
 
 # Playgrnd
 

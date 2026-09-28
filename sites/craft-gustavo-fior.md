@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [design-motion-principles, emil-kowalski-skills, modern-css]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
 
 # Craft
 

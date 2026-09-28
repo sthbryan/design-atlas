@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [are-na, pinterest, designspiration, appinspo, browse-cool]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [color](../topics/color.md)
 
 # Cosmos
 

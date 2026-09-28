@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [icons0, icon-foundry, iconoir, morphicons, design-mobile-apps]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Iconify
 

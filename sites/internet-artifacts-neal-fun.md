@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [dataviz-project, flourish]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [data-viz](../topics/data-viz.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [data-viz](../topics/data-viz.md), [motion](../topics/motion.md)
 
 # Internet Artifacts
 

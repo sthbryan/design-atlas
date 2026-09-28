@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [open-design, aura, 21st-dev, vibeprompts, kage]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md)
 
 # Screenshot to Code
 

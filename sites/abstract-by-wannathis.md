@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [shapefest, 3dicons, backgrounds-supply]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [assets](../topics/assets.md)
 
 # Abstract by Wannathis
 

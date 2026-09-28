@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [css-text-effects, refero-styles, designmd, minimal-gallery]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [inspiration](../topics/inspiration.md)
 
 # Typeface.fyi
 

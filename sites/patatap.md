@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [chrome-music-lab]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [sound](../topics/sound.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [sound](../topics/sound.md)
 
 # Patatap
 

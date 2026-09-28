@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [inspora, recent-design, uiverse, minimal-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Collect UI
 

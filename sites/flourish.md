@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [dataviz-project, evil-charts]
 ---
-[← Atlas](../README.md) · Topics: [data-viz](../topics/data-viz.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [data-viz](../topics/data-viz.md), [inspiration](../topics/inspiration.md)
 
 # Flourish
 

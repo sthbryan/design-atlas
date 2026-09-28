@@ -13,7 +13,7 @@ reviewed: 2026-09-26
 status: active
 related: [liquid-glass, canvas-ui, paper-shaders, shadercn]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [components](../topics/components.md)
 
 # Aave Design & Engineering
 

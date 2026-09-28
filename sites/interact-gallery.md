@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [threejs, react-three-fiber, 100000-stars, awwwards]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [3d-and-shaders](../topics/3d-and-shaders.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # Interact Gallery
 

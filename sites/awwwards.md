@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [landing-love, scrolltide, minimal-gallery, siteinspire, best-website-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
 
 # Awwwards
 

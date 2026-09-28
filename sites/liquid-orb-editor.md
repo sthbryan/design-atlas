@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [orbkit, shadercn, liquid-glass-web-react]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Liquid Orb Editor
 

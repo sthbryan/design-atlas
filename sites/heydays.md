@@ -15,7 +15,7 @@ status: active
 note: Historical studio archive; the current site says Heydays is now Kurppa Hosk. Project media on the Huddly case did not render during review.
 related: [designme-agency, hover-states]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md)
 
 # Heydays
 

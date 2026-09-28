@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [impeccable, hallmark, getdesign-md, huetone, ui-ux-pro-max]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [color](../topics/color.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [color](../topics/color.md), [ux-patterns](../topics/ux-patterns.md)
 
 # StyleSeed
 

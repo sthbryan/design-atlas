@@ -15,7 +15,7 @@ status: active
 note: The original `editorcn.vercel.app` redirects here.
 related: [shadcn-ui, termcn, pdfcn, component-gallery, uiable]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [ux-patterns](../topics/ux-patterns.md)
 
 # editorcn
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [prompt-kit, kokonut-ui, glimm, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Beautiful UI
 

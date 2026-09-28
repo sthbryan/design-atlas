@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [base-ui, shadcn-ui, headless-ui, base-cn, inclusive-components]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md), [color](../topics/color.md), [icons](../topics/icons.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md), [color](../topics/color.md), [icons](../topics/icons.md)
 
 # Radix
 

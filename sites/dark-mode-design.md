@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [curated-design, minimal-gallery, seesaw, recent-design]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [color](../topics/color.md)
 
 # Dark Mode Design
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [before-click, appinspo, appshot-gallery, loader-buttons]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [components](../topics/components.md)
 
 # Appllama
 

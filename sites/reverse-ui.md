@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [magic-ui, aceternity-ui, skiper-ui, motion-primitives]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # Reverse UI
 

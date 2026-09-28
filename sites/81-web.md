@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [siteinspire, a1-gallery, minimal-gallery, awwwards]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md)
 
 # 81-web
 

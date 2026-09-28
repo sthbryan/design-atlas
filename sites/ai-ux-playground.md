@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [anthropic-design-plugin, accesslint-skills, ui-ux-pro-max]
 ---
-[← Atlas](../README.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [ux-patterns](../topics/ux-patterns.md), [agent-skills](../topics/agent-skills.md)
+[← Atlas](../site/home.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [ux-patterns](../topics/ux-patterns.md), [agent-skills](../topics/agent-skills.md)
 
 # AI UX Playground
 

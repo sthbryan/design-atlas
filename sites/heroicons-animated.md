@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [lucide-animated, morphicons, animated-icons, useanimations, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [motion](../topics/motion.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [motion](../topics/motion.md), [components](../topics/components.md)
 
 # Heroicons Animated
 

@@ -26,7 +26,7 @@ export default defineConfig({
     const { reviewed } = pageData.frontmatter;
     if (reviewed instanceof Date) pageData.frontmatter.reviewed = reviewed.toISOString().slice(0, 10);
     const index = path === 'sites/index.md' || path === 'topics/index.md';
-    if (path === 'index.md') pageData.frontmatter.pageClass = 'atlas-home';
+    if (path === 'site/home.md') pageData.frontmatter.pageClass = 'atlas-home';
     else if (path.startsWith('sites/') && !index) {
       pageData.frontmatter.pageClass = 'atlas-site';
       pageData.frontmatter.outline = false;
@@ -52,7 +52,7 @@ export default defineConfig({
       {
         text: 'Atlas',
         items: [
-          { text: 'Overview', link: '/' },
+          { text: 'Home', link: '/' },
           { text: 'All sites', link: '/sites/' },
           { text: 'All topics', link: '/topics/' },
           { text: 'Website DESIGN.md', link: '/design' },

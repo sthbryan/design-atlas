@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [lucide, feather, iconify, hugeicons, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [components](../topics/components.md)
 
 # Tabler Icons
 

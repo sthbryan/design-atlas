@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [good-ui, mobbin, a1-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md), [landing-pages](../topics/landing-pages.md)
 
 # GoodCart
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [sections-wtf, appshot-gallery, icon-museum, mobbin]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Great Apps
 

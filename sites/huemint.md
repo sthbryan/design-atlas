@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [coolors, realtime-colors, color-review, huetone]
 ---
-[← Atlas](../README.md) · Topics: [color](../topics/color.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [color](../topics/color.md), [inspiration](../topics/inspiration.md)
 
 # Huemint
 

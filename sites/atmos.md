@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [oklch, huetone, ramps, color-review]
 ---
-[← Atlas](../README.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Atmos
 

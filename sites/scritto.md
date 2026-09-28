@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [number-flow, torph, textmotion, motion-primitives]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Scritto
 

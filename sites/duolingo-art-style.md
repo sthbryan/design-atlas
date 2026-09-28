@@ -15,7 +15,7 @@ status: active
 note: The article was published in 2020; use it as a dated explanation of the art system and check current brand guidelines for present-day rules.
 related: [the-brand-identity]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [color](../topics/color.md)
 
 # Duolingo Art Style
 

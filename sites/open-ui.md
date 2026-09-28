@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [component-gallery, inclusive-components, carbon-design-system, design-system-checklist]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md)
 
 # Open UI
 

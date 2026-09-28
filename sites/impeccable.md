@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [hallmark, ui-skills, typeui, dialkit, getdesign-md]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [design-md](../topics/design-md.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Impeccable
 

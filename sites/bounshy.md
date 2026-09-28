@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [motion-primitives, css-text-effects, textmotion]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Bounshy
 

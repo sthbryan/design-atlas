@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [uilabs, devl, interior-dev, details]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Lab01
 

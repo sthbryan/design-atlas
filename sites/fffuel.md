@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [gradient-buttons, 3dicons, liquid-glass, huetone]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [color](../topics/color.md)
 
 # Fffuel
 

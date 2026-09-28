@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [brrranding, the-brand-identity]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [typography-and-styles](../topics/typography-and-styles.md), [color](../topics/color.md)
 
 # Luzhniki identity — Art. Lebedev Studio
 

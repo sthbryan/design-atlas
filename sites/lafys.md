@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [vibeprompts, getlayers, vibeui, neuform, landing-love]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [landing-pages](../topics/landing-pages.md), [3d-and-shaders](../topics/3d-and-shaders.md)
+[← Atlas](../site/home.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [landing-pages](../topics/landing-pages.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # Lafys
 

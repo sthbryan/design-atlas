@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [backgrounds-supply, supahero, kage, fffuel]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md), [landing-pages](../topics/landing-pages.md)
 
 # Venust Backgrounds
 

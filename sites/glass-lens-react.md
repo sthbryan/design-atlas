@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [liquid-glass, canvas-ui, motion-primitives]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # glass-lens-react
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [prompt-kit, aceternity-ui, magic-ui, tremor, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # Spectrum UI
 

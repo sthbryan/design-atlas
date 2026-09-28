@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [css-text-effects, circle-loaders, animejs, gradient-buttons]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md)
 
 # Kinetics
 

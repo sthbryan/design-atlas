@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [css-nectar, best-website-gallery, awwwards]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
 
 # Made in Webflow
 

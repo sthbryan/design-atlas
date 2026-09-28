@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [vercel-web-design-guidelines, framer, best-saas-web-designs, appinspo]
 ---
-[← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md)
 
 # Railway
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [sora-ui, loader-buttons]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [inspiration](../topics/inspiration.md)
 
 # Cue
 

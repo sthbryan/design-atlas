@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [awesome-design-systems, component-gallery, carbon-design-system]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [inspiration](../topics/inspiration.md)
 
 # Design Systems Repo
 

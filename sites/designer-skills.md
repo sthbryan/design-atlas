@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [ui-skills, laws-of-ux, interface-design, design-system-checklist, impeccable]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md), [typography-and-styles](../topics/typography-and-styles.md), [documentation](../topics/documentation.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md), [typography-and-styles](../topics/typography-and-styles.md), [documentation](../topics/documentation.md)
 
 # Designer Skills
 

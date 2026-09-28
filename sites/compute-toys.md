@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [book-of-shaders, shaderfrog, canvas-ui, paper-shaders]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [inspiration](../topics/inspiration.md)
 
 # compute.toys
 

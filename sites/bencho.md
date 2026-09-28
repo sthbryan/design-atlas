@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [interior-dev, kinetics, dialkit, design-spells, 60fps]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md)
 
 # Bencho
 

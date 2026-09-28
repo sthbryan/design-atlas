@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [motion-primitives, dialkit, easing-wizard, emil-kowalski-skills, gsap]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md)
 
 # Motion
 

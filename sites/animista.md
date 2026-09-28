@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [motion-primitives, ripplix]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md)
 
 # Animista
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [internet-artifacts-neal-fun, refs-gallery, a1-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Google Arts & Culture
 

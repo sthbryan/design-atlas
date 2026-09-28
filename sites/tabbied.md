@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [fffuel, playgrnd, paper-shaders, shadercn]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Tabbied
 

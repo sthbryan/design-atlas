@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [footer-design, cta-gallery, minimal-gallery, designeer]
 ---
-[← Atlas](../README.md) · Topics: [navigation](../topics/navigation.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [navigation](../topics/navigation.md), [inspiration](../topics/inspiration.md)
 
 # Navbar Gallery
 

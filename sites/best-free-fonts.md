@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [fontsource, typeface-fyi, typewolf, fonts-in-use]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
 
 # Best Free Fonts
 

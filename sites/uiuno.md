@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [shoogle, shadcn-ui, paper-shaders, reactbits, 21st-dev]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # Uiuno
 

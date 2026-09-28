@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [accesslint-skills, anthropic-design-plugin, vercel-web-design-guidelines, inclusive-components, ibelick-ui-skills]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Web Quality Skills
 

@@ -15,7 +15,7 @@ status: stale
 note: "In maintenance mode: no new icons since version 2.1.5 in July 2024."
 related: [heroicons-animated, headless-ui, lucide, iconoir]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [components](../topics/components.md)
 
 # Heroicons
 

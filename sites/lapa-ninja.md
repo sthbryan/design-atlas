@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [land-book, landingfolio, landing-love, landdding, emil-kowalski-skills]
 ---
-[← Atlas](../README.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md), [assets](../topics/assets.md)
 
 # Lapa Ninja
 

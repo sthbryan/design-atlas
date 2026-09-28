@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [iconify, phosphor, tabler-icons, fontsource]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Material Symbols
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [heroicons-animated, animated-icons, motion-primitives, magic-ui]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # benday
 

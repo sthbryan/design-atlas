@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [animate-ui, shadcn-ui, radix, base-ui, headless-ui, prompt-kit]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Odyssey UI
 

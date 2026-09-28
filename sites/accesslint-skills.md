@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [addy-osmani-web-quality-skills, anthropic-design-plugin, inclusive-components, vercel-web-design-guidelines, impeccable]
 ---
-[← Atlas](../README.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [ux-patterns](../topics/ux-patterns.md)
 
 # AccessLint Skills
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [typewolf, death-of-typography, fonts-in-use]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md)
 
 # HK Grotesk Wide
 

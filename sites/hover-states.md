@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [wwwtf, browse-cool, minimal-gallery, design-spells]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [navigation](../topics/navigation.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [navigation](../topics/navigation.md)
 
 # Hover States
 

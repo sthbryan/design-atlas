@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [awwwards, siteinspire, a1-gallery, best-website-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
 
 # CSS Design Awards
 

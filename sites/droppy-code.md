@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [appinspo, design-mobile-apps, liquid-glass]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [navigation](../topics/navigation.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [navigation](../topics/navigation.md)
 
 # Droppy Code
 

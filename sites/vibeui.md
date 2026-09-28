@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [vibeprompts, kage, scrolltide, supahero, cta-gallery]
 ---
-[← Atlas](../README.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md), [cta](../topics/cta.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [agents-and-prompts](../topics/agents-and-prompts.md), [components](../topics/components.md), [cta](../topics/cta.md), [landing-pages](../topics/landing-pages.md)
 
 # VibeUI
 

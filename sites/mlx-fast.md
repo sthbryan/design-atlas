@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [keel-workspace, flourish, evil-charts, tremor]
 ---
-[← Atlas](../README.md) · Topics: [data-viz](../topics/data-viz.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [data-viz](../topics/data-viz.md), [inspiration](../topics/inspiration.md)
 
 # MLX.fast
 

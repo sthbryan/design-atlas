@@ -15,7 +15,7 @@ status: active
 note: The separate Material Theme Builder repository was archived in July 2026; use the current documentation as the reference and confirm any linked tooling before depending on it.
 related: [carbon-design-system, daisyui, material-symbols, component-gallery]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [color](../topics/color.md)
 
 # Material Design 3
 

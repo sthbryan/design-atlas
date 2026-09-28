@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [shadcn-ui, shadcnblocks, 21st-dev, magic-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [landing-pages](../topics/landing-pages.md)
 
 # Watermelon UI
 

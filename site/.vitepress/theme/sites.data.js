@@ -14,7 +14,7 @@ export default {
       agent: site.agent ?? [],
       reviewed: site.reviewed,
       status: site.status,
-      haystack: [site.title, site.description, site.type, ...(site.topics ?? []), ...(site.agent ?? []), site.licence_class]
+      haystack: [site.title, site.description, site.type, ...(site.topics ?? []), ...(site.agent ?? []), site.verdict, site.licence_class, site.status, site.reviewed]
         .join(' ')
         .toLowerCase(),
     }));

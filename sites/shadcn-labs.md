@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [startercn, shadcn-skills, termcn, pdfcn, emailcn, ogimagecn, framecn, agentcn, mcpcn, editorcn, shadercn]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [documentation](../topics/documentation.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [documentation](../topics/documentation.md)
 
 # Shadcn Labs
 

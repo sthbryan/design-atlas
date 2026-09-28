@@ -15,7 +15,7 @@ status: active
 note: The advertised domain, runeicons.com, had no DNS record at review.
 related: [reicon, mx-icons, iconoir, animated-icons]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
 
 # Rune Icons
 

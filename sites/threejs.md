@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [react-three-fiber, drei, shaderfrog, book-of-shaders, paper-shaders, compute-toys]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md)
 
 # Three.js
 

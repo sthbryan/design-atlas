@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [navbar-gallery, footer-design, gradient-buttons]
 ---
-[← Atlas](../README.md) · Topics: [cta](../topics/cta.md), [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [cta](../topics/cta.md), [inspiration](../topics/inspiration.md)
 
 # CTA Gallery
 

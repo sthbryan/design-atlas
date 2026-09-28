@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [browse-cool, sections-wtf, hover-states, landing-love]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [3d-and-shaders](../topics/3d-and-shaders.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # wwwtf.site
 

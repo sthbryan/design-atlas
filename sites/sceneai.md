@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [sections-wtf, animated-shadcn-ui, backgrounds-supply, aceternity-ui]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md), [motion](../topics/motion.md)
 
 # SceneAI
 

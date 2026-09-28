@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [curations-supply, dark-mode-design, muzli, designengineer-tools]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [assets](../topics/assets.md)
 
 # TOOOLS.design
 

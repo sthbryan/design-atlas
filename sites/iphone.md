@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [apple-human-interface-guidelines, baymard-ecommerce-design-examples, landingfolio]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # iPhone
 

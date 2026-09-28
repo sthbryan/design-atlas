@@ -55,6 +55,8 @@ export function statusBadge(status) {
 
 export const agentText = (agent) => (agent?.length ? agent.join(', ') : 'none');
 
+export const gazetteerHeaderHtml = '<span>Reference</span><span>Verdict</span><span>Licence</span><span>Agent channels</span><span>Reviewed</span>';
+
 export function slotsHtml(site) {
   return [
     `<span class="gz-slot gz-verdict"><span class="gz-key">Verdict </span>${escapeHtml(VERDICTS[site.verdict] ?? words(site.verdict))}${statusBadge(site.status)}</span>`,
@@ -68,5 +70,5 @@ export function legendHtml() {
   const groups = Object.values(LICENCE_GROUPS)
     .map((group) => `<span class="gz-legend-item">${icon(group.icon)}<span><strong>${group.label}:</strong> ${group.meaning}</span></span>`)
     .join('');
-  return `<p class="gz-legend"><span class="gz-legend-item">Each row: name and summary, then verdict, licence, agent channels and review date.</span>${groups}</p>\n`;
+  return `<p class="gz-legend">${groups}</p>\n`;
 }

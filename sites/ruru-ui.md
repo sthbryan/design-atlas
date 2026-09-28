@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: stale
 related: [shadcn-ui, radix, headless-ui, base-cn]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md)
 
 # Ruru UI
 

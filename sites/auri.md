@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [aura, ai-ux-playground, appinspo, design-mobile-apps]
 ---
-[← Atlas](../README.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Auri (auri.ai)
 

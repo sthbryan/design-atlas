@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: stale
 related: [ramps, oklch, color-review, dialkit]
 ---
-[← Atlas](../README.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [color](../topics/color.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Huetone
 

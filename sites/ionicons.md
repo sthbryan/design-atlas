@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [bootstrap-icons, eva-icons, iconsax, iconify, iconoir]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [components](../topics/components.md)
 
 # Ionicons
 

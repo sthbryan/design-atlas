@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [aceternity-ui, motion-primitives, shadcn-ui, 21st-dev, cta-gallery]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [cta](../topics/cta.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [cta](../topics/cta.md)
 
 # Magic UI
 

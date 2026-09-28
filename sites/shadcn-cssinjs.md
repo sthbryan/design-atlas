@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [shadcn-labs, shadcn-ui, base-ui, coss-ui, startercn, shadercn]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
 # shadcn-cssinjs
 

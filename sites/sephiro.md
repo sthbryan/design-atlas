@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [base-ui, shadcn-ui, design-system-checklist]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [inspiration](../topics/inspiration.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [inspiration](../topics/inspiration.md), [color](../topics/color.md)
 
 # Sephiro
 

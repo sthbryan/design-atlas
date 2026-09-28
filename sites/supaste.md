@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [appinspo, appshot-gallery, ui-patterns]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Supaste
 

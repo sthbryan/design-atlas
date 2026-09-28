@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [marathonthegame, samwrks, a1-gallery]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md)
 
 # Özgür Güler
 

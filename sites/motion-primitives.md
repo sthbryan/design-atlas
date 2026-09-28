@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [aceternity-ui, magic-ui, css-text-effects, animejs, kinetics]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Motion Primitives
 

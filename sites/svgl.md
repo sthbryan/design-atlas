@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [simple-icons, thesvg, iconify]
 ---
-[← Atlas](../README.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md)
 
 # Svgl
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [dotforge, ascii-studio, efecto, fffuel]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Tooooools
 

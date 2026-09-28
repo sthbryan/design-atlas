@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [beui, smooth-ui, base-ui, paper-shaders, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Sona UI
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [paper-shaders, shaderfrog, compute-toys, orbkit]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [documentation](../topics/documentation.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [documentation](../topics/documentation.md)
 
 # The Book of Shaders
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [dribbble, land-book, best-saas-web-designs, curated-design]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # Muzli
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [backgrounds-supply, curations-supply, fffuel, gradient-buttons]
 ---
-[← Atlas](../README.md) · Topics: [assets](../topics/assets.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [assets](../topics/assets.md), [landing-pages](../topics/landing-pages.md)
 
 # Rueya Supply
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [float-ui, shadcn-ui, shadcnblocks, kibo-ui, tailark]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [design-md](../topics/design-md.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [design-md](../topics/design-md.md)
 
 # TailGrids
 

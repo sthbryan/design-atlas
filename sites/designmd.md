@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [vibeprompts, shadcn-ui, uiable, 21st-dev]
 ---
-[← Atlas](../README.md) · Topics: [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
+[← Atlas](../site/home.md) · Topics: [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
 # DESIGN.md
 

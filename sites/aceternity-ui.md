@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [magic-ui, motion-primitives, shadcn-ui, reactbits, kinetics]
 ---
-[← Atlas](../README.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
 # Aceternity UI
 

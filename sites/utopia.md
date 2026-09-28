@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [fontsource, wakamai-fondue, design-system-checklist, css-text-effects]
 ---
-[← Atlas](../README.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [landing-pages](../topics/landing-pages.md)
 
 # Utopia
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [uisfx, cuelume, sensory-ui, web-kits-audio, shadcn-ui]
 ---
-[← Atlas](../README.md) · Topics: [sound](../topics/sound.md), [assets](../topics/assets.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [sound](../topics/sound.md), [assets](../topics/assets.md), [components](../topics/components.md)
 
 # soundcn
 

@@ -14,7 +14,7 @@ reviewed: 2026-09-27
 status: active
 related: [devouring-details, uiwtf]
 ---
-[← Atlas](../README.md) · Topics: [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [ux-patterns](../topics/ux-patterns.md)
 
 # Rauno's Field Notes #5
 

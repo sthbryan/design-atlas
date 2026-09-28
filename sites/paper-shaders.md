@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [canvas-ui, shadcn-ui, liquid-glass, reactbits, book-of-shaders]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [motion](../topics/motion.md), [components](../topics/components.md)
 
 # Paper Shaders
 

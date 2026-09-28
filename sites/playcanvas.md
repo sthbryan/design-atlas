@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [threejs, spline]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [3d-and-shaders](../topics/3d-and-shaders.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [3d-and-shaders](../topics/3d-and-shaders.md)
 
 # PlayCanvas
 

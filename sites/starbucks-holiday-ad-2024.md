@@ -15,7 +15,7 @@ status: active
 note: Historical campaign from 2024; seasonal product details and store presentation may no longer be current.
 related: [mccafe-visual-identity, the-brand-identity]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [color](../topics/color.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [motion](../topics/motion.md), [color](../topics/color.md)
 
 # Starbucks Holiday Ad (2024)
 

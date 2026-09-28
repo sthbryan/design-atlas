@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [orbkit, shadcn-ui, libraries-dev-orbs, canvas-ui]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [components](../topics/components.md), [ai-interfaces](../topics/ai-interfaces.md)
 
 # shadercn
 

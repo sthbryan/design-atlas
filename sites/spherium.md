@@ -14,7 +14,7 @@ reviewed: 2026-09-26
 status: active
 related: [dot-matrix, threejs, poly-haven]
 ---
-[← Atlas](../README.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [data-viz](../topics/data-viz.md), [assets](../topics/assets.md)
+[← Atlas](../site/home.md) · Topics: [3d-and-shaders](../topics/3d-and-shaders.md), [data-viz](../topics/data-viz.md), [assets](../topics/assets.md)
 
 # Spherium
 

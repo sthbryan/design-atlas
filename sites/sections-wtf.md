@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [supahero, cta-gallery, footer-design, navbar-gallery, 404s, curated-design]
 ---
-[← Atlas](../README.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [cta](../topics/cta.md), [footers](../topics/footers.md)
+[← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [cta](../topics/cta.md), [footers](../topics/footers.md)
 
 # Sections.wtf
 
