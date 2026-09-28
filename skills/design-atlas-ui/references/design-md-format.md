@@ -169,7 +169,7 @@ components:
 - Density: <control heights, row heights>
 
 ## Elevation and depth
-- Strategy: <rings | borders | soft shadows>
+- Strategy: <rings | borders | soft shadows | hard offset shadows>
 - Light: <values>. Dark: <values>.
 
 ## Shapes
