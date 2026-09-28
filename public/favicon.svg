@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .paper { fill: #F6FAF8; }
+    .ink { stroke: #18231E; }
+    .edge { stroke: #D7DFDB; }
+    @media (prefers-color-scheme: dark) {
+      .paper { fill: #121815; }
+      .ink { stroke: #E5EDE9; }
+      .edge { stroke: #313935; }
+    }
+  </style>
+  <rect class="paper edge" x="1" y="1" width="62" height="62" rx="10" stroke-width="2"/>
+  <path class="ink" d="M13 19h38M13 32h38M13 45h38" fill="none" stroke-width="3" stroke-linecap="round"/>
+  <circle class="paper" cx="38" cy="32" r="7"/>
+  <circle cx="38" cy="32" r="5" fill="#974E0C"/>
+</svg>

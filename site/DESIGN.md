@@ -183,6 +183,7 @@ The identity of the Design Atlas website, a VitePress theme in `site/.vitepress/
 - Audience and job: designers, developers and coding agents picking a reviewed reference and checking its licence and agent channels first, on desktop or phone, in either theme.
 - Subject world: the back of a printed atlas: gazetteer, legend, survey date, contour brown and water blue.
 - Signature element: the gazetteer row. Name and description, then four slots in a fixed order: verdict, licence class, agent channels, reviewed date. A header labels the columns when they fit; a legend explains the licence badges.
+- Share identity: the original gazetteer mark is a light/dark SVG favicon; the 1200 × 630 PNG social card uses the same ink, paper, sienna, rule and Montagu Slab without images from reviewed sites.
 - Will not: screenshot card grids, a gradient hero, a purple accent, colour-only licence signals, animated lists.
 
 ## Colors
@@ -229,7 +230,7 @@ Neutrals lean to hue 165 at chroma 0.004 to 0.018 (C3); the accent is sienna at 
 
 - Scale: 4 to 48px (L1); gaps between groups at least twice the gaps inside one.
 - Frame: VitePress nav, sidebar and content. Prose at `max-width: 68ch` (T5); rows and legends span the content width.
-- Home: a short introduction, two paths separated by rules, task-based topic links, and installation commands for Codex and Claude Code; the README has its own `/readme` route. Topics index: cards in `repeat(auto-fill, minmax(16rem, 1fr))`. Site index: labelled search field, live count, legend and rows, with 50 initially shown and more revealed on demand. Hubs: "All sources" as rows, no table of contents. Site pages: the seven sections beside a 280px facts rail.
+- Home: a short introduction, two paths separated by rules, task-based topic links, and installation commands for compatible agents and Claude Code; the README has its own `/readme` route. Topics index: cards in `repeat(auto-fill, minmax(16rem, 1fr))`. Site index: labelled search field, live count, legend and rows, with 50 initially shown and more revealed on demand. Hubs: "All sources" as rows, no table of contents. Site pages: the seven sections beside a 280px facts rail.
 - Density: rows at least 48px with 12px padding; buttons 32px, 44px on coarse pointers (L2); search field 40px.
 
 ## Elevation and depth

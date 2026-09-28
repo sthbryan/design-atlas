@@ -34,20 +34,20 @@ aside: false
 
 Design Atlas includes two skills: `design-atlas` finds references and `design-atlas-ui` turns them into a design direction and working interface.
 
-For Codex, install both in your current project:
+Install both with `npx skills` for any [supported coding agent](https://github.com/vercel-labs/skills):
 
 ```sh
-npx skills add sthbryan/design-atlas --agent codex
+npx skills add sthbryan/design-atlas
 ```
 
-For Claude Code, add the marketplace and install the plugin:
+Use `--agent codex` to target Codex, or `--skill design-atlas` to install only the reference skill. Claude Code can also use its plugin marketplace:
 
 ```text
 /plugin marketplace add sthbryan/design-atlas
 /plugin install design-atlas@design-atlas
 ```
 
-For another supported agent, run `npx skills add sthbryan/design-atlas` and choose the agent. Add `--skill design-atlas` or `--skill design-atlas-ui` to install only one. [Read how the skills work](../README.md#skills).
+[Read how the skills work](../README.md#agent-skills).
 
 ## Use a reference well
 

@@ -6,6 +6,14 @@ import { GITHUB, ROUTES, atlasMarkdown, loadTopics, srcExclude } from './atlas.j
 
 const require = createRequire(import.meta.url);
 const topics = loadTopics();
+const SITE_URL = 'https://atlas.justcallmebryan.com/';
+const SOCIAL_IMAGE = new URL('og.png', SITE_URL).href;
+
+function publicUrl(relativePath) {
+  const path = ROUTES[relativePath] ?? relativePath;
+  const route = path.replace(/(^|\/)index\.md$/, '$1').replace(/\.md$/, '');
+  return new URL(route, SITE_URL).href;
+}
 
 export default defineConfig({
   lang: 'en',
@@ -15,8 +23,33 @@ export default defineConfig({
   srcExclude: srcExclude(),
   rewrites: ROUTES,
   cleanUrls: true,
+  sitemap: { hostname: SITE_URL },
   appearance: 'force-auto',
   lastUpdated: false,
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['meta', { name: 'theme-color', content: '#F6FAF8', media: '(prefers-color-scheme: light)' }],
+    ['meta', { name: 'theme-color', content: '#121815', media: '(prefers-color-scheme: dark)' }],
+    ['meta', { property: 'og:site_name', content: 'Design Atlas' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:image', content: SOCIAL_IMAGE }],
+    ['meta', { property: 'og:image:alt', content: 'Design Atlas: reviewed references for websites and UI' }],
+    ['meta', { property: 'og:image:width', content: '1200' }],
+    ['meta', { property: 'og:image:height', content: '630' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+  ],
+  transformHead({ pageData, title, description }) {
+    const url = publicUrl(pageData.relativePath);
+    return [
+      ['link', { rel: 'canonical', href: url }],
+      ['meta', { property: 'og:url', content: url }],
+      ['meta', { property: 'og:title', content: title }],
+      ['meta', { property: 'og:description', content: description }],
+      ['meta', { name: 'twitter:title', content: title }],
+      ['meta', { name: 'twitter:description', content: description }],
+      ['meta', { name: 'twitter:image', content: SOCIAL_IMAGE }],
+    ];
+  },
   markdown: {
     externalLinks: { target: '_self', rel: 'noreferrer' },
     config: atlasMarkdown,
