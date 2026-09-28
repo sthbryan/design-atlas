@@ -21,6 +21,8 @@ const EM = /^-?\d+(\.\d+)?em$/;
 const TOKEN = /^[a-z0-9][a-z0-9-]*$/;
 const REF = /^\{([a-z]+)\.([a-z0-9][a-z0-9-]*)\}$/;
 const PAIR = /^(text|large|ui) on ([a-z0-9][a-z0-9-]*) (\d+\.\d{2}):1((?: \/ \d+\.\d{2}:1)*)$/;
+const COMPOSITE = /^Composite of ([a-z0-9][a-z0-9-]*) at (\d+(?:\.\d+)?%(?: \/ \d+(?:\.\d+)?%)*) over ((?:black|white)(?: \/ (?:black|white))*)(?![\w-])/;
+const BACKDROPS = { black: '#000000', white: '#FFFFFF' };
 
 const channel = (v) => (v <= 0.04045 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4);
 const linear = (hex) => [1, 3, 5].map((i) => channel(parseInt(hex.slice(i, i + 2), 16) / 255));
@@ -33,6 +35,11 @@ export function luminance(hex) {
 export function contrast(a, b) {
   const [hi, lo] = [luminance(a), luminance(b)].sort((x, y) => y - x);
   return (hi + 0.05) / (lo + 0.05);
+}
+
+export function composite(tint, alpha, backdrop) {
+  const mix = [1, 3, 5].map((i) => Math.round(alpha * parseInt(tint.slice(i, i + 2), 16) + (1 - alpha) * parseInt(backdrop.slice(i, i + 2), 16)));
+  return `#${mix.map((v) => v.toString(16).padStart(2, '0')).join('').toUpperCase()}`;
 }
 
 export function oklch(hex) {
@@ -200,7 +207,9 @@ function checkFrontMatter(data, err) {
     for (const name of Object.keys(value)) if (!TOKEN.test(name)) err(`${key}.${name}: token names use lowercase letters, digits and hyphens`);
   }
   for (const [name, value] of Object.entries(groups.colors ?? {})) {
-    if (typeof value !== 'string' || !HEX.test(value)) err(`colors.${name}: "${value}" is not a #RRGGBB hex string`);
+    if (value === null) err(`colors.${name} has no value; write it as a quoted "#RRGGBB" string, because an unquoted # starts a YAML comment`);
+    else if (typeof value === 'string' && /^(#[0-9A-Fa-f]{8}|#[0-9A-Fa-f]{4})$|^(rgba?|hsla?|oklch)\(/.test(value)) err(`colors.${name}: "${value}" is not a #RRGGBB hex string; for a translucent colour, record the opaque tint here and add composite rows to the Colors table`);
+    else if (typeof value !== 'string' || !HEX.test(value)) err(`colors.${name}: "${value}" is not a #RRGGBB hex string`);
   }
   for (const [name, role] of Object.entries(groups.typography ?? {})) {
     if (!role || typeof role !== 'object' || Array.isArray(role)) {
@@ -266,11 +275,15 @@ function checkColors(body, groups, err) {
     return null;
   }
   const themes = header.slice(1, oklchAt);
+  const jobAt = header.indexOf('Job');
   const values = {};
+  const composites = {};
   for (const row of rows) {
     const token = row[0];
-    if (!colors[token]) {
-      err(`Colors table row "${token}" is not a front-matter colour`);
+    const mix = (row[jobAt] ?? '').match(COMPOSITE);
+    if (mix && colors[token]) err(`Colors table ${token}: a composite row is measured, never painted; remove "${token}" from the front matter`);
+    if (!mix && !colors[token]) {
+      err(`Colors table row "${token}" is not a front-matter colour (a composite row's Job starts with "Composite of <tint> at <alpha>% over <black|white>")`);
       continue;
     }
     if (values[token]) err(`Colors table lists "${token}" twice`);
@@ -279,7 +292,10 @@ function checkColors(body, groups, err) {
       if (!HEX.test(hex)) err(`Colors table ${token} ${theme}: "${hex}" is not a #RRGGBB hex value`);
       return hex.toUpperCase();
     });
-    if (HEX.test(values[token][0]) && values[token][0] !== colors[token].toUpperCase()) err(`Colors table ${token} ${themes[0]} is ${values[token][0]}, but the front matter says ${colors[token]}`);
+    if (mix) {
+      composites[token] = { tint: mix[1], alphas: mix[2].split(' / ').map((a) => Number(a.slice(0, -1))), backdrops: mix[3].split(' / ') };
+      if (row[pairsAt]) err(`Colors table ${token}: a composite row is a background; leave its Pairs cell empty and declare pairs on the foreground rows`);
+    } else if (HEX.test(values[token][0]) && values[token][0] !== colors[token].toUpperCase()) err(`Colors table ${token} ${themes[0]} is ${values[token][0]}, but the front matter says ${colors[token]}`);
     const source = parseOklch(row[oklchAt] ?? '');
     if (!source) err(`Colors table ${token}: OKLCH "${row[oklchAt] ?? ''}" must be "L C H" or oklch(L C H)`);
     else if (HEX.test(values[token][0])) {
@@ -291,6 +307,35 @@ function checkColors(body, groups, err) {
     }
   }
   for (const token of Object.keys(colors)) if (!values[token]) err(`colour "${token}" has no row in the Colors table`);
+  for (const [token, mix] of Object.entries(composites)) {
+    const perTheme = (list, what) => {
+      if (list.length === 1) return themes.map(() => list[0]);
+      if (list.length === themes.length) return list;
+      err(`Colors table ${token}: give one ${what} for all themes or one per theme (${themes.join(', ')})`);
+      return null;
+    };
+    const alphas = perTheme(mix.alphas, 'alpha');
+    const backdrops = perTheme(mix.backdrops, 'backdrop');
+    if (!values[mix.tint] || composites[mix.tint]) {
+      err(`Colors table ${token}: composite tint "${mix.tint}" is not a colour row`);
+      delete composites[token];
+      continue;
+    }
+    if (!alphas || !backdrops || alphas.some((a) => !(a > 0 && a < 100))) {
+      if (alphas?.some((a) => !(a > 0 && a < 100))) err(`Colors table ${token}: alpha must be between 0% and 100%`);
+      delete composites[token];
+      continue;
+    }
+    mix.opposite = themes.map((theme, i) => {
+      const tint = values[mix.tint][i];
+      const cell = values[token][i];
+      if (!HEX.test(tint) || !HEX.test(cell)) return null;
+      const expected = composite(tint, alphas[i] / 100, BACKDROPS[backdrops[i]]);
+      const off = [1, 3, 5].some((c) => Math.abs(parseInt(expected.slice(c, c + 2), 16) - parseInt(cell.slice(c, c + 2), 16)) > 1);
+      if (off) err(`Colors table ${token} ${theme}: ${mix.tint} at ${alphas[i]}% over ${backdrops[i]} composites to ${expected}, not ${cell}`);
+      return { name: backdrops[i] === 'black' ? 'white' : 'black', hex: composite(tint, alphas[i] / 100, BACKDROPS[backdrops[i] === 'black' ? 'white' : 'black']), backdrop: backdrops[i] };
+    });
+  }
   for (const row of rows) {
     const token = row[0];
     const cell = row[pairsAt] ?? '';
@@ -317,6 +362,12 @@ function checkColors(body, groups, err) {
         const actual = contrast(fg, bg);
         if (Math.abs(actual - declared[i]) > 0.01) err(`Colors table ${token} on ${other} (${theme}): declared ${declared[i].toFixed(2)}:1, computed ${actual.toFixed(2)}:1`);
         if (actual < THRESHOLDS[kind]) err(`Colors table ${token} on ${other} (${theme}): ${actual.toFixed(2)}:1 is below ${THRESHOLDS[kind]}:1 for ${kind}`);
+        const opposite = composites[other]?.opposite?.[i];
+        if (!opposite) return;
+        const alt = contrast(fg, opposite.hex);
+        if (alt < actual - 0.005) err(`Colors table ${token} on ${other} (${theme}): over ${opposite.name} the ratio is ${alt.toFixed(2)}:1, lower than over ${opposite.backdrop}; the composite row must use the worse backdrop`);
+        const [lo, hi] = [luminance(bg), luminance(opposite.hex)].sort((a, b) => a - b);
+        if (luminance(fg) >= lo && luminance(fg) <= hi) err(`Colors table ${token} on ${other} (${theme}): ${token} lies between the composites over black and over white, so some backdrop matches it; raise the ${composites[other].tint} alpha or change ${token}`);
       });
     }
   }

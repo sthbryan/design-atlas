@@ -6,7 +6,7 @@ import { dirname, join, resolve } from 'node:path';
 import { test } from 'node:test';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'yaml';
-import { SECTIONS, contrast, oklch, parseFrontMatter, parseMotionTokens, validateDesignMd } from './design-md.mjs';
+import { SECTIONS, composite, contrast, oklch, parseFrontMatter, parseMotionTokens, validateDesignMd } from './design-md.mjs';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const UI_REFS = join(ROOT, 'skills/design-atlas-ui/references');
@@ -253,4 +253,63 @@ test('the copy shipped with design-atlas-ui runs from the skill folder alone', (
   const res = spawnSync(process.execPath, [join(dir, 'scripts/validate-design-md.mjs')], { encoding: 'utf8', cwd: dir });
   assert.equal(res.status, 0, res.stderr);
   assert.equal(JSON.parse(res.stdout).motion_tokens, join('references', 'resolved-conflicts.md'));
+});
+
+test('a quoted family followed by more of the stack gets a quoting hint', () => {
+  const src = fixture({ front: FRONT.replace('fontFamily: Nacelle, system-ui, sans-serif', 'fontFamily: "Azeret Mono", ui-monospace, monospace') });
+  has(check(src), /line 13 \(typography\.body\.fontFamily\): text follows the closing quote.*quote the whole value as one string/);
+  const quoted = fixture({ front: FRONT.replace('fontFamily: Nacelle, system-ui, sans-serif', 'fontFamily: "\'Azeret Mono\', ui-monospace, monospace"') });
+  assert.deepEqual(check(quoted), []);
+});
+
+test('colour values get hints for comments and alpha', () => {
+  has(check(fixture({ front: FRONT.replace('bg: "#F6F7F4"', 'bg: #F6F7F4') })), /colors\.bg has no value; write it as a quoted "#RRGGBB"/);
+  has(check(fixture({ front: FRONT.replace('bg: "#F6F7F4"', 'bg: "#F6F7F4B8"') })), /colors\.bg: .* for a translucent colour, record the opaque tint/);
+});
+
+function glassRow({ token = 'bg-worst', alpha = '72%', over = 'black / white', light, dark, pairs = '' } = {}) {
+  const [a] = alpha.split(' / ').map((v) => Number(v.slice(0, -1)) / 100);
+  const [first, second = first] = over.split(' / ');
+  const backdrop = { black: '#000000', white: '#FFFFFF' };
+  const lightHex = light ?? composite('#F6F7F4', a, backdrop[first]);
+  const darkHex = dark ?? composite('#1A1C19', a, backdrop[second]);
+  const [L, C, H] = oklch(lightHex);
+  return `| ${token} | ${lightHex} | ${darkHex} | ${L.toFixed(3)} ${C.toFixed(3)} ${H.toFixed(0)} | Composite of bg at ${alpha} over ${over}. Worst case under the glass bar | ${pairs} |`;
+}
+
+function withGlass(textPair, row = glassRow()) {
+  return `${COLORS.replace('text on bg 14.67:1 / 14.69:1', `text on bg 14.67:1 / 14.69:1; ${textPair}`)}\n${row}`;
+}
+
+test('composite rows declare the worst case under a translucent surface', () => {
+  const pair = (fg, bg) => contrast(fg, bg).toFixed(2);
+  const worstLight = composite('#F6F7F4', 0.72, '#000000');
+  const worstDark = composite('#1A1C19', 0.72, '#FFFFFF');
+  const good = `text on bg-worst ${pair('#1F2420', worstLight)}:1 / ${pair('#ECEEEA', worstDark)}:1`;
+  assert.deepEqual(check(fixture({ colors: withGlass(good) })), []);
+  has(check(fixture({ colors: withGlass(good, glassRow({ light: '#A0A0A0' })) })), /bg-worst Light: bg at 72% over black composites to #B1B2B0, not #A0A0A0/);
+  const wrongSide = glassRow({ over: 'white / black' });
+  const wrongPair = `text on bg-worst ${pair('#1F2420', composite('#F6F7F4', 0.72, '#FFFFFF'))}:1 / ${pair('#ECEEEA', composite('#1A1C19', 0.72, '#000000'))}:1`;
+  has(check(fixture({ colors: withGlass(wrongPair, wrongSide) })), /over black the ratio is .* lower than over white; the composite row must use the worse backdrop/);
+  has(check(fixture({ colors: withGlass(good, glassRow({ pairs: 'text on bg 2.00:1 / 2.00:1' })) })), /composite row is a background; leave its Pairs cell empty/);
+  has(check(fixture({ colors: withGlass(good, glassRow({ token: 'on-accent' })) })), /a composite row is measured, never painted; remove "on-accent" from the front matter/);
+  has(check(fixture({ colors: withGlass(good, glassRow({ alpha: '72% / 60% / 50%' })) })), /one alpha for all themes or one per theme/);
+});
+
+test('a foreground between the two composites fails, since some backdrop matches it', () => {
+  const faint = glassRow({ alpha: '4%' });
+  const worstLight = composite('#F6F7F4', 0.04, '#000000');
+  const worstDark = composite('#1A1C19', 0.04, '#FFFFFF');
+  const control = `ui on bg-worst ${contrast('#7A807A', worstLight).toFixed(2)}:1 / ${contrast('#737973', worstDark).toFixed(2)}:1`;
+  const colors = `${COLORS.replace('ui on bg 3.76:1 / 3.85:1', `ui on bg 3.76:1 / 3.85:1; ${control}`)}\n${faint}`;
+  has(check(fixture({ colors })), /control on bg-worst \(Light\): control lies between the composites over black and over white/);
+});
+
+test('the translucent-surface example in the format spec is valid', () => {
+  const spec = readFileSync(join(UI_REFS, 'design-md-format.md'), 'utf8');
+  const table = spec.split('### Translucent surfaces')[1].match(/```markdown\n([\s\S]*?)\n```\n/)[1];
+  const rows = Object.fromEntries([...table.matchAll(/^\| ([a-z-]+) \| (#[0-9A-F]{6}) \|/gm)].map((m) => [m[1], m[2]]));
+  const front = `---\nversion: alpha\nname: Glass\ndescription: Spec example.\ncolors:\n  ink: "${rows.ink}"\n  glass: "${rows.glass}"\ntypography:\n  body:\n    fontFamily: system-ui\n    fontSize: 16px\n    fontWeight: 400\n    lineHeight: 1.5\n    letterSpacing: 0em\nrounded:\n  sm: 4px\nspacing:\n  sm: 8px\ncomponents:\n  panel:\n    backgroundColor: "{colors.glass}"\n---\n`;
+  const src = fixture({ front, colors: table }).replaceAll('using {colors.accent}', 'using {colors.ink}');
+  assert.deepEqual(check(src), []);
 });

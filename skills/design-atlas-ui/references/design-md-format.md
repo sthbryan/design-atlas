@@ -50,9 +50,11 @@ The Design Atlas repository runs the same checks on its own DESIGN.md files with
 | `version` | The string `alpha` until the spec publishes another version |
 | `name`, `description` | One-line strings |
 | `colors.<token>` | A `"#RRGGBB"` string, six hex digits, no alpha |
-| `typography.<role>` | A map with exactly `fontFamily` (string, a stack is allowed), `fontSize` (px), `fontWeight` (integer 100–1000), `lineHeight` (unitless number) and `letterSpacing` (em) |
+| `typography.<role>` | A map with exactly `fontFamily` (one string, see below), `fontSize` (px), `fontWeight` (integer 100–1000), `lineHeight` (unitless number) and `letterSpacing` (em) |
 | `rounded.<step>`, `spacing.<step>` | A px value such as `8px` |
 | `components.<name>` | A map using only `backgroundColor` and `textColor` (`{colors.*}`), `typography` (`{typography.*}`), `rounded` (`{rounded.*}`), and `padding`, `size`, `height` and `width` (px values or `{spacing.*}`) |
+
+Write a font stack as one YAML string. A family name in quotes followed by the rest of the stack, as in `fontFamily: "Azeret Mono", ui-monospace, monospace`, is invalid YAML and breaks every parser. Either leave the whole stack unquoted (`fontFamily: Azeret Mono, ui-monospace, monospace`), or wrap all of it in double quotes and put single quotes inside: `fontFamily: "'Azeret Mono', ui-monospace, monospace"`. Quote hex colours for a similar reason: an unquoted `#` starts a YAML comment, so `ink: #11212C` has no value.
 
 Token, role and component names use lowercase letters, digits and hyphens. States and variants are separate components named with a suffix, such as `link-hover` or `chip-selected`.
 
@@ -68,6 +70,25 @@ The Colors table is the one place that holds every theme, so it is also where co
 - Ratios are computed with the WCAG formula in `references/color.md` and written with two decimals. A declared ratio that differs from the computed one by more than 0.01 is wrong, and so is any pair below its floor in any theme.
 - Every component with both `textColor` and `backgroundColor` is a pair too. It must reach 4.5:1 in every theme column, or 3:1 when its `typography` role is large text (T3).
 - Background tokens, such as `bg` and `surface`, leave the Pairs cell empty.
+
+### Translucent surfaces
+
+Front-matter colours are opaque, so a translucent surface such as a frosted panel, a scrim or a veil over a photo is recorded in two parts:
+
+1. The tint is an ordinary token holding the colour at full strength, such as `glass: "#F4F6F8"`. The alpha lives in the code token (`color-mix(in srgb, var(--color-glass) 72%, transparent)`) and in the composite row below, never in the hex.
+2. A composite row holds the worst case the text on that surface can meet. It is a Colors table row that is not in the front matter, with its Job cell starting `Composite of <tint> at <alpha>% over <black|white>`. Give one alpha or backdrop per theme, separated by ` / `, when they differ between themes. Each theme cell is the tint composited over the backdrop: for every sRGB channel, `alpha × tint + (1 − alpha) × backdrop`, rounded.
+
+Use black as the backdrop under a light tint with dark text, and white under a dark tint with light text. Any photo, video or blurred content lies between the two, so the composite over the worse one is the lowest contrast the text can get. Declare the text's pairs against the composite row, never against the tint. A composite row leaves its own Pairs cell empty, and components never reference it.
+
+```markdown
+| Token | Light | Dark | OKLCH (light) | Job | Pairs (measured) |
+|---|---|---|---|---|---|
+| ink | #1B2430 | #EEF1F4 | 0.257 0.026 256 | Body text | text on glass-worst 7.29:1 / 5.52:1 |
+| glass | #F4F6F8 | #1C232B | 0.972 0.003 248 | Frosted panel tint | |
+| glass-worst | #B0B1B3 | #5C6166 | 0.760 0.003 265 | Composite of glass at 72% over black / white | |
+```
+
+The validator recomputes each composite, checks that the row uses the worse backdrop for every pair declared on it, and fails a foreground whose luminance falls between the composites over black and over white, since some backdrop would then match it exactly.
 
 ## Sections
 
@@ -104,7 +125,7 @@ colors:
   <token>: "<#RRGGBB>"
 typography:
   <role>:
-    fontFamily: <family>
+    fontFamily: "<'Family Name'>, <fallback>, <generic>"
     fontSize: <px>
     fontWeight: <number>
     lineHeight: <unitless>
@@ -220,19 +241,19 @@ colors:
   tide: "#287AA3"
 typography:
   heading-1:
-    fontFamily: Atkinson Hyperlegible Next
+    fontFamily: "'Atkinson Hyperlegible Next', system-ui, sans-serif"
     fontSize: 28px
     fontWeight: 700
     lineHeight: 1.2
     letterSpacing: 0em
   body:
-    fontFamily: Atkinson Hyperlegible Next
+    fontFamily: "'Atkinson Hyperlegible Next', system-ui, sans-serif"
     fontSize: 16px
     fontWeight: 400
     lineHeight: 1.5
     letterSpacing: 0em
   data:
-    fontFamily: Atkinson Hyperlegible Mono
+    fontFamily: "'Atkinson Hyperlegible Mono', ui-monospace, monospace"
     fontSize: 16px
     fontWeight: 500
     lineHeight: 1.3
