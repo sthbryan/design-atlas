@@ -38,7 +38,7 @@ Copy this checklist into your notes and tick it as you go.
 ```text
 - [ ] 1. Project context read and recorded
 - [ ] 2. Live examples inspected and direction chosen
-- [ ] 3. DESIGN.md written or updated
+- [ ] 3. DESIGN.md written or updated, and the validator passes
 - [ ] 4. Anti-default check passed
 - [ ] 5. Built with tokens only
 - [ ] 6. Verified with evidence
@@ -84,14 +84,17 @@ When row P1 of [references/resolved-conflicts.md](references/resolved-conflicts.
 
 ### 4. Run the anti-default check
 
-Before code, answer in writing: would a generic prompt for this surface produce the same plan?
+Before code, answer in writing: would a generic prompt for this surface produce the same plan? Never skip the check because the brief names a style. A named style has a stock version too, and that stock version is the default to beat.
 
-1. Write the default plan in three lines, starting from the fingerprints in [references/direction.md](references/direction.md).
+1. Write the default plan in three lines. When the brief names a style (brutalist, glass, Y2K, pixel, luxury and so on), start from that style's stock version in the Named styles table of [references/direction.md](references/direction.md). Otherwise start from the surface fingerprints in the same file.
 2. Compare your plan with it on six axes: page structure, type, palette, signature element, imagery and motion.
-3. If three or more axes match, revise and state what changed. A match the brief asked for does not count.
+3. If three or more axes match, revise and state what changed. The traits the brief itself asked for do not count as matches, but every other trait of the stock version does.
 4. Confirm the plan has at least one element that could only belong to this product.
+5. Update DESIGN.md with any revision and run the validator again.
 
 ### 5. Build with tokens, not values
+
+Stop if DESIGN.md is not on disk yet. Write it first (step 3), then create or update the project's token file from it, and only then write components. Never write tokens or components first and DESIGN.md afterwards.
 
 - Read [references/resolved-conflicts.md](references/resolved-conflicts.md) before writing any motion, type, colour, spacing or target-size value.
 - Then read only the file for what you are touching:

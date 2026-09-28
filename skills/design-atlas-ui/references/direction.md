@@ -127,13 +127,23 @@ These are the plans an agent produces with no context. Use them in step 4 of the
 | AI product | Dark background, a purple-to-blue gradient, sparkle icons, a glowing orb and a chat box in the hero. |
 | Component | The same radius on every element, the same soft grey shadow, a lift on hover and an icon in a tinted square. |
 
-Departures can be defaults too. These three families are what an agent reaches for once it is told to avoid the list above:
+### Named styles
 
-- Editorial: cream paper, a high-contrast serif, hairline rules and small monospace labels.
-- Terminal: near-black, one neon accent, monospace everywhere and visible grid lines.
-- Swiss poster: uppercase grotesque, a heavy grid and a single red accent.
+When the brief names a style, compare the plan against that style's stock version below instead of the surface row. The traits the brief asked for are fixed and do not count as matches. The rest of the stock look does, and that rest is where the product's own subject world should show.
 
-A plan that lands in one of these families needs a reason from the subject world, not from the wish to look different.
+| Style | Stock version |
+|---|---|
+| Brutalist | Thick black borders on every box, a yellow or lime accent, hard offset shadows on cards and buttons, all-caps headings and a rotated sticker. |
+| Glass | A purple-to-blue gradient or blurred colour blobs behind frosted white cards, white hairline edges, heavy blur on every layer and white text whose contrast nobody measured. |
+| Y2K or acid | Chrome gradient text on every heading, magenta and cyan glow on black, warped type, stars and sparkles, and a scrolling marquee. |
+| Kids | A primary-colour rainbow, emoji as icons, a bubbly rounded display face, confetti on every success and bounce on everything. |
+| Luxury | Cream or black ground, a high-contrast serif set in widely tracked capitals, gold hairlines and tiny letter-spaced labels. |
+| Pixel or 8-bit | One pixel font on every string, CRT scanlines and glow over the whole page, saturated primaries and a blinking cursor. |
+| Editorial | Cream paper, a high-contrast serif, hairline rules and small monospace labels. |
+| Terminal | Near-black, one neon accent, monospace everywhere and visible grid lines. |
+| Swiss poster | Uppercase grotesque, a heavy grid and a single red accent. |
+
+Departures can be defaults too. Editorial, terminal and Swiss poster are what an agent reaches for once it is told to avoid the surface list above. A plan that lands in one of them without the brief naming it needs a reason from the subject world, not from the wish to look different.
 
 ## Direction record
 
