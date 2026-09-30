@@ -28,7 +28,7 @@ See [AGENTS.md](AGENTS.md) for the full reading workflow and [CONTRIBUTING.md](C
 
 The [`skills/`](skills/) directory contains two installable skills in the open Agent Skills format:
 
-- [`design-atlas`](skills/design-atlas/SKILL.md) finds reviewed sources and prepares reference briefs with licensing caveats.
+- [`design-atlas`](skills/design-atlas/SKILL.md) finds reviewed sources and prepares reference briefs with licensing caveats. It can study a source's own interface, use its search or filters to discover more examples, and compare directions before choosing one.
 - [`design-atlas-ui`](skills/design-atlas-ui/SKILL.md) uses live examples to guide, build or review a UI and check it with rendered evidence.
 
 Install both with the [skills CLI](https://github.com/vercel-labs/skills) for any compatible agent. The CLI detects available agents; add `--agent <name>` to choose a target, or `--skill <name>` to install one skill:

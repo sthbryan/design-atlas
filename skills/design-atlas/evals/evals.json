@@ -190,6 +190,33 @@
         "The brief turns the observations into a direction for the print magazine rather than summarising the examples' content",
         "Any inaccessible page, unavailable browser or missing visual capture is explicitly marked uninspected or not verified; no screenshot or visual observation is fabricated"
       ]
+    },
+    {
+      "id": 16,
+      "prompt": "I am designing a searchable inspiration directory. Use Atlas galleries both to study their own search and filtering UI and to find examples of editorial layouts. Show a few different directions before we settle on one.",
+      "expected_output": "A brief distinguishes each source’s own interface from the examples discovered through it, provides useful search or filter routes, and offers distinct directions with a recommendation and tradeoffs.",
+      "files": [],
+      "expectations": [
+        "Sources are labelled direct reference, discovery source or both according to their use in this task",
+        "Observations of a gallery’s own UI are attributed to its URL, separately from inspected featured examples",
+        "At least one discovery source includes a useful search term, filter or category route",
+        "Two or three distinct directions include references, reasons for fit and practical tradeoffs",
+        "A short preference question is asked if the choice would materially change the design, without blocking independent research",
+        "Visual observations are supported by browser inspection or labelled not visually verified"
+      ]
+    },
+    {
+      "id": 17,
+      "prompt": "Find references for a calm editorial portfolio. I already chose that direction, so pick the best fit and proceed. Some sites show an empty shell for a second before rendering.",
+      "expected_output": "Proceeds with the specified direction without forcing a selection question. Allows rendering time and rechecks incomplete pages before treating them as inaccessible.",
+      "files": [],
+      "expectations": [
+        "The answer respects the chosen calm editorial direction and does not force a preference question",
+        "The transcript allows at least one second after navigation before evaluating the page",
+        "Any initially incomplete page is checked again for visible readiness before being labelled inaccessible",
+        "Every claimed visual observation is based on a rendered page inspection",
+        "The brief provides source roles and exact inspected URLs"
+      ]
     }
   ]
 }

@@ -23,6 +23,9 @@ Atlas: <local clone at PATH | raw GitHub, main | bundled snapshot, latest review
 ## Reusable ideas
 - <idea in your own words> (<site title>)
 
+## Direction options
+<two or three distinct options with reference, fit and tradeoff when the direction is open; recommendation and user choice or stated assumption; otherwise none: direction already specified>
+
 ## Live examples
 | Example URL | Observed design move | Adaptation for this project | Visual evidence |
 |---|---|---|---|
@@ -43,12 +46,13 @@ Atlas: <local clone at PATH | raw GitHub, main | bundled snapshot, latest review
 
 Rules for the cells:
 
-- **Take** says what to use the reference for in this task, not what the site is.
+- **Take** says what to use the reference for in this task, with its role: direct reference, discovery source, or both. For discovery, include a useful search term, filter or category URL.
 - **Licence** follows the wording in `licence-guide.md`.
 - **Agent** lists the index's channels. Give each channel its gate as the page states it: an API key, an account, a paid plan, or free with no account. Write "gate not checked" when the page was not read, and "none" for an empty list.
 - **Reviewed** comes from the index, never from today's date.
 - **Reusable ideas** come from the pages' "Reusable ideas" and the hubs' "Patterns worth reusing", paraphrased, with three to six items.
-- **Live examples** are individual websites inspected for visual tasks, not just gallery homepages. Write `none: non-visual task` when choosing an asset or library by metadata alone. A gallery screenshot is labelled as a gallery preview, not a live-site inspection.
+- **Live examples** identify exactly whose interface was inspected. A gallery or search tool's own UI can be a direct reference; label it as such. For discovery, link and inspect the individual examples it leads to. A gallery thumbnail is a preview, not an inspection of the featured live site. Write `none: non-visual task` when choosing an asset or library by metadata alone.
+- **Direction options** compare design decisions, not just names of sites. Skip a preference question when the user has already specified a direction or asked you to choose.
 
 ## Worked example
 
@@ -77,6 +81,9 @@ Assets ship in a commercial app; an MCP channel is preferred; no budget stated.
 - Set stroke, size and colour once in a provider instead of on every icon (Iconoir).
 - Have the agent search for an icon before fetching it by name, since names get renamed (icons0).
 - Keep 3D glyphs to medium sizes and marketing surfaces; they blur in dense UI (3dicons).
+
+## Direction options
+none: this task selects an icon package by constraints rather than exploring a visual direction.
 
 ## Live examples
 none: non-visual task.
