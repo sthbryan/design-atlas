@@ -38,6 +38,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [AURAI LAB](../sites/aurai.md) — Shanghai creative studio with a pearl-toned editorial homepage and a public CityWalk product demo.
 - [Awwwards](../sites/awwwards.md) — Paid-entry web design awards with jury-scored winners, interaction clips and studio credits; llms.txt plus a small awards API.
 - [Backgrounds Supply](../sites/backgrounds-supply.md) — Paid lifetime library of gradient, AI and animated hero backgrounds, plus a free Gradient Lab shader tool.
+- [BaseFrame](../sites/baseframe-design.md) — A product designer's portfolio with detailed operational-software case studies, useful for studying dense workflows across desktop and mobile.
 - [Baymard Ecommerce Design Examples](../sites/baymard-ecommerce-design-examples.md) — Ecommerce page gallery with desktop, mobile and app captures annotated with research-based UX findings.
 - [BentoGrids](../sites/bentogrids.md) — A visual catalogue of tile based layouts with category and theme filters and links to the live sites behind each example.
 - [Best SaaS Web Designs](../sites/best-saas-web-designs.md) — Free, no-login catalogue of about 390 SaaS sites, each with desktop, mobile and OG captures, per-section crops, detected stack and a colour palette.
@@ -65,6 +66,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Easy UI](../sites/easy-ui.md) — Free Next.js templates and about 20 shadcn-installable components; MIT but thinly maintained, with template demos offline at review.
 - [Eldora UI](../sites/eldora-ui.md) — MIT animated landing-page components, text effects, device mockups and blocks, installed via the @eldoraui shadcn namespace, with llms.txt.
 - [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
+- [Flit](../sites/flit.md) — A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.
 - [Float UI](../sites/float-ui.md) — About 200 free Tailwind sections in HTML, React, Vue and Svelte; custom no-redistribution licence despite the open-source label.
 - [Flowbase](../sites/flowbase.md) — Subscription library of 3,500+ Webflow, Figma and Framer sections, wireframes, icons and illustrations; use tied to the plan.
 - [Flowbite](../sites/flowbite.md) — Large MIT Tailwind library with data-attribute JS, React/Svelte/Vue ports, Figma kit, open-source MCP and paid Pro blocks.
@@ -99,6 +101,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Landing.Gallery](../sites/landing-gallery.md) — A landing page library with filters for page type, site builder and framework, plus desktop, mobile and OG image previews.
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section galleries with an MCP that returns screenshots, categories and source links to coding agents.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
+- [Lexington Motion — Atelier Reels](../sites/lexington-motion-atelier.md) — A paid Remotion template collection for fashion reels, with named motion concepts and a live catalogue for comparing visual treatments.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
 - [Locomotive](../sites/locomotive.md) — Montreal studio portfolio pairing an audiovisual hero with a filterable work archive and detailed project pages.
 - [Luma (AI)](../sites/luma-ai.md) — Creative AI product site with a dark, editorial hero, production-focused workflow examples and pricing for multimodal creative agents.

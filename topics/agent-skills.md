@@ -20,6 +20,7 @@ Skills are instruction files (a `SKILL.md`, often with references and scripts) t
 ## All sources
 
 <!-- atlas:sources:start -->
+- [A11Y.md](../sites/a11ymd.md) — Accessibility guidance for coding agents, presented as a concise visual guide with concrete interface examples and setup steps.
 - [AccessLint Skills](../sites/accesslint-skills.md) — Five WCAG-EM accessibility skills (scan, inspect, audit, fix, diff) that grade every finding by evidence.
 - [AI UX Playground](../sites/ai-ux-playground.md) — A practical AI-interface reference with named patterns, live interaction demos, product teardowns, and agent skills.
 - [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.

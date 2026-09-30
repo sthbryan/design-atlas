@@ -20,6 +20,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 ## All sources
 
 <!-- atlas:sources:start -->
+- [A11Y.md](../sites/a11ymd.md) — Accessibility guidance for coding agents, presented as a concise visual guide with concrete interface examples and setup steps.
 - [AccessLint Skills](../sites/accesslint-skills.md) — Five WCAG-EM accessibility skills (scan, inspect, audit, fix, diff) that grade every finding by evidence.
 - [AI UX Playground](../sites/ai-ux-playground.md) — A practical AI-interface reference with named patterns, live interaction demos, product teardowns, and agent skills.
 - [Angular Native](../sites/angular-native.md) — Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.
@@ -28,6 +29,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
 - [AURAI LAB](../sites/aurai.md) — Shanghai creative studio with a pearl-toned editorial homepage and a public CityWalk product demo.
 - [Auri (auri.ai)](../sites/auri.md) — Interactive demos of an AI keyboard, visual chat and notes show how assistant features can fit into everyday writing flows.
+- [BaseFrame](../sites/baseframe-design.md) — A product designer's portfolio with detailed operational-software case studies, useful for studying dense workflows across desktop and mobile.
 - [Baymard Ecommerce Design Examples](../sites/baymard-ecommerce-design-examples.md) — Ecommerce page gallery with desktop, mobile and app captures annotated with research-based UX findings.
 - [before.click](../sites/before-click.md) — 361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
@@ -45,6 +47,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [editorcn](../sites/editorcn.md) — Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
 - [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
 - [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
+- [Flit](../sites/flit.md) — A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
 - [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
 - [Google Arts & Culture](../sites/google-arts-and-culture.md) — Museum collections and interactive exhibits for studying editorial art storytelling, high-resolution viewing and playful cultural experiences.

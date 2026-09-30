@@ -35,6 +35,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Aditya Logs](../sites/adityalogs.md) — Monospace portfolio with inline emphasis, an activity sidebar and a compact, terminal-like visual language.
 - [AKU](../sites/aku.md) — Tallinn studio portfolio with spacious project listings, expressive typography and colorful visual identity case pages.
 - [Alpine Bio](../sites/alpine-bio.md) — Biotech brand landing page by Resn with ingredient macro imagery, oversized sans type and floating navigation.
+- [AlternativeTo](../sites/alternativeto-site.md) — A searchable software directory that helps designers discover comparable products, interfaces and further visual references.
 - [Amanita Design](../sites/amanita-design.md) — Game studio site with an illustrated rotating feature, a tiled game catalogue and media-rich individual game pages.
 - [Animesh Thakur](../sites/animesh-thakur.md) — A grid-based portfolio with offset display lettering, diagonal section dividers, project cards and a compact music player.
 - [Anjil](../sites/anjil-ink.md) — A restrained developer portfolio pairing a dithered travel photograph with a serif headline, concise biography and compact work timeline.
@@ -54,6 +55,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Awesome Design Systems](../sites/awesome-design-systems.md) — A tagged index of public design systems that helps you compare their components, voice guidance, designer kits and source links.
 - [Awwwards](../sites/awwwards.md) — Paid-entry web design awards with jury-scored winners, interaction clips and studio credits; llms.txt plus a small awards API.
 - [Banani](../sites/banani.md) — Public UI-screen references and an AI editor for turning prompts or screenshots into editable prototypes.
+- [BaseFrame](../sites/baseframe-design.md) — A product designer's portfolio with detailed operational-software case studies, useful for studying dense workflows across desktop and mobile.
 - [Baymard Ecommerce Design Examples](../sites/baymard-ecommerce-design-examples.md) — Ecommerce page gallery with desktop, mobile and app captures annotated with research-based UX findings.
 - [before.click](../sites/before-click.md) — 361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.
 - [Behance](../sites/behance.md) — Adobe's portfolio network of long-form case studies for branding, type and UI; blocks AI crawlers and scripted access.
@@ -129,6 +131,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Experimental Jetset](../sites/experimental-jetset.md) — Amsterdam graphic design studio archive with category filters, alphabetical and chronological sorting, and image-led project records.
 - [Eyecandy](../sites/eyecannndy.md) — Browse named visual techniques through short explanations and example clips, useful for motion and art-direction references.
 - [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
+- [Flit](../sites/flit.md) — A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.
 - [Flourish](../sites/flourish.md) — An interactive data storytelling editor and gallery of working charts, maps and stories to study or adapt.
 - [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
 - [Fonts In Use](../sites/fonts-in-use.md) — Archive of real typography across web, print, identity and packaging, searchable by typeface, format, topic and visual tag.
@@ -186,6 +189,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section galleries with an MCP that returns screenshots, categories and source links to coding agents.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Layers](../sites/layers.md) — Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.
+- [Lexington Motion — Atelier Reels](../sites/lexington-motion-atelier.md) — A paid Remotion template collection for fashion reels, with named motion concepts and a live catalogue for comparing visual treatments.
 - [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile websites, tagged by visual style, genre and interaction technique.
 - [Locomotive](../sites/locomotive.md) — Montreal studio portfolio pairing an audiovisual hero with a filterable work archive and detailed project pages.
 - [LogoLounge](../sites/logo-lounge.md) — A searchable logo archive and open annual trend reports for researching identity marks, recurring forms and visual directions.

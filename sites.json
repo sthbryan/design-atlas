@@ -470,6 +470,32 @@
       ]
     },
     {
+      "slug": "a11ymd",
+      "path": "sites/a11ymd.md",
+      "title": "A11Y.md",
+      "description": "Accessibility guidance for coding agents, presented as a concise visual guide with concrete interface examples and setup steps.",
+      "url": "https://fecarrico.github.io/a11ymd/en/",
+      "type": "agent-skill",
+      "formats": "Markdown standard · WCAG 2.2 guidance · agent setup guide",
+      "topics": [
+        "agent-skills",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "The A11Y.md repository states MIT; the website describes the project as open source.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "uswds",
+        "ui-playbook"
+      ]
+    },
+    {
       "slug": "aave-design",
       "path": "sites/aave-design.md",
       "title": "Aave Design & Engineering",
@@ -872,6 +898,30 @@
       "related": [
         "unseen",
         "locomotive"
+      ]
+    },
+    {
+      "slug": "alternativeto-site",
+      "path": "sites/alternativeto-site.md",
+      "title": "AlternativeTo",
+      "description": "A searchable software directory that helps designers discover comparable products, interfaces and further visual references.",
+      "url": "https://alternativeto.site/",
+      "type": "directory",
+      "formats": "software directory · categories · comparisons · community-submitted listings",
+      "topics": [
+        "inspiration",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Listings are described as community-submitted and human-reviewed; no content reuse license was stated on the reviewed pages.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "everywhere-tools",
+        "isthereanytool"
       ]
     },
     {
@@ -2059,6 +2109,31 @@
         "coss-ui",
         "radix",
         "headless-ui"
+      ]
+    },
+    {
+      "slug": "baseframe-design",
+      "path": "sites/baseframe-design.md",
+      "title": "BaseFrame",
+      "description": "A product designer's portfolio with detailed operational-software case studies, useful for studying dense workflows across desktop and mobile.",
+      "url": "https://www.baseframe.design/",
+      "type": "website",
+      "formats": "product design portfolio · case studies · service and pricing pages",
+      "topics": [
+        "inspiration",
+        "ux-patterns",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The portfolio is free to browse; design services are paid separately. No reuse license for its work was stated on the reviewed pages.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "godly",
+        "swift-pieces"
       ]
     },
     {
@@ -6139,6 +6214,31 @@
       ]
     },
     {
+      "slug": "flit",
+      "path": "sites/flit.md",
+      "title": "Flit",
+      "description": "A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.",
+      "url": "https://flit.fyi/",
+      "type": "website",
+      "formats": "macOS app · product marketing site · interactive feature demos · comparison pages",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "The app is proprietary and paid. The terms describe a personal license for up to two Macs; pricing and renewal terms are published separately.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "swift-pieces",
+        "everywhere-tools"
+      ]
+    },
+    {
       "slug": "float-ui",
       "path": "sites/float-ui.md",
       "title": "Float UI",
@@ -9513,6 +9613,33 @@
         "collect-ui",
         "inspora",
         "appinspo"
+      ]
+    },
+    {
+      "slug": "lexington-motion-atelier",
+      "path": "sites/lexington-motion-atelier.md",
+      "title": "Lexington Motion — Atelier Reels",
+      "description": "A paid Remotion template collection for fashion reels, with named motion concepts and a live catalogue for comparing visual treatments.",
+      "url": "https://lexingtonthemes.com/remotion/atelier-reel-templates",
+      "type": "template-library",
+      "formats": "Remotion templates · vertical reels · template gallery · Lexington MCP available separately",
+      "topics": [
+        "motion",
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "paid",
+      "licence": "Paid Lexington licenses allow commercial and client work, while prohibiting redistribution of the templates or their derivatives as templates; full terms are linked on the site. Atelier templates are sold as part of the paid pack.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "motion-primitives",
+        "motionwiki"
       ]
     },
     {
@@ -16509,6 +16636,34 @@
         "devicon",
         "icons0",
         "shieldcn"
+      ]
+    },
+    {
+      "slug": "thinking-orbs",
+      "path": "sites/thinking-orbs.md",
+      "title": "Thinking Orbs",
+      "description": "Animated React and JavaScript status indicators for AI interfaces, with a live gallery of states, shapes and rendering styles.",
+      "url": "https://www.thinkingorbs.com/",
+      "type": "component-library",
+      "formats": "React components · plain JavaScript · npm package · playground",
+      "topics": [
+        "ai-interfaces",
+        "motion",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "MIT, as stated on the project site and repository.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "orbkit",
+        "agentation"
       ]
     },
     {

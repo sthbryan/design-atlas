@@ -23,6 +23,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Agentation](../sites/agentation.md) — React toolbar that turns click-to-annotate feedback into selectors and file paths agents can act on over MCP.
 - [agentcn](../sites/agentcn.md) — Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
 - [AI UX Playground](../sites/ai-ux-playground.md) — A practical AI-interface reference with named patterns, live interaction demos, product teardowns, and agent skills.
+- [AlternativeTo](../sites/alternativeto-site.md) — A searchable software directory that helps designers discover comparable products, interfaces and further visual references.
 - [apmix.ai](../sites/apmix.md) — An AI API landing page that pairs a geometric mesh with side-by-side terminal sessions and a usage dashboard.
 - [Auri (auri.ai)](../sites/auri.md) — Interactive demos of an AI keyboard, visual chat and notes show how assistant features can fit into everyday writing flows.
 - [Banani](../sites/banani.md) — Public UI-screen references and an AI editor for turning prompts or screenshots into editable prototypes.
@@ -59,6 +60,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Swift Pieces](../sites/swift-pieces.md) — Animated SwiftUI components for iOS with live interaction previews, single-file source and agent installation paths.
 - [termcn](../sites/termcn.md) — Ink and OpenTUI terminal components via shadcn CLI, including agent chat, tool-approval and diff-review widgets.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
+- [Thinking Orbs](../sites/thinking-orbs.md) — Animated React and JavaScript status indicators for AI interfaces, with a live gallery of states, shapes and rendering styles.
 - [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
 - [Unsiloed AI](../sites/unsiloed.md) — Document-AI site that turns parsing into a layered illustration, with annotated document regions and side-by-side output examples.
 - [Variant](../sites/variant.md) — Explore a prompt-led stream of live interface experiments, then use the examples as inspiration for your own visual direction.

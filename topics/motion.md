@@ -115,6 +115,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Kinetics](../sites/kinetics.md) — 153 spring-physics interaction effects in CSS, React and prompt form, with a live parameter editor.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
 - [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
+- [Lexington Motion — Atelier Reels](../sites/lexington-motion-atelier.md) — A paid Remotion template collection for fashion reels, with named motion concepts and a live catalogue for comparing visual treatments.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
 - [Light Rails](../sites/light-rails.md) — Interactive editor for shaping animated light patterns with geometry, colour and timing controls, then exporting the result.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
@@ -214,6 +215,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [The Brand Identity](../sites/the-brand-identity.md) — Editorial case studies of identity systems across typography, packaging, digital work and motion, with searchable visual tags.
 - [The Pudding](../sites/the-pudding.md) — Visual essays that turn data and reported stories into distinctive, interactive editorial experiences.
 - [Theatre.js (stale)](../sites/theatrejs.md) — In-browser keyframe editor for THREE.js and R3F scenes; Apache core, AGPL studio, stalled since 2024.
+- [Thinking Orbs](../sites/thinking-orbs.md) — Animated React and JavaScript status indicators for AI interfaces, with a live gallery of states, shapes and rendering styles.
 - [Three.js](../sites/threejs.md) — The default MIT WebGL/WebGPU library: 607 examples, an editor, TSL, and an llms.txt with rules for code generators.
 - [Tokokino](../sites/tokokino.md) — A browser editor with reusable device-frame, screenshot and animated product-demo compositions.
 - [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.

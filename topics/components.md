@@ -212,6 +212,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [TailGrids](../sites/tailgrids.md) — React and Tailwind library with blocks, Figma system, CLI, MCP server, llms.txt and a design.md; MIT core, paid Pro blocks.
 - [termcn](../sites/termcn.md) — Ink and OpenTUI terminal components via shadcn CLI, including agent chat, tool-approval and diff-review widgets.
 - [The Component Gallery](../sites/component-gallery.md) — Reference that compares how 95 design systems name, structure and document the same 60 components.
+- [Thinking Orbs](../sites/thinking-orbs.md) — Animated React and JavaScript status indicators for AI interfaces, with a live gallery of states, shapes and rendering styles.
 - [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.
 - [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
