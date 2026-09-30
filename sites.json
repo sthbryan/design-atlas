@@ -12882,6 +12882,35 @@
       ]
     },
     {
+      "slug": "plasma-ui",
+      "path": "sites/plasma-ui.md",
+      "title": "Plasma UI",
+      "description": "React surfaces with WebGL refraction, liquid joins and grid snapping, demonstrated through a material playground and a small workspace.",
+      "url": "https://cruxgarden.github.io/plasma-ui/",
+      "type": "component-library",
+      "formats": "React container components · WebGL2 materials · interactive playground · workspace example",
+      "topics": [
+        "components",
+        "3d-and-shaders",
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "The public repository's MIT licence covers its software and associated documentation; keep its copyright and permission notice when reusing it. No paid plan was shown at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "liquid-glass-web-react",
+        "glass-lens-react",
+        "reactbits"
+      ]
+    },
+    {
       "slug": "playcanvas",
       "path": "sites/playcanvas.md",
       "title": "PlayCanvas",
