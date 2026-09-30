@@ -496,6 +496,31 @@
       ]
     },
     {
+      "slug": "abeto",
+      "path": "sites/abeto.md",
+      "title": "Abeto",
+      "description": "An interactive studio portfolio pairing a warm, illustrated botanical hero with realtime digital experiences.",
+      "url": "https://abeto.co/",
+      "type": "website",
+      "formats": "creative studio · interactive experiences · realtime 3D",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The portfolio is publicly viewable; no reuse licence for its design, code or artwork was found. Treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "messenger",
+        "bruno-simon"
+      ]
+    },
+    {
       "slug": "abstract-by-wannathis",
       "path": "sites/abstract-by-wannathis.md",
       "title": "Abstract by Wannathis",
@@ -1292,6 +1317,31 @@
         "hallmark",
         "stop-slop",
         "ui-skills"
+      ]
+    },
+    {
+      "slug": "anzal-abidi",
+      "path": "sites/anzal-abidi.md",
+      "title": "Anzal Abidi",
+      "description": "A personal portfolio that frames a professional story with classical paintings, editorial type and a chaptered timeline.",
+      "url": "https://anzalabidi.dev/",
+      "type": "website",
+      "formats": "personal portfolio · editorial layout · project archive",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The portfolio is publicly viewable; no reuse licence for its design or artwork was found. Treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "shane-chellam",
+        "harshit-raghuwanshi"
       ]
     },
     {
@@ -5802,6 +5852,31 @@
       ]
     },
     {
+      "slug": "firefly-builds",
+      "path": "sites/firefly-builds.md",
+      "title": "Firefly Builds",
+      "description": "A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.",
+      "url": "https://fireflybuilds.netlify.app/",
+      "type": "website",
+      "formats": "personal portfolio · project showcase · command palette",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The portfolio is publicly viewable; no reuse licence for its design, code or project imagery was found. Treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "anzal-abidi",
+        "harshit-raghuwanshi"
+      ]
+    },
+    {
       "slug": "float-ui",
       "path": "sites/float-ui.md",
       "title": "Float UI",
@@ -7067,6 +7142,31 @@
         "typeui",
         "getdesign-md",
         "scrolltide"
+      ]
+    },
+    {
+      "slug": "harshit-raghuwanshi",
+      "path": "sites/harshit-raghuwanshi.md",
+      "title": "Harshit Raghuwanshi",
+      "description": "A developer portfolio mixing a pixel-art workstation banner, modular project cards and a compact command palette.",
+      "url": "https://www.harshitr.me/",
+      "type": "website",
+      "formats": "personal portfolio · project archive · command palette",
+      "topics": [
+        "inspiration",
+        "typography-and-styles",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The portfolio is publicly viewable; no reuse licence for its design, code or imagery was found. Treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "anzal-abidi",
+        "firefly-builds"
       ]
     },
     {
@@ -8487,6 +8587,32 @@
         "21st-dev",
         "mapcn",
         "prompt-kit"
+      ]
+    },
+    {
+      "slug": "kidus-yohannes",
+      "path": "sites/kidus-yohannes.md",
+      "title": "Kidus Yohannes",
+      "description": "A dark portfolio that pairs a star-speckled introduction with a horizontal, section-by-section career journey.",
+      "url": "https://kidus-yohannes.engineer/",
+      "type": "website",
+      "formats": "personal portfolio · horizontal scroll · career timeline",
+      "topics": [
+        "inspiration",
+        "motion",
+        "navigation"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The portfolio is publicly viewable; no reuse licence for its design or project imagery was found. Treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "note": "The queue URL used a misspelled domain and a v2 subdomain that did not resolve. A focused search surfaced Kidus Yohannes's official GitHub profile linking to the canonical portfolio domain recorded here.",
+      "related": [
+        "anzal-abidi",
+        "shane-chellam"
       ]
     },
     {
@@ -12516,6 +12642,32 @@
       ]
     },
     {
+      "slug": "raine-architects",
+      "path": "sites/raine-architects.md",
+      "title": "Raine Architects",
+      "description": "An architecture studio site with a full-width 3D project viewer and a restrained editorial frame.",
+      "url": "https://rainearchitects.com/",
+      "type": "website",
+      "formats": "architecture studio · 3D visualization · project portfolio",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The portfolio is publicly viewable; no reuse licence for its design, code or project imagery was found. Treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "note": "The 3D visualization page loaded after its progress indicator reached 100%; the homepage project carousel also displayed several \"Record not found\" messages.",
+      "related": [
+        "abeto",
+        "messenger"
+      ]
+    },
+    {
       "slug": "ramps",
       "path": "sites/ramps.md",
       "title": "Ramps",
@@ -14217,6 +14369,31 @@
         "grainient",
         "metalforge",
         "mesh3d"
+      ]
+    },
+    {
+      "slug": "shane-chellam",
+      "path": "sites/shane-chellam.md",
+      "title": "Shane Chellam",
+      "description": "An interactive portfolio that turns a career into a four-stop 3D bike journey with a clear one-page recruiter route.",
+      "url": "https://shanesation.tech/",
+      "type": "website",
+      "formats": "personal portfolio · interactive 3D journey · one-page recruiter view",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The portfolio is publicly viewable; no reuse licence for its design, code, music or artwork was found. Treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "bruno-simon",
+        "abeto"
       ]
     },
     {

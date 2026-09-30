@@ -24,6 +24,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [23rd](../sites/23rd.md) — 14 showpiece shader, ASCII and footer components for React and Svelte 5 via the shadcn CLI, with an agent skill; no licence file.
 - [A-Frame](../sites/aframe.md) — An HTML-first framework for interactive WebXR scenes, with live 3D examples and a visual inspector.
 - [Aave Design & Engineering](../sites/aave-design.md) — Aave Labs’ engineering article pairs live glass-effect controls with a cross-browser SVG displacement and WebGL implementation.
+- [Abeto](../sites/abeto.md) — An interactive studio portfolio pairing a warm, illustrated botanical hero with realtime digital experiences.
 - [Abstract by Wannathis](../sites/abstract-by-wannathis.md) — A pack of sculptural abstract 3D objects in fuzzy, metallic, glass, and gradient finishes for expressive hero art and backgrounds.
 - [Active Theory](../sites/active-theory.md) — A creative studio portfolio built around a dark, animated particle scene and a compact route into its project work.
 - [Atelier UI](../sites/atelier-ui.md) — An interactive library of shader and motion components with a live preview, adjustable controls and copyable implementation prompts.
@@ -66,12 +67,14 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [PlayCanvas](../sites/playcanvas.md) — A WebGL and WebGPU engine whose Explore catalog links to live games, product configurators and real-time graphics demos.
 - [Pointilliser](../sites/pointilliser.md) — Two browser tools turn text or images into neo-pointillist graphics made from clustered circles or 3D spheres.
 - [Poly Haven](../sites/poly-haven.md) — About 2,400 CC0 HDRIs, PBR textures and models made by people, with a keyless API that asks for credit.
+- [Raine Architects](../sites/raine-architects.md) — An architecture studio site with a full-width 3D project viewer and a restrained editorial frame.
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
 - [React Three Fiber](../sites/react-three-fiber.md) — MIT React renderer that writes three.js scenes as JSX, with performance guides, llms-full.txt and a docs MCP.
 - [Reverse UI](../sites/reverse-ui.md) — 68 animated React feature illustrations and shader effects for SaaS pages; 19 free, the rest a one-time paid licence. MUI and Emotion.
 - [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
 - [Shaderfrog](../sites/shaderfrog.md) — Graph editor that splices GLSL shaders into Three.js, Babylon and PlayCanvas materials, with a community gallery.
 - [Shadertoy](../sites/shadertoy.md) — Community gallery of live GLSL scenes with an in-browser shader editor and a documented API for public examples.
+- [Shane Chellam](../sites/shane-chellam.md) — An interactive portfolio that turns a career into a four-stop 3D bike journey with a clear one-page recruiter route.
 - [Shapefest](../sites/shapefest.md) — A consistent 3D illustration system for studying and using floating, isometric, clay, glass, plastic, and metal forms.
 - [Sketchfab](../sites/sketchfab.md) — Interactive 3D model gallery with orbitable browser previews, model annotations and filters for visual reference.
 - [Spherium](../sites/spherium.md) — A WebGL globe editor for styling world maps as dot fields and exporting the result as SVG.

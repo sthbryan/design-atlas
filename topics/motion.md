@@ -24,6 +24,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [8bit.ai](../sites/8bit.md) — Enterprise AI site that turns a dark 3D logo and streaking light into a scroll-led introduction to its services.
 - [A-Frame](../sites/aframe.md) — An HTML-first framework for interactive WebXR scenes, with live 3D examples and a visual inspector.
 - [Aave Design & Engineering](../sites/aave-design.md) — Aave Labs’ engineering article pairs live glass-effect controls with a cross-browser SVG displacement and WebGL implementation.
+- [Abeto](../sites/abeto.md) — An interactive studio portfolio pairing a warm, illustrated botanical hero with realtime digital experiences.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
 - [Active Theory](../sites/active-theory.md) — A creative studio portfolio built around a dark, animated particle scene and a compact route into its project work.
 - [Amacro](../sites/amacro.md) — 86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.
@@ -110,6 +111,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
 - [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
 - [Internet Artifacts](../sites/internet-artifacts-neal-fun.md) — Neal.fun's interactive timeline of early internet objects, built as a playful illustrated archive.
+- [Kidus Yohannes](../sites/kidus-yohannes.md) — A dark portfolio that pairs a star-speckled introduction with a horizontal, section-by-section career journey.
 - [Kinetics](../sites/kinetics.md) — 153 spring-physics interaction effects in CSS, React and prompt form, with a live parameter editor.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
 - [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
@@ -190,6 +192,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Scritto](../sites/scritto.md) — MIT web component that animates only the characters that change in any string.
 - [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
 - [Sera UI](../sites/sera-ui.md) — About 90 MIT animated React and Tailwind components via shadcn registry URLs; now owned by Pimjo, repo quiet since February 2026.
+- [Shane Chellam](../sites/shane-chellam.md) — An interactive portfolio that turns a career into a four-stop 3D bike journey with a clear one-page recruiter route.
 - [Skiper UI](../sites/skiper-ui.md) — Numbered, polished recreations of well-known designers' interactions; small free subset, murky licence.
 - [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.

@@ -31,6 +31,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Alpine Bio](../sites/alpine-bio.md) — Biotech brand landing page by Resn with ingredient macro imagery, oversized sans type and floating navigation.
 - [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
 - [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
+- [Anzal Abidi](../sites/anzal-abidi.md) — A personal portfolio that frames a professional story with classical paintings, editorial type and a chaptered timeline.
 - [Athrix](../sites/athrix.md) — Developer portfolio with an editorial serif headline, dotted page grid and pale botanical accents.
 - [AURAI LAB](../sites/aurai.md) — Shanghai creative studio with a pearl-toned editorial homepage and a public CityWalk product demo.
 - [Awwwards](../sites/awwwards.md) — Paid-entry web design awards with jury-scored winners, interaction clips and studio credits; llms.txt plus a small awards API.
@@ -56,6 +57,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Droppy (getdroppy.app)](../sites/getdroppy.md) — Mac utility landing page with a vivid blue hero, animated product films and a modular gallery of notch interactions.
 - [Easy UI](../sites/easy-ui.md) — Free Next.js templates and about 20 shadcn-installable components; MIT but thinly maintained, with template demos offline at review.
 - [Eldora UI](../sites/eldora-ui.md) — MIT animated landing-page components, text effects, device mockups and blocks, installed via the @eldoraui shadcn namespace, with llms.txt.
+- [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
 - [Float UI](../sites/float-ui.md) — About 200 free Tailwind sections in HTML, React, Vue and Svelte; custom no-redistribution licence despite the open-source label.
 - [Flowbase](../sites/flowbase.md) — Subscription library of 3,500+ Webflow, Figma and Framer sections, wireframes, icons and illustrations; use tied to the plan.
 - [Flowbite](../sites/flowbite.md) — Large MIT Tailwind library with data-attribute JS, React/Svelte/Vue ports, Figma kit, open-source MCP and paid Pro blocks.
@@ -112,6 +114,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Preline UI](../sites/preline.md) — Tailwind components with headless JS plugins under MIT plus Fair Use terms; agent skills, block prompts, paid hosted MCP.
 - [PsudoKit](../sites/psudokit.md) — Dark portfolio with a restrained monospace system, thin orbital lines and a split profile and activity layout.
 - [Railway](../sites/railway.md) — A cloud platform with a polished illustrated homepage and a focused no-signup VM campaign page.
+- [Raine Architects](../sites/raine-architects.md) — An architecture studio site with a full-width 3D project viewer and a restrained editorial frame.
 - [Re UI](../sites/re-ui.md) — KeenThemes' shadcn registry with data grid, Gantt and calendar primitives, paid blocks and an MCP server.
 - [Rueya Supply](../sites/rueya-supply.md) — Pre-launch shop whose one screen pairs 41.6px type at weight 300 on a 1.02 line height with an airy 1.75 body, over a cream-to-orange gradient.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.

@@ -30,6 +30,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Animesh Thakur](../sites/animesh-thakur.md) — A grid-based portfolio with offset display lettering, diagonal section dividers, project cards and a compact music player.
 - [Anjil](../sites/anjil-ink.md) — A restrained developer portfolio pairing a dithered travel photograph with a serif headline, concise biography and compact work timeline.
 - [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
+- [Anzal Abidi](../sites/anzal-abidi.md) — A personal portfolio that frames a professional story with classical paintings, editorial type and a chaptered timeline.
 - [ArtCenter Spring 2025 Grad Show](../sites/artcenter-grad-show-spring-2025.md) — A clean, searchable graduate portfolio catalogue with department routes, term filters and individual project pages.
 - [Athrix](../sites/athrix.md) — Developer portfolio with an editorial serif headline, dotted page grid and pale botanical accents.
 - [Atmos](../sites/atmos.md) — OKLCH palette workspace with shade, gamut and contrast tools for building UI color systems.
@@ -91,6 +92,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Google Evolving Identity](../sites/google-evolving-identity.md) — Google's 2015 identity story, with visual studies of its logotype, animated dots, compact G, color and product applications.
 - [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
 - [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
+- [Harshit Raghuwanshi](../sites/harshit-raghuwanshi.md) — A developer portfolio mixing a pixel-art workstation banner, modular project cards and a compact command palette.
 - [Heydays](../sites/heydays.md) — Historical Oslo studio portfolio with a warm editorial home page and archived branding cases.
 - [HK Grotesk Wide](../sites/hk-grotesk-wide.md) — A wide display family presented with bold green poster layouts and an editable preview across every weight.
 - [Httpster](../sites/httpster.md) — A large gallery of website captures with separate filters for visual styles and site types, linking each reference to its live source.

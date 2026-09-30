@@ -43,11 +43,13 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Devouring Details](../sites/devouring-details.md) — Rauno Freiberg's paid interactive manual on interaction craft, with 23 chapters and downloadable React prototypes.
 - [editorcn](../sites/editorcn.md) — Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
 - [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
+- [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
 - [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
 - [Google Arts & Culture](../sites/google-arts-and-culture.md) — Museum collections and interactive exhibits for studying editorial art storytelling, high-resolution viewing and playful cultural experiences.
 - [Great Apps](../sites/great-apps.md) — A small, opinionated gallery of about 216 well-crafted indie iOS apps, from the curator of Sections.wtf.
 - [Gummble](../sites/gummble.md) — Explore app screenshots and complete mobile and web flows with filters for platform, category and interface pattern.
+- [Harshit Raghuwanshi](../sites/harshit-raghuwanshi.md) — A developer portfolio mixing a pixel-art workstation banner, modular project cards and a compact command palette.
 - [Headless UI](../sites/headless-ui.md) — Tailwind Labs' small set of unstyled accessible React components, styled through data attributes.
 - [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
 - [Impeccable](../sites/impeccable.md) — Apache-2.0 design skill with 24 commands, a deterministic slop detector for CI, and PRODUCT.md/DESIGN.md context.

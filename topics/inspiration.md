@@ -29,6 +29,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [8bit.ai](../sites/8bit.md) — Enterprise AI site that turns a dark 3D logo and streaking light into a scroll-led introduction to its services.
 - [a-fresh](../sites/a-fresh.md) — A categorized website and component archive with previews, desktop and mobile views, and filters for design traits.
 - [A1](../sites/a1-gallery.md) — A curated gallery of live websites, full pages and individual sections, with visual filters and measured design details.
+- [Abeto](../sites/abeto.md) — An interactive studio portfolio pairing a warm, illustrated botanical hero with realtime digital experiences.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
 - [Active Theory](../sites/active-theory.md) — A creative studio portfolio built around a dark, animated particle scene and a compact route into its project work.
 - [Aditya Logs](../sites/adityalogs.md) — Monospace portfolio with inline emphasis, an activity sidebar and a compact, terminal-like visual language.
@@ -37,6 +38,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Amanita Design](../sites/amanita-design.md) — Game studio site with an illustrated rotating feature, a tiled game catalogue and media-rich individual game pages.
 - [Animesh Thakur](../sites/animesh-thakur.md) — A grid-based portfolio with offset display lettering, diagonal section dividers, project cards and a compact music player.
 - [Anjil](../sites/anjil-ink.md) — A restrained developer portfolio pairing a dithered travel photograph with a serif headline, concise biography and compact work timeline.
+- [Anzal Abidi](../sites/anzal-abidi.md) — A personal portfolio that frames a professional story with classical paintings, editorial type and a chaptered timeline.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
 - [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
 - [AppShot Gallery](../sites/appshot-gallery.md) — Real App Store and Play Store listing screenshots and icons, filterable by genre, style and tone.
@@ -116,6 +118,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [EISAKA DESIGN](../sites/eisaka-design.md) — Riga designer portfolio with spacious project cards for visual identity, packaging and print work.
 - [Experimental Jetset](../sites/experimental-jetset.md) — Amsterdam graphic design studio archive with category filters, alphabetical and chronological sorting, and image-led project records.
 - [Eyecandy](../sites/eyecannndy.md) — Browse named visual techniques through short explanations and example clips, useful for motion and art-direction references.
+- [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
 - [Flourish](../sites/flourish.md) — An interactive data storytelling editor and gallery of working charts, maps and stories to study or adapt.
 - [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
 - [Fonts In Use](../sites/fonts-in-use.md) — Archive of real typography across web, print, identity and packaging, searchable by typeface, format, topic and visual tag.
@@ -133,6 +136,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Great Apps](../sites/great-apps.md) — A small, opinionated gallery of about 216 well-crafted indie iOS apps, from the curator of Sections.wtf.
 - [GreatStuff](../sites/greatstuff.md) — Framer-built archive of about 600 links for designers (tools, assets, galleries, AI, Mac apps), filterable by type, with a shuffle button.
 - [Gummble](../sites/gummble.md) — Explore app screenshots and complete mobile and web flows with filters for platform, category and interface pattern.
+- [Harshit Raghuwanshi](../sites/harshit-raghuwanshi.md) — A developer portfolio mixing a pixel-art workstation banner, modular project cards and a compact command palette.
 - [HEX Swipe File](../sites/hex-swipe-file.md) — Agency-maintained reference wall of brand, web, motion and product work, filterable by tag and presented in varied image sizes.
 - [HexGL](../sites/hexgl.md) — A WebGL racing game whose landing page frames a playable 3D experience with a futuristic visual theme.
 - [Heydays](../sites/heydays.md) — Historical Oslo studio portfolio with a warm editorial home page and archived branding cases.
@@ -155,6 +159,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Juliette](../sites/juliette.md) — A designer’s portfolio pairing restrained editorial typography with a playful, layered collage of personal and project imagery.
 - [Kage](../sites/kage.md) — Real product pages and components tagged by style, with screenshot-backed design prompts and a public MCP server.
 - [Keel Workspace](../sites/keel-workspace.md) — A polished CRM workspace demo with dense pipeline metrics, source-backed agent decisions and keyboard-first review controls.
+- [Kidus Yohannes](../sites/kidus-yohannes.md) — A dark portfolio that pairs a star-speckled introduction with a horizontal, section-by-section career journey.
 - [Klim Type Foundry](../sites/klim.md) — Premium New Zealand foundry (Söhne, Tiempos) with reference-grade essays and use-based licensing from USD 60.
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
 - [Kombai Selects](../sites/kombai-selects.md) — A stream of interface and motion references selected from X, Dribbble and Behance, with links back to each creator's post.
@@ -223,6 +228,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
 - [PsudoKit](../sites/psudokit.md) — Dark portfolio with a restrained monospace system, thin orbital lines and a split profile and activity layout.
 - [Railway](../sites/railway.md) — A cloud platform with a polished illustrated homepage and a focused no-signup VM campaign page.
+- [Raine Architects](../sites/raine-architects.md) — An architecture studio site with a full-width 3D project viewer and a restrained editorial frame.
 - [Ratnesh Chipre](../sites/ratnesh-chipre.md) — A restrained design engineer portfolio with a small shadcn-compatible component registry and interactive demos.
 - [Rave Preservation Project](../sites/rave-preservation-project.md) — Archive of about 40,000 scanned rave flyers, posters and tickets from the mid-1980s to the early 2000s, grouped by country, region and city.
 - [Rebrand Gallery](../sites/rebrand-gallery.md) — Brand identity launches with reveal videos, bento boards and applied shots, tagged by typeface and style.
@@ -253,6 +259,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Sevalla](../sites/sevalla.md) — Cloud hosting landing page that explains apps, databases, storage and static sites through product previews, location data and MCP workflows.
 - [Shaderfrog](../sites/shaderfrog.md) — Graph editor that splices GLSL shaders into Three.js, Babylon and PlayCanvas materials, with a community gallery.
 - [Shadertoy](../sites/shadertoy.md) — Community gallery of live GLSL scenes with an in-browser shader editor and a documented API for public examples.
+- [Shane Chellam](../sites/shane-chellam.md) — An interactive portfolio that turns a career into a four-stop 3D bike journey with a clear one-page recruiter route.
 - [ShiftBar](../sites/shiftbar.md) — A small macOS menu-bar utility with an interactive browser demo for hiding and restoring a chosen span of status icons.
 - [Shochiku Games](../sites/shochiku-games.md) — Japanese publisher site pairing a green-framed game carousel with a categorized catalog and image-led title pages.
 - [Shoogle](../sites/shoogle.md) — Searches items across all shadcn registries from the web, the CLI or a remote MCP server.
