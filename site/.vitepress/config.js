@@ -51,7 +51,7 @@ export default defineConfig({
     ];
   },
   markdown: {
-    externalLinks: { target: '_self', rel: 'noreferrer' },
+    externalLinks: { target: '_blank', rel: 'noopener noreferrer' },
     config: atlasMarkdown,
   },
   transformPageData(pageData) {

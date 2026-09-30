@@ -21,7 +21,7 @@ const plain = (text) => String(text ?? '').replace(/`([^`]*)`/g, '$1');
     <dl>
       <div>
         <dt>Site</dt>
-        <dd><a :href="frontmatter.url" rel="noreferrer">{{ host }}</a></dd>
+        <dd><a :href="frontmatter.url" target="_blank" rel="noopener noreferrer">{{ host }}</a></dd>
       </div>
       <div>
         <dt>Type</dt>
