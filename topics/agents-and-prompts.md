@@ -134,6 +134,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
 - [TypeUI](../sites/typeui.md) — Style-named design skills (SKILL.md + DESIGN.md) via an MIT CLI/registry and a paid hosted MCP.
 - [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.
+- [UI Discovery](../sites/ui-discovery.md) — Search real website, app and section captures by product, industry, style or query, with palettes, type and an MCP/API for agents.
 - [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
 - [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
 - [Uiuno](../sites/uiuno.md) — Early shadcn workspace where a bot collects motion and shader effects into registries; credit to originals is lost.

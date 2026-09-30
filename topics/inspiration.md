@@ -202,6 +202,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Nur](../sites/nur.md) — Nur's product engineer portfolio pairs a watercolor pond illustration with a sparse introduction and inline type styling controls.
 - [ObsidianUI](../sites/obsidianui.md) — A free React component library whose live previews pair restrained documentation layouts with expressive hover and motion effects.
 - [OGANNA®](../sites/oganna.md) — Taipei design studio portfolio spanning identity, illustration, web and motion work, with category-tagged projects and multilingual navigation.
+- [OKOK Services](../sites/okok-services.md) — Singapore and Amsterdam studio portfolio with a black chrome hero and links to interactive client experiences.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
 - [Ossium](../sites/ossium.md) — Dark developer platform with a centered discovery hero, feature previews and a dashboard route for finding open-source contribution work.
@@ -282,6 +283,8 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Typeface.fyi](../sites/typeface-fyi.md) — Chrome extension that identifies any web font, its metrics, where it's served from and its foundry.
 - [Typewolf](../sites/typewolf.md) — Typography reference for the web, pairing real site screenshots with named fonts, alternatives, free picks and usage notes.
 - [typo/graphic posters](../sites/typographic-posters.md) — An international archive of print posters with filters for composition, colour, print process and other visual qualities.
+- [UI Coach](../sites/ui-coach.md) — Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.
+- [UI Discovery](../sites/ui-discovery.md) — Search real website, app and section captures by product, industry, style or query, with palettes, type and an MCP/API for agents.
 - [UI Labs](../sites/uilabs.md) — Mariana Castilho's dozen live Framer Motion experiments with morphing toolbars, popovers and widgets; demo-only.
 - [UI Taste by Uizze](../sites/ui-taste.md) — Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.
 - [ui-design.studio](../sites/ui-design-studio.md) — A free interface gallery with credited shots, designer pages and tags for patterns such as settings, forms and navigation.
@@ -306,6 +309,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Web Design Clip](../sites/web-design-clip.md) — A Japanese website gallery with separate Japan, world, landing-page and smartphone collections plus color, layout, category and technology filters.
 - [Websites on Display](../sites/on-display.md) — A searchable web design archive with filters for style, type, typeface, color, technology and performance.
 - [Websitevice](../sites/websitevice.md) — A website inspiration directory organized by industry and site purpose, with short notes on why each example is notable.
+- [Webzooo](../sites/webzooo.md) — Browse live website captures by colour, industry and palette, then inspect a site's screenshot, colours and type.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 - [wwwtf.site](../sites/wwwtf.md) — A young gallery of 25 weird, WebGL-heavy experimental websites from the curator of Sections.wtf.
 - [Zian Lu](../sites/zian-lu.md) — Shanghai designer's portfolio spanning brand identity, typography and motion experiments, with concise credits and project context.

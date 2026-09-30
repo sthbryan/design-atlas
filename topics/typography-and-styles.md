@@ -177,6 +177,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.
 - [Typewolf](../sites/typewolf.md) — Typography reference for the web, pairing real site screenshots with named fonts, alternatives, free picks and usage notes.
 - [typo/graphic posters](../sites/typographic-posters.md) — An international archive of print posters with filters for composition, colour, print process and other visual qualities.
+- [UI Coach](../sites/ui-coach.md) — Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.
 - [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
 - [UIC School of Design Year End Show 2025](../sites/uic-year-end-show-2025.md) — UIC's student exhibition splits work into undergraduate and graduate cohorts, with discipline filters and individual thesis excerpts.
 - [UNSW Art & Design Annual 2025](../sites/unsw-art-design-annual-2025.md) — UNSW's graduate showcase pairs a media-led exhibition home page with filters for degree, discipline and student name.

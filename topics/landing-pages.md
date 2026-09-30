@@ -142,6 +142,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
 - [Toukana Interactive](../sites/toukana-interactive.md) — Indie studio site with a split game carousel, numbered project stories and colorful game art framing clear platform links.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
+- [UI Coach](../sites/ui-coach.md) — Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.
 - [UI Layouts](../sites/ui-layouts.md) — 300+ MIT animated React components and sections with a shadcn registry, an MCP server and a paid Pro block site.
 - [Unsection](../sites/unsection.md) — A searchable gallery of real website sections, filterable by block type, visual style and industry.
 - [Unseen Studio](../sites/unseen.md) — Studio portfolio with a pastel 3D world, expressive serif and sans typography, and a filtered project grid.

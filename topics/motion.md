@@ -157,6 +157,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
 - [ObsidianUI](../sites/obsidianui.md) — A free React component library whose live previews pair restrained documentation layouts with expressive hover and motion effects.
 - [Odyssey UI](../sites/odyssey-ui.md) — Animated primitives, AI chat parts and pricing blocks built on Animate UI, via the @odysseyui namespace; no licence file in the repo.
+- [OKOK Services](../sites/okok-services.md) — Singapore and Amsterdam studio portfolio with a black chrome hero and links to interactive client experiences.
 - [Oneko](../sites/oneko.md) — Cursor-chasing pixel cat for React via shadcn, with llms.txt and an agent prompt; sprite art not relicensed.
 - [OpenMotion](../sites/openmotion.md) — Free closed desktop app that drives your Claude Code or Codex CLI to turn a brief into editable launch videos; nothing for your own agent to call.
 - [OriginKit](../sites/originkit.md) — An interactive component catalogue for shader, cursor, animation and other high-impact web effects, with live parameter controls.

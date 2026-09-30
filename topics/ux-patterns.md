@@ -75,6 +75,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Supaste](../sites/supaste.md) — A vivid product landing page that uses a simulated clipboard library to explain a native macOS utility.
 - [Superfuture Design Review](../sites/superfuture-design-review.md) — Ten-area design critique ranked by severity with exact fixes; it sends a hidden usage ping.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
+- [UI Discovery](../sites/ui-discovery.md) — Search real website, app and section captures by product, industry, style or query, with palettes, type and an MCP/API for agents.
 - [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
 - [UI Skills](../sites/ui-skills.md) — 306 design-engineering skills from 84 authors, with a routing skill, CLI, MCP and 18 real company DESIGN.md files.
 - [UI Taste by Uizze](../sites/ui-taste.md) — Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.

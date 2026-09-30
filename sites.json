@@ -11293,6 +11293,31 @@
       ]
     },
     {
+      "slug": "okok-services",
+      "path": "sites/okok-services.md",
+      "title": "OKOK Services",
+      "description": "Singapore and Amsterdam studio portfolio with a black chrome hero and links to interactive client experiences.",
+      "url": "https://okok.services/",
+      "type": "website",
+      "formats": "creative studio portfolio · interactive web experiences · visual identity",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "No reuse licence for the portfolio, its artwork, code or client work was stated; use it as a visual reference only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "active-theory",
+        "lusion"
+      ]
+    },
+    {
       "slug": "on-display",
       "path": "sites/on-display.md",
       "title": "Websites on Display",
@@ -16114,6 +16139,32 @@
       ]
     },
     {
+      "slug": "ui-coach",
+      "path": "sites/ui-coach.md",
+      "title": "UI Coach",
+      "description": "Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.",
+      "url": "https://www.uicoach.io/inspirations/award-winning",
+      "type": "gallery",
+      "formats": "award-winning website gallery · project screenshots · colour references",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The inspiration gallery is publicly viewable. UI Coach offers a paid PRO membership; no licence for the featured site captures was found, so treat them as look-only references.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "awwwards",
+        "siteinspire",
+        "curated-design"
+      ]
+    },
+    {
       "slug": "ui-design-studio",
       "path": "sites/ui-design-studio.md",
       "title": "ui-design.studio",
@@ -16136,6 +16187,35 @@
         "mobbin",
         "refero-styles",
         "appinspo"
+      ]
+    },
+    {
+      "slug": "ui-discovery",
+      "path": "sites/ui-discovery.md",
+      "title": "UI Discovery",
+      "description": "Search real website, app and section captures by product, industry, style or query, with palettes, type and an MCP/API for agents.",
+      "url": "https://uidiscovery.com/",
+      "type": "gallery",
+      "formats": "website and app reference library · searchable sections · MCP · REST API",
+      "topics": [
+        "inspiration",
+        "agents-and-prompts",
+        "ux-patterns"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "Browsing and the MCP connector are free. The terms say the pictured product designs belong to their owners and are for study and inspiration; UI Discovery permits use of its own prompts and templates. Paid plans are displayed but the terms say they are not yet available for purchase.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "mobbin",
+        "siteinspire",
+        "ui-patterns"
       ]
     },
     {
@@ -17499,6 +17579,31 @@
         "siteinspire",
         "made-in-webflow",
         "godly"
+      ]
+    },
+    {
+      "slug": "webzooo",
+      "path": "sites/webzooo.md",
+      "title": "Webzooo",
+      "description": "Browse live website captures by colour, industry and palette, then inspect a site's screenshot, colours and type.",
+      "url": "https://webzooo.com/",
+      "type": "gallery",
+      "formats": "website inspiration gallery · colour search · desktop and mobile captures",
+      "topics": [
+        "inspiration",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The gallery is free to explore. Its terms say Webzooo owns its platform and original content, while featured designs remain their creators' property; use captures as look-only references.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "designspiration",
+        "siteinspire",
+        "web-design-clip"
       ]
     },
     {

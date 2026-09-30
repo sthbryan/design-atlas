@@ -59,6 +59,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [Messenger](../sites/messenger.md) — A browser game's illustrated tiny-planet title screen, with a single contrasting entry action and an immersive 3D scene.
 - [MetalForge](../sites/metalforge.md) — Gallery and live editor for shader animations, with SwiftUI, React Native and web outputs and an MCP beta.
 - [NextWell Lab](../sites/nextwell-lab.md) — A portfolio lab of browser experiments with deep-linked 3D, interaction, game, clock and Pomodoro scenes.
+- [OKOK Services](../sites/okok-services.md) — Singapore and Amsterdam studio portfolio with a black chrome hero and links to interactive client experiences.
 - [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
 - [OriginKit](../sites/originkit.md) — An interactive component catalogue for shader, cursor, animation and other high-impact web effects, with live parameter controls.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
