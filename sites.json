@@ -3317,6 +3317,34 @@
       ]
     },
     {
+      "slug": "compresto",
+      "path": "sites/compresto.md",
+      "title": "Compresto",
+      "description": "A media-compression product page with clear before-and-after demos and measured output changes for each format.",
+      "url": "https://compresto.app/",
+      "type": "website",
+      "formats": "macOS media compressor · image-compression API · free online utilities",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "paid",
+      "licence": "The macOS app is sold under personal and standard paid licences; no open-source licence for the app or reuse licence for the site's copy and media was stated. The site's llms.txt is an index for reading, not a content licence. Prices at review: Personal US$49 and Standard US$69 one-time.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "kap",
+        "xnapper"
+      ]
+    },
+    {
       "slug": "compute-toys",
       "path": "sites/compute-toys.md",
       "title": "compute.toys",
@@ -8685,6 +8713,30 @@
         "refero-styles",
         "component-gallery",
         "vibeprompts"
+      ]
+    },
+    {
+      "slug": "kap",
+      "path": "sites/kap.md",
+      "title": "Kap",
+      "description": "A screen-recorder landing page with a saturated gradient hero and a floating capture control preview.",
+      "url": "https://getkap.co/",
+      "type": "website",
+      "formats": "macOS screen recorder · open-source app with export plugins",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The Kap source repository uses the MIT License. No separate licence for the website copy, screenshots or branding was stated; treat those materials as look-only. The app is free to download at review.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "snapzy",
+        "xnapper"
       ]
     },
     {
@@ -15077,6 +15129,32 @@
       ]
     },
     {
+      "slug": "snapzy",
+      "path": "sites/snapzy.md",
+      "title": "Snapzy",
+      "description": "A macOS capture app whose landing page shows annotation, background presets and recording workflows in context.",
+      "url": "https://snapzy.app/",
+      "type": "website",
+      "formats": "macOS screenshot and screen-recording app · annotation and video editor",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The app source repository and site footer state BSD 3-Clause, while the Terms of Service say MIT for the source code; that mismatch is unresolved. The terms reserve the site's design and branding, so treat its page imagery and identity as look-only. Free at review, with optional donations.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "xnapper",
+        "tokokino",
+        "ui-camera"
+      ]
+    },
+    {
       "slug": "snask",
       "path": "sites/snask.md",
       "title": "SNASK",
@@ -18127,6 +18205,32 @@
         "sections-wtf",
         "hover-states",
         "landing-love"
+      ]
+    },
+    {
+      "slug": "xnapper",
+      "path": "sites/xnapper.md",
+      "title": "Xnapper",
+      "description": "A screenshot app whose homepage demonstrates framing, backgrounds, ratios and redaction in its own editor UI.",
+      "url": "https://xnapper.com/",
+      "type": "website",
+      "formats": "macOS screenshot editor · screenshot framing and export presets · iOS app",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The Mac app is free to use with a watermark; paid perpetual licences remove it and include one year of updates, with a paid annual team plan also listed. Website terms say its materials are protected by copyright and trademark law; no reuse licence for screenshots or branding was stated. Prices at review: US$29.99–79.99 one-time for individual tiers and US$5/device/month for Team.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "snapzy",
+        "tokokino",
+        "ui-camera"
       ]
     },
     {

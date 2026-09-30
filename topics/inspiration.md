@@ -81,6 +81,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [CodePen](../sites/codepen.md) — Public interactive Pens and monthly challenges make it easy to study small web experiments, motion and interface details.
 - [Codrops](../sites/codrops.md) — Creative web demos, interaction tutorials and a handpicked site exhibition for expressive frontend design.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
+- [Compresto](../sites/compresto.md) — A media-compression product page with clear before-and-after demos and measured output changes for each format.
 - [compute.toys](../sites/compute-toys.md) — Browser playground for WebGPU compute shaders in WGSL or Slang: simulations, particles and path tracers to fork.
 - [Coolors](../sites/coolors.md) — Palette generator and visualizer for trying color sets on UI, branding, typography and pattern mockups.
 - [Cosmos](../sites/cosmos.md) — Ad-free mood-board platform with hex-colour and visual-similarity search, AI-image filtering and source captions; Premium $8/month.
@@ -163,6 +164,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Jessy In's Gallery](../sites/jessy-in-gallery.md) — Social art gallery built on MoMA's open collection, with shared two-player curation, live chat, postcards and WebMCP tools for browser agents.
 - [Juliette](../sites/juliette.md) — A designer’s portfolio pairing restrained editorial typography with a playful, layered collage of personal and project imagery.
 - [Kage](../sites/kage.md) — Real product pages and components tagged by style, with screenshot-backed design prompts and a public MCP server.
+- [Kap](../sites/kap.md) — A screen-recorder landing page with a saturated gradient hero and a floating capture control preview.
 - [Keel Workspace](../sites/keel-workspace.md) — A polished CRM workspace demo with dense pipeline metrics, source-backed agent decisions and keyboard-first review controls.
 - [Kidus Yohannes](../sites/kidus-yohannes.md) — A dark portfolio that pairs a star-speckled introduction with a horizontal, section-by-section career journey.
 - [Klim Type Foundry](../sites/klim.md) — Premium New Zealand foundry (Söhne, Tiempos) with reference-grade essays and use-based licensing from USD 60.
@@ -277,6 +279,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [SiteThis](../sites/sitethis.md) — A visual archive of websites with category and style browsing, full-page previews and palette notes.
 - [Sketchfab](../sites/sketchfab.md) — Interactive 3D model gallery with orbitable browser previews, model annotations and filters for visual reference.
 - [SkySend](../sites/skysend.md) — Minimal encrypted file-sharing landing page that explains its security model through a centered hero, terminal install example and concise proof points.
+- [Snapzy](../sites/snapzy.md) — A macOS capture app whose landing page shows annotation, background presets and recording workflows in context.
 - [SNASK](../sites/snask.md) — Stockholm creative agency portfolio with a dramatic video hero, oversized rounded type and a stream of image-led case pages.
 - [Sora UI](../sites/sora-ui.md) — Animated React component registry with live motion demos and ready-made layout showcases.
 - [Spotify Design History](../sites/spotify-design-history.md) — Spotify’s 20-year retrospective pairs archived app screens and logos with current identity details such as green, dark interfaces and Spotify Mix.
@@ -327,6 +330,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Webzooo](../sites/webzooo.md) — Browse live website captures by colour, industry and palette, then inspect a site's screenshot, colours and type.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 - [wwwtf.site](../sites/wwwtf.md) — A young gallery of 25 weird, WebGL-heavy experimental websites from the curator of Sections.wtf.
+- [Xnapper](../sites/xnapper.md) — A screenshot app whose homepage demonstrates framing, backgrounds, ratios and redaction in its own editor UI.
 - [Zian Lu](../sites/zian-lu.md) — Shanghai designer's portfolio spanning brand identity, typography and motion experiments, with concise credits and project context.
 - [Zoomquilt](../sites/zoomquilt.md) — A collaborative painting built as a seamless infinite zoom, useful for studying continuous visual transitions and layered surreal scenes.
 <!-- atlas:sources:end -->
