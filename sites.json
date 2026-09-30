@@ -2679,6 +2679,30 @@
       ]
     },
     {
+      "slug": "built-by-designers",
+      "path": "sites/built-by-designers.md",
+      "title": "Built by Designers",
+      "description": "Curated list of shipped creative products, filterable by category and linked from project details to their live sites.",
+      "url": "https://builtbydesigners.com/",
+      "type": "gallery",
+      "formats": "product gallery · category directory",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free browsing is available. The site shows a 2026 copyright notice but states no reuse licence for its catalogue or featured work; linked projects retain their own rights.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "bencho",
+        "curated-design",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "business-cards-on-the-web",
       "path": "sites/business-cards-on-the-web.md",
       "title": "Business Cards on the Web — STstudio",
@@ -6737,6 +6761,32 @@
       ]
     },
     {
+      "slug": "goated-ui",
+      "path": "sites/goated-ui.md",
+      "title": "GOATED UI",
+      "description": "Free gallery of live websites and Open Graph cards, with category pages and detail records linking to original sites.",
+      "url": "https://goatedui.dev/",
+      "type": "gallery",
+      "formats": "website gallery · UI gallery · Open Graph gallery",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The terms say browsing is free and featured sites, designs, logos and screenshots belong to their respective owners. No reuse licence for gallery imagery was stated; the site sells sponsored placements.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "curated-design",
+        "appinspo",
+        "best-saas-web-designs"
+      ]
+    },
+    {
       "slug": "godly",
       "path": "sites/godly.md",
       "title": "Godly",
@@ -7135,6 +7185,34 @@
         "appllama",
         "page-flows",
         "mobbin"
+      ]
+    },
+    {
+      "slug": "halaska-ui",
+      "path": "sites/halaska-ui.md",
+      "title": "Halaska UI",
+      "description": "MIT React kit for AI products, pairing live sample screens with reusable interaction patterns and components.",
+      "url": "https://ui.halaska.com/",
+      "type": "component-library",
+      "formats": "React component kit · AI product patterns · component reference",
+      "topics": [
+        "components",
+        "ai-interfaces",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "The site says the kit is MIT licensed; the linked public GitHub repository contains an MIT LICENSE. No paid tier was listed at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "beautiful-ui",
+        "gaia-ui",
+        "agentcn"
       ]
     },
     {
@@ -8141,6 +8219,34 @@
         "recent-design",
         "behance",
         "dribbble"
+      ]
+    },
+    {
+      "slug": "inspo",
+      "path": "sites/inspo.md",
+      "title": "Inspo",
+      "description": "Searchable archive of production-site screens with live-source links, extracted design profiles and a free hosted MCP.",
+      "url": "https://inspomcp.dev/",
+      "type": "gallery",
+      "formats": "website and screen archive · design profiles · MCP",
+      "topics": [
+        "inspiration",
+        "agents-and-prompts",
+        "design-md"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "The site says its read-only catalogue is free and credits featured sites to their authors. The public source repository is MIT licensed; no reuse licence for the captured third-party screens was stated.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "curated-design",
+        "a1-gallery",
+        "appinspo"
       ]
     },
     {
@@ -10835,6 +10941,33 @@
         "60fps",
         "motion-primitives",
         "design-motion-principles"
+      ]
+    },
+    {
+      "slug": "motionsites",
+      "path": "sites/motionsites.md",
+      "title": "MotionSites AI",
+      "description": "Prompt library of illustrated website concepts, with category filters, copyable prompts and an authenticated MCP.",
+      "url": "https://motionsites.ai/",
+      "type": "prompt-library",
+      "formats": "website and section prompts · design gallery · MCP",
+      "topics": [
+        "agents-and-prompts",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "The site displays © 2026 and All rights reserved. Its paid plans include personal and client work, but public pages do not specify a broader reuse licence for prompts, images or generated code.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "onepromptdesign",
+        "vibeprompts",
+        "designmd"
       ]
     },
     {
