@@ -3,6 +3,7 @@ import { createRequire } from 'node:module';
 import { dirname, join } from 'node:path';
 import { defineConfig } from 'vitepress';
 import { GITHUB, ROUTES, atlasMarkdown, loadTopics, srcExclude } from './atlas.js';
+import { renderSearch } from './search.js';
 
 const require = createRequire(import.meta.url);
 const topics = loadTopics();
@@ -98,7 +99,7 @@ export default defineConfig({
       },
     ],
     outline: { level: 2, label: 'On this page' },
-    search: { provider: 'local' },
+    search: { provider: 'local', options: { _render: renderSearch } },
     docFooter: { prev: 'Previous', next: 'Next' },
     externalLinkIcon: false,
   },
