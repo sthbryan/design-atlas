@@ -11,7 +11,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/build.mjs --check && bun run --silent test",
-    "test": "node --test scripts/search.test.mjs scripts/design-md.test.mjs",
+    "test": "node --test scripts/search.test.mjs scripts/design-md.test.mjs scripts/site-performance.test.mjs",
     "site:dev": "vitepress dev site --host 127.0.0.1",
     "site:build": "vitepress build site",
     "site:preview": "vitepress preview site --host 127.0.0.1"
@@ -21,5 +21,8 @@
     "@phosphor-icons/core": "2.1.1",
     "vitepress": "1.6.4",
     "yaml": "2.9.1"
+  },
+  "dependencies": {
+    "virtua": "^0.52.10"
   }
 }

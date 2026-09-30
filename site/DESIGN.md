@@ -230,7 +230,7 @@ Neutrals lean to hue 165 at chroma 0.004 to 0.018 (C3); the accent is sienna at 
 
 - Scale: 4 to 48px (L1); gaps between groups at least twice the gaps inside one.
 - Frame: VitePress nav, sidebar and content. Prose at `max-width: 68ch` (T5); rows and legends span the content width.
-- Home: a short introduction, two paths separated by rules, task-based topic links, and installation commands for compatible agents and Claude Code; the README has its own `/readme` route. Topics index: cards in `repeat(auto-fill, minmax(16rem, 1fr))`. Site index: labelled search field, live count, legend and rows, with 50 initially shown and more revealed on demand. Hubs: "All sources" as rows, no table of contents. Site pages: the seven sections beside a 280px facts rail.
+- Home: a short introduction, two paths separated by rules, task-based topic links, and installation commands for compatible agents and Claude Code; the README has its own `/readme` route. Topics index: cards in `repeat(auto-fill, minmax(16rem, 1fr))`. Site index: labelled search field, live count, legend and rows, with 50 initially shown and more revealed on demand. Hubs: "All sources" as rows, no table of contents; hubs with more than 50 sources use the same live filter and groups of 50 as the site index. Site pages: the seven sections beside a 280px facts rail.
 - Density: rows at least 48px with 12px padding; buttons 32px, 44px on coarse pointers (L2); search field 40px.
 
 ## Elevation and depth
@@ -245,7 +245,7 @@ Neutrals lean to hue 165 at chroma 0.004 to 0.018 (C3); the accent is sienna at 
 
 | Component | Tokens | States |
 |---|---|---|
-| Link | `link`, underline offset 0.15em | `link-hover`; focus ring; external links open in the same tab, no icon |
+| Link | `link`, underline offset 0.15em | `link-hover`; focus ring; external links open in a new tab, no icon |
 | Nav | `nav`; title in heading-3; Topics, Sites, DESIGN.md; GitHub icon; local search | Current: 2px `{colors.accent}` bar under the label; hover underline |
 | Sidebar | `{colors.surface}` | Current: accent indicator |
 | Search field | `search-field`, `border-control` edge, magnifier, visible label | Filters live; Clear with a value; query in `?q=`; empty state names the query and offers to clear |
@@ -262,6 +262,8 @@ Neutrals lean to hue 165 at chroma 0.004 to 0.018 (C3); the accent is sienna at 
 | Code | `code-block`, `code-inline`; syntax colours flattened to `{colors.text}` | VitePress copy button |
 | Prose table | `table-header` | Static |
 | Callout | VitePress blocks: warning on `{colors.warning-soft}`, danger on `{colors.danger-soft}`, others on `{colors.surface}` | Static; unused so far |
+
+- Long lists: reveal 50 rows per action, with Virtua window virtualization for pointer scrolling and measured, variable row heights. Tab navigation switches to the complete revealed list so every link stays reachable; those offscreen rows defer painting with `content-visibility: auto` and an initial 8rem block estimate. Small hubs retain their complete static lists.
 
 - Icons: Phosphor Regular from `@phosphor-icons/core`, 16px, in an inline sprite: check, warning, eye, link-break, magnifying-glass.
 - Out of scope: filter chips, a filter rail, sortable columns, a sticky table header, topic tags, tooltips.

@@ -499,10 +499,27 @@ body {
   padding: 0;
 }
 
-.vp-doc ul.gazetteer {
+.vp-doc .gazetteer {
   container-type: inline-size;
   margin: 0;
   border-top: var(--rule-width) solid var(--color-border);
+}
+
+.vp-doc ul.atlas-virtual-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.vp-doc .atlas-virtual-list > li {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+.vp-doc .atlas-virtual-list .gz-row {
+  content-visibility: visible;
+  contain-intrinsic-block-size: none;
 }
 
 .vp-doc .gazetteer > li + li,
@@ -515,6 +532,8 @@ body {
 }
 
 .vp-doc .gz-row {
+  content-visibility: auto;
+  contain-intrinsic-block-size: auto 8rem;
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   gap: var(--space-xs) var(--space-lg);

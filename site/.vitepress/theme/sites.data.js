@@ -1,5 +1,4 @@
 import { loadSites } from '../atlas.js';
-import { licenceGroup } from './legend.js';
 
 const shownTitle = (site) => (site.status === 'stale' || site.status === 'broken' ? `${site.title} (${site.status})` : site.title);
 
@@ -15,9 +14,8 @@ export default {
       agent: site.agent ?? [],
       reviewed: site.reviewed,
       status: site.status,
-      haystack: [site.title, site.description, site.type, ...(site.topics ?? []), ...(site.agent ?? []), site.verdict, site.licence_class, licenceGroup(site.licence_class).label, site.status, site.reviewed]
-        .join(' ')
-        .toLowerCase(),
+      topics: site.topics ?? [],
+      type: site.type,
     }));
   },
 };

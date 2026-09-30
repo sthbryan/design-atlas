@@ -119,6 +119,13 @@ function siteFacts(state) {
 
 export function atlasMarkdown(md) {
   const sites = loadSites();
+  md.core.ruler.before('block', 'atlas_large_hubs', (state) => {
+    const source = state.env.realPath ?? state.env.path ?? '';
+    if (dirname(source) !== join(REPO, 'topics')) return;
+    const topic = source.split('/').pop().replace(/\.md$/, '');
+    if (sites.filter((site) => site.topics?.includes(topic)).length <= 50) return;
+    state.src = state.src.replace(/<!-- atlas:sources:start -->[\s\S]*?<!-- atlas:sources:end -->/, `<AtlasSiteIndex topic="${topic}" />`);
+  });
   md.core.ruler.push('atlas_gazetteer', (state) => gazetteer(state, sites));
   md.core.ruler.push('atlas_repo_links', rewriteLinks);
   md.core.ruler.push('atlas_site_facts', siteFacts);
