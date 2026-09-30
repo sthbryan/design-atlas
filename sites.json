@@ -904,6 +904,33 @@
       ]
     },
     {
+      "slug": "angular-native",
+      "path": "sites/angular-native.md",
+      "title": "Angular Native",
+      "description": "Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.",
+      "url": "https://ng-native.com/",
+      "type": "js-library",
+      "formats": "Angular native app framework · Expo template · React Native Fabric",
+      "topics": [
+        "components",
+        "documentation",
+        "ux-patterns"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free and MIT-licensed in the `ng-native/ng-native` repository. The project is in alpha at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "design-mobile-apps",
+        "ionicons"
+      ]
+    },
+    {
       "slug": "anim8",
       "path": "sites/anim8.md",
       "title": "Anim8",
@@ -1431,6 +1458,37 @@
       "related": [
         "folios-gallery",
         "wall-of-portfolios"
+      ]
+    },
+    {
+      "slug": "ascii-magic",
+      "path": "sites/ascii-magic.md",
+      "title": "ASCII Magic",
+      "description": "Browser image and video studio for ASCII, dithering, mosaics and visual effects, with an MCP server for agents.",
+      "url": "https://www.ascii-magic.com/",
+      "type": "tool",
+      "formats": "image and video effects · recipes · MCP server · agents.md",
+      "topics": [
+        "assets",
+        "motion",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free plan includes core styles and unlimited watermark-free exports; Pro was $4/month on the annual plan, $7 quarterly or $8 monthly at review. The terms assign the exported output to the user for commercial use; the site and renderer remain proprietary.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "ascii-studio",
+        "ditther",
+        "doodad-dither-me-this",
+        "halftone-maker",
+        "dotforge"
       ]
     },
     {
@@ -2158,6 +2216,33 @@
       ]
     },
     {
+      "slug": "best-website-templates",
+      "path": "sites/best-website-templates.md",
+      "title": "BestWebsiteTemplate.com",
+      "description": "Free template directory with filters, looping homepage previews and separate design and development scores; Aries is a detailed Webflow example.",
+      "url": "https://bestwebsitetemplate.com/",
+      "type": "directory",
+      "formats": "curated Webflow, Framer and Shopify templates · review scores · video previews",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "The directory and reviews are free to browse. It does not grant reuse rights for the templates; Aries was listed at $129 at review, and its Webflow licence controls reuse. No licence for the directory's own text or design is stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "made-in-webflow",
+        "awwwards",
+        "best-website-gallery"
+      ]
+    },
+    {
       "slug": "bestdesignsonx",
       "path": "sites/bestdesignsonx.md",
       "title": "Best Designs on X",
@@ -2716,6 +2801,32 @@
       ]
     },
     {
+      "slug": "charm",
+      "path": "sites/charm.md",
+      "title": "Charm",
+      "description": "Purple, playful developer-tools homepage that turns a family of terminal UI libraries into a cohesive visual brand.",
+      "url": "https://charm.land/",
+      "type": "website",
+      "formats": "developer tools · terminal UI libraries · product showcase",
+      "topics": [
+        "inspiration",
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The featured Bubble Tea, Lip Gloss and Bubbles libraries are MIT licensed and free; other projects have their own terms. Charm's marketing copy, artwork and site design have no reuse licence stated.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "best-saas-web-designs",
+        "design-sorcery",
+        "made-in-webflow"
+      ]
+    },
+    {
       "slug": "chloe-maillot",
       "path": "sites/chloe-maillot.md",
       "title": "Chloé Maillot",
@@ -3163,7 +3274,7 @@
       "slug": "coss-ui",
       "path": "sites/coss-ui.md",
       "title": "coss ui",
-      "description": "Cal.com's Base UI design system with about 500 composed particles and agent skills; mixed MIT/AGPL repo.",
+      "description": "Cal.com's Base UI design system with composed particles and agent skills; mixed MIT/AGPL repo.",
       "url": "https://coss.com/ui",
       "type": "component-registry",
       "formats": "component registry (shadcn) with agent skills",
@@ -3181,7 +3292,7 @@
       "pricing": "free",
       "licence": "Free. The `apps/ui` and `apps/origin` folders of the `cosscom/coss` monorepo are MIT, while the rest of the repo, including the shared `packages/ui` package, is AGPL-3.0 (about 10.6k GitHub stars at review)",
       "licence_class": "mixed",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-09-29",
       "status": "active",
       "related": [
         "base-ui",
@@ -3992,7 +4103,7 @@
       "slug": "design-minis",
       "path": "sites/design-minis.md",
       "title": "Design Minis",
-      "description": "128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.",
+      "description": "Directory of small design tools filtered by category and price, including effects, backgrounds, motion, type and image editors.",
       "url": "https://www.designminis.com",
       "type": "directory",
       "formats": "directory · in-browser image and effect tools",
@@ -4007,7 +4118,7 @@
       "pricing": "free",
       "licence": "Free, no account or cookies. The terms keep the site design, text and in-house tool code with the operator and forbid scraping or republishing the directory; files you export from the in-house tools are yours to use, including commercially. Listed tools keep their own terms",
       "licence_class": "proprietary-free",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-09-29",
       "status": "active",
       "related": [
         "tooooools",
@@ -4733,6 +4844,32 @@
       ]
     },
     {
+      "slug": "dither-garden",
+      "path": "sites/dither-garden.md",
+      "title": "Dither Garden",
+      "description": "Browser dithering studio with classic diffusion, ordered and noise-based patterns, plus text export.",
+      "url": "https://www.dithergarden.com/",
+      "type": "tool",
+      "formats": "image dithering · browser editor · text-art export",
+      "topics": [
+        "assets",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site offers its editor without a listed price and links to an optional coffee donation. No reuse licence or terms were stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "dotforge",
+        "ditther",
+        "doodad-dither-me-this",
+        "ascii-magic"
+      ]
+    },
+    {
       "slug": "dither-kit",
       "path": "sites/dither-kit.md",
       "title": "Dither Kit",
@@ -4812,6 +4949,32 @@
         "imageory",
         "screan",
         "ui-camera"
+      ]
+    },
+    {
+      "slug": "doodad-dither-me-this",
+      "path": "sites/doodad-dither-me-this.md",
+      "title": "Dither Me This",
+      "description": "Browser image dithering tool with retro palette presets and controls for diffusion, ordered and random patterns.",
+      "url": "https://doodad.dev/dither-me-this/",
+      "type": "tool",
+      "formats": "image dithering · preset palettes · JPEG and PNG export",
+      "topics": [
+        "assets",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The tool is available without a listed fee and its maker accepts optional coffee donations. No reuse licence or terms were stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "dither-garden",
+        "ditther",
+        "ascii-magic",
+        "dotforge"
       ]
     },
     {
@@ -6146,6 +6309,34 @@
       ]
     },
     {
+      "slug": "gaia-ui",
+      "path": "sites/gaia-ui.md",
+      "title": "GAIA UI",
+      "description": "MIT, shadcn-compatible React components for AI assistants, with documented registry installation and a focused agent-app visual language.",
+      "url": "https://ui.heygaia.io/",
+      "type": "component-registry",
+      "formats": "React component registry · shadcn CLI · AI assistant interface patterns",
+      "topics": [
+        "ai-interfaces",
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Free and MIT-licensed in the `theexperiencecompany/gaia-ui` repository. The site listed 39 components at review; the project labels itself beta and says APIs may change before v1.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "magic-ui",
+        "21st-dev"
+      ]
+    },
+    {
       "slug": "gallereee",
       "path": "sites/gallereee.md",
       "title": "Gallereee",
@@ -6259,6 +6450,31 @@
         "aura",
         "neuform",
         "60fps"
+      ]
+    },
+    {
+      "slug": "gil-huybrecht",
+      "path": "sites/gil-huybrecht.md",
+      "title": "Gil Huybrecht",
+      "description": "Art director portfolio using a black canvas, dense project thumbnails and a compact service and recognition index.",
+      "url": "https://gilhuybrecht.com/",
+      "type": "website",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "Freelance services are offered but no rates or asset reuse licence were stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "unseen",
+        "lusion",
+        "bluecanvas"
       ]
     },
     {
@@ -6772,6 +6988,32 @@
       ]
     },
     {
+      "slug": "halftone-maker",
+      "path": "sites/halftone-maker.md",
+      "title": "Halftone Maker",
+      "description": "Browser studio for vector halftone and stipple images, with shape, grid, colour and sampling controls.",
+      "url": "https://halftonemaker.com/",
+      "type": "tool",
+      "formats": "halftone and stipple editor · PNG, SVG and JSON export · batch processing",
+      "topics": [
+        "assets",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free tier allows commercial use and unlimited 1× PNG export. Pro was $4/month or $48/year at review and adds unlimited SVG, high-resolution PNG, batch export and 30 monthly background removals. Generated outputs may be used commercially without attribution, but default sample artwork is preview-only; the app and its code are proprietary.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "vector-halftone-maker",
+        "pointilliser",
+        "ascii-magic",
+        "ditther"
+      ]
+    },
+    {
       "slug": "hallmark",
       "path": "sites/hallmark.md",
       "title": "Hallmark",
@@ -6918,6 +7160,31 @@
         "shadcn-ui",
         "headless-ui",
         "tremor"
+      ]
+    },
+    {
+      "slug": "hex-swipe-file",
+      "path": "sites/hex-swipe-file.md",
+      "title": "HEX Swipe File",
+      "description": "Agency-maintained reference wall of brand, web, motion and product work, filterable by tag and presented in varied image sizes.",
+      "url": "https://swipe.hex.inc/",
+      "type": "gallery",
+      "topics": [
+        "inspiration",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Public browsing is free; no reuse licence for the collected work was stated. Items link back to their makers or original sites where available.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "design-sorcery",
+        "bencho",
+        "saaspo"
       ]
     },
     {
@@ -8762,6 +9029,32 @@
       ]
     },
     {
+      "slug": "light-rails",
+      "path": "sites/light-rails.md",
+      "title": "Light Rails",
+      "description": "Interactive editor for shaping animated light patterns with geometry, colour and timing controls, then exporting the result.",
+      "url": "https://light-stroke-rail.vercel.app/",
+      "type": "design-workspace",
+      "formats": "animated pattern editor · template gallery · export",
+      "topics": [
+        "motion",
+        "assets",
+        "3d-and-shaders"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The editor and export are publicly accessible at review; no price or reuse licence for its output was stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "magicpattern",
+        "unicorn-studio",
+        "motionin"
+      ]
+    },
+    {
       "slug": "lightswind",
       "path": "sites/lightswind.md",
       "title": "Lightswind",
@@ -8928,6 +9221,32 @@
       ]
     },
     {
+      "slug": "liten-ui",
+      "path": "sites/liten-ui.md",
+      "title": "Liten UI",
+      "description": "Dark, depth-focused React component library with 46 documented examples, live previews and copyable implementation notes.",
+      "url": "https://ui.liten.design/",
+      "type": "component-library",
+      "formats": "React components · live documentation · code and Markdown copy",
+      "topics": [
+        "components",
+        "motion",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The site describes the library as free and premium but does not explain the plans or state a licence. The linked GitHub repository returned 404 at review; treat code and assets as look-only until reuse terms are verified.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "magic-ui",
+        "animate-ui",
+        "motion-primitives"
+      ]
+    },
+    {
       "slug": "loader-buttons",
       "path": "sites/loader-buttons.md",
       "title": "Loader Buttons",
@@ -9008,6 +9327,35 @@
         "inspora",
         "recent-design",
         "scrolltide"
+      ]
+    },
+    {
+      "slug": "localmode-ui",
+      "path": "sites/localmode-ui.md",
+      "title": "LocalMode UI",
+      "description": "MIT shadcn registry of local-first AI components and runnable browser demos for chat, RAG, vision, audio and privacy flows.",
+      "url": "https://localmode.ai/",
+      "type": "component-registry",
+      "formats": "React components · shadcn registry · installable AI demo blocks",
+      "topics": [
+        "components",
+        "ai-interfaces",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "cli",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse and install; the LocalMode repository and UI are MIT licensed. Check third-party model and runtime terms separately.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "ai-ux-playground",
+        "magic-ui"
       ]
     },
     {
@@ -9179,6 +9527,60 @@
         "shadcn-ui",
         "simple-icons",
         "tabler-icons"
+      ]
+    },
+    {
+      "slug": "luma-ai",
+      "path": "sites/luma-ai.md",
+      "title": "Luma (AI)",
+      "description": "Creative AI product site with a dark, editorial hero, production-focused workflow examples and pricing for multimodal creative agents.",
+      "url": "https://lumalabs.ai/app",
+      "type": "website",
+      "formats": "creative AI platform · image and video generation · API",
+      "topics": [
+        "ai-interfaces",
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "Free access is offered; individual plans start at $30/month and paid tiers include commercial-use rights at review. The proprietary service terms restrict reuse of the interface and set separate conditions for inputs and generated output.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "shape-of-ai",
+        "ai-ux-playground",
+        "aurai"
+      ]
+    },
+    {
+      "slug": "luma-events",
+      "path": "sites/luma-events.md",
+      "title": "Luma Events",
+      "description": "Event platform with a Spanish-language landing page built around floating invitation cards, a centered headline and a clear create-event path.",
+      "url": "https://luma.com/?locale=es",
+      "type": "website",
+      "formats": "event calendar · event pages · ticketing · Spanish landing page",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free plan includes unlimited events and guests; paid tickets incur a 5% platform fee plus Stripe processing, or the paid Luma Plus plan removes the platform fee. Terms grant Luma and event hosts broad rights to user-posted content; site artwork has no reuse licence stated.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "framer",
+        "landing-gallery",
+        "awwwards"
       ]
     },
     {
@@ -9661,21 +10063,23 @@
       "slug": "metalforge",
       "path": "sites/metalforge.md",
       "title": "MetalForge",
-      "description": "Live GPU-effect editor and gallery that previews shader looks and exports tuned code for SwiftUI, React Native, Android and web.",
+      "description": "Gallery and live editor for shader animations, with SwiftUI, React Native and web outputs and an MCP beta.",
       "url": "https://metalforge.xyz",
       "type": "tool",
-      "formats": "WebGPU and WebGL effects · Metal and SwiftUI export · Skia, AGSL and web variants",
+      "formats": "WebGPU and WebGL effects · SwiftUI, React Native and web outputs · MCP beta",
       "topics": [
         "3d-and-shaders",
         "motion",
         "assets"
       ],
       "verdict": "useful",
-      "agent": [],
+      "agent": [
+        "mcp"
+      ],
       "pricing": "freemium",
-      "licence": "The editor and previews are free. Pro is €9.99/month or €29 one-time at review and unlocks generated files and runnable projects. Its terms license generated effects for personal or commercial inclusion inside an app, but prohibit sharing or reselling the generated shader source; the site's own code is proprietary.",
+      "licence": "The editor and previews are free. Pro is €9.99/month or €80/year at review (the listed yearly price was discounted from €120) and unlocks code downloads and MCP beta. Terms allow generated snippets in personal or commercial apps, but prohibit sharing or reselling the shader source; site code is proprietary.",
       "licence_class": "proprietary-paid",
-      "reviewed": "2026-09-26",
+      "reviewed": "2026-09-29",
       "status": "active",
       "related": [
         "canvas-ui",
@@ -10125,6 +10529,58 @@
         "60fps",
         "motion-primitives",
         "design-motion-principles"
+      ]
+    },
+    {
+      "slug": "movements",
+      "path": "sites/movements.md",
+      "title": "movements.dev",
+      "description": "Six browser-tunable UI utilities and libraries for refining component details, from refractive glass to shimmer and shadows.",
+      "url": "https://movements.dev/",
+      "type": "component-library",
+      "formats": "browser-tunable UI components · CSS utilities",
+      "topics": [
+        "components",
+        "motion",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The public tools are usable without payment at review; no reuse licence for the site or copied code was stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "kinetics",
+        "smooth-ui",
+        "motion-primitives"
+      ]
+    },
+    {
+      "slug": "movulab",
+      "path": "sites/movulab.md",
+      "title": "Movulab",
+      "description": "Browser editor for looping animated type, with effect presets, typography controls and export options.",
+      "url": "https://movulab.fun/",
+      "type": "tool",
+      "formats": "animated typography editor · browser export",
+      "topics": [
+        "typography-and-styles",
+        "motion",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The editor is accessible without payment at review; no reuse licence for exported work, source or bundled fonts was stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "css-text-effects",
+        "motion-primitives",
+        "dotforge"
       ]
     },
     {
@@ -11021,6 +11477,62 @@
       ]
     },
     {
+      "slug": "ossium",
+      "path": "sites/ossium.md",
+      "title": "Ossium",
+      "description": "Dark developer platform with a centered discovery hero, feature previews and a dashboard route for finding open-source contribution work.",
+      "url": "https://ossium.in/",
+      "type": "website",
+      "formats": "product landing page · discovery dashboard · API · MCP",
+      "topics": [
+        "ux-patterns",
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt",
+        "api",
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "The Terms call the service proprietary and restrict copying, modifying or distributing its branding, software and original content. Discovery is free; Premium was $1.69 monthly or $13.63 yearly in USD at review.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "design-sorcery",
+        "saaspo",
+        "base-ui"
+      ]
+    },
+    {
+      "slug": "oversight-supply",
+      "path": "sites/oversight-supply.md",
+      "title": "Oversight Supply",
+      "description": "Paid library of Webflow and Framer templates plus standalone creative sections, with previews and prompt-based project handoff.",
+      "url": "https://supply.madebyoversight.com/",
+      "type": "template-library",
+      "formats": "Webflow and Framer templates · standalone sections · prompt handoff",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Browsing and previews are free. At review, monthly access was $39 for 3 non-rolling credits; lifetime access was $499. Terms allow use in own or client projects subject to each template's platform licence, but prohibit resale, redistribution, sharing access or account sharing.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "tailark",
+        "framer",
+        "made-in-webflow"
+      ]
+    },
+    {
       "slug": "overtone",
       "path": "sites/overtone.md",
       "title": "Overtone",
@@ -11174,6 +11686,63 @@
         "paper-shaders",
         "loading-dev",
         "loader-buttons"
+      ]
+    },
+    {
+      "slug": "pairfect",
+      "path": "sites/pairfect.md",
+      "title": "Pairfect",
+      "description": "Relationship activity app landing page with a two-person demo, activity previews and a free-plus-paid pricing ladder.",
+      "url": "https://pairfect.site/",
+      "type": "tool",
+      "formats": "couples activity app · interactive product previews",
+      "topics": [
+        "ux-patterns",
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Starter is free; paid plans showed ₹129/month, ₹249/3 months and ₹1,999 lifetime at review. No reuse licence was stated, and the linked Terms page returned 404.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "note": "Public pricing and simulated demos loaded; the linked /terms page returned 404 during review.",
+      "related": [
+        "supermassive-games",
+        "sanrio-games",
+        "saaspo"
+      ]
+    },
+    {
+      "slug": "panelui",
+      "path": "sites/panelui.md",
+      "title": "PanelUI",
+      "description": "MIT React Native component library for Expo, with Tailwind styling, live examples and agent resources.",
+      "url": "https://panelui.dev/",
+      "type": "component-library",
+      "formats": "React Native and Expo components · Tailwind · docs · MCP and skill",
+      "topics": [
+        "components",
+        "agents-and-prompts",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "mcp",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "Free and MIT-licensed. The live docs and homepage listed 136 components at review; the GitHub README appears older and gives a lower count.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "ionicons",
+        "design-mobile-apps"
       ]
     },
     {
@@ -11556,6 +12125,33 @@
         "death-of-typography",
         "too-much-type",
         "fonts-in-use"
+      ]
+    },
+    {
+      "slug": "pointilliser",
+      "path": "sites/pointilliser.md",
+      "title": "Pointilliser",
+      "description": "Two browser tools turn text or images into neo-pointillist graphics made from clustered circles or 3D spheres.",
+      "url": "https://pointilliser.elwyn.co/",
+      "type": "tool",
+      "formats": "2D image and type effects · 3D type scenes · PNG export",
+      "topics": [
+        "assets",
+        "typography-and-styles",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The tools are available in the browser and offer optional coffee support; no reuse licence or terms were stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "paper-shaders",
+        "ascii-magic",
+        "halftone-maker",
+        "metalforge"
       ]
     },
     {
@@ -13183,6 +13779,36 @@
       ]
     },
     {
+      "slug": "sevalla",
+      "path": "sites/sevalla.md",
+      "title": "Sevalla",
+      "description": "Cloud hosting landing page that explains apps, databases, storage and static sites through product previews, location data and MCP workflows.",
+      "url": "https://sevalla.com/",
+      "type": "website",
+      "formats": "cloud hosting · product landing page · MCP and API documentation",
+      "topics": [
+        "landing-pages",
+        "inspiration",
+        "ai-interfaces"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The site is free to browse. Hosting has free static-site allowances and a $20 trial credit; applications and databases are usage-priced, with plans starting at $5/month at review. Site copy and visual assets have no reuse licence stated.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "railway",
+        "awwwards",
+        "best-saas-web-designs"
+      ]
+    },
+    {
       "slug": "shadcn-cssinjs",
       "path": "sites/shadcn-cssinjs.md",
       "title": "shadcn-cssinjs",
@@ -13819,6 +14445,35 @@
         "aceternity-ui",
         "motion-primitives",
         "cult-ui"
+      ]
+    },
+    {
+      "slug": "skysend",
+      "path": "sites/skysend.md",
+      "title": "SkySend",
+      "description": "Minimal encrypted file-sharing landing page that explains its security model through a centered hero, terminal install example and concise proof points.",
+      "url": "https://skysend.app/",
+      "type": "website",
+      "formats": "end-to-end encrypted file sharing · CLI and TUI · REST API · self-hosted",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "agents-and-prompts"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "cli",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse and self-host; the application is AGPL-3.0. Public instances publish their own limits, and users can also run their own server.",
+      "licence_class": "open-source-copyleft",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "sevalla",
+        "railway",
+        "best-saas-web-designs"
       ]
     },
     {
@@ -14744,6 +15399,32 @@
         "shadcnblocks",
         "kibo-ui",
         "tailark"
+      ]
+    },
+    {
+      "slug": "takayu-studio",
+      "path": "sites/takayu-studio.md",
+      "title": "TakayuStudio",
+      "description": "Game UI designer's studio site connecting a motion portfolio, game UI references, browser tools and a structured course path.",
+      "url": "https://takayustudio.jp/",
+      "type": "website",
+      "formats": "portfolio · game UI references · browser tools · paid course",
+      "topics": [
+        "motion",
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The portfolio and reference sites are publicly viewable; the Coloso course cost ¥32,300 at review and is licensed for personal, non-commercial viewing under Coloso terms. No general reuse licence for the site was stated.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "motionin",
+        "motion-primitives",
+        "kinetics"
       ]
     },
     {
@@ -16092,6 +16773,31 @@
       ]
     },
     {
+      "slug": "vector-halftone-maker",
+      "path": "sites/vector-halftone-maker.md",
+      "title": "Vector Halftone Maker",
+      "description": "Lightweight browser tool for turning an image into configurable dot grids, pixel-like shapes and PNG or SVG exports.",
+      "url": "https://halftone.xoihazard.com/",
+      "type": "tool",
+      "formats": "image halftone · square, hexagonal and radial grids · PNG and SVG export",
+      "topics": [
+        "assets",
+        "color"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site says generated content can be used commercially without attribution, while copying its code or design requires permission. The new Halftone Maker is linked as its successor.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "halftone-maker",
+        "dither-garden",
+        "ascii-magic"
+      ]
+    },
+    {
       "slug": "velora-ui",
       "path": "sites/velora-ui.md",
       "title": "Velora UI",
@@ -16497,6 +17203,31 @@
         "layers",
         "minimal-gallery",
         "dark-mode-design"
+      ]
+    },
+    {
+      "slug": "wasmer-sh",
+      "path": "sites/wasmer-sh.md",
+      "title": "Wasmer.sh",
+      "description": "Browser-based WebAssembly shell with one-click examples for Pi, Node.js, Python, databases and developer utilities.",
+      "url": "https://wasmer.sh/",
+      "type": "tool",
+      "formats": "browser terminal · WebAssembly sandbox · Wasmer JavaScript SDK demo",
+      "topics": [
+        "ai-interfaces",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The linked Wasmer SDK and runtime are MIT licensed; the browser examples are free to open. Wasmer.io hosting has separate free and paid tiers. Check the SDK's current alpha status before building on it.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-09-29",
+      "status": "active",
+      "related": [
+        "ai-ux-playground",
+        "v0",
+        "railway"
       ]
     },
     {

@@ -25,6 +25,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Anim8](../sites/anim8.md) — Browser editor that traces video into editable animated SVG and Lottie; MCP and CLI on Pro.
 - [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie/SVG/GIF icons; free tier plus one-time All-Access, no attribution needed.
 - [AppShot Gallery](../sites/appshot-gallery.md) — Real App Store and Play Store listing screenshots and icons, filterable by genre, style and tone.
+- [ASCII Magic](../sites/ascii-magic.md) — Browser image and video studio for ASCII, dithering, mosaics and visual effects, with an MCP server for agents.
 - [ASCII Studio](../sites/ascii-studio.md) — Turns images, GIFs and video into ASCII animation and exports a self-contained React component.
 - [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
 - [Backgrounds Supply](../sites/backgrounds-supply.md) — Paid lifetime library of gradient, AI and animated hero backgrounds, plus a free Gradient Lab shader tool.
@@ -38,11 +39,13 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Curations Supply](../sites/curations-supply.md) — Panda Network's directory of about 290 curated galleries, type, colour, UX and component sites, each with a logo, screenshot and one-line summary.
 - [Death of Typography](../sites/death-of-typography.md) — Singapore type collective whose home page is a cropped 380px marquee in its own face, plus a specimen tester with 27 sliders.
 - [Departure Mono](../sites/departure-mono.md) — Free OFL pixel monospace font by Helena Zhang with box drawing, Cyrillic and Greek.
-- [Design Minis](../sites/design-minis.md) — 128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.
+- [Design Minis](../sites/design-minis.md) — Directory of small design tools filtered by category and price, including effects, backgrounds, motion, type and image editors.
 - [DesignBookmark](../sites/design-bookmark.md) — Directory of about 2,500 design, dev and AI tools in 59 categories, with a page per tool, clear sponsor labels and an llms.txt with counts.
 - [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
 - [DesignEng](../sites/designeng-tools.md) — About 200 design-engineering links by category (component kits, icons, tools, agent skills, inspiration, people) with pricing filters and saves.
 - [Devicon](../sites/devicon.md) — MIT set of language and dev-tool logos as SVG and a font, made for tech-stack rows.
+- [Dither Garden](../sites/dither-garden.md) — Browser dithering studio with classic diffusion, ordered and noise-based patterns, plus text export.
+- [Dither Me This](../sites/doodad-dither-me-this.md) — Browser image dithering tool with retro palette presets and controls for diffusion, ordered and random patterns.
 - [Ditherland](../sites/ditherland.md) — Browser editor for dithering images and video, plus an animated generator with pixel, palette and tone-curve controls.
 - [Ditther](../sites/ditther.md) — A browser editor and effect gallery for pixel, dither, ASCII and print-like treatments across still images and motion.
 - [DotForge](../sites/dotforge.md) — Browser tool with 51 animated effects, dither patterns and post-FX; exports PNG, video or an HTML embed.
@@ -58,6 +61,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [gltf.report](../sites/gltf-report.md) — Drop in a GLB to inspect, validate, script and Draco/Meshopt-compress it locally, built on glTF Transform.
 - [Grainient](../sites/grainient.md) — A curated library of smooth, grainy and animated gradients, plus a live shader editor for custom backgrounds.
 - [GreatStuff](../sites/greatstuff.md) — Framer-built archive of about 600 links for designers (tools, assets, galleries, AI, Mac apps), filterable by type, with a shuffle button.
+- [Halftone Maker](../sites/halftone-maker.md) — Browser studio for vector halftone and stipple images, with shape, grid, colour and sampling controls.
 - [Heroicons (stale)](../sites/heroicons.md) — Tailwind Labs' MIT set of 316 icons, each drawn in outline, solid, mini and micro sizes, with React and Vue packages.
 - [HK Grotesk Wide](../sites/hk-grotesk-wide.md) — A wide display family presented with bold green poster layouts and an editable preview across every weight.
 - [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
@@ -75,14 +79,17 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [isthereanytool](../sites/isthereanytool.md) — About 1,700 design, craft and AI tools in 19 categories, each with pricing, a why-notable note and a confidence rating; full catalogue in llms-full.txt.
 - [Kitbitz](../sites/kitbitz.md) — 2,000+ hand-drawn illustrations with an artisanal, non-digital feel, free with no login required.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
+- [Light Rails](../sites/light-rails.md) — Interactive editor for shaping animated light patterns with geometry, colour and timing controls, then exporting the result.
 - [Linden Hill](../sites/linden-hill.md) — Serif font specimen with Regular and Italic switching, a detailed glyph map and visual examples of OpenType features.
+- [Liten UI](../sites/liten-ui.md) — Dark, depth-focused React component library with 46 documented examples, live previews and copyable implementation notes.
 - [Lottie](../sites/lottiefiles.md) — Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.
 - [Lucide](../sites/lucide.md) — Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.
 - [MagicPattern](../sites/magicpattern.md) — A toolbox of live pattern, mesh-gradient, shader and background editors with image and code exports.
 - [Mascofast](../sites/mascofast.md) — Paid AI tool that turns text or photos into mascots, exported as transparent GIF, WebM or Lottie.
 - [Material Symbols](../sites/material-symbols.md) — Google's Apache 2.0 variable icon font: about 3,900 symbols in three styles with fill, weight, grade and optical size axes.
-- [MetalForge](../sites/metalforge.md) — Live GPU-effect editor and gallery that previews shader looks and exports tuned code for SwiftUI, React Native, Android and web.
+- [MetalForge](../sites/metalforge.md) — Gallery and live editor for shader animations, with SwiftUI, React Native and web outputs and an MCP beta.
 - [Montagu Slab](../sites/montagu-slab.md) — Variable slab serif with a live tester that exposes weight, optical size, spacing and leading across several scripts.
+- [Movulab](../sites/movulab.md) — Browser editor for looping animated type, with effect presets, typography controls and export options.
 - [MX Icons](../sites/mx-icons.md) — About 2,200 soft React icons in six styles labelled MIT; sources not credited.
 - [Nacelle](../sites/nacelle.md) — Japanese type specimen pairing a quiet split layout and oversized word sample with named styles and an OFL licence.
 - [Noise & Gradient](../sites/noiseandgradient.md) — A p5.js canvas generator for textured color gradients with editable palettes, chaos and grain controls.
@@ -94,6 +101,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.
 - [Playgrnd](../sites/playgrnd.md) — 52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.
 - [Plomb Type](../sites/plomb-type.md) — Lyon type foundry with expressive specimen pages, live text controls, extensive glyph maps and real identity examples.
+- [Pointilliser](../sites/pointilliser.md) — Two browser tools turn text or images into neo-pointillist graphics made from clustered circles or 3D spheres.
 - [Poly Haven](../sites/poly-haven.md) — About 2,400 CC0 HDRIs, PBR textures and models made by people, with a keyless API that asks for credit.
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
 - [Recent](../sites/recent-design.md) — Curated visual feeds for websites and other design work, with source links, style tags and a directory of third-party agent skills.
@@ -123,6 +131,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
 - [V-Fonts](../sites/v-fonts.md) — Searchable variable-font catalogue with live specimens, adjustable axes, metadata and per-family licensing links.
+- [Vector Halftone Maker](../sites/vector-halftone-maker.md) — Lightweight browser tool for turning an image into configurable dot grids, pixel-like shapes and PNG or SVG exports.
 - [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 - [Venust Backgrounds](../sites/venust-backgrounds.md) — CC0 AI hero backgrounds sorted by page slot, each with its prompt; llms.txt and Markdown for agents.
 - [Wakamai Fondue](../sites/wakamai-fondue.md) — Drop in a font to see its OpenType features, variable axes and glyphs, then get ready-made CSS, all in-browser.

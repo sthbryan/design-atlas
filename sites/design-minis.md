@@ -1,6 +1,6 @@
 ---
 title: Design Minis
-description: 128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.
+description: Directory of small design tools filtered by category and price, including effects, backgrounds, motion, type and image editors.
 url: https://www.designminis.com
 type: directory
 formats: directory · in-browser image and effect tools
@@ -10,7 +10,7 @@ agent: []
 pricing: free
 licence: Free, no account or cookies. The terms keep the site design, text and in-house tool code with the operator and forbid scraping or republishing the directory; files you export from the in-house tools are yours to use, including commercially. Listed tools keep their own terms
 licence_class: proprietary-free
-reviewed: 2026-09-25
+reviewed: 2026-09-29
 status: active
 related: [tooooools, dotforge, fffuel, everywhere-tools, ascii-studio]
 ---
@@ -30,9 +30,10 @@ Design Minis is a directory of small web tools made by designers, each doing one
 
 ## Most useful
 
-- **Catalogue**: 128 tools at review, added between February and September 2026. By pricing: 102 free, 23 freemium, 3 paid.
-- **Categories** (up to three per tool): Motion 19, Images 16, Backgrounds 15, Effects 14, 3D 12, Color 12, Typography 10, Illustration 9, SVG 9, Icons 5, and a few in CSS, Video, Layout, Accessibility and Whiteboard.
+- **Catalogue**: the live directory filters tools by category and price; the home page loads a subset first and offers a “Load more” control.
+- **Categories**: filter by Motion, Images, Backgrounds, Effects, 3D, Color, Typography, Illustration, SVG, Icons, CSS, Video, Layout, Accessibility and Whiteboard. A tool can appear in up to three categories.
 - **In-house tools** (nine at review), which run on your device: Cutout (background removal with an on-device model), Trace (bitmap logo to SVG paths), Plinth (screenshot on a perspective backdrop), Refract, Shatter, Signal, Mirrors, Paper Studio and Hatchery.
+- **Fluid Letters** is a free browser font builder listed under Typography. Its editor offers grid-based letter construction, corner-radius and gooey controls, preview tracking, font import and OTF export. The live preview uses a vivid blue field and modular white lettering; [open the maker's tool](https://fluid-letters.vercel.app/?ref=designminis.com).
 - Every listing credits the tool's maker by name, usually with a link.
 
 ## Using it with agents
@@ -43,6 +44,7 @@ No llms.txt, MCP or API. Use it by hand: make the asset in a tool, export PNG, S
 
 - One sponsored slot is mixed into the grid (an AI media service at review) and labelled "Sponsored"; the terms say listings are not endorsements.
 - Listed tools set their own privacy terms; the site's no-upload statement covers only its nine in-house tools.
+- Fluid Letters is a listed third-party tool, so Design Minis' commercial-use statement for exports from its own tools does not establish Fluid Letters' reuse terms; no tool-specific licence was stated at review.
 - Its terms warn the in-house tools may break when browsers change, so keep your source files.
 - Tracing or cutting out a logo or photo doesn't change who owns it, as its terms point out.
 

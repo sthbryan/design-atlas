@@ -36,6 +36,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Animista](../sites/animista.md) — A live CSS animation workbench with preview objects, timing controls and copyable generated keyframes.
 - [Annnimate](../sites/annnimate.md) — 105 GSAP components in React, Vue and HTML from a studio, with an MCP for paid subscribers.
 - [Arc](../sites/arc-ui.md) — React components and interactive blocks with motion and live examples.
+- [ASCII Magic](../sites/ascii-magic.md) — Browser image and video studio for ASCII, dithering, mosaics and visual effects, with an MCP server for agents.
 - [ASCII Studio](../sites/ascii-studio.md) — Turns images, GIFs and video into ASCII animation and exports a self-contained React component.
 - [Atelier UI](../sites/atelier-ui.md) — An interactive library of shader and motion components with a live preview, adjustable controls and copyable implementation prompts.
 - [Awwwards](../sites/awwwards.md) — Paid-entry web design awards with jury-scored winners, interaction clips and studio credits; llms.txt plus a small awards API.
@@ -63,7 +64,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Cue](../sites/cue-design.md) — Hand-picked web interaction and UI component references with motion demos and prompts for recreating them.
 - [Cult UI](../sites/cult-ui.md) — Textured, distinctive marketing components and shader heroes built with Motion; paid blocks and templates.
 - [Design Engineer Tools](../sites/designengineer-tools.md) — One-page list of about 128 apps and sites a web design engineer uses, from galleries and component kits to 3D, capture and motion tools.
-- [Design Minis](../sites/design-minis.md) — 128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.
+- [Design Minis](../sites/design-minis.md) — Directory of small design tools filtered by category and price, including effects, backgrounds, motion, type and image editors.
 - [Design Motion Principles](../sites/design-motion-principles.md) — Create or audit UI motion through Emil, Jakub and Jhey lenses; HTML audit report with looping demos.
 - [Design Spells](../sites/design-spells.md) — 337 hand-picked recordings of micro-interactions and easter eggs; llms.txt plus a Markdown homepage via Accept header.
 - [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
@@ -91,6 +92,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Framer](../sites/framer.md) — Canvas website builder and host with an in-app agent, skills, and a bridge that lets Claude Code or Codex edit projects on branches.
 - [Frameset](../sites/frameset.md) — Search film and advertising frames by text or image, then open individual references to study composition, colour and camera treatment.
 - [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
+- [Gil Huybrecht](../sites/gil-huybrecht.md) — Art director portfolio using a black canvas, dense project thumbnails and a compact service and recognition index.
 - [glass-lens-react](../sites/glass-lens-react.md) — A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.
 - [glimm](../sites/glimm.md) — WebGL colour-band page transitions for React/Next.js, with a copyable agent prompt.
 - [Godly](../sites/godly.md) — A dark, masonry-style gallery for websites, app screens, logos and UI details, with focused routes for page sections and visual assets.
@@ -100,6 +102,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Great UI](../sites/great-ui.md) — 50 Motion and Tailwind components strong on page and theme transitions; the badge says MIT but the licence bars redistribution.
 - [GSAP](../sites/gsap.md) — Timeline animation engine, now free with every plugin under Webflow; llms.txt plus official agent skills.
 - [Heroicons Animated](../sites/heroicons-animated.md) — 316 Heroicons outline icons with hover animations built on Motion, via shadcn registry, npm and llms.txt.
+- [HEX Swipe File](../sites/hex-swipe-file.md) — Agency-maintained reference wall of brand, web, motion and product work, filterable by tag and presented in varied image sizes.
 - [Higgsfield](../sites/higgsfield.md) — A dark, media-led creative-suite landing page with chartreuse controls, cinematic previews and a compact product navigation.
 - [Hover States](../sites/hover-states.md) — An archive of about 1,775 experimental sites since 2012, each with a short note on its interaction and credits.
 - [Huashu Design](../sites/huashu-design.md) — Chinese-language HTML skill for prototypes, decks and MP4 animations; always shows three drafts first.
@@ -110,12 +113,14 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
 - [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
+- [Light Rails](../sites/light-rails.md) — Interactive editor for shaping animated light patterns with geometry, colour and timing controls, then exporting the result.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
 - [Liquefy UI](../sites/liquefy-ui.md) — MIT React primitives with a live playground for tuning refractive glass, spring motion, and accessible component states.
 - [Liquid Glass](../sites/liquid-glass.md) — DOM-manipulation tool for real-time refractive "liquid glass" distortion effects.
 - [Liquid Glass Playground by Pallav](../sites/glass-projects-lab-demo.md) — A long-form playground that maps liquid-glass presets, parameters and interface uses into a browsable visual lab.
 - [Liquid Glass Web React](../sites/liquid-glass-web-react.md) — A detailed playground for draggable refractive lenses, with live controls for shape, light, colour fringing and motion.
 - [Liquid Orb Editor](../sites/liquid-orb-editor.md) — Live WebGPU editor for liquid-glass orbs, with shareable parameter links and Web or SwiftUI/Metal code export.
+- [Liten UI](../sites/liten-ui.md) — Dark, depth-focused React component library with 46 documented examples, live previews and copyable implementation notes.
 - [Loader Buttons](../sites/loader-buttons.md) — 25 experimental loading-state buttons in WebGL, SVG, Canvas and CSS; no licence published.
 - [loading.dev](../sites/loading-dev.md) — 27 small React 19 spinners that inherit currentColor, with a Markdown page per spinner.
 - [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile websites, tagged by visual style, genre and interaction technique.
@@ -132,7 +137,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Mascofast](../sites/mascofast.md) — Paid AI tool that turns text or photos into mascots, exported as transparent GIF, WebM or Lottie.
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
 - [mesh3d](../sites/mesh3d.md) — A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.
-- [MetalForge](../sites/metalforge.md) — Live GPU-effect editor and gallery that previews shader looks and exports tuned code for SwiftUI, React Native, Android and web.
+- [MetalForge](../sites/metalforge.md) — Gallery and live editor for shader animations, with SwiftUI, React Native and web outputs and an MCP beta.
 - [MicroKit](../sites/microkit.md) — 49 React microinteractions with polished transitions, ready to copy and adapt.
 - [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
@@ -141,6 +146,8 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Motion Design Principles by Zajno](../sites/motion-zajno.md) — An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
+- [movements.dev](../sites/movements.md) — Six browser-tunable UI utilities and libraries for refining component details, from refractive glass to shimmer and shadows.
+- [Movulab](../sites/movulab.md) — Browser editor for looping animated type, with effect presets, typography controls and export options.
 - [MUUUUU.ORG](../sites/muuuuu.md) — A Japanese design award gallery that highlights a daily site and tags work by composition, typography, color, motion and visual technique.
 - [NextWell Lab](../sites/nextwell-lab.md) — A portfolio lab of browser experiments with deep-linked 3D, interaction, game, clock and Pomodoro scenes.
 - [Nexvyn UI](../sites/nexvyn-ui.md) — 40 MIT spring-physics components for shadcn projects, from gooey dropdowns to eye-tracking password fields, via the @nexvyn namespace.
@@ -195,6 +202,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Supermassive Games](../sites/supermassive-games.md) — Game studio site built around cinematic title art, with a poster catalogue and dedicated pages for its narrative games.
 - [Swift Pieces](../sites/swift-pieces.md) — Animated SwiftUI components for iOS with live interaction previews, single-file source and agent installation paths.
 - [Syntax UI (stale)](../sites/syntax-ui.md) — MIT copy-paste Tailwind and Framer Motion buttons, loaders, blocks and effects; mostly dormant, with some docs pages erroring at review.
+- [TakayuStudio](../sites/takayu-studio.md) — Game UI designer's studio site connecting a motion portfolio, game UI references, browser tools and a structured course path.
 - [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
 - [The Brand Identity](../sites/the-brand-identity.md) — Editorial case studies of identity systems across typography, packaging, digital work and motion, with searchable visual tags.
 - [The Pudding](../sites/the-pudding.md) — Visual essays that turn data and reported stories into distinctive, interactive editorial experiences.

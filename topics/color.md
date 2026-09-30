@@ -31,14 +31,17 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [daisyUI](../sites/daisyui.md) — MIT Tailwind plugin of semantic component classes and 35 themes; llms.txt doubles as a skill, paid Blueprint MCP.
 - [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
 - [Design DNA](../sites/design-dna.md) — Turns references into a three-part JSON profile (tokens, style, WebGL effects), with measured colours and a ΔE verify loop.
-- [Design Minis](../sites/design-minis.md) — 128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.
+- [Design Minis](../sites/design-minis.md) — Directory of small design tools filtered by category and price, including effects, backgrounds, motion, type and image editors.
 - [Designspiration](../sites/designspiration.md) — Image archive since 2010 with a five-colour palette on every save, colour search and Pro mood boards at $5/month.
+- [Dither Garden](../sites/dither-garden.md) — Browser dithering studio with classic diffusion, ordered and noise-based patterns, plus text export.
+- [Dither Me This](../sites/doodad-dither-me-this.md) — Browser image dithering tool with retro palette presets and controls for diffusion, ordered and random patterns.
 - [Ditherland](../sites/ditherland.md) — Browser editor for dithering images and video, plus an animated generator with pixel, palette and tone-curve controls.
 - [Duolingo Art Style](../sites/duolingo-art-style.md) — Duolingo’s illustrated guide to readable vector shapes, expressive characters, negative space and playful visual storytelling.
 - [extract-design-system](../sites/extract-design-system.md) — Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
 - [Grainient](../sites/grainient.md) — A curated library of smooth, grainy and animated gradients, plus a live shader editor for custom backgrounds.
+- [Halftone Maker](../sites/halftone-maker.md) — Browser studio for vector halftone and stipple images, with shape, grid, colour and sampling controls.
 - [Huemint](../sites/huemint.md) — Palette generator that previews generated colors in brand, website, gradient and illustration templates.
 - [Huetone (stale)](../sites/huetone.md) — LCH/OKLCH palette editor that lines up tone steps across hues, with WCAG and APCA readouts.
 - [IBM Design Language color](../sites/ibm-design-language-color.md) — IBM's color reference shows palette families, accepted gradients, UI themes, accessibility rules and examples in use.
@@ -62,6 +65,7 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [Starbucks Holiday Ad (2024)](../sites/starbucks-holiday-ad-2024.md) — A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
 - [U.S. Web Design System](../sites/uswds.md) — Federal design system with live component previews, configurable tokens and restrained, accessible page patterns.
+- [Vector Halftone Maker](../sites/vector-halftone-maker.md) — Lightweight browser tool for turning an image into configurable dot grids, pixel-like shapes and PNG or SVG exports.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

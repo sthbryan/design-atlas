@@ -22,6 +22,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 <!-- atlas:sources:start -->
 - [AccessLint Skills](../sites/accesslint-skills.md) — Five WCAG-EM accessibility skills (scan, inspect, audit, fix, diff) that grade every finding by evidence.
 - [AI UX Playground](../sites/ai-ux-playground.md) — A practical AI-interface reference with named patterns, live interaction demos, product teardowns, and agent skills.
+- [Angular Native](../sites/angular-native.md) — Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.
 - [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
 - [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
 - [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
@@ -31,7 +32,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [before.click](../sites/before-click.md) — 361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
 - [closeit.fast](../sites/closeit-fast.md) — An e-signature product page with a clickable four-screen walkthrough and a step-by-step document lifecycle.
-- [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with about 500 composed particles and agent skills; mixed MIT/AGPL repo.
+- [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with composed particles and agent skills; mixed MIT/AGPL repo.
 - [DesEngs](../sites/desengs.md) — Dated feed of about 106 design-engineering links (tools, libraries, essays, jobs) plus site, minimal-site and designer galleries; MIT source.
 - [Design Lab](../sites/design-lab.md) — Interviews you, mounts five code variants on a temporary route, then writes an implementation plan.
 - [Design System Checklist](../sites/design-system-checklist.md) — 230 items across language, foundations, 29 components and maintenance, with shareable progress links.
@@ -56,10 +57,14 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
 - [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
 - [Layers](../sites/layers.md) — Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.
+- [Luma Events](../sites/luma-events.md) — Event platform with a Spanish-language landing page built around floating invitation cards, a centered headline and a clear create-event path.
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motion Design Principles by Zajno](../sites/motion-zajno.md) — An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.
+- [Ossium](../sites/ossium.md) — Dark developer platform with a centered discovery hero, feature previews and a dashboard route for finding open-source contribution work.
+- [Oversight Supply](../sites/oversight-supply.md) — Paid library of Webflow and Framer templates plus standalone creative sections, with previews and prompt-based project handoff.
 - [Page Flows](../sites/page-flows.md) — Recorded web and app journeys with annotated steps, screen references and UI examples.
+- [Pairfect](../sites/pairfect.md) — Relationship activity app landing page with a two-person demo, activity previews and a free-plus-paid pricing ladder.
 - [Rauno's Field Notes #5](../sites/rauno-field-notes-5.md) — A video-backed interaction study of stacked sidebar cards, hover cues, hit areas and dismissal motion.
 - [Reeoo](../sites/reeoo.md) — Searchable references for websites, apps, store screenshots, event cards, icons and tools, with filters for industry, colour, style and layout.
 - [Refero](../sites/refero.md) — Search real web and app screens by page type, UX pattern, element, flow, company, colour or font.

@@ -22,6 +22,7 @@ How sites document components, design systems and style — for human readers an
 <!-- atlas:sources:start -->
 - [Adobe Spectrum](../sites/adobe-spectrum.md) — Adobe's Spectrum design system pairs visual foundations, components and patterns with separate open-source implementations.
 - [Ahmad Shadeed](../sites/ishadeed.md) — Hands-on CSS layout articles and an interactive lab for inspecting modern selectors, grids and container queries.
+- [Angular Native](../sites/angular-native.md) — Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.
 - [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
 - [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
 - [Astryx](../sites/astryx.md) — Meta's React design system with rich form controls, strong accessibility hooks and a plugin-based table.

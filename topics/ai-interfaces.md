@@ -30,17 +30,22 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [beUI](../sites/beui.md) — MIT motion components, agent UI and charts with llms.txt, JSON API, agent skill and hosted MCP; paid Pro adds blocks and templates.
 - [Fluid Functionalism](../sites/fluid-functionalism.md) — Spring-driven shadcn registry (Radix or Base UI) with proximity hover, AI chat parts and copy prompts.
 - [Fuser](../sites/fuser.md) — A polished recipe page explains an image workflow with a connected input, recipe and output diagram.
+- [GAIA UI](../sites/gaia-ui.md) — MIT, shadcn-compatible React components for AI assistants, with documented registry installation and a focused agent-app visual language.
 - [Jessy In's Gallery](../sites/jessy-in-gallery.md) — Social art gallery built on MoMA's open collection, with shared two-player curation, live chat, postcards and WebMCP tools for browser agents.
 - [Keel Workspace](../sites/keel-workspace.md) — A polished CRM workspace demo with dense pipeline metrics, source-backed agent decisions and keyboard-first review controls.
 - [Kobra](../sites/kobra.md) — Proprietary component system for AI and agent product interfaces, with an llms.txt index and a markdown API per component.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
 - [Liquid Orb Editor](../sites/liquid-orb-editor.md) — Live WebGPU editor for liquid-glass orbs, with shareable parameter links and Web or SwiftUI/Metal code export.
+- [LocalMode UI](../sites/localmode-ui.md) — MIT shadcn registry of local-first AI components and runnable browser demos for chat, RAG, vision, audio and privacy flows.
+- [Luma (AI)](../sites/luma-ai.md) — Creative AI product site with a dark, editorial hero, production-focused workflow examples and pricing for multimodal creative agents.
 - [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
 - [microcharts](../sites/microcharts.md) — MIT React charts sized for sentences, tables and KPI cards, with a catalog and seven live example apps.
 - [Nous Portal](../sites/nous-portal.md) — A dark AI service portal with a fixed resource rail, editorial typography, model catalog and clear subscription comparisons.
 - [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
+- [PanelUI](../sites/panelui.md) — MIT React Native component library for Expo, with Tailwind styling, live examples and agent resources.
 - [Prompt Kit](../sites/prompt-kit.md) — MIT shadcn components for chat UIs: prompt input, auto-scrolling conversation, reasoning, tool-call and citation views.
+- [Sevalla](../sites/sevalla.md) — Cloud hosting landing page that explains apps, databases, storage and static sites through product previews, location data and MCP workflows.
 - [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.
 - [Spectrum UI](../sites/spectrum-ui.md) — Free Apache-2.0 animated shadcn components and blocks, strong on AI-assistant, chart and empty-state blocks, with an MCP server.
@@ -48,6 +53,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [termcn](../sites/termcn.md) — Ink and OpenTUI terminal components via shadcn CLI, including agent chat, tool-approval and diff-review widgets.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
 - [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
+- [Wasmer.sh](../sites/wasmer-sh.md) — Browser-based WebAssembly shell with one-click examples for Pi, Node.js, Python, databases and developer utilities.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

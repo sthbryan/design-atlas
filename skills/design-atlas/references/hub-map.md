@@ -1,6 +1,6 @@
 # Hub map
 
-A snapshot of every hub, generated with `catalog.json` (latest review 2026-09-27): its scope, its "Start here" picks and its adjacent hubs. Read it to choose hubs without opening them, and to widen a thin hub. When a live hub is reachable, the live hub wins.
+A snapshot of every hub, generated with `catalog.json` (latest review 2026-09-29): its scope, its "Start here" picks and its adjacent hubs. Read it to choose hubs without opening them, and to widen a thin hub. When a live hub is reachable, the live hub wins.
 
 A hub marked "none yet" has no curated picks. Query the index for its topic, then read the adjacent hubs.
 

@@ -30,6 +30,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Annnimate](../sites/annnimate.md) — 105 GSAP components in React, Vue and HTML from a studio, with an MCP for paid subscribers.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
 - [Are.na](../sites/are-na.md) — Independent research-style bookmarking in connected channels, with a v3 REST API, llms.txt, official OAuth MCP server and CLI.
+- [ASCII Magic](../sites/ascii-magic.md) — Browser image and video studio for ASCII, dithering, mosaics and visual effects, with an MCP server for agents.
 - [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
 - [Banani](../sites/banani.md) — Public UI-screen references and an AI editor for turning prompts or screenshots into editable prototypes.
 - [Base CN](../sites/base-cn.md) — Community port of the shadcn/ui components to Base UI, installed through a namespaced registry.
@@ -39,7 +40,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
 - [Boxicons](../sites/boxicons.md) — Rounded UI icons with a free core, paid Pro packs and weights, framework packages, a CLI and a SKILL.md for coding agents.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
-- [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with about 500 composed particles and agent skills; mixed MIT/AGPL repo.
+- [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with composed particles and agent skills; mixed MIT/AGPL repo.
 - [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
 - [Cuelume](../sites/cuelume.md) — Seventeen synthesised interaction cues wired by data attributes and bind(), with a full agents.md guide.
 - [daisyUI](../sites/daisyui.md) — MIT Tailwind plugin of semantic component classes and 35 themes; llms.txt doubles as a skill, paid Blueprint MCP.
@@ -59,6 +60,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Flowbite](../sites/flowbite.md) — Large MIT Tailwind library with data-attribute JS, React/Svelte/Vue ports, Figma kit, open-source MCP and paid Pro blocks.
 - [FlyonUI](../sites/flyonui.md) — Semantic Tailwind classes plus bundled Preline JS plugins; MIT with Preline Fair Use terms inherited, paid Pro blocks and MCP builder.
 - [Framer](../sites/framer.md) — Canvas website builder and host with an in-app agent, skills, and a bridge that lets Claude Code or Codex edit projects on branches.
+- [GAIA UI](../sites/gaia-ui.md) — MIT, shadcn-compatible React components for AI assistants, with documented registry installation and a focused agent-app visual language.
 - [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
 - [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
 - [GSAP](../sites/gsap.md) — Timeline animation engine, now free with every plugin under Webflow; llms.txt plus official agent skills.
@@ -80,6 +82,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section galleries with an MCP that returns screenshots, categories and source links to coding agents.
 - [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
+- [LocalMode UI](../sites/localmode-ui.md) — MIT shadcn registry of local-first AI components and runnable browser demos for chat, RAG, vision, audio and privacy flows.
 - [Lottie](../sites/lottiefiles.md) — Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.
 - [Lucide Animated](../sites/lucide-animated.md) — 467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
@@ -92,6 +95,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
 - [OpenDesign](../sites/open-design.md) — Apache-2.0 local design engine for coding agents, with 151 forkable DESIGN.md packages and MCP.
 - [OpenMotion](../sites/openmotion.md) — Free closed desktop app that drives your Claude Code or Codex CLI to turn a brief into editable launch videos; nothing for your own agent to call.
+- [PanelUI](../sites/panelui.md) — MIT React Native component library for Expo, with Tailwind styling, live examples and agent resources.
 - [Penpot](../sites/penpot.md) — MPL-2.0, self-hostable Figma alternative with CSS Flex/Grid layout, W3C-format design tokens and an official MCP server.
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
 - [Preline UI](../sites/preline.md) — Tailwind components with headless JS plugins under MIT plus Fair Use terms; agent skills, block prompts, paid hosted MCP.
@@ -117,6 +121,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Shoogle](../sites/shoogle.md) — Searches items across all shadcn registries from the web, the CLI or a remote MCP server.
 - [Site of Sites](../sites/site-of-sites.md) — Wix gallery of about 600 sites with a pure-blue serif display on white, 16:9 screenshot tiles and four crossable tag axes.
 - [Siteinspire](../sites/siteinspire.md) — A curated website gallery with filters for visual style, site type, subject and platform, plus screenshots and links to the live work.
+- [SkySend](../sites/skysend.md) — Minimal encrypted file-sharing landing page that explains its security model through a centered hero, terminal install example and concise proof points.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.
 - [Spline](../sites/spline.md) — Browser and desktop 3D tool with an event system, code and glTF export, and an MCP server in the desktop app.
 - [SRCL](../sites/srcl.md) — Terminal-aesthetic React kit plus matching CLI framework, with llms.txt, AGENTS.md catalogue and porting skills.

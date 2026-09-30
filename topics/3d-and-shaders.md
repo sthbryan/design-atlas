@@ -48,6 +48,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [HexGL](../sites/hexgl.md) — A WebGL racing game whose landing page frames a playable 3D experience with a futuristic visual theme.
 - [Interact Gallery](../sites/interact-gallery.md) — Screenshot-backed reviews of browser 3D configurators, virtual tours and interactive product experiences, sortable by UX and performance.
 - [Lafys](../sites/lafys.md) — Paid library of long website prompts for Claude, Lovable and v0, each with a video of the result; conflicting licence terms.
+- [Light Rails](../sites/light-rails.md) — Interactive editor for shaping animated light patterns with geometry, colour and timing controls, then exporting the result.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
 - [Liquid Glass Playground by Pallav](../sites/glass-projects-lab-demo.md) — A long-form playground that maps liquid-glass presets, parameters and interface uses into a browsable visual lab.
 - [Liquid Glass Web React](../sites/liquid-glass-web-react.md) — A detailed playground for draggable refractive lenses, with live controls for shape, light, colour fringing and motion.
@@ -55,12 +56,13 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [Loader Buttons](../sites/loader-buttons.md) — 25 experimental loading-state buttons in WebGL, SVG, Canvas and CSS; no licence published.
 - [Lusion](../sites/lusion.md) — A creative studio portfolio with sculptural 3D scenes, restrained typography and immersive project storytelling.
 - [mesh3d](../sites/mesh3d.md) — A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.
-- [MetalForge](../sites/metalforge.md) — Live GPU-effect editor and gallery that previews shader looks and exports tuned code for SwiftUI, React Native, Android and web.
+- [MetalForge](../sites/metalforge.md) — Gallery and live editor for shader animations, with SwiftUI, React Native and web outputs and an MCP beta.
 - [NextWell Lab](../sites/nextwell-lab.md) — A portfolio lab of browser experiments with deep-linked 3D, interaction, game, clock and Pomodoro scenes.
 - [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
 - [OriginKit](../sites/originkit.md) — An interactive component catalogue for shader, cursor, animation and other high-impact web effects, with live parameter controls.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
 - [PlayCanvas](../sites/playcanvas.md) — A WebGL and WebGPU engine whose Explore catalog links to live games, product configurators and real-time graphics demos.
+- [Pointilliser](../sites/pointilliser.md) — Two browser tools turn text or images into neo-pointillist graphics made from clustered circles or 3D spheres.
 - [Poly Haven](../sites/poly-haven.md) — About 2,400 CC0 HDRIs, PBR textures and models made by people, with a keyless API that asks for credit.
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
 - [React Three Fiber](../sites/react-three-fiber.md) — MIT React renderer that writes three.js scenes as JSX, with performance guides, llms-full.txt and a docs MCP.

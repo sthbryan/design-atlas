@@ -1,16 +1,16 @@
 ---
 title: MetalForge
-description: Live GPU-effect editor and gallery that previews shader looks and exports tuned code for SwiftUI, React Native, Android and web.
+description: Gallery and live editor for shader animations, with SwiftUI, React Native and web outputs and an MCP beta.
 url: https://metalforge.xyz
 type: tool
-formats: WebGPU and WebGL effects · Metal and SwiftUI export · Skia, AGSL and web variants
+formats: WebGPU and WebGL effects · SwiftUI, React Native and web outputs · MCP beta
 topics: [3d-and-shaders, motion, assets]
 verdict: useful
-agent: []
+agent: [mcp]
 pricing: freemium
-licence: The editor and previews are free. Pro is €9.99/month or €29 one-time at review and unlocks generated files and runnable projects. Its terms license generated effects for personal or commercial inclusion inside an app, but prohibit sharing or reselling the generated shader source; the site's own code is proprietary.
+licence: The editor and previews are free. Pro is €9.99/month or €80/year at review (the listed yearly price was discounted from €120) and unlocks code downloads and MCP beta. Terms allow generated snippets in personal or commercial apps, but prohibit sharing or reselling the shader source; site code is proprietary.
 licence_class: proprietary-paid
-reviewed: 2026-09-26
+reviewed: 2026-09-29
 status: active
 related: [canvas-ui, paper-shaders, shadercn, orbkit, abstract-by-wannathis]
 ---
@@ -20,7 +20,7 @@ related: [canvas-ui, paper-shaders, shadercn, orbkit, abstract-by-wannathis]
 
 ## What it is
 
-MetalForge is a gallery and browser editor for animated GPU effects. The home page displays live previews in a dark, filterable grid, with categories for website, 3D, glass, backgrounds, orbs, logo and photo, buttons, cards, loaders, progress and characters. Its editor exposes effect parameters and exports platform-specific code.
+MetalForge is a gallery and browser editor for shader animations. At review its homepage listed effects filtered by Website, 3D, Glass, Backgrounds, Orbs, Logo & Photo, Buttons, Cards, Loaders, Progress and Characters. A dark, filterable gallery links to individual effects, whose editor exposes parameters and previews for SwiftUI, React Native and web.
 
 ## When to open it
 
@@ -31,15 +31,16 @@ Use it to explore a shader treatment visually, tune its parameters in a live pre
 - The home grid links to distinct examples such as [Liquid Heart](https://metalforge.xyz/hearts/liquid), [Shatter button](https://metalforge.xyz/buttons/shatter), [Tide loader](https://metalforge.xyz/loaders/tide) and [Cumulus](https://metalforge.xyz/cumulus).
 - Effects can be filtered by use rather than implementation, including Glass, Backgrounds, Buttons, Cards and Loaders.
 - The editor provides shareable parameterized URLs, so a tuned appearance can be revisited before export.
-- Pro can generate a real `.metal` file and SwiftUI view, plus supported Skia, AGSL and web versions and runnable sample projects.
+- Pro can download the generated effect code for supported platforms. The current pricing page lists SwiftUI, React Native and web.
+- The homepage now promotes an MCP beta for connecting an AI to these effects; the link leads to account sign-in.
 
 ## Using it with agents
 
-There is no published MCP, API, CLI, registry, llms.txt or skill. A browser can inspect previews and shareable configurations. Code export is a Pro feature.
+MetalForge advertises an MCP beta from the homepage and pricing page. Access leads to sign-in and is included with Pro; the MCP configuration and tool details were not publicly visible without an account. A browser can inspect the gallery and shareable effect URLs.
 
 ## Watch out for
 
-- The free tier previews effects but does not export code; Pro costs €9.99/month or €29 once at review.
+- The free tier previews effects but does not export code; Pro costs €9.99/month or €80/year at review. The terms say the yearly price is currently discounted from €120 and may change.
 - Generated shader templates remain MetalForge's property. Its terms allow generated code in personal and commercial apps without attribution, but prohibit publishing or redistributing the shader source or selling the effect by itself.
 - MetalForge's own source code is not open source; the licences page covers third-party dependencies only.
 - Check performance and reduced-motion behavior in the target product; a full-quality desktop preview does not demonstrate a mobile performance budget.

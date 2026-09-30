@@ -59,7 +59,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Death of Typography](../sites/death-of-typography.md) — Singapore type collective whose home page is a cropped 380px marquee in its own face, plus a specimen tester with 27 sliders.
 - [Departure Mono](../sites/departure-mono.md) — Free OFL pixel monospace font by Helena Zhang with box drawing, Cyrillic and Greek.
 - [Design Academy Eindhoven Graduation Show 2025](../sites/design-academy-eindhoven-graduation-show-2025.md) — DAE's 2025 graduate exhibition page links its visual show presentation to a filterable archive of individual BA and MA projects.
-- [Design Minis](../sites/design-minis.md) — 128 small single-purpose design tools (effects, images, backgrounds, motion, colour, type) filtered by category and price, plus nine in-house browser tools.
+- [Design Minis](../sites/design-minis.md) — Directory of small design tools filtered by category and price, including effects, backgrounds, motion, type and image editors.
 - [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
 - [Design.md Store](../sites/designmd-store.md) — 51 free brand-inspired DESIGN.md packs plus clear docs on the Google DESIGN.md format; strict reuse terms.
 - [Designer Skills](../sites/designer-skills.md) — 111 small design-practice skills in nine plugins, with a router that picks one entry point.
@@ -121,6 +121,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Monash MADA Now 2025](../sites/monash-mada-now-2025.md) — Monash MADA's graduate archive groups featured projects and student work by Fine Art, Design and Architecture.
 - [Montagu Slab](../sites/montagu-slab.md) — Variable slab serif with a live tester that exposes weight, optical size, spacing and leading across several scripts.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
+- [Movulab](../sites/movulab.md) — Browser editor for looping animated type, with effect presets, typography controls and export options.
 - [MUUUUU.ORG](../sites/muuuuu.md) — A Japanese design award gallery that highlights a daily site and tags work by composition, typography, color, motion and visual technique.
 - [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.
 - [Nacelle](../sites/nacelle.md) — Japanese type specimen pairing a quiet split layout and oversized word sample with named styles and an OFL licence.
@@ -139,6 +140,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Pixel Perfect UI](../sites/pixel-perfect.md) — A free React component gallery with live previews, visual controls, source code and shadcn-compatible install commands.
 - [Playdead](../sites/playdead.md) — Game studio site with a spare dark layout, narrow uppercase typography and cinematic LIMBO and INSIDE project pages.
 - [Plomb Type](../sites/plomb-type.md) — Lyon type foundry with expressive specimen pages, live text controls, extensive glyph maps and real identity examples.
+- [Pointilliser](../sites/pointilliser.md) — Two browser tools turn text or images into neo-pointillist graphics made from clustered circles or 3D spheres.
 - [PsudoKit](../sites/psudokit.md) — Dark portfolio with a restrained monospace system, thin orbital lines and a split profile and activity layout.
 - [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
 - [Rave Preservation Project](../sites/rave-preservation-project.md) — Archive of about 40,000 scanned rave flyers, posters and tickets from the mid-1980s to the early 2000s, grouped by country, region and city.

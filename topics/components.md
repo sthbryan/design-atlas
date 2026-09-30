@@ -30,6 +30,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Ahmad Shadeed](../sites/ishadeed.md) — Hands-on CSS layout articles and an interactive lab for inspecting modern selectors, grids and container queries.
 - [Amacro](../sites/amacro.md) — 86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.
 - [Amicro](../sites/amicro.md) — Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.
+- [Angular Native](../sites/angular-native.md) — Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.
 - [Animate UI](../sites/animate-ui.md) — Animated Radix/Base UI/Headless UI primitives, styled components and 260 animated Lucide icons via the shadcn CLI.
 - [Animated shadcn/ui](../sites/animated-shadcn-ui.md) — Alpha MIT set of stock shadcn/ui components with Motion added, installed via its own CLI or npm package.
 - [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
@@ -55,11 +56,12 @@ Component libraries, registries and design systems for building UI — from sing
 - [Canvas UI Qwen Demo](../sites/canvas-ui-qwen-demo.md) — An interactive Canvas UI showcase that previews shader effects over live HTML and keeps its controls and install snippets beside each example.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
 - [Chánh Đại](../sites/chanh-dai.md) — A design-engineer portfolio framed by isometric line art, hand-drawn annotations and a deep catalogue of components, blocks and projects.
+- [Charm](../sites/charm.md) — Purple, playful developer-tools homepage that turns a family of terminal UI libraries into a cohesive visual brand.
 - [Chloé Maillot](../sites/chloe-maillot.md) — A quiet design-engineer portfolio combining short editorial notes, a small component catalogue and a handmade image grid.
 - [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
 - [Componentry](../sites/componentry.md) — 53 animated React effects, from text and WebGL hero backgrounds to image effects, installed through the shadcn CLI.
-- [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with about 500 composed particles and agent skills; mixed MIT/AGPL repo.
+- [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with composed particles and agent skills; mixed MIT/AGPL repo.
 - [Cue](../sites/cue-design.md) — Hand-picked web interaction and UI component references with motion demos and prompts for recreating them.
 - [Cult UI](../sites/cult-ui.md) — Textured, distinctive marketing components and shader heroes built with Motion; paid blocks and templates.
 - [daisyUI](../sites/daisyui.md) — MIT Tailwind plugin of semantic component classes and 35 themes; llms.txt doubles as a skill, paid Blueprint MCP.
@@ -94,6 +96,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [ForgeUI](../sites/forgeui.md) — Animated SaaS components, blocks and templates via the @forgeui shadcn namespace; free code has a no-redistribution licence, Pro is $99 one-time.
 - [Frameblox](../sites/frameblox.md) — Paid Framer UI kit with 1,400+ sections, 130+ pages and a Framer plugin; one-time licence, no refunds, Framer only.
 - [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
+- [GAIA UI](../sites/gaia-ui.md) — MIT, shadcn-compatible React components for AI assistants, with documented registry installation and a focused agent-app visual language.
 - [glass-lens-react](../sites/glass-lens-react.md) — A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
@@ -125,8 +128,10 @@ Component libraries, registries and design systems for building UI — from sing
 - [Liquid Glass](../sites/liquid-glass.md) — DOM-manipulation tool for real-time refractive "liquid glass" distortion effects.
 - [Liquid Glass Playground by Pallav](../sites/glass-projects-lab-demo.md) — A long-form playground that maps liquid-glass presets, parameters and interface uses into a browsable visual lab.
 - [Liquid Glass Web React](../sites/liquid-glass-web-react.md) — A detailed playground for draggable refractive lenses, with live controls for shape, light, colour fringing and motion.
+- [Liten UI](../sites/liten-ui.md) — Dark, depth-focused React component library with 46 documented examples, live previews and copyable implementation notes.
 - [Loader Buttons](../sites/loader-buttons.md) — 25 experimental loading-state buttons in WebGL, SVG, Canvas and CSS; no licence published.
 - [loading.dev](../sites/loading-dev.md) — 27 small React 19 spinners that inherit currentColor, with a Markdown page per spinner.
+- [LocalMode UI](../sites/localmode-ui.md) — MIT shadcn registry of local-first AI components and runnable browser demos for chat, RAG, vision, audio and privacy flows.
 - [Lucide](../sites/lucide.md) — Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.
 - [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
 - [mapcn](../sites/mapcn.md) — Map components distributed as a shadcn/ui registry, with a "copy prompt for your agent" button.
@@ -139,6 +144,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
 - [Motion](../sites/motion-dev.md) — Former Framer Motion for React, JS and Vue: MIT core, free docs MCP and skill, paid Motion+ extras.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
+- [movements.dev](../sites/movements.md) — Six browser-tunable UI utilities and libraries for refining component details, from refractive glass to shimmer and shadows.
 - [Nex UI](../sites/nex-ui.md) — About 100 shadcn-style React and Tailwind components including 23 charts; MIT claimed without a LICENSE file and the CLI registry is empty.
 - [Nexvyn UI](../sites/nexvyn-ui.md) — 40 MIT spring-physics components for shadcn projects, from gooey dropdowns to eye-tracking password fields, via the @nexvyn namespace.
 - [Ninna UI](../sites/ninna-ui.md) — MIT React library on npm with CSS-only oklch theme presets, Radix internals, 92 free blocks and a strong llms.txt import map.
@@ -153,6 +159,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [OriginKit](../sites/originkit.md) — An interactive component catalogue for shader, cursor, animation and other high-impact web effects, with live parameter controls.
 - [PaceUI](../sites/paceui.md) — React components, animated crafts, page blocks and app templates with live previews and a shadcn-compatible registry.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
+- [PanelUI](../sites/panelui.md) — MIT React Native component library for Expo, with Tailwind styling, live examples and agent resources.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
 - [pdfcn](../sites/pdfcn.md) — React PDF primitives and 20 invoice/report/label templates for Takumi or Forme, installed via shadcn CLI.
 - [Penpot](../sites/penpot.md) — MPL-2.0, self-hostable Figma alternative with CSS Flex/Grid layout, W3C-format design tokens and an official MCP server.
