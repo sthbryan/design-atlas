@@ -56,6 +56,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [Loader Buttons](../sites/loader-buttons.md) — 25 experimental loading-state buttons in WebGL, SVG, Canvas and CSS; no licence published.
 - [Lusion](../sites/lusion.md) — A creative studio portfolio with sculptural 3D scenes, restrained typography and immersive project storytelling.
 - [mesh3d](../sites/mesh3d.md) — A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.
+- [Messenger](../sites/messenger.md) — A browser game's illustrated tiny-planet title screen, with a single contrasting entry action and an immersive 3D scene.
 - [MetalForge](../sites/metalforge.md) — Gallery and live editor for shader animations, with SwiftUI, React Native and web outputs and an MCP beta.
 - [NextWell Lab](../sites/nextwell-lab.md) — A portfolio lab of browser experiments with deep-linked 3D, interaction, game, clock and Pomodoro scenes.
 - [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
@@ -80,6 +81,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.
 - [Unicorn Studio](../sites/unicorn-studio.md) — A visual shader editor with a gallery of animated, interactive graphics that can be embedded on websites.
 - [Unseen Studio](../sites/unseen.md) — Studio portfolio with a pastel 3D world, expressive serif and sans typography, and a filtered project grid.
+- [Utopia Tokyo](../sites/utopia-tokyo.md) — A mask-themed cyberpunk experience with a red editorial grid, a safety choice and an interactive character builder.
 - [vgpu](../sites/vgpu.md) — A composable WebGPU library with live shader examples, versioned docs, CLI discovery and agent resources.
 - [wwwtf.site](../sites/wwwtf.md) — A young gallery of 25 weird, WebGL-heavy experimental websites from the curator of Sections.wtf.
 <!-- atlas:sources:end -->

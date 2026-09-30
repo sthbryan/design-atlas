@@ -21,6 +21,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 
 <!-- atlas:sources:start -->
 - [60fps](../sites/60fps.md) — About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
+- [8bit.ai](../sites/8bit.md) — Enterprise AI site that turns a dark 3D logo and streaking light into a scroll-led introduction to its services.
 - [A-Frame](../sites/aframe.md) — An HTML-first framework for interactive WebXR scenes, with live 3D examples and a visual inspector.
 - [Aave Design & Engineering](../sites/aave-design.md) — Aave Labs’ engineering article pairs live glass-effect controls with a cross-browser SVG displacement and WebGL implementation.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
@@ -137,6 +138,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Mascofast](../sites/mascofast.md) — Paid AI tool that turns text or photos into mascots, exported as transparent GIF, WebM or Lottie.
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
 - [mesh3d](../sites/mesh3d.md) — A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.
+- [Messenger](../sites/messenger.md) — A browser game's illustrated tiny-planet title screen, with a single contrasting entry action and an immersive 3D scene.
 - [MetalForge](../sites/metalforge.md) — Gallery and live editor for shader animations, with SwiftUI, React Native and web outputs and an MCP beta.
 - [MicroKit](../sites/microkit.md) — 49 React microinteractions with polished transitions, ready to copy and adapt.
 - [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
@@ -223,6 +225,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Unseen Studio](../sites/unseen.md) — Studio portfolio with a pastel 3D world, expressive serif and sans typography, and a filtered project grid.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
 - [User Interface Wiki](../sites/user-interface-wiki.md) — Raphael Salaja's nine demo-rich articles on motion, sound and type, installable as a 152-rule agent skill.
+- [Utopia Tokyo](../sites/utopia-tokyo.md) — A mask-themed cyberpunk experience with a red editorial grid, a safety choice and an interactive character builder.
 - [Velora UI](../sites/velora-ui.md) — New MIT set of 100 animated shadcn components, 31 blocks and a free landing template, each with size and dependency counts.
 - [Vengeance UI](../sites/vengeance-ui.md) — MIT animated hover, text and scroll effects plus landing blocks for Next.js, installed with shadcn from a GitHub-hosted registry.
 - [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.

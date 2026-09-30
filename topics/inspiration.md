@@ -26,6 +26,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [404s](../sites/404s.md) — Curated gallery of 404 pages, filterable by style, interaction and industry.
 - [60fps](../sites/60fps.md) — About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
 - [81-web](../sites/81-web.md) — A Japanese web design archive with filters for type, category, color, font, tags, studio and date, plus desktop/mobile and cover/masonry views.
+- [8bit.ai](../sites/8bit.md) — Enterprise AI site that turns a dark 3D logo and streaking light into a scroll-led introduction to its services.
 - [a-fresh](../sites/a-fresh.md) — A categorized website and component archive with previews, desktop and mobile views, and filters for design traits.
 - [A1](../sites/a1-gallery.md) — A curated gallery of live websites, full pages and individual sections, with visual filters and measured design details.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
@@ -180,6 +181,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Marathon](../sites/marathonthegame.md) — Bungie's game launch site pairs cinematic footage with acid-lime typography and a dense, game-like navigation rail.
 - [McCafé Visual Identity Refresh](../sites/mccafe-visual-identity.md) — McCafé’s 2026 refresh in packaging and storefront signage, pairing a script wordmark with gold, coffee-cherry tones and colorful drink photography.
 - [mesh3d](../sites/mesh3d.md) — A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.
+- [Messenger](../sites/messenger.md) — A browser game's illustrated tiny-planet title screen, with a single contrasting entry action and an immersive 3D scene.
 - [Minimal Gallery](../sites/minimal-gallery.md) — Minimalist sites and templates collected since 2013, filterable by type and platform.
 - [Minimalny](../sites/minimalny.md) — A minimal web design archive with category filters, search and compact records for each featured designer or studio.
 - [MLX.fast](../sites/mlx-fast.md) — Live MLX optimization challenge with a paired performance chart, model filters and a detailed contribution leaderboard.
@@ -291,6 +293,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [UNSW Art & Design Annual 2025](../sites/unsw-art-design-annual-2025.md) — UNSW's graduate showcase pairs a media-led exhibition home page with filters for degree, discipline and student name.
 - [Untitled UI](../sites/untitled-ui.md) — Large Figma and React design system with a clean component browser and a clearly marked free subset alongside paid kits.
 - [UserOnboard](../sites/useronboard.md) — Annotated onboarding teardowns presented as navigable screen sequences, useful for studying flow, hierarchy and progressive disclosure.
+- [Utopia Tokyo](../sites/utopia-tokyo.md) — A mask-themed cyberpunk experience with a red editorial grid, a safety choice and an interactive character builder.
 - [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 - [vgpu](../sites/vgpu.md) — A composable WebGPU library with live shader examples, versioned docs, CLI discovery and agent resources.
 - [Viewport UI](../sites/viewport-ui.md) — A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.

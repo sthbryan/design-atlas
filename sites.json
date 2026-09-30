@@ -358,6 +358,31 @@
       ]
     },
     {
+      "slug": "8bit",
+      "path": "sites/8bit.md",
+      "title": "8bit.ai",
+      "description": "Enterprise AI site that turns a dark 3D logo and streaking light into a scroll-led introduction to its services.",
+      "url": "https://www.8bit.ai/",
+      "type": "website",
+      "formats": "enterprise AI marketing site · GPU cloud · AI services",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The site and services are free to browse, but no reuse licence for the visual design, code or imagery was stated; treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "active-theory",
+        "lusion"
+      ]
+    },
+    {
       "slug": "8bitcn",
       "path": "sites/8bitcn.md",
       "title": "8bitcn",
@@ -10060,6 +10085,31 @@
       ]
     },
     {
+      "slug": "messenger",
+      "path": "sites/messenger.md",
+      "title": "Messenger",
+      "description": "A browser game's illustrated tiny-planet title screen, with a single contrasting entry action and an immersive 3D scene.",
+      "url": "https://messenger.abeto.co/",
+      "type": "website",
+      "formats": "browser game · 3D title screen · WebGL",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to enter in the browser. No reuse licence for the game, code or artwork was stated; treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "bruno-simon",
+        "hexgl"
+      ]
+    },
+    {
       "slug": "metalforge",
       "path": "sites/metalforge.md",
       "title": "MetalForge",
@@ -16684,6 +16734,31 @@
         "inclusive-components",
         "component-gallery",
         "design-system-checklist"
+      ]
+    },
+    {
+      "slug": "utopia-tokyo",
+      "path": "sites/utopia-tokyo.md",
+      "title": "Utopia Tokyo",
+      "description": "A mask-themed cyberpunk experience with a red editorial grid, a safety choice and an interactive character builder.",
+      "url": "https://utopiatokyo.com/",
+      "type": "website",
+      "formats": "interactive 3D experience · mask collection · character builder",
+      "topics": [
+        "inspiration",
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse and use in the browser. No reuse licence for the design, code or mask artwork was stated; treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "active-theory",
+        "lusion"
       ]
     },
     {

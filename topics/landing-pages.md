@@ -22,6 +22,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 <!-- atlas:sources:start -->
 - [10xShivam](../sites/10xshivam.md) — Dark developer portfolio using dashed outlines, serif headings and expandable work entries to structure a long page.
 - [81-web](../sites/81-web.md) — A Japanese web design archive with filters for type, category, color, font, tags, studio and date, plus desktop/mobile and cover/masonry views.
+- [8bit.ai](../sites/8bit.md) — Enterprise AI site that turns a dark 3D logo and streaking light into a scroll-led introduction to its services.
 - [8bitcn](../sites/8bitcn.md) — Retro 8-bit shadcn/ui skin: 56 components, 63 blocks, game UI pieces and 21 themes.
 - [a-fresh](../sites/a-fresh.md) — A categorized website and component archive with previews, desktop and mobile views, and filters for design traits.
 - [A1](../sites/a1-gallery.md) — A curated gallery of live websites, full pages and individual sections, with visual filters and measured design details.
