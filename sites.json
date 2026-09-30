@@ -9744,6 +9744,34 @@
       ]
     },
     {
+      "slug": "magicpath",
+      "path": "sites/magicpath.md",
+      "title": "MagicPath",
+      "description": "Design interactive interfaces on a shared canvas, then browse live prototypes and bring selected designs into code with supported agents.",
+      "url": "https://www.magicpath.ai/",
+      "type": "design-workspace",
+      "formats": "Shared visual workspace · interactive prototypes · external-agent plugin · MCP server",
+      "topics": [
+        "ai-interfaces",
+        "agents-and-prompts",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Free includes a limited monthly credit allowance and external-agent calls; Builder is $7/month billed annually and Pro starts at $21/month with a selected credit pack at review. Terms limit site content to personal, non-commercial, or internal-business use and restrict copying and redistribution.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "v0",
+        "21st-dev",
+        "framer"
+      ]
+    },
+    {
       "slug": "magicpattern",
       "path": "sites/magicpattern.md",
       "title": "MagicPattern",
@@ -10579,6 +10607,32 @@
         "60fps",
         "motion-primitives",
         "design-motion-principles"
+      ]
+    },
+    {
+      "slug": "motionwiki",
+      "path": "sites/motionwiki.md",
+      "title": "MotionWiki",
+      "description": "Browse creative systems and free skill previews, or study its own editorial catalog and live project previews for web and brand inspiration.",
+      "url": "https://www.motionwiki.com/",
+      "type": "directory",
+      "formats": "Creative systems · codebases · prompt stacks · skills · assets · workflow instructions",
+      "topics": [
+        "agents-and-prompts",
+        "agent-skills",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The Open Library is free; Build Kits cost $39 once, Vault costs $19/month or $190/year, and Studio costs $999/year at review. Terms reserve ownership of the materials and grant limited internal-business use; redistribution is restricted.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "v0",
+        "21st-dev",
+        "framer"
       ]
     },
     {
@@ -16845,6 +16899,32 @@
         "screenshot-to-code",
         "kombai",
         "figma"
+      ]
+    },
+    {
+      "slug": "variant",
+      "path": "sites/variant.md",
+      "title": "Variant",
+      "description": "Explore a prompt-led stream of live interface experiments, then use the examples as inspiration for your own visual direction.",
+      "url": "https://variant.com/",
+      "type": "ai-builder",
+      "formats": "AI interface generation · live embedded prototypes · style selection",
+      "topics": [
+        "ai-interfaces",
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "The terms reserve rights in the service and its content and grant a limited personal, non-commercial licence. Public examples can be viewed without payment; the pricing route redirected to sign-in, so paid-plan prices are not stated here. The terms prohibit using service outputs or other service data to train or improve AI systems, but do not establish broader reuse rights for generated outputs.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "v0",
+        "21st-dev",
+        "magicpath"
       ]
     },
     {

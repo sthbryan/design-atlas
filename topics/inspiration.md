@@ -177,6 +177,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Lusion](../sites/lusion.md) — A creative studio portfolio with sculptural 3D scenes, restrained typography and immersive project storytelling.
 - [Luzhniki identity — Art. Lebedev Studio](../sites/luzhniki-identity.md) — A Moscow sports and park identity uses custom arc forms, a broad blue palette and a flexible frame across signs, posters and merchandise.
 - [Made in Webflow](../sites/made-in-webflow.md) — A searchable showcase of community websites, with category filters, live previews and an explicit cloneable-sites option.
+- [MagicPath](../sites/magicpath.md) — Design interactive interfaces on a shared canvas, then browse live prototypes and bring selected designs into code with supported agents.
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Marathon](../sites/marathonthegame.md) — Bungie's game launch site pairs cinematic footage with acid-lime typography and a dense, game-like navigation rail.
 - [McCafé Visual Identity Refresh](../sites/mccafe-visual-identity.md) — McCafé’s 2026 refresh in packaging and storefront signage, pairing a script wordmark with gold, coffee-cherry tones and colorful drink photography.
@@ -189,6 +190,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Monash MADA Now 2025](../sites/monash-mada-now-2025.md) — Monash MADA's graduate archive groups featured projects and student work by Fine Art, Design and Architecture.
 - [Motion (motionin.design)](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
+- [MotionWiki](../sites/motionwiki.md) — Browse creative systems and free skill previews, or study its own editorial catalog and live project previews for web and brand inspiration.
 - [movements.dev](../sites/movements.md) — Six browser-tunable UI utilities and libraries for refining component details, from refractive glass to shimmer and shadows.
 - [MUUUUU.ORG](../sites/muuuuu.md) — A Japanese design award gallery that highlights a daily site and tags work by composition, typography, color, motion and visual technique.
 - [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.
@@ -294,6 +296,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Untitled UI](../sites/untitled-ui.md) — Large Figma and React design system with a clean component browser and a clearly marked free subset alongside paid kits.
 - [UserOnboard](../sites/useronboard.md) — Annotated onboarding teardowns presented as navigable screen sequences, useful for studying flow, hierarchy and progressive disclosure.
 - [Utopia Tokyo](../sites/utopia-tokyo.md) — A mask-themed cyberpunk experience with a red editorial grid, a safety choice and an interactive character builder.
+- [Variant](../sites/variant.md) — Explore a prompt-led stream of live interface experiments, then use the examples as inspiration for your own visual direction.
 - [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 - [vgpu](../sites/vgpu.md) — A composable WebGPU library with live shader examples, versioned docs, CLI discovery and agent resources.
 - [Viewport UI](../sites/viewport-ui.md) — A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.
