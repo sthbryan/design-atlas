@@ -1345,6 +1345,33 @@
       ]
     },
     {
+      "slug": "apmix",
+      "path": "sites/apmix.md",
+      "title": "apmix.ai",
+      "description": "An AI API landing page that pairs a geometric mesh with side-by-side terminal sessions and a usage dashboard.",
+      "url": "https://apmix.ai/",
+      "type": "website",
+      "formats": "developer API landing page · pricing controls · model usage dashboard",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "ai-interfaces"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The site offers a free sign-up allowance on one model and monthly paid plans; Starter was $4.99 and Pro $14.99 per month at review. The terms prohibit reselling API access; no reuse licence for the marketing visuals was stated. Treat the page as look-only.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "saas-landing-page",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "appinspo",
       "path": "sites/appinspo.md",
       "title": "Appinspo",
@@ -4909,6 +4936,31 @@
         "60fps",
         "recent-design",
         "devouring-details"
+      ]
+    },
+    {
+      "slug": "detail",
+      "path": "sites/detail.md",
+      "title": "Detail",
+      "description": "A software-quality landing page built around a stark diagonal chart graphic and short product evidence.",
+      "url": "https://detail.dev/",
+      "type": "website",
+      "formats": "developer-tool landing page · canvas visualization · open-source examples",
+      "topics": [
+        "inspiration",
+        "data-viz",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The first scan is free; the Team plan was $30 per committer per month at review. Customers retain ownership of their code and generated fixes, but no reuse licence for the site's visual material was stated. Treat it as look-only.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "saas-landing-page",
+        "saaspo"
       ]
     },
     {
@@ -12974,6 +13026,32 @@
       ]
     },
     {
+      "slug": "promo-ai-videos",
+      "path": "sites/promo-ai-videos.md",
+      "title": "Promo AI Videos",
+      "description": "A searchable showcase of AI-made promotional videos, grouped by visual style, medium and aspect ratio.",
+      "url": "https://www.promoaivideos.com/",
+      "type": "gallery",
+      "formats": "promotional video gallery · style and model indexes · paid video generator",
+      "topics": [
+        "motion",
+        "inspiration",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Browsing the examples is free. Video generation uses one-time credit packs, starting at $19 at review. The terms say customers own the videos they make and may use them commercially; no reuse licence for showcase videos was stated, so treat those examples as look-only.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "motionwiki",
+        "motion-dev",
+        "vibeprompts"
+      ]
+    },
+    {
       "slug": "prompt-kit",
       "path": "sites/prompt-kit.md",
       "title": "Prompt Kit",
@@ -18063,6 +18141,35 @@
       ]
     },
     {
+      "slug": "vividsites",
+      "path": "sites/vividsites.md",
+      "title": "VividSites",
+      "description": "A prompt library of cinematic website examples, with filters, free previews, source videos and an MCP search route.",
+      "url": "https://www.vividsites.app/",
+      "type": "prompt-library",
+      "formats": "website prompt library · source video examples · MCP server · installable skill",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "The site lists free examples and paid access at $19 monthly, $49 yearly or $199 lifetime at review. Its terms allow commercial use of prompts, components and hosted assets to build sites, but prohibit repackaging or redistributing that source material. Treat the displayed examples as licensed inputs only within those limits.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "onepromptdesign",
+        "vibeprompts",
+        "a1-gallery"
+      ]
+    },
+    {
       "slug": "vucko",
       "path": "sites/vucko.md",
       "title": "Vucko",
@@ -18197,6 +18304,31 @@
         "shadcnblocks",
         "21st-dev",
         "magic-ui"
+      ]
+    },
+    {
+      "slug": "wavelength",
+      "path": "sites/wavelength.md",
+      "title": "Wavelength",
+      "description": "A customer-success SaaS landing page with bright route graphics framing a working account dashboard.",
+      "url": "https://wavelength.cx/",
+      "type": "website",
+      "formats": "B2B SaaS landing page · CRM dashboard showcase",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "data-viz"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "not-stated",
+      "licence": "No reuse licence for the site visuals or product mockups was stated. The linked terms route showed policy text rather than usable terms; treat the page as look-only. Pricing was not stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "saas-landing-page",
+        "saaspo"
       ]
     },
     {
@@ -18419,6 +18551,31 @@
         "snapzy",
         "tokokino",
         "ui-camera"
+      ]
+    },
+    {
+      "slug": "yalqen",
+      "path": "sites/yalqen.md",
+      "title": "Yalqen",
+      "description": "A macOS developer-browser site with sky-blue editorial type and interactive demonstrations of its keyboard-first interface.",
+      "url": "https://yalqen.com/",
+      "type": "website",
+      "formats": "open-source macOS browser · interactive product demonstrations · light and dark themes",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "navigation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The public repository states MIT for the project. Its README says bundled filter lists retain their own licences and excludes the Yalqen name and logo from MIT; no separate reuse licence for the site imagery was stated. Treat the website visuals as look-only.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "saas-landing-page",
+        "a1-gallery"
       ]
     },
     {
