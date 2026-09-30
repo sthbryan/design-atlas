@@ -1617,6 +1617,32 @@
       ]
     },
     {
+      "slug": "ashutosh-tiwari",
+      "path": "sites/ashutosh-tiwari.md",
+      "title": "Ashutosh Tiwari",
+      "description": "A long-form developer portfolio framed by a wide illustrated hero, dashed grid rules, project cards and a command palette.",
+      "url": "https://ashutoshtiwari.me",
+      "type": "website",
+      "formats": "Personal portfolio · project and experience archive",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "The footer says all rights reserved. A linked `llm.txt` is visible, but the browser could not open it at review.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "animesh-thakur",
+        "wall-of-portfolios"
+      ]
+    },
+    {
       "slug": "astryx",
       "path": "sites/astryx.md",
       "title": "Astryx",
@@ -4861,6 +4887,30 @@
       "status": "active",
       "related": [
         "wall-of-portfolios",
+        "minimal-gallery"
+      ]
+    },
+    {
+      "slug": "dhruv-jaradi",
+      "path": "sites/dhruv-jaradi.md",
+      "title": "Dhruv Jaradi",
+      "description": "A portfolio framed by a dotted banner, hairline grid, hatched section breaks and small interactive profile details.",
+      "url": "https://jdhruv.dev",
+      "type": "website",
+      "formats": "Personal portfolio · project and experience archive",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The footer displays a copyright notice; no separate reuse licence was stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "animesh-thakur",
         "minimal-gallery"
       ]
     },
@@ -9955,6 +10005,34 @@
       ]
     },
     {
+      "slug": "manixh",
+      "path": "sites/manixh.md",
+      "title": "Manixh",
+      "description": "A dark developer portfolio with outlined social panels, scrolling skill marquees, project cards and a dense technical profile.",
+      "url": "https://manixh.vercel.app",
+      "type": "website",
+      "formats": "Personal portfolio · project showcase",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "cli",
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "The linked GitHub repository includes an MIT licence and documents a CLI that installs agent and design files. The portfolio footer says all rights reserved.",
+      "licence_class": "mixed",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "animesh-thakur",
+        "wall-of-portfolios"
+      ]
+    },
+    {
       "slug": "mapcn",
       "path": "sites/mapcn.md",
       "title": "mapcn",
@@ -10209,6 +10287,30 @@
         "preline",
         "uiverse",
         "headless-ui"
+      ]
+    },
+    {
+      "slug": "mesh-noman",
+      "path": "sites/mesh-noman.md",
+      "title": "Mesh",
+      "description": "A full-screen mesh-gradient maker with prompt entry, a few named starting points and a large PNG export.",
+      "url": "https://mesh.iamnoman.com",
+      "type": "tool",
+      "formats": "Mesh-gradient generator · PNG export",
+      "topics": [
+        "color",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The page offers a downloadable PNG and shows no licence or terms for generated output; not stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "magicpattern",
+        "realtime-colors"
       ]
     },
     {
@@ -11084,6 +11186,30 @@
         "vucko",
         "the-brand-identity",
         "motion-zajno"
+      ]
+    },
+    {
+      "slug": "nikhil-rajpurohit",
+      "path": "sites/nikhil-rajpurohit.md",
+      "title": "Nikhil Rajpurohit",
+      "description": "A quiet editorial portfolio with a narrow text column, understated theme switch, compact project links and expandable experience.",
+      "url": "https://nikhilwho.in",
+      "type": "website",
+      "formats": "Personal portfolio · project and writing archive",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The footer says all rights reserved. No separate reuse licence was stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-09-30",
+      "status": "active",
+      "related": [
+        "minimal-gallery",
+        "animesh-thakur"
       ]
     },
     {

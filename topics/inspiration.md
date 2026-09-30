@@ -45,6 +45,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Are.na](../sites/are-na.md) — Independent research-style bookmarking in connected channels, with a v3 REST API, llms.txt, official OAuth MCP server and CLI.
 - [ArtCenter Spring 2025 Grad Show](../sites/artcenter-grad-show-spring-2025.md) — A clean, searchable graduate portfolio catalogue with department routes, term filters and individual project pages.
 - [Ashish Gogula](../sites/ashish-gogula.md) — A restrained design engineer portfolio that presents a short profile beside a row of live media and visual widgets.
+- [Ashutosh Tiwari](../sites/ashutosh-tiwari.md) — A long-form developer portfolio framed by a wide illustrated hero, dashed grid rules, project cards and a command palette.
 - [Athrix](../sites/athrix.md) — Developer portfolio with an editorial serif headline, dotted page grid and pale botanical accents.
 - [AURAI LAB](../sites/aurai.md) — Shanghai creative studio with a pearl-toned editorial homepage and a public CityWalk product demo.
 - [Auri (auri.ai)](../sites/auri.md) — Interactive demos of an AI keyboard, visual chat and notes show how assistant features can fit into everyday writing flows.
@@ -110,6 +111,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
 - [Dhruv Deora](../sites/dhruv-deora.md) — A playful portfolio pairing editorial typography and colorful project tiles with small pixel-art interactions.
+- [Dhruv Jaradi](../sites/dhruv-jaradi.md) — A portfolio framed by a dotted banner, hairline grid, hatched section breaks and small interactive profile details.
 - [DIA Studio](../sites/dia-studio.md) — A design studio archive with a dense monochrome work mosaic, compact filters and individual project overlays.
 - [Dribbble](../sites/dribbble.md) — Huge shot-sharing community and designer marketplace for fast visual and motion exploration; mostly concepts, no agent access.
 - [Droppy Code](../sites/droppy-code.md) — A native Mac coding-agent app presented through detailed interface walkthroughs and a Liquid Glass visual system.
@@ -184,6 +186,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Made in Webflow](../sites/made-in-webflow.md) — A searchable showcase of community websites, with category filters, live previews and an explicit cloneable-sites option.
 - [MagicPath](../sites/magicpath.md) — Design interactive interfaces on a shared canvas, then browse live prototypes and bring selected designs into code with supported agents.
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
+- [Manixh](../sites/manixh.md) — A dark developer portfolio with outlined social panels, scrolling skill marquees, project cards and a dense technical profile.
 - [Marathon](../sites/marathonthegame.md) — Bungie's game launch site pairs cinematic footage with acid-lime typography and a dense, game-like navigation rail.
 - [McCafé Visual Identity Refresh](../sites/mccafe-visual-identity.md) — McCafé’s 2026 refresh in packaging and storefront signage, pairing a script wordmark with gold, coffee-cherry tones and colorful drink photography.
 - [mesh3d](../sites/mesh3d.md) — A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.
@@ -203,6 +206,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [NextWell Lab](../sites/nextwell-lab.md) — A portfolio lab of browser experiments with deep-linked 3D, interaction, game, clock and Pomodoro scenes.
 - [Nike Why Do It?](../sites/nike-why-do-it.md) — A 2025 Nike campaign page documents its film, athlete photography and cinematic newsroom presentation as a dated brand example.
+- [Nikhil Rajpurohit](../sites/nikhil-rajpurohit.md) — A quiet editorial portfolio with a narrow text column, understated theme switch, compact project links and expandable experience.
 - [Nous Portal](../sites/nous-portal.md) — A dark AI service portal with a fixed resource rail, editorial typography, model catalog and clear subscription comparisons.
 - [Nur](../sites/nur.md) — Nur's product engineer portfolio pairs a watercolor pond illustration with a sparse introduction and inline type styling controls.
 - [ObsidianUI](../sites/obsidianui.md) — A free React component library whose live previews pair restrained documentation layouts with expressive hover and motion effects.

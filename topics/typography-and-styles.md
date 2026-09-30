@@ -32,6 +32,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
 - [Anzal Abidi](../sites/anzal-abidi.md) — A personal portfolio that frames a professional story with classical paintings, editorial type and a chaptered timeline.
 - [ArtCenter Spring 2025 Grad Show](../sites/artcenter-grad-show-spring-2025.md) — A clean, searchable graduate portfolio catalogue with department routes, term filters and individual project pages.
+- [Ashutosh Tiwari](../sites/ashutosh-tiwari.md) — A long-form developer portfolio framed by a wide illustrated hero, dashed grid rules, project cards and a command palette.
 - [Athrix](../sites/athrix.md) — Developer portfolio with an editorial serif headline, dotted page grid and pale botanical accents.
 - [Atmos](../sites/atmos.md) — OKLCH palette workspace with shade, gamut and contrast tools for building UI color systems.
 - [Behance](../sites/behance.md) — Adobe's portfolio network of long-form case studies for branding, type and UI; blocks AI crawlers and scripted access.
@@ -69,6 +70,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [designmd.supply](../sites/designmd-supply.md) — Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
 - [DesignSorcery](../sites/design-sorcery.md) — Website gallery with scroll-video previews, screenshot modes, and filters for visual style, framework, color and industry.
 - [Dhruv Deora](../sites/dhruv-deora.md) — A playful portfolio pairing editorial typography and colorful project tiles with small pixel-art interactions.
+- [Dhruv Jaradi](../sites/dhruv-jaradi.md) — A portfolio framed by a dotted banner, hairline grid, hatched section breaks and small interactive profile details.
 - [DIA Studio](../sites/dia-studio.md) — A design studio archive with a dense monochrome work mosaic, compact filters and individual project overlays.
 - [Dither Kit](../sites/dither-kit.md) — Dithered canvas charts (area, bar, pie, radar) with a Recharts-style API and a single Markdown docs file.
 - [Ditther](../sites/ditther.md) — A browser editor and effect gallery for pixel, dither, ASCII and print-like treatments across still images and motion.
@@ -113,6 +115,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Linden Hill](../sites/linden-hill.md) — Serif font specimen with Regular and Italic switching, a detailed glyph map and visual examples of OpenType features.
 - [loadmo.re](../sites/loadmore.md) — Hand-picked archive of experimental mobile websites, tagged by visual style, genre and interaction technique.
 - [Luzhniki identity — Art. Lebedev Studio](../sites/luzhniki-identity.md) — A Moscow sports and park identity uses custom arc forms, a broad blue palette and a flexible frame across signs, posters and merchandise.
+- [Manixh](../sites/manixh.md) — A dark developer portfolio with outlined social panels, scrolling skill marquees, project cards and a dense technical profile.
 - [Marathon](../sites/marathonthegame.md) — Bungie's game launch site pairs cinematic footage with acid-lime typography and a dense, game-like navigation rail.
 - [Material Symbols](../sites/material-symbols.md) — Google's Apache 2.0 variable icon font: about 3,900 symbols in three styles with fill, weight, grade and optical size axes.
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
@@ -128,6 +131,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.
 - [Nacelle](../sites/nacelle.md) — Japanese type specimen pairing a quiet split layout and oversized word sample with named styles and an OFL licence.
 - [Nike Why Do It?](../sites/nike-why-do-it.md) — A 2025 Nike campaign page documents its film, athlete photography and cinematic newsroom presentation as a dated brand example.
+- [Nikhil Rajpurohit](../sites/nikhil-rajpurohit.md) — A quiet editorial portfolio with a narrow text column, understated theme switch, compact project links and expandable experience.
 - [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
 - [OGANNA®](../sites/oganna.md) — Taipei design studio portfolio spanning identity, illustration, web and motion work, with category-tagged projects and multilingual navigation.
 - [OKLCH](../sites/oklch.md) — Evil Martians' OKLCH picker and converter with P3/Rec. 2020 gamut views and sRGB fallbacks.
