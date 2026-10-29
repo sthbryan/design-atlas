@@ -145,7 +145,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
 - [Google Arts & Culture](../sites/google-arts-and-culture.md) — Museum collections and interactive exhibits for studying editorial art storytelling, high-resolution viewing and playful cultural experiences.
 - [Google Evolving Identity](../sites/google-evolving-identity.md) — Google's 2015 identity story, with visual studies of its logotype, animated dots, compact G, color and product applications.
-- [Google Pixel design story](../sites/google-pixel-design-story.md) — A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 10 range.
+- [Google Pixel design story](../sites/google-pixel-design-story.md) — A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 11 range.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [Great Apps](../sites/great-apps.md) — A small, opinionated gallery of about 216 well-crafted indie iOS apps, from the curator of Sections.wtf.
 - [GreatStuff](../sites/greatstuff.md) — Framer-built archive of about 600 links for designers (tools, assets, galleries, AI, Mac apps), filterable by type, with a shuffle button.
@@ -333,7 +333,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [UserOnboard](../sites/useronboard.md) — Annotated onboarding teardowns presented as navigable screen sequences, useful for studying flow, hierarchy and progressive disclosure.
 - [Utopia Tokyo](../sites/utopia-tokyo.md) — A mask-themed cyberpunk experience with a red editorial grid, a safety choice and an interactive character builder.
 - [Variant](../sites/variant.md) — Explore a prompt-led stream of live interface experiments, then use the examples as inspiration for your own visual direction.
-- [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
+- [Velvetyne (broken)](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 - [vgpu](../sites/vgpu.md) — A composable WebGPU library with live shader examples, versioned docs, CLI discovery and agent resources.
 - [Viewport UI](../sites/viewport-ui.md) — A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.
 - [VividSites](../sites/vividsites.md) — A prompt library of cinematic website examples, with filters, free previews, source videos and an MCP search route.

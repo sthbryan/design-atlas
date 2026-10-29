@@ -12,7 +12,7 @@ licence: free; MIT (repo `shadcn-labs/pdfcn`); the Takumi renderer is MIT or Apa
 licence_class: open-source-permissive
 reviewed: 2026-09-25
 status: active
-related: [emailcn, ogimagecn, termcn, shadcn-ui, mapcn]
+related: [ogimagecn, termcn, shadcn-ui, mapcn]
 ---
 [← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)
 
@@ -53,4 +53,4 @@ Register `@pdfcn` in `components.json`, then run `npx shadcn@latest add @pdfcn/t
 
 ## Related
 
-[emailcn](emailcn.md), [ogimagecn](ogimagecn.md), [termcn](termcn.md), [shadcn/ui](shadcn-ui.md), [mapcn](mapcn.md)
+[ogimagecn](ogimagecn.md), [termcn](termcn.md), [shadcn/ui](shadcn-ui.md), [mapcn](mapcn.md)

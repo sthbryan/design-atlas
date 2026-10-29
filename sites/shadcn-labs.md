@@ -12,7 +12,7 @@ licence: free. The project repos under the `shadcn-labs` GitHub organisation are
 licence_class: open-source-permissive
 reviewed: 2026-09-25
 status: active
-related: [startercn, shadcn-skills, termcn, pdfcn, emailcn, ogimagecn, framecn, agentcn, mcpcn, editorcn, shadercn]
+related: [startercn, shadcn-skills, termcn, pdfcn, ogimagecn, framecn, agentcn, mcpcn, editorcn, shadercn]
 ---
 [← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [documentation](../topics/documentation.md)
 
@@ -53,4 +53,4 @@ The hub page has no `llms.txt` (404) and no agent tooling of its own. The value 
 
 ## Related
 
-[startercn](startercn.md), [Shadcn Labs Skills](shadcn-skills.md), [termcn](termcn.md), [pdfcn](pdfcn.md), [emailcn](emailcn.md), [ogimagecn](ogimagecn.md), [framecn](framecn.md), [agentcn](agentcn.md), [mcpcn](mcpcn.md), [editorcn](editorcn.md), [shadercn](shadercn.md)
+[startercn](startercn.md), [Shadcn Labs Skills](shadcn-skills.md), [termcn](termcn.md), [pdfcn](pdfcn.md), [ogimagecn](ogimagecn.md), [framecn](framecn.md), [agentcn](agentcn.md), [mcpcn](mcpcn.md), [editorcn](editorcn.md), [shadercn](shadercn.md)

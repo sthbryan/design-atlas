@@ -1,7 +1,7 @@
 ---
 title: Viewport UI
 description: A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.
-url: https://viewport-ui.design/
+url: https://viewportui.com/
 type: gallery
 formats: visual reference gallery · web, desktop, mobile, watch, icon and motion categories
 topics: [inspiration, components, motion]
@@ -10,8 +10,9 @@ agent: []
 pricing: free
 licence: No reuse licence or paid tier was stated at review; treat gallery records as look-only references.
 licence_class: not-stated
-reviewed: 2026-09-27
+reviewed: 2026-10-29
 status: active
+note: Moved from viewport-ui.design to viewportui.com; the old domain redirects to the new one.
 related: [curated-design, site-of-sites, godly]
 ---
 [← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [components](../topics/components.md), [motion](../topics/motion.md)
@@ -28,8 +29,8 @@ Use it to browse interface directions across device formats, especially when you
 
 ## Most useful
 
-- Start at the [home gallery](https://viewport-ui.design/) and narrow the collection with its category pills. Cards include a name or short description and creator attribution.
-- **[Storyboard Component](https://viewport-ui.design/posts/591-storyboard-component/)** presents a sports story inside a phone frame: compact browser chrome, a concise headline, a strong subhead, paired photos and a score card. The centered phone capture makes the mobile hierarchy easy to scan.
+- Start at the [home gallery](https://viewportui.com/) and narrow the collection with its category pills. Cards include a name or short description and creator attribution.
+- **[Storyboard Component](https://viewportui.com/posts/591-storyboard-component)** presents a sports story inside a phone frame: compact browser chrome, a concise headline, a strong subhead, paired photos and a score card. The centered phone capture makes the mobile hierarchy easy to scan.
 - Follow the original-source link on a record to check its context and interaction. The gallery card is a visual record rather than a complete specification.
 
 ## Using it with agents

@@ -2856,36 +2856,6 @@
       ]
     },
     {
-      "slug": "butter-nav",
-      "path": "sites/butter-nav.md",
-      "title": "Butter Nav",
-      "description": "Mega-menu that is one card morphing between menus, with a full rebuild prompt; no licence published.",
-      "url": "https://butter-nav.vercel.app",
-      "type": "component-library",
-      "formats": "component (shadcn registry item)",
-      "topics": [
-        "navigation",
-        "motion",
-        "components"
-      ],
-      "verdict": "useful",
-      "agent": [
-        "registry",
-        "prompts"
-      ],
-      "pricing": "free",
-      "licence": "free to install; licence not stated on the site or in the registry item",
-      "licence_class": "not-stated",
-      "reviewed": "2026-09-25",
-      "status": "active",
-      "related": [
-        "navbar-gallery",
-        "rareui",
-        "transitions-dev",
-        "motion-primitives"
-      ]
-    },
-    {
       "slug": "canvas-ui-qwen-demo",
       "path": "sites/canvas-ui-qwen-demo.md",
       "title": "Canvas UI Qwen Demo",
@@ -5784,36 +5754,6 @@
       ]
     },
     {
-      "slug": "emailcn",
-      "path": "sites/emailcn.md",
-      "title": "emailcn",
-      "description": "Email sections and full templates for React Email, MJML React and JSX Email, with shared themes.",
-      "url": "https://emailcn.run",
-      "type": "component-library",
-      "formats": "email component library (shadcn registry)",
-      "topics": [
-        "components",
-        "typography-and-styles"
-      ],
-      "verdict": "useful",
-      "agent": [
-        "llms-txt",
-        "registry"
-      ],
-      "pricing": "free",
-      "licence": "free; MIT (repo `shadcn-labs/emailcn`); React Email, MJML React and JSX Email are also MIT",
-      "licence_class": "open-source-permissive",
-      "reviewed": "2026-09-25",
-      "status": "active",
-      "related": [
-        "pdfcn",
-        "ogimagecn",
-        "termcn",
-        "shadcn-ui",
-        "cta-gallery"
-      ]
-    },
-    {
       "slug": "emil-kowalski-skills",
       "path": "sites/emil-kowalski-skills.md",
       "title": "Emil Kowalski's skills",
@@ -7209,8 +7149,8 @@
       "slug": "google-pixel-design-story",
       "path": "sites/google-pixel-design-story.md",
       "title": "Google Pixel design story",
-      "description": "A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 10 range.",
-      "url": "https://store.google.com/us/magazine/google-pixel-design-story?hl=en-US",
+      "description": "A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 11 range.",
+      "url": "https://store.google.com/us/magazine/pixel-11-design?hl=en-US",
       "type": "website",
       "formats": "product design story · hardware photography · editorial page",
       "topics": [
@@ -7222,9 +7162,9 @@
       "pricing": "free",
       "licence": "Free to view. Google Terms of Service apply; Google and its licensors retain rights to editorial images, product imagery and brand marks. No general reuse licence is stated.",
       "licence_class": "proprietary-free",
-      "reviewed": "2026-09-27",
+      "reviewed": "2026-10-29",
       "status": "active",
-      "note": "This URL currently serves a Pixel 10 series story; its product lineup and page details may change with future launches.",
+      "note": "Google renames this story with each launch; the URL served the Pixel 10 story at the previous review and the Pixel 11 story on 2026-10-29.",
       "related": [
         "google-evolving-identity",
         "google-arts-and-culture"
@@ -11984,7 +11924,6 @@
       "status": "active",
       "related": [
         "posts-design",
-        "emailcn",
         "pdfcn",
         "shieldcn",
         "shadcn-ui"
@@ -12678,7 +12617,6 @@
       "reviewed": "2026-09-25",
       "status": "active",
       "related": [
-        "emailcn",
         "ogimagecn",
         "termcn",
         "shadcn-ui",
@@ -14117,8 +14055,8 @@
       "slug": "rune-icons",
       "path": "sites/rune-icons.md",
       "title": "Rune Icons",
-      "description": "220 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.",
-      "url": "https://runeiconsnex.vercel.app",
+      "description": "223 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.",
+      "url": "https://www.runeicons.com/",
       "type": "icon-library",
       "formats": "icon library · in-browser icon editor",
       "topics": [
@@ -14127,14 +14065,15 @@
       ],
       "verdict": "niche",
       "agent": [
+        "mcp",
         "llms-txt"
       ],
       "pricing": "free",
       "licence": "Free. The icons are Apache 2.0 with no attribution required. The website code (landing page, components, animations, editor) is Apache 2.0 plus an attribution clause and the Commons Clause",
       "licence_class": "mixed",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-10-29",
       "status": "active",
-      "note": "The advertised domain, runeicons.com, had no DNS record at review.",
+      "note": "The site moved off runeiconsnex.vercel.app, which now returns 404, and runeicons.com resolves. The repository moved to the Runeicons organisation.",
       "related": [
         "reicon",
         "mx-icons",
@@ -14825,7 +14764,6 @@
         "shadcn-skills",
         "termcn",
         "pdfcn",
-        "emailcn",
         "ogimagecn",
         "framecn",
         "agentcn",
@@ -16524,7 +16462,6 @@
         "shadcn-ui",
         "mapcn",
         "pdfcn",
-        "emailcn",
         "21st-dev"
       ]
     },
@@ -18046,7 +17983,8 @@
       "licence": "Free (donations welcome) / 38 of 41 typefaces under SIL OFL 1.1 (one also under CUTE); PicNic and Velvelyne under CUTE only; BianZhiDai under a \"Free To Use BUT Be Nice\" licence; the foundry asks for credit",
       "licence_class": "mixed",
       "reviewed": "2026-09-25",
-      "status": "active",
+      "status": "broken",
+      "note": "On 2026-10-29 the site served an \"EN GRÈVE\" statement supporting striking French lycéens instead of its catalogue, so the fonts could not be reached. The site itself still answers.",
       "related": [
         "fontshare",
         "klim",
@@ -18272,7 +18210,7 @@
       "path": "sites/viewport-ui.md",
       "title": "Viewport UI",
       "description": "A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.",
-      "url": "https://viewport-ui.design/",
+      "url": "https://viewportui.com/",
       "type": "gallery",
       "formats": "visual reference gallery · web, desktop, mobile, watch, icon and motion categories",
       "topics": [
@@ -18285,8 +18223,9 @@
       "pricing": "free",
       "licence": "No reuse licence or paid tier was stated at review; treat gallery records as look-only references.",
       "licence_class": "not-stated",
-      "reviewed": "2026-09-27",
+      "reviewed": "2026-10-29",
       "status": "active",
+      "note": "Moved from viewport-ui.design to viewportui.com; the old domain redirects to the new one.",
       "related": [
         "curated-design",
         "site-of-sites",

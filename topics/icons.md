@@ -56,7 +56,7 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Reeoo](../sites/reeoo.md) — Searchable references for websites, apps, store screenshots, event cards, icons and tools, with filters for industry, colour, style and layout.
 - [Reicon](../sites/reicon.md) — 2,630 MIT UI icons in Outline and Filled, with framework packages, llms files and an MCP server.
 - [Remix Icon](../sites/remix-icon.md) — About 3,230 line-and-fill system icons with an official MCP server, under a custom free licence since January 2026.
-- [Rune Icons](../sites/rune-icons.md) — 220 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.
+- [Rune Icons](../sites/rune-icons.md) — 223 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.
 - [Shadcn Labs Skills](../sites/shadcn-skills.md) — Six MIT skills: launch a shadcn registry, generate, audit and extend SVG icon sets, Tailwind-to-StyleX.
 - [Simple Icons](../sites/simple-icons.md) — The standard CC0 set of 3,461 one-colour brand logos, with official hex colours and a colour CDN.
 - [Svgl](../sites/svgl.md) — Searchable brand-logo SVG library with category filters, light and dark variants, copy formats, downloads and an API.

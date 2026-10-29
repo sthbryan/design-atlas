@@ -11,7 +11,8 @@ pricing: free
 licence: Free (donations welcome) / 38 of 41 typefaces under SIL OFL 1.1 (one also under CUTE); PicNic and Velvelyne under CUTE only; BianZhiDai under a "Free To Use BUT Be Nice" licence; the foundry asks for credit
 licence_class: mixed
 reviewed: 2026-09-25
-status: active
+status: broken
+note: On 2026-10-29 the site served an "EN GRÈVE" statement supporting striking French lycéens instead of its catalogue, so the fonts could not be reached. The site itself still answers.
 related: [fontshare, klim, typeface-fyi, minimal-gallery]
 ---
 [← Atlas](../site/home.md) · Topics: [typography-and-styles](../topics/typography-and-styles.md), [assets](../topics/assets.md), [inspiration](../topics/inspiration.md)

@@ -12,7 +12,7 @@ licence: free; MIT (repo `shadcn-labs/ogimagecn`); cards render through Satori (
 licence_class: open-source-permissive
 reviewed: 2026-09-25
 status: active
-related: [posts-design, emailcn, pdfcn, shieldcn, shadcn-ui]
+related: [posts-design, pdfcn, shieldcn, shadcn-ui]
 ---
 [← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [assets](../topics/assets.md)
 
@@ -54,4 +54,4 @@ Install with `npx shadcn@latest add @ogimagecn/<name>` (the namespace is in shad
 
 ## Related
 
-[posts.design](posts-design.md), [emailcn](emailcn.md), [pdfcn](pdfcn.md), [shieldcn](shieldcn.md), [shadcn/ui](shadcn-ui.md)
+[posts.design](posts-design.md), [pdfcn](pdfcn.md), [shieldcn](shieldcn.md), [shadcn/ui](shadcn-ui.md)
