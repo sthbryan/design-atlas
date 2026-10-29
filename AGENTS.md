@@ -28,7 +28,7 @@ The build owns these parts; your edits there are overwritten or fail the check:
 - In each hub, everything between the `atlas:sources` start and end markers.
 - In each site page, the breadcrumb line directly after the frontmatter and the body of the `## Related` section.
 - `llms.txt` and `sites.json`.
-- `url-health.json`, the report `scripts/check-urls.mjs` writes for `query.mjs --link`, which the weekly workflow refreshes.
+- `url-health.json`, the report `scripts/check-urls.mjs` writes for `query.mjs --link`, which the weekly workflow refreshes in a pull request.
 - `skills/design-atlas/references/catalog.json` and `skills/design-atlas/references/hub-map.md`, the snapshot the `design-atlas` skill falls back to offline, and `skills/design-atlas/references/search-index.json`, the index behind `query.mjs --search`.
 - `skills/design-atlas-ui/scripts/validate-design-md.mjs`, a copy of `scripts/design-md.mjs` that ships the DESIGN.md validator with the `design-atlas-ui` skill. Edit `scripts/design-md.mjs`, then run the build.
 

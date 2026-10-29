@@ -64,7 +64,7 @@ Bun 1.4.2 runs the scripts; Node 20 or later runs their underlying code. The dev
 
 Follow [`CONTRIBUTING.md`](CONTRIBUTING.md) to add, update or remove a site. In short, copy [`TEMPLATE.md`](TEMPLATE.md) to `sites/<slug>.md`, fill in its frontmatter and seven sections, then run `bun run build` and `bun run check`. Generated indexes and related links are maintained by the build; don't edit them by hand.
 
-A weekly workflow fetches every listed `url` and commits `url-health.json`, the report behind `query.mjs --link`; run `bun run check:urls` to refresh it yourself.
+A weekly workflow fetches every listed `url`, writes `url-health.json` (the report behind `query.mjs --link`) and opens a pull request with it; run `bun run check:urls` to refresh it yourself.
 
 ## Licence
 

@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   check:
@@ -16,16 +17,49 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: 24
-      - id: urls
+      - run: node scripts/check-urls.mjs
         continue-on-error: true
-        run: node scripts/check-urls.mjs
-      - run: |
+      - name: Open or update the report pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- url-health.json; then
+            echo "url-health.json is unchanged; nothing to report"
+            exit 0
+          fi
+          node --input-type=module <<'JS'
+          import { readFileSync, writeFileSync } from 'node:fs';
+          const { about, sites } = JSON.parse(readFileSync('url-health.json', 'utf8'));
+          const bad = sites.filter((site) => site.status === 'moved' || site.status === 'dead');
+          const lines = [
+            'The weekly URL check refreshed `url-health.json`.',
+            '',
+            `Checked on ${about.checked}: **${about.live}** live, **${about.blocked}** blocked, **${about.moved}** moved, **${about.dead}** dead.`,
+            '',
+          ];
+          if (bad.length) {
+            lines.push('| Site | Status | Answer | Final URL |', '|---|---|---|---|');
+            for (const site of bad) {
+              const answer = `${site.http ?? 'error'}${site.error ? ` (${site.error})` : ''}`;
+              lines.push(`| \`${site.slug}\` | ${site.status} | ${answer} | ${site.final_url} |`);
+            }
+            lines.push('', "Correct each page's `url`, `status` or `note` in `sites/<slug>.md` before merging this report.");
+          } else {
+            lines.push('No page moved or stopped answering.');
+          }
+          writeFileSync('pr-body.md', `${lines.join('\n')}\n`);
+          writeFileSync('pr-title.txt', `chore(atlas): refresh url health (${about.moved} moved, ${about.dead} dead)\n`);
+          JS
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c atlas/url-health
           git add url-health.json
-          git diff --staged --quiet || git commit -m "chore(atlas): refresh url health"
-          git push
-      - if: steps.urls.outcome == 'failure'
-        run: |
-          echo "Pages moved or stopped answering; read url-health.json, re-check the pages and update their url or status."
-          exit 1
+          git commit -m "chore(atlas): refresh url health"
+          git push --force origin HEAD:atlas/url-health
+          number="$(gh pr list --head atlas/url-health --state open --json number --jq '.[0].number // empty')"
+          if [ -n "$number" ]; then
+            gh pr edit "$number" --title "$(cat pr-title.txt)" --body-file pr-body.md
+          else
+            gh pr create --base main --head atlas/url-health --title "$(cat pr-title.txt)" --body-file pr-body.md
+          fi
