@@ -3,7 +3,7 @@ name: design-atlas
 description: Finds design references in the Design Atlas, uses galleries both as UI references and to discover more examples, and compares visual directions in a cited brief after browser inspection. Also filters libraries, assets and tools by licence, agent channel and price. Use when the user wants design inspiration or references, or asks which library, icon set, font or tool to use. For building or reviewing UI, also use design-atlas-ui.
 license: MIT
 metadata:
-  version: "0.4.0"
+  version: "0.5.0"
 ---
 
 # Design Atlas
@@ -99,7 +99,15 @@ node "$SKILL_DIR/scripts/query.mjs" --search "brutalism" --type gallery,website
 node "$SKILL_DIR/scripts/query.mjs" --topic icons,assets --licence ship --agent any
 node "$SKILL_DIR/scripts/query.mjs" --topic components --agent mcp --min-verdict useful
 node "$SKILL_DIR/scripts/query.mjs" --slug iconoir,icons0 --full
+node "$SKILL_DIR/scripts/query.mjs" --topic icons --freshness due
+node "$SKILL_DIR/scripts/query.mjs" --search "icon set" --licence ship --asset code
 ```
+
+Three optional fields refine a query, and each row says which applies:
+
+- **`freshness`**: `fresh` or `due`. A page is due past its `stale_after` date, or 180 days after `reviewed` when it sets none, and due rows sort below fresh ones.
+- **`licences`**: licence classes per asset (`code`, `assets`, `fonts`) where they differ from the site's class. `--licence ship --asset code` filters on the code class; without a mapping, the site class applies.
+- **`verdict_after_use`**: `held-up`, `mixed` or `let-down` from real use, with a date and a note. A `let-down` page sorts lower, and `--after-use let-down` lists them.
 
 It prints JSON: `location`, `base`, `total`, and one row per site. Each row's `path` is relative to `base`, a local folder or the raw GitHub URL; `base` is null for the snapshot. Exit code 1 means no match, so widen one filter at a time.
 
@@ -149,7 +157,7 @@ The licence class sets the default. The page's `licence` text and "Watch out for
 | `open-source-copyleft`, `source-available`, `cc-noncommercial`, `proprietary-free`, `proprietary-paid`, `mixed` | Conditional: name the condition in the brief |
 | `not-stated` | Look only: take ideas, never code or assets |
 
-Read `references/licence-guide.md` before recommending anything to ship, and whenever a class is conditional.
+A page's `licences` mapping wins for the asset you take, and the site class covers the rest. Read `references/licence-guide.md` before recommending anything to ship, and whenever a class is conditional.
 
 ### 7. Write the brief
 
@@ -191,6 +199,8 @@ Inside a clone, follow `AGENTS.md` and `CONTRIBUTING.md`. Never hand-edit `llms.
 - `mixed` means the offer splits across classes. The split is spelled out in `licence` and "Watch out for".
 - Brand DESIGN.md files describe someone else's identity. Borrow their structure, never the brand.
 - Rows with status `stale` or `broken` stay in the index. Flag them and prefer an active alternative.
+- A row's `freshness` is `due` once it passes `stale_after`. Re-check its prices and licences before relying on them, and say in the brief that the page is due.
+- `verdict_after_use: let-down` means the site failed after review, and `held-up` means it did not. Say so, and prefer a page that held up when the brief has one.
 - In `llms.txt` a bare word also matches descriptions. Anchor on the field, as in `topics: [^;]*motion`.
 
 ## Before you finish

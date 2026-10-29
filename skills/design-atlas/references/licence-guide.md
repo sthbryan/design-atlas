@@ -6,6 +6,7 @@ How to turn a site's `licence_class` into a line in the brief. The class is the 
 
 - [Three questions first](#three-questions-first)
 - [Class by class](#class-by-class)
+- [Per-asset classes](#per-asset-classes)
 - [What to read on the page](#what-to-read-on-the-page)
 - [Traps](#traps)
 - [Wording in the brief](#wording-in-the-brief)
@@ -33,6 +34,10 @@ How to turn a site's `licence_class` into a line in the brief. The class is the 
 
 The script's `--licence ship` group covers the first three rows, `look-only` covers the last, and `conditional` covers the rest.
 
+## Per-asset classes
+
+Some pages carry a `licences` mapping beside `licence_class`, naming `code`, `assets` or `fonts`. The mapping wins for the part you take: a site can be `open-source-permissive` for code and `cc-noncommercial` for its illustrations or its bundled font. Filter on it with `--licence ship --asset code`, `--asset assets` or `--asset fonts`; without a mapping, the site class applies. The mapping is never complete, so read the `licence` text for the split it does not name.
+
 ## What to read on the page
 
 In this order, stopping once the answer is clear:
@@ -51,7 +56,7 @@ In this order, stopping once the answer is clear:
 - **Brand DESIGN.md files.** They describe a real company's identity. Borrow structure and token naming, never the brand's palette, type pairing and name together.
 - **Trademarks.** Open code does not license a product's name or logo. Keep them out of the user's product.
 - **Fonts.** Check whether the font licence allows web embedding and bundling in an app. Many free fonts forbid selling the font on its own.
-- **Stale dates.** A review older than six months deserves a fresh look at the licence page before shipping.
+- **Stale dates.** A review older than six months, or past the page's `stale_after` date, deserves a fresh look at the licence page before shipping.
 
 ## Wording in the brief
 

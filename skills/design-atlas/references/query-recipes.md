@@ -23,11 +23,14 @@ Commands for filtering the atlas without `scripts/query.mjs`, and for reading pa
 | `pricing` | `free`, `freemium`, `paid`, `not-stated` |
 | `licence_class` | see `licence-guide.md` |
 | `status` | `active`, `stale`, `broken`; removed sites are left out of every index |
+| `licences` | per-asset classes for `code`, `assets` and `fonts`, when they differ from `licence_class` |
+| `verdict_after_use` | `verdict` (`held-up`, `mixed`, `let-down`), `date` and `note`, recorded after real use |
+| `freshness` | computed by `query.mjs`: `fresh`, or `due` past `stale_after` or 180 days after `reviewed` |
 | `topics` | one to four hub slugs, the first being the primary one |
 
 The vocabularies live in the atlas's `scripts/build.mjs` and `CONTRIBUTING.md`. When a value here is missing from the data, or the data has one not listed, trust the data.
 
-`licence` is free text with the details behind `licence_class`. `reviewed` is the date every fact on the page was checked.
+`licence` is free text with the details behind `licence_class`. `reviewed` is the date every fact on the page was checked, and `stale_after` moves the due date earlier or later than 180 days after it.
 
 ## jq over sites.json or the catalog
 
@@ -118,6 +121,8 @@ grep -n -i -E 'scrap|crawl|bulk|automated|redistribut|mirror' sites/animated-ico
 ## Script flags
 
 `node scripts/query.mjs --help` prints the full list. Values inside one flag are ORed and separate flags are ANDed. `--licence` also accepts the groups `ship`, `conditional` and `look-only`. Output is capped at 12 rows by default and 50 at most.
+
+`--freshness`, `--after-use` and `--asset` read the fields above. `--link live,moved,blocked,dead` reads `url-health.json`, which `scripts/check-urls.mjs` writes, so it needs a clone or the network and does not work from the bundled snapshot.
 
 | Exit code | Meaning |
 |---|---|
