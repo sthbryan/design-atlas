@@ -17,11 +17,12 @@ Fetches every site's url from sites.json, follows redirects and writes ${FILE},
 the URL health report that \`query.mjs --link\` reads. Run \`bun run build\` first,
 so sites.json holds every listed page.
 
-A page is "live" when it answers below 400 at its own address, "moved" when it
-answers somewhere else after normalising www, the scheme, a trailing slash and
-the query string, "blocked" when the server refuses automated requests (401,
-403 or 429, so the check proves nothing), and "dead" when it errors or answers
-any other 400 or above. Network errors and 5xx answers get one retry.
+A page is "live" when it answers below 400 on its own host, "moved" when it now
+serves another host after normalising www and the scheme, "blocked" when the
+server gives no usable answer to an automated request (401, 403, 429, a timeout
+or a reset, so the check proves nothing), and "dead" when it errors, cannot
+resolve or answers 400 or above. Network errors and 5xx answers get one retry.
+Same-host redirects stay live, since sites move their own pages freely.
 
 Options:
   --concurrency N      requests in flight (default ${DEFAULT_CONCURRENCY})
@@ -63,12 +64,7 @@ function parseArgs(argv) {
 
 const today = new Date().toISOString().slice(0, 10);
 
-function normalize(value) {
-  const url = new URL(value);
-  const host = url.hostname.toLowerCase().replace(/^www\./, '');
-  const path = decodeURI(url.pathname).replace(/\/+$/, '');
-  return `${host}${path}${url.search}`;
-}
+const hostOf = (value) => new URL(value).hostname.toLowerCase().replace(/^www\./, '');
 
 async function attempt(url, timeout) {
   const res = await fetch(url, {
@@ -88,7 +84,8 @@ async function probe(site, opts) {
       if (res.http < 500) return { ...res, error: null };
       last = { http: res.http, final: res.final, error: `HTTP ${res.http}` };
     } catch (error) {
-      last = { http: null, final: site.url, error: error.name === 'TimeoutError' ? 'timeout' : (error.cause?.code ?? error.message) };
+      const code = error.name === 'TimeoutError' ? 'timeout' : (error.cause?.code ?? error.message);
+      last = { http: null, final: site.url, error: code, blocked: code === 'timeout' || code === 'ECONNRESET' };
     }
     if (i + 1 < ATTEMPTS) await new Promise((done) => setTimeout(done, RETRY_DELAY_MS));
   }
@@ -96,11 +93,11 @@ async function probe(site, opts) {
 }
 
 function classify(site, result) {
-  if (result.http === null) return 'dead';
+  if (result.http === null) return result.blocked ? 'blocked' : 'dead';
   if (BLOCKED.has(result.http)) return 'blocked';
   if (result.http >= 400) return 'dead';
   try {
-    return normalize(result.final) === normalize(site.url) ? 'live' : 'moved';
+    return hostOf(result.final) === hostOf(site.url) ? 'live' : 'moved';
   } catch {
     return 'moved';
   }

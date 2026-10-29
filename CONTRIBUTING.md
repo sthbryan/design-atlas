@@ -78,7 +78,7 @@ Don't delete the file. Set `status` to `removed` and give the reason in `note`. 
 
 ## Check the links
 
-`bun run check:urls` fetches every listed page's `url` and writes `url-health.json`: per page `live`, `moved` (the address answers somewhere else), `blocked` (a 401, 403 or 429, so the check proves nothing either way) or `dead` (an error, or any other 400 or above). A weekly workflow runs it and commits the report. It never edits a page; read it before a review instead of trusting an old `url`. A moved page gets its `url` corrected and a fresh `reviewed`, and a page that has stopped answering on two separate checks gets `status: broken` and a `note`. In a clone, `node skills/design-atlas/scripts/query.mjs --link moved,dead` filters on the report.
+`bun run check:urls` fetches every listed page's `url` and writes `url-health.json`: per page `live`, `moved` (the page now serves another host), `blocked` (401, 403, 429, a timeout or a reset, so the check proves nothing either way) or `dead` (an error, an unresolvable host, or a 400 or above). A redirect within the same host stays `live`, because sites move their own pages freely. A weekly workflow runs it and commits the report. It never edits a page; read it before a review instead of trusting an old `url`. A moved page gets its `url` corrected and a fresh `reviewed`, and a page that has stopped answering on two separate checks gets `status: broken` and a `note`. In a clone, `node skills/design-atlas/scripts/query.mjs --link moved,dead` filters on the report.
 
 ## Record a use
 
