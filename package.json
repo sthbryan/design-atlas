@@ -11,6 +11,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/build.mjs --check && bun run --silent test",
+    "check:urls": "node scripts/check-urls.mjs",
     "test": "node --test scripts/search.test.mjs scripts/design-md.test.mjs scripts/site-performance.test.mjs",
     "site:dev": "vitepress dev site --host 127.0.0.1",
     "site:build": "vitepress build site",

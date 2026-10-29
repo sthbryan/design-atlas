@@ -64,6 +64,8 @@ Bun 1.4.2 runs the scripts; Node 20 or later runs their underlying code. The dev
 
 Follow [`CONTRIBUTING.md`](CONTRIBUTING.md) to add, update or remove a site. In short, copy [`TEMPLATE.md`](TEMPLATE.md) to `sites/<slug>.md`, fill in its frontmatter and seven sections, then run `bun run build` and `bun run check`. Generated indexes and related links are maintained by the build; don't edit them by hand.
 
+A weekly workflow fetches every listed `url` and commits `url-health.json`, the report behind `query.mjs --link`; run `bun run check:urls` to refresh it yourself.
+
 ## Licence
 
 - Markdown content, including site pages, topic hubs, `site/DESIGN.md` and this README, is under [CC BY 4.0](LICENSE). Credit “Design Atlas contributors” and link to this repository when reusing it.

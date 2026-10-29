@@ -112,7 +112,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Remix Icon](../sites/remix-icon.md) — About 3,230 line-and-fill system icons with an official MCP server, under a custom free licence since January 2026.
 - [Rive](../sites/rive.md) — State-machine vector editor with MIT runtimes, an agent-friendly CLI and a local MCP; exporting needs a paid seat.
 - [Rueya Supply](../sites/rueya-supply.md) — Pre-launch shop whose one screen pairs 41.6px type at weight 300 on a 1.02 line height with an airy 1.75 body, over a cream-to-orange gradient.
-- [Rune Icons](../sites/rune-icons.md) — 220 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.
+- [Rune Icons](../sites/rune-icons.md) — 223 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.
 - [Saved](../sites/saved.md) — Daily design gallery with filters for web, interfaces, branding, motion, 3D, illustration, typography and posters.
 - [SceneAI](../sites/sceneai.md) — Curated landing-page prompts, animated backgrounds and gradients for studying expressive web sections and motion.
 - [Screan](../sites/screan.md) — Free MIT browser studio that exports store screenshots for every size and language as one ZIP.
@@ -135,7 +135,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
 - [V-Fonts](../sites/v-fonts.md) — Searchable variable-font catalogue with live specimens, adjustable axes, metadata and per-family licensing links.
 - [Vector Halftone Maker](../sites/vector-halftone-maker.md) — Lightweight browser tool for turning an image into configurable dot grids, pixel-like shapes and PNG or SVG exports.
-- [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
+- [Velvetyne (broken)](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 - [Venust Backgrounds](../sites/venust-backgrounds.md) — CC0 AI hero backgrounds sorted by page slot, each with its prompt; llms.txt and Markdown for agents.
 - [Wakamai Fondue](../sites/wakamai-fondue.md) — Drop in a font to see its OpenType features, variable axes and glyphs, then get ready-made CSS, all in-browser.
 - [Xnapper](../sites/xnapper.md) — A screenshot app whose homepage demonstrates framing, backgrounds, ratios and redaction in its own editor UI.

@@ -78,7 +78,6 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Duolingo Art Style](../sites/duolingo-art-style.md) — Duolingo’s illustrated guide to readable vector shapes, expressive characters, negative space and playful visual storytelling.
 - [Edinburgh College of Art Graduate Show 2025](../sites/eca-graduate-show-2025.md) — Edinburgh's cross-school 2025 graduate archive, searchable by discipline and theme, with student portfolios and curated collections.
 - [EISAKA DESIGN](../sites/eisaka-design.md) — Riga designer portfolio with spacious project cards for visual identity, packaging and print work.
-- [emailcn](../sites/emailcn.md) — Email sections and full templates for React Email, MJML React and JSX Email, with shared themes.
 - [everywhere.tools](../sites/everywhere-tools.md) — Small hand-picked set of 20 experimental type tools, open-source foundries, generative image tools and portfolio builders for designers.
 - [Experimental Jetset](../sites/experimental-jetset.md) — Amsterdam graphic design studio archive with category filters, alphabetical and chronological sorting, and image-led project records.
 - [Fancy Components](../sites/fancy-components.md) — Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.
@@ -189,7 +188,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [UNSW Art & Design Annual 2025](../sites/unsw-art-design-annual-2025.md) — UNSW's graduate showcase pairs a media-led exhibition home page with filters for degree, discipline and student name.
 - [Utopia](../sites/utopia.md) — Free calculators that turn two type and spacing scales into fluid CSS clamp() tokens, with npm packages.
 - [V-Fonts](../sites/v-fonts.md) — Searchable variable-font catalogue with live specimens, adjustable axes, metadata and per-family licensing links.
-- [Velvetyne](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
+- [Velvetyne (broken)](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 - [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
 - [Wakamai Fondue](../sites/wakamai-fondue.md) — Drop in a font to see its OpenType features, variable axes and glyphs, then get ready-made CSS, all in-browser.

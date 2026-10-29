@@ -24,13 +24,18 @@ const VOCAB = {
     'cc-attribution', 'cc-noncommercial', 'proprietary-free', 'proprietary-paid', 'mixed', 'not-stated',
   ],
   status: ['active', 'stale', 'broken', 'removed'],
+  after_use: ['held-up', 'mixed', 'let-down'],
 };
 
+const ASSET_LICENCES = ['code', 'assets', 'fonts'];
 const SITE_FIELDS = [
   'title', 'description', 'url', 'type', 'formats', 'topics', 'verdict', 'agent',
-  'pricing', 'licence', 'licence_class', 'reviewed', 'status', 'note', 'related',
+  'pricing', 'licence', 'licence_class', 'licences', 'reviewed', 'stale_after', 'status', 'note',
+  'verdict_after_use', 'related',
 ];
-const OPTIONAL = new Set(['formats', 'note']);
+const OPTIONAL = new Set(['formats', 'note', 'stale_after', 'licences', 'verdict_after_use']);
+const OPTIONAL_TEXT = new Set(['formats', 'note']);
+const AFTER_USE_FIELDS = ['verdict', 'date', 'note'];
 const SECTIONS = [
   'What it is', 'When to open it', 'Most useful', 'Using it with agents',
   'Watch out for', 'Reusable ideas', 'Related',
@@ -75,6 +80,10 @@ function loadDir(dir) {
 }
 
 const isString = (value) => typeof value === 'string' && value.trim() !== '' && value === value.trim();
+const isMapping = (value) => typeof value === 'object' && value !== null && !Array.isArray(value);
+const DAY_MS = 864e5;
+const isoDay = (date) => date.toISOString().slice(0, 10);
+const addDays = (day, days) => isoDay(new Date(new Date(`${day}T00:00:00Z`).getTime() + days * DAY_MS));
 const h1Of = (body) => (body.match(/^# (.+)$/m) ?? [])[1];
 
 function validDate(value) {
@@ -109,7 +118,7 @@ topics.sort((a, b) => a.order - b.order);
 const sites = loadDir('sites');
 const siteBySlug = Object.fromEntries(sites.map((s) => [s.slug, s]));
 const siteTitles = new Map();
-const today = new Date();
+const today = isoDay(new Date());
 for (const s of sites) {
   const d = s.data;
   for (const key of Object.keys(d)) if (!SITE_FIELDS.includes(key)) fail(s.path, `unknown field "${key}"`);
@@ -120,7 +129,7 @@ for (const s of sites) {
     if (siteTitles.has(key)) fail(s.path, `title "${d.title}" duplicates ${siteTitles.get(key)}`);
     else siteTitles.set(key, s.path);
   }
-  for (const key of OPTIONAL) if (d[key] !== undefined && !isString(d[key])) fail(s.path, `${key} must be a non-empty string`);
+  for (const key of OPTIONAL_TEXT) if (d[key] !== undefined && !isString(d[key])) fail(s.path, `${key} must be a non-empty string`);
   if (isString(d.description) && (d.description.length > MAX_DESCRIPTION || d.description.includes('\n'))) fail(s.path, `description must be one line of at most ${MAX_DESCRIPTION} characters`);
   if (isString(d.url) && !/^https?:\/\/\S+$/.test(d.url)) fail(s.path, `url "${d.url}" is not an http(s) URL`);
   for (const key of ['type', 'verdict', 'pricing', 'licence_class', 'status']) {
@@ -131,8 +140,36 @@ for (const s of sites) {
   if (d.related !== undefined) checkList(s.path, 'related', d.related, sites.filter((x) => x.slug !== s.slug && x.data.status !== 'removed').map((x) => x.slug), { min: 1 });
   if (d.reviewed !== undefined) {
     if (!validDate(d.reviewed)) fail(s.path, `reviewed "${d.reviewed}" must be a YYYY-MM-DD date`);
-    else if (new Date(`${d.reviewed}T00:00:00Z`) > today) fail(s.path, `reviewed ${d.reviewed} is in the future`);
-    else if ((today - new Date(`${d.reviewed}T00:00:00Z`)) / 864e5 > REVIEW_DAYS) console.warn(`review due: ${s.path} (reviewed ${d.reviewed})`);
+    else if (d.reviewed > today) fail(s.path, `reviewed ${d.reviewed} is in the future`);
+  }
+  if (d.stale_after !== undefined) {
+    if (!validDate(d.stale_after)) fail(s.path, `stale_after "${d.stale_after}" must be a YYYY-MM-DD date`);
+    else if (validDate(d.reviewed) && d.stale_after <= d.reviewed) fail(s.path, 'stale_after must be later than reviewed');
+  }
+  if (validDate(d.reviewed)) {
+    const due = validDate(d.stale_after) ? d.stale_after : addDays(d.reviewed, REVIEW_DAYS);
+    if (today > due) console.warn(`review due: ${s.path} (reviewed ${d.reviewed}, due ${due})`);
+  }
+  if (d.licences !== undefined) {
+    if (!isMapping(d.licences)) fail(s.path, 'licences must be a mapping of code, assets or fonts to a licence class');
+    else {
+      for (const [asset, licence] of Object.entries(d.licences)) {
+        if (!ASSET_LICENCES.includes(asset)) fail(s.path, `licences has unknown asset "${asset}" (allowed: ${ASSET_LICENCES.join(', ')})`);
+        else if (!VOCAB.licence_class.includes(licence)) fail(s.path, `licences.${asset} "${licence}" is not one of: ${VOCAB.licence_class.join(', ')}`);
+      }
+    }
+  }
+  if (d.verdict_after_use !== undefined) {
+    const used = d.verdict_after_use;
+    if (!isMapping(used)) fail(s.path, 'verdict_after_use must be a mapping with verdict, date and note');
+    else {
+      for (const key of Object.keys(used)) if (!AFTER_USE_FIELDS.includes(key)) fail(s.path, `verdict_after_use has unknown field "${key}" (allowed: ${AFTER_USE_FIELDS.join(', ')})`);
+      if (!VOCAB.after_use.includes(used.verdict)) fail(s.path, `verdict_after_use.verdict must be one of: ${VOCAB.after_use.join(', ')}`);
+      if (!validDate(used.date)) fail(s.path, `verdict_after_use.date "${used.date}" must be a YYYY-MM-DD date`);
+      else if (used.date > today) fail(s.path, `verdict_after_use.date ${used.date} is in the future`);
+      else if (validDate(d.reviewed) && used.date < d.reviewed) fail(s.path, 'verdict_after_use.date must not be before reviewed');
+      if (!isString(used.note)) fail(s.path, 'verdict_after_use.note must be a non-empty string');
+    }
   }
   if (d.title && h1Of(s.body) !== d.title) fail(s.path, `H1 "${h1Of(s.body)}" differs from title "${d.title}"`);
   const headings = [...s.body.matchAll(/^## (.+)$/gm)].map((m) => m[1]);
@@ -204,7 +241,8 @@ outputs.set('skills/design-atlas-ui/scripts/validate-design-md.mjs', read('scrip
 const SKILL_REFS = 'skills/design-atlas/references';
 const CATALOG_FIELDS = [
   'slug', 'path', 'title', 'description', 'url', 'type', 'topics', 'verdict', 'agent',
-  'pricing', 'licence_class', 'licence', 'reviewed', 'status', 'note', 'related',
+  'pricing', 'licence_class', 'licences', 'licence', 'reviewed', 'stale_after', 'status', 'note',
+  'verdict_after_use', 'related',
 ];
 const catalogRow = (s) => JSON.stringify(Object.fromEntries(CATALOG_FIELDS.filter((k) => s[k] !== undefined).map((k) => [k, s[k]])));
 const catalogAbout = {

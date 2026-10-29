@@ -7,6 +7,11 @@ const RAW_BASE = 'https://raw.githubusercontent.com/sthbryan/design-atlas/main';
 const FETCH_TIMEOUT_MS = 8000;
 const DEFAULT_LIMIT = 12;
 const MAX_LIMIT = 50;
+const REVIEW_DAYS = 180;
+const ASSET_LICENCES = ['code', 'assets', 'fonts'];
+const AFTER_USE = ['held-up', 'mixed', 'let-down'];
+const HEALTH_STATUS = ['live', 'moved', 'blocked', 'dead'];
+const HEALTH_FILE = 'url-health.json';
 const SKILL_DIR = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const BUNDLED_CATALOG = join(SKILL_DIR, 'references', 'catalog.json');
 const SEARCH_INDEX = join('skills', 'design-atlas', 'references', 'search-index.json');
@@ -14,20 +19,23 @@ const BUNDLED_SEARCH = join(SKILL_DIR, 'references', 'search-index.json');
 const SYNONYMS = join(SKILL_DIR, 'references', 'synonyms.json');
 const VERDICT_RANK = { 'very-useful': 3, useful: 2, niche: 1 };
 const STATUS_RANK = { active: 2, stale: 1, broken: 0 };
+const FRESHNESS_RANK = { fresh: 1, due: 0 };
+const AFTER_USE_RANK = { 'held-up': 2, 'let-down': 0 };
 const LICENCE_GROUPS = {
   ship: ['public-domain', 'open-source-permissive', 'cc-attribution'],
   conditional: ['open-source-copyleft', 'cc-noncommercial', 'source-available', 'proprietary-free', 'proprietary-paid', 'mixed'],
   'look-only': ['not-stated'],
 };
 const LIST_FILTERS = { topic: 'topics', type: 'type', agent: 'agent', licence: 'licence_class', pricing: 'pricing', verdict: 'verdict', status: 'status', slug: 'slug' };
-const BRIEF_FIELDS = ['slug', 'title', 'description', 'type', 'topics', 'verdict', 'agent', 'pricing', 'licence_class', 'reviewed', 'status'];
-const FULL_FIELDS = ['url', 'licence', 'note', 'related'];
+const EXTRA_FILTERS = ['freshness', 'asset', 'link', 'after-use'];
+const BRIEF_FIELDS = ['slug', 'title', 'description', 'type', 'topics', 'verdict', 'agent', 'pricing', 'licence_class', 'reviewed', 'status', 'verdict_after_use'];
+const FULL_FIELDS = ['url', 'licence', 'licences', 'stale_after', 'note', 'related'];
 
 const HELP = `Usage: node scripts/query.mjs [filters] [options]
 
 Filters the Design Atlas index and prints JSON. Values in one filter are ORed;
-different filters are ANDed. Results sort by status, verdict, then title, or by
-relevance when --search is given.
+different filters are ANDed. Results sort by status, freshness, practical
+record, verdict, then title, or by relevance when --search is given.
 
 Search:
   --search "words"     rank sites by relevance to a free-text need, e.g.
@@ -46,6 +54,15 @@ Filters (comma-separated values):
   --agent a,b          agent channels: mcp,llms-txt,cli,registry,api,prompts,skill
                        "any" = at least one channel, "none" = no channel
   --licence a,b        licence classes, or a group: ship, conditional, look-only
+                       With --asset, the class of that asset instead of the site
+  --asset a,b          with --licence, the class of that asset: code, assets or
+                       fonts. Uses the page's licences mapping, or its site class
+                       when the page declares none
+  --after-use a,b      what the page reports from real use: held-up, mixed, let-down
+  --freshness a,b      fresh, or due (past stale_after, or past reviewed + ${REVIEW_DAYS} days)
+  --link a,b           URL health from ${HEALTH_FILE}: live, moved, blocked (the
+                       server refuses automated requests), dead. A local clone
+                       or the network only; run scripts/check-urls.mjs to write it
   --pricing a,b        free, freemium, paid, not-stated
   --verdict a,b        very-useful, useful, niche
   --min-verdict v      useful = useful or very-useful
@@ -54,7 +71,8 @@ Filters (comma-separated values):
   --text "words"       every word must appear in slug, title, url, description or licence
 
 Options:
-  --full               add url, licence text, note and related slugs
+  --full               add url, licence text, per-asset licences, stale_after,
+                       note and related slugs
   --limit N            rows to print (default ${DEFAULT_LIMIT}, max ${MAX_LIMIT})
   --topics             list hubs with their site counts instead of sites
   --atlas DIR          read this local clone
@@ -76,7 +94,7 @@ function die(code, message) {
 function parseArgs(argv) {
   const opts = { filters: {}, limit: DEFAULT_LIMIT };
   const flags = new Set(['full', 'topics', 'offline', 'help']);
-  const valued = new Set([...Object.keys(LIST_FILTERS), 'min-verdict', 'text', 'search', 'limit', 'atlas', 'location']);
+  const valued = new Set([...Object.keys(LIST_FILTERS), ...EXTRA_FILTERS, 'min-verdict', 'text', 'search', 'limit', 'atlas', 'location']);
   for (let i = 0; i < argv.length; i += 1) {
     const arg = argv[i];
     if (!arg.startsWith('--')) die(2, `unexpected argument "${arg}"; options start with --. Run --help.`);
@@ -88,7 +106,7 @@ function parseArgs(argv) {
     if (!valued.has(key)) die(2, `unknown option --${key}. Run --help.`);
     const value = inline ?? argv[++i];
     if (value === undefined || value.startsWith('--')) die(2, `--${key} needs a value. Run --help.`);
-    if (key in LIST_FILTERS) {
+    if (key in LIST_FILTERS || EXTRA_FILTERS.includes(key)) {
       const values = value.split(',').map((v) => v.trim());
       if (values.some((v) => !v)) die(2, `--${key} values must not be empty.`);
       opts.filters[key] = values;
@@ -104,6 +122,7 @@ function parseArgs(argv) {
   opts.limit = Math.min(opts.limit, MAX_LIMIT);
   if (opts.location && !['local', 'remote', 'bundled'].includes(opts.location)) die(2, `--location must be local, remote or bundled.`);
   if (opts.minVerdict && !(opts.minVerdict in VERDICT_RANK)) die(2, `--min-verdict must be one of: ${Object.keys(VERDICT_RANK).join(', ')}.`);
+  if (opts.filters.asset && !opts.filters.licence) die(2, '--asset narrows --licence; add a class or a group such as ship.');
   return opts;
 }
 
@@ -182,6 +201,10 @@ function checkVocabulary(sites, topics, filters) {
     verdict: new Set(Object.keys(VERDICT_RANK)),
     status: new Set(Object.keys(STATUS_RANK)),
     slug: new Set(sites.map((s) => s.slug)),
+    freshness: new Set(Object.keys(FRESHNESS_RANK)),
+    asset: new Set(ASSET_LICENCES),
+    link: new Set(HEALTH_STATUS),
+    'after-use': new Set(AFTER_USE),
   };
   for (const [key, values] of Object.entries(filters)) {
     const unknown = values.filter((v) => !known[key].has(v));
@@ -191,8 +214,27 @@ function checkVocabulary(sites, topics, filters) {
   }
 }
 
-function matches(site, opts) {
+function matches(site, opts, health) {
   for (const [key, raw] of Object.entries(opts.filters)) {
+    if (key === 'licence' && opts.filters.asset) continue;
+    if (key === 'asset') {
+      const declared = site.licences ?? {};
+      const wanted = expandValues('licence', opts.filters.licence ?? []);
+      if (!raw.some((asset) => wanted.includes(declared[asset] ?? site.licence_class))) return false;
+      continue;
+    }
+    if (key === 'freshness') {
+      if (!raw.includes(freshnessOf(site))) return false;
+      continue;
+    }
+    if (key === 'after-use') {
+      if (!raw.includes(site.verdict_after_use?.verdict)) return false;
+      continue;
+    }
+    if (key === 'link') {
+      if (!raw.includes(health.get(site.slug))) return false;
+      continue;
+    }
     const values = expandValues(key, raw);
     const field = site[LIST_FILTERS[key]];
     if (key === 'agent') {
@@ -221,7 +263,34 @@ function shape(site, full) {
   const fields = full ? [...BRIEF_FIELDS, ...FULL_FIELDS] : BRIEF_FIELDS;
   const row = Object.fromEntries(fields.filter((k) => site[k] !== undefined).map((k) => [k, site[k]]));
   row.path = site.path;
+  row.freshness = freshnessOf(site);
   return row;
+}
+
+function freshnessOf(site, today = new Date().toISOString().slice(0, 10)) {
+  const due = site.stale_after ?? (site.reviewed
+    ? new Date(new Date(`${site.reviewed}T00:00:00Z`).getTime() + REVIEW_DAYS * 864e5).toISOString().slice(0, 10)
+    : null);
+  return due && due < today ? 'due' : 'fresh';
+}
+
+async function loadHealth(index) {
+  if (index.location === 'local') {
+    const path = join(index.root, HEALTH_FILE);
+    if (!existsSync(path)) die(3, `no ${HEALTH_FILE} in ${index.root}; run scripts/check-urls.mjs in the atlas, or drop --link.`);
+    const data = readJson(path);
+    if (!data) die(3, `${path} is not valid JSON; rerun scripts/check-urls.mjs.`);
+    return new Map((data.sites ?? []).map((s) => [s.slug, s.status]));
+  } else if (index.location === 'remote') {
+    try {
+      const res = await fetch(`${RAW_BASE}/${HEALTH_FILE}`, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return new Map(((await res.json()).sites ?? []).map((s) => [s.slug, s.status]));
+    } catch (error) {
+      die(3, `could not read ${HEALTH_FILE} from ${RAW_BASE}: ${error.message}. Drop --link or use a local clone.`);
+    }
+  }
+  die(3, `--link needs ${HEALTH_FILE}, which the bundled snapshot does not hold; use a local clone or allow the network.`);
 }
 
 const opts = parseArgs(process.argv.slice(2));
@@ -249,10 +318,13 @@ if (opts.topics) {
 }
 
 checkVocabulary(sites, topics, opts.filters);
+const health = opts.filters.link ? await loadHealth(index) : null;
 const byDefault = (a, b) => (STATUS_RANK[b.status] ?? 0) - (STATUS_RANK[a.status] ?? 0)
+  || FRESHNESS_RANK[freshnessOf(b)] - FRESHNESS_RANK[freshnessOf(a)]
+  || (AFTER_USE_RANK[b.verdict_after_use?.verdict] ?? 1) - (AFTER_USE_RANK[a.verdict_after_use?.verdict] ?? 1)
   || (VERDICT_RANK[b.verdict] ?? 0) - (VERDICT_RANK[a.verdict] ?? 0)
   || a.title.localeCompare(b.title, 'en', { sensitivity: 'base' });
-const filtered = sites.filter((s) => matches(s, opts));
+const filtered = sites.filter((s) => matches(s, opts, health));
 let hits = filtered.sort(byDefault);
 let rows = (list) => list.map((s) => shape(s, opts.full));
 if (opts.search !== undefined) {

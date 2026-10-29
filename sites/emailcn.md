@@ -11,7 +11,8 @@ pricing: free
 licence: free; MIT (repo `shadcn-labs/emailcn`); React Email, MJML React and JSX Email are also MIT
 licence_class: open-source-permissive
 reviewed: 2026-09-25
-status: active
+status: removed
+note: On 2026-10-29 both hosts answered 503 DEPLOYMENT_PAUSED, and GitHub blocks the repository after a DMCA notice dated 2026-10-14.
 related: [pdfcn, ogimagecn, termcn, shadcn-ui, cta-gallery]
 ---
 [← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md)

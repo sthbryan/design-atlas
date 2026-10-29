@@ -16,7 +16,6 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 ## All sources
 
 <!-- atlas:sources:start -->
-- [Butter Nav](../sites/butter-nav.md) — Mega-menu that is one card morphing between menus, with a full rebuild prompt; no licence published.
 - [Droppy Code](../sites/droppy-code.md) — A native Mac coding-agent app presented through detailed interface walkthroughs and a Liquid Glass visual system.
 - [Hover States](../sites/hover-states.md) — An archive of about 1,775 experimental sites since 2012, each with a short note on its interaction and credits.
 - [Kidus Yohannes](../sites/kidus-yohannes.md) — A dark portfolio that pairs a star-speckled introduction with a horizontal, section-by-section career journey.

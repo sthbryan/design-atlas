@@ -38,9 +38,12 @@ To feature the site in a hub's "Start here" list, edit that hub by hand. Keep th
 | `pricing` | yes | `free`, `freemium`, `paid` or `not-stated`. |
 | `licence` | yes | Free text: what the site states about pricing and licence, as checked on the review date. |
 | `licence_class` | yes | One of the classes below. |
+| `licences` | no | Per-asset classes when the class differs by what you take: a mapping of `code`, `assets` or `fonts` to a class from the list below. |
 | `reviewed` | yes | The date you last checked the page against the live site, as `YYYY-MM-DD`. |
+| `stale_after` | no | The date the page's facts need re-checking, as `YYYY-MM-DD`, when that is not 180 days after `reviewed`. |
 | `status` | yes | `active`, `stale`, `broken` or `removed` (see the freshness policy). |
 | `note` | no | A short caveat about the entry, such as a redirect or why it is broken or removed. |
+| `verdict_after_use` | no | What happened when the site was used for real: a mapping of `verdict` (`held-up`, `mixed` or `let-down`), `date` (`YYYY-MM-DD`) and `note` (what was used and what held or failed). |
 | `related` | yes | Slugs of one or more other site pages. |
 
 Licence classes:
@@ -56,6 +59,8 @@ Licence classes:
 - `mixed`: parts of the offer fall into different classes, for example MIT code with non-commercial assets or an open core with a paid tier.
 - `not-stated`: no licence is stated. Treat the content as look-only. A project that calls itself open source without naming a licence is also `not-stated` until the licence is checked.
 
+When the class differs by what a reader takes, say so in `licences`: a mapping of `code`, `assets` or `fonts` to a class. Use it where the `licence` text already states the split, such as MIT components with non-commercial illustrations or OFL fonts beside paid assets. `licence_class` stays a one-class summary, and anyone shipping must respect the strictest class they touch.
+
 ## Update a site
 
 Re-check the live site, its `llms.txt`, any MCP, CLI or API docs, its pricing page, its terms and its repository licence. Correct the frontmatter and the prose, set `reviewed` to today, and run `bun run build` and `bun run check`. Don't bump `reviewed` without re-checking.
@@ -66,10 +71,18 @@ Don't delete the file. Set `status` to `removed` and give the reason in `note`. 
 
 ## Freshness policy
 
-- Re-review every page at least every 180 days. The build prints a "review due" warning for overdue pages; it does not fail on them.
+- Re-review every page at least every 180 days, or by its `stale_after` date when the page sets one earlier or later. The build prints a "review due" warning for overdue pages; it does not fail on them.
 - A page that is 90 days past due, or whose facts are known to be out of date, gets `status: stale`. It stays listed and is marked "(stale)".
 - A site that stops loading on two separate checks gets `status: broken` and a `note`. It stays listed and is marked "(broken)".
 - A site that has been broken for 60 days, or no longer earns its place, gets `status: removed`.
+
+## Check the links
+
+`bun run check:urls` fetches every listed page's `url` and writes `url-health.json`: per page `live`, `moved` (the page now serves another host), `blocked` (401, 403, 429, a timeout or a reset, so the check proves nothing either way) or `dead` (an error, an unresolvable host, or a 400 or above). A redirect within the same host stays `live`, because sites move their own pages freely. A weekly workflow runs it and commits the report. It never edits a page; read it before a review instead of trusting an old `url`. A moved page gets its `url` corrected and a fresh `reviewed`, and a page that has stopped answering on two separate checks gets `status: broken` and a `note`. In a clone, `node skills/design-atlas/scripts/query.mjs --link moved,dead` filters on the report.
+
+## Record a use
+
+A verdict is a judgement made from reading a site. When you then build something with it, record what happened in `verdict_after_use`: `held-up`, `mixed` or `let-down`, the date, and a note on what you used and what failed or worked. Keep it factual and leave `verdict` alone, because a let-down after use is a reason to re-review the page, not a licence to rewrite the review from memory.
 
 ## Writing rules
 

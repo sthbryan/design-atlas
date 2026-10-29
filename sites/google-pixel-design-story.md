@@ -1,7 +1,7 @@
 ---
 title: Google Pixel design story
-description: A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 10 range.
-url: https://store.google.com/us/magazine/google-pixel-design-story?hl=en-US
+description: A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 11 range.
+url: https://store.google.com/us/magazine/pixel-11-design?hl=en-US
 type: website
 formats: product design story · hardware photography · editorial page
 topics: [inspiration, landing-pages]
@@ -10,9 +10,9 @@ agent: []
 pricing: free
 licence: Free to view. Google Terms of Service apply; Google and its licensors retain rights to editorial images, product imagery and brand marks. No general reuse licence is stated.
 licence_class: proprietary-free
-reviewed: 2026-09-27
+reviewed: 2026-10-29
 status: active
-note: This URL currently serves a Pixel 10 series story; its product lineup and page details may change with future launches.
+note: Google renames this story with each launch; the URL served the Pixel 10 story at the previous review and the Pixel 11 story on 2026-10-29.
 related: [google-evolving-identity, google-arts-and-culture]
 ---
 [← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
@@ -21,7 +21,7 @@ related: [google-evolving-identity, google-arts-and-culture]
 
 ## What it is
 
-A Google Store editorial feature about Pixel hardware design. At review, the page presents the Pixel 10 range with product photography, a large centered headline and sections about form, finishes, the camera bar and foldable hardware.
+A Google Store editorial feature about Pixel hardware design. At review, the page presents the Pixel 11 range with product photography, a large centered headline and sections about form, finishes, the redesigned camera bar, the foldable Pro Fold and HiLight, the glow that signals a call or a Gemini chat on the back of the phone.
 
 ## When to open it
 
@@ -29,8 +29,9 @@ Open it to study a product story that gives hardware its own visual space and li
 
 ## Most useful
 
-- The page begins with a spacious white field, a very large centered headline and one broad product image with rounded corners.
-- Long editorial sections alternate concise headings and copy with photographs, carousels and product links.
+- The page begins with a spacious white field, a very large centered headline and one broad product image with rounded corners, followed by a short three-item takeaways list.
+- Long editorial sections alternate concise headings and copy with photographs, a video and product links.
+- The colour section gives each finish its own image and a paragraph on where the shade comes from, from Canyon to Matte Obsidian.
 - The neutral page frame lets the device colors and finishes carry most of the visual contrast.
 
 ## Using it with agents

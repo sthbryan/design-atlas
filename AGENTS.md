@@ -10,7 +10,7 @@ Before any UI work on the atlas website, read `site/DESIGN.md` and take every va
 
 ## Reading the atlas
 
-1. Start with `llms.txt` (one line per site with type, topics, verdict, agent channels, licence class and review date) or `sites.json` (the same metadata as JSON). Filter there before opening any page, for example `grep 'topics: [^;]*motion' llms.txt`, or `jq '.sites[] | select(.licence_class == "open-source-permissive") | .path' sites.json`. Filter out `agent: none` only when you need an MCP, API or other published integration; a browser can still open those sites.
+1. Start with `llms.txt` (one line per site with type, topics, verdict, agent channels, licence class and review date) or `sites.json` (the same metadata as JSON). Filter there before opening any page, for example `grep 'topics: [^;]*motion' llms.txt`, or `jq '.sites[] | select(.licence_class == "open-source-permissive") | .path' sites.json`. `query.mjs` also filters on `--freshness due` (pages past `stale_after`, which defaults to 180 days after `reviewed`), `--after-use let-down` (sources that failed in practice), `--licence ship --asset code` (per-asset licence classes) and `--link moved,dead` (URL health from `url-health.json`). Filter out `agent: none` only when you need an MCP, API or other published integration; a browser can still open those sites.
 2. Read the hubs for the topics you need. "Start here" is the curated shortlist; "Patterns worth reusing" and "Pitfalls" summarise across sources.
 3. Open only the site pages you shortlisted. `grep -n '^## ' sites/<slug>.md` shows the sections, so you can read just "When to open it", "Using it with agents", "Watch out for" and "Reusable ideas".
 4. For a visual-design task, follow a shortlisted gallery to a few individual live sites, inspect them in a browser and record the design moves you actually see. A gallery card or atlas prose is not visual proof of the current site. Keep working screenshots outside this repository.
@@ -28,6 +28,7 @@ The build owns these parts; your edits there are overwritten or fail the check:
 - In each hub, everything between the `atlas:sources` start and end markers.
 - In each site page, the breadcrumb line directly after the frontmatter and the body of the `## Related` section.
 - `llms.txt` and `sites.json`.
+- `url-health.json`, the report `scripts/check-urls.mjs` writes for `query.mjs --link`, which the weekly workflow refreshes.
 - `skills/design-atlas/references/catalog.json` and `skills/design-atlas/references/hub-map.md`, the snapshot the `design-atlas` skill falls back to offline, and `skills/design-atlas/references/search-index.json`, the index behind `query.mjs --search`.
 - `skills/design-atlas-ui/scripts/validate-design-md.mjs`, a copy of `scripts/design-md.mjs` that ships the DESIGN.md validator with the `design-atlas-ui` skill. Edit `scripts/design-md.mjs`, then run the build.
 

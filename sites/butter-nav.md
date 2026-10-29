@@ -11,7 +11,8 @@ pricing: free
 licence: free to install; licence not stated on the site or in the registry item
 licence_class: not-stated
 reviewed: 2026-09-25
-status: active
+status: removed
+note: On 2026-10-29 every path answered 402 DEPLOYMENT_DISABLED, including the registry item and the prompt, so the component can no longer be read or installed.
 related: [navbar-gallery, rareui, transitions-dev, motion-primitives]
 ---
 [← Atlas](../site/home.md) · Topics: [navigation](../topics/navigation.md), [motion](../topics/motion.md), [components](../topics/components.md)

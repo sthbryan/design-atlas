@@ -12,7 +12,7 @@ licence: free; MIT (repo `shadcn-labs/termcn`); Ink and OpenTUI are also MIT
 licence_class: open-source-permissive
 reviewed: 2026-09-25
 status: active
-related: [shadcn-ui, mapcn, pdfcn, emailcn, 21st-dev]
+related: [shadcn-ui, mapcn, pdfcn, 21st-dev]
 ---
 [← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md), [ai-interfaces](../topics/ai-interfaces.md)
 
@@ -55,4 +55,4 @@ Items install with the shadcn CLI once `@termcn` is registered in `components.js
 
 ## Related
 
-[shadcn/ui](shadcn-ui.md), [mapcn](mapcn.md), [pdfcn](pdfcn.md), [emailcn](emailcn.md), [21st.dev](21st-dev.md)
+[shadcn/ui](shadcn-ui.md), [mapcn](mapcn.md), [pdfcn](pdfcn.md), [21st.dev](21st-dev.md)
