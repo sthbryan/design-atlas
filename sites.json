@@ -1827,6 +1827,34 @@
       ]
     },
     {
+      "slug": "atlassian-design",
+      "path": "sites/atlassian-design.md",
+      "title": "Atlassian Design",
+      "description": "Atlassian's design system: tokens, primitives, component guidelines and accessibility rules, with llms.txt files for agents.",
+      "url": "https://atlassian.design",
+      "type": "design-system",
+      "formats": "design tokens · React primitives and components · styling standards · accessibility guidance · llms.txt set",
+      "topics": [
+        "components",
+        "ux-patterns",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Apache-2.0 for the `@atlaskit` packages, per npm metadata at review. The documentation is free to read; check each package before shipping.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "primer",
+        "material-design-3",
+        "carbon-design-system"
+      ]
+    },
+    {
       "slug": "atmos",
       "path": "sites/atmos.md",
       "title": "Atmos",
@@ -4044,6 +4072,31 @@
         "designeer",
         "seesaw",
         "navbar-gallery"
+      ]
+    },
+    {
+      "slug": "d3",
+      "path": "sites/d3.md",
+      "title": "D3",
+      "description": "The library for bespoke data visualisation, with a gallery of notebook examples that doubles as a vocabulary of chart forms.",
+      "url": "https://d3js.org",
+      "type": "js-library",
+      "formats": "JavaScript library · Observable notebook gallery · modular packages · reference documentation",
+      "topics": [
+        "data-viz",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "ISC, per the d3/d3 repository, which had 113,822 stars at review and showed version 7.9.0 on the site. Examples are hosted as Observable notebooks and carry their authors' credits.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "evil-charts",
+        "tremor",
+        "pele"
       ]
     },
     {
@@ -11893,6 +11946,31 @@
       ]
     },
     {
+      "slug": "nivo",
+      "path": "sites/nivo.md",
+      "title": "nivo",
+      "description": "React chart components built on D3, with a gallery that shows about thirty chart types, each documented and themable.",
+      "url": "https://nivo.rocks",
+      "type": "js-library",
+      "formats": "React chart components · per-chart galleries · SVG and canvas variants · theme object",
+      "topics": [
+        "data-viz",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "MIT, per the plouc/nivo repository, which had 14,127 stars at review; the `@nivo/core` package was at 0.99.0 then. Last push at review was July 2026.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "evil-charts",
+        "tremor",
+        "d3"
+      ]
+    },
+    {
       "slug": "no-ai-slop",
       "path": "sites/no-ai-slop.md",
       "title": "No AI Slop",
@@ -12412,6 +12490,31 @@
         "fontshare",
         "v-fonts",
         "fonts-in-use"
+      ]
+    },
+    {
+      "slug": "open-props",
+      "path": "sites/open-props.md",
+      "title": "Open Props",
+      "description": "Sub-atomic CSS custom properties for colour, type, spacing, shadows and easing, importable from a CDN as plain CSS.",
+      "url": "https://open-props.style",
+      "type": "style-library",
+      "formats": "CSS custom properties · CDN and npm · design tokens JSON · Figma and Style Dictionary sync · normalise stylesheet",
+      "topics": [
+        "color",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "MIT, per the argyleink/open-props repository, which had 5,558 stars at review; the site showed version 1.7.23 then.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "utopia",
+        "oklch",
+        "radix"
       ]
     },
     {
@@ -13429,6 +13532,34 @@
         "daisyui",
         "headless-ui",
         "hyperui"
+      ]
+    },
+    {
+      "slug": "primer",
+      "path": "sites/primer.md",
+      "title": "Primer",
+      "description": "GitHub's design system, with tokens, primitives, component docs, UI patterns and an MCP server for agents.",
+      "url": "https://primer.style",
+      "type": "design-system",
+      "formats": "design tokens · React primitives and components · UI patterns · Octicons · Figma libraries · MCP server",
+      "topics": [
+        "components",
+        "ux-patterns",
+        "documentation"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "MIT for the code packages, including Primer React, which had 3,927 stars at review. The brand guidelines and logo assets are covered by their own terms, so the class is mixed.",
+      "licence_class": "mixed",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "material-design-3",
+        "carbon-design-system",
+        "atlassian-design"
       ]
     },
     {
