@@ -40,6 +40,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Arc](../sites/arc-ui.md) — React components and interactive blocks with motion and live examples.
 - [Astryx](../sites/astryx.md) — Meta's React design system with rich form controls, strong accessibility hooks and a plugin-based table.
 - [Atelier UI](../sites/atelier-ui.md) — An interactive library of shader and motion components with a live preview, adjustable controls and copyable implementation prompts.
+- [audiocn](../sites/audiocn.md) — Twenty-three audio components and sixteen Web Audio hooks for React, copied into your project with the shadcn CLI.
 - [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
 - [Awesome Design Systems](../sites/awesome-design-systems.md) — A tagged index of public design systems that helps you compare their components, voice guidance, designer kits and source links.
 - [Base CN](../sites/base-cn.md) — Community port of the shadcn/ui components to Base UI, installed through a namespaced registry.
@@ -95,6 +96,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Frameblox](../sites/frameblox.md) — Paid Framer UI kit with 1,400+ sections, 130+ pages and a Framer plugin; one-time licence, no refunds, Framer only.
 - [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
 - [GAIA UI](../sites/gaia-ui.md) — MIT, shadcn-compatible React components for AI assistants, with documented registry installation and a focused agent-app visual language.
+- [Gauge UI](../sites/gauge-ui.md) — Composable SVG gauge primitives for React, where arcs, zones, ticks and needles assemble from one shared context.
 - [glass-lens-react](../sites/glass-lens-react.md) — A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
@@ -136,6 +138,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [mapcn](../sites/mapcn.md) — Map components distributed as a shadcn/ui registry, with a "copy prompt for your agent" button.
 - [Material Design 3](../sites/material-design-3.md) — Google's component and color system with role-based schemes, adaptive UI examples and expressive component patterns.
 - [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
+- [mdxcn](../sites/mdxcn.md) — Callouts, steps, terminals, timelines and charts for MDX, drawn with text and installed through the shadcn CLI.
 - [Meraki UI](../sites/meraki-ui.md) — Free MIT Tailwind snippets (about 228) with left-to-right and right-to-left versions and dark mode; Alpine.js for interactive parts.
 - [microcharts](../sites/microcharts.md) — MIT React charts sized for sentences, tables and KPI cards, with a catalog and seven live example apps.
 - [MicroKit](../sites/microkit.md) — 49 React microinteractions with polished transitions, ready to copy and adapt.
@@ -201,6 +204,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds installed via shadcn CLI; 110 Blizzard clips are non-commercial only.
 - [Spectrum UI](../sites/spectrum-ui.md) — Free Apache-2.0 animated shadcn components and blocks, strong on AI-assistant, chart and empty-state blocks, with an MCP server.
 - [Spell UI](../sites/spell-ui.md) — Small, refined MIT set strong on text reveal animations, playful buttons and light-ray backgrounds.
+- [squig](../sites/squig.md) — A wireframing canvas where real UI components render as hand-drawn sketches, with an agent bridge into the open tab.
 - [SRCL](../sites/srcl.md) — Terminal-aesthetic React kit plus matching CLI framework, with llms.txt, AGENTS.md catalogue and porting skills.
 - [startercn](../sites/startercn.md) — MIT Next.js template for publishing your own shadcn registry, with Fumadocs docs, llms.txt and skill discovery.
 - [Swift Pieces](../sites/swift-pieces.md) — Animated SwiftUI components for iOS with live interaction previews, single-file source and agent installation paths.

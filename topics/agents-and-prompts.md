@@ -96,6 +96,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Motion](../sites/motion-dev.md) — Former Framer Motion for React, JS and Vue: MIT core, free docs MCP and skill, paid Motion+ extras.
 - [MotionSites AI](../sites/motionsites.md) — Prompt library of illustrated website concepts, with category filters, copyable prompts and an authenticated MCP.
 - [MotionWiki](../sites/motionwiki.md) — Browse creative systems and free skill previews, or study its own editorial catalog and live project previews for web and brand inspiration.
+- [NameThatUI](../sites/name-that-ui.md) — A visual dictionary of UI elements that turns a bad description into the right name, the API symbol and an agent prompt.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
 - [OpenDesign](../sites/open-design.md) — Apache-2.0 local design engine for coding agents, with 151 forkable DESIGN.md packages and MCP.
@@ -129,6 +130,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [SkySend](../sites/skysend.md) — Minimal encrypted file-sharing landing page that explains its security model through a centered hero, terminal install example and concise proof points.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.
 - [Spline](../sites/spline.md) — Browser and desktop 3D tool with an event system, code and glTF export, and an MCP server in the desktop app.
+- [squig](../sites/squig.md) — A wireframing canvas where real UI components render as hand-drawn sketches, with an agent bridge into the open tab.
 - [SRCL](../sites/srcl.md) — Terminal-aesthetic React kit plus matching CLI framework, with llms.txt, AGENTS.md catalogue and porting skills.
 - [startercn](../sites/startercn.md) — MIT Next.js template for publishing your own shadcn registry, with Fumadocs docs, llms.txt and skill discovery.
 - [Tabbied](../sites/tabbied.md) — 338 seeded geometric patterns as an MIT npm/React package, with a CLI and a hosted MCP.

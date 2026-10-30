@@ -78,6 +78,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Insposite](../sites/insposite.md) — Hand-picked list of 70 inspiration sites, designer portfolios and tools for design engineers, with its data file public on GitHub.
 - [Ionicons](../sites/ionicons.md) — Ionic's MIT icon set: about 1,357 SVGs in filled, outline and sharp variants, served by a lazy-loading ion-icon web component.
 - [isthereanytool](../sites/isthereanytool.md) — About 1,700 design, craft and AI tools in 19 categories, each with pricing, a why-notable note and a confidence rating; full catalogue in llms-full.txt.
+- [Jitter](../sites/jitter.md) — Browser motion design editor with animation presets, Lottie and video export, and AI features for variations and bulk edits.
 - [Kitbitz](../sites/kitbitz.md) — 2,000+ hand-drawn illustrations with an artisanal, non-digital feel, free with no login required.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Light Rails](../sites/light-rails.md) — Interactive editor for shaping animated light patterns with geometry, colour and timing controls, then exporting the result.
@@ -98,6 +99,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Nucleo](../sites/nucleo.md) — A polished SVG icon system with sharply differentiated families, a desktop editor, and an agent workflow for licensed icons.
 - [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
+- [Open Foundry](../sites/open-foundry.md) — A long-running curated catalogue of open source typefaces, with a specimen per face and the licence stated on the font page.
 - [Opensource UI](../sites/opensource-ui.md) — MIT React and Tailwind catalogue of about 190 copy-paste pieces, including device mockups and widgets, with llms.txt and an agent skill.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.

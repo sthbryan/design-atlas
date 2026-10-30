@@ -81,6 +81,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Easing Wizard](../sites/easing-wizard.md) — Visual CSS easing editor (Bézier, spring, bounce) with a free REST API, MCP server and Claude Code plugin.
 - [Eldora UI](../sites/eldora-ui.md) — MIT animated landing-page components, text effects, device mockups and blocks, installed via the @eldoraui shadcn namespace, with llms.txt.
 - [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
+- [Epic Easing](../sites/epic-easing.md) — Easing curve generator with bezier, spring and bounce kinds, a property preview, and CSS, SCSS, Swift and Obj-C export.
 - [Eva Icons (stale)](../sites/eva-icons.md) — Akveo's MIT pack of 490 outline and fill icons with a data-attribute replace script and four hover animations; unmaintained since 2020.
 - [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
@@ -110,6 +111,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
 - [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
 - [Internet Artifacts](../sites/internet-artifacts-neal-fun.md) — Neal.fun's interactive timeline of early internet objects, built as a playful illustrated archive.
+- [Jitter](../sites/jitter.md) — Browser motion design editor with animation presets, Lottie and video export, and AI features for variations and bulk edits.
 - [Kidus Yohannes](../sites/kidus-yohannes.md) — A dark portfolio that pairs a star-speckled introduction with a horizontal, section-by-section career journey.
 - [Kinetics](../sites/kinetics.md) — 153 spring-physics interaction effects in CSS, React and prompt form, with a live parameter editor.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.

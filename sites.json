@@ -572,6 +572,31 @@
       ]
     },
     {
+      "slug": "abtest-design",
+      "path": "sites/abtest-design.md",
+      "title": "abtest.design",
+      "description": "Curated index of A/B tests from real apps, each card naming the change, the company and the measured lift.",
+      "url": "https://abtest.design",
+      "type": "gallery",
+      "formats": "curated test results · category filters · per-test write-ups with a results table and source",
+      "topics": [
+        "ux-patterns",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Not stated at review. Treat the write-ups and any screenshots or logos as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "good-ui",
+        "page-flows",
+        "mobbin"
+      ]
+    },
+    {
       "slug": "accesslint-skills",
       "path": "sites/accesslint-skills.md",
       "title": "AccessLint Skills",
@@ -1851,6 +1876,34 @@
         "100000-stars",
         "compute-toys",
         "8bit"
+      ]
+    },
+    {
+      "slug": "audiocn",
+      "path": "sites/audiocn.md",
+      "title": "audiocn",
+      "description": "Twenty-three audio components and sixteen Web Audio hooks for React, copied into your project with the shadcn CLI.",
+      "url": "https://audiocn.dev",
+      "type": "component-registry",
+      "formats": "23 components · 6 blocks · 16 hooks · shadcn registry · Markdown twins of every page",
+      "topics": [
+        "sound",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "MIT for the code, per the repository licence file, which spells out that one Warcraft III recording used only in the homepage demo is not covered. The audiocn/ui repository had 295 stars at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "cuelume",
+        "shadcn-ui",
+        "sensory-ui"
       ]
     },
     {
@@ -5784,6 +5837,30 @@
       ]
     },
     {
+      "slug": "epic-easing",
+      "path": "sites/epic-easing.md",
+      "title": "Epic Easing",
+      "description": "Easing curve generator with bezier, spring and bounce kinds, a property preview, and CSS, SCSS, Swift and Obj-C export.",
+      "url": "https://epiceasing.com",
+      "type": "tool",
+      "formats": "easing curve generator · presets · live property preview · CSS, SCSS, Swift and Objective-C export",
+      "topics": [
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No fee and no account at review; no licence or reuse terms are stated for the site. The export is a timing-function value you could write yourself.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "animista",
+        "gsap",
+        "motion-primitives"
+      ]
+    },
+    {
       "slug": "eva-icons",
       "path": "sites/eva-icons.md",
       "title": "Eva Icons",
@@ -6762,6 +6839,33 @@
         "siteinspire",
         "a1-gallery",
         "one-page-love"
+      ]
+    },
+    {
+      "slug": "gauge-ui",
+      "path": "sites/gauge-ui.md",
+      "title": "Gauge UI",
+      "description": "Composable SVG gauge primitives for React, where arcs, zones, ticks and needles assemble from one shared context.",
+      "url": "https://gauge-ui.dev",
+      "type": "component-registry",
+      "formats": "gauge primitives · shadcn registry · browser studio for composing a dial",
+      "topics": [
+        "data-viz",
+        "components"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated in the thordursk/gauge-ui repository, which had 168 stars at review. The components arrive as a file you own, with no runtime dependency beyond React and the shadcn `cn` helper.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "evil-charts",
+        "tremor",
+        "beui"
       ]
     },
     {
@@ -8837,6 +8941,31 @@
       ]
     },
     {
+      "slug": "jitter",
+      "path": "sites/jitter.md",
+      "title": "Jitter",
+      "description": "Browser motion design editor with animation presets, Lottie and video export, and AI features for variations and bulk edits.",
+      "url": "https://jitter.video",
+      "type": "tool",
+      "formats": "motion editor · 400+ templates at review · Lottie, GIF and video export · Figma import · AI variations",
+      "topics": [
+        "motion",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Proprietary. The free plan covers unlimited drafts, three workspace files and export at 720p and 30fps with a watermark; paid plans are billed per editor per month, annually. The site notes that featured work belongs to its creators and may not be reproduced.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "rive",
+        "gsap",
+        "motion-primitives"
+      ]
+    },
+    {
       "slug": "josh-w-comeau",
       "path": "sites/josh-w-comeau.md",
       "title": "Josh W. Comeau",
@@ -10648,6 +10777,35 @@
       ]
     },
     {
+      "slug": "mdxcn",
+      "path": "sites/mdxcn.md",
+      "title": "mdxcn",
+      "description": "Callouts, steps, terminals, timelines and charts for MDX, drawn with text and installed through the shadcn CLI.",
+      "url": "https://mdxcn.dev",
+      "type": "component-registry",
+      "formats": "component library · shadcn registry · MDX components · plain-text fences · agent skill",
+      "topics": [
+        "documentation",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry",
+        "llms-txt",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated in the shadcn-labs/mdxcn repository, which had 466 stars at review. The code is copied into your project with the shadcn CLI rather than installed as a package.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "agentcn",
+        "21st-dev"
+      ]
+    },
+    {
       "slug": "meraki-ui",
       "path": "sites/meraki-ui.md",
       "title": "Meraki UI",
@@ -11433,6 +11591,35 @@
       ]
     },
     {
+      "slug": "name-that-ui",
+      "path": "sites/name-that-ui.md",
+      "title": "NameThatUI",
+      "description": "A visual dictionary of UI elements that turns a bad description into the right name, the API symbol and an agent prompt.",
+      "url": "https://namethatui.com",
+      "type": "directory",
+      "formats": "visual dictionary · pair and triple comparisons · search · llms.txt · search API",
+      "topics": [
+        "ux-patterns",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "api",
+        "prompts"
+      ],
+      "pricing": "free",
+      "licence": "Not stated at review. The entries are reference text; reuse terms for the copy are not published on the page.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "ui-patterns",
+        "laws-of-ux",
+        "good-ui"
+      ]
+    },
+    {
       "slug": "navbar-gallery",
       "path": "sites/navbar-gallery.md",
       "title": "Navbar Gallery",
@@ -12128,6 +12315,31 @@
       ]
     },
     {
+      "slug": "open-foundry",
+      "path": "sites/open-foundry.md",
+      "title": "Open Foundry",
+      "description": "A long-running curated catalogue of open source typefaces, with a specimen per face and the licence stated on the font page.",
+      "url": "https://open-foundry.com",
+      "type": "font-library",
+      "formats": "curated font catalogue · specimen pages · licence links · newsletter",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. Each font page states the family's own licence, such as the SIL Open Font License, so check per family rather than assuming the whole catalogue shares one.",
+      "licence_class": "mixed",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "fontshare",
+        "v-fonts",
+        "fonts-in-use"
+      ]
+    },
+    {
       "slug": "open-ui",
       "path": "sites/open-ui.md",
       "title": "Open UI",
@@ -12621,6 +12833,31 @@
         "termcn",
         "shadcn-ui",
         "mapcn"
+      ]
+    },
+    {
+      "slug": "pele",
+      "path": "sites/pele.md",
+      "title": "Pele",
+      "description": "Renders Mermaid diagrams to SVG synchronously, themed through CSS variables, with no runtime dependencies.",
+      "url": "https://pele.run",
+      "type": "js-library",
+      "formats": "Mermaid to SVG renderer · npm package · CDN build · playground and API docs",
+      "topics": [
+        "data-viz",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "MIT, stated in the obsidianmd/pele repository by kepano, which had 3,894 stars at review. The README states support for every diagram type in Mermaid 12.1.0 at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "evil-charts",
+        "tremor",
+        "astryx"
       ]
     },
     {
@@ -15747,6 +15984,36 @@
         "spotify-design-history",
         "vucko",
         "motion-zajno"
+      ]
+    },
+    {
+      "slug": "squig",
+      "path": "sites/squig.md",
+      "title": "squig",
+      "description": "A wireframing canvas where real UI components render as hand-drawn sketches, with an agent bridge into the open tab.",
+      "url": "https://squig.sh",
+      "type": "tool",
+      "formats": "infinite canvas · component and block library · browser agent API · local MCP companion · plugin",
+      "topics": [
+        "ux-patterns",
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "api",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated in the pablostanley/squig repository, which the site invites contributions to and which had 96 stars at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "page-flows",
+        "mobbin"
       ]
     },
     {

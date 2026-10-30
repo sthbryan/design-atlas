@@ -40,10 +40,12 @@ How sites document components, design systems and style — for human readers an
 - [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
 - [Josh W. Comeau](../sites/josh-w-comeau.md) — Interactive CSS guides where you can resize layouts, change rules and inspect the resulting interface.
 - [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
+- [mdxcn](../sites/mdxcn.md) — Callouts, steps, terminals, timelines and charts for MDX, drawn with text and installed through the shadcn CLI.
 - [Modern CSS Solutions](../sites/modern-css.md) — Practical CSS references with rendered examples for responsive layouts, components, typography and interaction states.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
 - [No AI Slop](../sites/no-ai-slop.md) — Removes AI writing patterns while keeping the writer's voice, and has a detect-only mode.
 - [Open UI](../sites/open-ui.md) — Cross-system component research that maps names, visual states and behavior differences for common web controls.
+- [Pele](../sites/pele.md) — Renders Mermaid diagrams to SVG synchronously, themed through CSS variables, with no runtime dependencies.
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.
 - [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
 - [Shadcn Labs](../sites/shadcn-labs.md) — Index of the independent Shadcn Labs registries: termcn, pdfcn, emailcn, ogimagecn, shadercn and more.

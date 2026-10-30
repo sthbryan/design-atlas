@@ -21,6 +21,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 
 <!-- atlas:sources:start -->
 - [A11Y.md](../sites/a11ymd.md) — Accessibility guidance for coding agents, presented as a concise visual guide with concrete interface examples and setup steps.
+- [abtest.design](../sites/abtest-design.md) — Curated index of A/B tests from real apps, each card naming the change, the company and the measured lift.
 - [AccessLint Skills](../sites/accesslint-skills.md) — Five WCAG-EM accessibility skills (scan, inspect, audit, fix, diff) that grade every finding by evidence.
 - [AI UX Playground](../sites/ai-ux-playground.md) — A practical AI-interface reference with named patterns, live interaction demos, product teardowns, and agent skills.
 - [Angular Native](../sites/angular-native.md) — Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.
@@ -67,6 +68,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motion Design Principles by Zajno](../sites/motion-zajno.md) — An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.
+- [NameThatUI](../sites/name-that-ui.md) — A visual dictionary of UI elements that turns a bad description into the right name, the API symbol and an agent prompt.
 - [Ossium](../sites/ossium.md) — Dark developer platform with a centered discovery hero, feature previews and a dashboard route for finding open-source contribution work.
 - [Oversight Supply](../sites/oversight-supply.md) — Paid library of Webflow and Framer templates plus standalone creative sections, with previews and prompt-based project handoff.
 - [Page Flows](../sites/page-flows.md) — Recorded web and app journeys with annotated steps, screen references and UI examples.
@@ -78,6 +80,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [ScreensDesign](../sites/screensdesign.md) — Study real app onboarding, paywalls and product flows through searchable screens, chaptered videos and app breakdowns.
 - [Snapzy](../sites/snapzy.md) — A macOS capture app whose landing page shows annotation, background presets and recording workflows in context.
 - [Sona UI](../sites/sona-ui.md) — Small MIT set of accessible animated React components with an agent manifest, catalog, skill and read-only API through shadcn.
+- [squig](../sites/squig.md) — A wireframing canvas where real UI components render as hand-drawn sketches, with an agent bridge into the open tab.
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
 - [Supaste](../sites/supaste.md) — A vivid product landing page that uses a simulated clipboard library to explain a native macOS utility.
 - [Superfuture Design Review](../sites/superfuture-design-review.md) — Ten-area design critique ranked by severity with exact fixes; it sends a hidden usage ping.
