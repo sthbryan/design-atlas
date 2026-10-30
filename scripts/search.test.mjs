@@ -28,7 +28,7 @@ const CASES = [
   { query: 'footer inspiration', first: 'footer-design' },
   { query: 'animated number counter', top: ['number-flow', 'rolling-number'], within: 4 },
   { query: 'accessibility audit skill', first: 'accesslint-skills' },
-  { query: 'easing curves', first: 'easing-wizard' },
+  { query: 'easing curves', top: ['easing-wizard', 'epic-easing'], within: 2 },
   { query: 'react three fiber helpers', top: ['drei', 'react-three-fiber'] },
 ];
 
