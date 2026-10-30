@@ -8272,6 +8272,31 @@
       ]
     },
     {
+      "slug": "iconography-encyclopedia",
+      "path": "sites/iconography-encyclopedia.md",
+      "title": "The Iconography Encyclopedia",
+      "description": "An alphabetical field guide to icon design terms, from alignment and anatomy to stroke weight and wayfinding.",
+      "url": "https://encyclopedia.iconography.co",
+      "type": "documentation",
+      "formats": "alphabetical glossary · long-form definitions · technical terms beside aesthetic ones",
+      "topics": [
+        "icons",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Not stated at review. Published by The Iconography Company as a studio reference; treat the text as reading, not as reusable copy.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "lucide",
+        "hugeicons",
+        "apple-human-interface-guidelines"
+      ]
+    },
+    {
       "slug": "iconoir",
       "path": "sites/iconoir.md",
       "title": "Iconoir",
@@ -10182,6 +10207,31 @@
       ]
     },
     {
+      "slug": "lottielab",
+      "path": "sites/lottielab.md",
+      "title": "Lottielab",
+      "description": "Lottie editor for product teams, from Figma or After Effects imports to one animation file that ships to iOS, Android and web.",
+      "url": "https://www.lottielab.com",
+      "type": "tool",
+      "formats": "Lottie editor · Figma and After Effects import · dotLottie, GIF, MP4 and WebM export · hosted Lottie CDN · templates",
+      "topics": [
+        "motion",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Proprietary with a free tier. The free plan covers unlimited files, Figma import and GIF and MP4 export with a watermark; Lottie export, HD video, a team library and hosting need the paid plans, billed per editor per month, annually. Prices are rendered in the page and were not readable at review.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "lottiefiles",
+        "jitter",
+        "rive"
+      ]
+    },
+    {
       "slug": "lucide-animated",
       "path": "sites/lucide-animated.md",
       "title": "Lucide Animated",
@@ -12083,6 +12133,31 @@
         "brrranding",
         "folios-gallery",
         "active-theory"
+      ]
+    },
+    {
+      "slug": "ogimage-gallery",
+      "path": "sites/ogimage-gallery.md",
+      "title": "OGimage.gallery",
+      "description": "A hand-picked gallery of Open Graph images, filtered by category and browsable by the site that made them.",
+      "url": "https://www.ogimage.gallery",
+      "type": "gallery",
+      "formats": "OG image gallery · category filters · index by site",
+      "topics": [
+        "assets",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Not stated at review. Each image belongs to the site that made it; do not treat the gallery as an asset source.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "ogimagecn",
+        "savee",
+        "godly"
       ]
     },
     {
@@ -16014,6 +16089,31 @@
         "shadcn-ui",
         "page-flows",
         "mobbin"
+      ]
+    },
+    {
+      "slug": "squints",
+      "path": "sites/squints.md",
+      "title": "Squints",
+      "description": "Free Chrome extension that measures spacing, identifies type and colour, and slows or scrubs animations on any live page.",
+      "url": "https://squints.app",
+      "type": "browser-extension",
+      "formats": "Chrome extension · rulers and guides · column grid · colour and font pickers · animation recorder and scrubber",
+      "topics": [
+        "ux-patterns",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free at review, with a link to the Chrome Web Store and no payment mentioned. No licence is stated for the extension and no source repository is linked.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-10-29",
+      "status": "active",
+      "related": [
+        "detail",
+        "ui-patterns",
+        "page-flows"
       ]
     },
     {

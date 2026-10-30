@@ -81,6 +81,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Snapzy](../sites/snapzy.md) — A macOS capture app whose landing page shows annotation, background presets and recording workflows in context.
 - [Sona UI](../sites/sona-ui.md) — Small MIT set of accessible animated React components with an agent manifest, catalog, skill and read-only API through shadcn.
 - [squig](../sites/squig.md) — A wireframing canvas where real UI components render as hand-drawn sketches, with an agent bridge into the open tab.
+- [Squints](../sites/squints.md) — Free Chrome extension that measures spacing, identifies type and colour, and slows or scrubs animations on any live page.
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
 - [Supaste](../sites/supaste.md) — A vivid product landing page that uses a simulated clipboard library to explain a native macOS utility.
 - [Superfuture Design Review](../sites/superfuture-design-review.md) — Ten-area design critique ranked by severity with exact fixes; it sends a hidden usage ping.

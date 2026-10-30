@@ -85,6 +85,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Linden Hill](../sites/linden-hill.md) — Serif font specimen with Regular and Italic switching, a detailed glyph map and visual examples of OpenType features.
 - [Liten UI](../sites/liten-ui.md) — Dark, depth-focused React component library with 46 documented examples, live previews and copyable implementation notes.
 - [Lottie](../sites/lottiefiles.md) — Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.
+- [Lottielab](../sites/lottielab.md) — Lottie editor for product teams, from Figma or After Effects imports to one animation file that ships to iOS, Android and web.
 - [Lucide](../sites/lucide.md) — Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.
 - [MagicPattern](../sites/magicpattern.md) — A toolbox of live pattern, mesh-gradient, shader and background editors with image and code exports.
 - [Mascofast](../sites/mascofast.md) — Paid AI tool that turns text or photos into mascots, exported as transparent GIF, WebM or Lottie.
@@ -97,6 +98,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Nacelle](../sites/nacelle.md) — Japanese type specimen pairing a quiet split layout and oversized word sample with named styles and an OFL licence.
 - [Noise & Gradient](../sites/noiseandgradient.md) — A p5.js canvas generator for textured color gradients with editable palettes, chaos and grain controls.
 - [Nucleo](../sites/nucleo.md) — A polished SVG icon system with sharply differentiated families, a desktop editor, and an agent workflow for licensed icons.
+- [OGimage.gallery](../sites/ogimage-gallery.md) — A hand-picked gallery of Open Graph images, filtered by category and browsable by the site that made them.
 - [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
 - [Open Foundry](../sites/open-foundry.md) — A long-running curated catalogue of open source typefaces, with a specimen per face and the licence stated on the font page.

@@ -132,6 +132,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Locomotive](../sites/locomotive.md) — Montreal studio portfolio pairing an audiovisual hero with a filterable work archive and detailed project pages.
 - [Lottie](../sites/lottiefiles.md) — Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.
 - [LottieFiles Motion Design Skill](../sites/lottiefiles-motion-design.md) — Motion-director skill: four personalities, duration and stagger tables, Disney principles adapted for UI.
+- [Lottielab](../sites/lottielab.md) — Lottie editor for product teams, from Figma or After Effects imports to one animation file that ships to iOS, Android and web.
 - [Lucide Animated](../sites/lucide-animated.md) — 467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.
 - [Luna UI](../sites/luna-ui.md) — Framer startup templates and case studies with cinematic imagery, oversized type and scroll driven product showcases.
 - [Lusion](../sites/lusion.md) — A creative studio portfolio with sculptural 3D scenes, restrained typography and immersive project storytelling.
@@ -206,6 +207,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Spell UI](../sites/spell-ui.md) — Small, refined MIT set strong on text reveal animations, playful buttons and light-ray backgrounds.
 - [Spline](../sites/spline.md) — Browser and desktop 3D tool with an event system, code and glTF export, and an MCP server in the desktop app.
 - [Spotify Wrapped 2021](../sites/spotify-wrapped-2021.md) — Spotify’s 2021 Wrapped interview explains a campaign-specific ribbon, symbols, motion and digital applications through contemporary examples.
+- [Squints](../sites/squints.md) — Free Chrome extension that measures spacing, identifies type and colour, and slows or scrubs animations on any live page.
 - [Starbucks Holiday Ad (2024)](../sites/starbucks-holiday-ad-2024.md) — A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.
 - [Studio Dumbar](../sites/studio-dumbar.md) — Rotterdam studio portfolio for bold visual identities, motion systems and expressive typography.
 - [Studio Yukiko](../sites/studio-yukiko.md) — Berlin studio portfolio pairing a condensed display face with a varied project grid, category filters and editorial case studies.
