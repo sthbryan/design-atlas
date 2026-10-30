@@ -33,8 +33,9 @@ Squints is a Chrome extension that puts the measuring tools of a design editor o
 - **Box and gap inspector**: read an element's box and the distance to its neighbour, which is the measurement designers reach for first.
 - **Rulers and guides that snap**: drag them out as in a design tool, then keep them across a page.
 - **A column grid per site**: the grid is remembered per site, so a review session does not start by rebuilding it.
-- **Colour with the token**: every format plus the design token behind the value, which turns a screenshot argument into a code change.
-- **Font identification with metrics**: reports the face that really rendered and its measurements, which settles fallback and loading questions.
+- **Colour with the token**: HEX, RGB, HSL and OKLCH plus the design token behind the value, which turns a screenshot argument into a code change.
+- **Font identification with metrics**: reports the face that really rendered, with size, weight, line height and letter spacing, which settles fallback and loading questions.
+- **Capture**: a screenshot or a recorded region, with or without the annotations drawn on it, so a review can leave the browser as an image.
 - **Slow motion and scrubbing**: play any animation at a tenth of its speed or step through it frame by frame, the fastest way to find what is wrong with an easing curve.
 - **Annotations on the page**: arrows, boxes and notes drawn in place, for a review that has to leave the browser as a screenshot.
 
@@ -44,8 +45,8 @@ No agent channel at review: no `llms.txt`, no MCP server, no API. It is a human 
 
 ## Watch out for
 
-- Chrome only at review, with the store listing as the install path. Other browsers are not covered.
-- An extension that reads and draws on every page is a trust decision. It is free and made by an individual, so read the permissions before installing it on a work profile.
+- Chrome only at review, with the store listing as the install path; the listing showed version 1.0.3, a 265 KiB download and an English-only interface. Other browsers are not covered.
+- An extension that reads and draws on every page is a trust decision. It is free, made by an individual, and the listing links a privacy policy; read both the permissions and that policy before installing it on a work profile.
 - Measuring a live page measures the build, not the design intent. The gap you read may be a bug, and the extension cannot tell you which value was intended.
 - Slowing an animation down changes the thing you are judging. A curve that looks right at a tenth speed can still feel abrupt in use.
 - No licence is stated. Do not assume the extension, or any code in it, can be reused.

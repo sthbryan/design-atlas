@@ -20,7 +20,7 @@ related: [shadcn-ui, page-flows, mobbin]
 
 ## What it is
 
-squig is a browser wireframing tool built on an infinite canvas. You drag in real UI components — the shadcn vocabulary of buttons, inputs, selects, tables, dialogs, tabs, nav and sidebars, plus blocks such as heroes, pricing tables, FAQs, AI chat, checkout and kanban — and every one renders as a hand-drawn sketch through rough.js. Files autosave into browser storage, and a file menu exports a copy, PNG or SVG. The repository is MIT and runs locally with pnpm.
+squig is a browser wireframing tool built on an infinite canvas. You drag in real UI components — the shadcn vocabulary of buttons, inputs, selects, tables, dialogs, tabs, nav and sidebars, plus blocks such as heroes, pricing tables, FAQs, AI chat, checkout and kanban — and every one renders as a hand-drawn sketch through rough.js. The library exposed 155 entries at review, components and blocks together, organised into groups such as buttons, forms and selection. Files autosave into browser storage, and a file menu exports a copy, PNG or SVG. The repository is MIT and runs locally with pnpm.
 
 ## When to open it
 
@@ -35,18 +35,18 @@ squig is a browser wireframing tool built on an infinite canvas. You drag in rea
 - **Paste as material**: a screenshot lands as a reference inside a drawn frame and is shrunk on the way in, copy lands as text, and layers copied from another tab keep their structure.
 - **Figma's keyboard**: select, rectangle, ellipse, draw, text and arrow on single keys, arrows to nudge, and a custom big-nudge step.
 - **Paper and ink settings**: three paper shades, a dot grid, palettes such as "Internet blue", and hand-drawn, sans or serif type.
-- **Agent bridge**: "Connect agent" copies instructions for an agent with access to that tab; it checks the document id and edits through `window.squig` or supported WebMCP tools, and both parties' edits merge and autosave.
+- **Agent bridge**: "Connect agent" copies instructions for an agent with access to that tab; it checks the document id and edits through `window.squig` or supported WebMCP tools, and both parties' edits merge and autosave. In the open canvas the object exposed 25 methods at review, including `addComponent`, `addText`, `addShape`, `update`, `group`, `spacing`, `tidy`, `describe` and `svg`, which is enough to build or measure a screen without touching the UI.
 
 ## Using it with agents
 
-Three routes. The browser bridge needs no install: an agent with control of the tab edits the open drawing. The companion, `pnpm squig serve <file>.squig.json`, opens the editor at a loopback address and gives agents MCP and HTTP tools for that one file, including components, batch edits, variations, notes, history, text measurement and SVG/PNG rendering. Alongside them, `https://squig.sh/llms.txt` and `llms-full.txt` document tools, setup and limits, and the repository ships an optional plugin that guides an agent to continue the open canvas or a chosen file. There is no signup, no cloud storage and no API key; the agent uses its own model account.
+Three routes. The browser bridge needs no install: an agent with control of the tab edits the open drawing. The companion, `pnpm squig serve <file>.squig.json`, opens the editor at a loopback address and serves MCP over stdio or Streamable HTTP, with thirteen tools at review (`squig_get_document`, `squig_edit_document`, `squig_replace_document`, `squig_history`, `squig_restore`, `squig_comment`, `squig_export_document`, `squig_measure_text`, `squig_render_document` and the rest), plus an OpenAPI schema, a `squig://guides/wireframing` resource and a wireframe-first prompt. Alongside them, `https://squig.sh/llms.txt` and `llms-full.txt` document tools, setup and limits, and the repository ships an optional plugin that guides an agent to continue the open canvas or a chosen file. There is no signup, no cloud storage and no API key; the agent uses its own model account.
 
 ## Watch out for
 
 - Browser storage is not a backup. Clearing site data clears the drawings, another browser profile does not have them, and the drawer keeps only the most recent forty. Export a copy when a file matters.
 - The sketch is the point. Nothing here is production CSS to lift into a build, and the components are wireframe representations rather than the real components.
 - Run one companion per file and keep the process alive while working. Moving a browser drawing to disk means exporting first; the two stores are not linked.
-- Local history is bounded, at 50 snapshots and 16 MiB per file at review.
+- Local history is bounded, at 50 snapshots and 16 MiB per file at review, and MCP tool results are capped at 8 MiB, so a large canvas can fail with a 413 that still saved the edit.
 - The project is young, with a small star count and a last push in mid-September at review, so check the issue tracker before depending on the agent bridge.
 
 ## Reusable ideas

@@ -31,7 +31,7 @@ Lottielab is a Lottie editor aimed at product teams rather than motion studios. 
 ## Most useful
 
 - **Import path**: Figma and After Effects in, Lottie out, which is the shortest route from design files to a shippable animation.
-- **File-size tools**: the site advertises optimised exports and lists a standalone file-size optimiser alongside converters (SVG to Lottie, Lottie to dotLottie, Lottie to GIF, MP4 and WebM), all useful when a designer hands you a heavy file.
+- **File-size tools**: the site advertises optimised exports and gives the optimiser its own page (`/lottie/optimize-lottie`), alongside public converters for SVG to Lottie, Lottie to dotLottie, and Lottie to GIF, MP4, WebM and video, all useful when a designer hands you a heavy file.
 - **Collaboration**: comments and real-time editing on a shared file, so review happens on the animation instead of on a screen recording.
 - **Templates**: a library by scenario and by asset type — icons, illustrations, logos, mockups, showreels, social — which is a quick way to see what a finished Lottie looks like in a product.
 - **Hosting**: paid plans add a CDN for Lottie files, an option worth knowing if your team has no asset pipeline for animations.
