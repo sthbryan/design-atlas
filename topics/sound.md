@@ -21,11 +21,15 @@ Interface sounds for the web: semantic cue sets, synthesis libraries, sound-enab
 
 <!-- atlas:sources:start -->
 - [@web-kits/audio](../sites/web-kits-audio.md) — Declarative Web Audio synthesis with JSON sound patches, a CLI, llms.txt and a create-sound agent skill.
+- [audiocn](../sites/audiocn.md) — Twenty-three audio components and sixteen Web Audio hooks for React, copied into your project with the shadcn CLI.
 - [Chrome Music Lab](../sites/chrome-music-lab.md) — Google's hands-on music experiments, useful for studying playful grids, musical controls and sound-led visual interaction.
 - [Cuelume](../sites/cuelume.md) — Seventeen synthesised interaction cues wired by data attributes and bind(), with a full agents.md guide.
+- [Freesound](../sites/freesound.md) — 738,000+ Creative Commons sounds with a v2 API, per-file licences and Gen AI opt-out preferences; downloads need an account.
+- [Mixkit Sound Effects](../sites/mixkit-sound-effects.md) — Free .wav and .mp3 sound effects with no sign-up and no attribution, under Envato's Mixkit Free License.
 - [Patatap](../sites/patatap.md) — A keyboard-driven sound and shape toy where each letter triggers a brief animated mark against a quiet canvas.
 - [sensory-ui](../sites/sensory-ui.md) — Sound-enabled versions of 24 shadcn components with 17 semantic roles and nine synthesised packs.
 - [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds installed via shadcn CLI; 110 Blizzard clips are non-commercial only.
+- [Tone.js](../sites/tonejs.md) — MIT Web Audio framework with synths, effects and scheduling, for building interface cues instead of downloading them.
 - [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
 - [User Interface Wiki](../sites/user-interface-wiki.md) — Raphael Salaja's nine demo-rich articles on motion, sound and type, installable as a 152-rule agent skill.
 <!-- atlas:sources:end -->

@@ -12,12 +12,18 @@ order: 6
 ## Start here
 
 - [404s](../sites/404s.md) — a curated gallery of 404 pages, filterable by style, interaction and industry.
+- [404 Gallery](../sites/404-gallery.md) — ninety 404s captioned by industry, for when the error has to be about the product rather than about a style.
+- [Checklist Design](../sites/checklist-design.md) — the shortest way to check that a 404 has a logo, a title, a reason and a way back.
 
 ## All sources
 
 <!-- atlas:sources:start -->
 - [23rd](../sites/23rd.md) — 14 showpiece shader, ASCII and footer components for React and Svelte 5 via the shadcn CLI, with an agent skill; no licence file.
+- [404 Gallery](../sites/404-gallery.md) — About ninety 404 screenshots from Russian sites, each joke built around the business; no links to the live pages.
 - [404s](../sites/404s.md) — Curated gallery of 404 pages, filterable by style, interaction and industry.
+- [Checklist Design](../sites/checklist-design.md) — 138 design checklists by screen, component and flow, plus an agent skill that reviews a screenshot against the matching list.
+- [Empty States](../sites/empty-states.md) — About sixty shipped empty states, captioned by app and platform, on one static page with no filters or links.
+- [HTTP Cats](../sites/http-cats.md) — An image per HTTP status code plus JSON with MDN's description; MIT code, photographs with no separate licence.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

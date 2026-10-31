@@ -55,6 +55,7 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [Noise & Gradient](../sites/noiseandgradient.md) — A p5.js canvas generator for textured color gradients with editable palettes, chaos and grain controls.
 - [OKLCH](../sites/oklch.md) — Evil Martians' OKLCH picker and converter with P3/Rec. 2020 gamut views and sRGB fallbacks.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
+- [Open Props](../sites/open-props.md) — Sub-atomic CSS custom properties for colour, type, spacing, shadows and easing, importable from a CDN as plain CSS.
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.
 - [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
 - [Realtime Colors](../sites/realtime-colors.md) — Color and type visualizer that applies palette choices to a full responsive website-like sample.

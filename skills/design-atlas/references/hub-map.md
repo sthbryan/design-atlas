@@ -1,6 +1,6 @@
 # Hub map
 
-A snapshot of every hub, generated with `catalog.json` (latest review 2026-10-29): its scope, its "Start here" picks and its adjacent hubs. Read it to choose hubs without opening them, and to widen a thin hub. When a live hub is reachable, the live hub wins.
+A snapshot of every hub, generated with `catalog.json` (latest review 2026-10-30): its scope, its "Start here" picks and its adjacent hubs. Read it to choose hubs without opening them, and to widen a thin hub. When a live hub is reachable, the live hub wins.
 
 A hub marked "none yet" has no curated picks. Query the index for its topic, then read the adjacent hubs.
 
@@ -8,10 +8,10 @@ A hub marked "none yet" has no curated picks. Query the index for its topic, the
 |---|---|---|---|
 | `inspiration` | galleries of real interfaces and sites to look at before designing your own. | `curated-design`, `one-page-love`, `a1-gallery`, `kage`, `recent-design` | `components`, `motion`, `navigation`, `footers`, `cta`, `design-md`, `landing-pages`, `color`, `3d-and-shaders` |
 | `landing-pages` | galleries, section libraries, templates and skills for marketing and launch pages. | `sections-wtf`, `curated-design`, `details`, `hallmark`, `good-ui` | `inspiration`, `cta`, `footers`, `navigation`, `motion`, `3d-and-shaders` |
-| `navigation` | navbars, menus and wayfinding patterns. | `navbar-gallery` | `inspiration`, `footers`, `cta`, `components`, `motion`, `landing-pages` |
-| `footers` | footer structure, density and content patterns. | `footer-design` | `navigation`, `inspiration`, `cta`, `landing-pages` |
+| `navigation` | navbars, menus and wayfinding patterns. | `navbar-gallery`, `navbar-design` | `inspiration`, `footers`, `cta`, `components`, `motion`, `landing-pages` |
+| `footers` | footer structure, density and content patterns. | `footer-design`, `checklist-design` | `navigation`, `inspiration`, `cta`, `landing-pages` |
 | `cta` | calls-to-action: buttons, forms, modals and conversion copy. | `cta-gallery`, `vibeprompts`, `magic-ui`, `good-ui` | `inspiration`, `components`, `navigation`, `landing-pages`, `ux-patterns` |
-| `error-pages` | 404s and other dead-end pages worth turning into a moment. | `404s` | `inspiration`, `navigation`, `footers` |
+| `error-pages` | 404s and other dead-end pages worth turning into a moment. | `404s`, `404-gallery`, `checklist-design` | `inspiration`, `navigation`, `footers` |
 | `ux-patterns` | principles, guidelines, checklists and pattern libraries for how interfaces should behave. | `laws-of-ux`, `inclusive-components`, `ui-playbook`, `detail-design`, `user-interface-wiki` | `components`, `documentation`, `motion`, `ai-interfaces`, `cta`, `agents-and-prompts` |
 | `components` | component libraries, registries and design systems. | `shadcn-ui`, `component-gallery`, `astryx`, `reactbits`, `carbon-design-system` | `motion`, `documentation`, `agents-and-prompts`, `typography-and-styles`, `icons`, `ai-interfaces`, `ux-patterns`, `3d-and-shaders`, `sound`, `data-viz` |
 | `ai-interfaces` | chat and agent components, AI UX patterns and status visuals for AI products. | `shape-of-ai`, `prompt-kit`, `termcn`, `orbkit`, `agentation` | `components`, `agents-and-prompts`, `ux-patterns`, `3d-and-shaders`, `motion` |

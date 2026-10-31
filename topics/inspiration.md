@@ -23,6 +23,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [100,000 Stars](../sites/100000-stars.md) — Interactive Chrome Experiment that turns nearby stellar data into a navigable, cinematic star map.
 - [10xShivam](../sites/10xshivam.md) — Dark developer portfolio using dashed outlines, serif headings and expandable work entries to structure a long page.
 - [21st.dev](../sites/21st-dev.md) — Community registry of React and Tailwind components with many variants per pattern, a CLI and an MCP server.
+- [404 Gallery](../sites/404-gallery.md) — About ninety 404 screenshots from Russian sites, each joke built around the business; no links to the live pages.
 - [404s](../sites/404s.md) — Curated gallery of 404 pages, filterable by style, interaction and industry.
 - [60fps](../sites/60fps.md) — About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
 - [81-web](../sites/81-web.md) — A Japanese web design archive with filters for type, category, color, font, tags, studio and date, plus desktop/mobile and cover/masonry views.
@@ -30,6 +31,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [a-fresh](../sites/a-fresh.md) — A categorized website and component archive with previews, desktop and mobile views, and filters for design traits.
 - [A1](../sites/a1-gallery.md) — A curated gallery of live websites, full pages and individual sections, with visual filters and measured design details.
 - [Abeto](../sites/abeto.md) — An interactive studio portfolio pairing a warm, illustrated botanical hero with realtime digital experiences.
+- [abtest.design](../sites/abtest-design.md) — Curated index of A/B tests from real apps, each card naming the change, the company and the measured lift.
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
 - [Active Theory](../sites/active-theory.md) — A creative studio portfolio built around a dark, animated particle scene and a compact route into its project work.
 - [Aditya Logs](../sites/adityalogs.md) — Monospace portfolio with inline emphasis, an activity sidebar and a compact, terminal-like visual language.
@@ -218,6 +220,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [movements.dev](../sites/movements.md) — Six browser-tunable UI utilities and libraries for refining component details, from refractive glass to shimmer and shadows.
 - [MUUUUU.ORG](../sites/muuuuu.md) — A Japanese design award gallery that highlights a daily site and tags work by composition, typography, color, motion and visual technique.
 - [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.
+- [Navbar Design](../sites/navbar-design.md) — 29 hand-picked navbars sorted by 7 types and 9 styles, each with a screenshot, a short note and a link to the live site.
 - [Navbar Gallery](../sites/navbar-gallery.md) — Real examples of every major navbar pattern (sticky, mega menu, sidebar, tabs and more), plus a blog on when to use each.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [NextWell Lab](../sites/nextwell-lab.md) — A portfolio lab of browser experiments with deep-linked 3D, interaction, game, clock and Pomodoro scenes.
@@ -227,6 +230,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Nur](../sites/nur.md) — Nur's product engineer portfolio pairs a watercolor pond illustration with a sparse introduction and inline type styling controls.
 - [ObsidianUI](../sites/obsidianui.md) — A free React component library whose live previews pair restrained documentation layouts with expressive hover and motion effects.
 - [OGANNA®](../sites/oganna.md) — Taipei design studio portfolio spanning identity, illustration, web and motion work, with category-tagged projects and multilingual navigation.
+- [OGimage.gallery](../sites/ogimage-gallery.md) — A hand-picked gallery of Open Graph images, filtered by category and browsable by the site that made them.
 - [OKOK Services](../sites/okok-services.md) — Singapore and Amsterdam studio portfolio with a black chrome hero and links to interactive client experiences.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.

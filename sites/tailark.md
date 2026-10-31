@@ -4,7 +4,7 @@ description: shadcn registry of marketing blocks, full pages and illustrations; 
 url: https://tailark.com
 type: component-registry
 formats: component registry (shadcn/ui) · marketing blocks · full pages · illustrations
-topics: [components, landing-pages]
+topics: [components, landing-pages, footers]
 verdict: very-useful
 agent: [registry, prompts]
 pricing: freemium
@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [shadcnblocks, shadcn-ui, blocks-so, shadcn-studio, spectrum-ui]
 ---
-[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [footers](../topics/footers.md)
 
 # Tailark
 
