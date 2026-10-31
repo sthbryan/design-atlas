@@ -8,7 +8,7 @@ A hub marked "none yet" has no curated picks. Query the index for its topic, the
 |---|---|---|---|
 | `inspiration` | galleries of real interfaces and sites to look at before designing your own. | `curated-design`, `one-page-love`, `a1-gallery`, `kage`, `recent-design` | `components`, `motion`, `navigation`, `footers`, `cta`, `design-md`, `landing-pages`, `color`, `3d-and-shaders` |
 | `landing-pages` | galleries, section libraries, templates and skills for marketing and launch pages. | `sections-wtf`, `curated-design`, `details`, `hallmark`, `good-ui` | `inspiration`, `cta`, `footers`, `navigation`, `motion`, `3d-and-shaders` |
-| `navigation` | navbars, menus and wayfinding patterns. | `navbar-gallery` | `inspiration`, `footers`, `cta`, `components`, `motion`, `landing-pages` |
+| `navigation` | navbars, menus and wayfinding patterns. | `navbar-gallery`, `navbar-design` | `inspiration`, `footers`, `cta`, `components`, `motion`, `landing-pages` |
 | `footers` | footer structure, density and content patterns. | `footer-design`, `checklist-design` | `navigation`, `inspiration`, `cta`, `landing-pages` |
 | `cta` | calls-to-action: buttons, forms, modals and conversion copy. | `cta-gallery`, `vibeprompts`, `magic-ui`, `good-ui` | `inspiration`, `components`, `navigation`, `landing-pages`, `ux-patterns` |
 | `error-pages` | 404s and other dead-end pages worth turning into a moment. | `404s`, `404-gallery`, `checklist-design` | `inspiration`, `navigation`, `footers` |
