@@ -4,7 +4,7 @@ description: Free MIT copy-paste Tailwind v4 snippets (about 540 with dark varia
 url: https://www.hyperui.dev
 type: component-library
 formats: copy-paste Tailwind CSS snippet collection with small browser tools
-topics: [components, landing-pages]
+topics: [components, landing-pages, footers, cta]
 verdict: useful
 agent: []
 pricing: free
@@ -14,7 +14,7 @@ reviewed: 2026-09-25
 status: active
 related: [meraki-ui, uiverse, flowbite, preline]
 ---
-[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md)
+[← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [landing-pages](../topics/landing-pages.md), [footers](../topics/footers.md), [cta](../topics/cta.md)
 
 # HyperUI
 

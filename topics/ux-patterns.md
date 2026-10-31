@@ -35,6 +35,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Baymard Ecommerce Design Examples](../sites/baymard-ecommerce-design-examples.md) — Ecommerce page gallery with desktop, mobile and app captures annotated with research-based UX findings.
 - [before.click](../sites/before-click.md) — 361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
+- [Checklist Design](../sites/checklist-design.md) — 138 design checklists by screen, component and flow, plus an agent skill that reviews a screenshot against the matching list.
 - [closeit.fast](../sites/closeit-fast.md) — An e-signature product page with a clickable four-screen walkthrough and a step-by-step document lifecycle.
 - [Compresto](../sites/compresto.md) — A media-compression product page with clear before-and-after demos and measured output changes for each format.
 - [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with composed particles and agent skills; mixed MIT/AGPL repo.
@@ -48,6 +49,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Devouring Details](../sites/devouring-details.md) — Rauno Freiberg's paid interactive manual on interaction craft, with 23 chapters and downloadable React prototypes.
 - [editorcn](../sites/editorcn.md) — Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
 - [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
+- [Empty States](../sites/empty-states.md) — About sixty shipped empty states, captioned by app and platform, on one static page with no filters or links.
 - [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
 - [Flit](../sites/flit.md) — A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.

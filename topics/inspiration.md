@@ -23,6 +23,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [100,000 Stars](../sites/100000-stars.md) — Interactive Chrome Experiment that turns nearby stellar data into a navigable, cinematic star map.
 - [10xShivam](../sites/10xshivam.md) — Dark developer portfolio using dashed outlines, serif headings and expandable work entries to structure a long page.
 - [21st.dev](../sites/21st-dev.md) — Community registry of React and Tailwind components with many variants per pattern, a CLI and an MCP server.
+- [404 Gallery](../sites/404-gallery.md) — About ninety 404 screenshots from Russian sites, each joke built around the business; no links to the live pages.
 - [404s](../sites/404s.md) — Curated gallery of 404 pages, filterable by style, interaction and industry.
 - [60fps](../sites/60fps.md) — About 2,080 real iOS interaction recordings with storyboards, a glossary, llms.txt and a paid MCP that returns motion breakdowns.
 - [81-web](../sites/81-web.md) — A Japanese web design archive with filters for type, category, color, font, tags, studio and date, plus desktop/mobile and cover/masonry views.

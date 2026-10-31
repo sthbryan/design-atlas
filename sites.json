@@ -272,6 +272,32 @@
       ]
     },
     {
+      "slug": "404-gallery",
+      "path": "sites/404-gallery.md",
+      "title": "404 Gallery",
+      "description": "About ninety 404 screenshots from Russian sites, each joke built around the business; no links to the live pages.",
+      "url": "https://www.404.gallery",
+      "type": "gallery",
+      "formats": "single-page screenshot gallery · no filters",
+      "topics": [
+        "error-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse. The footer reads © страницы 404 ошибок Алексея Бычкова, 2024, so the page and its arrangement are all rights reserved by Alexey Bychkov; no reuse terms are stated.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-10-30",
+      "status": "active",
+      "related": [
+        "404s",
+        "checklist-design",
+        "footer-design",
+        "cta-gallery"
+      ]
+    },
+    {
       "slug": "404s",
       "path": "sites/404s.md",
       "title": "404s",
@@ -3157,6 +3183,39 @@
       ]
     },
     {
+      "slug": "checklist-design",
+      "path": "sites/checklist-design.md",
+      "title": "Checklist Design",
+      "description": "138 design checklists by screen, component and flow, plus an agent skill that reviews a screenshot against the matching list.",
+      "url": "https://www.checklist.design",
+      "type": "pattern-library",
+      "formats": "checklists · agent skill · Figma skill and plugin · copy or export to Notion, Linear, Jira and others",
+      "topics": [
+        "ux-patterns",
+        "cta",
+        "footers",
+        "error-pages"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "The skill repository Checklist-Design/skills is MIT (about 70 stars at review). The checklists themselves have no terms page — /terms and /about both return 404 while /privacy resolves — so treat the text as read-and-use-in-your-own-words rather than as licensed content. The Figma plugin's price is not stated on the site.",
+      "licence_class": "mixed",
+      "licences": {
+        "code": "open-source-permissive"
+      },
+      "reviewed": "2026-10-30",
+      "status": "active",
+      "related": [
+        "good-ui",
+        "cta-gallery",
+        "footer-design",
+        "404s"
+      ]
+    },
+    {
       "slug": "chloe-maillot",
       "path": "sites/chloe-maillot.md",
       "title": "Chloé Maillot",
@@ -5890,6 +5949,32 @@
       ]
     },
     {
+      "slug": "empty-states",
+      "path": "sites/empty-states.md",
+      "title": "Empty States",
+      "description": "About sixty shipped empty states, captioned by app and platform, on one static page with no filters or links.",
+      "url": "https://emptystat.es",
+      "type": "gallery",
+      "formats": "single-page screenshot gallery · static build",
+      "topics": [
+        "error-pages",
+        "ux-patterns"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Not stated. The page carries no licence, terms or credit line; the screenshots belong to the products shown.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-10-30",
+      "status": "active",
+      "related": [
+        "404s",
+        "checklist-design",
+        "mobbin",
+        "404-gallery"
+      ]
+    },
+    {
       "slug": "epic-easing",
       "path": "sites/epic-easing.md",
       "title": "Epic Easing",
@@ -7960,6 +8045,37 @@
       ]
     },
     {
+      "slug": "http-cats",
+      "path": "sites/http-cats.md",
+      "title": "HTTP Cats",
+      "description": "An image per HTTP status code plus JSON with MDN's description; MIT code, photographs with no separate licence.",
+      "url": "https://http.cat",
+      "type": "asset-library",
+      "formats": "image API · JSON per status code · one HTML page per status",
+      "topics": [
+        "error-pages",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "The repository httpcats/http.cat is MIT (about 3.7k stars at review). Donations run through Patreon and Buy Me a Coffee, and an adopt-a-cat option puts a supporter's name in a chosen image. The cat photographs carry no separate credit or licence line, so treat the images themselves as look-only before using them in a commercial product.",
+      "licence_class": "mixed",
+      "licences": {
+        "code": "open-source-permissive",
+        "assets": "not-stated"
+      },
+      "reviewed": "2026-10-30",
+      "status": "active",
+      "related": [
+        "404s",
+        "404-gallery",
+        "empty-states"
+      ]
+    },
+    {
       "slug": "httpster",
       "path": "sites/httpster.md",
       "title": "Httpster",
@@ -8140,7 +8256,9 @@
       "formats": "copy-paste Tailwind CSS snippet collection with small browser tools",
       "topics": [
         "components",
-        "landing-pages"
+        "landing-pages",
+        "footers",
+        "cta"
       ],
       "verdict": "useful",
       "agent": [],
@@ -16821,7 +16939,8 @@
       "formats": "component registry (shadcn/ui) · marketing blocks · full pages · illustrations",
       "topics": [
         "components",
-        "landing-pages"
+        "landing-pages",
+        "footers"
       ],
       "verdict": "very-useful",
       "agent": [

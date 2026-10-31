@@ -65,6 +65,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Halftone Maker](../sites/halftone-maker.md) — Browser studio for vector halftone and stipple images, with shape, grid, colour and sampling controls.
 - [Heroicons (stale)](../sites/heroicons.md) — Tailwind Labs' MIT set of 316 icons, each drawn in outline, solid, mini and micro sizes, with React and Vue packages.
 - [HK Grotesk Wide](../sites/hk-grotesk-wide.md) — A wide display family presented with bold green poster layouts and an editable preview across every weight.
+- [HTTP Cats](../sites/http-cats.md) — An image per HTTP status code plus JSON with MDN's description; MIT code, photographs with no separate licence.
 - [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
 - [Icon Foundry](../sites/icon-foundry.md) — Free search across about 49k icons from open sets plus logos; check each source's licence.
 - [Iconify](../sites/iconify.md) — One naming scheme, API and toolchain over 200+ open icon sets and about 300k+ icons.
