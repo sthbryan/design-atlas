@@ -8467,6 +8467,32 @@
       ]
     },
     {
+      "slug": "icones",
+      "path": "sites/icones.md",
+      "title": "Icônes",
+      "description": "Instant offline-search icon explorer over Iconify's sets, with an icon-font packer, SVG download and copy-ready usage snippets.",
+      "url": "https://icones.js.org",
+      "type": "tool",
+      "formats": "icon explorer · local fuzzy search · icon-font packing · SVG download · copy usage snippets",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The explorer is MIT licensed (Anthony Fu, 2020) and free. The icons it browses come from Iconify's collections, so each set keeps its own licence, which ranges from MIT and CC0 to CC BY and GPL",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "iconify",
+        "icons0",
+        "icon-foundry",
+        "tabler-icons"
+      ]
+    },
+    {
       "slug": "iconify",
       "path": "sites/iconify.md",
       "title": "Iconify",
