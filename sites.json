@@ -11407,6 +11407,35 @@
       ]
     },
     {
+      "slug": "modulify",
+      "path": "sites/modulify.md",
+      "title": "Modulify",
+      "description": "Prompt-to-website builder that ships a Postgres database, CMS, forms, analytics and hosting together, with an llms.txt that maps the whole product.",
+      "url": "https://modulify.ai",
+      "type": "ai-builder",
+      "formats": "AI website and web app builder · cloneable templates · domain registration · docs and llms.txt",
+      "topics": [
+        "ai-interfaces",
+        "landing-pages",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Credit-based subscriptions. Free is $0 with 35 one-time credits, Starter $20 and Pro $40 per month billed yearly at review, and a Scale plan is quoted. Paid credits reset each cycle; bought top-ups roll over. The pricing page says creators keep ownership of the sites they make. The service itself is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "v0",
+        "made-in-webflow",
+        "best-website-templates",
+        "figma"
+      ]
+    },
+    {
       "slug": "monash-mada-now-2025",
       "path": "sites/monash-mada-now-2025.md",
       "title": "Monash MADA Now 2025",
