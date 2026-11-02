@@ -19381,6 +19381,32 @@
       ]
     },
     {
+      "slug": "wonderlist",
+      "path": "sites/wonderlist.md",
+      "title": "Wonderlist",
+      "description": "127 paid website designs in three fixed-price packages, sold as Figma files with 1,137 pages across SaaS, agency, portfolio and industry briefs.",
+      "url": "https://wonderlist.design",
+      "type": "template-library",
+      "formats": "paid Figma website designs · 1,137 page designs · single-payment packages · font pack",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "One-time purchase. Lite $329, Pro $599 and Business $999 at review, with a 50% code on a countdown banner. Lite and Pro are single-user; Business adds three seats and monthly new designs. The site says its images and fonts are MIT licensed and free for any project, while the designs themselves are sold under a per-purchase user licence with no terms page found",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "best-website-templates",
+        "made-in-webflow",
+        "best-website-gallery",
+        "figma"
+      ]
+    },
+    {
       "slug": "wwwtf",
       "path": "sites/wwwtf.md",
       "title": "wwwtf.site",
