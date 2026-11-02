@@ -154,6 +154,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Siddz](../sites/siddz.md) — Minimal portfolio with a faint graph-paper grid, compact uppercase labels and paired project previews.
 - [SiteThis](../sites/sitethis.md) — A visual archive of websites with category and style browsing, full-page previews and palette notes.
 - [SkySend](../sites/skysend.md) — Minimal encrypted file-sharing landing page that explains its security model through a centered hero, terminal install example and concise proof points.
+- [Slidebean](../sites/slidebean.md) — Pitch-deck tool whose page splits an AI builder from a human design agency, with a checkmark proof list and a review-widget rating block.
 - [Snapzy](../sites/snapzy.md) — A macOS capture app whose landing page shows annotation, background presets and recording workflows in context.
 - [Spectrum UI](../sites/spectrum-ui.md) — Free Apache-2.0 animated shadcn components and blocks, strong on AI-assistant, chart and empty-state blocks, with an MCP server.
 - [Squarespace](../sites/squarespace.md) — Website builder whose marketing page is a case study in repeated card grids and role-based labels on every section.

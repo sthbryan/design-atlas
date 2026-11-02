@@ -16434,6 +16434,31 @@
       ]
     },
     {
+      "slug": "slidebean",
+      "path": "sites/slidebean.md",
+      "title": "Slidebean",
+      "description": "Pitch-deck tool whose page splits an AI builder from a human design agency, with a checkmark proof list and a review-widget rating block.",
+      "url": "https://slidebean.com",
+      "type": "tool",
+      "formats": "AI pitch deck builder · deck templates · financial modelling service · design agency",
+      "topics": [
+        "landing-pages",
+        "cta"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Software plus agency services; prices for either were not on the pages read at review. The platform and the templates are proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "saas-landing-page",
+        "best-website-templates",
+        "landing-gallery"
+      ]
+    },
+    {
       "slug": "smooth-ui",
       "path": "sites/smooth-ui.md",
       "title": "Smooth UI",
