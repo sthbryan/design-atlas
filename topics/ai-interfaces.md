@@ -29,6 +29,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Banani](../sites/banani.md) — Public UI-screen references and an AI editor for turning prompts or screenshots into editable prototypes.
 - [Beautiful UI](../sites/beautiful-ui.md) — 21 polished MIT shadcn components for agent UIs: thinking states, approvals, tool chips, task rows, diff tables and a prompt bar.
 - [benday](../sites/benday.md) — An MIT React component that turns a logo into a halftone mark with 21 controllable loading and agent-state animations.
+- [BestAIBuilder](../sites/bestaibuilder.md) — Ranked index of 101 AI website builders scored on craft, speed, control and value, with a radar comparison and a publisher disclosure on every entry.
 - [beUI](../sites/beui.md) — MIT motion components, agent UI and charts with llms.txt, JSON API, agent skill and hosted MCP; paid Pro adds blocks and templates.
 - [Cardinal](../sites/cardinal.md) — Revenue-AI landing page with a warm graph-paper grid, hand-drawn annotations and small illustrated metric cards.
 - [Conduit](../sites/conduit.md) — Hospitality AI site that pairs a restrained serif hero with a live-looking omnichannel inbox and an escalation workflow.
@@ -37,6 +38,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Fuser](../sites/fuser.md) — A polished recipe page explains an image workflow with a connected input, recipe and output diagram.
 - [GAIA UI](../sites/gaia-ui.md) — MIT, shadcn-compatible React components for AI assistants, with documented registry installation and a focused agent-app visual language.
 - [Halaska UI](../sites/halaska-ui.md) — MIT React kit for AI products, pairing live sample screens with reusable interaction patterns and components.
+- [Handy](../sites/handy.md) — Open-source speech-to-text app that pastes what you say into the focused field, sold on privacy and a single push-to-talk shortcut.
 - [Jessy In's Gallery](../sites/jessy-in-gallery.md) — Social art gallery built on MoMA's open collection, with shared two-player curation, live chat, postcards and WebMCP tools for browser agents.
 - [Keel Workspace](../sites/keel-workspace.md) — A polished CRM workspace demo with dense pipeline metrics, source-backed agent decisions and keyboard-first review controls.
 - [Kobra](../sites/kobra.md) — Proprietary component system for AI and agent product interfaces, with an llms.txt index and a markdown API per component.
@@ -48,11 +50,13 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [MagicPath](../sites/magicpath.md) — Design interactive interfaces on a shared canvas, then browse live prototypes and bring selected designs into code with supported agents.
 - [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
 - [microcharts](../sites/microcharts.md) — MIT React charts sized for sentences, tables and KPI cards, with a catalog and seven live example apps.
+- [Modulify](../sites/modulify.md) — Prompt-to-website builder that ships a Postgres database, CMS, forms, analytics and hosting together, with an llms.txt that maps the whole product.
 - [Nous Portal](../sites/nous-portal.md) — A dark AI service portal with a fixed resource rail, editorial typography, model catalog and clear subscription comparisons.
 - [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
 - [PanelUI](../sites/panelui.md) — MIT React Native component library for Expo, with Tailwind styling, live examples and agent resources.
 - [Poetic](../sites/poetic.md) — Enterprise AI landing page with oversized type, proof metrics, a product walkthrough and a recovery example for evolving workflows.
 - [Prompt Kit](../sites/prompt-kit.md) — MIT shadcn components for chat UIs: prompt input, auto-scrolling conversation, reasoning, tool-call and citation views.
+- [React Bits Pro](../sites/reactbits-pro.md) — Paid library of animated React work — 230 components, 300 page blocks and 300 app-UI blocks — with a counted, category-by-category inventory.
 - [Sevalla](../sites/sevalla.md) — Cloud hosting landing page that explains apps, databases, storage and static sites through product previews, location data and MCP workflows.
 - [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.

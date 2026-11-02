@@ -2579,6 +2579,31 @@
       ]
     },
     {
+      "slug": "bestaibuilder",
+      "path": "sites/bestaibuilder.md",
+      "title": "BestAIBuilder",
+      "description": "Ranked index of 101 AI website builders scored on craft, speed, control and value, with a radar comparison and a publisher disclosure on every entry.",
+      "url": "https://bestaibuilder.website",
+      "type": "directory",
+      "formats": "ranked index · per-axis scores · radar comparison · category filters and sorting · weekly refresh",
+      "topics": [
+        "ai-interfaces",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, no account. The index is published by Modulify AI, whose own builder ranks first, and it states that placement is not sold. No licence for the index text or the scores is stated",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "v0",
+        "modulify",
+        "wonderlist"
+      ]
+    },
+    {
       "slug": "bestdesignsonx",
       "path": "sites/bestdesignsonx.md",
       "title": "Best Designs on X",
@@ -2780,6 +2805,30 @@
       ]
     },
     {
+      "slug": "boringnotch",
+      "path": "sites/boringnotch.md",
+      "title": "Boring Notch",
+      "description": "Free Mac app that turns the MacBook notch into a hover panel for music, calendar, battery and a drag-and-drop file shelf.",
+      "url": "https://boringnotch.com",
+      "type": "website",
+      "formats": "macOS menu-bar utility · notch hover panel · file shelf · HUD replacement",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to download. The page says free and open source without naming a licence, so check the repository before reusing code. The app is not signed with an Apple developer certificate, and the install note tells people to allow it manually",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "hiddenbar",
+        "hazeover"
+      ]
+    },
+    {
       "slug": "bounshy",
       "path": "sites/bounshy.md",
       "title": "Bounshy",
@@ -2833,6 +2882,31 @@
         "hugeicons",
         "iconify",
         "simple-icons"
+      ]
+    },
+    {
+      "slug": "bricks",
+      "path": "sites/bricks.md",
+      "title": "Bricks",
+      "description": "WordPress visual builder whose pitch is the design system underneath the canvas — classes, variables, palettes and theme styles, with breakpoints on the canvas.",
+      "url": "https://bricksbuilder.io",
+      "type": "tool",
+      "formats": "visual builder theme for self-hosted WordPress · 149 elements · query loop, conditions and interactions · online playground",
+      "topics": [
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Starter $79, Business $149 and Agency $249 per year at review, or $599 once for a lifetime licence, with a 60-day money-back guarantee. Licences may be used on client sites but not resold. The theme is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "made-in-webflow",
+        "best-website-templates",
+        "tilda"
       ]
     },
     {
@@ -3315,6 +3389,31 @@
         "chrome-experiments",
         "web-kits-audio",
         "soundcn"
+      ]
+    },
+    {
+      "slug": "chronicle",
+      "path": "sites/chronicle.md",
+      "title": "Chronicle",
+      "description": "AI deck builder on a freeform canvas, sold on brand rules and designer-made templates rather than on generating slides from nothing.",
+      "url": "https://chroniclehq.com",
+      "type": "tool",
+      "formats": "AI presentation maker · freeform canvas editing · brand fonts, colours and rules · export to PPT, PDF or a published website",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Sales-led, with pricing arranged through a sales conversation and no published tier prices at review. The product is proprietary, and decks you make are exported or published by you",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "figma",
+        "saas-landing-page",
+        "promo-ai-videos"
       ]
     },
     {
@@ -5206,6 +5305,31 @@
       ]
     },
     {
+      "slug": "devault-ascii",
+      "path": "sites/devault-ascii.md",
+      "title": "Devault ASCII",
+      "description": "Browser generator that redraws an image or video as ASCII, braille, halftone dots or dither, with CRT-style finishing controls and a hold-to-compare toggle.",
+      "url": "https://devault-ascii.pages.dev",
+      "type": "tool",
+      "formats": "image and video to ASCII · braille, halftone and dither modes · live finish controls · browser export",
+      "topics": [
+        "assets",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to use in the browser; exporting needs a free account and produces no watermark, per the page at review. No licence for the generated artwork is stated, and paid tiers were not visible",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "ascii-studio",
+        "ditherland",
+        "halftone-maker"
+      ]
+    },
+    {
       "slug": "devicon",
       "path": "sites/devicon.md",
       "title": "Devicon",
@@ -6256,6 +6380,30 @@
       ]
     },
     {
+      "slug": "fantastical",
+      "path": "sites/fantastical.md",
+      "title": "Fantastical",
+      "description": "Calendar app whose page stacks natural-language input, calendar sets and platform bands under press quotes from named reviewers.",
+      "url": "https://flexibits.com/fantastical",
+      "type": "website",
+      "formats": "calendar and tasks app · natural language input · calendar sets · macOS, iOS, iPadOS, watchOS and visionOS",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to start with a Premium tier; the subscription price was not on the page read at review. The app is proprietary and sold on the Mac App Store and direct",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "oneswitch",
+        "sleeve"
+      ]
+    },
+    {
       "slug": "feather",
       "path": "sites/feather.md",
       "title": "Feather",
@@ -6589,6 +6737,32 @@
         "sections-wtf",
         "wall-of-portfolios",
         "minimal-gallery"
+      ]
+    },
+    {
+      "slug": "fontinlogo",
+      "path": "sites/fontinlogo.md",
+      "title": "Font In Logo",
+      "description": "Searchable database of the typefaces behind famous brand, film and game logos, with verified, based-on, modified and community labels.",
+      "url": "https://www.fontinlogo.com",
+      "type": "directory",
+      "formats": "logo font database · search · community submissions · logo text generator",
+      "topics": [
+        "typography-and-styles",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse and free to join at review, with a claimed 30,000+ users. No licence for the identification data or the site's text is stated. Named typefaces belong to their foundries and the logos to their owners, and the Webflow templates promoted in the listings are paid products",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "fonts-in-use",
+        "typewolf",
+        "typeface-fyi",
+        "best-free-fonts"
       ]
     },
     {
@@ -7032,6 +7206,31 @@
         "evil-charts",
         "tremor",
         "beui"
+      ]
+    },
+    {
+      "slug": "genially",
+      "path": "sites/genially.md",
+      "title": "Genially",
+      "description": "Interactive content tool whose template gallery is a taxonomy lesson, organised by output type, audience and named game format.",
+      "url": "https://genially.com",
+      "type": "template-library",
+      "formats": "interactive templates · presentations, infographics, quizzes and games · branching scenarios · microsites",
+      "topics": [
+        "inspiration",
+        "components"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Hundreds of templates are free to use and customise, per the templates page at review; paid plans exist but were not priced on the page read. The templates and the platform are proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "visme",
+        "prezi",
+        "slidebean"
       ]
     },
     {
@@ -7771,6 +7970,30 @@
       ]
     },
     {
+      "slug": "handy",
+      "path": "sites/handy.md",
+      "title": "Handy",
+      "description": "Open-source speech-to-text app that pastes what you say into the focused field, sold on privacy and a single push-to-talk shortcut.",
+      "url": "https://handy.computer",
+      "type": "website",
+      "formats": "desktop app · push-to-talk or toggle recording · local transcription · video walkthrough with transcript",
+      "topics": [
+        "landing-pages",
+        "ai-interfaces"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to download and described as open source, without a licence named on the page at review. Transcription runs locally. Sponsored by named companies and funded through GitHub sponsors",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "boringnotch",
+        "oneswitch"
+      ]
+    },
+    {
       "slug": "harshit-raghuwanshi",
       "path": "sites/harshit-raghuwanshi.md",
       "title": "Harshit Raghuwanshi",
@@ -7793,6 +8016,30 @@
       "related": [
         "anzal-abidi",
         "firefly-builds"
+      ]
+    },
+    {
+      "slug": "hazeover",
+      "path": "sites/hazeover.md",
+      "title": "HazeOver",
+      "description": "Mac utility that dims every window except the active one, with intensity and animation speed as the two design controls.",
+      "url": "https://hazeover.com",
+      "type": "website",
+      "formats": "macOS utility · dimming intensity · animation speed · per-appearance settings · Shortcuts and AppleScript",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Free trial, also sold through Setapp, with a licence price not stated on the page read at review. The app is proprietary and requires macOS Ventura 13 or later",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "boringnotch",
+        "oneswitch"
       ]
     },
     {
@@ -7988,6 +8235,30 @@
       "related": [
         "designme-agency",
         "hover-states"
+      ]
+    },
+    {
+      "slug": "hiddenbar",
+      "path": "sites/hiddenbar.md",
+      "title": "Hidden Bar",
+      "description": "Free MIT-licensed Mac app that hides menu bar icons behind an arrow, with ⌘-drag sorting and a second always-hidden zone.",
+      "url": "https://hiddenbar.app",
+      "type": "website",
+      "formats": "macOS menu-bar utility · separator arrow · command-drag sorting · auto-collapse timer · Homebrew cask",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, MIT licensed, notarized by Apple, with no account, paywall or ads at review. The source is on GitHub. Downloads also run through a Homebrew cask or the Mac App Store",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "menubarx",
+        "boringnotch"
       ]
     },
     {
@@ -8441,6 +8712,32 @@
       ]
     },
     {
+      "slug": "icones",
+      "path": "sites/icones.md",
+      "title": "Icônes",
+      "description": "Instant offline-search icon explorer over Iconify's sets, with an icon-font packer, SVG download and copy-ready usage snippets.",
+      "url": "https://icones.js.org",
+      "type": "tool",
+      "formats": "icon explorer · local fuzzy search · icon-font packing · SVG download · copy usage snippets",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The explorer is MIT licensed (Anthony Fu, 2020) and free. The icons it browses come from Iconify's collections, so each set keeps its own licence, which ranges from MIT and CC0 to CC BY and GPL",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "iconify",
+        "icons0",
+        "icon-foundry",
+        "tabler-icons"
+      ]
+    },
+    {
       "slug": "iconify",
       "path": "sites/iconify.md",
       "title": "Iconify",
@@ -8468,6 +8765,32 @@
         "iconoir",
         "morphicons",
         "design-mobile-apps"
+      ]
+    },
+    {
+      "slug": "iconly",
+      "path": "sites/iconly.md",
+      "title": "Iconly",
+      "description": "Inspiration library of 2,400+ app, game and web app icons, searchable by category, style and colour, with 30 free and the rest behind a subscription.",
+      "url": "https://iconly.design",
+      "type": "gallery",
+      "formats": "curated app icon gallery · category, style and colour filters · saves and collections",
+      "topics": [
+        "icons",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The first 30 icons on each category are free to browse; Pro is $4.99 per month or $39 per year at review. Pro covers browsing and saving the library. No reuse licence for the icons is stated, and the icons are other companies' marks, so they are references to study rather than assets to ship",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "icon-museum",
+        "iconography-encyclopedia",
+        "icons-download",
+        "icon-foundry"
       ]
     },
     {
@@ -8634,6 +8957,32 @@
         "kitbitz",
         "craftwork",
         "mascofast"
+      ]
+    },
+    {
+      "slug": "ikonik",
+      "path": "sites/ikonik.md",
+      "title": "Ikonik",
+      "description": "50,000+ icons gathered from 44 open-source packs, with a built-in SVG editor and copy as SVG or JSX; each pack keeps its own free licence.",
+      "url": "https://ikonik.modulify.ai",
+      "type": "icon-library",
+      "formats": "icon browser · per-pack browsing · SVG editor with size, stroke and colour · copy SVG or React JSX · Figma plugin",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free at review, with no account. Every pack is presented as free for personal and commercial work, but each icon keeps its source project's licence, and those differ per pack, so the pack page is what to read before shipping",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "iconify",
+        "free-icon-resources",
+        "lucide",
+        "icons0"
       ]
     },
     {
@@ -8914,6 +9263,35 @@
         "ui-skills",
         "design-lab",
         "designer-skills"
+      ]
+    },
+    {
+      "slug": "interfaces",
+      "path": "sites/interfaces.md",
+      "title": "Interfaces",
+      "description": "Design-engineering magazine whose issues pair writing on type, motion and colour with interactive demos, source code and agent skills.",
+      "url": "https://interfaces.dev",
+      "type": "documentation",
+      "formats": "monthly magazine issues · interactive demos · source code · copyable Markdown · agent skills",
+      "topics": [
+        "typography-and-styles",
+        "motion",
+        "ux-patterns"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "skill",
+        "prompts"
+      ],
+      "pricing": "paid",
+      "licence": "Subscription, with the price not shown on the public page at review. Reading the archive, the resources library, the agent skills and the private community all sit behind it. The site's own design and text are proprietary; code in the demos is published for readers to copy",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "vercel-web-design-guidelines",
+        "figma"
       ]
     },
     {
@@ -9266,6 +9644,30 @@
         "refero-styles",
         "component-gallery",
         "vibeprompts"
+      ]
+    },
+    {
+      "slug": "kando",
+      "path": "sites/kando.md",
+      "title": "Kando",
+      "description": "Cross-platform pie menu whose page argues for radial selection, gesture memory and a dedicated menu per application.",
+      "url": "https://kando.menu",
+      "type": "website",
+      "formats": "radial menu app · gesture recognition · nested menus · per-application menus · themes, icon sets and sound themes",
+      "topics": [
+        "navigation",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free and described as open source without a licence named on the page at review; the source is on GitHub and development is supported through donations",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "menubarx",
+        "hiddenbar"
       ]
     },
     {
@@ -9854,6 +10256,32 @@
       ]
     },
     {
+      "slug": "launchvideos-gallery",
+      "path": "sites/launchvideos-gallery.md",
+      "title": "Launch Videos Gallery",
+      "description": "Daily feed of product launch videos posted on X, tagged by category and sorted by recency, with view counts showing which motion style travels.",
+      "url": "https://launchvideos.gallery",
+      "type": "gallery",
+      "formats": "curated launch video feed · category tags · view and engagement counts · email digest",
+      "topics": [
+        "motion",
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, with an optional email digest. The clips are other people's posts on X and stay under their creators' rights; the gallery states no licence for the videos or its own catalogue",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "promo-ai-videos",
+        "awwwards",
+        "landing-gallery"
+      ]
+    },
+    {
       "slug": "laws-of-ux",
       "path": "sites/laws-of-ux.md",
       "title": "Laws of UX",
@@ -10344,6 +10772,31 @@
         "the-brand-identity",
         "designspiration",
         "typographic-posters"
+      ]
+    },
+    {
+      "slug": "logotouse",
+      "path": "sites/logotouse.md",
+      "title": "Logo To Use",
+      "description": "Library of premium brand logos in coloured, black and white versions as SVG, PNG and editable Figma, with a commercial licence on the paid tier.",
+      "url": "https://logotouse.com",
+      "type": "asset-library",
+      "formats": "logo library · coloured, black and white variants · SVG, PNG and Figma · bulk ZIP · Webflow app · Figma and Sketch files",
+      "topics": [
+        "assets",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to browse; Pro from $5 per month at review unlocks downloads, bulk ZIP, SVG and Figma files and a commercial licence. The marks themselves are other companies' trademarks, so a commercial licence from the site cannot grant trademark rights",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "3dicons",
+        "fontinlogo",
+        "figma"
       ]
     },
     {
@@ -11055,6 +11508,30 @@
       ]
     },
     {
+      "slug": "menubarx",
+      "path": "sites/menubarx.md",
+      "title": "MenubarX",
+      "description": "Mac app that turns the menu bar into a small browser, with per-site user agents, pinned panels and a detachable window.",
+      "url": "https://menubarx.app",
+      "type": "website",
+      "formats": "macOS menu bar browser · web app and PWA support · user-agent switching · pinned and detachable panels",
+      "topics": [
+        "landing-pages",
+        "navigation"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free download with a Pro purchase; prices were not on the page read at review. The app is proprietary, and the page carries its own privacy policy and terms",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "hiddenbar",
+        "oneswitch"
+      ]
+    },
+    {
       "slug": "meraki-ui",
       "path": "sites/meraki-ui.md",
       "title": "Meraki UI",
@@ -11404,6 +11881,35 @@
       "related": [
         "ishadeed",
         "every-layout"
+      ]
+    },
+    {
+      "slug": "modulify",
+      "path": "sites/modulify.md",
+      "title": "Modulify",
+      "description": "Prompt-to-website builder that ships a Postgres database, CMS, forms, analytics and hosting together, with an llms.txt that maps the whole product.",
+      "url": "https://modulify.ai",
+      "type": "ai-builder",
+      "formats": "AI website and web app builder · cloneable templates · domain registration · docs and llms.txt",
+      "topics": [
+        "ai-interfaces",
+        "landing-pages",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Credit-based subscriptions. Free is $0 with 35 one-time credits, Starter $20 and Pro $40 per month billed yearly at review, and a Scale plan is quoted. Paid credits reset each cycle; bought top-ups roll over. The pricing page says creators keep ownership of the sites they make. The service itself is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "v0",
+        "made-in-webflow",
+        "best-website-templates",
+        "figma"
       ]
     },
     {
@@ -12225,6 +12731,30 @@
       ]
     },
     {
+      "slug": "notesnook",
+      "path": "sites/notesnook.md",
+      "title": "Notesnook",
+      "description": "Note app page that argues privacy by building fake note cards, a publish dialog and a clipper, each labelled with its encrypted state.",
+      "url": "https://notesnook.com",
+      "type": "website",
+      "formats": "product site · simulated note and notebook cards · publish flow · web clipper · open-source repository table",
+      "topics": [
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to use, with clients published under GPLv3 at review; paid plans exist but their prices were not on the page read. The repository table lists stars for the apps, the sync server and the importer",
+      "licence_class": "open-source-copyleft",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "sleeve",
+        "fantastical"
+      ]
+    },
+    {
       "slug": "nous-portal",
       "path": "sites/nous-portal.md",
       "title": "Nous Portal",
@@ -12634,6 +13164,30 @@
         "muzli",
         "mobbin",
         "awwwards"
+      ]
+    },
+    {
+      "slug": "oneswitch",
+      "path": "sites/oneswitch.md",
+      "title": "One Switch",
+      "description": "Mac utility that puts hide-desktop, dark mode, keep-awake, screen saver and AirPods toggles on one panel, sold with a lifetime licence.",
+      "url": "https://fireball.studio/oneswitch",
+      "type": "website",
+      "formats": "macOS utility · toggle panel · dark and light appearances · seven-day trial · lifetime licence",
+      "topics": [
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Seven-day free trial, then a paid licence that includes free updates and is described as lifetime; the price was not on the page read at review. The app is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "hazeover",
+        "sleeve"
       ]
     },
     {
@@ -13157,6 +13711,30 @@
         "liquid-glass",
         "reactbits",
         "book-of-shaders"
+      ]
+    },
+    {
+      "slug": "paperanimation",
+      "path": "sites/paperanimation.md",
+      "title": "Paper Animation",
+      "description": "Browser tool that turns one image or word into paper-fold and newspaper-clipping motion clips, exported as MP4 or GIF with a green screen.",
+      "url": "https://paperanimation.ai",
+      "type": "tool",
+      "formats": "paper-style animation generator · four styles · 10+ frames per generation · MP4, GIF and green-screen export",
+      "topics": [
+        "motion",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free tier with a watermark; Creator at $9 per month or a $39 one-off Founder's Lifetime at review, for unlimited unwatermarked exports. The service is proprietary and the output is generated for the buyer, with no licence text for the generated files found on the page",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "promo-ai-videos",
+        "morphicons"
       ]
     },
     {
@@ -13737,6 +14315,31 @@
       ]
     },
     {
+      "slug": "prezi",
+      "path": "sites/prezi.md",
+      "title": "Prezi",
+      "description": "Presentation tool whose page is organised around the room rather than the slides, with a QR join, live polls and a per-question results panel.",
+      "url": "https://prezi.com",
+      "type": "tool",
+      "formats": "presentation platform · slide import from PowerPoint, Slides, Canva and PDF · live polls, quizzes, Q&A and word clouds · share link after the session",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to start with no card at review; paid tiers exist but their prices were not on the pages read. The platform is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "saas-landing-page",
+        "landing-gallery",
+        "cta-gallery"
+      ]
+    },
+    {
       "slug": "primer",
       "path": "sites/primer.md",
       "title": "Primer",
@@ -14129,6 +14732,33 @@
         "gltf-report",
         "canvas-ui",
         "reactbits"
+      ]
+    },
+    {
+      "slug": "reactbits-pro",
+      "path": "sites/reactbits-pro.md",
+      "title": "React Bits Pro",
+      "description": "Paid library of animated React work — 230 components, 300 page blocks and 300 app-UI blocks — with a counted, category-by-category inventory.",
+      "url": "https://pro.reactbits.dev",
+      "type": "component-library",
+      "formats": "230 animated components · 300 page blocks · 300 app UI blocks · 15 templates · agent kit",
+      "topics": [
+        "components",
+        "ai-interfaces"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "prompts"
+      ],
+      "pricing": "paid",
+      "licence": "One-time payment for lifetime access and updates, with the price shown at checkout rather than on the page read. The free React Bits set is separate and openly licensed; Pro assets are proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "reactbits",
+        "magic-ui",
+        "uiverse"
       ]
     },
     {
@@ -15265,6 +15895,33 @@
       ]
     },
     {
+      "slug": "sent",
+      "path": "sites/sent.md",
+      "title": "Sent",
+      "description": "Developer-tool landing page for one SMS, WhatsApp and RCS API, with a cost estimator and a per-country rate sheet instead of plan cards.",
+      "url": "https://www.sent.dm",
+      "type": "website",
+      "formats": "marketing site · interactive cost estimator · 232-destination rate sheet · API reference and npm SDK",
+      "topics": [
+        "landing-pages",
+        "documentation"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "api"
+      ],
+      "pricing": "paid",
+      "licence": "Pay as you go at $0.0150 per contacted person per month, plus carrier fees passed through at cost, so a thousand US messages came to an estimated $19.70 at review. Enterprise agreements with a monthly minimum exist. The site and service are proprietary; the `@sentdm/sentdm` client on npm is published for use with the service",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "saas-landing-page",
+        "landing-gallery",
+        "v0"
+      ]
+    },
+    {
       "slug": "sephiro",
       "path": "sites/sephiro.md",
       "title": "Sephiro",
@@ -15823,6 +16480,31 @@
       ]
     },
     {
+      "slug": "showit",
+      "path": "sites/showit.md",
+      "title": "Showit",
+      "description": "Drag-and-drop builder sold with a testimonial wall, a checklist of layout actions and a WordPress blog bolted on for designers.",
+      "url": "https://showit.com",
+      "type": "tool",
+      "formats": "drag-and-drop website builder · free and premium templates · WordPress blog plans · hosted",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Website only $22, with a basic blog $27, with an advanced blog $39 per month billed annually, or $27, $34 and $49 monthly, at review. Fourteen-day free trial, no card. The platform is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "squarespace",
+        "tilda",
+        "wedoflow"
+      ]
+    },
+    {
       "slug": "siddz",
       "path": "sites/siddz.md",
       "title": "Siddz",
@@ -16045,6 +16727,55 @@
       ]
     },
     {
+      "slug": "sleeve",
+      "path": "sites/sleeve.md",
+      "title": "Sleeve",
+      "description": "Desktop music accessory for Mac that exposes artwork, type, layout and backdrop as separate customisable layers, with shareable themes.",
+      "url": "https://replay.software/sleeve",
+      "type": "website",
+      "formats": "macOS desktop widget · theme files · artwork, typography, layout and settings controls · keyboard shortcut HUD",
+      "topics": [
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Paid once on the Mac App Store with no subscriptions and no in-app purchases at review; the price is set by the store listing. Requires macOS 26 Tahoe. The app is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "oneswitch",
+        "fantastical"
+      ]
+    },
+    {
+      "slug": "slidebean",
+      "path": "sites/slidebean.md",
+      "title": "Slidebean",
+      "description": "Pitch-deck tool whose page splits an AI builder from a human design agency, with a checkmark proof list and a review-widget rating block.",
+      "url": "https://slidebean.com",
+      "type": "tool",
+      "formats": "AI pitch deck builder · deck templates · financial modelling service · design agency",
+      "topics": [
+        "landing-pages",
+        "cta"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Software plus agency services; prices for either were not on the pages read at review. The platform and the templates are proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "saas-landing-page",
+        "best-website-templates",
+        "landing-gallery"
+      ]
+    },
+    {
       "slug": "smooth-ui",
       "path": "sites/smooth-ui.md",
       "title": "Smooth UI",
@@ -16223,6 +16954,30 @@
       ]
     },
     {
+      "slug": "spacedrive",
+      "path": "sites/spacedrive.md",
+      "title": "Spacedrive",
+      "description": "File app page whose hero is a device dashboard, with one card per machine and cloud, each showing connection state, storage bar and folder chips.",
+      "url": "https://spacedrive.com",
+      "type": "website",
+      "formats": "product site · device and storage dashboard preview · totals panel · downloadable app for desktop and mobile",
+      "topics": [
+        "landing-pages",
+        "data-viz"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Bought once with no account, subscription or telemetry, per the page at review; the price was not shown. The app is proprietary, with a separate open-source project described in the founder note",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "warp",
+        "yaak"
+      ]
+    },
+    {
       "slug": "spectrum-ui",
       "path": "sites/spectrum-ui.md",
       "title": "Spectrum UI",
@@ -16392,6 +17147,31 @@
         "spotify-design-history",
         "vucko",
         "motion-zajno"
+      ]
+    },
+    {
+      "slug": "squarespace",
+      "path": "sites/squarespace.md",
+      "title": "Squarespace",
+      "description": "Website builder whose marketing page is a case study in repeated card grids and role-based labels on every section.",
+      "url": "https://www.squarespace.com",
+      "type": "tool",
+      "formats": "hosted website builder · templates · AI site generation · commerce and booking tools",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Fourteen-day trial with no card; plans shown from $99 per month for Advanced billed annually at review, with card processing at 2.5% + $0.30 and 120 AI credits a month on that tier. The platform is proprietary; the site you build and its content stay yours under the terms",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "tilda",
+        "showit",
+        "super"
       ]
     },
     {
@@ -16752,6 +17532,33 @@
         "appinspo",
         "appshot-gallery",
         "ui-patterns"
+      ]
+    },
+    {
+      "slug": "super",
+      "path": "sites/super.md",
+      "title": "Super",
+      "description": "Turns a Notion page into a website, sold on a themed layer — custom fonts, icons, illustrations and components over a plain document.",
+      "url": "https://super.so",
+      "type": "tool",
+      "formats": "Notion-to-website hosting · themes · components and icon sets · memberships · MCP server",
+      "topics": [
+        "landing-pages",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Free site on a super.site subdomain with the badge; Personal $16 and Pro $28 per month at review, with custom work from $50 plus fees. Pro adds manual publishing, advanced search, file uploads and multi-language. The platform is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "tilda",
+        "squarespace",
+        "figma"
       ]
     },
     {
@@ -17364,6 +18171,31 @@
       ]
     },
     {
+      "slug": "tilda",
+      "path": "sites/tilda.md",
+      "title": "Tilda",
+      "description": "Website builder built on a library of 550+ pre-designed blocks, with a free canvas editor and typography handled block by block.",
+      "url": "https://tilda.cc",
+      "type": "tool",
+      "formats": "block-based website builder · 550+ pre-designed blocks · Zero Block canvas editor · AI page generation · code export on Business",
+      "topics": [
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free plan for one site with the key blocks; Personal at $10 and Business at $20 per month billed annually, or $15 and $25 monthly, at review. Business adds five sites and code export. The platform is proprietary; sites you build are yours to publish",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "squarespace",
+        "showit",
+        "bricks"
+      ]
+    },
+    {
       "slug": "tokokino",
       "path": "sites/tokokino.md",
       "title": "Tokokino",
@@ -17600,6 +18432,31 @@
         "shadcn-ui",
         "kibo-ui",
         "carbon-design-system"
+      ]
+    },
+    {
+      "slug": "tripo",
+      "path": "sites/tripo.md",
+      "title": "Tripo",
+      "description": "Text and image to 3D model generator sold in credits, with a per-model price stated on each plan and 8K textures on the top tiers.",
+      "url": "https://www.tripo3d.ai",
+      "type": "tool",
+      "formats": "text and image to 3D · retopology · smart segmentation · 8K textures · DCC bridge",
+      "topics": [
+        "3d-and-shaders",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free plan with 200 monthly credits and public, non-commercial models; Pro at $20 and Max at $90 per month, Team at $55 per seat, plus credit packs, at review. Pro and above allow private models and commercial use. The service is proprietary and the output licence terms are not summarised on the pricing page",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "3dicons",
+        "sketchfab",
+        "spline"
       ]
     },
     {
@@ -18960,6 +19817,31 @@
       ]
     },
     {
+      "slug": "visme",
+      "path": "sites/visme.md",
+      "title": "Visme",
+      "description": "Design tool whose page is a row of eight output types, each with its own preview and one call to action, above named case studies.",
+      "url": "https://visme.co",
+      "type": "tool",
+      "formats": "presentations, docs, infographics and data visualisations · whiteboards · forms and surveys · video · AI generation",
+      "topics": [
+        "data-viz",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free tier to try, with paid plans not priced on the pages read at review. The platform and its templates are proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "dataviz-project",
+        "saas-landing-page",
+        "figma"
+      ]
+    },
+    {
       "slug": "visualize",
       "path": "sites/visualize.md",
       "title": "visualize (display.dev)",
@@ -19097,6 +19979,31 @@
         "layers",
         "minimal-gallery",
         "dark-mode-design"
+      ]
+    },
+    {
+      "slug": "warp",
+      "path": "sites/warp.md",
+      "title": "Warp",
+      "description": "Developer site built as a terminal, with bracketed nav keys, numbered figure captions and a YAML file annotated in the margin.",
+      "url": "https://www.warp.dev",
+      "type": "website",
+      "formats": "product site · annotated config-as-code sample · live task grid · terminal download and early access",
+      "topics": [
+        "landing-pages",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free terminal download with early access requested for the cloud product; plan prices were not on the page read at review. The platform is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "spacedrive",
+        "yaak",
+        "vercel-web-design-guidelines"
       ]
     },
     {
@@ -19291,6 +20198,31 @@
       ]
     },
     {
+      "slug": "wedoflow",
+      "path": "sites/wedoflow.md",
+      "title": "Wedoflow",
+      "description": "Marketplace of 216 Webflow templates at $39 to $169 each, sold through an all-access pass, with category labels on every preview.",
+      "url": "https://www.wedoflow.com",
+      "type": "template-library",
+      "formats": "Webflow template marketplace · 216 templates at review · all-access pass · per-template purchase",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Per-template prices from $39 to $169 at review, or an all-access pass promoted at 95% off on a countdown banner. Purchase grants use under the template's own Webflow licence, which is not published on the site. No terms page or reuse licence for the catalogue was found",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "wonderlist",
+        "made-in-webflow",
+        "best-website-templates"
+      ]
+    },
+    {
       "slug": "what-ships",
       "path": "sites/what-ships.md",
       "title": "What Ships",
@@ -19352,6 +20284,32 @@
       ]
     },
     {
+      "slug": "wonderlist",
+      "path": "sites/wonderlist.md",
+      "title": "Wonderlist",
+      "description": "127 paid website designs in three fixed-price packages, sold as Figma files with 1,137 pages across SaaS, agency, portfolio and industry briefs.",
+      "url": "https://wonderlist.design",
+      "type": "template-library",
+      "formats": "paid Figma website designs · 1,137 page designs · single-payment packages · font pack",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "One-time purchase. Lite $329, Pro $599 and Business $999 at review, with a 50% code on a countdown banner. Lite and Pro are single-user; Business adds three seats and monthly new designs. The site says its images and fonts are MIT licensed and free for any project, while the designs themselves are sold under a per-purchase user licence with no terms page found",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "best-website-templates",
+        "made-in-webflow",
+        "best-website-gallery",
+        "figma"
+      ]
+    },
+    {
       "slug": "wwwtf",
       "path": "sites/wwwtf.md",
       "title": "wwwtf.site",
@@ -19401,6 +20359,33 @@
         "snapzy",
         "tokokino",
         "ui-camera"
+      ]
+    },
+    {
+      "slug": "yaak",
+      "path": "sites/yaak.md",
+      "title": "Yaak",
+      "description": "API client page with a light and dark toggle in the hero preview, numbered capability lines and a versioned changelog used as proof.",
+      "url": "https://yaak.app",
+      "type": "website",
+      "formats": "product site · light and dark preview toggle · capability list · dated changelog · team pricing",
+      "topics": [
+        "landing-pages",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "cli"
+      ],
+      "pricing": "freemium",
+      "licence": "Free desktop app with per-seat team licences managed through an organisation, prices on a separate pricing page at review. The source is published as MIT-licensed; the hosted team features are proprietary, so licences differ by what you take",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "warp",
+        "spacedrive"
       ]
     },
     {

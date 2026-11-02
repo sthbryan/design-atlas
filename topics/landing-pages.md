@@ -45,6 +45,8 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Best Website Gallery](../sites/best-website-gallery.md) — One curator's 2,640 noteworthy sites since 2008, tagged by colour, features and shipped libraries; updated irregularly.
 - [BestWebsiteTemplate.com](../sites/best-website-templates.md) — Free template directory with filters, looping homepage previews and separate design and development scores; Aries is a detailed Webflow example.
 - [BlueCanvas](../sites/bluecanvas.md) — Seoul digital studio showing live motion experiments, interactive web craft and selected client projects alongside its service work.
+- [Boring Notch](../sites/boringnotch.md) — Free Mac app that turns the MacBook notch into a hover panel for music, calendar, battery and a drag-and-drop file shelf.
+- [Bricks](../sites/bricks.md) — WordPress visual builder whose pitch is the design system underneath the canvas — classes, variables, palettes and theme styles, with breakpoints on the canvas.
 - [Cardinal](../sites/cardinal.md) — Revenue-AI landing page with a warm graph-paper grid, hand-drawn annotations and small illustrated metric cards.
 - [Charm](../sites/charm.md) — Purple, playful developer-tools homepage that turns a family of terminal UI libraries into a cohesive visual brand.
 - [Compresto](../sites/compresto.md) — A media-compression product page with clear before-and-after demos and measured output changes for each format.
@@ -65,6 +67,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Droppy (getdroppy.app)](../sites/getdroppy.md) — Mac utility landing page with a vivid blue hero, animated product films and a modular gallery of notch interactions.
 - [Easy UI](../sites/easy-ui.md) — Free Next.js templates and about 20 shadcn-installable components; MIT but thinly maintained, with template demos offline at review.
 - [Eldora UI](../sites/eldora-ui.md) — MIT animated landing-page components, text effects, device mockups and blocks, installed via the @eldoraui shadcn namespace, with llms.txt.
+- [Fantastical](../sites/fantastical.md) — Calendar app whose page stacks natural-language input, calendar sets and platform bands under press quotes from named reviewers.
 - [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
 - [Flit](../sites/flit.md) — A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.
 - [Float UI](../sites/float-ui.md) — About 200 free Tailwind sections in HTML, React, Vue and Svelte; custom no-redistribution licence despite the open-source label.
@@ -83,8 +86,11 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
 - [Google Pixel design story](../sites/google-pixel-design-story.md) — A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 11 range.
 - [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
+- [Handy](../sites/handy.md) — Open-source speech-to-text app that pastes what you say into the focused field, sold on privacy and a single push-to-talk shortcut.
+- [HazeOver](../sites/hazeover.md) — Mac utility that dims every window except the active one, with intensity and animation speed as the two design controls.
 - [HEX Swipe File](../sites/hex-swipe-file.md) — Agency-maintained reference wall of brand, web, motion and product work, filterable by tag and presented in varied image sizes.
 - [Heydays](../sites/heydays.md) — Historical Oslo studio portfolio with a warm editorial home page and archived branding cases.
+- [Hidden Bar](../sites/hiddenbar.md) — Free MIT-licensed Mac app that hides menu bar icons behind an arrow, with ⌘-drag sorting and a second always-hidden zone.
 - [Higgsfield](../sites/higgsfield.md) — A dark, media-led creative-suite landing page with chartreuse controls, cinematic previews and a compact product navigation.
 - [HyperUI](../sites/hyperui.md) — Free MIT copy-paste Tailwind v4 snippets (about 540 with dark variants) for apps, marketing and a neobrutalism set, plus small tools.
 - [Ichiban Motorcycle](../sites/ichiban-bike.md) — A single-site visual reference for restrained product storytelling with oversized color, a centered object and tightly ordered labels.
@@ -101,6 +107,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Landing.Gallery](../sites/landing-gallery.md) — A landing page library with filters for page type, site builder and framework, plus desktop, mobile and OG image previews.
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section galleries with an MCP that returns screenshots, categories and source links to coding agents.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
+- [Launch Videos Gallery](../sites/launchvideos-gallery.md) — Daily feed of product launch videos posted on X, tagged by category and sorted by recency, with view counts showing which motion style travels.
 - [Lexington Motion — Atelier Reels](../sites/lexington-motion-atelier.md) — A paid Remotion template collection for fashion reels, with named motion concepts and a live catalogue for comparing visual treatments.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
 - [Locomotive](../sites/locomotive.md) — Montreal studio portfolio pairing an audiovisual hero with a filterable work archive and detailed project pages.
@@ -110,13 +117,17 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Made in Webflow](../sites/made-in-webflow.md) — A searchable showcase of community websites, with category filters, live previews and an explicit cloneable-sites option.
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Marathon](../sites/marathonthegame.md) — Bungie's game launch site pairs cinematic footage with acid-lime typography and a dense, game-like navigation rail.
+- [MenubarX](../sites/menubarx.md) — Mac app that turns the menu bar into a small browser, with per-site user agents, pinned panels and a detachable window.
 - [Meraki UI](../sites/meraki-ui.md) — Free MIT Tailwind snippets (about 228) with left-to-right and right-to-left versions and dark mode; Alpine.js for interactive parts.
 - [Minimalny](../sites/minimalny.md) — A minimal web design archive with category filters, search and compact records for each featured designer or studio.
+- [Modulify](../sites/modulify.md) — Prompt-to-website builder that ships a Postgres database, CMS, forms, analytics and hosting together, with an llms.txt that maps the whole product.
 - [Motion (motionin.design)](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
 - [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [Ninna UI](../sites/ninna-ui.md) — MIT React library on npm with CSS-only oklch theme presets, Radix internals, 92 free blocks and a strong llms.txt import map.
+- [Notesnook](../sites/notesnook.md) — Note app page that argues privacy by building fake note cards, a publish dialog and a clipper, each labelled with its encrypted state.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
+- [One Switch](../sites/oneswitch.md) — Mac utility that puts hide-desktop, dark mode, keep-awake, screen saver and AirPods toggles on one panel, sold with a lifetime licence.
 - [Ossium](../sites/ossium.md) — Dark developer platform with a centered discovery hero, feature previews and a dashboard route for finding open-source contribution work.
 - [Oversight Supply](../sites/oversight-supply.md) — Paid library of Webflow and Framer templates plus standalone creative sections, with previews and prompt-based project handoff.
 - [Overtone](../sites/overtone.md) — Aarhus design studio site pairing a large pale gradient headline with a compact floating navigation and image-led project pages.
@@ -125,6 +136,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Playdead](../sites/playdead.md) — Game studio site with a spare dark layout, narrow uppercase typography and cinematic LIMBO and INSIDE project pages.
 - [Poetic](../sites/poetic.md) — Enterprise AI landing page with oversized type, proof metrics, a product walkthrough and a recovery example for evolving workflows.
 - [Preline UI](../sites/preline.md) — Tailwind components with headless JS plugins under MIT plus Fair Use terms; agent skills, block prompts, paid hosted MCP.
+- [Prezi](../sites/prezi.md) — Presentation tool whose page is organised around the room rather than the slides, with a QR join, live polls and a per-question results panel.
 - [PsudoKit](../sites/psudokit.md) — Dark portfolio with a restrained monospace system, thin orbital lines and a split profile and activity layout.
 - [Railway](../sites/railway.md) — A cloud platform with a polished illustrated homepage and a focused no-signup VM campaign page.
 - [Raine Architects](../sites/raine-architects.md) — An architecture studio site with a full-width 3D project viewer and a restrained editorial frame.
@@ -140,17 +152,24 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
 - [Sections.wtf](../sites/sections-wtf.md) — Short recordings of individual website sections, filterable by 22 block types with source-site and same-site links.
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
+- [Sent](../sites/sent.md) — Developer-tool landing page for one SMS, WhatsApp and RCS API, with a cost estimator and a per-country rate sheet instead of plan cards.
 - [Sera UI](../sites/sera-ui.md) — About 90 MIT animated React and Tailwind components via shadcn registry URLs; now owned by Pimjo, repo quiet since February 2026.
 - [Sevalla](../sites/sevalla.md) — Cloud hosting landing page that explains apps, databases, storage and static sites through product previews, location data and MCP workflows.
 - [Shadcn Studio](../sites/shadcn-studio.md) — ThemeSelection's shadcn suite: blocks, templates, theme generator, Figma kit and an MCP; strict site licence.
 - [shadcnblocks](../sites/shadcnblocks.md) — 2,000+ paid shadcn marketing and app blocks in Radix, Base UI and React Aria builds, via CLI or MCP.
 - [Shochiku Games](../sites/shochiku-games.md) — Japanese publisher site pairing a green-framed game carousel with a categorized catalog and image-led title pages.
+- [Showit](../sites/showit.md) — Drag-and-drop builder sold with a testimonial wall, a checklist of layout actions and a WordPress blog bolted on for designers.
 - [Siddz](../sites/siddz.md) — Minimal portfolio with a faint graph-paper grid, compact uppercase labels and paired project previews.
 - [SiteThis](../sites/sitethis.md) — A visual archive of websites with category and style browsing, full-page previews and palette notes.
 - [SkySend](../sites/skysend.md) — Minimal encrypted file-sharing landing page that explains its security model through a centered hero, terminal install example and concise proof points.
+- [Sleeve](../sites/sleeve.md) — Desktop music accessory for Mac that exposes artwork, type, layout and backdrop as separate customisable layers, with shareable themes.
+- [Slidebean](../sites/slidebean.md) — Pitch-deck tool whose page splits an AI builder from a human design agency, with a checkmark proof list and a review-widget rating block.
 - [Snapzy](../sites/snapzy.md) — A macOS capture app whose landing page shows annotation, background presets and recording workflows in context.
+- [Spacedrive](../sites/spacedrive.md) — File app page whose hero is a device dashboard, with one card per machine and cloud, each showing connection state, storage bar and folder chips.
 - [Spectrum UI](../sites/spectrum-ui.md) — Free Apache-2.0 animated shadcn components and blocks, strong on AI-assistant, chart and empty-state blocks, with an MCP server.
+- [Squarespace](../sites/squarespace.md) — Website builder whose marketing page is a case study in repeated card grids and role-based labels on every section.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
+- [Super](../sites/super.md) — Turns a Notion page into a website, sold on a themed layer — custom fonts, icons, illustrations and components over a plain document.
 - [Supermassive Games](../sites/supermassive-games.md) — Game studio site built around cinematic title art, with a poster catalogue and dedicated pages for its narrative games.
 - [Synaptrix Labs](../sites/synaptrix-labs.md) — Neural-interface research site with neural signal artwork, a centered serif headline and a four-part platform carousel.
 - [Syntax UI (stale)](../sites/syntax-ui.md) — MIT copy-paste Tailwind and Framer Motion buttons, loaders, blocks and effects; mostly dormant, with some docs pages erroring at review.
@@ -158,6 +177,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [TailGrids](../sites/tailgrids.md) — React and Tailwind library with blocks, Figma system, CLI, MCP server, llms.txt and a design.md; MIT core, paid Pro blocks.
 - [TakayuStudio](../sites/takayu-studio.md) — Game UI designer's studio site connecting a motion portfolio, game UI references, browser tools and a structured course path.
 - [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
+- [Tilda](../sites/tilda.md) — Website builder built on a library of 550+ pre-designed blocks, with a free canvas editor and typography handled block by block.
 - [Toukana Interactive](../sites/toukana-interactive.md) — Indie studio site with a split game carousel, numbered project stories and colorful game art framing clear platform links.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
 - [UI Coach](../sites/ui-coach.md) — Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.
@@ -172,14 +192,19 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Vengeance UI](../sites/vengeance-ui.md) — MIT animated hover, text and scroll effects plus landing blocks for Next.js, installed with shadcn from a GitHub-hosted registry.
 - [Venust Backgrounds](../sites/venust-backgrounds.md) — CC0 AI hero backgrounds sorted by page slot, each with its prompt; llms.txt and Markdown for agents.
 - [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
+- [Visme](../sites/visme.md) — Design tool whose page is a row of eight output types, each with its own preview and one call to action, above named case studies.
 - [VividSites](../sites/vividsites.md) — A prompt library of cinematic website examples, with filters, free previews, source videos and an MCP search route.
 - [Vucko](../sites/vucko.md) — A motion identity studio portfolio with vivid brand case studies and a modular, clock-and-project rail.
+- [Warp](../sites/warp.md) — Developer site built as a terminal, with bracketed nav keys, numbered figure captions and a YAML file annotated in the margin.
 - [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
 - [Wavelength](../sites/wavelength.md) — A customer-success SaaS landing page with bright route graphics framing a working account dashboard.
 - [Web Design Clip](../sites/web-design-clip.md) — A Japanese website gallery with separate Japan, world, landing-page and smartphone collections plus color, layout, category and technology filters.
 - [Websites on Display](../sites/on-display.md) — A searchable web design archive with filters for style, type, typeface, color, technology and performance.
 - [Websitevice](../sites/websitevice.md) — A website inspiration directory organized by industry and site purpose, with short notes on why each example is notable.
+- [Wedoflow](../sites/wedoflow.md) — Marketplace of 216 Webflow templates at $39 to $169 each, sold through an all-access pass, with category labels on every preview.
+- [Wonderlist](../sites/wonderlist.md) — 127 paid website designs in three fixed-price packages, sold as Figma files with 1,137 pages across SaaS, agency, portfolio and industry briefs.
 - [Xnapper](../sites/xnapper.md) — A screenshot app whose homepage demonstrates framing, backgrounds, ratios and redaction in its own editor UI.
+- [Yaak](../sites/yaak.md) — API client page with a light and dark toggle in the hero preview, numbered capability lines and a versioned changelog used as proof.
 - [Yalqen](../sites/yalqen.md) — A macOS developer-browser site with sky-blue editorial type and interactive demonstrations of its keyboard-first interface.
 <!-- atlas:sources:end -->
 

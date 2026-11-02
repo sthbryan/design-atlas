@@ -36,6 +36,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Base CN](../sites/base-cn.md) — Community port of the shadcn/ui components to Base UI, installed through a namespaced registry.
 - [Base UI](../sites/base-ui.md) — Unstyled, accessible React primitives from the Radix, Floating UI and MUI teams, now shadcn's default.
 - [Bearnie](../sites/bearnie.md) — MIT shadcn-style registry for Astro: about 60 accessible components copied in by CLI or MCP server, no framework runtime, llms-full.txt.
+- [BestAIBuilder](../sites/bestaibuilder.md) — Ranked index of 101 AI website builders scored on craft, speed, control and value, with a radar comparison and a publisher disclosure on every entry.
 - [Blender](../sites/blender.md) — Free GPL 3D suite for making and baking web assets, with glTF export and an official MCP server.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
 - [Boxicons](../sites/boxicons.md) — Rounded UI icons with a free core, paid Pro packs and weights, framework packages, a CLI and a SKILL.md for coding agents.

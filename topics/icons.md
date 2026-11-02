@@ -37,12 +37,15 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
 - [Icon Foundry](../sites/icon-foundry.md) — Free search across about 49k icons from open sets plus logos; check each source's licence.
 - [Icon Museum](../sites/icon-museum.md) — A hand-picked archive of 245 crafted iOS app icons with copyable palettes, designer credits and redesign history.
+- [Icônes](../sites/icones.md) — Instant offline-search icon explorer over Iconify's sets, with an icon-font packer, SVG download and copy-ready usage snippets.
 - [Iconify](../sites/iconify.md) — One naming scheme, API and toolchain over 200+ open icon sets and about 300k+ icons.
+- [Iconly](../sites/iconly.md) — Inspiration library of 2,400+ app, game and web app icons, searchable by category, style and colour, with 30 free and the rest behind a subscription.
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
 - [Icons.download](../sites/icons-download.md) — 275 hand-drawn UI icons in 16 styles (weight, fill, corner), free SVG and Figma.
 - [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
 - [Iconsax](../sites/iconsax.md) — Vuesax's six-style icon library with 40k+ icons, a free no-auth MCP server, a web component and a Pro sync CLI.
 - [Icoon](../sites/icoon.md) — About 1,500 AI-generated 3D icons, characters and shapes as PNGs, one-time $29, revocable licence.
+- [Ikonik](../sites/ikonik.md) — 50,000+ icons gathered from 44 open-source packs, with a built-in SVG editor and copy as SVG or JSX; each pack keeps its own free licence.
 - [Ionicons](../sites/ionicons.md) — Ionic's MIT icon set: about 1,357 SVGs in filled, outline and sharp variants, served by a lazy-loading ion-icon web component.
 - [Lucide](../sites/lucide.md) — Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.
 - [Lucide Animated](../sites/lucide-animated.md) — 467 hover-animated Lucide icons with shadcn registry, llms.txt, skill.md and a hosted MCP endpoint.

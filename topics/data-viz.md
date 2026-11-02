@@ -35,10 +35,12 @@ Chart components, dashboard building blocks and small data displays (spark chart
 - [Nex UI](../sites/nex-ui.md) — About 100 shadcn-style React and Tailwind components including 23 charts; MIT claimed without a LICENSE file and the CLI registry is empty.
 - [nivo](../sites/nivo.md) — React chart components built on D3, with a gallery that shows about thirty chart types, each documented and themable.
 - [Pele](../sites/pele.md) — Renders Mermaid diagrams to SVG synchronously, themed through CSS variables, with no runtime dependencies.
+- [Spacedrive](../sites/spacedrive.md) — File app page whose hero is a device dashboard, with one card per machine and cloud, each showing connection state, storage bar and folder chips.
 - [Spherium](../sites/spherium.md) — A WebGL globe editor for styling world maps as dot fields and exporting the result as SVG.
 - [Synaptrix Labs](../sites/synaptrix-labs.md) — Neural-interface research site with neural signal artwork, a centered serif headline and a four-part platform carousel.
 - [The Pudding](../sites/the-pudding.md) — Visual essays that turn data and reported stories into distinctive, interactive editorial experiences.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
+- [Visme](../sites/visme.md) — Design tool whose page is a row of eight output types, each with its own preview and one call to action, above named case studies.
 - [Wavelength](../sites/wavelength.md) — A customer-success SaaS landing page with bright route graphics framing a working account dashboard.
 <!-- atlas:sources:end -->
 

@@ -83,6 +83,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [The Book of Shaders](../sites/book-of-shaders.md) — Classic step-by-step guide to fragment shaders with editable live examples; learning only, all rights reserved.
 - [Theatre.js (stale)](../sites/theatrejs.md) — In-browser keyframe editor for THREE.js and R3F scenes; Apache core, AGPL studio, stalled since 2024.
 - [Three.js](../sites/threejs.md) — The default MIT WebGL/WebGPU library: 607 examples, an editor, TSL, and an llms.txt with rules for code generators.
+- [Tripo](../sites/tripo.md) — Text and image to 3D model generator sold in credits, with a per-model price stated on each plan and 8K textures on the top tiers.
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.
 - [Unicorn Studio](../sites/unicorn-studio.md) — A visual shader editor with a gallery of animated, interactive graphics that can be embedded on websites.
 - [Unseen Studio](../sites/unseen.md) — Studio portfolio with a pastel 3D world, expressive serif and sans typography, and a filtered project grid.

@@ -43,6 +43,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [DesignBookmark](../sites/design-bookmark.md) — Directory of about 2,500 design, dev and AI tools in 59 categories, with a page per tool, clear sponsor labels and an llms.txt with counts.
 - [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
 - [DesignEng](../sites/designeng-tools.md) — About 200 design-engineering links by category (component kits, icons, tools, agent skills, inspiration, people) with pricing filters and saves.
+- [Devault ASCII](../sites/devault-ascii.md) — Browser generator that redraws an image or video as ASCII, braille, halftone dots or dither, with CRT-style finishing controls and a hold-to-compare toggle.
 - [Devicon](../sites/devicon.md) — MIT set of language and dev-tool logos as SVG and a font, made for tech-stack rows.
 - [Dither Garden](../sites/dither-garden.md) — Browser dithering studio with classic diffusion, ordered and noise-based patterns, plus text export.
 - [Dither Me This](../sites/doodad-dither-me-this.md) — Browser image dithering tool with retro palette presets and controls for diffusion, ordered and random patterns.
@@ -69,12 +70,14 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [HTTP Cats](../sites/http-cats.md) — An image per HTTP status code plus JSON with MDN's description; MIT code, photographs with no separate licence.
 - [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
 - [Icon Foundry](../sites/icon-foundry.md) — Free search across about 49k icons from open sets plus logos; check each source's licence.
+- [Icônes](../sites/icones.md) — Instant offline-search icon explorer over Iconify's sets, with an icon-font packer, SVG download and copy-ready usage snippets.
 - [Iconify](../sites/iconify.md) — One naming scheme, API and toolchain over 200+ open icon sets and about 300k+ icons.
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
 - [Icons.download](../sites/icons-download.md) — 275 hand-drawn UI icons in 16 styles (weight, fill, corner), free SVG and Figma.
 - [icons0](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
 - [Iconsax](../sites/iconsax.md) — Vuesax's six-style icon library with 40k+ icons, a free no-auth MCP server, a web component and a Pro sync CLI.
 - [Icoon](../sites/icoon.md) — About 1,500 AI-generated 3D icons, characters and shapes as PNGs, one-time $29, revocable licence.
+- [Ikonik](../sites/ikonik.md) — 50,000+ icons gathered from 44 open-source packs, with a built-in SVG editor and copy as SVG or JSX; each pack keeps its own free licence.
 - [Imageory](../sites/imageory.md) — Small personal gallery of 125 AI-generated backgrounds and textures, each with its full prompt ready to copy; no licence stated.
 - [Inkword](../sites/inkword.md) — Turns one word into a small editable SVG editorial drawing in six fixed styles; private beta.
 - [Insposite](../sites/insposite.md) — Hand-picked list of 70 inspiration sites, designer portfolios and tools for design engineers, with its data file public on GitHub.
@@ -86,6 +89,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Light Rails](../sites/light-rails.md) — Interactive editor for shaping animated light patterns with geometry, colour and timing controls, then exporting the result.
 - [Linden Hill](../sites/linden-hill.md) — Serif font specimen with Regular and Italic switching, a detailed glyph map and visual examples of OpenType features.
 - [Liten UI](../sites/liten-ui.md) — Dark, depth-focused React component library with 46 documented examples, live previews and copyable implementation notes.
+- [Logo To Use](../sites/logotouse.md) — Library of premium brand logos in coloured, black and white versions as SVG, PNG and editable Figma, with a commercial licence on the paid tier.
 - [Lottie](../sites/lottiefiles.md) — Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.
 - [Lottielab](../sites/lottielab.md) — Lottie editor for product teams, from Figma or After Effects imports to one animation file that ships to iOS, Android and web.
 - [Lucide](../sites/lucide.md) — Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.
@@ -107,6 +111,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Open Foundry](../sites/open-foundry.md) — A long-running curated catalogue of open source typefaces, with a specimen per face and the licence stated on the font page.
 - [Opensource UI](../sites/opensource-ui.md) — MIT React and Tailwind catalogue of about 190 copy-paste pieces, including device mockups and widgets, with llms.txt and an agent skill.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
+- [Paper Animation](../sites/paperanimation.md) — Browser tool that turns one image or word into paper-fold and newspaper-clipping motion clips, exported as MP4 or GIF with a green screen.
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.
 - [Playgrnd](../sites/playgrnd.md) — 52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.
 - [Plomb Type](../sites/plomb-type.md) — Lyon type foundry with expressive specimen pages, live text controls, extensive glyph maps and real identity examples.
@@ -137,6 +142,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Too Much Type](../sites/too-much-type.md) — Experimental type foundry and specimen lab with interactive variable fonts, browser controls and downloadable font projects.
 - [TOOOLS.design](../sites/toools.md) — A category-indexed directory that points designers to curated galleries, inspiration libraries, icon sets and other design resources.
 - [Tooooools](../sites/tooooools.md) — Free lo-fi effects for photos and video: dithering, stippling, halftone, CRT, ASCII, with SVG export.
+- [Tripo](../sites/tripo.md) — Text and image to 3D model generator sold in credits, with a per-model price stated on each plan and 8K textures on the top tiers.
 - [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.

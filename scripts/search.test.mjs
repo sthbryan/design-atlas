@@ -26,7 +26,7 @@ const CASES = [
   { query: 'ui sound effects', top: ['soundcn'], anyOf: ['uisfx', 'web-kits-audio', 'cuelume'] },
   { query: '404 page ideas', first: '404s' },
   { query: 'footer inspiration', first: 'footer-design' },
-  { query: 'animated number counter', top: ['number-flow', 'rolling-number'], within: 4 },
+  { query: 'animated number counter', top: ['number-flow', 'rolling-number'], within: 5 },
   { query: 'accessibility audit skill', first: 'accesslint-skills' },
   { query: 'easing curves', top: ['easing-wizard', 'epic-easing'], within: 2 },
   { query: 'react three fiber helpers', top: ['drei', 'react-three-fiber'] },

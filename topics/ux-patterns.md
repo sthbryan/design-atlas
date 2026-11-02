@@ -63,8 +63,10 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Impeccable](../sites/impeccable.md) — Apache-2.0 design skill with 24 commands, a deterministic slop detector for CI, and PRODUCT.md/DESIGN.md context.
 - [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
 - [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
+- [Interfaces](../sites/interfaces.md) — Design-engineering magazine whose issues pair writing on type, motion and colour with interactive demos, source code and agent skills.
 - [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
 - [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
+- [Kando](../sites/kando.md) — Cross-platform pie menu whose page argues for radial selection, gesture memory and a dedicated menu per application.
 - [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
 - [Layers](../sites/layers.md) — Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.
 - [Luma Events](../sites/luma-events.md) — Event platform with a Spanish-language landing page built around floating invitation cards, a centered headline and a clear create-event path.
@@ -72,6 +74,8 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motion Design Principles by Zajno](../sites/motion-zajno.md) — An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.
 - [NameThatUI](../sites/name-that-ui.md) — A visual dictionary of UI elements that turns a bad description into the right name, the API symbol and an agent prompt.
+- [Notesnook](../sites/notesnook.md) — Note app page that argues privacy by building fake note cards, a publish dialog and a clipper, each labelled with its encrypted state.
+- [One Switch](../sites/oneswitch.md) — Mac utility that puts hide-desktop, dark mode, keep-awake, screen saver and AirPods toggles on one panel, sold with a lifetime licence.
 - [Ossium](../sites/ossium.md) — Dark developer platform with a centered discovery hero, feature previews and a dashboard route for finding open-source contribution work.
 - [Oversight Supply](../sites/oversight-supply.md) — Paid library of Webflow and Framer templates plus standalone creative sections, with previews and prompt-based project handoff.
 - [Page Flows](../sites/page-flows.md) — Recorded web and app journeys with annotated steps, screen references and UI examples.

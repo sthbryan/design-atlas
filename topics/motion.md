@@ -109,6 +109,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Hover States](../sites/hover-states.md) — An archive of about 1,775 experimental sites since 2012, each with a short note on its interaction and credits.
 - [Huashu Design](../sites/huashu-design.md) — Chinese-language HTML skill for prototypes, decks and MP4 animations; always shows three drafts first.
 - [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
+- [Interfaces](../sites/interfaces.md) — Design-engineering magazine whose issues pair writing on type, motion and colour with interactive demos, source code and agent skills.
 - [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
 - [Internet Artifacts](../sites/internet-artifacts-neal-fun.md) — Neal.fun's interactive timeline of early internet objects, built as a playful illustrated archive.
 - [Jitter](../sites/jitter.md) — Browser motion design editor with animation presets, Lottie and video export, and AI features for variations and bulk edits.
@@ -116,6 +117,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Kinetics](../sites/kinetics.md) — 153 spring-physics interaction effects in CSS, React and prompt form, with a live parameter editor.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
 - [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
+- [Launch Videos Gallery](../sites/launchvideos-gallery.md) — Daily feed of product launch videos posted on X, tagged by category and sorted by recency, with view counts showing which motion style travels.
 - [Lexington Motion — Atelier Reels](../sites/lexington-motion-atelier.md) — A paid Remotion template collection for fashion reels, with named motion concepts and a live catalogue for comparing visual treatments.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
 - [Light Rails](../sites/light-rails.md) — Interactive editor for shaping animated light patterns with geometry, colour and timing controls, then exporting the result.
@@ -169,6 +171,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Overtone](../sites/overtone.md) — Aarhus design studio site pairing a large pale gradient headline with a compact floating navigation and image-led project pages.
 - [PaceUI](../sites/paceui.md) — React components, animated crafts, page blocks and app templates with live previews and a shadcn-compatible registry.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
+- [Paper Animation](../sites/paperanimation.md) — Browser tool that turns one image or word into paper-fold and newspaper-clipping motion clips, exported as MP4 or GIF with a green screen.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
 - [Patatap](../sites/patatap.md) — A keyboard-driven sound and shape toy where each letter triggers a brief animated mark against a quiet canvas.
 - [Pepsi visual identity 2023](../sites/pepsi-visual-identity-2023.md) — A 2023 Pepsi identity announcement pairs a bold wordmark and electric blue pulse with can, fleet and digital applications.

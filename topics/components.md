@@ -53,6 +53,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [BentoGrids](../sites/bentogrids.md) — A visual catalogue of tile based layouts with category and theme filters and links to the live sites behind each example.
 - [beUI](../sites/beui.md) — MIT motion components, agent UI and charts with llms.txt, JSON API, agent skill and hosted MCP; paid Pro adds blocks and templates.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
+- [Bricks](../sites/bricks.md) — WordPress visual builder whose pitch is the design system underneath the canvas — classes, variables, palettes and theme styles, with breakpoints on the canvas.
 - [Canvas UI](../sites/canvas-ui.md) — 35 GPU effects over live, clickable HTML in WebGL or WebGPU, for six frameworks through a shadcn registry.
 - [Canvas UI Qwen Demo](../sites/canvas-ui-qwen-demo.md) — An interactive Canvas UI showcase that previews shader effects over live HTML and keeps its controls and install snippets beside each example.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
@@ -98,6 +99,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
 - [GAIA UI](../sites/gaia-ui.md) — MIT, shadcn-compatible React components for AI assistants, with documented registry installation and a focused agent-app visual language.
 - [Gauge UI](../sites/gauge-ui.md) — Composable SVG gauge primitives for React, where arcs, zones, ticks and needles assemble from one shared context.
+- [Genially](../sites/genially.md) — Interactive content tool whose template gallery is a taxonomy lesson, organised by output type, audience and named game format.
 - [glass-lens-react](../sites/glass-lens-react.md) — A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
@@ -144,6 +146,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [microcharts](../sites/microcharts.md) — MIT React charts sized for sentences, tables and KPI cards, with a catalog and seven live example apps.
 - [MicroKit](../sites/microkit.md) — 49 React microinteractions with polished transitions, ready to copy and adapt.
 - [Modern CSS Solutions](../sites/modern-css.md) — Practical CSS references with rendered examples for responsive layouts, components, typography and interaction states.
+- [Modulify](../sites/modulify.md) — Prompt-to-website builder that ships a Postgres database, CMS, forms, analytics and hosting together, with an llms.txt that maps the whole product.
 - [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
 - [Motion](../sites/motion-dev.md) — Former Framer Motion for React, JS and Vue: MIT core, free docs MCP and skill, paid Motion+ extras.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
@@ -179,6 +182,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Ratnesh Chipre](../sites/ratnesh-chipre.md) — A restrained design engineer portfolio with a small shadcn-compatible component registry and interactive demos.
 - [Re UI](../sites/re-ui.md) — KeenThemes' shadcn registry with data grid, Gantt and calendar primitives, paid blocks and an MCP server.
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
+- [React Bits Pro](../sites/reactbits-pro.md) — Paid library of animated React work — 230 components, 300 page blocks and 300 app-UI blocks — with a counted, category-by-category inventory.
 - [React Three Fiber](../sites/react-three-fiber.md) — MIT React renderer that writes three.js scenes as JSX, with performance guides, llms-full.txt and a docs MCP.
 - [Remix Icon](../sites/remix-icon.md) — About 3,230 line-and-fill system icons with an official MCP server, under a custom free licence since January 2026.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.

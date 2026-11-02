@@ -51,11 +51,13 @@ How sites document components, design systems and style — for human readers an
 - [Primer](../sites/primer.md) — GitHub's design system, with tokens, primitives, component docs, UI patterns and an MCP server for agents.
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.
 - [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
+- [Sent](../sites/sent.md) — Developer-tool landing page for one SMS, WhatsApp and RCS API, with a cost estimator and a per-country rate sheet instead of plan cards.
 - [Shadcn Labs](../sites/shadcn-labs.md) — Index of the independent Shadcn Labs registries: termcn, pdfcn, emailcn, ogimagecn, shadercn and more.
 - [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
 - [startercn](../sites/startercn.md) — MIT Next.js template for publishing your own shadcn registry, with Fumadocs docs, llms.txt and skill discovery.
 - [Stop Slop](../sites/stop-slop.md) — Small prose skill listing AI phrases and sentence shapes to cut, with a 50-point score.
+- [Super](../sites/super.md) — Turns a Notion page into a website, sold on a themed layer — custom fonts, icons, illustrations and components over a plain document.
 - [The Book of Shaders](../sites/book-of-shaders.md) — Classic step-by-step guide to fragment shaders with editable live examples; learning only, all rights reserved.
 - [The Component Gallery](../sites/component-gallery.md) — Reference that compares how 95 design systems name, structure and document the same 60 components.
 - [The Iconography Encyclopedia](../sites/iconography-encyclopedia.md) — An alphabetical field guide to icon design terms, from alignment and anatomy to stroke weight and wayfinding.
@@ -63,6 +65,8 @@ How sites document components, design systems and style — for human readers an
 - [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
 - [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
+- [Warp](../sites/warp.md) — Developer site built as a terminal, with bracketed nav keys, numbered figure captions and a YAML file annotated in the margin.
+- [Yaak](../sites/yaak.md) — API client page with a light and dark toggle in the hero preview, numbered capability lines and a versioned changelog used as proof.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

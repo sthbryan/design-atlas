@@ -19,7 +19,9 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 <!-- atlas:sources:start -->
 - [Droppy Code](../sites/droppy-code.md) — A native Mac coding-agent app presented through detailed interface walkthroughs and a Liquid Glass visual system.
 - [Hover States](../sites/hover-states.md) — An archive of about 1,775 experimental sites since 2012, each with a short note on its interaction and credits.
+- [Kando](../sites/kando.md) — Cross-platform pie menu whose page argues for radial selection, gesture memory and a dedicated menu per application.
 - [Kidus Yohannes](../sites/kidus-yohannes.md) — A dark portfolio that pairs a star-speckled introduction with a horizontal, section-by-section career journey.
+- [MenubarX](../sites/menubarx.md) — Mac app that turns the menu bar into a small browser, with per-site user agents, pinned panels and a detachable window.
 - [Navbar Design](../sites/navbar-design.md) — 29 hand-picked navbars sorted by 7 types and 9 styles, each with a screenshot, a short note and a link to the live site.
 - [Navbar Gallery](../sites/navbar-gallery.md) — Real examples of every major navbar pattern (sticky, mega menu, sidebar, tabs and more), plus a blog on when to use each.
 - [POP IS YOU SAKAE](../sites/pop-is-you-sakae.md) — A Nagoya event microsite that links pop-culture listings to a calendar and a filterable map of Sakae venues.

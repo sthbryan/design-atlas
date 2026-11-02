@@ -27,6 +27,7 @@ Calls-to-action — buttons, forms, modals and the copy around them that's meant
 - [Loader Buttons](../sites/loader-buttons.md) — 25 experimental loading-state buttons in WebGL, SVG, Canvas and CSS; no licence published.
 - [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
 - [Sections.wtf](../sites/sections-wtf.md) — Short recordings of individual website sections, filterable by 22 block types with source-site and same-site links.
+- [Slidebean](../sites/slidebean.md) — Pitch-deck tool whose page splits an AI builder from a human design agency, with a checkmark proof list and a review-widget rating block.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
 - [VibePrompts](../sites/vibeprompts.md) — Library of prompts organised by page section (pricing, hero, forms) to paste into any AI assistant.
 - [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.

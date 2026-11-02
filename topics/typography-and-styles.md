@@ -46,6 +46,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Case Study Club](../sites/case-study-club.md) — A weekly design publication with a restrained, print-like layout for long-form notes, portfolios and design links.
 - [Chloé Maillot](../sites/chloe-maillot.md) — A quiet design-engineer portfolio combining short editorial notes, a small component catalogue and a handmade image grid.
 - [Chornobyl Exclusion Zone — Banda](../sites/chornobyl-exclusion-zone.md) — Banda's Ukrainian government identity turns the reactor silhouette into a yearly changing mark that gradually disappears by 2064.
+- [Chronicle](../sites/chronicle.md) — AI deck builder on a freeform canvas, sold on brand rules and designer-made templates rather than on generating slides from nothing.
 - [CIRKA®](../sites/cirka.md) — Singapore creative portfolio pairing extreme condensed display type and compact project metadata with a cream canvas and full case studies.
 - [Coca-Cola Visual System](../sites/coca-cola-visual-system.md) — Coca-Cola’s 2026 identity announcement and embedded film show how its signature assets extend across packaging, retail and digital work.
 - [Color.review](../sites/color-review.md) — WCAG 2.1 contrast checker with pass/fail lines on the picker and shareable pair links.
@@ -84,6 +85,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Figma](../sites/figma.md) — The default design canvas, with Dev Mode, Code Connect and a remote MCP server that reads designs and writes back to the canvas.
 - [FlyonUI](../sites/flyonui.md) — Semantic Tailwind classes plus bundled Preline JS plugins; MIT with Preline Fair Use terms inherited, paid Pro blocks and MCP builder.
 - [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
+- [Font In Logo](../sites/fontinlogo.md) — Searchable database of the typefaces behind famous brand, film and game logos, with verified, based-on, modified and community labels.
 - [Fonts In Use](../sites/fonts-in-use.md) — Archive of real typography across web, print, identity and packaging, searchable by typeface, format, topic and visual tag.
 - [Fontshare](../sites/fontshare.md) — 100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.
 - [Fontsource](../sites/fontsource.md) — 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.
@@ -104,6 +106,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Inspiration Grid](../sites/inspiration-grid.md) — Daily art, illustration, branding and typography magazine since 2011; broad moodboard fuel, little interface content.
 - [Inspora](../sites/inspora.md) — Small, fresh archive of recent design work tagged by industry, color and style.
 - [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
+- [Interfaces](../sites/interfaces.md) — Design-engineering magazine whose issues pair writing on type, motion and colour with interactive demos, source code and agent skills.
 - [iPhone](../sites/iphone.md) — Apple’s current iPhone lineup page shows product storytelling through large photography, spacious type, horizontal navigation and feature cards.
 - [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
 - [Japan Web Design Gallery](../sites/japan-web-design.md) — An English-language gallery of Japanese websites with visual mood filters and short editorial commentary on individual picks.
@@ -166,6 +169,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Site of Sites](../sites/site-of-sites.md) — Wix gallery of about 600 sites with a pure-blue serif display on white, 16:9 screenshot tiles and four crossable tag axes.
 - [Siteinspire](../sites/siteinspire.md) — A curated website gallery with filters for visual style, site type, subject and platform, plus screenshots and links to the live work.
 - [SiteThis](../sites/sitethis.md) — A visual archive of websites with category and style browsing, full-page previews and palette notes.
+- [Sleeve](../sites/sleeve.md) — Desktop music accessory for Mac that exposes artwork, type, layout and backdrop as separate customisable layers, with shareable themes.
 - [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
 - [SNASK](../sites/snask.md) — Stockholm creative agency portfolio with a dramatic video hero, oversized rounded type and a stream of image-led case pages.
 - [Spell UI](../sites/spell-ui.md) — Small, refined MIT set strong on text reveal animations, playful buttons and light-ray backgrounds.
@@ -176,6 +180,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Studio Yukiko](../sites/studio-yukiko.md) — Berlin studio portfolio pairing a condensed display face with a varied project grid, category filters and editorial case studies.
 - [Taste Skill](../sites/taste-skill.md) — Thirteen anti-slop skills with exact bans, three design dials and a strict pre-flight checklist for landing pages.
 - [The Brand Identity](../sites/the-brand-identity.md) — Editorial case studies of identity systems across typography, packaging, digital work and motion, with searchable visual tags.
+- [Tilda](../sites/tilda.md) — Website builder built on a library of 550+ pre-designed blocks, with a free canvas editor and typography handled block by block.
 - [Too Much Type](../sites/too-much-type.md) — Experimental type foundry and specimen lab with interactive variable fonts, browser controls and downloadable font projects.
 - [Tooooools](../sites/tooooools.md) — Free lo-fi effects for photos and video: dithering, stippling, halftone, CRT, ASCII, with SVG export.
 - [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.
