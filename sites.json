@@ -6592,6 +6592,32 @@
       ]
     },
     {
+      "slug": "fontinlogo",
+      "path": "sites/fontinlogo.md",
+      "title": "Font In Logo",
+      "description": "Searchable database of the typefaces behind famous brand, film and game logos, with verified, based-on, modified and community labels.",
+      "url": "https://www.fontinlogo.com",
+      "type": "directory",
+      "formats": "logo font database · search · community submissions · logo text generator",
+      "topics": [
+        "typography-and-styles",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse and free to join at review, with a claimed 30,000+ users. No licence for the identification data or the site's text is stated. Named typefaces belong to their foundries and the logos to their owners, and the Webflow templates promoted in the listings are paid products",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "fonts-in-use",
+        "typewolf",
+        "typeface-fyi",
+        "best-free-fonts"
+      ]
+    },
+    {
       "slug": "fonts-in-use",
       "path": "sites/fonts-in-use.md",
       "title": "Fonts In Use",
