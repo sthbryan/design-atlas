@@ -9021,6 +9021,35 @@
       ]
     },
     {
+      "slug": "interfaces",
+      "path": "sites/interfaces.md",
+      "title": "Interfaces",
+      "description": "Design-engineering magazine whose issues pair writing on type, motion and colour with interactive demos, source code and agent skills.",
+      "url": "https://interfaces.dev",
+      "type": "documentation",
+      "formats": "monthly magazine issues · interactive demos · source code · copyable Markdown · agent skills",
+      "topics": [
+        "typography-and-styles",
+        "motion",
+        "ux-patterns"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "skill",
+        "prompts"
+      ],
+      "pricing": "paid",
+      "licence": "Subscription, with the price not shown on the public page at review. Reading the archive, the resources library, the agent skills and the private community all sit behind it. The site's own design and text are proprietary; code in the demos is published for readers to copy",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "vercel-web-design-guidelines",
+        "figma"
+      ]
+    },
+    {
       "slug": "interior-dev",
       "path": "sites/interior-dev.md",
       "title": "interior.dev",

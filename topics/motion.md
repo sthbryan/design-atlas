@@ -109,6 +109,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Hover States](../sites/hover-states.md) — An archive of about 1,775 experimental sites since 2012, each with a short note on its interaction and credits.
 - [Huashu Design](../sites/huashu-design.md) — Chinese-language HTML skill for prototypes, decks and MP4 animations; always shows three drafts first.
 - [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
+- [Interfaces](../sites/interfaces.md) — Design-engineering magazine whose issues pair writing on type, motion and colour with interactive demos, source code and agent skills.
 - [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
 - [Internet Artifacts](../sites/internet-artifacts-neal-fun.md) — Neal.fun's interactive timeline of early internet objects, built as a playful illustrated archive.
 - [Jitter](../sites/jitter.md) — Browser motion design editor with animation presets, Lottie and video export, and AI features for variations and bulk edits.

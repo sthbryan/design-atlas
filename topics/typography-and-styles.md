@@ -105,6 +105,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Inspiration Grid](../sites/inspiration-grid.md) — Daily art, illustration, branding and typography magazine since 2011; broad moodboard fuel, little interface content.
 - [Inspora](../sites/inspora.md) — Small, fresh archive of recent design work tagged by industry, color and style.
 - [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
+- [Interfaces](../sites/interfaces.md) — Design-engineering magazine whose issues pair writing on type, motion and colour with interactive demos, source code and agent skills.
 - [iPhone](../sites/iphone.md) — Apple’s current iPhone lineup page shows product storytelling through large photography, spacious type, horizontal navigation and feature cards.
 - [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
 - [Japan Web Design Gallery](../sites/japan-web-design.md) — An English-language gallery of Japanese websites with visual mood filters and short editorial commentary on individual picks.
