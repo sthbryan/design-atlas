@@ -18408,6 +18408,31 @@
       ]
     },
     {
+      "slug": "tripo",
+      "path": "sites/tripo.md",
+      "title": "Tripo",
+      "description": "Text and image to 3D model generator sold in credits, with a per-model price stated on each plan and 8K textures on the top tiers.",
+      "url": "https://www.tripo3d.ai",
+      "type": "tool",
+      "formats": "text and image to 3D · retopology · smart segmentation · 8K textures · DCC bridge",
+      "topics": [
+        "3d-and-shaders",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free plan with 200 monthly credits and public, non-commercial models; Pro at $20 and Max at $90 per month, Team at $55 per seat, plus credit packs, at review. Pro and above allow private models and commercial use. The service is proprietary and the output licence terms are not summarised on the pricing page",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "3dicons",
+        "sketchfab",
+        "spline"
+      ]
+    },
+    {
       "slug": "typeface-fyi",
       "path": "sites/typeface-fyi.md",
       "title": "Typeface.fyi",

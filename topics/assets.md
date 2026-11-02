@@ -142,6 +142,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Too Much Type](../sites/too-much-type.md) — Experimental type foundry and specimen lab with interactive variable fonts, browser controls and downloadable font projects.
 - [TOOOLS.design](../sites/toools.md) — A category-indexed directory that points designers to curated galleries, inspiration libraries, icon sets and other design resources.
 - [Tooooools](../sites/tooooools.md) — Free lo-fi effects for photos and video: dithering, stippling, halftone, CRT, ASCII, with SVG export.
+- [Tripo](../sites/tripo.md) — Text and image to 3D model generator sold in credits, with a per-model price stated on each plan and 8K textures on the top tiers.
 - [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
