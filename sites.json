@@ -2805,6 +2805,30 @@
       ]
     },
     {
+      "slug": "boringnotch",
+      "path": "sites/boringnotch.md",
+      "title": "Boring Notch",
+      "description": "Free Mac app that turns the MacBook notch into a hover panel for music, calendar, battery and a drag-and-drop file shelf.",
+      "url": "https://boringnotch.com",
+      "type": "website",
+      "formats": "macOS menu-bar utility · notch hover panel · file shelf · HUD replacement",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to download. The page says free and open source without naming a licence, so check the repository before reusing code. The app is not signed with an Apple developer certificate, and the install note tells people to allow it manually",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "hiddenbar",
+        "hazeover"
+      ]
+    },
+    {
       "slug": "bounshy",
       "path": "sites/bounshy.md",
       "title": "Bounshy",
@@ -6331,6 +6355,30 @@
       ]
     },
     {
+      "slug": "fantastical",
+      "path": "sites/fantastical.md",
+      "title": "Fantastical",
+      "description": "Calendar app whose page stacks natural-language input, calendar sets and platform bands under press quotes from named reviewers.",
+      "url": "https://flexibits.com/fantastical",
+      "type": "website",
+      "formats": "calendar and tasks app · natural language input · calendar sets · macOS, iOS, iPadOS, watchOS and visionOS",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to start with a Premium tier; the subscription price was not on the page read at review. The app is proprietary and sold on the Mac App Store and direct",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "oneswitch",
+        "sleeve"
+      ]
+    },
+    {
       "slug": "feather",
       "path": "sites/feather.md",
       "title": "Feather",
@@ -7872,6 +7920,30 @@
       ]
     },
     {
+      "slug": "handy",
+      "path": "sites/handy.md",
+      "title": "Handy",
+      "description": "Open-source speech-to-text app that pastes what you say into the focused field, sold on privacy and a single push-to-talk shortcut.",
+      "url": "https://handy.computer",
+      "type": "website",
+      "formats": "desktop app · push-to-talk or toggle recording · local transcription · video walkthrough with transcript",
+      "topics": [
+        "landing-pages",
+        "ai-interfaces"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to download and described as open source, without a licence named on the page at review. Transcription runs locally. Sponsored by named companies and funded through GitHub sponsors",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "boringnotch",
+        "oneswitch"
+      ]
+    },
+    {
       "slug": "harshit-raghuwanshi",
       "path": "sites/harshit-raghuwanshi.md",
       "title": "Harshit Raghuwanshi",
@@ -7894,6 +7966,30 @@
       "related": [
         "anzal-abidi",
         "firefly-builds"
+      ]
+    },
+    {
+      "slug": "hazeover",
+      "path": "sites/hazeover.md",
+      "title": "HazeOver",
+      "description": "Mac utility that dims every window except the active one, with intensity and animation speed as the two design controls.",
+      "url": "https://hazeover.com",
+      "type": "website",
+      "formats": "macOS utility · dimming intensity · animation speed · per-appearance settings · Shortcuts and AppleScript",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Free trial, also sold through Setapp, with a licence price not stated on the page read at review. The app is proprietary and requires macOS Ventura 13 or later",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "boringnotch",
+        "oneswitch"
       ]
     },
     {
@@ -8089,6 +8185,30 @@
       "related": [
         "designme-agency",
         "hover-states"
+      ]
+    },
+    {
+      "slug": "hiddenbar",
+      "path": "sites/hiddenbar.md",
+      "title": "Hidden Bar",
+      "description": "Free MIT-licensed Mac app that hides menu bar icons behind an arrow, with ⌘-drag sorting and a second always-hidden zone.",
+      "url": "https://hiddenbar.app",
+      "type": "website",
+      "formats": "macOS menu-bar utility · separator arrow · command-drag sorting · auto-collapse timer · Homebrew cask",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free, MIT licensed, notarized by Apple, with no account, paywall or ads at review. The source is on GitHub. Downloads also run through a Homebrew cask or the Mac App Store",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "menubarx",
+        "boringnotch"
       ]
     },
     {
@@ -11314,6 +11434,30 @@
       ]
     },
     {
+      "slug": "menubarx",
+      "path": "sites/menubarx.md",
+      "title": "MenubarX",
+      "description": "Mac app that turns the menu bar into a small browser, with per-site user agents, pinned panels and a detachable window.",
+      "url": "https://menubarx.app",
+      "type": "website",
+      "formats": "macOS menu bar browser · web app and PWA support · user-agent switching · pinned and detachable panels",
+      "topics": [
+        "landing-pages",
+        "navigation"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free download with a Pro purchase; prices were not on the page read at review. The app is proprietary, and the page carries its own privacy policy and terms",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "hiddenbar",
+        "oneswitch"
+      ]
+    },
+    {
       "slug": "meraki-ui",
       "path": "sites/meraki-ui.md",
       "title": "Meraki UI",
@@ -12922,6 +13066,30 @@
         "muzli",
         "mobbin",
         "awwwards"
+      ]
+    },
+    {
+      "slug": "oneswitch",
+      "path": "sites/oneswitch.md",
+      "title": "One Switch",
+      "description": "Mac utility that puts hide-desktop, dark mode, keep-awake, screen saver and AirPods toggles on one panel, sold with a lifetime licence.",
+      "url": "https://fireball.studio/oneswitch",
+      "type": "website",
+      "formats": "macOS utility · toggle panel · dark and light appearances · seven-day trial · lifetime licence",
+      "topics": [
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Seven-day free trial, then a paid licence that includes free updates and is described as lifetime; the price was not on the page read at review. The app is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "hazeover",
+        "sleeve"
       ]
     },
     {
@@ -16431,6 +16599,30 @@
         "sevalla",
         "railway",
         "best-saas-web-designs"
+      ]
+    },
+    {
+      "slug": "sleeve",
+      "path": "sites/sleeve.md",
+      "title": "Sleeve",
+      "description": "Desktop music accessory for Mac that exposes artwork, type, layout and backdrop as separate customisable layers, with shareable themes.",
+      "url": "https://replay.software/sleeve",
+      "type": "website",
+      "formats": "macOS desktop widget · theme files · artwork, typography, layout and settings controls · keyboard shortcut HUD",
+      "topics": [
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Paid once on the Mac App Store with no subscriptions and no in-app purchases at review; the price is set by the store listing. Requires macOS 26 Tahoe. The app is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "oneswitch",
+        "fantastical"
       ]
     },
     {
