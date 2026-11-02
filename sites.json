@@ -2579,6 +2579,31 @@
       ]
     },
     {
+      "slug": "bestaibuilder",
+      "path": "sites/bestaibuilder.md",
+      "title": "BestAIBuilder",
+      "description": "Ranked index of 101 AI website builders scored on craft, speed, control and value, with a radar comparison and a publisher disclosure on every entry.",
+      "url": "https://bestaibuilder.website",
+      "type": "directory",
+      "formats": "ranked index · per-axis scores · radar comparison · category filters and sorting · weekly refresh",
+      "topics": [
+        "ai-interfaces",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, no account. The index is published by Modulify AI, whose own builder ranks first, and it states that placement is not sold. No licence for the index text or the scores is stated",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "v0",
+        "modulify",
+        "wonderlist"
+      ]
+    },
+    {
       "slug": "bestdesignsonx",
       "path": "sites/bestdesignsonx.md",
       "title": "Best Designs on X",
@@ -2833,6 +2858,31 @@
         "hugeicons",
         "iconify",
         "simple-icons"
+      ]
+    },
+    {
+      "slug": "bricks",
+      "path": "sites/bricks.md",
+      "title": "Bricks",
+      "description": "WordPress visual builder whose pitch is the design system underneath the canvas — classes, variables, palettes and theme styles, with breakpoints on the canvas.",
+      "url": "https://bricksbuilder.io",
+      "type": "tool",
+      "formats": "visual builder theme for self-hosted WordPress · 149 elements · query loop, conditions and interactions · online playground",
+      "topics": [
+        "components",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Starter $79, Business $149 and Agency $249 per year at review, or $599 once for a lifetime licence, with a 60-day money-back guarantee. Licences may be used on client sites but not resold. The theme is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "made-in-webflow",
+        "best-website-templates",
+        "tilda"
       ]
     },
     {
@@ -16087,6 +16137,31 @@
       ]
     },
     {
+      "slug": "showit",
+      "path": "sites/showit.md",
+      "title": "Showit",
+      "description": "Drag-and-drop builder sold with a testimonial wall, a checklist of layout actions and a WordPress blog bolted on for designers.",
+      "url": "https://showit.com",
+      "type": "tool",
+      "formats": "drag-and-drop website builder · free and premium templates · WordPress blog plans · hosted",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Website only $22, with a basic blog $27, with an advanced blog $39 per month billed annually, or $27, $34 and $49 monthly, at review. Fourteen-day free trial, no card. The platform is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "squarespace",
+        "tilda",
+        "wedoflow"
+      ]
+    },
+    {
       "slug": "siddz",
       "path": "sites/siddz.md",
       "title": "Siddz",
@@ -16659,6 +16734,31 @@
       ]
     },
     {
+      "slug": "squarespace",
+      "path": "sites/squarespace.md",
+      "title": "Squarespace",
+      "description": "Website builder whose marketing page is a case study in repeated card grids, digit-reel counters and role-based labels on every section.",
+      "url": "https://www.squarespace.com",
+      "type": "tool",
+      "formats": "hosted website builder · templates · AI site generation · commerce and booking tools",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Fourteen-day trial with no card; plans shown from $99 per month for Advanced billed annually at review, with card processing at 2.5% + $0.30 and 120 AI credits a month on that tier. The platform is proprietary; the site you build and its content stay yours under the terms",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "tilda",
+        "showit",
+        "super"
+      ]
+    },
+    {
       "slug": "squig",
       "path": "sites/squig.md",
       "title": "squig",
@@ -17016,6 +17116,33 @@
         "appinspo",
         "appshot-gallery",
         "ui-patterns"
+      ]
+    },
+    {
+      "slug": "super",
+      "path": "sites/super.md",
+      "title": "Super",
+      "description": "Turns a Notion page into a website, sold on a themed layer — custom fonts, icons, illustrations and components over a plain document.",
+      "url": "https://super.so",
+      "type": "tool",
+      "formats": "Notion-to-website hosting · themes · components and icon sets · memberships · MCP server",
+      "topics": [
+        "landing-pages",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Free site on a super.site subdomain with the badge; Personal $16 and Pro $28 per month at review, with custom work from $50 plus fees. Pro adds manual publishing, advanced search, file uploads and multi-language. The platform is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "tilda",
+        "squarespace",
+        "figma"
       ]
     },
     {
@@ -17625,6 +17752,31 @@
         "book-of-shaders",
         "paper-shaders",
         "compute-toys"
+      ]
+    },
+    {
+      "slug": "tilda",
+      "path": "sites/tilda.md",
+      "title": "Tilda",
+      "description": "Website builder built on a library of 550+ pre-designed blocks, with a free canvas editor and typography handled block by block.",
+      "url": "https://tilda.cc",
+      "type": "tool",
+      "formats": "block-based website builder · 550+ pre-designed blocks · Zero Block canvas editor · AI page generation · code export on Business",
+      "topics": [
+        "landing-pages",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free plan for one site with the key blocks; Personal at $10 and Business at $20 per month billed annually, or $15 and $25 monthly, at review. Business adds five sites and code export. The platform is proprietary; sites you build are yours to publish",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "squarespace",
+        "showit",
+        "bricks"
       ]
     },
     {
