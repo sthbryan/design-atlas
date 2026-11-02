@@ -43,6 +43,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [DesignBookmark](../sites/design-bookmark.md) — Directory of about 2,500 design, dev and AI tools in 59 categories, with a page per tool, clear sponsor labels and an llms.txt with counts.
 - [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
 - [DesignEng](../sites/designeng-tools.md) — About 200 design-engineering links by category (component kits, icons, tools, agent skills, inspiration, people) with pricing filters and saves.
+- [Devault ASCII](../sites/devault-ascii.md) — Browser generator that redraws an image or video as ASCII, braille, halftone dots or dither, with CRT-style finishing controls and a hold-to-compare toggle.
 - [Devicon](../sites/devicon.md) — MIT set of language and dev-tool logos as SVG and a font, made for tech-stack rows.
 - [Dither Garden](../sites/dither-garden.md) — Browser dithering studio with classic diffusion, ordered and noise-based patterns, plus text export.
 - [Dither Me This](../sites/doodad-dither-me-this.md) — Browser image dithering tool with retro palette presets and controls for diffusion, ordered and random patterns.

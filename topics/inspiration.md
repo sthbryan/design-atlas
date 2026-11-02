@@ -124,6 +124,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Detail](../sites/detail.md) — A software-quality landing page built around a stark diagonal chart graphic and short product evidence.
 - [Detail (detail.design)](../sites/detail-design.md) — About 130 curated interface details (interaction, copy, accessibility, motion) with an installable agent skill for polish.
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
+- [Devault ASCII](../sites/devault-ascii.md) — Browser generator that redraws an image or video as ASCII, braille, halftone dots or dither, with CRT-style finishing controls and a hold-to-compare toggle.
 - [Dhruv Deora](../sites/dhruv-deora.md) — A playful portfolio pairing editorial typography and colorful project tiles with small pixel-art interactions.
 - [Dhruv Jaradi](../sites/dhruv-jaradi.md) — A portfolio framed by a dotted banner, hairline grid, hatched section breaks and small interactive profile details.
 - [DIA Studio](../sites/dia-studio.md) — A design studio archive with a dense monochrome work mosaic, compact filters and individual project overlays.

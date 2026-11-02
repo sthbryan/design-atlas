@@ -5305,6 +5305,31 @@
       ]
     },
     {
+      "slug": "devault-ascii",
+      "path": "sites/devault-ascii.md",
+      "title": "Devault ASCII",
+      "description": "Browser generator that redraws an image or video as ASCII, braille, halftone dots or dither, with CRT-style finishing controls and a hold-to-compare toggle.",
+      "url": "https://devault-ascii.pages.dev",
+      "type": "tool",
+      "formats": "image and video to ASCII · braille, halftone and dither modes · live finish controls · browser export",
+      "topics": [
+        "assets",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to use in the browser; exporting needs a free account and produces no watermark, per the page at review. No licence for the generated artwork is stated, and paid tiers were not visible",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "ascii-studio",
+        "ditherland",
+        "halftone-maker"
+      ]
+    },
+    {
       "slug": "devicon",
       "path": "sites/devicon.md",
       "title": "Devicon",
