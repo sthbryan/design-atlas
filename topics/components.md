@@ -182,6 +182,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Ratnesh Chipre](../sites/ratnesh-chipre.md) — A restrained design engineer portfolio with a small shadcn-compatible component registry and interactive demos.
 - [Re UI](../sites/re-ui.md) — KeenThemes' shadcn registry with data grid, Gantt and calendar primitives, paid blocks and an MCP server.
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
+- [React Bits Pro](../sites/reactbits-pro.md) — Paid library of animated React work — 230 components, 300 page blocks and 300 app-UI blocks — with a counted, category-by-category inventory.
 - [React Three Fiber](../sites/react-three-fiber.md) — MIT React renderer that writes three.js scenes as JSX, with performance guides, llms-full.txt and a docs MCP.
 - [Remix Icon](../sites/remix-icon.md) — About 3,230 line-and-fill system icons with an official MCP server, under a custom free licence since January 2026.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.

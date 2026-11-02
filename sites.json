@@ -14735,6 +14735,33 @@
       ]
     },
     {
+      "slug": "reactbits-pro",
+      "path": "sites/reactbits-pro.md",
+      "title": "React Bits Pro",
+      "description": "Paid library of animated React work — 230 components, 300 page blocks and 300 app-UI blocks — with a counted, category-by-category inventory.",
+      "url": "https://pro.reactbits.dev",
+      "type": "component-library",
+      "formats": "230 animated components · 300 page blocks · 300 app UI blocks · 15 templates · agent kit",
+      "topics": [
+        "components",
+        "ai-interfaces"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "prompts"
+      ],
+      "pricing": "paid",
+      "licence": "One-time payment for lifetime access and updates, with the price shown at checkout rather than on the page read. The free React Bits set is separate and openly licensed; Pro assets are proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "reactbits",
+        "magic-ui",
+        "uiverse"
+      ]
+    },
+    {
       "slug": "reactbits",
       "path": "sites/reactbits.md",
       "title": "React Bits",

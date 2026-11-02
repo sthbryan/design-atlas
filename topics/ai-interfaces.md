@@ -56,6 +56,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [PanelUI](../sites/panelui.md) — MIT React Native component library for Expo, with Tailwind styling, live examples and agent resources.
 - [Poetic](../sites/poetic.md) — Enterprise AI landing page with oversized type, proof metrics, a product walkthrough and a recovery example for evolving workflows.
 - [Prompt Kit](../sites/prompt-kit.md) — MIT shadcn components for chat UIs: prompt input, auto-scrolling conversation, reasoning, tool-call and citation views.
+- [React Bits Pro](../sites/reactbits-pro.md) — Paid library of animated React work — 230 components, 300 page blocks and 300 app-UI blocks — with a counted, category-by-category inventory.
 - [Sevalla](../sites/sevalla.md) — Cloud hosting landing page that explains apps, databases, storage and static sites through product previews, location data and MCP workflows.
 - [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.
