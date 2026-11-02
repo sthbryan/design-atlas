@@ -46,6 +46,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Case Study Club](../sites/case-study-club.md) — A weekly design publication with a restrained, print-like layout for long-form notes, portfolios and design links.
 - [Chloé Maillot](../sites/chloe-maillot.md) — A quiet design-engineer portfolio combining short editorial notes, a small component catalogue and a handmade image grid.
 - [Chornobyl Exclusion Zone — Banda](../sites/chornobyl-exclusion-zone.md) — Banda's Ukrainian government identity turns the reactor silhouette into a yearly changing mark that gradually disappears by 2064.
+- [Chronicle](../sites/chronicle.md) — AI deck builder on a freeform canvas, sold on brand rules and designer-made templates rather than on generating slides from nothing.
 - [CIRKA®](../sites/cirka.md) — Singapore creative portfolio pairing extreme condensed display type and compact project metadata with a cream canvas and full case studies.
 - [Coca-Cola Visual System](../sites/coca-cola-visual-system.md) — Coca-Cola’s 2026 identity announcement and embedded film show how its signature assets extend across packaging, retail and digital work.
 - [Color.review](../sites/color-review.md) — WCAG 2.1 contrast checker with pass/fail lines on the picker and shareable pair links.

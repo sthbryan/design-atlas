@@ -82,6 +82,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Chornobyl Exclusion Zone — Banda](../sites/chornobyl-exclusion-zone.md) — Banda's Ukrainian government identity turns the reactor silhouette into a yearly changing mark that gradually disappears by 2064.
 - [Chrome Experiments](../sites/chrome-experiments.md) — Google's archive of creative browser experiments, with WebGL, sound and motion collections linked to their live demos.
 - [Chrome Music Lab](../sites/chrome-music-lab.md) — Google's hands-on music experiments, useful for studying playful grids, musical controls and sound-led visual interaction.
+- [Chronicle](../sites/chronicle.md) — AI deck builder on a freeform canvas, sold on brand rules and designer-made templates rather than on generating slides from nothing.
 - [CIRKA®](../sites/cirka.md) — Singapore creative portfolio pairing extreme condensed display type and compact project metadata with a cream canvas and full case studies.
 - [closeit.fast](../sites/closeit-fast.md) — An e-signature product page with a clickable four-screen walkthrough and a step-by-step document lifecycle.
 - [Coca-Cola Visual System](../sites/coca-cola-visual-system.md) — Coca-Cola’s 2026 identity announcement and embedded film show how its signature assets extend across packaging, retail and digital work.

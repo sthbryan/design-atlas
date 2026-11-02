@@ -3368,6 +3368,31 @@
       ]
     },
     {
+      "slug": "chronicle",
+      "path": "sites/chronicle.md",
+      "title": "Chronicle",
+      "description": "AI deck builder on a freeform canvas, sold on brand rules and designer-made templates rather than on generating slides from nothing.",
+      "url": "https://chroniclehq.com",
+      "type": "tool",
+      "formats": "AI presentation maker · freeform canvas editing · brand fonts, colours and rules · export to PPT, PDF or a published website",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Sales-led, with pricing arranged through a sales conversation and no published tier prices at review. The product is proprietary, and decks you make are exported or published by you",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "figma",
+        "saas-landing-page",
+        "promo-ai-videos"
+      ]
+    },
+    {
       "slug": "circle-loaders",
       "path": "sites/circle-loaders.md",
       "title": "Circle Loaders",
