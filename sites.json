@@ -10451,6 +10451,31 @@
       ]
     },
     {
+      "slug": "logotouse",
+      "path": "sites/logotouse.md",
+      "title": "Logo To Use",
+      "description": "Library of premium brand logos in coloured, black and white versions as SVG, PNG and editable Figma, with a commercial licence on the paid tier.",
+      "url": "https://logotouse.com",
+      "type": "asset-library",
+      "formats": "logo library · coloured, black and white variants · SVG, PNG and Figma · bulk ZIP · Webflow app · Figma and Sketch files",
+      "topics": [
+        "assets",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to browse; Pro from $5 per month at review unlocks downloads, bulk ZIP, SVG and Figma files and a commercial licence. The marks themselves are other companies' trademarks, so a commercial licence from the site cannot grant trademark rights",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "3dicons",
+        "fontinlogo",
+        "figma"
+      ]
+    },
+    {
       "slug": "lottiefiles-motion-design",
       "path": "sites/lottiefiles-motion-design.md",
       "title": "LottieFiles Motion Design Skill",
