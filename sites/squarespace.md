@@ -1,6 +1,6 @@
 ---
 title: Squarespace
-description: Website builder whose marketing page is a case study in repeated card grids, digit-reel counters and role-based labels on every section.
+description: Website builder whose marketing page is a case study in repeated card grids and role-based labels on every section.
 url: https://www.squarespace.com
 type: tool
 formats: hosted website builder · templates · AI site generation · commerce and booking tools
@@ -21,7 +21,7 @@ related: [tilda, showit, super]
 
 ## What it is
 
-The Squarespace home page is a large, disciplined marketing layout, and it is more interesting as a layout than as a product pitch. After a short hero it drops into a matrix of job cards — offer services, sell products, invoice clients, get booked, collect donations, monetize content, post ideas, showcase your work — each one carrying a "Great for:" line naming the trades it suits, so the section doubles as a self-selection tool. The proof numbers sit above as counters that spin their digits into place, and the same eight cards repeat horizontally, which turns a long page into a loop you can skim.
+The Squarespace home page is a large, disciplined marketing layout, and it is more interesting as a layout than as a product pitch. After a short hero it drops into a matrix of job cards — offer services, sell products, invoice clients, get booked, collect donations, monetize content, post ideas, showcase your work — each one carrying a "Great for:" line naming the trades it suits, so the section doubles as a self-selection tool. The proof numbers sit above and roll into place on view, and the same eight cards repeat horizontally, which turns a long page into a loop you can skim.
 
 ## When to open it
 
@@ -30,7 +30,7 @@ Open it when you need a reference for how to present eight different customers o
 ## Most useful
 
 - **Job cards with "Great for:" labels**: the label under each title turns a feature list into a routing decision.
-- **Digit-reel counters** (14M+ entrepreneurs, $36B+ earned, 200+ countries) that animate from zero on view.
+- **Proof numbers** (14M+ entrepreneurs, $36B+ earned, 200+ countries) that roll from zero on view.
 - **Repeated card bands** instead of a carousel, so the same content is available twice without a control.
 - **A single arrow-link style** used for every card action, which keeps eight cards quiet.
 - **Restraint in colour**: the page leans on type scale and spacing rather than fills.
@@ -51,7 +51,7 @@ No `llms.txt` or MCP server was found at review; the page is server-rendered, so
 
 - Route visitors with "Great for:" role labels under each capability.
 - Put the same card set on the page twice instead of building a carousel.
-- Animate a proof number once, from zero, and keep the label still.
+- Roll a proof number from zero once, and keep its label still.
 - Use one link treatment everywhere when a grid has many actions.
 
 ## Related

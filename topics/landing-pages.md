@@ -155,7 +155,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [SkySend](../sites/skysend.md) — Minimal encrypted file-sharing landing page that explains its security model through a centered hero, terminal install example and concise proof points.
 - [Snapzy](../sites/snapzy.md) — A macOS capture app whose landing page shows annotation, background presets and recording workflows in context.
 - [Spectrum UI](../sites/spectrum-ui.md) — Free Apache-2.0 animated shadcn components and blocks, strong on AI-assistant, chart and empty-state blocks, with an MCP server.
-- [Squarespace](../sites/squarespace.md) — Website builder whose marketing page is a case study in repeated card grids, digit-reel counters and role-based labels on every section.
+- [Squarespace](../sites/squarespace.md) — Website builder whose marketing page is a case study in repeated card grids and role-based labels on every section.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
 - [Super](../sites/super.md) — Turns a Notion page into a website, sold on a themed layer — custom fonts, icons, illustrations and components over a plain document.
 - [Supermassive Games](../sites/supermassive-games.md) — Game studio site built around cinematic title art, with a poster catalogue and dedicated pages for its narrative games.
