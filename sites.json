@@ -15398,6 +15398,33 @@
       ]
     },
     {
+      "slug": "sent",
+      "path": "sites/sent.md",
+      "title": "Sent",
+      "description": "Developer-tool landing page for one SMS, WhatsApp and RCS API, with a cost estimator and a per-country rate sheet instead of plan cards.",
+      "url": "https://www.sent.dm",
+      "type": "website",
+      "formats": "marketing site · interactive cost estimator · 232-destination rate sheet · API reference and npm SDK",
+      "topics": [
+        "landing-pages",
+        "documentation"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "api"
+      ],
+      "pricing": "paid",
+      "licence": "Pay as you go at $0.0150 per contacted person per month, plus carrier fees passed through at cost, so a thousand US messages came to an estimated $19.70 at review. Enterprise agreements with a monthly minimum exist. The site and service are proprietary; the `@sentdm/sentdm` client on npm is published for use with the service",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "saas-landing-page",
+        "landing-gallery",
+        "v0"
+      ]
+    },
+    {
       "slug": "sephiro",
       "path": "sites/sephiro.md",
       "title": "Sephiro",
