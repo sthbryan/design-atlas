@@ -8471,6 +8471,32 @@
       ]
     },
     {
+      "slug": "iconly",
+      "path": "sites/iconly.md",
+      "title": "Iconly",
+      "description": "Inspiration library of 2,400+ app, game and web app icons, searchable by category, style and colour, with 30 free and the rest behind a subscription.",
+      "url": "https://iconly.design",
+      "type": "gallery",
+      "formats": "curated app icon gallery · category, style and colour filters · saves and collections",
+      "topics": [
+        "icons",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The first 30 icons on each category are free to browse; Pro is $4.99 per month or $39 per year at review. Pro covers browsing and saving the library. No reuse licence for the icons is stated, and the icons are other companies' marks, so they are references to study rather than assets to ship",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "icon-museum",
+        "iconography-encyclopedia",
+        "icons-download",
+        "icon-foundry"
+      ]
+    },
+    {
       "slug": "iconography-encyclopedia",
       "path": "sites/iconography-encyclopedia.md",
       "title": "The Iconography Encyclopedia",

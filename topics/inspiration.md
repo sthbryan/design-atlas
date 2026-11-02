@@ -163,6 +163,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [IBM Design Language color](../sites/ibm-design-language-color.md) — IBM's color reference shows palette families, accepted gradients, UI themes, accessibility rules and examples in use.
 - [Ichiban Motorcycle](../sites/ichiban-bike.md) — A single-site visual reference for restrained product storytelling with oversized color, a centered object and tightly ordered labels.
 - [Icon Museum](../sites/icon-museum.md) — A hand-picked archive of 245 crafted iOS app icons with copyable palettes, designer credits and redesign history.
+- [Iconly](../sites/iconly.md) — Inspiration library of 2,400+ app, game and web app icons, searchable by category, style and colour, with 30 free and the rest behind a subscription.
 - [Inkword](../sites/inkword.md) — Turns one word into a small editable SVG editorial drawing in six fixed styles; private beta.
 - [Inspiration Grid](../sites/inspiration-grid.md) — Daily art, illustration, branding and typography magazine since 2011; broad moodboard fuel, little interface content.
 - [Inspo](../sites/inspo.md) — Searchable archive of production-site screens with live-source links, extracted design profiles and a free hosted MCP.
