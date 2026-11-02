@@ -65,6 +65,8 @@ How sites document components, design systems and style — for human readers an
 - [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
 - [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
+- [Warp](../sites/warp.md) — Developer site built as a terminal, with bracketed nav keys, numbered figure captions and a YAML file annotated in the margin.
+- [Yaak](../sites/yaak.md) — API client page with a light and dark toggle in the hero preview, numbered capability lines and a versioned changelog used as proof.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

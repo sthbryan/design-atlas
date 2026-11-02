@@ -165,6 +165,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Sleeve](../sites/sleeve.md) — Desktop music accessory for Mac that exposes artwork, type, layout and backdrop as separate customisable layers, with shareable themes.
 - [Slidebean](../sites/slidebean.md) — Pitch-deck tool whose page splits an AI builder from a human design agency, with a checkmark proof list and a review-widget rating block.
 - [Snapzy](../sites/snapzy.md) — A macOS capture app whose landing page shows annotation, background presets and recording workflows in context.
+- [Spacedrive](../sites/spacedrive.md) — File app page whose hero is a device dashboard, with one card per machine and cloud, each showing connection state, storage bar and folder chips.
 - [Spectrum UI](../sites/spectrum-ui.md) — Free Apache-2.0 animated shadcn components and blocks, strong on AI-assistant, chart and empty-state blocks, with an MCP server.
 - [Squarespace](../sites/squarespace.md) — Website builder whose marketing page is a case study in repeated card grids and role-based labels on every section.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
@@ -194,6 +195,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Visme](../sites/visme.md) — Design tool whose page is a row of eight output types, each with its own preview and one call to action, above named case studies.
 - [VividSites](../sites/vividsites.md) — A prompt library of cinematic website examples, with filters, free previews, source videos and an MCP search route.
 - [Vucko](../sites/vucko.md) — A motion identity studio portfolio with vivid brand case studies and a modular, clock-and-project rail.
+- [Warp](../sites/warp.md) — Developer site built as a terminal, with bracketed nav keys, numbered figure captions and a YAML file annotated in the margin.
 - [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
 - [Wavelength](../sites/wavelength.md) — A customer-success SaaS landing page with bright route graphics framing a working account dashboard.
 - [Web Design Clip](../sites/web-design-clip.md) — A Japanese website gallery with separate Japan, world, landing-page and smartphone collections plus color, layout, category and technology filters.
@@ -202,6 +204,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Wedoflow](../sites/wedoflow.md) — Marketplace of 216 Webflow templates at $39 to $169 each, sold through an all-access pass, with category labels on every preview.
 - [Wonderlist](../sites/wonderlist.md) — 127 paid website designs in three fixed-price packages, sold as Figma files with 1,137 pages across SaaS, agency, portfolio and industry briefs.
 - [Xnapper](../sites/xnapper.md) — A screenshot app whose homepage demonstrates framing, backgrounds, ratios and redaction in its own editor UI.
+- [Yaak](../sites/yaak.md) — API client page with a light and dark toggle in the hero preview, numbered capability lines and a versioned changelog used as proof.
 - [Yalqen](../sites/yalqen.md) — A macOS developer-browser site with sky-blue editorial type and interactive demonstrations of its keyboard-first interface.
 <!-- atlas:sources:end -->
 

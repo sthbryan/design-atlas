@@ -16877,6 +16877,30 @@
       ]
     },
     {
+      "slug": "spacedrive",
+      "path": "sites/spacedrive.md",
+      "title": "Spacedrive",
+      "description": "File app page whose hero is a device dashboard, with one card per machine and cloud, each showing connection state, storage bar and folder chips.",
+      "url": "https://spacedrive.com",
+      "type": "website",
+      "formats": "product site · device and storage dashboard preview · totals panel · downloadable app for desktop and mobile",
+      "topics": [
+        "landing-pages",
+        "data-viz"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Bought once with no account, subscription or telemetry, per the page at review; the price was not shown. The app is proprietary, with a separate open-source project described in the founder note",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "warp",
+        "yaak"
+      ]
+    },
+    {
       "slug": "spectrum-ui",
       "path": "sites/spectrum-ui.md",
       "title": "Spectrum UI",
@@ -19856,6 +19880,31 @@
       ]
     },
     {
+      "slug": "warp",
+      "path": "sites/warp.md",
+      "title": "Warp",
+      "description": "Developer site built as a terminal, with bracketed nav keys, numbered figure captions and a YAML file annotated in the margin.",
+      "url": "https://www.warp.dev",
+      "type": "website",
+      "formats": "product site · annotated config-as-code sample · live task grid · terminal download and early access",
+      "topics": [
+        "landing-pages",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free terminal download with early access requested for the cloud product; plan prices were not on the page read at review. The platform is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "spacedrive",
+        "yaak",
+        "vercel-web-design-guidelines"
+      ]
+    },
+    {
       "slug": "wasmer-sh",
       "path": "sites/wasmer-sh.md",
       "title": "Wasmer.sh",
@@ -20208,6 +20257,33 @@
         "snapzy",
         "tokokino",
         "ui-camera"
+      ]
+    },
+    {
+      "slug": "yaak",
+      "path": "sites/yaak.md",
+      "title": "Yaak",
+      "description": "API client page with a light and dark toggle in the hero preview, numbered capability lines and a versioned changelog used as proof.",
+      "url": "https://yaak.app",
+      "type": "website",
+      "formats": "product site · light and dark preview toggle · capability list · dated changelog · team pricing",
+      "topics": [
+        "landing-pages",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "cli"
+      ],
+      "pricing": "freemium",
+      "licence": "Free desktop app with per-seat team licences managed through an organisation, prices on a separate pricing page at review. The source is published as MIT-licensed; the hosted team features are proprietary, so licences differ by what you take",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "warp",
+        "spacedrive"
       ]
     },
     {
