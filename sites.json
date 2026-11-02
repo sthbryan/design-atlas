@@ -8689,6 +8689,32 @@
       ]
     },
     {
+      "slug": "ikonik",
+      "path": "sites/ikonik.md",
+      "title": "Ikonik",
+      "description": "50,000+ icons gathered from 44 open-source packs, with a built-in SVG editor and copy as SVG or JSX; each pack keeps its own free licence.",
+      "url": "https://ikonik.modulify.ai",
+      "type": "icon-library",
+      "formats": "icon browser · per-pack browsing · SVG editor with size, stroke and colour · copy SVG or React JSX · Figma plugin",
+      "topics": [
+        "icons",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free at review, with no account. Every pack is presented as free for personal and commercial work, but each icon keeps its source project's licence, and those differ per pack, so the pack page is what to read before shipping",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "iconify",
+        "free-icon-resources",
+        "lucide",
+        "icons0"
+      ]
+    },
+    {
       "slug": "imageory",
       "path": "sites/imageory.md",
       "title": "Imageory",
