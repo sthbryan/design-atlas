@@ -9597,6 +9597,30 @@
       ]
     },
     {
+      "slug": "kando",
+      "path": "sites/kando.md",
+      "title": "Kando",
+      "description": "Cross-platform pie menu whose page argues for radial selection, gesture memory and a dedicated menu per application.",
+      "url": "https://kando.menu",
+      "type": "website",
+      "formats": "radial menu app · gesture recognition · nested menus · per-application menus · themes, icon sets and sound themes",
+      "topics": [
+        "navigation",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free and described as open source without a licence named on the page at review; the source is on GitHub and development is supported through donations",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "menubarx",
+        "hiddenbar"
+      ]
+    },
+    {
       "slug": "kap",
       "path": "sites/kap.md",
       "title": "Kap",
@@ -12654,6 +12678,30 @@
       "related": [
         "magicpattern",
         "grainient"
+      ]
+    },
+    {
+      "slug": "notesnook",
+      "path": "sites/notesnook.md",
+      "title": "Notesnook",
+      "description": "Note app page that argues privacy by building fake note cards, a publish dialog and a clipper, each labelled with its encrypted state.",
+      "url": "https://notesnook.com",
+      "type": "website",
+      "formats": "product site · simulated note and notebook cards · publish flow · web clipper · open-source repository table",
+      "topics": [
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to use, with clients published under GPLv3 at review; paid plans exist but their prices were not on the page read. The repository table lists stars for the apps, the sync server and the importer",
+      "licence_class": "open-source-copyleft",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "sleeve",
+        "fantastical"
       ]
     },
     {
