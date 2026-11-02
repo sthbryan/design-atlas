@@ -146,6 +146,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Frameset](../sites/frameset.md) — Search film and advertising frames by text or image, then open individual references to study composition, colour and camera treatment.
 - [Framio](../sites/framio.md) — Full-page desktop and mobile captures of curated websites, with extracted palettes and filters for industry, style, colour and typeface.
 - [Gallereee](../sites/gallereee.md) — A portfolio gallery filterable by visual style, with individual records that link to the published sites.
+- [Genially](../sites/genially.md) — Interactive content tool whose template gallery is a taxonomy lesson, organised by output type, audience and named game format.
 - [Gil Huybrecht](../sites/gil-huybrecht.md) — Art director portfolio using a black canvas, dense project thumbnails and a compact service and recognition index.
 - [GOATED UI](../sites/goated-ui.md) — Free gallery of live websites and Open Graph cards, with category pages and detail records linking to original sites.
 - [Godly](../sites/godly.md) — A dark, masonry-style gallery for websites, app screens, logos and UI details, with focused routes for page sections and visual assets.

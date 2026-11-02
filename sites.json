@@ -7209,6 +7209,31 @@
       ]
     },
     {
+      "slug": "genially",
+      "path": "sites/genially.md",
+      "title": "Genially",
+      "description": "Interactive content tool whose template gallery is a taxonomy lesson, organised by output type, audience and named game format.",
+      "url": "https://genially.com",
+      "type": "template-library",
+      "formats": "interactive templates · presentations, infographics, quizzes and games · branching scenarios · microsites",
+      "topics": [
+        "inspiration",
+        "components"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Hundreds of templates are free to use and customise, per the templates page at review; paid plans exist but were not priced on the page read. The templates and the platform are proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "visme",
+        "prezi",
+        "slidebean"
+      ]
+    },
+    {
       "slug": "getdesign-md",
       "path": "sites/getdesign-md.md",
       "title": "getdesign.md",
