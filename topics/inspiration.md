@@ -256,6 +256,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Poetic](../sites/poetic.md) — Enterprise AI landing page with oversized type, proof metrics, a product walkthrough and a recovery example for evolving workflows.
 - [POP IS YOU SAKAE](../sites/pop-is-you-sakae.md) — A Nagoya event microsite that links pop-culture listings to a calendar and a filterable map of Sakae venues.
 - [posts.design](../sites/posts-design.md) — Real company social posts, headers and OG images by post purpose, with a public JSON search API.
+- [Prezi](../sites/prezi.md) — Presentation tool whose page is organised around the room rather than the slides, with a QR join, live polls and a per-question results panel.
 - [Promo AI Videos](../sites/promo-ai-videos.md) — A searchable showcase of AI-made promotional videos, grouped by visual style, medium and aspect ratio.
 - [PsudoKit](../sites/psudokit.md) — Dark portfolio with a restrained monospace system, thin orbital lines and a split profile and activity layout.
 - [Railway](../sites/railway.md) — A cloud platform with a polished illustrated homepage and a focused no-signup VM campaign page.

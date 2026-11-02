@@ -14024,6 +14024,31 @@
       ]
     },
     {
+      "slug": "prezi",
+      "path": "sites/prezi.md",
+      "title": "Prezi",
+      "description": "Presentation tool whose page is organised around the room rather than the slides, with a QR join, live polls and a per-question results panel.",
+      "url": "https://prezi.com",
+      "type": "tool",
+      "formats": "presentation platform · slide import from PowerPoint, Slides, Canva and PDF · live polls, quizzes, Q&A and word clouds · share link after the session",
+      "topics": [
+        "landing-pages",
+        "inspiration"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to start with no card at review; paid tiers exist but their prices were not on the pages read. The platform is proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "saas-landing-page",
+        "landing-gallery",
+        "cta-gallery"
+      ]
+    },
+    {
       "slug": "primer",
       "path": "sites/primer.md",
       "title": "Primer",
