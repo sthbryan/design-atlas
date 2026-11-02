@@ -9958,6 +9958,32 @@
       ]
     },
     {
+      "slug": "launchvideos-gallery",
+      "path": "sites/launchvideos-gallery.md",
+      "title": "Launch Videos Gallery",
+      "description": "Daily feed of product launch videos posted on X, tagged by category and sorted by recency, with view counts showing which motion style travels.",
+      "url": "https://launchvideos.gallery",
+      "type": "gallery",
+      "formats": "curated launch video feed · category tags · view and engagement counts · email digest",
+      "topics": [
+        "motion",
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, with an optional email digest. The clips are other people's posts on X and stay under their creators' rights; the gallery states no licence for the videos or its own catalogue",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "promo-ai-videos",
+        "awwwards",
+        "landing-gallery"
+      ]
+    },
+    {
       "slug": "laws-of-ux",
       "path": "sites/laws-of-ux.md",
       "title": "Laws of UX",
