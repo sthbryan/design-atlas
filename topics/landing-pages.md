@@ -182,6 +182,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Vengeance UI](../sites/vengeance-ui.md) — MIT animated hover, text and scroll effects plus landing blocks for Next.js, installed with shadcn from a GitHub-hosted registry.
 - [Venust Backgrounds](../sites/venust-backgrounds.md) — CC0 AI hero backgrounds sorted by page slot, each with its prompt; llms.txt and Markdown for agents.
 - [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
+- [Visme](../sites/visme.md) — Design tool whose page is a row of eight output types, each with its own preview and one call to action, above named case studies.
 - [VividSites](../sites/vividsites.md) — A prompt library of cinematic website examples, with filters, free previews, source videos and an MCP search route.
 - [Vucko](../sites/vucko.md) — A motion identity studio portfolio with vivid brand case studies and a modular, clock-and-project rail.
 - [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.

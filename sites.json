@@ -19451,6 +19451,31 @@
       ]
     },
     {
+      "slug": "visme",
+      "path": "sites/visme.md",
+      "title": "Visme",
+      "description": "Design tool whose page is a row of eight output types, each with its own preview and one call to action, above named case studies.",
+      "url": "https://visme.co",
+      "type": "tool",
+      "formats": "presentations, docs, infographics and data visualisations · whiteboards · forms and surveys · video · AI generation",
+      "topics": [
+        "data-viz",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free tier to try, with paid plans not priced on the pages read at review. The platform and its templates are proprietary",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-02",
+      "status": "active",
+      "related": [
+        "dataviz-project",
+        "saas-landing-page",
+        "figma"
+      ]
+    },
+    {
       "slug": "visualize",
       "path": "sites/visualize.md",
       "title": "visualize (display.dev)",
