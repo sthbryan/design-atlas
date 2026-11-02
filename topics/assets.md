@@ -110,6 +110,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Open Foundry](../sites/open-foundry.md) — A long-running curated catalogue of open source typefaces, with a specimen per face and the licence stated on the font page.
 - [Opensource UI](../sites/opensource-ui.md) — MIT React and Tailwind catalogue of about 190 copy-paste pieces, including device mockups and widgets, with llms.txt and an agent skill.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
+- [Paper Animation](../sites/paperanimation.md) — Browser tool that turns one image or word into paper-fold and newspaper-clipping motion clips, exported as MP4 or GIF with a green screen.
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.
 - [Playgrnd](../sites/playgrnd.md) — 52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.
 - [Plomb Type](../sites/plomb-type.md) — Lyon type foundry with expressive specimen pages, live text controls, extensive glyph maps and real identity examples.

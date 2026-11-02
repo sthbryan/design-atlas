@@ -171,6 +171,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Overtone](../sites/overtone.md) — Aarhus design studio site pairing a large pale gradient headline with a compact floating navigation and image-led project pages.
 - [PaceUI](../sites/paceui.md) — React components, animated crafts, page blocks and app templates with live previews and a shadcn-compatible registry.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
+- [Paper Animation](../sites/paperanimation.md) — Browser tool that turns one image or word into paper-fold and newspaper-clipping motion clips, exported as MP4 or GIF with a green screen.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
 - [Patatap](../sites/patatap.md) — A keyboard-driven sound and shape toy where each letter triggers a brief animated mark against a quiet canvas.
 - [Pepsi visual identity 2023](../sites/pepsi-visual-identity-2023.md) — A 2023 Pepsi identity announcement pairs a bold wordmark and electric blue pulse with can, fleet and digital applications.
