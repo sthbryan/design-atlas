@@ -41,6 +41,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Bounshy](../sites/bounshy.md) — A live Framer specimen for glitching text, particle trails and configurable colour treatments on hover.
 - [Browse.cool](../sites/browse-cool.md) — A beta gallery of 25 high-craft, type-led sites and 194 screenshots and clips for mood-boarding.
 - [BRRRANDING](../sites/brrranding.md) — Human curated identity projects with filters for industry, colour, typography, medium and year, linked to original case studies.
+- [Brutalist Websites](../sites/brutalist-websites.md) — Gallery of brutalist sites, with the style defined up front as a reaction against comfortable, polished web design.
 - [Business Cards on the Web — STstudio](../sites/business-cards-on-the-web.md) — A poster and web workshop case pairs a black portfolio interface, electric blue linework and an acid-green poster with engraved coin imagery.
 - [CARI](../sites/cari.md) — The Consumer Aesthetics Research Institute: dated, credited pages on consumer-era looks such as Y2K, Neo-Y2K and Frutiger Aero, each with a gallery.
 - [Case Study Club](../sites/case-study-club.md) — A weekly design publication with a restrained, print-like layout for long-form notes, portfolios and design links.
@@ -104,6 +105,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Huetone (stale)](../sites/huetone.md) — LCH/OKLCH palette editor that lines up tone steps across hues, with WCAG and APCA readouts.
 - [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — Paste a domain, get a basic Google-style DESIGN.md via Hyperbrowser's branding API (bring your own key).
 - [Ichiban Motorcycle](../sites/ichiban-bike.md) — A single-site visual reference for restrained product storytelling with oversized color, a centered object and tightly ordered labels.
+- [Identity Designed](../sites/identity-designed.md) — Index of brand identity projects with the studios credited, presented as case studies rather than screenshots.
 - [Inspiration Grid](../sites/inspiration-grid.md) — Daily art, illustration, branding and typography magazine since 2011; broad moodboard fuel, little interface content.
 - [Inspora](../sites/inspora.md) — Small, fresh archive of recent design work tagged by industry, color and style.
 - [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.

@@ -72,6 +72,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Browse.cool](../sites/browse-cool.md) — A beta gallery of 25 high-craft, type-led sites and 194 screenshots and clips for mood-boarding.
 - [BRRRANDING](../sites/brrranding.md) — Human curated identity projects with filters for industry, colour, typography, medium and year, linked to original case studies.
 - [Bruno Simon](../sites/bruno-simon.md) — A playable 3D portfolio that turns project discovery into driving through a stylized low-poly world.
+- [Brutalist Websites](../sites/brutalist-websites.md) — Gallery of brutalist sites, with the style defined up front as a reaction against comfortable, polished web design.
 - [Built by Designers](../sites/built-by-designers.md) — Curated list of shipped creative products, filterable by category and linked from project details to their live sites.
 - [Business Cards on the Web — STstudio](../sites/business-cards-on-the-web.md) — A poster and web workshop case pairs a black portfolio interface, electric blue linework and an acid-green poster with engraved coin imagery.
 - [Cardinal](../sites/cardinal.md) — Revenue-AI landing page with a warm graph-paper grid, hand-drawn annotations and small illustrated metric cards.
@@ -90,6 +91,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [CodePen](../sites/codepen.md) — Public interactive Pens and monthly challenges make it easy to study small web experiments, motion and interface details.
 - [Codrops](../sites/codrops.md) — Creative web demos, interaction tutorials and a handpicked site exhibition for expressive frontend design.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
+- [Collected](../sites/collected.md) — Web design index that shows one site at a time and reshuffles on demand, so browsing is a sequence rather than a grid.
 - [Compresto](../sites/compresto.md) — A media-compression product page with clear before-and-after demos and measured output changes for each format.
 - [compute.toys](../sites/compute-toys.md) — Browser playground for WebGPU compute shaders in WGSL or Slang: simulations, particles and path tracers to fork.
 - [Conduit](../sites/conduit.md) — Hospitality AI site that pairs a restrained serif hero with a live-looking omnichannel inbox and an escalation workflow.
@@ -172,6 +174,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Ichiban Motorcycle](../sites/ichiban-bike.md) — A single-site visual reference for restrained product storytelling with oversized color, a centered object and tightly ordered labels.
 - [Icon Museum](../sites/icon-museum.md) — A hand-picked archive of 245 crafted iOS app icons with copyable palettes, designer credits and redesign history.
 - [Iconly](../sites/iconly.md) — Inspiration library of 2,400+ app, game and web app icons, searchable by category, style and colour, with 30 free and the rest behind a subscription.
+- [Identity Designed](../sites/identity-designed.md) — Index of brand identity projects with the studios credited, presented as case studies rather than screenshots.
 - [Inkword](../sites/inkword.md) — Turns one word into a small editable SVG editorial drawing in six fixed styles; private beta.
 - [Inspiration Grid](../sites/inspiration-grid.md) — Daily art, illustration, branding and typography magazine since 2011; broad moodboard fuel, little interface content.
 - [Inspo](../sites/inspo.md) — Searchable archive of production-site screens with live-source links, extracted design profiles and a free hosted MCP.
@@ -207,6 +210,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Locomotive](../sites/locomotive.md) — Montreal studio portfolio pairing an audiovisual hero with a filterable work archive and detailed project pages.
 - [Logo To Use](../sites/logotouse.md) — Library of premium brand logos in coloured, black and white versions as SVG, PNG and editable Figma, with a commercial licence on the paid tier.
 - [LogoLounge](../sites/logo-lounge.md) — A searchable logo archive and open annual trend reports for researching identity marks, recurring forms and visual directions.
+- [Lovely Package](../sites/lovely-package.md) — Packaging design archive sorted by category, from beer to cosmetics, for surface, material and print references.
 - [Luma (AI)](../sites/luma-ai.md) — Creative AI product site with a dark, editorial hero, production-focused workflow examples and pricing for multimodal creative agents.
 - [Luma Events](../sites/luma-events.md) — Event platform with a Spanish-language landing page built around floating invitation cards, a centered headline and a clear create-event path.
 - [Luna UI](../sites/luna-ui.md) — Framer startup templates and case studies with cinematic imagery, oversized type and scroll driven product showcases.

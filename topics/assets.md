@@ -93,6 +93,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Logo To Use](../sites/logotouse.md) — Library of premium brand logos in coloured, black and white versions as SVG, PNG and editable Figma, with a commercial licence on the paid tier.
 - [Lottie](../sites/lottiefiles.md) — Huge Lottie library, Creator editor with an MIT MCP, and dotLottie players; its licence and terms conflict.
 - [Lottielab](../sites/lottielab.md) — Lottie editor for product teams, from Figma or After Effects imports to one animation file that ships to iOS, Android and web.
+- [Lovely Package](../sites/lovely-package.md) — Packaging design archive sorted by category, from beer to cosmetics, for surface, material and print references.
 - [Lucide](../sites/lucide.md) — Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.
 - [MagicPattern](../sites/magicpattern.md) — A toolbox of live pattern, mesh-gradient, shader and background editors with image and code exports.
 - [Mascofast](../sites/mascofast.md) — Paid AI tool that turns text or photos into mascots, exported as transparent GIF, WebM or Lottie.

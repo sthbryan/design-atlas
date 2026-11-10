@@ -2988,6 +2988,31 @@
       ]
     },
     {
+      "slug": "brutalist-websites",
+      "path": "sites/brutalist-websites.md",
+      "title": "Brutalist Websites",
+      "description": "Gallery of brutalist sites, with the style defined up front as a reaction against comfortable, polished web design.",
+      "url": "https://brutalistwebsites.com",
+      "type": "gallery",
+      "formats": "style-specific gallery · written definition of the style · submission form",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated at review for the entries or the site's own text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "404-gallery",
+        "minimal-gallery",
+        "refs-gallery"
+      ]
+    },
+    {
       "slug": "built-by-designers",
       "path": "sites/built-by-designers.md",
       "title": "Built by Designers",
@@ -3594,6 +3619,30 @@
         "recent-design",
         "uiverse",
         "minimal-gallery"
+      ]
+    },
+    {
+      "slug": "collected",
+      "path": "sites/collected.md",
+      "title": "Collected",
+      "description": "Web design index that shows one site at a time and reshuffles on demand, so browsing is a sequence rather than a grid.",
+      "url": "https://collected.li",
+      "type": "gallery",
+      "formats": "curated index · one entry per view · shuffle control · credited studio per entry",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated at review for the entries or the site's own text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "best-website-gallery",
+        "minimal-gallery",
+        "refs-gallery"
       ]
     },
     {
@@ -9024,6 +9073,31 @@
       ]
     },
     {
+      "slug": "identity-designed",
+      "path": "sites/identity-designed.md",
+      "title": "Identity Designed",
+      "description": "Index of brand identity projects with the studios credited, presented as case studies rather than screenshots.",
+      "url": "https://identitydesigned.com",
+      "type": "gallery",
+      "formats": "identity gallery · 365 projects in the index at review · studio credits · books and writing",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated at review for the projects or the site's own text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "rebrand-gallery",
+        "fonts-in-use",
+        "lovely-package"
+      ]
+    },
+    {
       "slug": "ikonik",
       "path": "sites/ikonik.md",
       "title": "Ikonik",
@@ -10972,6 +11046,31 @@
         "lottiefiles",
         "jitter",
         "rive"
+      ]
+    },
+    {
+      "slug": "lovely-package",
+      "path": "sites/lovely-package.md",
+      "title": "Lovely Package",
+      "description": "Packaging design archive sorted by category, from beer to cosmetics, for surface, material and print references.",
+      "url": "https://lovelypackage.com",
+      "type": "gallery",
+      "formats": "packaging archive · category index · search · large-format photography",
+      "topics": [
+        "inspiration",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated at review; the packaging belongs to the brands and studios that made it",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "identity-designed",
+        "abstract-by-wannathis",
+        "refs-gallery"
       ]
     },
     {
