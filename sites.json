@@ -1112,6 +1112,33 @@
       ]
     },
     {
+      "slug": "animata",
+      "path": "sites/animata.md",
+      "title": "Animata",
+      "description": "Copy-in animated React components, 157 at review, browsed as moving previews rather than static screenshots.",
+      "url": "https://animata.design",
+      "type": "component-library",
+      "formats": "animated React components · copy-in source · 157+ components at review · live previews · llms.txt",
+      "topics": [
+        "motion",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Described as free and open source at review without naming a licence, so treat it as look-only until the repository's licence is checked",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "animate-ui",
+        "animista",
+        "number-flow"
+      ]
+    },
+    {
       "slug": "animate-ui",
       "path": "sites/animate-ui.md",
       "title": "Animate UI",
@@ -2988,6 +3015,31 @@
       ]
     },
     {
+      "slug": "brutalist-websites",
+      "path": "sites/brutalist-websites.md",
+      "title": "Brutalist Websites",
+      "description": "Gallery of brutalist sites, with the style defined up front as a reaction against comfortable, polished web design.",
+      "url": "https://brutalistwebsites.com",
+      "type": "gallery",
+      "formats": "style-specific gallery · written definition of the style · submission form",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated at review for the entries or the site's own text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "404-gallery",
+        "minimal-gallery",
+        "refs-gallery"
+      ]
+    },
+    {
       "slug": "built-by-designers",
       "path": "sites/built-by-designers.md",
       "title": "Built by Designers",
@@ -3597,6 +3649,30 @@
       ]
     },
     {
+      "slug": "collected",
+      "path": "sites/collected.md",
+      "title": "Collected",
+      "description": "Web design index that shows one site at a time and reshuffles on demand, so browsing is a sequence rather than a grid.",
+      "url": "https://collected.li",
+      "type": "gallery",
+      "formats": "curated index · one entry per view · shuffle control · credited studio per entry",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated at review for the entries or the site's own text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "best-website-gallery",
+        "minimal-gallery",
+        "refs-gallery"
+      ]
+    },
+    {
       "slug": "color-review",
       "path": "sites/color-review.md",
       "title": "Color.review",
@@ -3619,6 +3695,33 @@
         "huetone",
         "ramps",
         "oklch"
+      ]
+    },
+    {
+      "slug": "colorbox",
+      "path": "sites/colorbox.md",
+      "title": "ColorBox",
+      "description": "Palette generator built on OKLCH and OKLAB, checking WCAG contrast as you edit and exporting CSS, Tailwind, Figma tokens or JSON.",
+      "url": "https://colorbox.io",
+      "type": "tool",
+      "formats": "palette generator · OKLCH and OKLAB interpolation · live WCAG 2.1 contrast · export CSS, Tailwind, Figma tokens and JSON · Figma plugin · AI guide",
+      "topics": [
+        "color",
+        "documentation"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Described as free and browser-based at review; no licence for the tool's own code is stated on the pages read",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "oklch",
+        "hihayk-scale",
+        "poline"
       ]
     },
     {
@@ -6740,6 +6843,37 @@
       ]
     },
     {
+      "slug": "fontfridge",
+      "path": "sites/fontfridge.md",
+      "title": "FontFridge",
+      "description": "Google Fonts browser that filters by what type does — OpenType features, variable axes, writing systems, colour — with JSON catalogs for agents.",
+      "url": "https://font.chingru.com",
+      "type": "font-library",
+      "formats": "font browser · 1,959 families · filters for features, axes, width, language and colour · grid and row previews · saved list · JSON catalogs · llms.txt",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "The families are open-source Google Fonts, each under its own licence. The app states no licence for its own data or interface at review",
+      "licence_class": "not-stated",
+      "licences": {
+        "fonts": "open-source-permissive"
+      },
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "best-free-fonts",
+        "v-fonts",
+        "typeface-fyi"
+      ]
+    },
+    {
       "slug": "fontinlogo",
       "path": "sites/fontinlogo.md",
       "title": "Font In Logo",
@@ -8212,6 +8346,39 @@
       ]
     },
     {
+      "slug": "hexta-ui",
+      "path": "sites/hexta-ui.md",
+      "title": "HextaUI",
+      "description": "shadcn/ui blocks for AI chat interfaces, covering streaming, tool calls, voice and agent states, with an MCP server and Markdown docs.",
+      "url": "https://hextaui.com",
+      "type": "component-library",
+      "formats": "React and Tailwind v4 components · copy-in shadcn blocks · 55 paid Pro blocks · MCP server · Markdown docs · llms.txt",
+      "topics": [
+        "ai-interfaces",
+        "components",
+        "agent-skills"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "The 65 components, 9 hooks and 5 utilities are MIT and free; HextaUI Pro adds 55 blocks for a one-time payment, $49 Solo or $149 Team until 30 November 2026 and $79 or $249 afterwards. There is no npm package, because the code is copied into the project",
+      "licence_class": "mixed",
+      "licences": {
+        "code": "open-source-permissive",
+        "assets": "proprietary-paid"
+      },
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "skrewww",
+        "component-gallery"
+      ]
+    },
+    {
       "slug": "heydays",
       "path": "sites/heydays.md",
       "title": "Heydays",
@@ -8289,6 +8456,30 @@
         "marathonthegame",
         "design-sorcery",
         "supahero"
+      ]
+    },
+    {
+      "slug": "hihayk-scale",
+      "path": "sites/hihayk-scale.md",
+      "title": "Scale",
+      "description": "Eleven-step colour scale generator where dark and light ends rotate hue and saturation separately, and the URL holds the state.",
+      "url": "https://hihayk.github.io/scale",
+      "type": "tool",
+      "formats": "colour scale generator · 11 generated steps · independent dark and light hue and saturation · copy colours or SVG · shareable URL state",
+      "topics": [
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated on the page at review",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "colorbox",
+        "poline",
+        "oklch"
       ]
     },
     {
@@ -8957,6 +9148,31 @@
         "kitbitz",
         "craftwork",
         "mascofast"
+      ]
+    },
+    {
+      "slug": "identity-designed",
+      "path": "sites/identity-designed.md",
+      "title": "Identity Designed",
+      "description": "Index of brand identity projects with the studios credited, presented as case studies rather than screenshots.",
+      "url": "https://identitydesigned.com",
+      "type": "gallery",
+      "formats": "identity gallery · 365 projects in the index at review · studio credits · books and writing",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated at review for the projects or the site's own text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "rebrand-gallery",
+        "fonts-in-use",
+        "lovely-package"
       ]
     },
     {
@@ -9999,6 +10215,33 @@
       ]
     },
     {
+      "slug": "korea-web-design",
+      "path": "sites/korea-web-design.md",
+      "title": "Korea Web Design",
+      "description": "Korean directory of live Korean sites, one screenshot and a date per entry, split into desktop, mobile, blogs and reference links.",
+      "url": "https://koreawebdesign.com",
+      "type": "gallery",
+      "formats": "directory · screenshot grid with a date per entry · saved list · category tabs for websites, mobile sites, blogs and reference links · llms.txt",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "No licence is stated at review for the screenshots or the directory's own text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "best-website-gallery",
+        "landing-gallery",
+        "siiimple"
+      ]
+    },
+    {
       "slug": "kush-bothra",
       "path": "sites/kush-bothra.md",
       "title": "Kush Bothra",
@@ -10881,6 +11124,31 @@
         "lottiefiles",
         "jitter",
         "rive"
+      ]
+    },
+    {
+      "slug": "lovely-package",
+      "path": "sites/lovely-package.md",
+      "title": "Lovely Package",
+      "description": "Packaging design archive sorted by category, from beer to cosmetics, for surface, material and print references.",
+      "url": "https://lovelypackage.com",
+      "type": "gallery",
+      "formats": "packaging archive · category index · search · large-format photography",
+      "topics": [
+        "inspiration",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated at review; the packaging belongs to the brands and studios that made it",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "identity-designed",
+        "abstract-by-wannathis",
+        "refs-gallery"
       ]
     },
     {
@@ -11859,6 +12127,30 @@
       ]
     },
     {
+      "slug": "model-viewer",
+      "path": "sites/model-viewer.md",
+      "title": "model-viewer",
+      "description": "Web component documentation for showing interactive 3D models in a page or in AR, with a quick start, examples and FAQ.",
+      "url": "https://modelviewer.dev",
+      "type": "documentation",
+      "formats": "web component · documentation · examples and editor · AR on supported devices · Apache 2.0",
+      "topics": [
+        "3d-and-shaders",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Apache License 2.0, copyrighted by Google and stated in the site footer at review",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "needle-engine",
+        "threejs"
+      ]
+    },
+    {
       "slug": "modern-css",
       "path": "sites/modern-css.md",
       "title": "Modern CSS Solutions",
@@ -12459,6 +12751,33 @@
       ]
     },
     {
+      "slug": "needle-engine",
+      "path": "sites/needle-engine.md",
+      "title": "Needle Engine",
+      "description": "Ships 3D scenes to the web from Unity, Blender or code, with a product-led site that shows the editor as the interface.",
+      "url": "https://needle.tools",
+      "type": "tool",
+      "formats": "web engine · Unity and Blender integrations · code-first workflow · spatial websites · llms.txt",
+      "topics": [
+        "3d-and-shaders",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "No licence is stated for the engine on the pages read at review; the free tier and paid tiers are described commercially",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "model-viewer",
+        "threejs",
+        "spline"
+      ]
+    },
+    {
       "slug": "neuform",
       "path": "sites/neuform.md",
       "title": "Neuform",
@@ -12728,6 +13047,35 @@
       "related": [
         "magicpattern",
         "grainient"
+      ]
+    },
+    {
+      "slug": "nord-design-system",
+      "path": "sites/nord-design-system.md",
+      "title": "Nord Design System",
+      "description": "Nordhealth's health-care design system, with 65 Web Components documented as contracts, status badges and installable agent skills.",
+      "url": "https://nordhealth.design",
+      "type": "design-system",
+      "formats": "design system · Web Components · CSS framework · Figma toolkit · raw Markdown docs · llms.txt · agent skills",
+      "topics": [
+        "components",
+        "documentation",
+        "agent-skills"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "The npm packages ship a licence that limits use to work done for and on behalf of Nordhealth, so the tokens, components and fonts are readable but not reusable elsewhere. The documentation pages state no separate licence at review",
+      "licence_class": "source-available",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "pajamas",
+        "primer",
+        "carbon-design-system"
       ]
     },
     {
@@ -13050,6 +13398,31 @@
       "related": [
         "active-theory",
         "lusion"
+      ]
+    },
+    {
+      "slug": "oldschool-pc-fonts",
+      "path": "sites/oldschool-pc-fonts.md",
+      "title": "Oldschool PC Font Pack",
+      "description": "The classic PC bitmap and text-mode typefaces, packaged as modern font files with a font index, readme and showcase.",
+      "url": "https://int10h.org/oldschool-pc-fonts",
+      "type": "font-library",
+      "formats": "font collection · font index with specimens · readme and technical notes · showcase page",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to use under CC BY-SA 4.0, as stated on the site at review; the pack asks for attribution and share-alike, and its files are conversions of typefaces from hardware and DOS-era software",
+      "licence_class": "cc-attribution",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "unscii",
+        "v-fonts",
+        "best-free-fonts"
       ]
     },
     {
@@ -13654,6 +14027,31 @@
       ]
     },
     {
+      "slug": "pajamas",
+      "path": "sites/pajamas.md",
+      "title": "Pajamas Design System",
+      "description": "GitLab's design system docs, which switch colour mode and five theme variants live, so the palette is proved rather than described.",
+      "url": "https://design.gitlab.com",
+      "type": "design-system",
+      "formats": "design system · component and pattern documentation · brand guidelines · design tokens · theme variants",
+      "topics": [
+        "components",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The documentation site states no licence of its own at review. GitLab publishes its component package @gitlab/ui under MIT (140.0.1 at review)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "nord-design-system",
+        "primer",
+        "carbon-design-system"
+      ]
+    },
+    {
       "slug": "panelui",
       "path": "sites/panelui.md",
       "title": "PanelUI",
@@ -14193,6 +14591,30 @@
         "ascii-magic",
         "halftone-maker",
         "metalforge"
+      ]
+    },
+    {
+      "slug": "poline",
+      "path": "sites/poline.md",
+      "title": "Poline",
+      "description": "Palette library that draws lines between anchor colours over polar HSL coordinates, with a playground to shape the result.",
+      "url": "https://meodai.github.io/poline",
+      "type": "js-library",
+      "formats": "TypeScript library · dependency-free function · interactive playground · anchors and polar HSL maths · palette export",
+      "topics": [
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is read on the page at review; check the repository before shipping it",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "colorbox",
+        "hihayk-scale",
+        "oklch"
       ]
     },
     {
@@ -16530,6 +16952,33 @@
       ]
     },
     {
+      "slug": "siiimple",
+      "path": "sites/siiimple.md",
+      "title": "Siiimple",
+      "description": "Minimalist gallery running since 2008, with a full-page screenshot and a short composition note per entry, sorted into narrow categories.",
+      "url": "https://siiimple.com",
+      "type": "gallery",
+      "formats": "curated gallery · full-page screenshot per entry · written design note · category collections · saved list · llms.txt",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse and free to submit, with every entry reviewed by hand and no paid placement stated at review. The site states no licence for its screenshots or text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "minimal-gallery",
+        "best-website-gallery",
+        "refs-gallery"
+      ]
+    },
+    {
       "slug": "simple-icons",
       "path": "sites/simple-icons.md",
       "title": "Simple Icons",
@@ -16695,6 +17144,36 @@
         "aceternity-ui",
         "motion-primitives",
         "cult-ui"
+      ]
+    },
+    {
+      "slug": "skrewww",
+      "path": "sites/skrewww.md",
+      "title": "Skrewww",
+      "description": "React design system where one component set adapts through tokens across shape, surface and brand, with contracts agents can read.",
+      "url": "https://skrewww.com",
+      "type": "component-registry",
+      "formats": "React and TypeScript components · shadcn-compatible registry · Figma library · written component contracts · agent skill · llms.txt and llms-full.txt",
+      "topics": [
+        "components",
+        "documentation",
+        "agent-skills"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "registry",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "No licence is stated for the code at review. 23 Figma components are free and the remaining 52 sit behind Skrewww Pro",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "hexta-ui",
+        "component-gallery"
       ]
     },
     {
@@ -17282,6 +17761,33 @@
         "8bitcn",
         "departure-mono",
         "ascii-studio"
+      ]
+    },
+    {
+      "slug": "ssgoi",
+      "path": "sites/ssgoi.md",
+      "title": "SSGOI",
+      "description": "Page transitions for any router, named as a small vocabulary — zoom, drill, sheet, fade — with real apps rebuilt to demonstrate each.",
+      "url": "https://ssgoi.dev",
+      "type": "js-library",
+      "formats": "framework-agnostic library · React, Svelte, Vue, Solid, Angular and Qwik · Web Animations API · docs · live app rewrites · llms.txt",
+      "topics": [
+        "motion",
+        "navigation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "MIT, as stated in the package metadata and the site's structured data at review (ssgoi 2.0.0)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "number-flow",
+        "animate-ui",
+        "animista"
       ]
     },
     {
@@ -17911,6 +18417,31 @@
       ]
     },
     {
+      "slug": "tally",
+      "path": "sites/tally.md",
+      "title": "Tally",
+      "description": "Form builder that sells restraint — plain type, a document you type into, and a free form before any signup.",
+      "url": "https://tally.so",
+      "type": "website",
+      "formats": "product site · free form builder · unlimited forms and submissions · block editor opened from the page · llms.txt",
+      "topics": [
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "The free plan covers unlimited forms and submissions under published fair-usage guidelines; the product is proprietary and the site states no licence for its content at review",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "typeform"
+      ]
+    },
+    {
       "slug": "taste-skill",
       "path": "sites/taste-skill.md",
       "title": "Taste Skill",
@@ -18483,6 +19014,32 @@
         "refero-styles",
         "designmd",
         "minimal-gallery"
+      ]
+    },
+    {
+      "slug": "typeform",
+      "path": "sites/typeform.md",
+      "title": "Typeform",
+      "description": "Form platform whose site leads with an MCP banner and a one-question-at-a-time form, plus AI products for research and growth.",
+      "url": "https://www.typeform.com",
+      "type": "website",
+      "formats": "product site · form builder · MCP server for assistants · AI research and growth flows · llms.txt",
+      "topics": [
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free tier with paid plans; the product is proprietary and the site states no licence for its content at review",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "tally"
       ]
     },
     {
@@ -19109,6 +19666,31 @@
         "motion-primitives",
         "smooth-ui",
         "kokonut-ui"
+      ]
+    },
+    {
+      "slug": "unscii",
+      "path": "sites/unscii.md",
+      "title": "Unscii",
+      "description": "Bitmapped Unicode fonts in 8×8 and 8×16 cells, built for character-cell art, terminals and programming at fixed sizes.",
+      "url": "https://viznut.fi/unscii",
+      "type": "font-library",
+      "formats": "bitmapped Unicode fonts · unscii-8 (8×8) and unscii-16 (8×16) · alternative 8-pixel styles · several export formats · showcase",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site states that the variants are in the public domain, with one following the licence of Unifont, which needs checking per variant before use",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "oldschool-pc-fonts",
+        "v-fonts",
+        "best-free-fonts"
       ]
     },
     {
@@ -20144,6 +20726,31 @@
         "sensory-ui",
         "soundcn",
         "dialkit"
+      ]
+    },
+    {
+      "slug": "webdesign-museum",
+      "path": "sites/webdesign-museum.md",
+      "title": "Web Design Museum",
+      "description": "Archive of screenshots and videos of sites, apps, software and Flash games from the 1990s to the late 2000s, grouped by year and exhibition.",
+      "url": "https://www.webdesignmuseum.org",
+      "type": "gallery",
+      "formats": "archive · screenshot and video exhibits · dated exhibitions · platform and category indexes · RSS · quizzes",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, funded by patrons and donations. The museum reserves its own rights and states that the screenshots belong to their respective owners",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "404-gallery",
+        "rebrand-gallery",
+        "best-website-gallery"
       ]
     },
     {
