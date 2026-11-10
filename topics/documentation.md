@@ -46,7 +46,9 @@ How sites document components, design systems and style — for human readers an
 - [Modern CSS Solutions](../sites/modern-css.md) — Practical CSS references with rendered examples for responsive layouts, components, typography and interaction states.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
 - [No AI Slop](../sites/no-ai-slop.md) — Removes AI writing patterns while keeping the writer's voice, and has a detect-only mode.
+- [Nord Design System](../sites/nord-design-system.md) — Nordhealth's health-care design system, with 65 Web Components documented as contracts, status badges and installable agent skills.
 - [Open UI](../sites/open-ui.md) — Cross-system component research that maps names, visual states and behavior differences for common web controls.
+- [Pajamas Design System](../sites/pajamas.md) — GitLab's design system docs, which switch colour mode and five theme variants live, so the palette is proved rather than described.
 - [Pele](../sites/pele.md) — Renders Mermaid diagrams to SVG synchronously, themed through CSS variables, with no runtime dependencies.
 - [Primer](../sites/primer.md) — GitHub's design system, with tokens, primitives, component docs, UI patterns and an MCP server for agents.
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.
@@ -55,6 +57,7 @@ How sites document components, design systems and style — for human readers an
 - [Shadcn Labs](../sites/shadcn-labs.md) — Index of the independent Shadcn Labs registries: termcn, pdfcn, emailcn, ogimagecn, shadercn and more.
 - [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
+- [Skrewww](../sites/skrewww.md) — React design system where one component set adapts through tokens across shape, surface and brand, with contracts agents can read.
 - [startercn](../sites/startercn.md) — MIT Next.js template for publishing your own shadcn registry, with Fumadocs docs, llms.txt and skill discovery.
 - [Stop Slop](../sites/stop-slop.md) — Small prose skill listing AI phrases and sentence shapes to cut, with a 50-point score.
 - [Super](../sites/super.md) — Turns a Notion page into a website, sold on a themed layer — custom fonts, icons, illustrations and components over a plain document.

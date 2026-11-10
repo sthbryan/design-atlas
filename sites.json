@@ -8212,6 +8212,39 @@
       ]
     },
     {
+      "slug": "hexta-ui",
+      "path": "sites/hexta-ui.md",
+      "title": "HextaUI",
+      "description": "shadcn/ui blocks for AI chat interfaces, covering streaming, tool calls, voice and agent states, with an MCP server and Markdown docs.",
+      "url": "https://hextaui.com",
+      "type": "component-library",
+      "formats": "React and Tailwind v4 components · copy-in shadcn blocks · 55 paid Pro blocks · MCP server · Markdown docs · llms.txt",
+      "topics": [
+        "ai-interfaces",
+        "components",
+        "agent-skills"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "The 65 components, 9 hooks and 5 utilities are MIT and free; HextaUI Pro adds 55 blocks for a one-time payment, $49 Solo or $149 Team until 30 November 2026 and $79 or $249 afterwards. There is no npm package, because the code is copied into the project",
+      "licence_class": "mixed",
+      "licences": {
+        "code": "open-source-permissive",
+        "assets": "proprietary-paid"
+      },
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "skrewww",
+        "component-gallery"
+      ]
+    },
+    {
       "slug": "heydays",
       "path": "sites/heydays.md",
       "title": "Heydays",
@@ -12758,6 +12791,35 @@
       ]
     },
     {
+      "slug": "nord-design-system",
+      "path": "sites/nord-design-system.md",
+      "title": "Nord Design System",
+      "description": "Nordhealth's health-care design system, with 65 Web Components documented as contracts, status badges and installable agent skills.",
+      "url": "https://nordhealth.design",
+      "type": "design-system",
+      "formats": "design system · Web Components · CSS framework · Figma toolkit · raw Markdown docs · llms.txt · agent skills",
+      "topics": [
+        "components",
+        "documentation",
+        "agent-skills"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "The npm packages ship a licence that limits use to work done for and on behalf of Nordhealth, so the tokens, components and fonts are readable but not reusable elsewhere. The documentation pages state no separate licence at review",
+      "licence_class": "source-available",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "pajamas",
+        "primer",
+        "carbon-design-system"
+      ]
+    },
+    {
       "slug": "notesnook",
       "path": "sites/notesnook.md",
       "title": "Notesnook",
@@ -13678,6 +13740,31 @@
         "supermassive-games",
         "sanrio-games",
         "saaspo"
+      ]
+    },
+    {
+      "slug": "pajamas",
+      "path": "sites/pajamas.md",
+      "title": "Pajamas Design System",
+      "description": "GitLab's design system docs, which switch colour mode and five theme variants live, so the palette is proved rather than described.",
+      "url": "https://design.gitlab.com",
+      "type": "design-system",
+      "formats": "design system · component and pattern documentation · brand guidelines · design tokens · theme variants",
+      "topics": [
+        "components",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The documentation site states no licence of its own at review. GitLab publishes its component package @gitlab/ui under MIT (140.0.1 at review)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "nord-design-system",
+        "primer",
+        "carbon-design-system"
       ]
     },
     {
@@ -16749,6 +16836,36 @@
         "aceternity-ui",
         "motion-primitives",
         "cult-ui"
+      ]
+    },
+    {
+      "slug": "skrewww",
+      "path": "sites/skrewww.md",
+      "title": "Skrewww",
+      "description": "React design system where one component set adapts through tokens across shape, surface and brand, with contracts agents can read.",
+      "url": "https://skrewww.com",
+      "type": "component-registry",
+      "formats": "React and TypeScript components · shadcn-compatible registry · Figma library · written component contracts · agent skill · llms.txt and llms-full.txt",
+      "topics": [
+        "components",
+        "documentation",
+        "agent-skills"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "registry",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "No licence is stated for the code at review. 23 Figma components are free and the remaining 52 sit behind Skrewww Pro",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "hexta-ui",
+        "component-gallery"
       ]
     },
     {
