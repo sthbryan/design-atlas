@@ -3671,6 +3671,33 @@
       ]
     },
     {
+      "slug": "colorbox",
+      "path": "sites/colorbox.md",
+      "title": "ColorBox",
+      "description": "Palette generator built on OKLCH and OKLAB, checking WCAG contrast as you edit and exporting CSS, Tailwind, Figma tokens or JSON.",
+      "url": "https://colorbox.io",
+      "type": "tool",
+      "formats": "palette generator · OKLCH and OKLAB interpolation · live WCAG 2.1 contrast · export CSS, Tailwind, Figma tokens and JSON · Figma plugin · AI guide",
+      "topics": [
+        "color",
+        "documentation"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Described as free and browser-based at review; no licence for the tool's own code is stated on the pages read",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "oklch",
+        "hihayk-scale",
+        "poline"
+      ]
+    },
+    {
       "slug": "component-gallery",
       "path": "sites/component-gallery.md",
       "title": "The Component Gallery",
@@ -8402,6 +8429,30 @@
         "marathonthegame",
         "design-sorcery",
         "supahero"
+      ]
+    },
+    {
+      "slug": "hihayk-scale",
+      "path": "sites/hihayk-scale.md",
+      "title": "Scale",
+      "description": "Eleven-step colour scale generator where dark and light ends rotate hue and saturation separately, and the URL holds the state.",
+      "url": "https://hihayk.github.io/scale",
+      "type": "tool",
+      "formats": "colour scale generator · 11 generated steps · independent dark and light hue and saturation · copy colours or SVG · shareable URL state",
+      "topics": [
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated on the page at review",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "colorbox",
+        "poline",
+        "oklch"
       ]
     },
     {
@@ -14440,6 +14491,30 @@
       ]
     },
     {
+      "slug": "poline",
+      "path": "sites/poline.md",
+      "title": "Poline",
+      "description": "Palette library that draws lines between anchor colours over polar HSL coordinates, with a playground to shape the result.",
+      "url": "https://meodai.github.io/poline",
+      "type": "js-library",
+      "formats": "TypeScript library · dependency-free function · interactive playground · anchors and polar HSL maths · palette export",
+      "topics": [
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is read on the page at review; check the repository before shipping it",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "colorbox",
+        "hihayk-scale",
+        "oklch"
+      ]
+    },
+    {
       "slug": "poly-haven",
       "path": "sites/poly-haven.md",
       "title": "Poly Haven",
@@ -18239,6 +18314,31 @@
       ]
     },
     {
+      "slug": "tally",
+      "path": "sites/tally.md",
+      "title": "Tally",
+      "description": "Form builder that sells restraint — plain type, a document you type into, and a free form before any signup.",
+      "url": "https://tally.so",
+      "type": "website",
+      "formats": "product site · free form builder · unlimited forms and submissions · block editor opened from the page · llms.txt",
+      "topics": [
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "The free plan covers unlimited forms and submissions under published fair-usage guidelines; the product is proprietary and the site states no licence for its content at review",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "typeform"
+      ]
+    },
+    {
       "slug": "taste-skill",
       "path": "sites/taste-skill.md",
       "title": "Taste Skill",
@@ -18811,6 +18911,32 @@
         "refero-styles",
         "designmd",
         "minimal-gallery"
+      ]
+    },
+    {
+      "slug": "typeform",
+      "path": "sites/typeform.md",
+      "title": "Typeform",
+      "description": "Form platform whose site leads with an MCP banner and a one-question-at-a-time form, plus AI products for research and growth.",
+      "url": "https://www.typeform.com",
+      "type": "website",
+      "formats": "product site · form builder · MCP server for assistants · AI research and growth flows · llms.txt",
+      "topics": [
+        "landing-pages",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free tier with paid plans; the product is proprietary and the site states no licence for its content at review",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "tally"
       ]
     },
     {
