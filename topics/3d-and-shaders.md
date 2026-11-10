@@ -59,6 +59,8 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [mesh3d](../sites/mesh3d.md) — A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.
 - [Messenger](../sites/messenger.md) — A browser game's illustrated tiny-planet title screen, with a single contrasting entry action and an immersive 3D scene.
 - [MetalForge](../sites/metalforge.md) — Gallery and live editor for shader animations, with SwiftUI, React Native and web outputs and an MCP beta.
+- [model-viewer](../sites/model-viewer.md) — Web component documentation for showing interactive 3D models in a page or in AR, with a quick start, examples and FAQ.
+- [Needle Engine](../sites/needle-engine.md) — Ships 3D scenes to the web from Unity, Blender or code, with a product-led site that shows the editor as the interface.
 - [NextWell Lab](../sites/nextwell-lab.md) — A portfolio lab of browser experiments with deep-linked 3D, interaction, game, clock and Pomodoro scenes.
 - [OKOK Services](../sites/okok-services.md) — Singapore and Amsterdam studio portfolio with a black chrome hero and links to interactive client experiences.
 - [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.

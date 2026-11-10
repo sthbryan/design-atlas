@@ -31,6 +31,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Amanita Design](../sites/amanita-design.md) — Game studio site with an illustrated rotating feature, a tiled game catalogue and media-rich individual game pages.
 - [Amicro](../sites/amicro.md) — Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.
 - [Anim8](../sites/anim8.md) — Browser editor that traces video into editable animated SVG and Lottie; MCP and CLI on Pro.
+- [Animata](../sites/animata.md) — Copy-in animated React components, 157 at review, browsed as moving previews rather than static screenshots.
 - [Animate UI](../sites/animate-ui.md) — Animated Radix/Base UI/Headless UI primitives, styled components and 260 animated Lucide icons via the shadcn CLI.
 - [Animated Icons](../sites/animated-icons.md) — 4,000+ recolourable Lottie/SVG/GIF icons; free tier plus one-time All-Access, no attribution needed.
 - [Animated shadcn/ui](../sites/animated-shadcn-ui.md) — Alpha MIT set of stock shadcn/ui components with Motion added, installed via its own CLI or npm package.

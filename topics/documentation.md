@@ -44,8 +44,10 @@ How sites document components, design systems and style — for human readers an
 - [Josh W. Comeau](../sites/josh-w-comeau.md) — Interactive CSS guides where you can resize layouts, change rules and inspect the resulting interface.
 - [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
 - [mdxcn](../sites/mdxcn.md) — Callouts, steps, terminals, timelines and charts for MDX, drawn with text and installed through the shadcn CLI.
+- [model-viewer](../sites/model-viewer.md) — Web component documentation for showing interactive 3D models in a page or in AR, with a quick start, examples and FAQ.
 - [Modern CSS Solutions](../sites/modern-css.md) — Practical CSS references with rendered examples for responsive layouts, components, typography and interaction states.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
+- [Needle Engine](../sites/needle-engine.md) — Ships 3D scenes to the web from Unity, Blender or code, with a product-led site that shows the editor as the interface.
 - [No AI Slop](../sites/no-ai-slop.md) — Removes AI writing patterns while keeping the writer's voice, and has a detect-only mode.
 - [Nord Design System](../sites/nord-design-system.md) — Nordhealth's health-care design system, with 65 Web Components documented as contracts, status badges and installable agent skills.
 - [Open UI](../sites/open-ui.md) — Cross-system component research that maps names, visual states and behavior differences for common web controls.

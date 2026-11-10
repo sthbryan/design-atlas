@@ -109,6 +109,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Nucleo](../sites/nucleo.md) — A polished SVG icon system with sharply differentiated families, a desktop editor, and an agent workflow for licensed icons.
 - [OGimage.gallery](../sites/ogimage-gallery.md) — A hand-picked gallery of Open Graph images, filtered by category and browsable by the site that made them.
 - [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
+- [Oldschool PC Font Pack](../sites/oldschool-pc-fonts.md) — The classic PC bitmap and text-mode typefaces, packaged as modern font files with a font index, readme and showcase.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
 - [Open Foundry](../sites/open-foundry.md) — A long-running curated catalogue of open source typefaces, with a specimen per face and the licence stated on the font page.
 - [Opensource UI](../sites/opensource-ui.md) — MIT React and Tailwind catalogue of about 190 copy-paste pieces, including device mockups and widgets, with llms.txt and an agent skill.
@@ -147,6 +148,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Tripo](../sites/tripo.md) — Text and image to 3D model generator sold in credits, with a per-model price stated on each plan and 8K textures on the top tiers.
 - [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.
+- [Unscii](../sites/unscii.md) — Bitmapped Unicode fonts in 8×8 and 8×16 cells, built for character-cell art, terminals and programming at fixed sizes.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
 - [V-Fonts](../sites/v-fonts.md) — Searchable variable-font catalogue with live specimens, adjustable axes, metadata and per-family licensing links.
 - [Vector Halftone Maker](../sites/vector-halftone-maker.md) — Lightweight browser tool for turning an image into configurable dot grids, pixel-like shapes and PNG or SVG exports.

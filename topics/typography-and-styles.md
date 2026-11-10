@@ -140,6 +140,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [NumberFlow](../sites/number-flow.md) — The standard animated-number component: Intl formatting, digit spins, grouping, React/Vue/Svelte/vanilla.
 - [OGANNA®](../sites/oganna.md) — Taipei design studio portfolio spanning identity, illustration, web and motion work, with category-tagged projects and multilingual navigation.
 - [OKLCH](../sites/oklch.md) — Evil Martians' OKLCH picker and converter with P3/Rec. 2020 gamut views and sRGB fallbacks.
+- [Oldschool PC Font Pack](../sites/oldschool-pc-fonts.md) — The classic PC bitmap and text-mode typefaces, packaged as modern font files with a font index, readme and showcase.
 - [Open Foundry](../sites/open-foundry.md) — A long-running curated catalogue of open source typefaces, with a specimen per face and the licence stated on the font page.
 - [Open Props](../sites/open-props.md) — Sub-atomic CSS custom properties for colour, type, spacing, shadows and easing, importable from a CDN as plain CSS.
 - [OpenDesign](../sites/open-design.md) — Apache-2.0 local design engine for coding agents, with 151 forkable DESIGN.md packages and MCP.
@@ -196,6 +197,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [UI Coach](../sites/ui-coach.md) — Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.
 - [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
 - [UIC School of Design Year End Show 2025](../sites/uic-year-end-show-2025.md) — UIC's student exhibition splits work into undergraduate and graduate cohorts, with discipline filters and individual thesis excerpts.
+- [Unscii](../sites/unscii.md) — Bitmapped Unicode fonts in 8×8 and 8×16 cells, built for character-cell art, terminals and programming at fixed sizes.
 - [UNSW Art & Design Annual 2025](../sites/unsw-art-design-annual-2025.md) — UNSW's graduate showcase pairs a media-led exhibition home page with filters for degree, discipline and student name.
 - [Utopia](../sites/utopia.md) — Free calculators that turn two type and spacing scales into fluid CSS clamp() tokens, with npm packages.
 - [V-Fonts](../sites/v-fonts.md) — Searchable variable-font catalogue with live specimens, adjustable axes, metadata and per-family licensing links.

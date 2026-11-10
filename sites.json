@@ -1112,6 +1112,33 @@
       ]
     },
     {
+      "slug": "animata",
+      "path": "sites/animata.md",
+      "title": "Animata",
+      "description": "Copy-in animated React components, 157 at review, browsed as moving previews rather than static screenshots.",
+      "url": "https://animata.design",
+      "type": "component-library",
+      "formats": "animated React components · copy-in source · 157+ components at review · live previews · llms.txt",
+      "topics": [
+        "motion",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Described as free and open source at review without naming a licence, so treat it as look-only until the repository's licence is checked",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "animate-ui",
+        "animista",
+        "number-flow"
+      ]
+    },
+    {
       "slug": "animate-ui",
       "path": "sites/animate-ui.md",
       "title": "Animate UI",
@@ -12100,6 +12127,30 @@
       ]
     },
     {
+      "slug": "model-viewer",
+      "path": "sites/model-viewer.md",
+      "title": "model-viewer",
+      "description": "Web component documentation for showing interactive 3D models in a page or in AR, with a quick start, examples and FAQ.",
+      "url": "https://modelviewer.dev",
+      "type": "documentation",
+      "formats": "web component · documentation · examples and editor · AR on supported devices · Apache 2.0",
+      "topics": [
+        "3d-and-shaders",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Apache License 2.0, copyrighted by Google and stated in the site footer at review",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "needle-engine",
+        "threejs"
+      ]
+    },
+    {
       "slug": "modern-css",
       "path": "sites/modern-css.md",
       "title": "Modern CSS Solutions",
@@ -12697,6 +12748,33 @@
         "cta-gallery",
         "minimal-gallery",
         "designeer"
+      ]
+    },
+    {
+      "slug": "needle-engine",
+      "path": "sites/needle-engine.md",
+      "title": "Needle Engine",
+      "description": "Ships 3D scenes to the web from Unity, Blender or code, with a product-led site that shows the editor as the interface.",
+      "url": "https://needle.tools",
+      "type": "tool",
+      "formats": "web engine · Unity and Blender integrations · code-first workflow · spatial websites · llms.txt",
+      "topics": [
+        "3d-and-shaders",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "No licence is stated for the engine on the pages read at review; the free tier and paid tiers are described commercially",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "model-viewer",
+        "threejs",
+        "spline"
       ]
     },
     {
@@ -13320,6 +13398,31 @@
       "related": [
         "active-theory",
         "lusion"
+      ]
+    },
+    {
+      "slug": "oldschool-pc-fonts",
+      "path": "sites/oldschool-pc-fonts.md",
+      "title": "Oldschool PC Font Pack",
+      "description": "The classic PC bitmap and text-mode typefaces, packaged as modern font files with a font index, readme and showcase.",
+      "url": "https://int10h.org/oldschool-pc-fonts",
+      "type": "font-library",
+      "formats": "font collection · font index with specimens · readme and technical notes · showcase page",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to use under CC BY-SA 4.0, as stated on the site at review; the pack asks for attribution and share-alike, and its files are conversions of typefaces from hardware and DOS-era software",
+      "licence_class": "cc-attribution",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "unscii",
+        "v-fonts",
+        "best-free-fonts"
       ]
     },
     {
@@ -19563,6 +19666,31 @@
         "motion-primitives",
         "smooth-ui",
         "kokonut-ui"
+      ]
+    },
+    {
+      "slug": "unscii",
+      "path": "sites/unscii.md",
+      "title": "Unscii",
+      "description": "Bitmapped Unicode fonts in 8×8 and 8×16 cells, built for character-cell art, terminals and programming at fixed sizes.",
+      "url": "https://viznut.fi/unscii",
+      "type": "font-library",
+      "formats": "bitmapped Unicode fonts · unscii-8 (8×8) and unscii-16 (8×16) · alternative 8-pixel styles · several export formats · showcase",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site states that the variants are in the public domain, with one following the licence of Unifont, which needs checking per variant before use",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "oldschool-pc-fonts",
+        "v-fonts",
+        "best-free-fonts"
       ]
     },
     {

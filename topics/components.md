@@ -31,6 +31,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Amacro](../sites/amacro.md) — 86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.
 - [Amicro](../sites/amicro.md) — Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.
 - [Angular Native](../sites/angular-native.md) — Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.
+- [Animata](../sites/animata.md) — Copy-in animated React components, 157 at review, browsed as moving previews rather than static screenshots.
 - [Animate UI](../sites/animate-ui.md) — Animated Radix/Base UI/Headless UI primitives, styled components and 260 animated Lucide icons via the shadcn CLI.
 - [Animated shadcn/ui](../sites/animated-shadcn-ui.md) — Alpha MIT set of stock shadcn/ui components with Motion added, installed via its own CLI or npm package.
 - [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
