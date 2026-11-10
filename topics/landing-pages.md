@@ -100,6 +100,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Kibo UI](../sites/kibo-ui.md) — Free MIT shadcn companion with 41 functional components (Gantt, Kanban, editor), 28 marketing blocks and an MCP server.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
+- [Korea Web Design](../sites/korea-web-design.md) — Korean directory of live Korean sites, one screenshot and a date per entry, split into desktop, mobile, blogs and reference links.
 - [Lafys](../sites/lafys.md) — Paid library of long website prompts for Claude, Lovable and v0, each with a video of the result; conflicting licence terms.
 - [Landbook](../sites/land-book.md) — Veteran human-curated website gallery with 20,000+ sites and 200,000+ cropped sections, filters by colour, style and platform, and an experts directory.
 - [Landdding](../sites/landdding.md) — Daily feed of about 2,400 landing pages in 40 categories, with tag, colour and platform filters and an llms.txt; free browsing is metered.

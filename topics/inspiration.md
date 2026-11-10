@@ -191,6 +191,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
 - [Kombai Selects](../sites/kombai-selects.md) — A stream of interface and motion references selected from X, Dribbble and Behance, with links back to each creator's post.
 - [Konfekt](../sites/konfekt.md) — Helsinki studio portfolio pairing quiet editorial framing with vivid packaging and identity work.
+- [Korea Web Design](../sites/korea-web-design.md) — Korean directory of live Korean sites, one screenshot and a date per entry, split into desktop, mobile, blogs and reference links.
 - [Kush Bothra](../sites/kush-bothra.md) — A product designer portfolio that treats its introduction as a playful canvas of oversized type, tilted labels and floating work previews.
 - [Lab01](../sites/lab01.md) — Sebastiano Guerriero's 12 live web-app UI experiments, each with its icons, fonts and palette listed.
 - [Landbook](../sites/land-book.md) — Veteran human-curated website gallery with 20,000+ sites and 200,000+ cropped sections, filters by colour, style and platform, and an experts directory.
@@ -304,6 +305,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Shoogle](../sites/shoogle.md) — Searches items across all shadcn registries from the web, the CLI or a remote MCP server.
 - [Showit](../sites/showit.md) — Drag-and-drop builder sold with a testimonial wall, a checklist of layout actions and a WordPress blog bolted on for designers.
 - [Siddz](../sites/siddz.md) — Minimal portfolio with a faint graph-paper grid, compact uppercase labels and paired project previews.
+- [Siiimple](../sites/siiimple.md) — Minimalist gallery running since 2008, with a full-page screenshot and a short composition note per entry, sorted into narrow categories.
 - [Site of Sites](../sites/site-of-sites.md) — Wix gallery of about 600 sites with a pure-blue serif display on white, 16:9 screenshot tiles and four crossable tag axes.
 - [Siteinspire](../sites/siteinspire.md) — A curated website gallery with filters for visual style, site type, subject and platform, plus screenshots and links to the live work.
 - [SiteThis](../sites/sitethis.md) — A visual archive of websites with category and style browsing, full-page previews and palette notes.
@@ -360,6 +362,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Wasmer.sh](../sites/wasmer-sh.md) — Browser-based WebAssembly shell with one-click examples for Pi, Node.js, Python, databases and developer utilities.
 - [Wavelength](../sites/wavelength.md) — A customer-success SaaS landing page with bright route graphics framing a working account dashboard.
 - [Web Design Clip](../sites/web-design-clip.md) — A Japanese website gallery with separate Japan, world, landing-page and smartphone collections plus color, layout, category and technology filters.
+- [Web Design Museum](../sites/webdesign-museum.md) — Archive of screenshots and videos of sites, apps, software and Flash games from the 1990s to the late 2000s, grouped by year and exhibition.
 - [Websites on Display](../sites/on-display.md) — A searchable web design archive with filters for style, type, typeface, color, technology and performance.
 - [Websitevice](../sites/websitevice.md) — A website inspiration directory organized by industry and site purpose, with short notes on why each example is notable.
 - [Webzooo](../sites/webzooo.md) — Browse live website captures by colour, industry and palette, then inspect a site's screenshot, colours and type.

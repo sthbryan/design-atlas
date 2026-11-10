@@ -9999,6 +9999,33 @@
       ]
     },
     {
+      "slug": "korea-web-design",
+      "path": "sites/korea-web-design.md",
+      "title": "Korea Web Design",
+      "description": "Korean directory of live Korean sites, one screenshot and a date per entry, split into desktop, mobile, blogs and reference links.",
+      "url": "https://koreawebdesign.com",
+      "type": "gallery",
+      "formats": "directory · screenshot grid with a date per entry · saved list · category tabs for websites, mobile sites, blogs and reference links · llms.txt",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "No licence is stated at review for the screenshots or the directory's own text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "best-website-gallery",
+        "landing-gallery",
+        "siiimple"
+      ]
+    },
+    {
       "slug": "kush-bothra",
       "path": "sites/kush-bothra.md",
       "title": "Kush Bothra",
@@ -16530,6 +16557,33 @@
       ]
     },
     {
+      "slug": "siiimple",
+      "path": "sites/siiimple.md",
+      "title": "Siiimple",
+      "description": "Minimalist gallery running since 2008, with a full-page screenshot and a short composition note per entry, sorted into narrow categories.",
+      "url": "https://siiimple.com",
+      "type": "gallery",
+      "formats": "curated gallery · full-page screenshot per entry · written design note · category collections · saved list · llms.txt",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free to browse and free to submit, with every entry reviewed by hand and no paid placement stated at review. The site states no licence for its screenshots or text",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "minimal-gallery",
+        "best-website-gallery",
+        "refs-gallery"
+      ]
+    },
+    {
       "slug": "simple-icons",
       "path": "sites/simple-icons.md",
       "title": "Simple Icons",
@@ -20144,6 +20198,31 @@
         "sensory-ui",
         "soundcn",
         "dialkit"
+      ]
+    },
+    {
+      "slug": "webdesign-museum",
+      "path": "sites/webdesign-museum.md",
+      "title": "Web Design Museum",
+      "description": "Archive of screenshots and videos of sites, apps, software and Flash games from the 1990s to the late 2000s, grouped by year and exhibition.",
+      "url": "https://www.webdesignmuseum.org",
+      "type": "gallery",
+      "formats": "archive · screenshot and video exhibits · dated exhibitions · platform and category indexes · RSS · quizzes",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse, funded by patrons and donations. The museum reserves its own rights and states that the screenshots belong to their respective owners",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "404-gallery",
+        "rebrand-gallery",
+        "best-website-gallery"
       ]
     },
     {

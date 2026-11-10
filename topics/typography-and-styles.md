@@ -166,6 +166,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Scritto](../sites/scritto.md) — MIT web component that animates only the characters that change in any string.
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
 - [Siddz](../sites/siddz.md) — Minimal portfolio with a faint graph-paper grid, compact uppercase labels and paired project previews.
+- [Siiimple](../sites/siiimple.md) — Minimalist gallery running since 2008, with a full-page screenshot and a short composition note per entry, sorted into narrow categories.
 - [Site of Sites](../sites/site-of-sites.md) — Wix gallery of about 600 sites with a pure-blue serif display on white, 16:9 screenshot tiles and four crossable tag axes.
 - [Siteinspire](../sites/siteinspire.md) — A curated website gallery with filters for visual style, site type, subject and platform, plus screenshots and links to the live work.
 - [SiteThis](../sites/sitethis.md) — A visual archive of websites with category and style browsing, full-page previews and palette notes.
@@ -201,6 +202,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Wakamai Fondue](../sites/wakamai-fondue.md) — Drop in a font to see its OpenType features, variable axes and glyphs, then get ready-made CSS, all in-browser.
 - [Wall of Portfolios](../sites/wall-of-portfolios.md) — Curated product-designer portfolios filterable by company, role, experience and country, plus case studies and monthly picks.
 - [Web Design Clip](../sites/web-design-clip.md) — A Japanese website gallery with separate Japan, world, landing-page and smartphone collections plus color, layout, category and technology filters.
+- [Web Design Museum](../sites/webdesign-museum.md) — Archive of screenshots and videos of sites, apps, software and Flash games from the 1990s to the late 2000s, grouped by year and exhibition.
 - [Websites on Display](../sites/on-display.md) — A searchable web design archive with filters for style, type, typeface, color, technology and performance.
 - [Wondel.ai Skills](../sites/wondelai-skills.md) — Refactoring UI, Nielsen/Krug heuristics and web typography turned into scored audit skills.
 - [Zian Lu](../sites/zian-lu.md) — Shanghai designer's portfolio spanning brand identity, typography and motion experiments, with concise credits and project context.
