@@ -29,6 +29,7 @@ Navbars, menus and wayfinding patterns — how to structure the thing every page
 - [RewampUI](../sites/rewampui.md) — About 75 animated React navbars, backgrounds, toggles and cursors with a copy CLI and per-component prompts; designs are admitted remixes.
 - [ShiftBar](../sites/shiftbar.md) — A small macOS menu-bar utility with an interactive browser demo for hiding and restoring a chosen span of status icons.
 - [Shochiku Games](../sites/shochiku-games.md) — Japanese publisher site pairing a green-framed game carousel with a categorized catalog and image-led title pages.
+- [SSGOI](../sites/ssgoi.md) — Page transitions for any router, named as a small vocabulary — zoom, drill, sheet, fade — with real apps rebuilt to demonstrate each.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
 - [unlumen UI](../sites/unlumen-ui.md) — Animated React registry forked from Animate UI, with motion primitives, copyable components and a paid Pro set.
 - [Yalqen](../sites/yalqen.md) — A macOS developer-browser site with sky-blue editorial type and interactive demonstrations of its keyboard-first interface.

@@ -86,6 +86,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [FlyonUI](../sites/flyonui.md) — Semantic Tailwind classes plus bundled Preline JS plugins; MIT with Preline Fair Use terms inherited, paid Pro blocks and MCP builder.
 - [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
 - [Font In Logo](../sites/fontinlogo.md) — Searchable database of the typefaces behind famous brand, film and game logos, with verified, based-on, modified and community labels.
+- [FontFridge](../sites/fontfridge.md) — Google Fonts browser that filters by what type does — OpenType features, variable axes, writing systems, colour — with JSON catalogs for agents.
 - [Fonts In Use](../sites/fonts-in-use.md) — Archive of real typography across web, print, identity and packaging, searchable by typeface, format, topic and visual tag.
 - [Fontshare](../sites/fontshare.md) — 100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.
 - [Fontsource](../sites/fontsource.md) — 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.

@@ -56,6 +56,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Feather (stale)](../sites/feather.md) — The original 287-icon minimal stroke set that Lucide forked. MIT, still usable, but no new icons since 2022.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
 - [Flowbase](../sites/flowbase.md) — Subscription library of 3,500+ Webflow, Figma and Framer sections, wireframes, icons and illustrations; use tied to the plan.
+- [FontFridge](../sites/fontfridge.md) — Google Fonts browser that filters by what type does — OpenType features, variable axes, writing systems, colour — with JSON catalogs for agents.
 - [Fontshare](../sites/fontshare.md) — 100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.
 - [Fontsource](../sites/fontsource.md) — 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.
 - [Free Icon Resources](../sites/free-icon-resources.md) — A categorized index of icon libraries, search tools, generators and learning references for choosing a specific icon source.

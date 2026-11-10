@@ -211,6 +211,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Spline](../sites/spline.md) — Browser and desktop 3D tool with an event system, code and glTF export, and an MCP server in the desktop app.
 - [Spotify Wrapped 2021](../sites/spotify-wrapped-2021.md) — Spotify’s 2021 Wrapped interview explains a campaign-specific ribbon, symbols, motion and digital applications through contemporary examples.
 - [Squints](../sites/squints.md) — Free Chrome extension that measures spacing, identifies type and colour, and slows or scrubs animations on any live page.
+- [SSGOI](../sites/ssgoi.md) — Page transitions for any router, named as a small vocabulary — zoom, drill, sheet, fade — with real apps rebuilt to demonstrate each.
 - [Starbucks Holiday Ad (2024)](../sites/starbucks-holiday-ad-2024.md) — A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.
 - [Studio Dumbar](../sites/studio-dumbar.md) — Rotterdam studio portfolio for bold visual identities, motion systems and expressive typography.
 - [Studio Yukiko](../sites/studio-yukiko.md) — Berlin studio portfolio pairing a condensed display face with a varied project grid, category filters and editorial case studies.

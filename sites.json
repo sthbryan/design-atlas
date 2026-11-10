@@ -6740,6 +6740,37 @@
       ]
     },
     {
+      "slug": "fontfridge",
+      "path": "sites/fontfridge.md",
+      "title": "FontFridge",
+      "description": "Google Fonts browser that filters by what type does — OpenType features, variable axes, writing systems, colour — with JSON catalogs for agents.",
+      "url": "https://font.chingru.com",
+      "type": "font-library",
+      "formats": "font browser · 1,959 families · filters for features, axes, width, language and colour · grid and row previews · saved list · JSON catalogs · llms.txt",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "The families are open-source Google Fonts, each under its own licence. The app states no licence for its own data or interface at review",
+      "licence_class": "not-stated",
+      "licences": {
+        "fonts": "open-source-permissive"
+      },
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "best-free-fonts",
+        "v-fonts",
+        "typeface-fyi"
+      ]
+    },
+    {
       "slug": "fontinlogo",
       "path": "sites/fontinlogo.md",
       "title": "Font In Logo",
@@ -17453,6 +17484,33 @@
         "8bitcn",
         "departure-mono",
         "ascii-studio"
+      ]
+    },
+    {
+      "slug": "ssgoi",
+      "path": "sites/ssgoi.md",
+      "title": "SSGOI",
+      "description": "Page transitions for any router, named as a small vocabulary — zoom, drill, sheet, fade — with real apps rebuilt to demonstrate each.",
+      "url": "https://ssgoi.dev",
+      "type": "js-library",
+      "formats": "framework-agnostic library · React, Svelte, Vue, Solid, Angular and Qwik · Web Animations API · docs · live app rewrites · llms.txt",
+      "topics": [
+        "motion",
+        "navigation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "MIT, as stated in the package metadata and the site's structured data at review (ssgoi 2.0.0)",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-10",
+      "status": "active",
+      "related": [
+        "number-flow",
+        "animate-ui",
+        "animista"
       ]
     },
     {
