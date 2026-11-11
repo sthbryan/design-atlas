@@ -1,11 +1,26 @@
-import { copyFileSync, mkdirSync } from 'node:fs';
-import { createRequire } from 'node:module';
-import { dirname, join } from 'node:path';
+import { readdirSync } from 'node:fs';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { defineConfig } from 'vitepress';
 import { GITHUB, ROUTES, atlasMarkdown, loadTopics, srcExclude } from './atlas.js';
 import { renderSearch } from './search.js';
 
-const require = createRequire(import.meta.url);
+const HERE = fileURLToPath(new URL('.', import.meta.url));
+let searchIndexHref = null;
+
+// The local search index is a hashed chunk, so its URL only exists once the
+// client bundle is on disk. Pages render after that, during the same build.
+function searchIndexUrl() {
+  if (process.env.NODE_ENV !== 'production') return null;
+  if (searchIndexHref) return searchIndexHref;
+  try {
+    const chunks = join(HERE, 'dist/assets/chunks');
+    const file = readdirSync(chunks).find((name) => /^@localSearchIndexroot\..+\.js$/.test(name));
+    if (file) searchIndexHref = `/assets/chunks/${file}`;
+  } catch {}
+  return searchIndexHref;
+}
+
 const topics = loadTopics();
 const SITE_URL = 'https://atlas.justcallmebryan.com/';
 const SOCIAL_IMAGE = new URL('og.png', SITE_URL).href;
@@ -29,8 +44,8 @@ export default defineConfig({
   lastUpdated: false,
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
-    ['meta', { name: 'theme-color', content: '#F6FAF8', media: '(prefers-color-scheme: light)' }],
-    ['meta', { name: 'theme-color', content: '#121815', media: '(prefers-color-scheme: dark)' }],
+    ['meta', { name: 'theme-color', content: '#F8F7F2', media: '(prefers-color-scheme: light)' }],
+    ['meta', { name: 'theme-color', content: '#1A140E', media: '(prefers-color-scheme: dark)' }],
     ['meta', { property: 'og:site_name', content: 'Design Atlas' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:image', content: SOCIAL_IMAGE }],
@@ -41,7 +56,9 @@ export default defineConfig({
   ],
   transformHead({ pageData, title, description }) {
     const url = publicUrl(pageData.relativePath);
+    const searchHref = searchIndexUrl();
     return [
+      ...(searchHref ? [['meta', { name: 'atlas-search-index', content: searchHref }]] : []),
       ['link', { rel: 'canonical', href: url }],
       ['meta', { property: 'og:url', content: url }],
       ['meta', { property: 'og:title', content: title }],
@@ -69,32 +86,31 @@ export default defineConfig({
       pageData.frontmatter.aside = false;
     }
   },
-  buildEnd(siteConfig) {
-    const licence = join(dirname(require.resolve('@fontsource-variable/montagu-slab/package.json')), 'LICENSE');
-    mkdirSync(join(siteConfig.outDir, 'fonts'), { recursive: true });
-    copyFileSync(licence, join(siteConfig.outDir, 'fonts', 'montagu-slab-OFL.txt'));
-  },
   themeConfig: {
     siteTitle: 'Design Atlas',
     nav: [
       { text: 'Topics', link: '/topics/', activeMatch: '^/topics/' },
       { text: 'Sites', link: '/sites/', activeMatch: '^/sites/' },
+      { text: 'Skills', link: '/skills', activeMatch: '^/skills' },
       { text: 'DESIGN.md', link: '/design' },
     ],
     socialLinks: [{ icon: 'github', link: GITHUB, ariaLabel: 'Design Atlas on GitHub' }],
     sidebar: [
       {
         text: 'Atlas',
+        collapsed: false,
         items: [
           { text: 'Home', link: '/' },
           { text: 'All sites', link: '/sites/' },
           { text: 'All topics', link: '/topics/' },
+          { text: 'Skills overview', link: '/skills' },
           { text: 'Website DESIGN.md', link: '/design' },
           { text: 'Contributing', link: '/contributing' },
         ],
       },
       {
         text: 'Topics',
+        collapsed: false,
         items: topics.map((topic) => ({ text: topic.title, link: `/topics/${topic.slug}` })),
       },
     ],

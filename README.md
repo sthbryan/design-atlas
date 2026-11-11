@@ -49,7 +49,7 @@ The plugin includes the atlas pages. The skills CLI installs the skill folders w
 
 ## Website
 
-The [VitePress site](site/home.md) uses the existing Markdown pages and serves this README at `/readme`. Its full site list and topic list are generated pages. Run the site locally with Bun:
+The [VitePress site](site/home.md) uses the existing Markdown pages and serves this README at `/readme`. Its full site list and topic list are generated pages, and `/skills` describes the two agent skills. Run the site locally with Bun:
 
 ```sh
 bun install

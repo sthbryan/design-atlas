@@ -66,6 +66,7 @@ function clear() {
       <span class="atlas-search-glyph" v-html="icon('magnifying-glass')"></span>
       <input
         id="atlas-filter"
+        aria-describedby="atlas-filter-count"
         ref="field"
         v-model="query"
         type="search"
@@ -76,7 +77,7 @@ function clear() {
       />
       <button v-if="query" class="atlas-button" type="button" @click="clear">Clear</button>
     </div>
-    <p class="atlas-count" role="status">{{ countText }}</p>
+    <p id="atlas-filter-count" class="atlas-count" role="status">{{ countText }}</p>
     <div v-html="legendHtml()"></div>
     <div v-if="shown.length && !keyboardNavigation" class="gazetteer atlas-virtual-gazetteer">
       <div class="gz-header" aria-hidden="true" v-html="gazetteerHeaderHtml"></div>

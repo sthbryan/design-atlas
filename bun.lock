@@ -8,7 +8,6 @@
         "virtua": "^0.52.10",
       },
       "devDependencies": {
-        "@fontsource-variable/montagu-slab": "5.3.0",
         "@phosphor-icons/core": "2.1.1",
         "vitepress": "1.6.4",
         "yaml": "2.9.1",
@@ -111,8 +110,6 @@
     "@esbuild/win32-ia32": ["@esbuild/win32-ia32@0.21.5", "", { "os": "win32", "cpu": "ia32" }, "sha512-SWXFF1CL2RVNMaVs+BBClwtfZSvDgtL//G/smwAc5oVK/UPu2Gu9tIaRgFmYFFKrmg3SyAjSrElf0TiJ1v8fYA=="],
 
     "@esbuild/win32-x64": ["@esbuild/win32-x64@0.21.5", "", { "os": "win32", "cpu": "x64" }, "sha512-tQd/1efJuzPC6rCFwEvLtci/xNFcTZknmXs98FYDfGE4wP9ClFV98nyKrzJKVPMhdDnjzLhdUyMX4PsQAPjwIw=="],
-
-    "@fontsource-variable/montagu-slab": ["@fontsource-variable/montagu-slab@5.3.0", "", {}, "sha512-6jM0wMbsYkEa14/+Oegi6HFEG2pFb0Li3H+vrXtExQ9E9YKPb08pVaVA3vIINmZfVl2fLaZ3/glzxfaGzwr15A=="],
 
     "@iconify-json/simple-icons": ["@iconify-json/simple-icons@1.2.97", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-Z6PmM6jvWVU7rmLzqbxCLJA7SeqCnK6lMHXtjyzHPLZebwuoojBEcHHycppahDzEeN9xujRkrV5J8QpOhMyNrg=="],
 

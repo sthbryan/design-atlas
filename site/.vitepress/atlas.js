@@ -12,6 +12,7 @@ export const ROUTES = {
   'CONTRIBUTING.md': 'contributing.md',
   'site/DESIGN.md': 'design.md',
   'site/home.md': 'index.md',
+  'site/skills.md': 'skills.md',
   'site/sites.md': 'sites/index.md',
   'site/topics.md': 'topics/index.md',
 };
