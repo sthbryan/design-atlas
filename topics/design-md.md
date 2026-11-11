@@ -30,6 +30,7 @@ Design systems written as a single markdown file an agent can read: the librarie
 - [DesignMD (designmd.me)](../sites/designmd-me.md) — Credit-based URL-to-DESIGN.md generator with CLI, agent skill, Figma import and a free Discover gallery.
 - [DesignMD.cc](../sites/designmd-cc.md) — Free URL-to-DESIGN.md generator measuring live CSS, with an MIT CLI and a benchmark library.
 - [designmd.supply](../sites/designmd-supply.md) — Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
+- [Devault](../sites/devault.md) — Library of 2,383 DESIGN.md systems free to copy, each exportable to nine formats, alongside a paid reference collection and an MCP server.
 - [extract-design-system](../sites/extract-design-system.md) — Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
 - [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
 - [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.

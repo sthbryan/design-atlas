@@ -40,6 +40,7 @@ Chart components, dashboard building blocks and small data displays (spark chart
 - [Synaptrix Labs](../sites/synaptrix-labs.md) — Neural-interface research site with neural signal artwork, a centered serif headline and a four-part platform carousel.
 - [The Pudding](../sites/the-pudding.md) — Visual essays that turn data and reported stories into distinctive, interactive editorial experiences.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
+- [Usecolor](../sites/usecolor.md) — OKLCH palette generator by Imperavi that builds tonal scales, semantic roles and chart-ready sets, with colour-blindness simulation.
 - [Visme](../sites/visme.md) — Design tool whose page is a row of eight output types, each with its own preview and one call to action, above named case studies.
 - [Wavelength](../sites/wavelength.md) — A customer-success SaaS landing page with bright route graphics framing a working account dashboard.
 <!-- atlas:sources:end -->

@@ -68,6 +68,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Easy UI](../sites/easy-ui.md) — Free Next.js templates and about 20 shadcn-installable components; MIT but thinly maintained, with template demos offline at review.
 - [Eldora UI](../sites/eldora-ui.md) — MIT animated landing-page components, text effects, device mockups and blocks, installed via the @eldoraui shadcn namespace, with llms.txt.
 - [Fantastical](../sites/fantastical.md) — Calendar app whose page stacks natural-language input, calendar sets and platform bands under press quotes from named reviewers.
+- [Fillout](../sites/fillout.md) — Form builder with unlimited forms and seats on every plan, 50+ field types, and AI or drag-and-drop authoring; now presented as "by Zite".
 - [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
 - [Flit](../sites/flit.md) — A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.
 - [Float UI](../sites/float-ui.md) — About 200 free Tailwind sections in HTML, React, Vue and Svelte; custom no-redistribution licence despite the open-source label.

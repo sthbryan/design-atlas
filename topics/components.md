@@ -138,6 +138,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Loader Buttons](../sites/loader-buttons.md) — 25 experimental loading-state buttons in WebGL, SVG, Canvas and CSS; no licence published.
 - [loading.dev](../sites/loading-dev.md) — 27 small React 19 spinners that inherit currentColor, with a Markdown page per spinner.
 - [LocalMode UI](../sites/localmode-ui.md) — MIT shadcn registry of local-first AI components and runnable browser demos for chat, RAG, vision, audio and privacy flows.
+- [lookup.design](../sites/lookup-design.md) — Hand-indexed library of UI screenshots from named brands, searchable by component — hero, card, navigation — with a free tier and no filters by style.
 - [Lucide](../sites/lucide.md) — Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.
 - [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
 - [mapcn](../sites/mapcn.md) — Map components distributed as a shadcn/ui registry, with a "copy prompt for your agent" button.
