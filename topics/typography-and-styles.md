@@ -71,6 +71,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [DesignMD.cc](../sites/designmd-cc.md) — Free URL-to-DESIGN.md generator measuring live CSS, with an MIT CLI and a benchmark library.
 - [designmd.supply](../sites/designmd-supply.md) — Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
 - [DesignSorcery](../sites/design-sorcery.md) — Website gallery with scroll-video previews, screenshot modes, and filters for visual style, framework, color and industry.
+- [Devault](../sites/devault.md) — Library of 2,383 DESIGN.md systems free to copy, each exportable to nine formats, alongside a paid reference collection and an MCP server.
 - [Dhruv Deora](../sites/dhruv-deora.md) — A playful portfolio pairing editorial typography and colorful project tiles with small pixel-art interactions.
 - [Dhruv Jaradi](../sites/dhruv-jaradi.md) — A portfolio framed by a dotted banner, hairline grid, hatched section breaks and small interactive profile details.
 - [DIA Studio](../sites/dia-studio.md) — A design studio archive with a dense monochrome work mosaic, compact filters and individual project overlays.
@@ -173,6 +174,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
 - [Siddz](../sites/siddz.md) — Minimal portfolio with a faint graph-paper grid, compact uppercase labels and paired project previews.
 - [Siiimple](../sites/siiimple.md) — Minimalist gallery running since 2008, with a full-page screenshot and a short composition note per entry, sorted into narrow categories.
+- [Silkscreen](../sites/silkscreen.md) — Jason Kottke's 1999 pixel typeface for small web graphics, in four cuts plus an expanded variant, uppercase only, under the OFL.
 - [Site of Sites](../sites/site-of-sites.md) — Wix gallery of about 600 sites with a pure-blue serif display on white, 16:9 screenshot tiles and four crossable tag axes.
 - [Siteinspire](../sites/siteinspire.md) — A curated website gallery with filters for visual style, site type, subject and platform, plus screenshots and links to the live work.
 - [SiteThis](../sites/sitethis.md) — A visual archive of websites with category and style browsing, full-page previews and palette notes.

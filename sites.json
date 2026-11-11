@@ -2129,6 +2129,33 @@
       ]
     },
     {
+      "slug": "babylonjs",
+      "path": "sites/babylonjs.md",
+      "title": "Babylon.js",
+      "description": "Apache-2.0 WebGL and WebGPU engine from Microsoft, with a playground, node editors, sandbox and inspector for building 3D in the browser.",
+      "url": "https://www.babylonjs.com",
+      "type": "js-library",
+      "formats": "TypeScript engine for WebGL and WebGPU · tree-shakable @babylonjs packages · Playground, Sandbox, Node Material Editor and Node Particle Editor · Inspector v2 · desktop Editor for Windows, macOS and Linux · Babylon Lite for small WebGPU bundles · llms.txt",
+      "topics": [
+        "3d-and-shaders",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Apache-2.0, stated in the site's own llms.txt and in the repository at review (about 26,000 stars). Babylon Native and the desktop Editor are part of the same open project",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "threejs",
+        "playcanvas",
+        "polygonjs"
+      ]
+    },
+    {
       "slug": "backgrounds-supply",
       "path": "sites/backgrounds-supply.md",
       "title": "Backgrounds Supply",
@@ -5433,6 +5460,39 @@
       ]
     },
     {
+      "slug": "devault",
+      "path": "sites/devault.md",
+      "title": "Devault",
+      "description": "Library of 2,383 DESIGN.md systems free to copy, each exportable to nine formats, alongside a paid reference collection and an MCP server.",
+      "url": "https://devault.design/design-md",
+      "type": "style-library",
+      "formats": "2,383 DESIGN.md systems at review · nine exports including DESIGN.md, Tailwind v4, CSS variables, shadcn/ui, design tokens, Figma variables, SwiftUI, Android XML and an image prompt · MCP server on paid plans · installable agent skill · llms.txt",
+      "topics": [
+        "design-md",
+        "agents-and-prompts",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "mcp",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "The DESIGN.md library is free to copy with no account or card. The wider library of about 172,670 designs is paid, and Devault's llms.txt states that screens of real products are references only, while only Devault-made visual assets and design systems may ship in your work",
+      "licence_class": "mixed",
+      "licences": {
+        "assets": "mixed"
+      },
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "designmd-store",
+        "getdesign-md",
+        "designmd-supply"
+      ]
+    },
+    {
       "slug": "devicon",
       "path": "sites/devicon.md",
       "title": "Devicon",
@@ -6592,6 +6652,34 @@
         "penpot",
         "framer",
         "v0"
+      ]
+    },
+    {
+      "slug": "fillout",
+      "path": "sites/fillout.md",
+      "title": "Fillout",
+      "description": "Form builder with unlimited forms and seats on every plan, 50+ field types, and AI or drag-and-drop authoring; now presented as \"by Zite\".",
+      "url": "https://www.fillout.com",
+      "type": "tool",
+      "formats": "hosted form builder · 50+ field types · multi-page and conditional logic · payments, scheduling, PDF and signatures · 50+ native integrations · REST API and workflows · llms.txt",
+      "topics": [
+        "ux-patterns",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "Proprietary. The free plan is free forever with unlimited forms, questions and seats and 1,000 responses a month; paid plans are $15, $40 and $75 per month at review",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "tally",
+        "typeform",
+        "opnform"
       ]
     },
     {
@@ -11097,6 +11185,31 @@
         "3dicons",
         "fontinlogo",
         "figma"
+      ]
+    },
+    {
+      "slug": "lookup-design",
+      "path": "sites/lookup-design.md",
+      "title": "lookup.design",
+      "description": "Hand-indexed library of UI screenshots from named brands, searchable by component — hero, card, navigation — with a free tier and no filters by style.",
+      "url": "https://lookup.design",
+      "type": "gallery",
+      "formats": "900+ screenshots at review · 40+ brands · component tags such as hero, card, navigation, filters and footer · search with stable query URLs · grid and list views · newsletter",
+      "topics": [
+        "inspiration",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated at review. The Terms & Conditions route renders an empty page, so the screenshots should be treated as look-only",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "mobbin",
+        "refero",
+        "collected"
       ]
     },
     {
@@ -17120,6 +17233,34 @@
       ]
     },
     {
+      "slug": "silkscreen",
+      "path": "sites/silkscreen.md",
+      "title": "Silkscreen",
+      "description": "Jason Kottke's 1999 pixel typeface for small web graphics, in four cuts plus an expanded variant, uppercase only, under the OFL.",
+      "url": "https://kottke.org/plus/type/silkscreen",
+      "type": "font-library",
+      "formats": "four cuts — Regular, Bold, Italic and Bold Italic — plus Silkscreen Expanded · TrueType for Windows, macOS and Linux · uppercase and digits only · FAQ with the drawing rules and spacing advice",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Distributed under the Open Font License, as the page states at review; free for personal and corporate use in web, print and anything else, including modification",
+      "licence_class": "open-source-permissive",
+      "licences": {
+        "fonts": "open-source-permissive"
+      },
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "unscii",
+        "galmuri",
+        "oldschool-pc-fonts"
+      ]
+    },
+    {
       "slug": "simple-icons",
       "path": "sites/simple-icons.md",
       "title": "Simple Icons",
@@ -20020,6 +20161,31 @@
         "iconoir",
         "circle-loaders",
         "3dicons"
+      ]
+    },
+    {
+      "slug": "usecolor",
+      "path": "sites/usecolor.md",
+      "title": "Usecolor",
+      "description": "OKLCH palette generator by Imperavi that builds tonal scales, semantic roles and chart-ready sets, with colour-blindness simulation.",
+      "url": "https://imperavi.com/usecolor",
+      "type": "tool",
+      "formats": "OKLCH palette generator · six generation models · colour roles and neutrals · tonal scales and semantics · protanopia, deuteranopia and tritanopia simulation · chart previews · exports to HEX, OKLCH, SVG and CSS",
+      "topics": [
+        "color",
+        "data-viz"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to use with a Pro tier at $5 per month or $50 per year at review, and a three-day trial with no card. No licence or terms for the tool are stated on the page, and nothing says what you may do with exported palettes",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "colorbox",
+        "hihayk-scale",
+        "poline"
       ]
     },
     {

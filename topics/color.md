@@ -70,6 +70,7 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [Starbucks Holiday Ad (2024)](../sites/starbucks-holiday-ad-2024.md) — A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
 - [U.S. Web Design System](../sites/uswds.md) — Federal design system with live component previews, configurable tokens and restrained, accessible page patterns.
+- [Usecolor](../sites/usecolor.md) — OKLCH palette generator by Imperavi that builds tonal scales, semantic roles and chart-ready sets, with colour-blindness simulation.
 - [Vector Halftone Maker](../sites/vector-halftone-maker.md) — Lightweight browser tool for turning an image into configurable dot grids, pixel-like shapes and PNG or SVG exports.
 - [Webzooo](../sites/webzooo.md) — Browse live website captures by colour, industry and palette, then inspect a site's screenshot, colours and type.
 <!-- atlas:sources:end -->

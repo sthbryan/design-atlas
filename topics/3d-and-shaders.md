@@ -28,6 +28,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [Abstract by Wannathis](../sites/abstract-by-wannathis.md) — A pack of sculptural abstract 3D objects in fuzzy, metallic, glass, and gradient finishes for expressive hero art and backgrounds.
 - [Active Theory](../sites/active-theory.md) — A creative studio portfolio built around a dark, animated particle scene and a compact route into its project work.
 - [Atelier UI](../sites/atelier-ui.md) — An interactive library of shader and motion components with a live preview, adjustable controls and copyable implementation prompts.
+- [Babylon.js](../sites/babylonjs.md) — Apache-2.0 WebGL and WebGPU engine from Microsoft, with a playground, node editors, sandbox and inspector for building 3D in the browser.
 - [Backgrounds Supply](../sites/backgrounds-supply.md) — Paid lifetime library of gradient, AI and animated hero backgrounds, plus a free Gradient Lab shader tool.
 - [Blender](../sites/blender.md) — Free GPL 3D suite for making and baking web assets, with glTF export and an official MCP server.
 - [Bruno Simon](../sites/bruno-simon.md) — A playable 3D portfolio that turns project discovery into driving through a stylized low-poly world.

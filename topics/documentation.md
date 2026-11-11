@@ -27,6 +27,7 @@ How sites document components, design systems and style — for human readers an
 - [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
 - [Astryx](../sites/astryx.md) — Meta's React design system with rich form controls, strong accessibility hooks and a plugin-based table.
 - [Atlassian Design](../sites/atlassian-design.md) — Atlassian's design system: tokens, primitives, component guidelines and accessibility rules, with llms.txt files for agents.
+- [Babylon.js](../sites/babylonjs.md) — Apache-2.0 WebGL and WebGPU engine from Microsoft, with a playground, node editors, sandbox and inspector for building 3D in the browser.
 - [Base UI](../sites/base-ui.md) — Unstyled, accessible React primitives from the Radix, Floating UI and MUI teams, now shadcn's default.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
 - [ColorBox](../sites/colorbox.md) — Palette generator built on OKLCH and OKLAB, checking WCAG contrast as you edit and exporting CSS, Tailwind, Figma tokens or JSON.

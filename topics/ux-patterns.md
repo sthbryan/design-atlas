@@ -50,6 +50,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [editorcn](../sites/editorcn.md) — Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
 - [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
 - [Empty States](../sites/empty-states.md) — About sixty shipped empty states, captioned by app and platform, on one static page with no filters or links.
+- [Fillout](../sites/fillout.md) — Form builder with unlimited forms and seats on every plan, 50+ field types, and AI or drag-and-drop authoring; now presented as "by Zite".
 - [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
 - [Flit](../sites/flit.md) — A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
