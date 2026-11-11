@@ -42,6 +42,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Amanita Design](../sites/amanita-design.md) — Game studio site with an illustrated rotating feature, a tiled game catalogue and media-rich individual game pages.
 - [Animesh Thakur](../sites/animesh-thakur.md) — A grid-based portfolio with offset display lettering, diagonal section dividers, project cards and a compact music player.
 - [Anjil](../sites/anjil-ink.md) — A restrained developer portfolio pairing a dithered travel photograph with a serif headline, concise biography and compact work timeline.
+- [Ansphare](../sites/ansphare.md) — Free gallery that pairs a design with its prompt, its DESIGN.md or a skill file you can drop into Claude or Cursor.
 - [Anzal Abidi](../sites/anzal-abidi.md) — A personal portfolio that frames a professional story with classical paintings, editorial type and a chaptered timeline.
 - [apmix.ai](../sites/apmix.md) — An AI API landing page that pairs a geometric mesh with side-by-side terminal sessions and a usage dashboard.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
@@ -234,6 +235,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Motion (motionin.design)](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
 - [MotionSites AI](../sites/motionsites.md) — Prompt library of illustrated website concepts, with category filters, copyable prompts and an authenticated MCP.
+- [MotionVideo](../sites/motionvideo.md) — Gallery of motion videos made by coding agents, each shown with the prompt that produced it, plus named moves and a free MCP catalogue.
 - [MotionWiki](../sites/motionwiki.md) — Browse creative systems and free skill previews, or study its own editorial catalog and live project previews for web and brand inspiration.
 - [movements.dev](../sites/movements.md) — Six browser-tunable UI utilities and libraries for refining component details, from refractive glass to shimmer and shadows.
 - [MUUUUU.ORG](../sites/muuuuu.md) — A Japanese design award gallery that highlights a daily site and tags work by composition, typography, color, motion and visual technique.

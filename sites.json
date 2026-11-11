@@ -1380,6 +1380,39 @@
       ]
     },
     {
+      "slug": "ansphare",
+      "path": "sites/ansphare.md",
+      "title": "Ansphare",
+      "description": "Free gallery that pairs a design with its prompt, its DESIGN.md or a skill file you can drop into Claude or Cursor.",
+      "url": "https://ansphare.com",
+      "type": "prompt-library",
+      "formats": "prompt gallery · brand DESIGN.md library · Claude and Cursor skills · CLI that writes a skill file",
+      "topics": [
+        "design-md",
+        "agents-and-prompts",
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "cli",
+        "skill",
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "free to browse and copy; premium skills and the full design-system library are paid subscriptions billed through Polar. The terms keep all rights over the prompts, videos and design resources and forbid reproducing, distributing or creating derivatives, so treat the prompts as references to read and adapt, never as text to republish.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "designmd-supply",
+        "designmd-store",
+        "lovable-prompts",
+        "vibeprompts",
+        "onepromptdesign"
+      ]
+    },
+    {
       "slug": "anthropic-design-plugin",
       "path": "sites/anthropic-design-plugin.md",
       "title": "Anthropic Design Plugin",
@@ -7796,6 +7829,33 @@
       ]
     },
     {
+      "slug": "glisse",
+      "path": "sites/glisse.md",
+      "title": "Glisse",
+      "description": "MIT React components that reproduce Apple's Liquid Glass in the browser — switch, slider, tab bar, menu, input and the glass surface itself.",
+      "url": "https://glisse.kelvinzhang.ca",
+      "type": "component-library",
+      "formats": "React component library · npm package (`glisse`) · CSS custom properties for the glass",
+      "topics": [
+        "components",
+        "motion",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "MIT (repo `0kzh/glisse`, about 490 stars at review, package version 0.5.0). No paid tier and no account.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "liquid-glass",
+        "liquid-glass-web-react",
+        "glass-lens-react",
+        "motion-primitives"
+      ]
+    },
+    {
       "slug": "gltf-report",
       "path": "sites/gltf-report.md",
       "title": "gltf.report",
@@ -12875,6 +12935,39 @@
         "onepromptdesign",
         "vibeprompts",
         "designmd"
+      ]
+    },
+    {
+      "slug": "motionvideo",
+      "path": "sites/motionvideo.md",
+      "title": "MotionVideo",
+      "description": "Gallery of motion videos made by coding agents, each shown with the prompt that produced it, plus named moves and a free MCP catalogue.",
+      "url": "https://motionvideo.xyz",
+      "type": "gallery",
+      "formats": "prompt gallery · agent skill · MCP server · public API · prompt templates",
+      "topics": [
+        "motion",
+        "agents-and-prompts",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "skill",
+        "api",
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "gallery, gallery prompts, the MCP catalogue tools and the onboarding skill are free. Pro is US$9 per month, US$79 per year or US$149 once; Business is US$29 per month or US$249 per year for three seats. Pro unlocks every move and template prompt, the Pro skill from a private repository and two extra MCP tools — at review.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "60fps",
+        "motionsites",
+        "motion-primitives",
+        "lottiefiles-motion-design"
       ]
     },
     {
@@ -21465,6 +21558,41 @@
         "wonderlist",
         "made-in-webflow",
         "best-website-templates"
+      ]
+    },
+    {
+      "slug": "wensity-ui",
+      "path": "sites/wensity-ui.md",
+      "title": "Wensity UI",
+      "description": "115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.",
+      "url": "https://ui.wensity.com",
+      "type": "component-library",
+      "formats": "React component library · shadcn-compatible registry · CLI · MCP server · agent skills · background generators",
+      "topics": [
+        "components",
+        "motion",
+        "ai-interfaces",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "cli",
+        "llms-txt",
+        "skill",
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "free items are MIT, including the CLI and MCP server; Pro components and blocks sit under the Wensity UI Commercial License (unlimited projects and clients, one developer per licence, no redistributing the source as a library, template or UI kit). Pro was US$169 a year or US$199 once at review; templates US$59–$99 each. Team pricing is by email.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "aceternity-ui",
+        "magic-ui",
+        "21st-dev",
+        "motion-primitives"
       ]
     },
     {

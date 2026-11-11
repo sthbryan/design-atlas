@@ -70,6 +70,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Unsiloed AI](../sites/unsiloed.md) — Document-AI site that turns parsing into a layered illustration, with annotated document regions and side-by-side output examples.
 - [Variant](../sites/variant.md) — Explore a prompt-led stream of live interface experiments, then use the examples as inspiration for your own visual direction.
 - [Wasmer.sh](../sites/wasmer-sh.md) — Browser-based WebAssembly shell with one-click examples for Pi, Node.js, Python, databases and developer utilities.
+- [Wensity UI](../sites/wensity-ui.md) — 115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

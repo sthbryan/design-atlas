@@ -209,6 +209,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Websites on Display](../sites/on-display.md) — A searchable web design archive with filters for style, type, typeface, color, technology and performance.
 - [Websitevice](../sites/websitevice.md) — A website inspiration directory organized by industry and site purpose, with short notes on why each example is notable.
 - [Wedoflow](../sites/wedoflow.md) — Marketplace of 216 Webflow templates at $39 to $169 each, sold through an all-access pass, with category labels on every preview.
+- [Wensity UI](../sites/wensity-ui.md) — 115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.
 - [Wonderlist](../sites/wonderlist.md) — 127 paid website designs in three fixed-price packages, sold as Figma files with 1,137 pages across SaaS, agency, portfolio and industry briefs.
 - [Xnapper](../sites/xnapper.md) — A screenshot app whose homepage demonstrates framing, backgrounds, ratios and redaction in its own editor UI.
 - [Yaak](../sites/yaak.md) — API client page with a light and dark toggle in the hero preview, numbered capability lines and a versioned changelog used as proof.

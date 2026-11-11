@@ -28,6 +28,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [agentcn](../sites/agentcn.md) — Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
 - [Anim8](../sites/anim8.md) — Browser editor that traces video into editable animated SVG and Lottie; MCP and CLI on Pro.
 - [Annnimate](../sites/annnimate.md) — 105 GSAP components in React, Vue and HTML from a studio, with an MCP for paid subscribers.
+- [Ansphare](../sites/ansphare.md) — Free gallery that pairs a design with its prompt, its DESIGN.md or a skill file you can drop into Claude or Cursor.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
 - [Are.na](../sites/are-na.md) — Independent research-style bookmarking in connected channels, with a v3 REST API, llms.txt, official OAuth MCP server and CLI.
 - [ASCII Magic](../sites/ascii-magic.md) — Browser image and video studio for ASCII, dithering, mosaics and visual effects, with an MCP server for agents.
@@ -100,6 +101,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motion](../sites/motion-dev.md) — Former Framer Motion for React, JS and Vue: MIT core, free docs MCP and skill, paid Motion+ extras.
 - [MotionSites AI](../sites/motionsites.md) — Prompt library of illustrated website concepts, with category filters, copyable prompts and an authenticated MCP.
+- [MotionVideo](../sites/motionvideo.md) — Gallery of motion videos made by coding agents, each shown with the prompt that produced it, plus named moves and a free MCP catalogue.
 - [MotionWiki](../sites/motionwiki.md) — Browse creative systems and free skill previews, or study its own editorial catalog and live project previews for web and brand inspiration.
 - [NameThatUI](../sites/name-that-ui.md) — A visual dictionary of UI elements that turns a bad description into the right name, the API symbol and an agent prompt.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.

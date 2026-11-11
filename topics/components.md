@@ -103,6 +103,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Gauge UI](../sites/gauge-ui.md) — Composable SVG gauge primitives for React, where arcs, zones, ticks and needles assemble from one shared context.
 - [Genially](../sites/genially.md) — Interactive content tool whose template gallery is a taxonomy lesson, organised by output type, audience and named game format.
 - [glass-lens-react](../sites/glass-lens-react.md) — A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.
+- [Glisse](../sites/glisse.md) — MIT React components that reproduce Apple's Liquid Glass in the browser — switch, slider, tab bar, menu, input and the glass surface itself.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
@@ -252,6 +253,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
 - [Viewport UI](../sites/viewport-ui.md) — A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.
 - [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
+- [Wensity UI](../sites/wensity-ui.md) — 115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing
