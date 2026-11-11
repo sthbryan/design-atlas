@@ -8,7 +8,7 @@ topics: [design-md, agents-and-prompts, inspiration, motion]
 verdict: useful
 agent: [cli, skill, prompts]
 pricing: freemium
-licence: free to browse and copy; premium skills and the full design-system library are paid subscriptions billed through Polar. The terms keep all rights over the prompts, videos and design resources and forbid reproducing, distributing or creating derivatives, so treat the prompts as references to read and adapt, never as text to republish.
+licence: free to browse and copy; the FAQ says premium Claude Skills and the full design-system library need payment, and the terms route paid plans through Polar and keep all rights over the prompts, videos and design resources, forbidding reproduction, distribution and derivatives. Treat the prompts as references to read and adapt, never as text to republish.
 licence_class: proprietary-paid
 reviewed: 2026-11-11
 status: active
@@ -50,7 +50,7 @@ That writes `hero-section-skill.md`, which bundles the video URL on the CDN, pre
 ## Watch out for
 
 - **Rights**: the terms keep all rights over the prompts and design resources and prohibit reproduction, distribution and derivatives. Copying a prompt into a project is the intended use; publishing or reselling collections of them is not.
-- **Paid sides**: the tool is free, but premium skills and the full design-system library are subscriptions, processed by Polar, and the terms say sales are final except under the refund policy.
+- **Paid sides**: the tool is free, but premium skills and the full design-system library are paid, processed through Polar, and the terms say sales are final except under the refund policy. There is no public pricing page, so check the in-app billing screen before subscribing.
 - **Prompts are not specs**: they describe a look in prose. Expect to iterate, and check the result rather than trusting the wording.
 - **Generated DESIGN.md files** come from parsing HTML and CSS, so they can pick up a build tool's artifacts or miss states the page never showed.
 - **Share of the catalogue is AI-video oriented**, which is useful for motion work and noise for a static interface.

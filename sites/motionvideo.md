@@ -21,7 +21,7 @@ related: [60fps, motionsites, motion-primitives, lottiefiles-motion-design]
 
 ## What it is
 
-MotionVideo is a small independent catalogue of motion work that was made by AI coding agents rather than keyframed by hand, and every entry carries the prompt behind it. The gallery is grouped by kind of motion — product UI, kinetic type, charts, diagrams, characters, particles, shapes — and each card shows a preview, the prompt, and a button to run it again with your own agent. Around the gallery sit four supporting sections: **Moves** (named techniques such as a shape morphing through UI states, each with the copy-ready prompt), **Templates** (prompt structures with fields for concept, palette, length and size), **Creatives** (the designers and studios whose work is credited) and **Skills** (motion skills you install into an agent). The pitch is that agents can already write animation code but lack taste, so the site sells the taste in written form.
+MotionVideo is a small independent catalogue of motion work that was made by AI coding agents rather than keyframed by hand, and nearly every entry carries the prompt behind it: the public catalog endpoint listed 594 videos at this review, and 591 of them expose their prompt. The gallery is grouped by kind of motion — product UI, kinetic type, charts, diagrams, characters, particles, shapes — and each card shows a preview, the prompt, and a button to run it again with your own agent. The catalogue is dominated by one model, Opus 5.5, with Fable 5.x versions behind it, which the catalog records per entry alongside the stack and the creator's handle. Around the gallery sit four supporting sections: **Moves** (named techniques such as a shape morphing through UI states, each with the copy-ready prompt), **Templates** (prompt structures with fields for concept, palette, length and size), **Creatives** (the designers and studios whose work is credited) and **Skills** (motion skills you install into an agent). The pitch is that agents can already write animation code but lack taste, so the site sells the taste in written form.
 
 ## When to open it
 
@@ -35,10 +35,11 @@ MotionVideo is a small independent catalogue of motion work that was made by AI 
 - **Moves as a shared vocabulary**: named techniques an agent can be told to use, which is far more useful than adjectives.
 - **Templates with fields**: concept, palette, length and size are the four variables that usually need stating, and the template makes you state them.
 - **Free MCP catalogue**: searching the gallery from inside an agent needs no plan.
+- **A named, countable library**: 120 moves at this review, each with a description and examples, so "use a whip pan that lands on the logo" stops being a guess.
 
 ## Using it with agents
 
-This is built agent-first. The site publishes `llms.txt`, a `skill.md` that an agent can read to set itself up, per-page Markdown (the pricing page is `pricing.md`), and a public API with endpoints for the catalogue, the directories and the moves. A free MCP server lets Claude, ChatGPT or Cursor search the gallery and pull prompts. Pro adds the Pro skill, installed from a private GitHub repository, plus the `search-moves` and `get-move-prompt` tools. The documented setup lives at `/docs/mcp` and `/docs/skill`.
+This is built agent-first. The site publishes `llms.txt`, a `skill.md` that an agent can read to set itself up, per-page Markdown (the pricing page is `pricing.md`), and a keyless read-only API with an OpenAPI 3.1 document at `/openapi.json`: `GET /api/catalog` returns every gallery video with its prompt, model, stack, effort and media URLs, `GET /api/catalog/directories` returns the tools, skills and creatives lists, and `GET /api/moves` the public part of every move. A free MCP server lets Claude, ChatGPT or Cursor search the gallery and pull prompts. Pro adds the Pro skill, installed from a private GitHub repository, plus the `search-moves` and `get-move-prompt` tools. The documented setup lives at `/docs/mcp` and `/docs/skill`.
 
 ## Watch out for
 

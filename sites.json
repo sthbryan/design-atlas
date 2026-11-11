@@ -1400,7 +1400,7 @@
         "prompts"
       ],
       "pricing": "freemium",
-      "licence": "free to browse and copy; premium skills and the full design-system library are paid subscriptions billed through Polar. The terms keep all rights over the prompts, videos and design resources and forbid reproducing, distributing or creating derivatives, so treat the prompts as references to read and adapt, never as text to republish.",
+      "licence": "free to browse and copy; the FAQ says premium Claude Skills and the full design-system library need payment, and the terms route paid plans through Polar and keep all rights over the prompts, videos and design resources, forbidding reproduction, distribution and derivatives. Treat the prompts as references to read and adapt, never as text to republish.",
       "licence_class": "proprietary-paid",
       "reviewed": "2026-11-11",
       "status": "active",
@@ -17284,6 +17284,39 @@
         "compute-toys",
         "paper-shaders",
         "canvas-ui"
+      ]
+    },
+    {
+      "slug": "shaders",
+      "path": "sites/shaders.md",
+      "title": "Shaders",
+      "description": "MIT WebGPU component library with 200 shader effects for React, Vue, Svelte and Solid, plus a paid pro library, visual editor and MCP server.",
+      "url": "https://shaders.com",
+      "type": "js-library",
+      "formats": "npm package (`shaders`) · WebGPU components for React, Vue, Svelte, Solid and vanilla JS · visual editor · CLI · MCP server · Framer plugin",
+      "topics": [
+        "3d-and-shaders",
+        "components",
+        "motion",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "cli"
+      ],
+      "pricing": "freemium",
+      "licence": "the component library is MIT (`shader-effects-inc/shaders`, about 5.9k stars at review) and free to install. Pro is a subscription at US$10 a month billed US$120 a year, or US$299 once for lifetime, and unlocks the curated pro shader library, code export from the editor and the MCP server. The components are composable layers rather than prebuilt sections, so what you build from them is yours under the MIT terms.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "paper-shaders",
+        "scrollshaders",
+        "book-of-shaders",
+        "aceternity-ui",
+        "motion-primitives"
       ]
     },
     {
