@@ -56,7 +56,7 @@ Every hub, in the order the atlas reads them. Each one opens with a shortlist, t
 
 ## Install the agent skills
 
-Design Atlas includes two skills: `design-atlas` finds references and `design-atlas-ui` turns them into a design direction and working interface.
+Design Atlas includes two skills: `design-atlas` finds references and `design-atlas-ui` turns them into a design direction and working interface. <a href="/skills">What each one does</a> is on its own page.
 
 Install both with `npx skills` for any [supported coding agent](https://github.com/vercel-labs/skills):
 

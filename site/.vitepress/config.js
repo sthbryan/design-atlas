@@ -70,6 +70,7 @@ export default defineConfig({
     nav: [
       { text: 'Topics', link: '/topics/', activeMatch: '^/topics/' },
       { text: 'Sites', link: '/sites/', activeMatch: '^/sites/' },
+      { text: 'Skills', link: '/skills', activeMatch: '^/skills' },
       { text: 'DESIGN.md', link: '/design' },
     ],
     socialLinks: [{ icon: 'github', link: GITHUB, ariaLabel: 'Design Atlas on GitHub' }],
@@ -81,6 +82,7 @@ export default defineConfig({
           { text: 'Home', link: '/' },
           { text: 'All sites', link: '/sites/' },
           { text: 'All topics', link: '/topics/' },
+          { text: 'Skills overview', link: '/skills' },
           { text: 'Website DESIGN.md', link: '/design' },
           { text: 'Contributing', link: '/contributing' },
         ],
