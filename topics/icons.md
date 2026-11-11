@@ -62,6 +62,7 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Rune Icons](../sites/rune-icons.md) — 223 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.
 - [Shadcn Labs Skills](../sites/shadcn-skills.md) — Six MIT skills: launch a shadcn registry, generate, audit and extend SVG icon sets, Tailwind-to-StyleX.
 - [Simple Icons](../sites/simple-icons.md) — The standard CC0 set of 3,461 one-colour brand logos, with official hex colours and a colour CDN.
+- [SVG Shapes](../sites/shapes-gallery.md) — Copy-first gallery of 70+ hand-drawn SVG shapes, one click to the clipboard, with a download-all option and no account.
 - [Svgl](../sites/svgl.md) — Searchable brand-logo SVG library with category filters, light and dark variants, copy formats, downloads and an API.
 - [Tabler Icons](../sites/tabler-icons.md) — Over 6,200 MIT outline and filled icons on a 2px grid, with packages for every major framework and llms.txt docs.
 - [The Iconography Encyclopedia](../sites/iconography-encyclopedia.md) — An alphabetical field guide to icon design terms, from alignment and anatomy to stroke weight and wayfinding.
