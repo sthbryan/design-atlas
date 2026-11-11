@@ -124,7 +124,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
 - [Rive](../sites/rive.md) — State-machine vector editor with MIT runtimes, an agent-friendly CLI and a local MCP; exporting needs a paid seat.
 - [Screenshot to Code](../sites/screenshot-to-code.md) — MIT tool turning screenshots, recordings or text into HTML/Tailwind/React/Vue code; hosted or self-hosted.
-- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [Scrolltide](../sites/scrolltide.md) — Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.
 - [Shadcn Labs](../sites/shadcn-labs.md) — Index of the independent Shadcn Labs registries: termcn, pdfcn, emailcn, ogimagecn, shadercn and more.
 - [Shadcn Studio](../sites/shadcn-studio.md) — ThemeSelection's shadcn suite: blocks, templates, theme generator, Figma kit and an MCP; strict site licence.
 - [shadcn-cssinjs](../sites/shadcn-cssinjs.md) — MIT port of the full shadcn/ui set to StyleX on Base UI, with the same CSS variables, Markdown docs mirrors and a site skill.

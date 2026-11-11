@@ -4304,7 +4304,7 @@
       "pricing": "free",
       "licence": "Not stated (free to browse; includes free templates from sponsors like Webestica)",
       "licence_class": "not-stated",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-11-11",
       "status": "active",
       "related": [
         "navbar-gallery",
@@ -15945,7 +15945,7 @@
       "pricing": "not-stated",
       "licence": "Not stated (site is in beta, \"new styles added every week\")",
       "licence_class": "not-stated",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-11-11",
       "status": "active",
       "related": [
         "kage",
@@ -16803,10 +16803,10 @@
       "slug": "scrolltide",
       "path": "sites/scrolltide.md",
       "title": "Scrolltide",
-      "description": "Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.",
+      "description": "Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.",
       "url": "https://scrolltide.co",
       "type": "template-library",
-      "formats": "template library · AI prompts",
+      "formats": "template library · AI prompts · MCP server",
       "topics": [
         "motion",
         "agents-and-prompts",
@@ -16815,12 +16815,13 @@
       ],
       "verdict": "useful",
       "agent": [
-        "prompts"
+        "prompts",
+        "mcp"
       ],
       "pricing": "paid",
-      "licence": "Paid. Monthly $15/mo (was $29), yearly $89/yr (was $129), lifetime $159 one-time (was $239). Personal and client-use licence included on all plans.",
+      "licence": "Paid. At this review the monthly plan is $29 a month (down from $39, with a fair use of 10 premium copies a week), yearly is $108 billed as $9 a month, and lifetime is $239 one-time (down from $299). The 3D templates, UI screens, shader backgrounds and the MCP server come only with yearly and lifetime, while monthly covers the core library. A personal and client-use licence is included on all plans.",
       "licence_class": "proprietary-paid",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-11-11",
       "status": "active",
       "related": [
         "kage",

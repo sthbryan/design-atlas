@@ -10,7 +10,7 @@ agent: []
 pricing: free
 licence: Not stated (free to browse; includes free templates from sponsors like Webestica)
 licence_class: not-stated
-reviewed: 2026-09-25
+reviewed: 2026-11-11
 status: active
 related: [navbar-gallery, footer-design, gradient-buttons]
 ---

@@ -204,7 +204,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Screen Movie](../sites/screen-movie.md) — A macOS recording and motion editor whose site shows cinematic ways to frame, zoom and animate product demos.
 - [Scritto](../sites/scritto.md) — MIT web component that animates only the characters that change in any string.
 - [Scroll Shaders](../sites/scrollshaders.md) — Paid library of 117 looping WebGL backgrounds, shader components and 6K stills, sold as paste-in code or as MP4 for tools that take no code.
-- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [Scrolltide](../sites/scrolltide.md) — Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.
 - [Sera UI](../sites/sera-ui.md) — About 90 MIT animated React and Tailwind components via shadcn registry URLs; now owned by Pimjo, repo quiet since February 2026.
 - [Shane Chellam](../sites/shane-chellam.md) — An interactive portfolio that turns a career into a four-stop 3D bike journey with a clear one-page recruiter route.
 - [Skiper UI](../sites/skiper-ui.md) — Numbered, polished recreations of well-known designers' interactions; small free subset, murky licence.

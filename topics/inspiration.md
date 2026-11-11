@@ -300,7 +300,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Savee](../sites/savee.md) — Editorial motion-template shop with After Effects, Figma and Jitter previews for studying kinetic type and product compositions.
 - [SceneAI](../sites/sceneai.md) — Curated landing-page prompts, animated backgrounds and gradients for studying expressive web sections and motion.
 - [ScreensDesign](../sites/screensdesign.md) — Study real app onboarding, paywalls and product flows through searchable screens, chaptered videos and app breakdowns.
-- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [Scrolltide](../sites/scrolltide.md) — Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.
 - [Sections.wtf](../sites/sections-wtf.md) — Short recordings of individual website sections, filterable by 22 block types with source-site and same-site links.
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
 - [Sephiro](../sites/sephiro.md) — A React and Preact component catalogue that pairs live state examples with six built-in themes and a compact token system.
