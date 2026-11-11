@@ -10,8 +10,34 @@ const { Layout } = DefaultTheme;
 const { frontmatter } = useData();
 const isSite = computed(() => frontmatter.value.pageClass === 'atlas-site');
 
-onMounted(enhanceSidebar);
-onBeforeUnmount(releaseSidebar);
+let searchTrigger = null;
+
+function warmSearch() {
+  const href = document.querySelector('meta[name="atlas-search-index"]')?.content;
+  if (!href || document.querySelector('link[data-atlas-search]')) return;
+  const link = document.createElement('link');
+  link.rel = 'prefetch';
+  link.as = 'script';
+  link.href = href;
+  link.dataset.atlasSearch = '';
+  document.head.append(link);
+}
+
+onMounted(() => {
+  enhanceSidebar();
+  searchTrigger = document.querySelector('.VPNavBarSearch');
+  if (!searchTrigger) return;
+  searchTrigger.addEventListener('pointerenter', warmSearch, { once: true });
+  searchTrigger.addEventListener('focusin', warmSearch, { once: true });
+  searchTrigger.addEventListener('pointerdown', warmSearch, { once: true });
+});
+
+onBeforeUnmount(() => {
+  releaseSidebar();
+  searchTrigger?.removeEventListener('pointerenter', warmSearch);
+  searchTrigger?.removeEventListener('focusin', warmSearch);
+  searchTrigger?.removeEventListener('pointerdown', warmSearch);
+});
 </script>
 
 <template>

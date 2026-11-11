@@ -1,6 +1,25 @@
+import { readdirSync } from 'node:fs';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { defineConfig } from 'vitepress';
 import { GITHUB, ROUTES, atlasMarkdown, loadTopics, srcExclude } from './atlas.js';
 import { renderSearch } from './search.js';
+
+const HERE = fileURLToPath(new URL('.', import.meta.url));
+let searchIndexHref = null;
+
+// The local search index is a hashed chunk, so its URL only exists once the
+// client bundle is on disk. Pages render after that, during the same build.
+function searchIndexUrl() {
+  if (process.env.NODE_ENV !== 'production') return null;
+  if (searchIndexHref) return searchIndexHref;
+  try {
+    const chunks = join(HERE, 'dist/assets/chunks');
+    const file = readdirSync(chunks).find((name) => /^@localSearchIndexroot\..+\.js$/.test(name));
+    if (file) searchIndexHref = `/assets/chunks/${file}`;
+  } catch {}
+  return searchIndexHref;
+}
 
 const topics = loadTopics();
 const SITE_URL = 'https://atlas.justcallmebryan.com/';
@@ -37,7 +56,9 @@ export default defineConfig({
   ],
   transformHead({ pageData, title, description }) {
     const url = publicUrl(pageData.relativePath);
+    const searchHref = searchIndexUrl();
     return [
+      ...(searchHref ? [['meta', { name: 'atlas-search-index', content: searchHref }]] : []),
       ['link', { rel: 'canonical', href: url }],
       ['meta', { property: 'og:url', content: url }],
       ['meta', { property: 'og:title', content: title }],
