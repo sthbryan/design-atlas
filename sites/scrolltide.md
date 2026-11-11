@@ -1,16 +1,16 @@
 ---
 title: Scrolltide
-description: Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+description: Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.
 url: https://scrolltide.co
 type: template-library
-formats: template library · AI prompts
+formats: template library · AI prompts · MCP server
 topics: [motion, agents-and-prompts, inspiration, landing-pages]
 verdict: useful
-agent: [prompts]
+agent: [prompts, mcp]
 pricing: paid
-licence: Paid. Monthly $15/mo (was $29), yearly $89/yr (was $129), lifetime $159 one-time (was $239). Personal and client-use licence included on all plans.
+licence: Paid. At this review the monthly plan is $29 a month (down from $39, with a fair use of 10 premium copies a week), yearly is $108 billed as $9 a month, and lifetime is $239 one-time (down from $299). The 3D templates, UI screens, shader backgrounds and the MCP server come only with yearly and lifetime, while monthly covers the core library. A personal and client-use licence is included on all plans.
 licence_class: proprietary-paid
-reviewed: 2026-09-25
+reviewed: 2026-11-11
 status: active
 related: [kage, refero-styles, animejs, kinetics]
 ---
@@ -30,14 +30,14 @@ Scrolltide is a curated library of templates and prompts built around cinematic,
 
 ## Most useful
 
-- The catalog states 94 templates (landing pages, heroes, portfolios, 3D sites), 16 components, 55 shaders, 18 sections (pricing, footers, CTAs, forms) and 14 UI screens (dashboards, finance, commerce).
+- The catalog states 145 templates (landing pages, heroes, portfolios, 3D sites), 95 components, 55 shaders, 24 sections (pricing, footers, CTAs, forms) and 14 UI screens (dashboards, finance, commerce) at this review.
 - Stack covered: React, Vite, Next.js, Tailwind, Framer Motion, GSAP, Three.js, WebGL and Lenis.
 - Filters by type, framework and aesthetic within each category (Library, Components, Shaders, Sections, UI).
-- The yearly and lifetime plans unlock 3D templates, UI screens and shaders that the monthly plan doesn't include.
+- The yearly and lifetime plans unlock 3D templates, UI screens, shaders and the MCP server that the monthly plan doesn't include.
 
 ## Using it with agents
 
-Each template ships with an "AI-engineered" prompt meant to be pasted straight into Claude, Cursor or v0; the site itself promises the exported result is production-ready Next.js code, not just a visual mockup.
+Each template ships with an "AI-engineered" prompt meant to be pasted straight into Claude, Cursor or v0; the site itself promises the exported result is production-ready Next.js code, not just a visual mockup. Yearly and lifetime plans add an MCP server at `https://www.scrolltide.co/api/mcp`, connected with `claude mcp add --transport http scrolltide https://www.scrolltide.co/api/mcp`; it works with Claude Code, the Claude app, Cursor, Codex and VS Code, needs no API key, and authenticates against your plan.
 
 ## Watch out for
 

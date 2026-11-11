@@ -10,7 +10,7 @@ agent: [mcp]
 pricing: not-stated
 licence: Not stated (site is in beta, "new styles added every week")
 licence_class: not-stated
-reviewed: 2026-09-25
+reviewed: 2026-11-11
 status: active
 related: [kage, scrolltide, designmd, vibeprompts]
 ---

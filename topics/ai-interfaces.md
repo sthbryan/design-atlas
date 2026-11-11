@@ -53,6 +53,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [microcharts](../sites/microcharts.md) — MIT React charts sized for sentences, tables and KPI cards, with a catalog and seven live example apps.
 - [Modulify](../sites/modulify.md) — Prompt-to-website builder that ships a Postgres database, CMS, forms, analytics and hosting together, with an llms.txt that maps the whole product.
 - [Nous Portal](../sites/nous-portal.md) — A dark AI service portal with a fixed resource rail, editorial typography, model catalog and clear subscription comparisons.
+- [OpenShaderLibrary](../sites/openshader-library.md) — 117 shader effects written once and exported for React, React Native and SwiftUI, so web and native apps share the same visuals.
 - [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
 - [PanelUI](../sites/panelui.md) — MIT React Native component library for Expo, with Tailwind styling, live examples and agent resources.
 - [Poetic](../sites/poetic.md) — Enterprise AI landing page with oversized type, proof metrics, a product walkthrough and a recovery example for evolving workflows.
@@ -70,6 +71,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Unsiloed AI](../sites/unsiloed.md) — Document-AI site that turns parsing into a layered illustration, with annotated document regions and side-by-side output examples.
 - [Variant](../sites/variant.md) — Explore a prompt-led stream of live interface experiments, then use the examples as inspiration for your own visual direction.
 - [Wasmer.sh](../sites/wasmer-sh.md) — Browser-based WebAssembly shell with one-click examples for Pi, Node.js, Python, databases and developer utilities.
+- [Wensity UI](../sites/wensity-ui.md) — 115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

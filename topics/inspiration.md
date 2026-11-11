@@ -42,6 +42,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Amanita Design](../sites/amanita-design.md) — Game studio site with an illustrated rotating feature, a tiled game catalogue and media-rich individual game pages.
 - [Animesh Thakur](../sites/animesh-thakur.md) — A grid-based portfolio with offset display lettering, diagonal section dividers, project cards and a compact music player.
 - [Anjil](../sites/anjil-ink.md) — A restrained developer portfolio pairing a dithered travel photograph with a serif headline, concise biography and compact work timeline.
+- [Ansphare](../sites/ansphare.md) — Free gallery that pairs a design with its prompt, its DESIGN.md or a skill file you can drop into Claude or Cursor.
 - [Anzal Abidi](../sites/anzal-abidi.md) — A personal portfolio that frames a professional story with classical paintings, editorial type and a chaptered timeline.
 - [apmix.ai](../sites/apmix.md) — An AI API landing page that pairs a geometric mesh with side-by-side terminal sessions and a usage dashboard.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
@@ -234,8 +235,10 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Motion (motionin.design)](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
 - [MotionSites AI](../sites/motionsites.md) — Prompt library of illustrated website concepts, with category filters, copyable prompts and an authenticated MCP.
+- [MotionVideo](../sites/motionvideo.md) — Gallery of motion videos made by coding agents, each shown with the prompt that produced it, plus named moves and a free MCP catalogue.
 - [MotionWiki](../sites/motionwiki.md) — Browse creative systems and free skill previews, or study its own editorial catalog and live project previews for web and brand inspiration.
 - [movements.dev](../sites/movements.md) — Six browser-tunable UI utilities and libraries for refining component details, from refractive glass to shimmer and shadows.
+- [Mozaika](../sites/mozaika.md) — 588 real products decoded into measured design systems, screens and sections, queryable over MCP with DESIGN.md and token export.
 - [MUUUUU.ORG](../sites/muuuuu.md) — A Japanese design award gallery that highlights a daily site and tags work by composition, typography, color, motion and visual technique.
 - [Muzli](../sites/muzli.md) — Image-led design collections and a personalized inspiration feed, with project shots grouped by page type, style and theme.
 - [Navbar Design](../sites/navbar-design.md) — 29 hand-picked navbars sorted by 7 types and 9 styles, each with a screenshot, a short note and a link to the live site.
@@ -298,7 +301,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Savee](../sites/savee.md) — Editorial motion-template shop with After Effects, Figma and Jitter previews for studying kinetic type and product compositions.
 - [SceneAI](../sites/sceneai.md) — Curated landing-page prompts, animated backgrounds and gradients for studying expressive web sections and motion.
 - [ScreensDesign](../sites/screensdesign.md) — Study real app onboarding, paywalls and product flows through searchable screens, chaptered videos and app breakdowns.
-- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [Scrolltide](../sites/scrolltide.md) — Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.
 - [Sections.wtf](../sites/sections-wtf.md) — Short recordings of individual website sections, filterable by 22 block types with source-site and same-site links.
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
 - [Sephiro](../sites/sephiro.md) — A React and Preact component catalogue that pairs live state examples with six built-in themes and a compact token system.
@@ -326,6 +329,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Starbucks Holiday Ad (2024)](../sites/starbucks-holiday-ad-2024.md) — A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.
 - [Studio Dumbar](../sites/studio-dumbar.md) — Rotterdam studio portfolio for bold visual identities, motion systems and expressive typography.
 - [Studio Yukiko](../sites/studio-yukiko.md) — Berlin studio portfolio pairing a condensed display face with a varied project grid, category filters and editorial case studies.
+- [Subframe Motion](../sites/subframe-motion.md) — 309 MIT React and WebGL motion examples you can copy out, exposed to agents through a Motion MCP server.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
 - [Supaste](../sites/supaste.md) — A vivid product landing page that uses a simulated clipboard library to explain a native macOS utility.
 - [Superdesign](../sites/superdesign-skill.md) — Drives the hosted superdesign.dev canvas from your agent to branch drafts and compare models.

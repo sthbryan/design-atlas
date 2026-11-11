@@ -38,6 +38,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
 - [Animista](../sites/animista.md) — A live CSS animation workbench with preview objects, timing controls and copyable generated keyframes.
 - [Annnimate](../sites/annnimate.md) — 105 GSAP components in React, Vue and HTML from a studio, with an MCP for paid subscribers.
+- [Ansphare](../sites/ansphare.md) — Free gallery that pairs a design with its prompt, its DESIGN.md or a skill file you can drop into Claude or Cursor.
 - [Arc](../sites/arc-ui.md) — React components and interactive blocks with motion and live examples.
 - [ASCII Magic](../sites/ascii-magic.md) — Browser image and video studio for ASCII, dithering, mosaics and visual effects, with an MCP server for agents.
 - [ASCII Studio](../sites/ascii-studio.md) — Turns images, GIFs and video into ASCII animation and exports a self-contained React component.
@@ -98,6 +99,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Gil Huybrecht](../sites/gil-huybrecht.md) — Art director portfolio using a black canvas, dense project thumbnails and a compact service and recognition index.
 - [glass-lens-react](../sites/glass-lens-react.md) — A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.
 - [glimm](../sites/glimm.md) — WebGL colour-band page transitions for React/Next.js, with a copyable agent prompt.
+- [Glisse](../sites/glisse.md) — MIT React components that reproduce Apple's Liquid Glass in the browser — switch, slider, tab bar, menu, input and the glass surface itself.
 - [Godly](../sites/godly.md) — A dark, masonry-style gallery for websites, app screens, logos and UI details, with focused routes for page sections and visual assets.
 - [Google Evolving Identity](../sites/google-evolving-identity.md) — Google's 2015 identity story, with visual studies of its logotype, animated dots, compact G, color and product applications.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
@@ -156,6 +158,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Motion Design Principles by Zajno](../sites/motion-zajno.md) — An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
+- [MotionVideo](../sites/motionvideo.md) — Gallery of motion videos made by coding agents, each shown with the prompt that produced it, plus named moves and a free MCP catalogue.
 - [movements.dev](../sites/movements.md) — Six browser-tunable UI utilities and libraries for refining component details, from refractive glass to shimmer and shadows.
 - [Movulab](../sites/movulab.md) — Browser editor for looping animated type, with effect presets, typography controls and export options.
 - [MUUUUU.ORG](../sites/muuuuu.md) — A Japanese design award gallery that highlights a daily site and tags work by composition, typography, color, motion and visual technique.
@@ -168,6 +171,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [OKOK Services](../sites/okok-services.md) — Singapore and Amsterdam studio portfolio with a black chrome hero and links to interactive client experiences.
 - [Oneko](../sites/oneko.md) — Cursor-chasing pixel cat for React via shadcn, with llms.txt and an agent prompt; sprite art not relicensed.
 - [OpenMotion](../sites/openmotion.md) — Free closed desktop app that drives your Claude Code or Codex CLI to turn a brief into editable launch videos; nothing for your own agent to call.
+- [OpenShaderLibrary](../sites/openshader-library.md) — 117 shader effects written once and exported for React, React Native and SwiftUI, so web and native apps share the same visuals.
 - [OriginKit](../sites/originkit.md) — An interactive component catalogue for shader, cursor, animation and other high-impact web effects, with live parameter controls.
 - [Overtone](../sites/overtone.md) — Aarhus design studio site pairing a large pale gradient headline with a compact floating navigation and image-led project pages.
 - [PaceUI](../sites/paceui.md) — React components, animated crafts, page blocks and app templates with live previews and a shadcn-compatible registry.
@@ -201,8 +205,9 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Screen Movie](../sites/screen-movie.md) — A macOS recording and motion editor whose site shows cinematic ways to frame, zoom and animate product demos.
 - [Scritto](../sites/scritto.md) — MIT web component that animates only the characters that change in any string.
 - [Scroll Shaders](../sites/scrollshaders.md) — Paid library of 117 looping WebGL backgrounds, shader components and 6K stills, sold as paste-in code or as MP4 for tools that take no code.
-- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [Scrolltide](../sites/scrolltide.md) — Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.
 - [Sera UI](../sites/sera-ui.md) — About 90 MIT animated React and Tailwind components via shadcn registry URLs; now owned by Pimjo, repo quiet since February 2026.
+- [Shaders](../sites/shaders.md) — MIT WebGPU component library with 200 shader effects for React, Vue, Svelte and Solid, plus a paid pro library, visual editor and MCP server.
 - [Shane Chellam](../sites/shane-chellam.md) — An interactive portfolio that turns a career into a four-stop 3D bike journey with a clear one-page recruiter route.
 - [Skiper UI](../sites/skiper-ui.md) — Numbered, polished recreations of well-known designers' interactions; small free subset, murky licence.
 - [slot-text](../sites/textmotion.md) — Tiny slot-machine text roll for buttons, statuses and counters; copy-ready usage doc for agents.
@@ -218,6 +223,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Starbucks Holiday Ad (2024)](../sites/starbucks-holiday-ad-2024.md) — A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.
 - [Studio Dumbar](../sites/studio-dumbar.md) — Rotterdam studio portfolio for bold visual identities, motion systems and expressive typography.
 - [Studio Yukiko](../sites/studio-yukiko.md) — Berlin studio portfolio pairing a condensed display face with a varied project grid, category filters and editorial case studies.
+- [Subframe Motion](../sites/subframe-motion.md) — 309 MIT React and WebGL motion examples you can copy out, exposed to agents through a Motion MCP server.
 - [Supermassive Games](../sites/supermassive-games.md) — Game studio site built around cinematic title art, with a poster catalogue and dedicated pages for its narrative games.
 - [Swift Pieces](../sites/swift-pieces.md) — Animated SwiftUI components for iOS with live interaction previews, single-file source and agent installation paths.
 - [Syntax UI (stale)](../sites/syntax-ui.md) — MIT copy-paste Tailwind and Framer Motion buttons, loaders, blocks and effects; mostly dormant, with some docs pages erroring at review.
@@ -250,6 +256,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Viewport UI](../sites/viewport-ui.md) — A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.
 - [Vucko](../sites/vucko.md) — A motion identity studio portfolio with vivid brand case studies and a modular, clock-and-project rail.
 - [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
+- [Wensity UI](../sites/wensity-ui.md) — 115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 - [Zian Lu](../sites/zian-lu.md) — Shanghai designer's portfolio spanning brand identity, typography and motion experiments, with concise credits and project context.
 - [Zoomquilt](../sites/zoomquilt.md) — A collaborative painting built as a seamless infinite zoom, useful for studying continuous visual transitions and layered surreal scenes.

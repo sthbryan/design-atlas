@@ -28,6 +28,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [agentcn](../sites/agentcn.md) — Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
 - [Anim8](../sites/anim8.md) — Browser editor that traces video into editable animated SVG and Lottie; MCP and CLI on Pro.
 - [Annnimate](../sites/annnimate.md) — 105 GSAP components in React, Vue and HTML from a studio, with an MCP for paid subscribers.
+- [Ansphare](../sites/ansphare.md) — Free gallery that pairs a design with its prompt, its DESIGN.md or a skill file you can drop into Claude or Cursor.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
 - [Are.na](../sites/are-na.md) — Independent research-style bookmarking in connected channels, with a v3 REST API, llms.txt, official OAuth MCP server and CLI.
 - [ASCII Magic](../sites/ascii-magic.md) — Browser image and video studio for ASCII, dithering, mosaics and visual effects, with an MCP server for agents.
@@ -100,7 +101,9 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motion](../sites/motion-dev.md) — Former Framer Motion for React, JS and Vue: MIT core, free docs MCP and skill, paid Motion+ extras.
 - [MotionSites AI](../sites/motionsites.md) — Prompt library of illustrated website concepts, with category filters, copyable prompts and an authenticated MCP.
+- [MotionVideo](../sites/motionvideo.md) — Gallery of motion videos made by coding agents, each shown with the prompt that produced it, plus named moves and a free MCP catalogue.
 - [MotionWiki](../sites/motionwiki.md) — Browse creative systems and free skill previews, or study its own editorial catalog and live project previews for web and brand inspiration.
+- [Mozaika](../sites/mozaika.md) — 588 real products decoded into measured design systems, screens and sections, queryable over MCP with DESIGN.md and token export.
 - [NameThatUI](../sites/name-that-ui.md) — A visual dictionary of UI elements that turns a bad description into the right name, the API symbol and an agent prompt.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
@@ -122,12 +125,13 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
 - [Rive](../sites/rive.md) — State-machine vector editor with MIT runtimes, an agent-friendly CLI and a local MCP; exporting needs a paid seat.
 - [Screenshot to Code](../sites/screenshot-to-code.md) — MIT tool turning screenshots, recordings or text into HTML/Tailwind/React/Vue code; hosted or self-hosted.
-- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [Scrolltide](../sites/scrolltide.md) — Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.
 - [Shadcn Labs](../sites/shadcn-labs.md) — Index of the independent Shadcn Labs registries: termcn, pdfcn, emailcn, ogimagecn, shadercn and more.
 - [Shadcn Studio](../sites/shadcn-studio.md) — ThemeSelection's shadcn suite: blocks, templates, theme generator, Figma kit and an MCP; strict site licence.
 - [shadcn-cssinjs](../sites/shadcn-cssinjs.md) — MIT port of the full shadcn/ui set to StyleX on Base UI, with the same CSS variables, Markdown docs mirrors and a site skill.
 - [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
 - [shadcnblocks](../sites/shadcnblocks.md) — 2,000+ paid shadcn marketing and app blocks in Radix, Base UI and React Aria builds, via CLI or MCP.
+- [Shaders](../sites/shaders.md) — MIT WebGPU component library with 200 shader effects for React, Vue, Svelte and Solid, plus a paid pro library, visual editor and MCP server.
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
 - [Shoogle](../sites/shoogle.md) — Searches items across all shadcn registries from the web, the CLI or a remote MCP server.
 - [Site of Sites](../sites/site-of-sites.md) — Wix gallery of about 600 sites with a pure-blue serif display on white, 16:9 screenshot tiles and four crossable tag axes.

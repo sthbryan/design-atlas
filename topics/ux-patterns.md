@@ -53,6 +53,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Fillout](../sites/fillout.md) — Form builder with unlimited forms and seats on every plan, 50+ field types, and AI or drag-and-drop authoring; now presented as "by Zite".
 - [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
 - [Flit](../sites/flit.md) — A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.
+- [Glisse](../sites/glisse.md) — MIT React components that reproduce Apple's Liquid Glass in the browser — switch, slider, tab bar, menu, input and the glass surface itself.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
 - [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
 - [Google Arts & Culture](../sites/google-arts-and-culture.md) — Museum collections and interactive exhibits for studying editorial art storytelling, high-resolution viewing and playful cultural experiences.

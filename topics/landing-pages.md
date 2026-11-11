@@ -154,7 +154,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Sanrio Games](../sites/sanrio-games.md) — Character game hub with a pastel opening, illustrated gallery and a vivid rhythm-game page built from long visual sections.
 - [Screan](../sites/screan.md) — Free MIT browser studio that exports store screenshots for every size and language as one ZIP.
 - [Screen Movie](../sites/screen-movie.md) — A macOS recording and motion editor whose site shows cinematic ways to frame, zoom and animate product demos.
-- [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
+- [Scrolltide](../sites/scrolltide.md) — Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.
 - [Sections.wtf](../sites/sections-wtf.md) — Short recordings of individual website sections, filterable by 22 block types with source-site and same-site links.
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
 - [Sent](../sites/sent.md) — Developer-tool landing page for one SMS, WhatsApp and RCS API, with a cost estimator and a per-country rate sheet instead of plan cards.
@@ -209,6 +209,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Websites on Display](../sites/on-display.md) — A searchable web design archive with filters for style, type, typeface, color, technology and performance.
 - [Websitevice](../sites/websitevice.md) — A website inspiration directory organized by industry and site purpose, with short notes on why each example is notable.
 - [Wedoflow](../sites/wedoflow.md) — Marketplace of 216 Webflow templates at $39 to $169 each, sold through an all-access pass, with category labels on every preview.
+- [Wensity UI](../sites/wensity-ui.md) — 115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.
 - [Wonderlist](../sites/wonderlist.md) — 127 paid website designs in three fixed-price packages, sold as Figma files with 1,137 pages across SaaS, agency, portfolio and industry briefs.
 - [Xnapper](../sites/xnapper.md) — A screenshot app whose homepage demonstrates framing, backgrounds, ratios and redaction in its own editor UI.
 - [Yaak](../sites/yaak.md) — API client page with a light and dark toggle in the hero preview, numbered capability lines and a versioned changelog used as proof.

@@ -103,6 +103,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Gauge UI](../sites/gauge-ui.md) — Composable SVG gauge primitives for React, where arcs, zones, ticks and needles assemble from one shared context.
 - [Genially](../sites/genially.md) — Interactive content tool whose template gallery is a taxonomy lesson, organised by output type, audience and named game format.
 - [glass-lens-react](../sites/glass-lens-react.md) — A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.
+- [Glisse](../sites/glisse.md) — MIT React components that reproduce Apple's Liquid Glass in the browser — switch, slider, tab bar, menu, input and the glass surface itself.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
@@ -210,6 +211,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
 - [shadcnblocks](../sites/shadcnblocks.md) — 2,000+ paid shadcn marketing and app blocks in Radix, Base UI and React Aria builds, via CLI or MCP.
 - [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
+- [Shaders](../sites/shaders.md) — MIT WebGPU component library with 200 shader effects for React, Vue, Svelte and Solid, plus a paid pro library, visual editor and MCP server.
 - [Shoogle](../sites/shoogle.md) — Searches items across all shadcn registries from the web, the CLI or a remote MCP server.
 - [Skiper UI](../sites/skiper-ui.md) — Numbered, polished recreations of well-known designers' interactions; small free subset, murky licence.
 - [Skrewww](../sites/skrewww.md) — React design system where one component set adapts through tokens across shape, surface and brand, with contracts agents can read.
@@ -223,6 +225,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [squig](../sites/squig.md) — A wireframing canvas where real UI components render as hand-drawn sketches, with an agent bridge into the open tab.
 - [SRCL](../sites/srcl.md) — Terminal-aesthetic React kit plus matching CLI framework, with llms.txt, AGENTS.md catalogue and porting skills.
 - [startercn](../sites/startercn.md) — MIT Next.js template for publishing your own shadcn registry, with Fumadocs docs, llms.txt and skill discovery.
+- [Subframe Motion](../sites/subframe-motion.md) — 309 MIT React and WebGL motion examples you can copy out, exposed to agents through a Motion MCP server.
 - [Swift Pieces](../sites/swift-pieces.md) — Animated SwiftUI components for iOS with live interaction previews, single-file source and agent installation paths.
 - [Syntax UI (stale)](../sites/syntax-ui.md) — MIT copy-paste Tailwind and Framer Motion buttons, loaders, blocks and effects; mostly dormant, with some docs pages erroring at review.
 - [Tabbied](../sites/tabbied.md) — 338 seeded geometric patterns as an MIT npm/React package, with a CLI and a hosted MCP.
@@ -252,6 +255,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
 - [Viewport UI](../sites/viewport-ui.md) — A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.
 - [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
+- [Wensity UI](../sites/wensity-ui.md) — 115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

@@ -115,6 +115,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Oldschool PC Font Pack](../sites/oldschool-pc-fonts.md) — The classic PC bitmap and text-mode typefaces, packaged as modern font files with a font index, readme and showcase.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
 - [Open Foundry](../sites/open-foundry.md) — A long-running curated catalogue of open source typefaces, with a specimen per face and the licence stated on the font page.
+- [OpenShaderLibrary](../sites/openshader-library.md) — 117 shader effects written once and exported for React, React Native and SwiftUI, so web and native apps share the same visuals.
 - [Opensource UI](../sites/opensource-ui.md) — MIT React and Tailwind catalogue of about 190 copy-paste pieces, including device mockups and widgets, with llms.txt and an agent skill.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
 - [Paper Animation](../sites/paperanimation.md) — Browser tool that turns one image or word into paper-fold and newspaper-clipping motion clips, exported as MP4 or GIF with a green screen.
