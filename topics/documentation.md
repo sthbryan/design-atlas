@@ -50,6 +50,7 @@ How sites document components, design systems and style — for human readers an
 - [model-viewer](../sites/model-viewer.md) — Web component documentation for showing interactive 3D models in a page or in AR, with a quick start, examples and FAQ.
 - [Modern CSS Solutions](../sites/modern-css.md) — Practical CSS references with rendered examples for responsive layouts, components, typography and interaction states.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
+- [Mozaika](../sites/mozaika.md) — 588 real products decoded into measured design systems, screens and sections, queryable over MCP with DESIGN.md and token export.
 - [Needle Engine](../sites/needle-engine.md) — Ships 3D scenes to the web from Unity, Blender or code, with a product-led site that shows the editor as the interface.
 - [No AI Slop](../sites/no-ai-slop.md) — Removes AI writing patterns while keeping the writer's voice, and has a detect-only mode.
 - [Nord Design System](../sites/nord-design-system.md) — Nordhealth's health-care design system, with 65 Web Components documented as contracts, status badges and installable agent skills.

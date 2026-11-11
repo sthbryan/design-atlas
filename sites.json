@@ -13049,6 +13049,38 @@
       ]
     },
     {
+      "slug": "mozaika",
+      "path": "sites/mozaika.md",
+      "title": "Mozaika",
+      "description": "588 real products decoded into measured design systems, screens and sections, queryable over MCP with DESIGN.md and token export.",
+      "url": "https://mozaika.design",
+      "type": "style-library",
+      "formats": "MCP-native reference library · DESIGN.md, Tailwind, CSS variables and W3C tokens · screens and sliced sections · agent skill",
+      "topics": [
+        "design-md",
+        "documentation",
+        "agents-and-prompts",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "a free key allows 25 MCP calls a month; Pro is US$9 a month or US$60 a year, lifetime US$59 once at this review. The corpus is proprietary — output may be used in commercial and client work, but no right is granted to redistribute the corpus — while the separate design skill is MIT.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "refero-styles",
+        "refero",
+        "designmd-supply",
+        "curated-design"
+      ]
+    },
+    {
       "slug": "muuuuu",
       "path": "sites/muuuuu.md",
       "title": "MUUUUU.ORG",
@@ -14184,6 +14216,36 @@
         "scrolltide",
         "animejs",
         "dialkit"
+      ]
+    },
+    {
+      "slug": "openshader-library",
+      "path": "sites/openshader-library.md",
+      "title": "OpenShaderLibrary",
+      "description": "117 shader effects written once and exported for React, React Native and SwiftUI, so web and native apps share the same visuals.",
+      "url": "https://openshaderlibrary.com",
+      "type": "asset-library",
+      "formats": "shader effects exported as source · React (WebGL2/GLSL) · React Native (Skia/SkSL) · SwiftUI (Metal) · avatar studio",
+      "topics": [
+        "3d-and-shaders",
+        "ai-interfaces",
+        "assets",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "browsing, tuning and sharing a configuration are free, as is the Avatar Studio. Exporting source for every effect needs Pro at US$6 a month, which licenses the downloads for unlimited commercial apps and keeps that licence if you cancel; a lifetime option was discounted to US$59 at this review. The export licence is proprietary and names the buyer in each zip.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "shaders",
+        "paper-shaders",
+        "book-of-shaders",
+        "animated-icons"
       ]
     },
     {
@@ -18672,6 +18734,36 @@
         "getdesign-md",
         "huetone",
         "ui-ux-pro-max"
+      ]
+    },
+    {
+      "slug": "subframe-motion",
+      "path": "sites/subframe-motion.md",
+      "title": "Subframe Motion",
+      "description": "309 MIT React and WebGL motion examples you can copy out, exposed to agents through a Motion MCP server.",
+      "url": "https://www.subframe.com/motion",
+      "type": "component-library",
+      "formats": "copy-paste React components · Motion and WebGL shader examples · MCP server",
+      "topics": [
+        "motion",
+        "3d-and-shaders",
+        "components",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated on each example with the full text in the source panel. No account is needed, and Subframe's paid design app is a separate product.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "motion-primitives",
+        "canvas-ui",
+        "shaders",
+        "aceternity-ui"
       ]
     },
     {
