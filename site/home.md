@@ -5,21 +5,39 @@ pageClass: atlas-home
 aside: false
 ---
 
-<div class="atlas-home-intro">
+<section class="atlas-hero">
+  <div class="atlas-hero-contours" aria-hidden="true">
+    <svg viewBox="0 0 600 600" fill="none">
+      <g class="atlas-hero-rings" stroke="currentColor" stroke-width="1"><circle cx="430" cy="300" r="50"/><circle cx="430" cy="300" r="100"/><circle cx="430" cy="300" r="150"/><circle cx="430" cy="300" r="200"/><circle cx="430" cy="300" r="250"/><circle cx="430" cy="300" r="300"/><circle cx="430" cy="300" r="350"/><circle cx="430" cy="300" r="400"/></g>
+      <g class="atlas-hero-station" stroke="currentColor" stroke-width="1.5">
+        <circle cx="430" cy="300" r="9"/>
+        <path d="M430 285v-6M430 315v6M415 300h-6M445 300h6"/>
+      </g>
+      <circle class="atlas-hero-station" cx="430" cy="300" r="3" fill="currentColor"/>
+    </svg>
+  </div>
+  <p class="atlas-hero-kicker">Field guide, 2026</p>
   <h1>Design references for the work in front of you</h1>
-  <p>Design Atlas is a reviewed guide to websites, interface patterns, component libraries and creative tools. Find a useful reference, understand its tradeoffs, then inspect the live work before you borrow an idea.</p>
-</div>
+  <p class="atlas-hero-lede">Design Atlas is a reviewed guide to websites, interface patterns, component libraries and creative tools. Find a useful reference, understand its tradeoffs, then inspect the live work before you borrow an idea.</p>
+  <div class="atlas-hero-ways">
+    <a class="atlas-hero-way" href="/topics/">
+      <strong>Browse by topic</strong>
+      <span>Start from the kind of page, system or interaction you are building.</span>
+    </a>
+    <a class="atlas-hero-way" href="/sites/">
+      <strong>Search all sites</strong>
+      <span>Filter reviewed references by topic, verdict, agent channel or review date.</span>
+    </a>
+  </div>
+</section>
 
-<div class="atlas-home-paths">
-  <a class="atlas-home-path" href="/topics/">
-    <strong>Browse by topic</strong>
-    <span>Start from the kind of page, system or interaction you are building.</span>
-  </a>
-  <a class="atlas-home-path" href="/sites/">
-    <strong>Search all sites</strong>
-    <span>Filter reviewed references by topic, verdict, agent channel or review date.</span>
-  </a>
-</div>
+<AtlasCover />
+
+## Latest reviews
+
+The five most recent entries, carrying the same verdict, licence, agent channel and review date as every list in the atlas.
+
+<AtlasLatest />
 
 ## Choose a starting point
 
@@ -29,6 +47,12 @@ aside: false
   <li><a href="/topics/components">Shape an interface or design system</a><span>Component libraries, patterns and implementation details.</span></li>
   <li><a href="/topics/agent-skills">Give a coding agent a design workflow</a><span>Skills and tools for research, implementation and review.</span></li>
 </ul>
+
+## Topics
+
+Every hub, in the order the atlas reads them. Each one opens with a shortlist, then lists every source tagged with that topic.
+
+<AtlasTopicIndex />
 
 ## Install the agent skills
 

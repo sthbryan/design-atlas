@@ -1,11 +1,7 @@
-import { copyFileSync, mkdirSync } from 'node:fs';
-import { createRequire } from 'node:module';
-import { dirname, join } from 'node:path';
 import { defineConfig } from 'vitepress';
 import { GITHUB, ROUTES, atlasMarkdown, loadTopics, srcExclude } from './atlas.js';
 import { renderSearch } from './search.js';
 
-const require = createRequire(import.meta.url);
 const topics = loadTopics();
 const SITE_URL = 'https://atlas.justcallmebryan.com/';
 const SOCIAL_IMAGE = new URL('og.png', SITE_URL).href;
@@ -29,8 +25,8 @@ export default defineConfig({
   lastUpdated: false,
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
-    ['meta', { name: 'theme-color', content: '#F6FAF8', media: '(prefers-color-scheme: light)' }],
-    ['meta', { name: 'theme-color', content: '#121815', media: '(prefers-color-scheme: dark)' }],
+    ['meta', { name: 'theme-color', content: '#F8F7F2', media: '(prefers-color-scheme: light)' }],
+    ['meta', { name: 'theme-color', content: '#1A140E', media: '(prefers-color-scheme: dark)' }],
     ['meta', { property: 'og:site_name', content: 'Design Atlas' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:image', content: SOCIAL_IMAGE }],
@@ -68,11 +64,6 @@ export default defineConfig({
       pageData.frontmatter.pageClass = 'atlas-hub';
       pageData.frontmatter.aside = false;
     }
-  },
-  buildEnd(siteConfig) {
-    const licence = join(dirname(require.resolve('@fontsource-variable/montagu-slab/package.json')), 'LICENSE');
-    mkdirSync(join(siteConfig.outDir, 'fonts'), { recursive: true });
-    copyFileSync(licence, join(siteConfig.outDir, 'fonts', 'montagu-slab-OFL.txt'));
   },
   themeConfig: {
     siteTitle: 'Design Atlas',
