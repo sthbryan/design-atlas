@@ -132,6 +132,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Minimalny](../sites/minimalny.md) — A minimal web design archive with category filters, search and compact records for each featured designer or studio.
 - [Modern CSS Solutions](../sites/modern-css.md) — Practical CSS references with rendered examples for responsive layouts, components, typography and interaction states.
 - [Monash MADA Now 2025](../sites/monash-mada-now-2025.md) — Monash MADA's graduate archive groups featured projects and student work by Fine Art, Design and Architecture.
+- [monogram](../sites/monogram.md) — CC0 monospace bitmap font five pixels wide, shipped as TTF, bitmap PNG and JSON, and a PICO-8 font, with an extended family.
 - [Montagu Slab](../sites/montagu-slab.md) — Variable slab serif with a live tester that exposes weight, optical size, spacing and leading across several scripts.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
 - [Movulab](../sites/movulab.md) — Browser editor for looping animated type, with effect presets, typography controls and export options.
@@ -154,6 +155,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [People's Graphic Design Archive](../sites/peoples-graphic-design-archive.md) — Crowd-sourced archive of graphic design at least ten years old, from posters and magazines to game covers, browsable by type, tag and date.
 - [Pepsi visual identity 2023](../sites/pepsi-visual-identity-2023.md) — A 2023 Pepsi identity announcement pairs a bold wordmark and electric blue pulse with can, fleet and digital applications.
 - [Pinterest](../sites/pinterest.md) — The mass-market mood-board network, with visual search and AI-image labels; API v5 needs review, official MCP not yet public.
+- [Pixel Code](../sites/pixel-code.md) — Monospace pixel typeface built for source code, with eleven weights, programming ligatures and a contextual trick that fakes even kerning.
 - [Pixel Perfect UI](../sites/pixel-perfect.md) — A free React component gallery with live previews, visual controls, source code and shadcn-compatible install commands.
 - [Playdead](../sites/playdead.md) — Game studio site with a spare dark layout, narrow uppercase typography and cinematic LIMBO and INSIDE project pages.
 - [Plomb Type](../sites/plomb-type.md) — Lyon type foundry with expressive specimen pages, live text controls, extensive glyph maps and real identity examples.

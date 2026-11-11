@@ -764,6 +764,30 @@
       ]
     },
     {
+      "slug": "admire-the-web",
+      "path": "sites/admire-the-web.md",
+      "title": "Admire The Web",
+      "description": "Long-running web design gallery with counted categories, a colour filter and an interactions section, running to 76 pages of indexed sites.",
+      "url": "https://admiretheweb.com",
+      "type": "gallery",
+      "formats": "27 categories with counts · colour tags · interactions section · site of the day · saved list with an account · RSS feed and weekly newsletter · submission form",
+      "topics": [
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence or terms page at review — /terms and /privacy both return 404, so the screenshots and listings should be treated as look-only",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "awwwards",
+        "siteinspire",
+        "lookup-design"
+      ]
+    },
+    {
       "slug": "adobe-spectrum",
       "path": "sites/adobe-spectrum.md",
       "title": "Adobe Spectrum",
@@ -2803,6 +2827,41 @@
         "locomotive",
         "lusion",
         "81-web"
+      ]
+    },
+    {
+      "slug": "boardui",
+      "path": "sites/boardui.md",
+      "title": "BoardUI",
+      "description": "React and Tailwind design system for dashboards and agentic interfaces, with 103 components, 19 charts and an MCP server that installs source.",
+      "url": "https://www.boardui.com",
+      "type": "design-system",
+      "formats": "103 components including 19 charts · 10 Pro templates · 400+ design tokens designed in Figma · React and Tailwind v4 · shadcn-compatible registry · MCP over HTTP and stdio · agent skill · llms.txt, llms-full.txt and openapi.json",
+      "topics": [
+        "components",
+        "data-viz",
+        "agent-skills"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "skill",
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "The base components and blocks are MIT and installable without an account; BoardUI Pro unlocks chart cards, agent components and full-page templates, with duration and updates depending on the plan at review",
+      "licence_class": "mixed",
+      "licences": {
+        "code": "open-source-permissive",
+        "assets": "proprietary-paid"
+      },
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "tremor",
+        "hexta-ui"
       ]
     },
     {
@@ -5648,6 +5707,35 @@
       ]
     },
     {
+      "slug": "diagram-design",
+      "path": "sites/diagram-design.md",
+      "title": "Diagram Design",
+      "description": "Agent skill that draws 45 editorial diagram types as self-contained HTML and SVG, brand-matched to your site, installed in one command.",
+      "url": "https://diagramdesign.dev",
+      "type": "agent-skill",
+      "formats": "45 diagram types · agent skill for Claude Code, Codex, Cursor, Copilot, Droid, Qoder and Pi · self-contained HTML with inline SVG · imports draw.io, Mermaid and Excalidraw · optional animated variants · editable template scaffold",
+      "topics": [
+        "agent-skills",
+        "agents-and-prompts",
+        "documentation"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "skill",
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated on the page and in the repository at review (about 66,000 stars). The published examples are part of the same repository",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "anthropic-skills",
+        "typeui",
+        "design-sorcery"
+      ]
+    },
+    {
       "slug": "dialkit",
       "path": "sites/dialkit.md",
       "title": "DialKit",
@@ -8249,6 +8337,31 @@
       ]
     },
     {
+      "slug": "hamur",
+      "path": "sites/hamur.md",
+      "title": "hamur",
+      "description": "Unstyled accessible components with one shared core and five framework adapters — React, Vue, Svelte, Angular and Solid — under the MIT licence.",
+      "url": "https://hamur.dev",
+      "type": "component-library",
+      "formats": "79 unstyled components · five framework adapters from one core · per-adapter test counts published · installable packages per framework · early preview, not yet on npm at review",
+      "topics": [
+        "components",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "MIT, stated on the site and in the repository at review (about 37 stars), built on Base UI",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "radix",
+        "headless-ui",
+        "base-ui"
+      ]
+    },
+    {
       "slug": "handy",
       "path": "sites/handy.md",
       "title": "Handy",
@@ -9904,6 +10017,34 @@
       ]
     },
     {
+      "slug": "jiro",
+      "path": "sites/jiro.md",
+      "title": "Jiro",
+      "description": "Prompt library of 1,454 landing pages and sections, each previewable live and copyable as one prompt for Bolt, Lovable, v0 or Cursor.",
+      "url": "https://jiro.build",
+      "type": "prompt-library",
+      "formats": "1,454+ templates and sections at review · live preview per entry · one-click prompt with component code · MCP server at mcp.jiro.build · Chrome extension · free tier and one-time Pro",
+      "topics": [
+        "agents-and-prompts",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "A free plan exists and Pro is sold as a one-time payment with lifetime updates, though the price did not render in the page text at review. No licence for the templates is stated on the pages read",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "lovable-prompts",
+        "onepromptdesign",
+        "typeui"
+      ]
+    },
+    {
       "slug": "jitter",
       "path": "sites/jitter.md",
       "title": "Jitter",
@@ -10725,6 +10866,35 @@
       ]
     },
     {
+      "slug": "layro",
+      "path": "sites/layro.md",
+      "title": "Layro",
+      "description": "React component marketplace that coding agents search and install from over MCP, with every component reviewed and runnable in a sandbox first.",
+      "url": "https://layro.dev",
+      "type": "component-registry",
+      "formats": "React and Tailwind components · MCP server at mcp.layro.dev · CLI with init and add · shadcn-compatible registry items · GitHub sync for your own registry · icon families in the same search",
+      "topics": [
+        "components",
+        "agent-skills"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "cli",
+        "registry"
+      ],
+      "pricing": "free",
+      "licence": "Browsing, installing and publishing are free. Each component keeps its author's copyright and its own licence, shown on the component page at review",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "magic-ui",
+        "boardui"
+      ]
+    },
+    {
       "slug": "lexington-motion-atelier",
       "path": "sites/lexington-motion-atelier.md",
       "title": "Lexington Motion — Atelier Reels",
@@ -11294,6 +11464,33 @@
         "lottiefiles",
         "jitter",
         "rive"
+      ]
+    },
+    {
+      "slug": "lovable-prompts",
+      "path": "sites/lovable-prompts.md",
+      "title": "Lovable Prompts",
+      "description": "122 free copy-paste prompts for Lovable, each naming the states the builder skips, with the credit cost of four builds measured and published.",
+      "url": "https://lovable-prompts.com",
+      "type": "prompt-library",
+      "formats": "122 free prompts in 8 categories · 152 prompts with Pro channel versions in a bundle · free prompt generator · measured credit costs · guides on pricing and prompting",
+      "topics": [
+        "agents-and-prompts",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "The public prompts are free; the bundle is $199 once and includes a commercial-use licence, Pro channel versions and four build kits whose row-level security was executed and reviewed",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "jiro",
+        "onepromptdesign",
+        "vibeprompts"
       ]
     },
     {
@@ -12396,6 +12593,34 @@
       "related": [
         "folios-gallery",
         "wall-of-portfolios"
+      ]
+    },
+    {
+      "slug": "monogram",
+      "path": "sites/monogram.md",
+      "title": "monogram",
+      "description": "CC0 monospace bitmap font five pixels wide, shipped as TTF, bitmap PNG and JSON, and a PICO-8 font, with an extended family.",
+      "url": "https://datagoblin.itch.io/monogram",
+      "type": "font-library",
+      "formats": "monospace bitmap font, 5px wide · TTF, bitmap PNG with JSON, PICO-8 .p8 · 10 kB minimal TTF and extended family with italics · Latin, Spanish, Russian, Portuguese and Greek charsets",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Released under CC0 1.0 by the author at review, including the extended and italic files, with the download set as name-your-own-price and a thank-you pack for $5 or more",
+      "licence_class": "public-domain",
+      "licences": {
+        "fonts": "public-domain"
+      },
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "pixel-code",
+        "silkscreen",
+        "unscii"
       ]
     },
     {
@@ -14582,6 +14807,34 @@
         "are-na",
         "designspiration",
         "appinspo"
+      ]
+    },
+    {
+      "slug": "pixel-code",
+      "path": "sites/pixel-code.md",
+      "title": "Pixel Code",
+      "description": "Monospace pixel typeface built for source code, with eleven weights, programming ligatures and a contextual trick that fakes even kerning.",
+      "url": "https://qwerasd205.github.io/PixelCode/",
+      "type": "font-library",
+      "formats": "monospace pixel font · weights 100 to 950 with italics · Latin, Greek, Cyrillic and Hebrew · box drawing, geometric shapes, dingbats, braille and Powerline glyphs · ligatures, contextual alternates, pseudo-kerning, oldstyle figures",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "SIL Open Font License 1.1, from the repository at review (about 500 stars); download from GitHub releases",
+      "licence_class": "open-source-permissive",
+      "licences": {
+        "fonts": "open-source-permissive"
+      },
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "silkscreen",
+        "monogram",
+        "fusion-pixel-font"
       ]
     },
     {
@@ -17041,6 +17294,31 @@
         "3dicons",
         "backgrounds-supply",
         "venust-backgrounds"
+      ]
+    },
+    {
+      "slug": "shapes-gallery",
+      "path": "sites/shapes-gallery.md",
+      "title": "SVG Shapes",
+      "description": "Copy-first gallery of 70+ hand-drawn SVG shapes, one click to the clipboard, with a download-all option and no account.",
+      "url": "https://www.shapes.gallery",
+      "type": "asset-library",
+      "formats": "70+ SVG shapes at review · click to copy · download all · single-page gallery",
+      "topics": [
+        "assets",
+        "icons"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated on the page at review. The description calls the shapes free to copy, which is not the same as a grant of reuse rights",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "shapefest",
+        "svgl",
+        "fffuel"
       ]
     },
     {
@@ -20701,6 +20979,34 @@
         "scrolltide",
         "supahero",
         "cta-gallery"
+      ]
+    },
+    {
+      "slug": "vibrant-design",
+      "path": "sites/vibrant-design.md",
+      "title": "Vibrant Design",
+      "description": "Curated library of websites, sections and launch videos that turns each design into build notes and a DESIGN.md for coding agents.",
+      "url": "https://vibrant.design",
+      "type": "gallery",
+      "formats": "curated websites, sections, launch videos and UI shots · moodboards · \"surprise me\" · build notes and DESIGN.md per design · MCP server · llms.txt",
+      "topics": [
+        "inspiration",
+        "design-md"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "Browsing and saving are free. The site links a licence page at /licence; its text was not machine-readable at review, so the terms for the design files themselves need checking before reuse",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "collected",
+        "devault",
+        "refero-styles"
       ]
     },
     {

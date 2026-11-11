@@ -103,6 +103,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Mesh](../sites/mesh-noman.md) — A full-screen mesh-gradient maker with prompt entry, a few named starting points and a large PNG export.
 - [MetalForge](../sites/metalforge.md) — Gallery and live editor for shader animations, with SwiftUI, React Native and web outputs and an MCP beta.
 - [Mixkit Sound Effects](../sites/mixkit-sound-effects.md) — Free .wav and .mp3 sound effects with no sign-up and no attribution, under Envato's Mixkit Free License.
+- [monogram](../sites/monogram.md) — CC0 monospace bitmap font five pixels wide, shipped as TTF, bitmap PNG and JSON, and a PICO-8 font, with an extended family.
 - [Montagu Slab](../sites/montagu-slab.md) — Variable slab serif with a live tester that exposes weight, optical size, spacing and leading across several scripts.
 - [Movulab](../sites/movulab.md) — Browser editor for looping animated type, with effect presets, typography controls and export options.
 - [MX Icons](../sites/mx-icons.md) — About 2,200 soft React icons in six styles labelled MIT; sources not credited.
@@ -118,6 +119,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
 - [Paper Animation](../sites/paperanimation.md) — Browser tool that turns one image or word into paper-fold and newspaper-clipping motion clips, exported as MP4 or GIF with a green screen.
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.
+- [Pixel Code](../sites/pixel-code.md) — Monospace pixel typeface built for source code, with eleven weights, programming ligatures and a contextual trick that fakes even kerning.
 - [Playgrnd](../sites/playgrnd.md) — 52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.
 - [Plomb Type](../sites/plomb-type.md) — Lyon type foundry with expressive specimen pages, live text controls, extensive glyph maps and real identity examples.
 - [Pointilliser](../sites/pointilliser.md) — Two browser tools turn text or images into neo-pointillist graphics made from clustered circles or 3D spheres.
@@ -141,6 +143,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Simple Icons](../sites/simple-icons.md) — The standard CC0 set of 3,461 one-colour brand logos, with official hex colours and a colour CDN.
 - [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds installed via shadcn CLI; 110 Blizzard clips are non-commercial only.
 - [Spherium](../sites/spherium.md) — A WebGL globe editor for styling world maps as dot fields and exporting the result as SVG.
+- [SVG Shapes](../sites/shapes-gallery.md) — Copy-first gallery of 70+ hand-drawn SVG shapes, one click to the clipboard, with a download-all option and no account.
 - [Svgl](../sites/svgl.md) — Searchable brand-logo SVG library with category filters, light and dark variants, copy formats, downloads and an API.
 - [Tabbied](../sites/tabbied.md) — 338 seeded geometric patterns as an MIT npm/React package, with a CLI and a hosted MCP.
 - [Tabler Icons](../sites/tabler-icons.md) — Over 6,200 MIT outline and filled icons on a 2px grid, with packages for every major framework and llms.txt docs.

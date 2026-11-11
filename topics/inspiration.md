@@ -35,6 +35,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Aceternity UI](../sites/aceternity-ui.md) — 200+ React and Tailwind landing-page components and blocks (heroes, bento grids, shaders); the elaborate blocks are paid.
 - [Active Theory](../sites/active-theory.md) — A creative studio portfolio built around a dark, animated particle scene and a compact route into its project work.
 - [Aditya Logs](../sites/adityalogs.md) — Monospace portfolio with inline emphasis, an activity sidebar and a compact, terminal-like visual language.
+- [Admire The Web](../sites/admire-the-web.md) — Long-running web design gallery with counted categories, a colour filter and an interactions section, running to 76 pages of indexed sites.
 - [AKU](../sites/aku.md) — Tallinn studio portfolio with spacious project listings, expressive typography and colorful visual identity case pages.
 - [Alpine Bio](../sites/alpine-bio.md) — Biotech brand landing page by Resn with ingredient macro imagery, oversized sans type and floating navigation.
 - [AlternativeTo](../sites/alternativeto-site.md) — A searchable software directory that helps designers discover comparable products, interfaces and further visual references.
@@ -361,6 +362,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Variant](../sites/variant.md) — Explore a prompt-led stream of live interface experiments, then use the examples as inspiration for your own visual direction.
 - [Velvetyne (broken)](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
 - [vgpu](../sites/vgpu.md) — A composable WebGPU library with live shader examples, versioned docs, CLI discovery and agent resources.
+- [Vibrant Design](../sites/vibrant-design.md) — Curated library of websites, sections and launch videos that turns each design into build notes and a DESIGN.md for coding agents.
 - [Viewport UI](../sites/viewport-ui.md) — A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.
 - [VividSites](../sites/vividsites.md) — A prompt library of cinematic website examples, with filters, free previews, source videos and an MCP search route.
 - [Vucko](../sites/vucko.md) — A motion identity studio portfolio with vivid brand case studies and a modular, clock-and-project rail.

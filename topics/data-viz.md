@@ -21,6 +21,7 @@ Chart components, dashboard building blocks and small data displays (spark chart
 - [Arc](../sites/arc-ui.md) — React components and interactive blocks with motion and live examples.
 - [Atomic Tessellator](../sites/atomic-tessellator.md) — Critical-minerals landing page with a charcoal canvas, measured serif headline and a dynamic scientific point-and-line visualization.
 - [beUI](../sites/beui.md) — MIT motion components, agent UI and charts with llms.txt, JSON API, agent skill and hosted MCP; paid Pro adds blocks and templates.
+- [BoardUI](../sites/boardui.md) — React and Tailwind design system for dashboards and agentic interfaces, with 103 components, 19 charts and an MCP server that installs source.
 - [CodePen](../sites/codepen.md) — Public interactive Pens and monthly challenges make it easy to study small web experiments, motion and interface details.
 - [D3](../sites/d3.md) — The library for bespoke data visualisation, with a gallery of notebook examples that doubles as a vocabulary of chart forms.
 - [Data Viz Project](../sites/dataviz-project.md) — A visual index of chart forms with small examples and filters for comparing shape, purpose and input before choosing a display.
