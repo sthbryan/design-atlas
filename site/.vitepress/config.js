@@ -76,6 +76,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Atlas',
+        collapsed: false,
         items: [
           { text: 'Home', link: '/' },
           { text: 'All sites', link: '/sites/' },
@@ -86,6 +87,7 @@ export default defineConfig({
       },
       {
         text: 'Topics',
+        collapsed: false,
         items: topics.map((topic) => ({ text: topic.title, link: `/topics/${topic.slug}` })),
       },
     ],

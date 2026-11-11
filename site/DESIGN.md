@@ -248,7 +248,7 @@ Neutrals are bone in light and umber in dark, chroma at or below 0.023 (C3); the
 |---|---|---|
 | Link | `link`, underline offset 0.15em | `link-hover`; focus ring; external links open in a new tab, no icon |
 | Nav | `nav`; title in heading-3; Topics, Sites, DESIGN.md; GitHub icon; local search | Current: 2px `{colors.accent}` bar under the label; hover underline |
-| Sidebar | `{colors.surface}` | Current: accent indicator |
+| Sidebar | `{colors.surface}` | Current: accent indicator; one named disclosure per group with `aria-expanded` |
 | Search field | `search-field`, `border-control` edge, magnifier, visible label | Filters live; Clear with a value; query in `?q=`; empty state names the query and offers to clear |
 | Result count | body-sm, `role="status"`, under the field | "Showing N of M sites" or "Showing N of M matches" |
 | Button | `button`, `border-control` edge | `button-hover`; press `--scale-press` |
@@ -293,6 +293,7 @@ Neutrals are bone in light and umber in dark, chroma at or below 0.023 (C3); the
 - Targets: 24px floor, row name and facts links included; buttons per L2.
 - Focus ring: 2px solid `focus`, 2px offset; `Highlight` under forced colours.
 - Structure: VitePress skip link, `lang="en"`, one `h1`, site sections as `h2` in fixed order. Badges pair a glyph with a word.
+- Disclosure: each sidebar group has one keyboard control, named for its section, exposing `aria-expanded` and `aria-controls`; a redundant caret is removed from the tab order.
 - Exceptions: none.
 
 ## Responsive behaviour
