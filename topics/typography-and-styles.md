@@ -92,7 +92,9 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Fontshare](../sites/fontshare.md) — 100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.
 - [Fontsource](../sites/fontsource.md) — 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.
 - [Framio](../sites/framio.md) — Full-page desktop and mobile captures of curated websites, with extracted palettes and filters for industry, style, colour and typeface.
+- [Fusion Pixel Font](../sites/fusion-pixel-font.md) — Open pixel family in 8, 10 and 12px with pan-Latin and CJK coverage, built from six sources and shipped in eleven file formats.
 - [Gallereee](../sites/gallereee.md) — A portfolio gallery filterable by visual style, with individual records that link to the published sites.
+- [Galmuri](../sites/galmuri.md) — Pixel font family in six cuts covering all 11,172 Hangul syllables, installed via npm or one CSS link and licensed under the OFL.
 - [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
 - [Google Evolving Identity](../sites/google-evolving-identity.md) — Google's 2015 identity story, with visual studies of its logotype, animated dots, compact G, color and product applications.
 - [Gradient Buttons](../sites/gradient-buttons.md) — Gallery of copy-paste CSS gradient buttons.
@@ -189,6 +191,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Too Much Type](../sites/too-much-type.md) — Experimental type foundry and specimen lab with interactive variable fonts, browser controls and downloadable font projects.
 - [Tooooools](../sites/tooooools.md) — Free lo-fi effects for photos and video: dithering, stippling, halftone, CRT, ASCII, with SVG export.
 - [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.
+- [Trend List](../sites/trendlist.md) — Archive of graphic-design tendencies since 2011, sorted by named formal device rather than by content, with 12,721 images at review.
 - [Typeface.fyi](../sites/typeface-fyi.md) — Chrome extension that identifies any web font, its metrics, where it's served from and its foundry.
 - [TypeUI](../sites/typeui.md) — Style-named design skills (SKILL.md + DESIGN.md) via an MIT CLI/registry and a paid hosted MCP.
 - [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.

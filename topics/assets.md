@@ -61,6 +61,8 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Fontsource](../sites/fontsource.md) — 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.
 - [Free Icon Resources](../sites/free-icon-resources.md) — A categorized index of icon libraries, search tools, generators and learning references for choosing a specific icon source.
 - [Freesound](../sites/freesound.md) — 738,000+ Creative Commons sounds with a v2 API, per-file licences and Gen AI opt-out preferences; downloads need an account.
+- [Fusion Pixel Font](../sites/fusion-pixel-font.md) — Open pixel family in 8, 10 and 12px with pan-Latin and CJK coverage, built from six sources and shipped in eleven file formats.
+- [Galmuri](../sites/galmuri.md) — Pixel font family in six cuts covering all 11,172 Hangul syllables, installed via npm or one CSS link and licensed under the OFL.
 - [gltf.report](../sites/gltf-report.md) — Drop in a GLB to inspect, validate, script and Draco/Meshopt-compress it locally, built on glTF Transform.
 - [GOATED UI](../sites/goated-ui.md) — Free gallery of live websites and Open Graph cards, with category pages and detail records linking to original sites.
 - [Grainient](../sites/grainient.md) — A curated library of smooth, grainy and animated gradients, plus a live shader editor for custom backgrounds.
@@ -132,6 +134,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [SceneAI](../sites/sceneai.md) — Curated landing-page prompts, animated backgrounds and gradients for studying expressive web sections and motion.
 - [Screan](../sites/screan.md) — Free MIT browser studio that exports store screenshots for every size and language as one ZIP.
 - [Screen Movie](../sites/screen-movie.md) — A macOS recording and motion editor whose site shows cinematic ways to frame, zoom and animate product demos.
+- [Scroll Shaders](../sites/scrollshaders.md) — Paid library of 117 looping WebGL backgrounds, shader components and 6K stills, sold as paste-in code or as MP4 for tools that take no code.
 - [Shapefest](../sites/shapefest.md) — A consistent 3D illustration system for studying and using floating, isometric, clay, glass, plastic, and metal forms.
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
 - [Simple Icons](../sites/simple-icons.md) — The standard CC0 set of 3,461 one-colour brand logos, with official hex colours and a colour CDN.
