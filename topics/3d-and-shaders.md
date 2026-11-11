@@ -70,10 +70,12 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [PlayCanvas](../sites/playcanvas.md) — A WebGL and WebGPU engine whose Explore catalog links to live games, product configurators and real-time graphics demos.
 - [Pointilliser](../sites/pointilliser.md) — Two browser tools turn text or images into neo-pointillist graphics made from clustered circles or 3D spheres.
 - [Poly Haven](../sites/poly-haven.md) — About 2,400 CC0 HDRIs, PBR textures and models made by people, with a keyless API that asks for credit.
+- [Polygonjs](../sites/polygonjs.md) — Node-based 3D editor that compiles scenes into three.js projects; the MIT version is frozen while a paid v2 continues the product.
 - [Raine Architects](../sites/raine-architects.md) — An architecture studio site with a full-width 3D project viewer and a restrained editorial frame.
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
 - [React Three Fiber](../sites/react-three-fiber.md) — MIT React renderer that writes three.js scenes as JSX, with performance guides, llms-full.txt and a docs MCP.
 - [Reverse UI](../sites/reverse-ui.md) — 68 animated React feature illustrations and shader effects for SaaS pages; 19 free, the rest a one-time paid licence. MUI and Emotion.
+- [Scroll Shaders](../sites/scrollshaders.md) — Paid library of 117 looping WebGL backgrounds, shader components and 6K stills, sold as paste-in code or as MP4 for tools that take no code.
 - [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
 - [Shaderfrog](../sites/shaderfrog.md) — Graph editor that splices GLSL shaders into Three.js, Babylon and PlayCanvas materials, with a community gallery.
 - [Shadertoy](../sites/shadertoy.md) — Community gallery of live GLSL scenes with an in-browser shader editor and a documented API for public examples.

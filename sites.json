@@ -7262,6 +7262,35 @@
       ]
     },
     {
+      "slug": "fusion-pixel-font",
+      "path": "sites/fusion-pixel-font.md",
+      "title": "Fusion Pixel Font",
+      "description": "Open pixel family in 8, 10 and 12px with pan-Latin and CJK coverage, built from six sources and shipped in eleven file formats.",
+      "url": "https://fusion-pixel-font.takwolf.com",
+      "type": "font-library",
+      "formats": "8px, 10px and 12px cuts · monospaced and proportional widths · 38,213 characters in the 12px proportional build at review · TTF, OTF, WOFF, WOFF2, BDF, OTB, PCF, dfont and ms.bitmap.ttf · language-specific glyph variants · browser playground",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The fonts are SIL Open Font License 1.1 and the build tooling is MIT, as stated in the repository at review. Six upstream bitmap fonts supply the CJK glyphs, each OFL-1.1 or a licence the project treats as compatible",
+      "licence_class": "open-source-permissive",
+      "licences": {
+        "fonts": "open-source-permissive",
+        "code": "open-source-permissive"
+      },
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "unscii",
+        "galmuri",
+        "oldschool-pc-fonts"
+      ]
+    },
+    {
       "slug": "gaia-ui",
       "path": "sites/gaia-ui.md",
       "title": "GAIA UI",
@@ -7313,6 +7342,34 @@
         "siteinspire",
         "a1-gallery",
         "one-page-love"
+      ]
+    },
+    {
+      "slug": "galmuri",
+      "path": "sites/galmuri.md",
+      "title": "Galmuri",
+      "description": "Pixel font family in six cuts covering all 11,172 Hangul syllables, installed via npm or one CSS link and licensed under the OFL.",
+      "url": "https://quiple.dev/font/galmuri",
+      "type": "font-library",
+      "formats": "six cuts — Galmuri14, 11, 11 Bold, 11 Condensed, 9 and 7 · pixel sizes from 8 to 15 · npm package and jsDelivr stylesheet · live tester with size and spacing sliders · bitmap image generator · outline version",
+      "topics": [
+        "typography-and-styles",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "SIL Open Font License 1.1, stated on the page with a permissions table and the licence text linked from the repository at review. The author notes that glyphs drawn from the DS-era source are not his creation but that the outline font file is",
+      "licence_class": "open-source-permissive",
+      "licences": {
+        "fonts": "open-source-permissive"
+      },
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "fusion-pixel-font",
+        "unscii",
+        "oldschool-pc-fonts"
       ]
     },
     {
@@ -13728,6 +13785,36 @@
       ]
     },
     {
+      "slug": "opnform",
+      "path": "sites/opnform.md",
+      "title": "OpnForm",
+      "description": "Open-source form builder with conversational and classic layouts, unlimited responses on the free plan, and a Docker route to self-hosting.",
+      "url": "https://opnform.com",
+      "type": "tool",
+      "formats": "hosted builder · Docker self-host · REST API and webhooks · conditional logic and calculations · themes, fonts and custom domains · llms.txt · about 4,000 GitHub stars at review",
+      "topics": [
+        "ux-patterns",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The core is AGPL-3.0 with an enterprise directory under a separate licence, so it is an open core with paid tiers. The hosted cloud is free with unlimited submissions and charges for branding removal and team features",
+      "licence_class": "mixed",
+      "licences": {
+        "code": "open-source-copyleft"
+      },
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "tally",
+        "typeform"
+      ]
+    },
+    {
       "slug": "orbkit",
       "path": "sites/orbkit.md",
       "title": "Orbkit",
@@ -14645,6 +14732,34 @@
         "blender",
         "gltf-report",
         "3dicons"
+      ]
+    },
+    {
+      "slug": "polygonjs",
+      "path": "sites/polygonjs.md",
+      "title": "Polygonjs",
+      "description": "Node-based 3D editor that compiles scenes into three.js projects; the MIT version is frozen while a paid v2 continues the product.",
+      "url": "https://polygonjs.com",
+      "type": "tool",
+      "formats": "node-based editor in browser and desktop · node contexts for animation, audio, textures, events, GLSL, materials, objects, post-processing and modelling · exports to vanilla JS, three.js, React, Vue and react-three-fiber · scenes stored as JSON and JS in the repo · four official plugins",
+      "topics": [
+        "3d-and-shaders",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The v1 repository is MIT and in maintenance mode; the current Polygon v2 is sold as a subscription or perpetual licence at $25 monthly, $200 yearly or $495 once at review, and the licence for the v2 product is not stated on the pricing page",
+      "licence_class": "mixed",
+      "licences": {
+        "code": "open-source-permissive"
+      },
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "threejs",
+        "spline",
+        "needle-engine"
       ]
     },
     {
@@ -16197,6 +16312,32 @@
         "torph",
         "textmotion",
         "motion-primitives"
+      ]
+    },
+    {
+      "slug": "scrollshaders",
+      "path": "sites/scrollshaders.md",
+      "title": "Scroll Shaders",
+      "description": "Paid library of 117 looping WebGL backgrounds, shader components and 6K stills, sold as paste-in code or as MP4 for tools that take no code.",
+      "url": "https://scrollshaders.com",
+      "type": "asset-library",
+      "formats": "117 shader entries in 11 families at review · React components and vanilla JS snippets · seamless MP4 loops at 480p, 720p and 1080p · 2560px poster still · 77 stills in 15 collections at 6K · live colour filters",
+      "topics": [
+        "3d-and-shaders",
+        "motion",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "A commercial licence ships with every plan and covers client work, products and templates, but not reselling the shaders as a library. Plans at review are $29 monthly with a ten-item weekly limit, $129 yearly or $239 lifetime, billed in USD",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "shadertoy",
+        "grainient",
+        "backgrounds-supply"
       ]
     },
     {
@@ -18963,6 +19104,31 @@
         "shadcn-ui",
         "kibo-ui",
         "carbon-design-system"
+      ]
+    },
+    {
+      "slug": "trendlist",
+      "path": "sites/trendlist.md",
+      "title": "Trend List",
+      "description": "Archive of graphic-design tendencies since 2011, sorted by named formal device rather than by content, with 12,721 images at review.",
+      "url": "https://trendlist.org",
+      "type": "gallery",
+      "formats": "12,721 images at review · 58 named trends with counts · tag, country and year filters · 128 pages of thumbnails · adjustable thumbnail height · light and dark themes · credited source per entry",
+      "topics": [
+        "inspiration",
+        "typography-and-styles"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "No licence is stated for the images or the site's own text at review. Each entry credits its designer, country and year and links to the original source",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-11",
+      "status": "active",
+      "related": [
+        "fonts-in-use",
+        "typewolf",
+        "collected"
       ]
     },
     {

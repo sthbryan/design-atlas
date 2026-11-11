@@ -180,6 +180,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Pixel Perfect UI](../sites/pixel-perfect.md) — A free React component gallery with live previews, visual controls, source code and shadcn-compatible install commands.
 - [Plasma UI](../sites/plasma-ui.md) — React surfaces with WebGL refraction, liquid joins and grid snapping, demonstrated through a material playground and a small workspace.
 - [Playgrnd](../sites/playgrnd.md) — 52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.
+- [Polygonjs](../sites/polygonjs.md) — Node-based 3D editor that compiles scenes into three.js projects; the MIT version is frozen while a paid v2 continues the product.
 - [POP IS YOU SAKAE](../sites/pop-is-you-sakae.md) — A Nagoya event microsite that links pop-culture listings to a calendar and a filterable map of Sakae venues.
 - [Promo AI Videos](../sites/promo-ai-videos.md) — A searchable showcase of AI-made promotional videos, grouped by visual style, medium and aspect ratio.
 - [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
@@ -199,6 +200,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [SceneAI](../sites/sceneai.md) — Curated landing-page prompts, animated backgrounds and gradients for studying expressive web sections and motion.
 - [Screen Movie](../sites/screen-movie.md) — A macOS recording and motion editor whose site shows cinematic ways to frame, zoom and animate product demos.
 - [Scritto](../sites/scritto.md) — MIT web component that animates only the characters that change in any string.
+- [Scroll Shaders](../sites/scrollshaders.md) — Paid library of 117 looping WebGL backgrounds, shader components and 6K stills, sold as paste-in code or as MP4 for tools that take no code.
 - [Scrolltide](../sites/scrolltide.md) — Paid cinematic scroll-driven templates and sections for landing pages, each paired with an agent prompt.
 - [Sera UI](../sites/sera-ui.md) — About 90 MIT animated React and Tailwind components via shadcn registry URLs; now owned by Pimjo, repo quiet since February 2026.
 - [Shane Chellam](../sites/shane-chellam.md) — An interactive portfolio that turns a career into a four-stop 3D bike journey with a clear one-page recruiter route.

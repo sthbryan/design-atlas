@@ -129,6 +129,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Notesnook](../sites/notesnook.md) — Note app page that argues privacy by building fake note cards, a publish dialog and a clipper, each labelled with its encrypted state.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
 - [One Switch](../sites/oneswitch.md) — Mac utility that puts hide-desktop, dark mode, keep-awake, screen saver and AirPods toggles on one panel, sold with a lifetime licence.
+- [OpnForm](../sites/opnform.md) — Open-source form builder with conversational and classic layouts, unlimited responses on the free plan, and a Docker route to self-hosting.
 - [Ossium](../sites/ossium.md) — Dark developer platform with a centered discovery hero, feature previews and a dashboard route for finding open-source contribution work.
 - [Oversight Supply](../sites/oversight-supply.md) — Paid library of Webflow and Framer templates plus standalone creative sections, with previews and prompt-based project handoff.
 - [Overtone](../sites/overtone.md) — Aarhus design studio site pairing a large pale gradient headline with a compact floating navigation and image-led project pages.
