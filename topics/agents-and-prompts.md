@@ -82,6 +82,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Jiro](../sites/jiro.md) — Prompt library of 1,454 landing pages and sections, each previewable live and copyable as one prompt for Bolt, Lovable, v0 or Cursor.
 - [Kage](../sites/kage.md) — Real product pages and components tagged by style, with screenshot-backed design prompts and a public MCP server.
 - [Kibo UI](../sites/kibo-ui.md) — Free MIT shadcn companion with 41 functional components (Gantt, Kanban, editor), 28 marketing blocks and an MCP server.
+- [Kite](../sites/kite.md) — Shared design canvas where Claude, ChatGPT, Cursor or Codex draw editable layers through a hosted MCP server, next to your team.
 - [Kobra](../sites/kobra.md) — Proprietary component system for AI and agent product interfaces, with an llms.txt index and a markdown API per component.
 - [Kombai](../sites/kombai.md) — Credit-based frontend coding agent with an MCP server, plus a free 20,000-design gallery that copies designs as prompts.
 - [Lafys](../sites/lafys.md) — Paid library of long website prompts for Claude, Lovable and v0, each with a video of the result; conflicting licence terms.

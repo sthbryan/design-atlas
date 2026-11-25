@@ -10393,6 +10393,35 @@
       ]
     },
     {
+      "slug": "kite",
+      "path": "sites/kite.md",
+      "title": "Kite",
+      "description": "Shared design canvas where Claude, ChatGPT, Cursor or Codex draw editable layers through a hosted MCP server, next to your team.",
+      "url": "https://kite.new",
+      "type": "design-workspace",
+      "formats": "collaborative design editor · hosted MCP server · agent plugins and skill · HTML, React and Tailwind export · Mac and Windows apps",
+      "topics": [
+        "agents-and-prompts",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "Free plan with unlimited editors, 3 files and 100 agent actions a day; Pro $16 per editor a month billed yearly or $20 monthly at review. Proprietary terms; the agent plugins repo is MIT",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-25",
+      "status": "active",
+      "related": [
+        "magicpath",
+        "figma",
+        "penpot"
+      ]
+    },
+    {
       "slug": "klim",
       "path": "sites/klim.md",
       "title": "Klim Type Foundry",
