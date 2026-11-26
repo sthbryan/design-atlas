@@ -54,6 +54,7 @@ A topic slug is valid only if `topics/<slug>.md` exists with `title`, `descripti
 ## Rules
 
 - Write in your own words; no copied prose, code or rule text from reviewed sites, and at most a short quote in quotation marks.
+- No em dashes in prose. Use commas, colons or parentheses instead.
 - Write "not stated" instead of guessing, and "at review" next to counts.
 - No screenshots, logos or other images of reviewed sites.
 - Don't rename slugs, don't add frontmatter fields or vocabulary values without updating `scripts/build.mjs` and CONTRIBUTING.md together, and don't hand-edit generated content.

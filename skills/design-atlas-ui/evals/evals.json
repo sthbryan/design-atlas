@@ -205,7 +205,7 @@
     },
     {
       "id": 15,
-      "prompt": "critique the hero on http://localhost:5173 — I only have the source here, no browser tools in this session",
+      "prompt": "critique the hero on http://localhost:5173, I only have the source here, no browser tools in this session",
       "expected_output": "Reviews from source, keeps visual claims out of the findings or marks them Not verified, and asks for a screenshot for visual judgment.",
       "files": ["evals/files/shiftboard/src/pages/Home.tsx", "evals/files/shiftboard/src/styles/tokens.css", "evals/files/shiftboard/DESIGN.md"],
       "expectations": [
