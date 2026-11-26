@@ -20,7 +20,7 @@ related: [lucide, iconify, stick-it-up]
 
 ## What it is
 
-Trazo is a set of hand-drawn, wax-crayon style sticker SVGs for the web: chunky crayon sea creatures, cats, arrows, stars, clouds and emphasis marks. Each sticker can be recoloured live, copied as clean SVG, or installed from npm (`trazo-stickers`, 1,523 npm downloads in the last week at review).
+Trazo is a set of hand-drawn, wax-crayon style sticker SVGs for the web: chunky crayon sea creatures, cats, arrows, stars, clouds and emphasis marks. Each sticker can be recoloured live, copied as clean SVG, or installed from npm as `trazo-stickers`, which the site counted at 1,523 downloads at review.
 
 ## When to open it
 

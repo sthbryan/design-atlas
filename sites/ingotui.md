@@ -8,7 +8,7 @@ topics: [components, data-viz, ai-interfaces]
 verdict: useful
 agent: [mcp, cli, llms-txt]
 pricing: freemium
-licence: Free tier plus Pro at $39 per starter a year and a $49 one-time Lifetime plan at review. The licence page governs commercial use; check it before shipping paid-tier components.
+licence: "Free tier for personal, learning and non-commercial projects, with 30 components in code, 15 templates and a 50-call-a-day MCP server. Pro is $39 a year for one person; Lifetime was $49 in its launch deal against a $99 list price at review. The licence page governs commercial use."
 licence_class: not-stated
 reviewed: 2026-11-26
 status: active
@@ -30,7 +30,7 @@ Open it when you are building a dashboard and want a complete system (components
 
 - **Whole systems, not parts**: nine design systems so a dashboard can stay internally consistent.
 - **Charts and icons included**: 402 chart components and a large icon set sit in the same library.
-- **Agent paths**: an MCP server, a CLI and an `llms.txt` cover the ways an agent can browse and install.
+- **Agent paths**: an MCP server (50 calls a day on the free tier), a CLI and an `llms.txt` cover how an agent browses and installs.
 
 ## Using it with agents
 
@@ -38,7 +38,7 @@ The MCP server and CLI are the main agent channels, with the `llms.txt` describi
 
 ## Watch out for
 
-- The paid tiers are per starter; confirm the licence terms for commercial use before shipping Pro components.
+- The free tier is explicitly non-commercial, and paid tiers cover one person; confirm both before shipping.
 - Nine systems is a lot of surface; pick one system and stay in it.
 
 ## Reusable ideas
