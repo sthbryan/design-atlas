@@ -43,6 +43,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [Drei](../sites/drei.md) — 133 MIT helpers for React Three Fiber (staging, loaders, controls, materials), with llms.txt and a docs MCP.
 - [Efecto](../sites/efecto.md) — Browser canvas your agent drives through MCP tools, plus an FX engine for dither, ASCII and halftone posters.
 - [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
+- [Framewave](../sites/framewave.md) — MIT GPU-first toolkit for deterministic, frame-based motion graphics on the web, with WebCodecs export.
 - [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
 - [glass-lens-react](../sites/glass-lens-react.md) — A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.
 - [glimm](../sites/glimm.md) — WebGL colour-band page transitions for React/Next.js, with a copyable agent prompt.
@@ -67,6 +68,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [OpenShaderLibrary](../sites/openshader-library.md) — 117 shader effects written once and exported for React, React Native and SwiftUI, so web and native apps share the same visuals.
 - [Orbkit](../sites/orbkit.md) — 33 state-driven WebGL orbs for voice and chat agents, with llms.txt, a skill, a JSON API and a shadcn install.
 - [OriginKit](../sites/originkit.md) — An interactive component catalogue for shader, cursor, animation and other high-impact web effects, with live parameter controls.
+- [Overflow Design](../sites/overflow-design.md) — Isometric icons, illustrations and bot avatars from one designer, with a free set and a single Pro licence.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
 - [Plasma UI](../sites/plasma-ui.md) — React surfaces with WebGL refraction, liquid joins and grid snapping, demonstrated through a material playground and a small workspace.
 - [PlayCanvas](../sites/playcanvas.md) — A WebGL and WebGPU engine whose Explore catalog links to live games, product configurators and real-time graphics demos.
@@ -82,6 +84,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [Shaderfrog](../sites/shaderfrog.md) — Graph editor that splices GLSL shaders into Three.js, Babylon and PlayCanvas materials, with a community gallery.
 - [Shaders](../sites/shaders.md) — MIT WebGPU component library with 200 shader effects for React, Vue, Svelte and Solid, plus a paid pro library, visual editor and MCP server.
 - [Shadertoy](../sites/shadertoy.md) — Community gallery of live GLSL scenes with an in-browser shader editor and a documented API for public examples.
+- [ShaderVine](../sites/shadervine.md) — MIT WebGPU shader toolkit with a node graph, live preview, compute simulations and export.
 - [Shane Chellam](../sites/shane-chellam.md) — An interactive portfolio that turns a career into a four-stop 3D bike journey with a clear one-page recruiter route.
 - [Shapefest](../sites/shapefest.md) — A consistent 3D illustration system for studying and using floating, isometric, clay, glass, plastic, and metal forms.
 - [Sketchfab](../sites/sketchfab.md) — Interactive 3D model gallery with orbitable browser previews, model annotations and filters for visual reference.
@@ -98,6 +101,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [Utopia Tokyo](../sites/utopia-tokyo.md) — A mask-themed cyberpunk experience with a red editorial grid, a safety choice and an interactive character builder.
 - [vgpu](../sites/vgpu.md) — A composable WebGPU library with live shader examples, versioned docs, CLI discovery and agent resources.
 - [wwwtf.site](../sites/wwwtf.md) — A young gallery of 25 weird, WebGL-heavy experimental websites from the curator of Sections.wtf.
+- [Zephyr3D](../sites/zephyr3d.md) — MIT TypeScript 3D engine and visual editor targeting WebGL2 and WebGPU, with node-graph materials.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing

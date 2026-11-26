@@ -31,15 +31,18 @@ How sites document components, design systems and style — for human readers an
 - [Base UI](../sites/base-ui.md) — Unstyled, accessible React primitives from the Radix, Floating UI and MUI teams, now shadcn's default.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
 - [ColorBox](../sites/colorbox.md) — Palette generator built on OKLCH and OKLAB, checking WCAG contrast as you edit and exporting CSS, Tailwind, Figma tokens or JSON.
+- [Compass Design System](../sites/compass-design-system.md) — shadcn-based React design system with 120+ UX-focused components, blocks, tokens and an AI skill with MCP.
 - [D3](../sites/d3.md) — The library for bespoke data visualisation, with a gallery of notebook examples that doubles as a vocabulary of chart forms.
 - [Design System Checklist](../sites/design-system-checklist.md) — 230 items across language, foundations, 29 components and maintenance, with shareable progress links.
 - [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
 - [Design.md Store](../sites/designmd-store.md) — 51 free brand-inspired DESIGN.md packs plus clear docs on the Google DESIGN.md format; strict reuse terms.
 - [Designer Skills](../sites/designer-skills.md) — 111 small design-practice skills in nine plugins, with a router that picks one entry point.
+- [DESIGNmd](../sites/designmd-ai.md) — Community library of DESIGN.md design systems for AI coding, with an MCP server and CLI to search and download.
 - [Devouring Details](../sites/devouring-details.md) — Rauno Freiberg's paid interactive manual on interaction craft, with 23 chapters and downloadable React prototypes.
 - [Diagram Design](../sites/diagram-design.md) — Agent skill that draws 45 editorial diagram types as self-contained HTML and SVG, brand-matched to your site, installed in one command.
 - [DialKit](../sites/dialkit.md) — MIT live control panel for tuning springs, easing, layout and timelines in React, Vue, Svelte, Solid and plain JS.
 - [Every Layout](../sites/every-layout.md) — Intrinsic CSS layout primitives with free visual examples, interactive demos and configurable generators.
+- [Google's DESIGN.md format](../sites/design-md-format.md) — Apache-2.0 specification and CLI that gives coding agents a persistent, structured description of a visual identity.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [hamur](../sites/hamur.md) — Unstyled accessible components with one shared core and five framework adapters — React, Vue, Svelte, Angular and Solid — under the MIT licence.
 - [IBM Design Language color](../sites/ibm-design-language-color.md) — IBM's color reference shows palette families, accepted gradients, UI themes, accessibility rules and examples in use.
@@ -72,6 +75,8 @@ How sites document components, design systems and style — for human readers an
 - [The Component Gallery](../sites/component-gallery.md) — Reference that compares how 95 design systems name, structure and document the same 60 components.
 - [The Iconography Encyclopedia](../sites/iconography-encyclopedia.md) — An alphabetical field guide to icon design terms, from alignment and anatomy to stroke weight and wayfinding.
 - [Tone.js](../sites/tonejs.md) — MIT Web Audio framework with synths, effects and scheduling, for building interface cues instead of downloading them.
+- [Twentyfirst UI](../sites/twentyfirst-ui.md) — Two MIT-licensed React UI kits, Halo and Pro, sharing one component API so a product can swap its look without changing code.
+- [Typographer](../sites/typographer.md) — Font discovery, testing and syncing tool with 10,000+ typefaces and a licence that covers small sites.
 - [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
 - [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.

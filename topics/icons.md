@@ -40,6 +40,7 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Icônes](../sites/icones.md) — Instant offline-search icon explorer over Iconify's sets, with an icon-font packer, SVG download and copy-ready usage snippets.
 - [Iconify](../sites/iconify.md) — One naming scheme, API and toolchain over 200+ open icon sets and about 300k+ icons.
 - [Iconly](../sites/iconly.md) — Inspiration library of 2,400+ app, game and web app icons, searchable by category, style and colour, with 30 free and the rest behind a subscription.
+- [IconMind](../sites/iconmind.md) — 5,287 open-source icons for AI-era software, in outline and duotone across three weights.
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
 - [Icons.download](../sites/icons-download.md) — 275 hand-drawn UI icons in 16 styles (weight, fill, corner), free SVG and Figma.
 - [icons0 (broken)](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
@@ -52,8 +53,10 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Material Symbols](../sites/material-symbols.md) — Google's Apache 2.0 variable icon font: about 3,900 symbols in three styles with fill, weight, grade and optical size axes.
 - [morphicons](../sites/morphicons.md) — Tiny zero-dependency library that morphs any stroke icon into another using interruptible springs.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.
+- [Motificons](../sites/motificons.md) — Search 337,122 open-source icons from 239 sets and restyle them into one consistent look, with an MCP server.
 - [MX Icons](../sites/mx-icons.md) — About 2,200 soft React icons in six styles labelled MIT; sources not credited.
 - [Nucleo](../sites/nucleo.md) — A polished SVG icon system with sharply differentiated families, a desktop editor, and an agent workflow for licensed icons.
+- [Overflow Design](../sites/overflow-design.md) — Isometric icons, illustrations and bot avatars from one designer, with a free set and a single Pro licence.
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.
 - [Reeoo](../sites/reeoo.md) — Searchable references for websites, apps, store screenshots, event cards, icons and tools, with filters for industry, colour, style and layout.

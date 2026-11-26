@@ -28,12 +28,14 @@ Design systems written as a single markdown file an agent can read: the librarie
 - [design.dev](../sites/design-dev.md) — Free generators for DESIGN.md, AGENTS.md, CLAUDE.md and more, plus component prompts and style packs; strict terms.
 - [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
 - [Design.md Store](../sites/designmd-store.md) — 51 free brand-inspired DESIGN.md packs plus clear docs on the Google DESIGN.md format; strict reuse terms.
+- [DESIGNmd](../sites/designmd-ai.md) — Community library of DESIGN.md design systems for AI coding, with an MCP server and CLI to search and download.
 - [DesignMD (designmd.me)](../sites/designmd-me.md) — Credit-based URL-to-DESIGN.md generator with CLI, agent skill, Figma import and a free Discover gallery.
 - [DesignMD.cc](../sites/designmd-cc.md) — Free URL-to-DESIGN.md generator measuring live CSS, with an MIT CLI and a benchmark library.
 - [designmd.supply](../sites/designmd-supply.md) — Free open-source domain-to-DESIGN.md generator; copy as markdown, Tailwind v4 theme or CSS variables.
 - [Devault](../sites/devault.md) — Library of 2,383 DESIGN.md systems free to copy, each exportable to nine formats, alongside a paid reference collection and an MCP server.
 - [extract-design-system](../sites/extract-design-system.md) — Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
 - [getdesign.md](../sites/getdesign-md.md) — ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
+- [Google's DESIGN.md format](../sites/design-md-format.md) — Apache-2.0 specification and CLI that gives coding agents a persistent, structured description of a visual identity.
 - [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
 - [Hyperbrowser DESIGNMD](../sites/hyperbrowser-design-md.md) — Paste a domain, get a basic Google-style DESIGN.md via Hyperbrowser's branding API (bring your own key).
 - [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.

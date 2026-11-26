@@ -105,6 +105,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Mixkit Sound Effects](../sites/mixkit-sound-effects.md) — Free .wav and .mp3 sound effects with no sign-up and no attribution, under Envato's Mixkit Free License.
 - [monogram](../sites/monogram.md) — CC0 monospace bitmap font five pixels wide, shipped as TTF, bitmap PNG and JSON, and a PICO-8 font, with an extended family.
 - [Montagu Slab](../sites/montagu-slab.md) — Variable slab serif with a live tester that exposes weight, optical size, spacing and leading across several scripts.
+- [Motificons](../sites/motificons.md) — Search 337,122 open-source icons from 239 sets and restyle them into one consistent look, with an MCP server.
 - [Movulab](../sites/movulab.md) — Browser editor for looping animated type, with effect presets, typography controls and export options.
 - [MX Icons](../sites/mx-icons.md) — About 2,200 soft React icons in six styles labelled MIT; sources not credited.
 - [Nacelle](../sites/nacelle.md) — Japanese type specimen pairing a quiet split layout and oversized word sample with named styles and an OFL licence.
@@ -117,6 +118,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Open Foundry](../sites/open-foundry.md) — A long-running curated catalogue of open source typefaces, with a specimen per face and the licence stated on the font page.
 - [OpenShaderLibrary](../sites/openshader-library.md) — 117 shader effects written once and exported for React, React Native and SwiftUI, so web and native apps share the same visuals.
 - [Opensource UI](../sites/opensource-ui.md) — MIT React and Tailwind catalogue of about 190 copy-paste pieces, including device mockups and widgets, with llms.txt and an agent skill.
+- [Overflow Design](../sites/overflow-design.md) — Isometric icons, illustrations and bot avatars from one designer, with a free set and a single Pro licence.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
 - [Paper Animation](../sites/paperanimation.md) — Browser tool that turns one image or word into paper-fold and newspaper-clipping motion clips, exported as MP4 or GIF with a green screen.
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.
@@ -149,11 +151,13 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Tabbied](../sites/tabbied.md) — 338 seeded geometric patterns as an MIT npm/React package, with a CLI and a hosted MCP.
 - [Tabler Icons](../sites/tabler-icons.md) — Over 6,200 MIT outline and filled icons on a 2px grid, with packages for every major framework and llms.txt docs.
 - [theSVG](../sites/thesvg.md) — 7,400+ brand and cloud icons with light, dark and wordmark variants, MCP, skill and CLI; licences vary per file.
+- [ThorVG Web](../sites/thorvg-web.md) — MIT WASM renderer for Lottie and vector graphics in the browser, with WebGL and WebGPU backends.
 - [Tokokino](../sites/tokokino.md) — A browser editor with reusable device-frame, screenshot and animated product-demo compositions.
 - [Too Much Type](../sites/too-much-type.md) — Experimental type foundry and specimen lab with interactive variable fonts, browser controls and downloadable font projects.
 - [TOOOLS.design](../sites/toools.md) — A category-indexed directory that points designers to curated galleries, inspiration libraries, icon sets and other design resources.
 - [Tooooools](../sites/tooooools.md) — Free lo-fi effects for photos and video: dithering, stippling, halftone, CRT, ASCII, with SVG export.
 - [Tripo](../sites/tripo.md) — Text and image to 3D model generator sold in credits, with a per-model price stated on each plan and 8K textures on the top tiers.
+- [Typographer](../sites/typographer.md) — Font discovery, testing and syncing tool with 10,000+ typefaces and a licence that covers small sites.
 - [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.
 - [Unscii](../sites/unscii.md) — Bitmapped Unicode fonts in 8×8 and 8×16 cells, built for character-cell art, terminals and programming at fixed sizes.

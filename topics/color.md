@@ -27,6 +27,7 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [Coca-Cola Visual System](../sites/coca-cola-visual-system.md) — Coca-Cola’s 2026 identity announcement and embedded film show how its signature assets extend across packaging, retail and digital work.
 - [Color.review](../sites/color-review.md) — WCAG 2.1 contrast checker with pass/fail lines on the picker and shareable pair links.
 - [ColorBox](../sites/colorbox.md) — Palette generator built on OKLCH and OKLAB, checking WCAG contrast as you edit and exporting CSS, Tailwind, Figma tokens or JSON.
+- [Compass Design System](../sites/compass-design-system.md) — shadcn-based React design system with 120+ UX-focused components, blocks, tokens and an AI skill with MCP.
 - [Coolors](../sites/coolors.md) — Palette generator and visualizer for trying color sets on UI, branding, typography and pattern mockups.
 - [Cosmos](../sites/cosmos.md) — Ad-free mood-board platform with hex-colour and visual-similarity search, AI-image filtering and source captions; Premium $8/month.
 - [daisyUI](../sites/daisyui.md) — MIT Tailwind plugin of semantic component classes and 35 themes; llms.txt doubles as a skill, paid Blueprint MCP.
@@ -62,6 +63,7 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [Ramps](../sites/ramps.md) — One brand hex becomes OKLCH ramps and light/dark semantic tokens with enforced AA/AAA, via llms.txt and a JSON API.
 - [Realtime Colors](../sites/realtime-colors.md) — Color and type visualizer that applies palette choices to a full responsive website-like sample.
 - [Regene Office — NOSIGNER](../sites/regene-office.md) — NOSIGNER presents a Yokohama office built around reused construction materials through dark, full-width photography and a clear project narrative.
+- [Saasflare UI](../sites/saasflare-ui.md) — MIT React and Tailwind v4 library with 135 animated components, 20 palettes, an MCP server and llms.txt.
 - [Scale](../sites/hihayk-scale.md) — Eleven-step colour scale generator where dark and light ends rotate hue and saturation separately, and the URL holds the state.
 - [Sephiro](../sites/sephiro.md) — A React and Preact component catalogue that pairs live state examples with six built-in themes and a compact token system.
 - [Shadcn Studio](../sites/shadcn-studio.md) — ThemeSelection's shadcn suite: blocks, templates, theme generator, Figma kit and an MCP; strict site licence.

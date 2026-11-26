@@ -46,6 +46,7 @@ Skills are instruction files (a `SKILL.md`, often with references and scripts) t
 - [Layro](../sites/layro.md) — React component marketplace that coding agents search and install from over MCP, with every component reviewed and runnable in a sandbox first.
 - [LottieFiles Motion Design Skill](../sites/lottiefiles-motion-design.md) — Motion-director skill: four personalities, duration and stagger tables, Disney principles adapted for UI.
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
+- [motion-anything](../sites/motion-anything.md) — Apache-2.0 agentic motion layer. Describe a feeling and a coding agent ships the animation as CSS, React or Lottie.
 - [MotionWiki](../sites/motionwiki.md) — Browse creative systems and free skill previews, or study its own editorial catalog and live project previews for web and brand inspiration.
 - [No AI Slop](../sites/no-ai-slop.md) — Removes AI writing patterns while keeping the writer's voice, and has a detect-only mode.
 - [Nord Design System](../sites/nord-design-system.md) — Nordhealth's health-care design system, with 65 Web Components documented as contracts, status badges and installable agent skills.

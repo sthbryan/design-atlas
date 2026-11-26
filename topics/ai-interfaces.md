@@ -22,8 +22,10 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 <!-- atlas:sources:start -->
 - [Agentation](../sites/agentation.md) — React toolbar that turns click-to-annotate feedback into selectors and file paths agents can act on over MCP.
 - [agentcn](../sites/agentcn.md) — Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
+- [Agents Kit](../sites/agents-kit.md) — 224 registry entries of React components for chat, voice agents, tool approvals and generative UI, copied into your app.
 - [AI UX Playground](../sites/ai-ux-playground.md) — A practical AI-interface reference with named patterns, live interaction demos, product teardowns, and agent skills.
 - [AlternativeTo](../sites/alternativeto-site.md) — A searchable software directory that helps designers discover comparable products, interfaces and further visual references.
+- [Anima](../sites/anima.md) — UX design agent that turns Figma files, URLs or prompts into production-ready front-end code with brand context.
 - [apmix.ai](../sites/apmix.md) — An AI API landing page that pairs a geometric mesh with side-by-side terminal sessions and a usage dashboard.
 - [Auri (auri.ai)](../sites/auri.md) — Interactive demos of an AI keyboard, visual chat and notes show how assistant features can fit into everyday writing flows.
 - [Banani](../sites/banani.md) — Public UI-screen references and an AI editor for turning prompts or screenshots into editable prototypes.
@@ -31,15 +33,19 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [benday](../sites/benday.md) — An MIT React component that turns a logo into a halftone mark with 21 controllable loading and agent-state animations.
 - [BestAIBuilder](../sites/bestaibuilder.md) — Ranked index of 101 AI website builders scored on craft, speed, control and value, with a radar comparison and a publisher disclosure on every entry.
 - [beUI](../sites/beui.md) — MIT motion components, agent UI and charts with llms.txt, JSON API, agent skill and hosted MCP; paid Pro adds blocks and templates.
+- [Brilliant](../sites/brilliant.md) — Figma-class vector canvas where agents edit the same file, with a free MCP server and a $0 plan.
 - [Cardinal](../sites/cardinal.md) — Revenue-AI landing page with a warm graph-paper grid, hand-drawn annotations and small illustrated metric cards.
 - [Conduit](../sites/conduit.md) — Hospitality AI site that pairs a restrained serif hero with a live-looking omnichannel inbox and an escalation workflow.
 - [Cotool](../sites/cotool.md) — Security AI landing page with a saturated blue field, dotted terrain artwork and a highlighted phrase inside its hero headline.
+- [Croqui](../sites/croqui.md) — Design canvas for coding agents where every frame is a real React file, reviewed and approved in place.
 - [Fluid Functionalism](../sites/fluid-functionalism.md) — Spring-driven shadcn registry (Radix or Base UI) with proximity hover, AI chat parts and copy prompts.
 - [Fuser](../sites/fuser.md) — A polished recipe page explains an image workflow with a connected input, recipe and output diagram.
 - [GAIA UI](../sites/gaia-ui.md) — MIT, shadcn-compatible React components for AI assistants, with documented registry installation and a focused agent-app visual language.
+- [Google Stitch](../sites/stitch.md) — Google's AI interface design tool with a canvas, design-to-code output, an MCP server and an Apache-licensed skills repo.
 - [Halaska UI](../sites/halaska-ui.md) — MIT React kit for AI products, pairing live sample screens with reusable interaction patterns and components.
 - [Handy](../sites/handy.md) — Open-source speech-to-text app that pastes what you say into the focused field, sold on privacy and a single push-to-talk shortcut.
 - [HextaUI](../sites/hexta-ui.md) — shadcn/ui blocks for AI chat interfaces, covering streaming, tool calls, voice and agent states, with an MCP server and Markdown docs.
+- [IconMind](../sites/iconmind.md) — 5,287 open-source icons for AI-era software, in outline and duotone across three weights.
 - [Jessy In's Gallery](../sites/jessy-in-gallery.md) — Social art gallery built on MoMA's open collection, with shared two-player curation, live chat, postcards and WebMCP tools for browser agents.
 - [Keel Workspace](../sites/keel-workspace.md) — A polished CRM workspace demo with dense pipeline metrics, source-backed agent decisions and keyboard-first review controls.
 - [Kite](../sites/kite.md) — Shared design canvas where Claude, ChatGPT, Cursor or Codex draw editable layers through a hosted MCP server, next to your team.

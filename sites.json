@@ -899,6 +899,35 @@
       ]
     },
     {
+      "slug": "agents-kit",
+      "path": "sites/agents-kit.md",
+      "title": "Agents Kit",
+      "description": "224 registry entries of React components for chat, voice agents, tool approvals and generative UI, copied into your app.",
+      "url": "https://agents-ui.github.io/agents-kit/",
+      "type": "component-registry",
+      "formats": "shadcn-compatible registry · chat and voice agent components · app examples",
+      "topics": [
+        "ai-interfaces",
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "A registry that collects components from several open sources, so each entry keeps its upstream licence. The repository records them in its third-party notices at review; check the entry you take.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "kokonut-ui",
+        "prompt-kit"
+      ]
+    },
+    {
       "slug": "ai-ux-playground",
       "path": "sites/ai-ux-playground.md",
       "title": "AI UX Playground",
@@ -1133,6 +1162,36 @@
         "morphrig",
         "efecto",
         "animated-icons"
+      ]
+    },
+    {
+      "slug": "anima",
+      "path": "sites/anima.md",
+      "title": "Anima",
+      "description": "UX design agent that turns Figma files, URLs or prompts into production-ready front-end code with brand context.",
+      "url": "https://www.animaapp.com/",
+      "type": "ai-builder",
+      "formats": "design-to-code · UX design agent · MCP server · agent skill",
+      "topics": [
+        "ai-interfaces",
+        "agents-and-prompts",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "skill",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "A hosted commercial product with a free plan and paid tiers; no open licence for the service was found at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "stitch",
+        "croqui",
+        "kite"
       ]
     },
     {
@@ -2381,6 +2440,36 @@
       ]
     },
     {
+      "slug": "beamline-ui",
+      "path": "sites/beamline-ui.md",
+      "title": "Beamline UI",
+      "description": "240+ polished React components and 340+ complete product screens with real motion, sold once, wired for MCP.",
+      "url": "https://beamline.io/",
+      "type": "component-library",
+      "formats": "React components · complete screens · shadcn-compatible registry · hosted MCP",
+      "topics": [
+        "components",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "registry",
+        "llms-txt"
+      ],
+      "pricing": "paid",
+      "licence": "A free sample of 126 components is MIT per the project's GitHub repository; the full library is a one-time $49 licence at review, for one named person, covering end products.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "wunderui",
+        "twentyfirst-ui",
+        "kibo-ui"
+      ]
+    },
+    {
       "slug": "bearnie",
       "path": "sites/bearnie.md",
       "title": "Bearnie",
@@ -3054,6 +3143,35 @@
         "made-in-webflow",
         "best-website-templates",
         "tilda"
+      ]
+    },
+    {
+      "slug": "brilliant",
+      "path": "sites/brilliant.md",
+      "title": "Brilliant",
+      "description": "Figma-class vector canvas where agents edit the same file, with a free MCP server and a $0 plan.",
+      "url": "https://brilliant.design/",
+      "type": "design-workspace",
+      "formats": "vector design canvas · components and variants · MCP server · code export",
+      "topics": [
+        "ai-interfaces",
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "A hosted commercial service; the pricing page was gated to scripts at review, so the licence for exported files should be read in its terms.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "kite",
+        "figma",
+        "penpot"
       ]
     },
     {
@@ -3845,6 +3963,38 @@
       ]
     },
     {
+      "slug": "compass-design-system",
+      "path": "sites/compass-design-system.md",
+      "title": "Compass Design System",
+      "description": "shadcn-based React design system with 120+ UX-focused components, blocks, tokens and an AI skill with MCP.",
+      "url": "https://compass.designcompass.org/",
+      "type": "design-system",
+      "formats": "React design system · blocks · design tokens · agent skill · MCP server",
+      "topics": [
+        "components",
+        "documentation",
+        "agents-and-prompts",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "skill",
+        "llms-txt",
+        "cli"
+      ],
+      "pricing": "freemium",
+      "licence": "The component code is MIT per the project's GitHub repository at review. The site also sells a Plus membership; check its licence page for the paid material.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "wunderui",
+        "saasflare-ui"
+      ]
+    },
+    {
       "slug": "component-gallery",
       "path": "sites/component-gallery.md",
       "title": "The Component Gallery",
@@ -4154,6 +4304,36 @@
         "3dicons",
         "designeer",
         "kage"
+      ]
+    },
+    {
+      "slug": "croqui",
+      "path": "sites/croqui.md",
+      "title": "Croqui",
+      "description": "Design canvas for coding agents where every frame is a real React file, reviewed and approved in place.",
+      "url": "https://croqui.dev/",
+      "type": "design-workspace",
+      "formats": "React screens on a canvas · MCP server · review annotations · Claude Code plugin",
+      "topics": [
+        "ai-interfaces",
+        "agents-and-prompts",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "skill",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "A hosted commercial service; no open licence for the service was stated at review. Check terms before relying on it for client work.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "kite",
+        "brilliant",
+        "stitch"
       ]
     },
     {
@@ -4920,6 +5100,35 @@
       ]
     },
     {
+      "slug": "design-md-format",
+      "path": "sites/design-md-format.md",
+      "title": "Google's DESIGN.md format",
+      "description": "Apache-2.0 specification and CLI that gives coding agents a persistent, structured description of a visual identity.",
+      "url": "https://github.com/google-labs-code/design.md",
+      "type": "documentation",
+      "formats": "format specification · CLI · examples · agent-facing docs",
+      "topics": [
+        "design-md",
+        "documentation",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "cli",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "Apache-2.0, stated in the repository at review (29,130 stars).",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "designmd",
+        "designmd-ai",
+        "refero-styles"
+      ]
+    },
+    {
       "slug": "design-minis",
       "path": "sites/design-minis.md",
       "title": "Design Minis",
@@ -5233,6 +5442,35 @@
         "interface-design",
         "design-system-checklist",
         "impeccable"
+      ]
+    },
+    {
+      "slug": "designmd-ai",
+      "path": "sites/designmd-ai.md",
+      "title": "DESIGNmd",
+      "description": "Community library of DESIGN.md design systems for AI coding, with an MCP server and CLI to search and download.",
+      "url": "https://designmd.ai/",
+      "type": "style-library",
+      "formats": "DESIGN.md library · MCP server · CLI · format documentation",
+      "topics": [
+        "design-md",
+        "agents-and-prompts",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "Each uploaded system keeps its own licence (examples include MIT, CC0, CC-BY and CC-BY-SA at review); check the file you download. Browsing is free and the MCP key costs nothing.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "refero-styles",
+        "designmd",
+        "design-md-format"
       ]
     },
     {
@@ -7369,6 +7607,31 @@
       ]
     },
     {
+      "slug": "framewave",
+      "path": "sites/framewave.md",
+      "title": "Framewave",
+      "description": "MIT GPU-first toolkit for deterministic, frame-based motion graphics on the web, with WebCodecs export.",
+      "url": "https://github.com/VFitter/framewave",
+      "type": "js-library",
+      "formats": "motion graphics toolkit · WebGPU rendering · WebCodecs export · Canvas2D fallback",
+      "topics": [
+        "motion",
+        "3d-and-shaders"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "MIT, stated in the repository at review; free for companies of any size. Created July 2026.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "motion-dev",
+        "wix-interact",
+        "rive"
+      ]
+    },
+    {
       "slug": "framio",
       "path": "sites/framio.md",
       "title": "Framio",
@@ -9302,6 +9565,35 @@
         "iconography-encyclopedia",
         "icons-download",
         "icon-foundry"
+      ]
+    },
+    {
+      "slug": "iconmind",
+      "path": "sites/iconmind.md",
+      "title": "IconMind",
+      "description": "5,287 open-source icons for AI-era software, in outline and duotone across three weights.",
+      "url": "https://iconmind.dev/",
+      "type": "icon-library",
+      "formats": "icon library · outline and duotone · three weights · MCP server",
+      "topics": [
+        "icons",
+        "ai-interfaces",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "MIT, including commercial use without attribution, per the site at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "lucide",
+        "motificons",
+        "iconify"
       ]
     },
     {
@@ -12801,6 +13093,63 @@
       ]
     },
     {
+      "slug": "motificons",
+      "path": "sites/motificons.md",
+      "title": "Motificons",
+      "description": "Search 337,122 open-source icons from 239 sets and restyle them into one consistent look, with an MCP server.",
+      "url": "https://motificons.app/",
+      "type": "icon-library",
+      "formats": "icon search · style engine · export · MCP server",
+      "topics": [
+        "icons",
+        "agents-and-prompts",
+        "assets"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "Free and open source; each icon keeps its upstream licence and the site flags attribution and restrictions per asset at review.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "iconify",
+        "iconmind",
+        "tabler-icons"
+      ]
+    },
+    {
+      "slug": "motion-anything",
+      "path": "sites/motion-anything.md",
+      "title": "motion-anything",
+      "description": "Apache-2.0 agentic motion layer. Describe a feeling and a coding agent ships the animation as CSS, React or Lottie.",
+      "url": "https://github.com/nexu-io/motion-anything",
+      "type": "agent-skill",
+      "formats": "motion workbench · recipe library · multi-format export · agent integration",
+      "topics": [
+        "motion",
+        "agent-skills",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "skill",
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "Apache-2.0, stated in the repository at review (1,126 stars, created July 2026). You supply your own agent CLI or API key, so model costs may apply.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "motion-dev",
+        "emil-kowalski-skills",
+        "wix-interact"
+      ]
+    },
+    {
       "slug": "motion-dev",
       "path": "sites/motion-dev.md",
       "title": "Motion",
@@ -14429,6 +14778,35 @@
         "design-sorcery",
         "saaspo",
         "base-ui"
+      ]
+    },
+    {
+      "slug": "overflow-design",
+      "path": "sites/overflow-design.md",
+      "title": "Overflow Design",
+      "description": "Isometric icons, illustrations and bot avatars from one designer, with a free set and a single Pro licence.",
+      "url": "https://www.overflow.design/",
+      "type": "asset-library",
+      "formats": "isometric icons · illustrations · 3D pieces · Notion assets · scene builder",
+      "topics": [
+        "assets",
+        "icons",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "A free set plus a paid Pro licence that the site says covers commercial and client work without attribution at review (Pro listed at $99, $69 in a sale). Some uses, such as templates for sale, need Pro.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "3dicons",
+        "iconmind",
+        "kitbitz"
       ]
     },
     {
@@ -16506,6 +16884,36 @@
       ]
     },
     {
+      "slug": "saasflare-ui",
+      "path": "sites/saasflare-ui.md",
+      "title": "Saasflare UI",
+      "description": "MIT React and Tailwind v4 library with 135 animated components, 20 palettes, an MCP server and llms.txt.",
+      "url": "https://ui.saasflare.io/",
+      "type": "component-library",
+      "formats": "React components · Tailwind v4 · shadcn registry · MCP server",
+      "topics": [
+        "components",
+        "color",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "registry",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated on the site and in the project's GitHub repository at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "twentyfirst-ui",
+        "kibo-ui"
+      ]
+    },
+    {
       "slug": "saasframe",
       "path": "sites/saasframe.md",
       "title": "SaaSFrame",
@@ -17441,6 +17849,33 @@
         "grainient",
         "metalforge",
         "mesh3d"
+      ]
+    },
+    {
+      "slug": "shadervine",
+      "path": "sites/shadervine.md",
+      "title": "ShaderVine",
+      "description": "MIT WebGPU shader toolkit with a node graph, live preview, compute simulations and export.",
+      "url": "https://github.com/metavert-io/shadervine",
+      "type": "tool",
+      "formats": "WGSL shader editor · node graph · compute simulations · MCP server",
+      "topics": [
+        "3d-and-shaders",
+        "agents-and-prompts"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated in the repository at review (25 stars).",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shaders",
+        "shadertoy",
+        "zephyr3d"
       ]
     },
     {
@@ -18663,6 +19098,36 @@
       ]
     },
     {
+      "slug": "stitch",
+      "path": "sites/stitch.md",
+      "title": "Google Stitch",
+      "description": "Google's AI interface design tool with a canvas, design-to-code output, an MCP server and an Apache-licensed skills repo.",
+      "url": "https://stitch.google.com/",
+      "type": "ai-builder",
+      "formats": "AI UI generation · design canvas · design-to-code · MCP server",
+      "topics": [
+        "ai-interfaces",
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "skill",
+        "llms-txt"
+      ],
+      "pricing": "not-stated",
+      "licence": "The product's own terms were not stated in the pages checked; the companion skills repository (google-labs-code/stitch-skills) is Apache-2.0 at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "kite",
+        "brilliant",
+        "croqui"
+      ]
+    },
+    {
       "slug": "stop-slop",
       "path": "sites/stop-slop.md",
       "title": "Stop Slop",
@@ -19486,6 +19951,33 @@
       ]
     },
     {
+      "slug": "thorvg-web",
+      "path": "sites/thorvg-web.md",
+      "title": "ThorVG Web",
+      "description": "MIT WASM renderer for Lottie and vector graphics in the browser, with WebGL and WebGPU backends.",
+      "url": "https://github.com/thorvg/thorvg.web",
+      "type": "js-library",
+      "formats": "WASM renderer · Lottie player · Canvas · WebGL and WebGPU",
+      "topics": [
+        "motion",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated in the repository at review (56 stars).",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "lottiefiles",
+        "rive",
+        "motion-dev"
+      ]
+    },
+    {
       "slug": "threejs",
       "path": "sites/threejs.md",
       "title": "Three.js",
@@ -19830,6 +20322,36 @@
       ]
     },
     {
+      "slug": "twentyfirst-ui",
+      "path": "sites/twentyfirst-ui.md",
+      "title": "Twentyfirst UI",
+      "description": "Two MIT-licensed React UI kits, Halo and Pro, sharing one component API so a product can swap its look without changing code.",
+      "url": "https://ui.twentyfirst.media/",
+      "type": "component-library",
+      "formats": "React components · two visual systems · MCP server · CLI · registry",
+      "topics": [
+        "components",
+        "documentation",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "cli",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated on the site and in the project's GitHub organisation at review. No paid tier was advertised.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "saasflare-ui",
+        "beamline-ui"
+      ]
+    },
+    {
       "slug": "typeface-fyi",
       "path": "sites/typeface-fyi.md",
       "title": "Typeface.fyi",
@@ -19937,6 +20459,32 @@
         "typeface-fyi",
         "fontshare",
         "fontsource"
+      ]
+    },
+    {
+      "slug": "typographer",
+      "path": "sites/typographer.md",
+      "title": "Typographer",
+      "description": "Font discovery, testing and syncing tool with 10,000+ typefaces and a licence that covers small sites.",
+      "url": "https://typographer.com/",
+      "type": "tool",
+      "formats": "font library · live testing · sync app · subscriptions",
+      "topics": [
+        "typography-and-styles",
+        "assets",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "A subscription ($9 a month or $90 a year at launch) licenses testing and personal or small-business sites up to 15,000 pageviews a month; beyond that the foundry's own licence applies. Students free with proof of enrolment, per the launch terms.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "fontsource",
+        "fonts-in-use",
+        "typewolf"
       ]
     },
     {
@@ -21789,6 +22337,33 @@
       ]
     },
     {
+      "slug": "wix-interact",
+      "path": "sites/wix-interact.md",
+      "title": "Wix Interact",
+      "description": "MIT declarative interaction library that drives scroll, pointer and hover effects from a JSON spec in React or vanilla JS.",
+      "url": "https://github.com/wix/interact",
+      "type": "js-library",
+      "formats": "interaction library · declarative JSON spec · React and Web Components · agent skill",
+      "topics": [
+        "motion",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated in the repository at review (created November 2025).",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "motion-dev",
+        "framewave",
+        "zephyr3d"
+      ]
+    },
+    {
       "slug": "wondelai-skills",
       "path": "sites/wondelai-skills.md",
       "title": "Wondel.ai Skills",
@@ -21842,6 +22417,39 @@
         "made-in-webflow",
         "best-website-gallery",
         "figma"
+      ]
+    },
+    {
+      "slug": "wunderui",
+      "path": "sites/wunderui.md",
+      "title": "WunderUI",
+      "description": "Agentic React and Figma design system with 194 components, 285 screens, 181 motion effects, MCP, skills and DESIGN.md.",
+      "url": "https://wunderui.com/",
+      "type": "design-system",
+      "formats": "React components · Figma kit · Figma-matched props · MCP server · agent skills · DESIGN.md",
+      "topics": [
+        "components",
+        "motion",
+        "agents-and-prompts",
+        "data-viz"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "cli",
+        "skill",
+        "llms-txt",
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "89 free components are MIT per the project's GitHub repository; Core is $199 once and Pro $299 once under a commercial licence at review. The paid tiers cover block and template source, the full skill set and the agents.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "compass-design-system",
+        "beamline-ui"
       ]
     },
     {
@@ -21946,6 +22554,34 @@
       "related": [
         "saas-landing-page",
         "a1-gallery"
+      ]
+    },
+    {
+      "slug": "zephyr3d",
+      "path": "sites/zephyr3d.md",
+      "title": "Zephyr3D",
+      "description": "MIT TypeScript 3D engine and visual editor targeting WebGL2 and WebGPU, with node-graph materials.",
+      "url": "https://github.com/gavinyork/zephyr3d",
+      "type": "js-library",
+      "formats": "3D engine · visual editor · node-graph materials · WebGL2 and WebGPU",
+      "topics": [
+        "3d-and-shaders",
+        "motion",
+        "components"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated in the repository at review (143 stars).",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "threejs",
+        "babylonjs",
+        "spline"
       ]
     },
     {

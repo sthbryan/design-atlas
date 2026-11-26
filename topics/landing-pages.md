@@ -40,6 +40,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Backgrounds Supply](../sites/backgrounds-supply.md) — Paid lifetime library of gradient, AI and animated hero backgrounds, plus a free Gradient Lab shader tool.
 - [BaseFrame](../sites/baseframe-design.md) — A product designer's portfolio with detailed operational-software case studies, useful for studying dense workflows across desktop and mobile.
 - [Baymard Ecommerce Design Examples](../sites/baymard-ecommerce-design-examples.md) — Ecommerce page gallery with desktop, mobile and app captures annotated with research-based UX findings.
+- [Beamline UI](../sites/beamline-ui.md) — 240+ polished React components and 340+ complete product screens with real motion, sold once, wired for MCP.
 - [BentoGrids](../sites/bentogrids.md) — A visual catalogue of tile based layouts with category and theme filters and links to the live sites behind each example.
 - [Best SaaS Web Designs](../sites/best-saas-web-designs.md) — Free, no-login catalogue of about 390 SaaS sites, each with desktop, mobile and OG captures, per-section crops, detected stack and a colour palette.
 - [Best Website Gallery](../sites/best-website-gallery.md) — One curator's 2,640 noteworthy sites since 2008, tagged by colour, features and shipped libraries; updated irregularly.
