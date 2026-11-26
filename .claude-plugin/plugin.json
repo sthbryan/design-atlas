@@ -1,6 +1,6 @@
 {
   "name": "design-atlas",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Two skills for coding agents: design-atlas studies real designs and exported style files and turns three to five of them into one direction; design-atlas-ui builds and reviews UI from that direction and a DESIGN.md.",
   "author": { "name": "Bryan Villafuerte" },
   "homepage": "https://github.com/sthbryan/design-atlas",
