@@ -6,11 +6,11 @@ type: design-workspace
 formats: shader and motion editor · interactive scenes · inspiration gallery · embed
 topics: [3d-and-shaders, motion, inspiration]
 verdict: useful
-agent: []
+agent: [mcp, llms-txt]
 pricing: freemium
 licence: Free is $0 and limited to personal, non-commercial use with a watermark. Legend is $14/month billed yearly or $20 month-to-month and grants commercial use; do not redistribute the editor or its assets.
 licence_class: proprietary-paid
-reviewed: 2026-09-26
+reviewed: 2026-11-26
 status: active
 related: [paper-shaders, spline, theatrejs, threejs]
 ---
@@ -36,7 +36,7 @@ Unicorn Studio is a visual canvas for building shader effects, 3D scenes and int
 
 ## Using it with agents
 
-No agent-readable documentation or MCP was listed at review time. The editor is interactive and cloud-saved; the docs cover embedding and the JavaScript SDK.
+Since the last review the site added an MCP server and an `llms.txt`, so an agent can compose on the canvas alongside a human. The editor is interactive and cloud-saved; the docs cover embedding and the JavaScript SDK.
 
 ## Watch out for
 

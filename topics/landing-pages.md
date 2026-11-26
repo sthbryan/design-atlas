@@ -50,6 +50,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Bricks](../sites/bricks.md) — WordPress visual builder whose pitch is the design system underneath the canvas — classes, variables, palettes and theme styles, with breakpoints on the canvas.
 - [Cardinal](../sites/cardinal.md) — Revenue-AI landing page with a warm graph-paper grid, hand-drawn annotations and small illustrated metric cards.
 - [Charm](../sites/charm.md) — Purple, playful developer-tools homepage that turns a family of terminal UI libraries into a cohesive visual brand.
+- [Code and Chill](../sites/code-and-chill.md) — Animated UI components and website templates in plain HTML, CSS and JS, with a licence for client work.
 - [Compresto](../sites/compresto.md) — A media-compression product page with clear before-and-after demos and measured output changes for each format.
 - [Conduit](../sites/conduit.md) — Hospitality AI site that pairs a restrained serif hero with a live-looking omnichannel inbox and an escalation workflow.
 - [Cotool](../sites/cotool.md) — Security AI landing page with a saturated blue field, dotted terrain artwork and a highlighted phrase inside its hero headline.
@@ -70,6 +71,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Eldora UI](../sites/eldora-ui.md) — MIT animated landing-page components, text effects, device mockups and blocks, installed via the @eldoraui shadcn namespace, with llms.txt.
 - [Fantastical](../sites/fantastical.md) — Calendar app whose page stacks natural-language input, calendar sets and platform bands under press quotes from named reviewers.
 - [Fillout](../sites/fillout.md) — Form builder with unlimited forms and seats on every plan, 50+ field types, and AI or drag-and-drop authoring; now presented as "by Zite".
+- [Filmagic](../sites/filmagic.md) — Paste a product URL and get a launch video, with free media tools for compressing, converting and resizing.
 - [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
 - [Flit](../sites/flit.md) — A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.
 - [Float UI](../sites/float-ui.md) — About 200 free Tailwind sections in HTML, React, Vue and Svelte; custom no-redistribution licence despite the open-source label.
@@ -86,6 +88,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Godly](../sites/godly.md) — A dark, masonry-style gallery for websites, app screens, logos and UI details, with focused routes for page sections and visual assets.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
 - [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
+- [Goodest](../sites/goodest.md) — Curated design inspiration gallery with 1,097 items across apps, websites, motion, 3D, logos and more.
 - [Google Pixel design story](../sites/google-pixel-design-story.md) — A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 11 range.
 - [Hallmark](../sites/hallmark.md) — MIT anti-slop skill from Together AI: picks the page structure first, then runs 57 slop-test gates.
 - [Handy](../sites/handy.md) — Open-source speech-to-text app that pastes what you say into the focused field, sold on privacy and a single push-to-talk shortcut.
@@ -94,6 +97,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Heydays](../sites/heydays.md) — Historical Oslo studio portfolio with a warm editorial home page and archived branding cases.
 - [Hidden Bar](../sites/hiddenbar.md) — Free MIT-licensed Mac app that hides menu bar icons behind an arrow, with ⌘-drag sorting and a second always-hidden zone.
 - [Higgsfield](../sites/higgsfield.md) — A dark, media-led creative-suite landing page with chartreuse controls, cinematic previews and a compact product navigation.
+- [HorizonX](../sites/horizonx.md) — Premium UI kits, textures, shaders and mockups for vibe coders, with React and Tailwind code, Figma and MCP.
 - [HyperUI](../sites/hyperui.md) — Free MIT copy-paste Tailwind v4 snippets (about 540 with dark variants) for apps, marketing and a neobrutalism set, plus small tools.
 - [Ichiban Motorcycle](../sites/ichiban-bike.md) — A single-site visual reference for restrained product storytelling with oversized color, a centered object and tightly ordered labels.
 - [iPhone](../sites/iphone.md) — Apple’s current iPhone lineup page shows product storytelling through large photography, spacious type, horizontal navigation and feature cards.
@@ -131,6 +135,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [Ninna UI](../sites/ninna-ui.md) — MIT React library on npm with CSS-only oklch theme presets, Radix internals, 92 free blocks and a strong llms.txt import map.
 - [Notesnook](../sites/notesnook.md) — Note app page that argues privacy by building fake note cards, a publish dialog and a clipper, each labelled with its encrypted state.
+- [on.design](../sites/on-design.md) — Design community gallery and feed with debuts, collections, jobs and a hire page for designers.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
 - [One Switch](../sites/oneswitch.md) — Mac utility that puts hide-desktop, dark mode, keep-awake, screen saver and AirPods toggles on one panel, sold with a lifetime licence.
 - [OpnForm](../sites/opnform.md) — Open-source form builder with conversational and classic layouts, unlimited responses on the free plan, and a Docker route to self-hosting.
@@ -188,6 +193,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Toukana Interactive](../sites/toukana-interactive.md) — Indie studio site with a split game carousel, numbered project stories and colorful game art framing clear platform links.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
 - [Typeform](../sites/typeform.md) — Form platform whose site leads with an MCP banner and a one-question-at-a-time form, plus AI products for research and growth.
+- [uberdesigner](../sites/uberdesigner.md) — 200+ AI website templates and UI components, each a prompt for Claude, Codex or Cursor plus a Vite and React project.
 - [UI Coach (broken)](../sites/ui-coach.md) — Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.
 - [UI Layouts](../sites/ui-layouts.md) — 300+ MIT animated React components and sections with a shadcn registry, an MCP server and a paid Pro block site.
 - [Unsection](../sites/unsection.md) — A searchable gallery of real website sections, filterable by block type, visual style and industry.

@@ -27,8 +27,10 @@ Chart components, dashboard building blocks and small data displays (spark chart
 - [Data Viz Project](../sites/dataviz-project.md) — A visual index of chart forms with small examples and filters for comparing shape, purpose and input before choosing a display.
 - [Detail](../sites/detail.md) — A software-quality landing page built around a stark diagonal chart graphic and short product evidence.
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
+- [ExpoKit](../sites/expokit.md) — Copy-paste UI components, blocks, app templates and charts for Expo and React Native, added with a CLI.
 - [Flourish](../sites/flourish.md) — An interactive data storytelling editor and gallery of working charts, maps and stories to study or adapt.
 - [Gauge UI](../sites/gauge-ui.md) — Composable SVG gauge primitives for React, where arcs, zones, ticks and needles assemble from one shared context.
+- [Ingot UI](../sites/ingotui.md) — 2,724 dashboard components across nine design systems for React, Figma and AI agents, with MCP and CLI access.
 - [Internet Artifacts](../sites/internet-artifacts-neal-fun.md) — Neal.fun's interactive timeline of early internet objects, built as a playful illustrated archive.
 - [Keel Workspace](../sites/keel-workspace.md) — A polished CRM workspace demo with dense pipeline metrics, source-backed agent decisions and keyboard-first review controls.
 - [microcharts](../sites/microcharts.md) — MIT React charts sized for sentences, tables and KPI cards, with a catalog and seven live example apps.

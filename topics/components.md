@@ -29,6 +29,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Adobe Spectrum](../sites/adobe-spectrum.md) — Adobe's Spectrum design system pairs visual foundations, components and patterns with separate open-source implementations.
 - [Agents Kit](../sites/agents-kit.md) — 224 registry entries of React components for chat, voice agents, tool approvals and generative UI, copied into your app.
 - [Ahmad Shadeed](../sites/ishadeed.md) — Hands-on CSS layout articles and an interactive lab for inspecting modern selectors, grids and container queries.
+- [AI Canvas](../sites/aicanvas.md) — Complete React design systems and 98 standalone components for AI coding agents, installed with one command.
 - [Amacro](../sites/amacro.md) — 86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.
 - [Amicro](../sites/amicro.md) — Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.
 - [Angular Native](../sites/angular-native.md) — Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.
@@ -57,6 +58,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [BentoGrids](../sites/bentogrids.md) — A visual catalogue of tile based layouts with category and theme filters and links to the live sites behind each example.
 - [beUI](../sites/beui.md) — MIT motion components, agent UI and charts with llms.txt, JSON API, agent skill and hosted MCP; paid Pro adds blocks and templates.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
+- [Bluma](../sites/bluma.md) — Describe a component and Bluma writes it, builds it in a real browser and tests it, in React or SwiftUI.
 - [BoardUI](../sites/boardui.md) — React and Tailwind design system for dashboards and agentic interfaces, with 103 components, 19 charts and an MCP server that installs source.
 - [Bricks](../sites/bricks.md) — WordPress visual builder whose pitch is the design system underneath the canvas — classes, variables, palettes and theme styles, with breakpoints on the canvas.
 - [Brilliant](../sites/brilliant.md) — Figma-class vector canvas where agents edit the same file, with a free MCP server and a $0 plan.
@@ -67,6 +69,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Charm](../sites/charm.md) — Purple, playful developer-tools homepage that turns a family of terminal UI libraries into a cohesive visual brand.
 - [Chloé Maillot](../sites/chloe-maillot.md) — A quiet design-engineer portfolio combining short editorial notes, a small component catalogue and a handmade image grid.
 - [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
+- [Code and Chill](../sites/code-and-chill.md) — Animated UI components and website templates in plain HTML, CSS and JS, with a licence for client work.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
 - [Componentry](../sites/componentry.md) — 53 animated React effects, from text and WebGL hero backgrounds to image effects, installed through the shadcn CLI.
 - [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with composed particles and agent skills; mixed MIT/AGPL repo.
@@ -83,6 +86,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Designeer](../sites/designeer.md) — Curated directory of tools, components, galleries and assets for design engineers; a directory of directories.
 - [DesignEng](../sites/designeng-tools.md) — About 200 design-engineering links by category (component kits, icons, tools, agent skills, inspiration, people) with pricing filters and saves.
 - [devl](../sites/devl.md) — Sean Brydon's 158 SaaS screens and blocks built on coss-ui, each installable from a shadcn registry.
+- [dissolve](../sites/dissolve.md) — Open-source animated UI components for React Native and React, copied into your app with an agent prompt and CLI.
 - [Dither Kit](../sites/dither-kit.md) — Dithered canvas charts (area, bar, pie, radar) with a Recharts-style API and a single Markdown docs file.
 - [Dot Matrix](../sites/dot-matrix.md) — 90 dot-grid loading animations as a shadcn registry, with a props playground; licence is restrictive.
 - [Drawably](../sites/drawably.md) — MIT hand-drawn UI controls that sketch fresh on each mount, keep native inputs and ship an agent.md.
@@ -94,6 +98,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Every Layout](../sites/every-layout.md) — Intrinsic CSS layout primitives with free visual examples, interactive demos and configurable generators.
 - [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
+- [ExpoKit](../sites/expokit.md) — Copy-paste UI components, blocks, app templates and charts for Expo and React Native, added with a CLI.
 - [Fancy Components](../sites/fancy-components.md) — Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.
 - [Figma](../sites/figma.md) — The default design canvas, with Dev Mode, Code Connect and a remote MCP server that reads designs and writes back to the canvas.
 - [Float UI](../sites/float-ui.md) — About 200 free Tailwind sections in HTML, React, Vue and Svelte; custom no-redistribution licence despite the open-source label.
@@ -121,9 +126,11 @@ Component libraries, registries and design systems for building UI — from sing
 - [Heroicons Animated](../sites/heroicons-animated.md) — 316 Heroicons outline icons with hover animations built on Motion, via shadcn registry, npm and llms.txt.
 - [HeroUI](../sites/heroui.md) — Apache 2.0 React and React Native library (formerly NextUI) on React Aria and Tailwind v4, with free MCP, skills and llms.txt.
 - [HextaUI](../sites/hexta-ui.md) — shadcn/ui blocks for AI chat interfaces, covering streaming, tool calls, voice and agent states, with an MCP server and Markdown docs.
+- [HorizonX](../sites/horizonx.md) — Premium UI kits, textures, shaders and mockups for vibe coders, with React and Tailwind code, Figma and MCP.
 - [HyperUI](../sites/hyperui.md) — Free MIT copy-paste Tailwind v4 snippets (about 540 with dark variants) for apps, marketing and a neobrutalism set, plus small tools.
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
 - [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
+- [Ingot UI](../sites/ingotui.md) — 2,724 dashboard components across nine design systems for React, Figma and AI agents, with MCP and CLI access.
 - [Interface Design (broken)](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
 - [interior.dev](../sites/interior-dev.md) — 54 carefully finished React micro-interactions with headless hooks, shadcn registry and llms-full.txt.
 - [Ionicons](../sites/ionicons.md) — Ionic's MIT icon set: about 1,357 SVGs in filled, outline and sharp variants, served by a lazy-loading ion-icon web component.
@@ -173,6 +180,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [ObsidianUI](../sites/obsidianui.md) — A free React component library whose live previews pair restrained documentation layouts with expressive hover and motion effects.
 - [Odyssey UI](../sites/odyssey-ui.md) — Animated primitives, AI chat parts and pricing blocks built on Animate UI, via the @odysseyui namespace; no licence file in the repo.
 - [ogimagecn](../sites/ogimagecn.md) — 22 Satori Open Graph card templates plus a free checker previewing links on seven platforms.
+- [Oil UI](../sites/oiloil.md) — Open-source UI design skill for Claude Code and Codex that teaches agents to produce designed interfaces.
 - [Oneko](../sites/oneko.md) — Cursor-chasing pixel cat for React via shadcn, with llms.txt and an agent prompt; sprite art not relicensed.
 - [Open UI](../sites/open-ui.md) — Cross-system component research that maps names, visual states and behavior differences for common web controls.
 - [Opensource UI](../sites/opensource-ui.md) — MIT React and Tailwind catalogue of about 190 copy-paste pieces, including device mockups and widgets, with llms.txt and an agent skill.
@@ -186,8 +194,10 @@ Component libraries, registries and design systems for building UI — from sing
 - [pdfcn](../sites/pdfcn.md) — React PDF primitives and 20 invoice/report/label templates for Takumi or Forme, installed via shadcn CLI.
 - [Penpot](../sites/penpot.md) — MPL-2.0, self-hostable Figma alternative with CSS Flex/Grid layout, W3C-format design tokens and an official MCP server.
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.
+- [Piixpal](../sites/piixpal.md) — 300+ free MIT animated UI components and templates, from pixel characters that live on the page to WebGL hero sections.
 - [Pin UI](../sites/pin-ui.md) — Six playful React components rebuilt from Pinterest interface shots, installed by shadcn URL; MIT per the site terms, brand new.
 - [Pixel Perfect UI](../sites/pixel-perfect.md) — A free React component gallery with live previews, visual controls, source code and shadcn-compatible install commands.
+- [Planes](../sites/useplanes.md) — 230+ animated React components for shadcn/ui and Next.js, shipped as React, Tailwind and Motion source.
 - [Plasma UI](../sites/plasma-ui.md) — React surfaces with WebGL refraction, liquid joins and grid snapping, demonstrated through a material playground and a small workspace.
 - [Preline UI](../sites/preline.md) — Tailwind components with headless JS plugins under MIT plus Fair Use terms; agent skills, block prompts, paid hosted MCP.
 - [Primer](../sites/primer.md) — GitHub's design system, with tokens, primitives, component docs, UI patterns and an MCP server for agents.
@@ -199,12 +209,14 @@ Component libraries, registries and design systems for building UI — from sing
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
 - [React Bits Pro](../sites/reactbits-pro.md) — Paid library of animated React work — 230 components, 300 page blocks and 300 app-UI blocks — with a counted, category-by-category inventory.
 - [React Three Fiber](../sites/react-three-fiber.md) — MIT React renderer that writes three.js scenes as JSX, with performance guides, llms-full.txt and a docs MCP.
+- [ReactDrops](../sites/reactdrops.md) — React components, animations and effects to preview live and bring into your next project.
 - [Remix Icon](../sites/remix-icon.md) — About 3,230 line-and-fill system icons with an official MCP server, under a custom free licence since January 2026.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
 - [Reverse UI](../sites/reverse-ui.md) — 68 animated React feature illustrations and shader effects for SaaS pages; 19 free, the rest a one-time paid licence. MUI and Emotion.
 - [RewampUI](../sites/rewampui.md) — About 75 animated React navbars, backgrounds, toggles and cursors with a copy CLI and per-component prompts; designs are admitted remixes.
 - [Rolling Number](../sites/rolling-number.md) — Interruptible rolling digits and split-flap text for DOM, React and Solid, with llms.txt and Markdown docs.
 - [Ruru UI (stale)](../sites/ruru-ui.md) — Small Radix and Tailwind v3 library with its own CLI; its author says it is no longer maintained.
+- [SakaniUI](../sites/sakaniui.md) — Token-driven React design system with a Liquid Glass surface layer, 130+ components, 42 blocks and Figma parity.
 - [Saurabh Sharma](../sites/srbh-site.md) — A compact developer portfolio that turns contribution history, pull requests, components and a dated learning log into browsable sections.
 - [Screenshot to Code](../sites/screenshot-to-code.md) — MIT tool turning screenshots, recordings or text into HTML/Tailwind/React/Vue code; hosted or self-hosted.
 - [sensory-ui](../sites/sensory-ui.md) — Sound-enabled versions of 24 shadcn components with 17 semantic roles and nine synthesised packs.
@@ -231,6 +243,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [squig](../sites/squig.md) — A wireframing canvas where real UI components render as hand-drawn sketches, with an agent bridge into the open tab.
 - [SRCL](../sites/srcl.md) — Terminal-aesthetic React kit plus matching CLI framework, with llms.txt, AGENTS.md catalogue and porting skills.
 - [startercn](../sites/startercn.md) — MIT Next.js template for publishing your own shadcn registry, with Fumadocs docs, llms.txt and skill discovery.
+- [Stick It Up](../sites/stick-it-up.md) — Free UI sticker component library for React and Next.js with 65+ interactive vinyl-style stickers.
 - [Subframe Motion](../sites/subframe-motion.md) — 309 MIT React and WebGL motion examples you can copy out, exposed to agents through a Motion MCP server.
 - [Swift Pieces](../sites/swift-pieces.md) — Animated SwiftUI components for iOS with live interaction previews, single-file source and agent installation paths.
 - [Syntax UI (stale)](../sites/syntax-ui.md) — MIT copy-paste Tailwind and Framer Motion buttons, loaders, blocks and effects; mostly dormant, with some docs pages erroring at review.
@@ -241,11 +254,14 @@ Component libraries, registries and design systems for building UI — from sing
 - [termcn](../sites/termcn.md) — Ink and OpenTUI terminal components via shadcn CLI, including agent chat, tool-approval and diff-review widgets.
 - [The Component Gallery](../sites/component-gallery.md) — Reference that compares how 95 design systems name, structure and document the same 60 components.
 - [Thinking Orbs](../sites/thinking-orbs.md) — Animated React and JavaScript status indicators for AI interfaces, with a live gallery of states, shapes and rendering styles.
+- [Toolcraft](../sites/toolcraft.md) — Open-source MIT starter kit and UI library for building your own design apps with AI.
 - [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.
 - [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
+- [Trazo](../sites/trazo.md) — Hand-drawn wax-crayon sticker SVGs for React and the web, recolourable live and installable from npm.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
 - [Twentyfirst UI](../sites/twentyfirst-ui.md) — Two MIT-licensed React UI kits, Halo and Pro, sharing one component API so a product can swap its look without changing code.
 - [U.S. Web Design System](../sites/uswds.md) — Federal design system with live component previews, configurable tokens and restrained, accessible page patterns.
+- [uberdesigner](../sites/uberdesigner.md) — 200+ AI website templates and UI components, each a prompt for Claude, Codex or Cursor plus a Vite and React project.
 - [UI Labs](../sites/uilabs.md) — Mariana Castilho's dozen live Framer Motion experiments with morphing toolbars, popovers and widgets; demo-only.
 - [UI Layouts](../sites/ui-layouts.md) — 300+ MIT animated React components and sections with a shadcn registry, an MCP server and a paid Pro block site.
 - [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.

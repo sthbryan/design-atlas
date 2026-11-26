@@ -957,6 +957,35 @@
       ]
     },
     {
+      "slug": "aicanvas",
+      "path": "sites/aicanvas.md",
+      "title": "AI Canvas",
+      "description": "Complete React design systems and 98 standalone components for AI coding agents, installed with one command.",
+      "url": "https://aicanvas.me",
+      "type": "component-library",
+      "formats": "design systems · React components and blocks · CLI install",
+      "topics": [
+        "components",
+        "ai-interfaces",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free tier installs every open component with one command; Premium (including the Andromeda Pro system) is paid. No reuse licence for the premium systems was stated on the pricing page.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "magicpath",
+        "bluma"
+      ]
+    },
+    {
       "slug": "aku",
       "path": "sites/aku.md",
       "title": "AKU",
@@ -2952,6 +2981,35 @@
       ]
     },
     {
+      "slug": "bluma",
+      "path": "sites/bluma.md",
+      "title": "Bluma",
+      "description": "Describe a component and Bluma writes it, builds it in a real browser and tests it, in React or SwiftUI.",
+      "url": "https://bluma.design",
+      "type": "ai-builder",
+      "formats": "AI component builder · React and SwiftUI output · MCP",
+      "topics": [
+        "components",
+        "ai-interfaces",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "Free to start with credit-based use; each message spends credits depending on the work. No reuse licence for generated components is stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "magicpath",
+        "penpot",
+        "aicanvas"
+      ]
+    },
+    {
       "slug": "boardui",
       "path": "sites/boardui.md",
       "title": "BoardUI",
@@ -3806,6 +3864,32 @@
         "the-brand-identity",
         "brrranding",
         "vucko"
+      ]
+    },
+    {
+      "slug": "code-and-chill",
+      "path": "sites/code-and-chill.md",
+      "title": "Code and Chill",
+      "description": "Animated UI components and website templates in plain HTML, CSS and JS, with a licence for client work.",
+      "url": "https://codeandchill.store",
+      "type": "component-library",
+      "formats": "component library · website templates · HTML CSS JS source",
+      "topics": [
+        "components",
+        "motion",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Paid bundles with a permanent, worldwide licence to use the source in your own and client work; the licence page lists the few things it does not allow. No open-source licence is stated.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "magic-ui",
+        "shadcn-ui",
+        "uberdesigner"
       ]
     },
     {
@@ -5977,6 +6061,36 @@
       ]
     },
     {
+      "slug": "dissolve",
+      "path": "sites/dissolve.md",
+      "title": "dissolve",
+      "description": "Open-source animated UI components for React Native and React, copied into your app with an agent prompt and CLI.",
+      "url": "https://dissolve.rselmi.com",
+      "type": "component-library",
+      "formats": "component library · React Native and React · CLI · agent prompt",
+      "topics": [
+        "components",
+        "motion",
+        "documentation"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt",
+        "cli",
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "Open source and MIT per its `llms.txt` (npm package `dissolve-ui`); a Pro tier exists for extra components at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "motion-dev",
+        "shadcn-ui",
+        "useplanes"
+      ]
+    },
+    {
       "slug": "dither-garden",
       "path": "sites/dither-garden.md",
       "title": "Dither Garden",
@@ -6755,6 +6869,34 @@
       ]
     },
     {
+      "slug": "expokit",
+      "path": "sites/expokit.md",
+      "title": "ExpoKit",
+      "description": "Copy-paste UI components, blocks, app templates and charts for Expo and React Native, added with a CLI.",
+      "url": "https://expokit.in",
+      "type": "component-library",
+      "formats": "React Native UI kit · CLI install · charts and blocks",
+      "topics": [
+        "components",
+        "data-viz"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "cli"
+      ],
+      "pricing": "freemium",
+      "licence": "Most of ExpoKit is free and always will be; Pro (pay once, no subscription) adds the signature motion components and complete production-ready screens. The free core and Pro additions fall under different terms.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "dissolve",
+        "tremor"
+      ]
+    },
+    {
       "slug": "extract-design-system",
       "path": "sites/extract-design-system.md",
       "title": "extract-design-system",
@@ -6980,6 +7122,34 @@
         "tally",
         "typeform",
         "opnform"
+      ]
+    },
+    {
+      "slug": "filmagic",
+      "path": "sites/filmagic.md",
+      "title": "Filmagic",
+      "description": "Paste a product URL and get a launch video, with free media tools for compressing, converting and resizing.",
+      "url": "https://filmagic.app",
+      "type": "tool",
+      "formats": "launch video maker · media tools · Markdown docs",
+      "topics": [
+        "landing-pages",
+        "motion",
+        "assets"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free tier plus Starter at $12, Pro at $29 and Studio at $79 at review. No reuse licence for generated videos was stated on the pricing page.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "framegui",
+        "theladybug",
+        "launchvideos-gallery"
       ]
     },
     {
@@ -7484,6 +7654,33 @@
         "motion-primitives",
         "magic-ui",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "framegui",
+      "path": "sites/framegui.md",
+      "title": "Frame",
+      "description": "Free open-source native media workspace that converts video, audio and images with FFmpeg, processed locally.",
+      "url": "https://framegui.app",
+      "type": "tool",
+      "formats": "native desktop app · media converter · FFmpeg",
+      "topics": [
+        "assets",
+        "documentation"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free and open source per its `llms.txt`; no named licence was found on the pages checked at review, so treat reuse as not stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "filmagic",
+        "theladybug",
+        "pacdora"
       ]
     },
     {
@@ -8167,6 +8364,32 @@
         "good-ui",
         "mobbin",
         "a1-gallery"
+      ]
+    },
+    {
+      "slug": "goodest",
+      "path": "sites/goodest.md",
+      "title": "Goodest",
+      "description": "Curated design inspiration gallery with 1,097 items across apps, websites, motion, 3D, logos and more.",
+      "url": "https://goodest.design",
+      "type": "gallery",
+      "formats": "inspiration gallery · curated collections",
+      "topics": [
+        "inspiration",
+        "landing-pages",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; the terms describe a curated library of inspiration. The shown work belongs to its creators, so treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "awwwards",
+        "land-book",
+        "spotted-in-prod"
       ]
     },
     {
@@ -9005,6 +9228,35 @@
       ]
     },
     {
+      "slug": "horizonx",
+      "path": "sites/horizonx.md",
+      "title": "HorizonX",
+      "description": "Premium UI kits, textures, shaders and mockups for vibe coders, with React and Tailwind code, Figma and MCP.",
+      "url": "https://horizonx.so",
+      "type": "template-library",
+      "formats": "UI kits · Figma source · React code · MCP",
+      "topics": [
+        "components",
+        "assets",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "paid",
+      "licence": "Premium subscription library for the vibecoding era; no reuse licence was stated on the pricing page checked at review.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "uberdesigner",
+        "code-and-chill",
+        "magic-ui"
+      ]
+    },
+    {
       "slug": "hover-states",
       "path": "sites/hover-states.md",
       "title": "Hover States",
@@ -9482,6 +9734,33 @@
       ]
     },
     {
+      "slug": "iconmcp",
+      "path": "sites/iconmcp.md",
+      "title": "IconMCP",
+      "description": "6,248 original outline icons with an MCP server your coding agent can search by meaning, MIT licensed.",
+      "url": "https://iconmcp.com",
+      "type": "icon-library",
+      "formats": "icon library · MCP server · outline icons",
+      "topics": [
+        "icons",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "Free for anything under the MIT licence, stated on the site at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "lucide",
+        "iconify",
+        "tabler-icons"
+      ]
+    },
+    {
       "slug": "iconmind",
       "path": "sites/iconmind.md",
       "title": "IconMind",
@@ -9729,6 +10008,35 @@
       ]
     },
     {
+      "slug": "illos",
+      "path": "sites/illos.md",
+      "title": "Illos",
+      "description": "Animated SVG illustrations that stay on-style, generated through skills for Claude Code, Cursor and Codex.",
+      "url": "https://illos.dev",
+      "type": "asset-library",
+      "formats": "animated illustration library · agent skills",
+      "topics": [
+        "assets",
+        "ai-interfaces",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "skill",
+        "llms-txt"
+      ],
+      "pricing": "not-stated",
+      "licence": "Not stated at review; the site publishes an `llms.txt` and agent skills but no pricing or reuse licence was found on the pages checked.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "lottiefiles",
+        "rive",
+        "iconmcp"
+      ]
+    },
+    {
       "slug": "imageory",
       "path": "sites/imageory.md",
       "title": "Imageory",
@@ -9812,6 +10120,36 @@
         "component-gallery",
         "design-system-checklist",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "ingotui",
+      "path": "sites/ingotui.md",
+      "title": "Ingot UI",
+      "description": "2,724 dashboard components across nine design systems for React, Figma and AI agents, with MCP and CLI access.",
+      "url": "https://ingotui.com",
+      "type": "component-library",
+      "formats": "component library · Figma systems · MCP server · CLI",
+      "topics": [
+        "components",
+        "data-viz",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "cli",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free tier for personal, learning and non-commercial projects, with 30 components in code, 15 templates and a 50-call-a-day MCP server. Pro is $39 a year for one person; Lifetime was $49 in its launch deal against a $99 list price at review. The licence page governs commercial use.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "tremor",
+        "aicanvas"
       ]
     },
     {
@@ -12239,6 +12577,34 @@
       ]
     },
     {
+      "slug": "marked",
+      "path": "sites/marked.md",
+      "title": "marked.dev",
+      "description": "Save interfaces, interactions and motion from the web into collections your coding agent can read over MCP.",
+      "url": "https://marked.dev",
+      "type": "gallery",
+      "formats": "reference library · collections · MCP server",
+      "topics": [
+        "agents-and-prompts",
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Free to join; the terms govern use of the service and the saved references belong to their original sites. No reuse licence for the references is stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "thinkui",
+        "uizze",
+        "mobbin"
+      ]
+    },
+    {
       "slug": "mascofast",
       "path": "sites/mascofast.md",
       "title": "Mascofast",
@@ -14167,6 +14533,34 @@
       ]
     },
     {
+      "slug": "oiloil",
+      "path": "sites/oiloil.md",
+      "title": "Oil UI",
+      "description": "Open-source UI design skill for Claude Code and Codex that teaches agents to produce designed interfaces.",
+      "url": "https://ui.oiloil.org/en/",
+      "type": "agent-skill",
+      "formats": "agent skill · Claude Code and Codex plugin",
+      "topics": [
+        "agent-skills",
+        "components",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "skill"
+      ],
+      "pricing": "freemium",
+      "licence": "Open source; the GitHub repository (oil-oil/oil-ui) carries an MIT licence at review (3,996 stars). A Pro tier exists alongside the open core.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "vercel-web-design-guidelines",
+        "emil-kowalski-skills",
+        "no-ai-slop"
+      ]
+    },
+    {
       "slug": "oklch",
       "path": "sites/oklch.md",
       "title": "OKLCH",
@@ -14240,6 +14634,31 @@
         "unscii",
         "v-fonts",
         "best-free-fonts"
+      ]
+    },
+    {
+      "slug": "on-design",
+      "path": "sites/on-design.md",
+      "title": "on.design",
+      "description": "Design community gallery and feed with debuts, collections, jobs and a hire page for designers.",
+      "url": "https://on.design",
+      "type": "gallery",
+      "formats": "design community · gallery feed · designer profiles",
+      "topics": [
+        "inspiration",
+        "landing-pages"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to browse; Pro for individual designers is $8 a month at review. The shown work belongs to its designers, so treat it as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "goodest",
+        "bestdesignsonx",
+        "awwwards"
       ]
     },
     {
@@ -14796,6 +15215,33 @@
       ]
     },
     {
+      "slug": "pacdora",
+      "path": "sites/pacdora.md",
+      "title": "Pacdora",
+      "description": "Packaging mockup and dieline template platform with AI packaging design, from boxes and bottles to pouches and cans.",
+      "url": "https://www.pacdora.com/",
+      "type": "asset-library",
+      "formats": "packaging mockups · dieline templates · AI packaging tool",
+      "topics": [
+        "assets",
+        "documentation"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free mockups plus paid plans at review. No reuse licence for the mockup assets was stated on the pricing page checked.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "framegui",
+        "filmagic",
+        "uwarp"
+      ]
+    },
+    {
       "slug": "paceui",
       "path": "sites/paceui.md",
       "title": "PaceUI",
@@ -15201,6 +15647,35 @@
         "iconoir",
         "remix-icon",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "piixpal",
+      "path": "sites/piixpal.md",
+      "title": "Piixpal",
+      "description": "300+ free MIT animated UI components and templates, from pixel characters that live on the page to WebGL hero sections.",
+      "url": "https://piixpal.dvkk.dev",
+      "type": "component-library",
+      "formats": "animated component library · hero templates · pixel art · skill",
+      "topics": [
+        "components",
+        "motion",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "skill",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free and open source; the `llms.txt` states MIT for the 300+ components and templates at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "magic-ui",
+        "reactbits",
+        "stick-it-up"
       ]
     },
     {
@@ -16148,6 +16623,31 @@
       ]
     },
     {
+      "slug": "reactdrops",
+      "path": "sites/reactdrops.md",
+      "title": "ReactDrops",
+      "description": "React components, animations and effects to preview live and bring into your next project.",
+      "url": "https://reactdrops.dev",
+      "type": "component-library",
+      "formats": "React component library · animations and effects",
+      "topics": [
+        "components",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse and use; no reuse licence was stated on the terms page checked at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "magic-ui",
+        "reactbits",
+        "useplanes"
+      ]
+    },
+    {
       "slug": "realtime-colors",
       "path": "sites/realtime-colors.md",
       "title": "Realtime Colors",
@@ -16845,6 +17345,37 @@
         "chloe-maillot",
         "component-gallery",
         "samwrks"
+      ]
+    },
+    {
+      "slug": "sakaniui",
+      "path": "sites/sakaniui.md",
+      "title": "SakaniUI",
+      "description": "Token-driven React design system with a Liquid Glass surface layer, 130+ components, 42 blocks and Figma parity.",
+      "url": "https://www.sakaniui.com/",
+      "type": "component-library",
+      "formats": "React design system · CSS variable tokens · MCP server · agent skill",
+      "topics": [
+        "components",
+        "documentation",
+        "agents-and-prompts",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "skill",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Open-source React design system; the GitHub repository (samzydd/Sakaniui) carries an MIT licence at review. No paid tier is published.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "magic-ui",
+        "reactbits"
       ]
     },
     {
@@ -18302,6 +18833,31 @@
       ]
     },
     {
+      "slug": "slop-manifesto",
+      "path": "sites/slop-manifesto.md",
+      "title": "No AI Slop Manifesto",
+      "description": "The No AI Slop manifesto from the AIE Code Summit, a short set of principles for shipping designed interfaces.",
+      "url": "https://www.slopmanifesto.com/",
+      "type": "guidelines",
+      "formats": "manifesto · design principles",
+      "topics": [
+        "agents-and-prompts",
+        "documentation"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to read; no reuse licence for the manifesto text was stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "no-ai-slop",
+        "stop-slop",
+        "vercel-web-design-guidelines"
+      ]
+    },
+    {
       "slug": "smooth-ui",
       "path": "sites/smooth-ui.md",
       "title": "Smooth UI",
@@ -18676,6 +19232,31 @@
       ]
     },
     {
+      "slug": "spotted-in-prod",
+      "path": "sites/spotted-in-prod.md",
+      "title": "Spotted in Prod",
+      "description": "Clips and stills of the best iOS app design in production, with leaderboards, staff picks and home setups.",
+      "url": "https://www.spottedinprod.com/",
+      "type": "gallery",
+      "formats": "iOS design gallery · video clips · leaderboards",
+      "topics": [
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to browse; the shown app design belongs to its makers, so treat the clips as look-only references.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "mobbin",
+        "appshot-gallery",
+        "goodest"
+      ]
+    },
+    {
       "slug": "squarespace",
       "path": "sites/squarespace.md",
       "title": "Squarespace",
@@ -18893,6 +19474,34 @@
         "shadcn-ui",
         "web-kits-audio",
         "shieldcn"
+      ]
+    },
+    {
+      "slug": "stick-it-up",
+      "path": "sites/stick-it-up.md",
+      "title": "Stick It Up",
+      "description": "Free UI sticker component library for React and Next.js with 65+ interactive vinyl-style stickers.",
+      "url": "https://stickitupx.com",
+      "type": "icon-library",
+      "formats": "sticker library · React and Next.js components · npm",
+      "topics": [
+        "icons",
+        "assets",
+        "components"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free and open source per its `llms.txt`; no named licence was found on the pages checked at review, so treat reuse as not stated.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "trazo",
+        "lucide",
+        "iconmcp"
       ]
     },
     {
@@ -19719,6 +20328,32 @@
       ]
     },
     {
+      "slug": "theladybug",
+      "path": "sites/theladybug.md",
+      "title": "Ladybug",
+      "description": "Make wild visual effects in the browser, from ASCII and dither to halftone, with no plugins and no AI.",
+      "url": "https://theladybug.app",
+      "type": "tool",
+      "formats": "browser effects studio · image and video effects",
+      "topics": [
+        "assets",
+        "motion",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Free to start with no watermark; a pricing page exists but no reuse licence for exported effects was stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadertoy",
+        "unicorn-studio",
+        "shaders"
+      ]
+    },
+    {
       "slug": "thesvg",
       "path": "sites/thesvg.md",
       "title": "theSVG",
@@ -19776,6 +20411,35 @@
       "related": [
         "orbkit",
         "agentation"
+      ]
+    },
+    {
+      "slug": "thinkui",
+      "path": "sites/thinkui.md",
+      "title": "ThinkUI",
+      "description": "Hosted MCP server giving coding agents screens, flows, components, animated icons and typefaces from shipped products.",
+      "url": "https://thinkui.xyz",
+      "type": "gallery",
+      "formats": "UI reference library · MCP server · components and icons",
+      "topics": [
+        "agents-and-prompts",
+        "ux-patterns",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free tier with 12 tool calls and no card, then Starter at $7.99 a month at review. References belong to the products shown; treat them as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "uizze",
+        "marked",
+        "mobbin"
       ]
     },
     {
@@ -19940,6 +20604,32 @@
       ]
     },
     {
+      "slug": "toolcraft",
+      "path": "sites/toolcraft.md",
+      "title": "Toolcraft",
+      "description": "Open-source MIT starter kit and UI library for building your own design apps with AI.",
+      "url": "https://toolcraft.sh",
+      "type": "component-library",
+      "formats": "starter kit · UI library · design-app scaffolding",
+      "topics": [
+        "components",
+        "ai-interfaces",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Open source; the GitHub repository (pixel-point/toolcraft) carries an MIT licence at review (1,200 stars).",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "magicpath",
+        "bluma"
+      ]
+    },
+    {
       "slug": "toools",
       "path": "sites/toools.md",
       "title": "TOOOLS.design",
@@ -20070,6 +20760,32 @@
         "dialkit",
         "motion-primitives",
         "microkit"
+      ]
+    },
+    {
+      "slug": "trazo",
+      "path": "sites/trazo.md",
+      "title": "Trazo",
+      "description": "Hand-drawn wax-crayon sticker SVGs for React and the web, recolourable live and installable from npm.",
+      "url": "https://trazo.akoder.xyz",
+      "type": "icon-library",
+      "formats": "SVG sticker library · React components · npm package",
+      "topics": [
+        "icons",
+        "assets",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to install. The GitHub repository (AdityaKodez/trazo) carries an MIT licence at review.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "lucide",
+        "iconify",
+        "stick-it-up"
       ]
     },
     {
@@ -20338,6 +21054,35 @@
         "designspiration",
         "logo-lounge",
         "the-brand-identity"
+      ]
+    },
+    {
+      "slug": "uberdesigner",
+      "path": "sites/uberdesigner.md",
+      "title": "uberdesigner",
+      "description": "200+ AI website templates and UI components, each a prompt for Claude, Codex or Cursor plus a Vite and React project.",
+      "url": "https://uberdesigner.ai",
+      "type": "template-library",
+      "formats": "website templates · UI components · copyable prompts · Figma files",
+      "topics": [
+        "landing-pages",
+        "components",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "prompts"
+      ],
+      "pricing": "freemium",
+      "licence": "Free tier plus paid plans (from $19 a month at review). No reuse licence for the templates and components was stated on the pages checked.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "code-and-chill",
+        "horizonx",
+        "magicpath"
       ]
     },
     {
@@ -20826,6 +21571,34 @@
       ]
     },
     {
+      "slug": "uizze",
+      "path": "sites/uizze.md",
+      "title": "Uizze",
+      "description": "Searchable library of real web and iOS screens and user flows, built to give coding agents design taste.",
+      "url": "https://uizze.com",
+      "type": "gallery",
+      "formats": "UI reference library · screens and flows search · agent tools",
+      "topics": [
+        "agents-and-prompts",
+        "inspiration",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "paid",
+      "licence": "Paid access: $9 a month, $85 a year or $199 lifetime at review. Screenshots and flows belong to the products shown; treat them as look-only references.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "thinkui",
+        "marked",
+        "mobbin"
+      ]
+    },
+    {
       "slug": "unicorn-studio",
       "path": "sites/unicorn-studio.md",
       "title": "Unicorn Studio",
@@ -20839,11 +21612,14 @@
         "inspiration"
       ],
       "verdict": "useful",
-      "agent": [],
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
       "pricing": "freemium",
       "licence": "Free is $0 and limited to personal, non-commercial use with a watermark. Legend is $14/month billed yearly or $20 month-to-month and grants commercial use; do not redistribute the editor or its assets.",
       "licence_class": "proprietary-paid",
-      "reviewed": "2026-09-26",
+      "reviewed": "2026-11-26",
       "status": "active",
       "related": [
         "paper-shaders",
@@ -20992,6 +21768,33 @@
       ]
     },
     {
+      "slug": "unslop",
+      "path": "sites/unslop.md",
+      "title": "Unslop",
+      "description": "Claude skill that turns vibecoded, AI-looking UI into a designed interface, CC-BY-4.0 with 21,785 stars.",
+      "url": "https://github.com/heydamir/unslop",
+      "type": "agent-skill",
+      "formats": "Claude skill · UI redesign workflow",
+      "topics": [
+        "agent-skills",
+        "ai-interfaces"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "The GitHub repository (heydamir/unslop) carries a CC-BY-4.0 licence at review (21,785 stars), so it can be reused with attribution.",
+      "licence_class": "cc-attribution",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "no-ai-slop",
+        "stop-slop",
+        "vercel-web-design-guidelines"
+      ]
+    },
+    {
       "slug": "unsw-art-design-annual-2025",
       "path": "sites/unsw-art-design-annual-2025.md",
       "title": "UNSW Art & Design Annual 2025",
@@ -21095,6 +21898,35 @@
         "colorbox",
         "hihayk-scale",
         "poline"
+      ]
+    },
+    {
+      "slug": "useplanes",
+      "path": "sites/useplanes.md",
+      "title": "Planes",
+      "description": "230+ animated React components for shadcn/ui and Next.js, shipped as React, Tailwind and Motion source.",
+      "url": "https://useplanes.com",
+      "type": "component-library",
+      "formats": "component library · shadcn-compatible source · Motion animations",
+      "topics": [
+        "components",
+        "motion",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "Free components are public source. A Planes Pro licence (about $99 until 1 December 2026, then $149) unlocks Pro components and updates as a perpetual licence to use the source in your own projects, not a transfer of ownership.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "motion-dev",
+        "dissolve"
       ]
     },
     {
@@ -21227,6 +22059,34 @@
         "wakamai-fondue",
         "design-system-checklist",
         "css-text-effects"
+      ]
+    },
+    {
+      "slug": "uwarp",
+      "path": "sites/uwarp.md",
+      "title": "Uwarp",
+      "description": "Free collection of browser tools for designers, from image and document converters to icons, colour and media.",
+      "url": "https://www.uwarp.design/",
+      "type": "directory",
+      "formats": "tool directory · browser utilities · design references",
+      "topics": [
+        "assets",
+        "color",
+        "documentation"
+      ],
+      "verdict": "niche",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free collection of browser tools; no reuse licence for the tools or the referenced assets was stated at review.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "framegui",
+        "filmagic",
+        "pacdora"
       ]
     },
     {
