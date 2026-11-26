@@ -171,6 +171,28 @@ components:
     typography: "{typography.body-sm}"
     rounded: "{rounded.md}"
     padding: 8px 12px
+  callout:
+    backgroundColor: "{colors.surface-raised}"
+    textColor: "{colors.text}"
+    typography: "{typography.body-sm}"
+    rounded: "{rounded.md}"
+    padding: 24px 16px 12px
+  callout-tip:
+    backgroundColor: "{colors.accent-soft}"
+    textColor: "{colors.text}"
+  callout-warning:
+    backgroundColor: "{colors.warning-soft}"
+    textColor: "{colors.text}"
+  callout-danger:
+    backgroundColor: "{colors.danger-soft}"
+    textColor: "{colors.text}"
+  steps:
+    textColor: "{colors.text}"
+    typography: "{typography.body-sm}"
+    padding: 12px 0px
+  steps-current:
+    backgroundColor: "{colors.accent-soft}"
+    textColor: "{colors.accent-strong}"
 ---
 
 # Design Atlas design system
@@ -266,8 +288,9 @@ One theme: bone paper, umber ink, brass for links and marks. Neutrals stay at or
 | Topic card | `card`, 1px `border`; title, description, site count | One link; hover edge `border-control` |
 | Site facts | `{colors.surface}`, `{rounded.md}`; site, type, verdict, licence, agent channels, pricing, reviewed, note | Rail from 1280px, inline under the H1 below; compact label/value rows below 36rem |
 | Code | `code-block`, `code-inline`; syntax colours flattened to `{colors.text}` | VitePress copy button |
+| Steps | `steps` ruled rows with mono numbers; `steps-current` on `{colors.accent-soft}` with `{colors.accent-strong}` number, `next` in italic muted | Static; prototype on `/skills` |
 | Prose table | `table-header` | Static |
-| Callout | VitePress blocks: warning on `{colors.warning-soft}`, danger on `{colors.danger-soft}`, others on `{colors.surface}` | Static; unused so far |
+| Callout | `callout` dashed frame with the title on the top edge; `callout-tip` on `{colors.accent-soft}`, `callout-warning` on `{colors.warning-soft}`, `callout-danger` on `{colors.danger-soft}` | Static; prototype on `/skills` |
 
 - Long lists: reveal 50 rows per action, with Virtua window virtualization for pointer scrolling and measured, variable row heights. Tab navigation switches to the complete revealed list so every link stays reachable; those offscreen rows defer painting with `content-visibility: auto` and an initial 8rem block estimate. Small hubs retain their complete static lists.
 
