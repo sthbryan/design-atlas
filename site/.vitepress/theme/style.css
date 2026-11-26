@@ -1192,3 +1192,82 @@ body {
     display: none;
   }
 }
+
+.atlas-callout {
+  position: relative;
+  margin: var(--space-xl) 0;
+  padding: var(--space-xl) var(--space-lg) var(--space-md);
+  border: 1px dashed var(--color-border-control);
+  border-radius: var(--radius-md);
+  background-color: var(--color-surface-raised);
+  color: var(--color-text);
+  font-size: var(--text-sm);
+  line-height: var(--leading-sm);
+}
+
+.atlas-callout-title {
+  position: absolute;
+  top: -0.72em;
+  left: var(--space-md);
+  padding: 0 var(--space-xs);
+  background-color: var(--color-bg);
+  color: var(--color-accent);
+  font-family: var(--font-code);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-strong);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  line-height: 1.3;
+}
+
+.atlas-callout-body > :first-child { margin-top: 0; }
+.atlas-callout-body > :last-child { margin-bottom: 0; }
+
+.atlas-callout-tip { background-color: var(--color-accent-soft); }
+.atlas-callout-warning { background-color: var(--color-warning-soft); }
+.atlas-callout-danger { background-color: var(--color-danger-soft); }
+
+.atlas-steps { margin: var(--space-xl) 0; }
+
+.atlas-steps ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: var(--rule-width) solid var(--color-border);
+}
+
+.atlas-steps li {
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr);
+  gap: var(--space-md);
+  max-width: none;
+  margin: 0;
+  padding: var(--space-md) 0;
+  border-bottom: var(--rule-width) solid var(--color-border);
+}
+
+.atlas-steps-index {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: var(--rule-width) solid var(--color-border-control);
+  border-radius: var(--radius-sm);
+  color: var(--color-text-muted);
+  font-family: var(--font-code);
+  font-size: var(--text-sm);
+  font-variant-numeric: tabular-nums;
+}
+
+.atlas-steps-current .atlas-steps-index {
+  border-color: var(--color-accent);
+  background-color: var(--color-accent-soft);
+  color: var(--color-accent-strong);
+  font-weight: var(--weight-strong);
+}
+
+.atlas-steps-text { display: flex; flex-direction: column; gap: var(--space-xs); }
+.atlas-steps-text strong { font-weight: var(--weight-strong); }
+.atlas-steps-text span { color: var(--color-text-muted); font-size: var(--text-sm); line-height: var(--leading-sm); }
+.atlas-steps-next .atlas-steps-text strong { font-style: italic; }
