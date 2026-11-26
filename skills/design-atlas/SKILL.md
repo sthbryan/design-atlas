@@ -1,6 +1,6 @@
 ---
 name: design-atlas
-description: Finds design references in the Design Atlas, uses galleries both as UI references and to discover more examples, and compares visual directions in a cited brief after browser inspection. Also filters libraries, assets and tools by licence, agent channel and price. Use when the user wants design inspiration or references, or asks which library, icon set, font or tool to use. For building or reviewing UI, also use design-atlas-ui.
+description: Studies real designs and exported DESIGN.md styles in the Design Atlas and turns three to five of them into one visual direction for the user's own design. Use when the user wants inspiration, references or a direction, or asks which library, icon set, font or tool to use.
 license: MIT
 metadata:
   version: "2.0.0"
