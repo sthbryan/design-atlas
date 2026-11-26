@@ -8,7 +8,7 @@ topics: [components, motion, agents-and-prompts, data-viz]
 verdict: very-useful
 agent: [mcp, cli, skill, llms-txt, registry]
 pricing: freemium
-licence: 89 free components are MIT per the project's GitHub repository; Core is $199 once and Pro $299 once under a commercial licence at review. The paid tiers cover block and template source, the full skill set and the agents.
+licence: "89 free components are MIT per the project's GitHub repository, and the free set includes a DESIGN.md, four agent skills and an MCP server. Core is $199 once and Pro $299 once, each for one named developer or designer, under a commercial licence at review; Pro adds 55 blocks with 285 screens across both Figma files."
 licence_class: mixed
 reviewed: 2026-11-26
 status: active
@@ -34,11 +34,11 @@ Open it when you want a dashboard or product UI where the agent has a documented
 
 ## Using it with agents
 
-The MCP server (`npx -y wunderui-mcp`), CLI adds, installable skills and a DESIGN.md are the agent channels; `llms.txt` indexes it all.
+The free set alone includes an MCP server, a DESIGN.md and four skills (setup, screen, token check), and `llms.txt` indexes the whole library. `npx -y wunderui-mcp` is the MCP entry point, and `npx skills add wunder-ui/wunderui` installs the skills.
 
 ## Watch out for
 
-- Only the 89 free components are MIT; blocks, templates and the full skill set need Core or Pro.
+- Only the 89 free components are MIT; blocks, templates, charts, data grids and the rest of the motion effects need Core or Pro, and each paid licence covers one named person.
 - A paid system is a commitment: check the commercial licence before designing a product around it.
 
 ## Reusable ideas
