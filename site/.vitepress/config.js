@@ -40,11 +40,12 @@ export default defineConfig({
   rewrites: ROUTES,
   cleanUrls: true,
   sitemap: { hostname: SITE_URL },
-  appearance: false,
+  appearance: 'force-auto',
   lastUpdated: false,
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['meta', { name: 'theme-color', content: '#F8F7F2', media: '(prefers-color-scheme: light)' }],
+    ['meta', { name: 'theme-color', content: '#1A140E', media: '(prefers-color-scheme: dark)' }],
     ['meta', { property: 'og:site_name', content: 'Design Atlas' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:image', content: SOCIAL_IMAGE }],

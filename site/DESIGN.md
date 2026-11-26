@@ -189,27 +189,27 @@ The identity of the Design Atlas website, a VitePress theme in `site/.vitepress/
 
 ## Colors
 
-One theme: bone paper, umber ink, brass for links and marks. Neutrals stay at or below 0.023 chroma and lean warm (C3); the accent is brass at hue 78. There is no dark variant: a second umber palette doubled the surface work and read heavier at reading length, so the site ships the bone identity and the social card keeps the umber-and-gold version for share images. Charts, badges and code blocks all come from these tokens.
+Two themes, no switch: the site follows the system preference automatically. Light is bone paper, umber ink and brass for links and marks. Dark is the same identity in umber and gold: #1A140E grounds, #F8F7F2 text and #EDD9A8 for links and marks, so the social card and the dark site read as one identity. Neutrals stay warm in both themes (C3); the accent is brass at hue 78 in light and gold in dark. Charts, badges and code blocks all come from these tokens.
 
-| Token | Light | OKLCH (light) | Job | Pairs (measured) |
-|---|---|---|---|---|
-| bg | #F8F7F2 | 0.976 0.007 97 | Page |  |
-| surface | #F1EFE7 | 0.951 0.011 95 | Sidebar, legend, facts panel, table header, code |  |
-| surface-raised | #FFFDF9 | 0.994 0.006 85 | Topic cards, search field, buttons |  |
-| border | #DFDBCE | 0.891 0.018 93 | Row rules and card edges; decorative, below 3:1 on purpose |  |
-| border-control | #837752 | 0.571 0.055 92 | Edges of the search field and buttons | ui on bg 4.14:1; ui on surface 3.86:1; ui on surface-raised 4.37:1 |
-| text | #2A2618 | 0.269 0.025 94 | Body, titles, row names | text on bg 14.10:1; text on surface 13.13:1; text on surface-raised 14.88:1; text on accent-soft 12.28:1; text on success-soft 12.88:1; text on warning-soft 12.72:1; text on danger-soft 12.55:1 |
-| text-muted | #625C4A | 0.475 0.029 92 | Descriptions, metadata, look-only badge | text on bg 6.22:1; text on surface 5.79:1; text on surface-raised 6.56:1 |
-| accent | #7E5E14 | 0.502 0.095 83 | Links, current-page mark, sidebar indicator | text on bg 5.60:1; text on surface 5.21:1; text on surface-raised 5.91:1 |
-| accent-strong | #61470D | 0.416 0.079 82 | Link hover, search-match text | text on bg 8.11:1; text on accent-soft 7.06:1 |
-| accent-soft | #F3E7C6 | 0.929 0.045 90 | Button hover, search-match highlight |  |
-| focus | #2A2618 | 0.269 0.025 94 | Focus ring only | ui on bg 14.10:1; ui on surface 13.13:1; ui on surface-raised 14.88:1 |
-| success | #2C6A3C | 0.471 0.098 150 | Ship licence badge | text on bg 6.05:1; text on success-soft 5.53:1 |
-| success-soft | #E1F1E3 | 0.942 0.025 149 | Ship badge fill |  |
-| warning | #8A4A00 | 0.477 0.113 59 | Conditional licence, stale status | text on bg 6.40:1; text on warning-soft 5.77:1 |
-| warning-soft | #F8EACF | 0.941 0.039 84 | Conditional and stale badge fill, warning callout |  |
-| danger | #A93236 | 0.498 0.155 23 | Broken status | text on bg 6.12:1; text on danger-soft 5.45:1 |
-| danger-soft | #FBE5E4 | 0.939 0.024 21 | Broken badge fill, danger callout |  |
+| Token | Light | Dark | OKLCH (light) | Job | Pairs (measured) |
+|---|---|---|---|---|---|
+| bg | #F8F7F2 | #1A140E | 0.976 0.007 97 | Page |  |
+| surface | #F1EFE7 | #241B12 | 0.951 0.011 95 | Sidebar, legend, facts panel, table header, code |  |
+| surface-raised | #FFFDF9 | #2E2115 | 0.994 0.006 85 | Topic cards, search field, buttons |  |
+| border | #DFDBCE | #3B2E22 | 0.891 0.018 93 | Row rules and card edges; decorative, below 3:1 on purpose |  |
+| border-control | #837752 | #837752 | 0.571 0.055 92 | Edges of the search field and buttons | ui on bg 4.14:1 / 4.11:1; ui on surface 3.86:1 / 3.81:1; ui on surface-raised 4.37:1 / 3.51:1 |
+| text | #2A2618 | #F8F7F2 | 0.269 0.025 94 | Body, titles, row names | text on bg 14.10:1 / 17.02:1; text on surface 13.13:1 / 15.78:1; text on surface-raised 14.88:1 / 14.56:1; text on accent-soft 12.28:1 / 12.24:1; text on success-soft 12.88:1 / 12.60:1; text on warning-soft 12.72:1 / 12.87:1; text on danger-soft 12.55:1 / 14.06:1 |
+| text-muted | #625C4A | #CFC7B8 | 0.475 0.029 92 | Descriptions, metadata, look-only badge | text on bg 6.22:1 / 10.88:1; text on surface 5.79:1 / 10.09:1; text on surface-raised 6.56:1 / 9.31:1 |
+| accent | #7E5E14 | #EDD9A8 | 0.502 0.095 83 | Links, current-page mark, sidebar indicator | text on bg 5.60:1 / 13.12:1; text on surface 5.21:1 / 12.17:1; text on surface-raised 5.91:1 / 11.22:1 |
+| accent-strong | #61470D | #F3E7C6 | 0.416 0.079 82 | Link hover, search-match text | text on bg 8.11:1 / 14.83:1; text on accent-soft 7.06:1 / 10.66:1 |
+| accent-soft | #F3E7C6 | #3B2E22 | 0.929 0.045 90 | Button hover, search-match highlight |  |
+| focus | #2A2618 | #F8F7F2 | 0.269 0.025 94 | Focus ring only | ui on bg 14.10:1 / 17.02:1; ui on surface 13.13:1 / 15.78:1; ui on surface-raised 14.88:1 / 14.56:1 |
+| success | #2C6A3C | #8FD09E | 0.471 0.098 150 | Ship licence badge | text on bg 6.05:1 / 10.16:1; text on success-soft 5.53:1 / 7.52:1 |
+| success-soft | #E1F1E3 | #1E3324 | 0.942 0.025 149 | Ship badge fill |  |
+| warning | #8A4A00 | #E8B26A | 0.477 0.113 59 | Conditional licence, stale status | text on bg 6.40:1 / 9.57:1; text on warning-soft 5.77:1 / 7.24:1 |
+| warning-soft | #F8EACF | #3A2A14 | 0.941 0.039 84 | Conditional and stale badge fill, warning callout |  |
+| danger | #A93236 | #F09A9E | 0.498 0.155 23 | Broken status | text on bg 6.12:1 / 8.54:1; text on danger-soft 5.45:1 / 7.05:1 |
+| danger-soft | #FBE5E4 | #3B1E20 | 0.939 0.024 21 | Broken badge fill, danger callout |  |
 
 ## Typography
 
@@ -330,7 +330,7 @@ Test at 320, 390, 768 and 1280px plus 200% zoom (L3), with no horizontal page sc
 | Row | Project value | Reason |
 |---|---|---|
 | C1 | Ink for the focus ring | A brass ring would read as another link state |
-| C5 | One light theme, no dark variant and no toggle | The umber pass read heavy at reading length and doubled the surface work; the card carries the dark reading instead |
+| C5 | System theme only, no appearance switch | The reader's OS decides light or dark; an in-page toggle would fight that choice |
 
 ## References
 
