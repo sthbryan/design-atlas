@@ -110,6 +110,20 @@ Rank by "Start here" membership, then verdict, then fit. Aim for three to five s
 
 Read "When to open it", "Using it with agents", "Watch out for" and "Reusable ideas" (`grep -n '^## ' sites/<slug>.md` shows the sections). When the user has no direction yet, offer two or three distinct options with a reference, why it fits and a tradeoff, and recommend one. If they already fixed the direction, proceed.
 
+#### Health gate: check the shortlist before you close it
+
+Before the shortlist is final, re-run it through the index and check each pick's health:
+
+```sh
+node "$SKILL_DIR/scripts/query.mjs" --slug slug-a,slug-b,slug-c --full
+```
+
+Read `status`, `freshness` and `verdict_after_use` on every row. With a local clone (or the network), also run `--link moved,dead` over the shortlist; `references/query-recipes.md` lists the flag vocabulary. The bundled snapshot holds no `url-health.json`, so in bundled mode `--link` is unavailable: declare `URL health not checked (bundled snapshot)` in "Not checked" instead of skipping silently.
+
+- **Discard** a source that is `status: broken`, link-dead, or `verdict_after_use: let-down`, unless the user named it themselves.
+- A user-named unhealthy source stays only as a declared entry: name its status in "Not checked" and what would revalidate it (a re-review, a working URL, a re-test after use).
+- **Declare, don't hide**: a `freshness: due`, `status: stale` or link-moved source may stay on the shortlist only with that status stated in "Not checked". A pattern borrowed from an undeclared unhealthy source is a claim, not a reference.
+
 ### 5. Inspect the real thing
 
 For a request about how something should look or behave, open the shortlisted sites in the browser available to the host and look at them. Allow at least a second for rendering; if you see a loader or an empty shell, wait and check again before judging. Look at desktop and narrow widths, and capture screenshots when the host supports it.
@@ -177,6 +191,7 @@ This section applies only to code, assets or fonts the user will paste into a pr
 |---|---|
 | Fewer than three sources, or more than five without being asked | Cut to the strongest and say what you dropped |
 | A pattern with no named source | Attribute it to a site page, a style file or a URL you opened |
+| A shortlisted source is broken, dead or let-down and the brief presents it as clean | Discard it, or declare it in "Not checked" with what would revalidate it |
 | A direction that is a list of libraries instead of a look | Rewrite it as palette, type, spacing, motion and the signature element |
 | Observed claims that came only from an atlas page | Inspect the site or mark them `not visually verified` |
 | Code or assets to be pasted, with no licence line | Add one line naming what may be taken |
