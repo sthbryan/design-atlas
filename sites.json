@@ -1110,23 +1110,25 @@
       "slug": "amicro",
       "path": "sites/amicro.md",
       "title": "Amicro",
-      "description": "Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.",
-      "url": "https://amicro.vercel.app",
+      "description": "170+ MIT React micro-interactions on a shadcn registry, with short stated easings, reduced-motion respected and an llms.txt.",
+      "url": "https://amicro.dev/",
       "type": "component-library",
-      "formats": "component library (shadcn registry, CLI)",
+      "formats": "component library · shadcn-compatible registry · own CLI · llms.txt",
       "topics": [
         "motion",
-        "components"
+        "components",
+        "agents-and-prompts"
       ],
       "verdict": "useful",
       "agent": [
+        "registry",
         "cli",
-        "registry"
+        "llms-txt"
       ],
       "pricing": "free",
-      "licence": "free; MIT (copyright Syed Subhan Uddin), sponsorship via Polar",
+      "licence": "MIT (copyright Syed Subhan Uddin), stated in the project's repository at review; sponsorship runs through Polar, and the site lists the library under the Vercel OSS Program.",
       "licence_class": "open-source-permissive",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-11-26",
       "status": "active",
       "related": [
         "transitions-dev",
