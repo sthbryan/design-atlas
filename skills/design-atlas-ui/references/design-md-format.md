@@ -108,7 +108,7 @@ Keep these fifteen headings, in this order, under one H1 title. When a section t
 | 10 | Responsive behaviour | The breakpoints actually used and what changes at each |
 | 11 | Do's and Don'ts | Hard limits, including the bans this project enforces |
 | 12 | Overrides | Rows of resolved-conflicts this project changes, each with a reason |
-| 13 | References | Atlas pages, inspected example URLs, what was adapted, licence class and reviewed date |
+| 13 | References | Atlas pages, inspected example URLs, what was adapted, and the source of each |
 | 14 | Agent guide | How to extend the system, example requests and known gaps |
 | 15 | Provenance | Files read, what was measured versus inferred, and the date |
 
@@ -204,7 +204,8 @@ components:
 |---|---|---|
 
 ## References
-| Atlas page (`sites/<slug>.md`) | Live example and visual evidence | What we adapted | Licence class | Reviewed |
+| Atlas page (`sites/<slug>.md`) | Live example and visual evidence | What we adapted | Source |
+|---|---|---|---|
 |---|---|---|---|---|
 
 ## Agent guide
@@ -323,11 +324,12 @@ components:
 | L2 | 48 × 48 targets for Renew and Place hold under `(pointer: coarse)` | Many members renew one-handed on a moving bus |
 
 ## References
-| Atlas page (`sites/<slug>.md`) | Live example and visual evidence | What we adapted | Licence class | Reviewed |
+| Atlas page (`sites/<slug>.md`) | Live example and visual evidence | What we adapted | Source |
+|---|---|---|---|
 |---|---|---|---|---|
-| sites/ramps.md | none, tool | Built the green and red ramps in OKLCH | MIT tool, no asset shipped | 2026-09-25 |
-| sites/number-flow.md | none, code library | Days-left counter with stable digit widths | MIT code, notice kept | 2026-09-25 |
-| sites/dark-mode-design.md | not visually verified | No visual decision taken yet | Look only | 2026-09-25 |
+| sites/ramps.md | none, tool | Built the green and red ramps in OKLCH | `sites/ramps.md`, 2026-09-25 |
+| sites/number-flow.md | none, code library | Days-left counter with stable digit widths | `sites/number-flow.md`, 2026-09-25 |
+| sites/dark-mode-design.md | not visually verified | No visual decision taken yet | `sites/dark-mode-design.md`, 2026-09-25 |
 
 ## Provenance
 - Date: 2026-09-27; direction not reviewed.
