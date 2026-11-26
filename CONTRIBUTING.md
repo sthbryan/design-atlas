@@ -124,6 +124,18 @@ The agent skills live in `skills/<name>/`, and `.claude-plugin/` publishes them 
 - For a release, bump `metadata.version` in each changed `SKILL.md` and `version` in `.claude-plugin/plugin.json` together.
 - `bun run check` also checks that every relative link in `skills/` resolves.
 
+## The styles corpus
+
+`styles/` holds a curated set of exported DESIGN.md files from real brands, so an agent can read how a look is built instead of guessing it from a screenshot.
+
+- One file per brand at `styles/<slug>-<uuid>.md`, with the export verbatim and front matter added by the import: `name`, `source`, `archive`, `licence` and `generic`.
+- Every file needs a `source` URL. A file with no provenance does not belong here.
+- Add a record to `styles/index.json` with the same name, path and source.
+- Curate, do not mirror. The set is capped at about 80 files and 2 MB: keep the exports whose format is complete and whose look teaches something the set does not already cover, one file per brand, no generic "Home" pages. The remaining catalogue lives outside git, indexed by `skills/design-atlas/references/styles-index.json`.
+- Imports are mechanical: use a script for a batch, never retype an export.
+- The files describe a look; they are not the brand's own document and carry no licence. Don't republish one as a design system, don't pull brand marks or assets out of one, and say in a page or brief that a reconstruction is what it is.
+- No images, no screenshots, no assets: text only.
+
 ## Trademarks, screenshots and assets
 
 - Site names, logos and trademarks belong to their owners. Use names only to identify the site.

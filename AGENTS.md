@@ -4,12 +4,13 @@ Instructions for coding agents that read or edit this repository. The user's own
 
 ## What this repo is
 
-Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md` holds one page per site, with YAML frontmatter and seven fixed sections. `topics/<slug>.md` holds the topic hubs. `scripts/build.mjs` generates every index from the frontmatter. `site/` holds the VitePress website: `site/home.md` is the dedicated `/` homepage, `site/skills.md` serves `/skills`, and the README remains available at `/readme` alongside the hubs, site pages, `CONTRIBUTING.md` and `site/DESIGN.md`. `site/DESIGN.md` is the visual identity for the atlas website, and `bun run check` validates it against the format in `skills/design-atlas-ui/references/design-md-format.md`. The atlas keeps no library of style DESIGN.md files: it sends people to real, reviewed sites for inspiration.
+Design Atlas is a Markdown wiki of reviewed design references. `sites/<slug>.md` holds one page per site, with YAML frontmatter and seven fixed sections. `topics/<slug>.md` holds the topic hubs. `scripts/build.mjs` generates every index from the frontmatter. `site/` holds the VitePress website: `site/home.md` is the dedicated `/` homepage, `site/skills.md` serves `/skills`, and the README remains available at `/readme` alongside the hubs, site pages, `CONTRIBUTING.md` and `site/DESIGN.md`. `site/DESIGN.md` is the visual identity for the atlas website, and `bun run check` validates it against the format in `skills/design-atlas-ui/references/design-md-format.md`. `styles/` holds the exported DESIGN.md corpus: one file per brand with a source URL in its front matter, indexed by `styles/index.json`. It is inspiration material for building your own design, not a set of assets to redistribute; `styles/README.md` states the position.
 
 Before any UI work on the atlas website, read `site/DESIGN.md` and take every value from it. The theme lives in `site/.vitepress/theme/`: colours, type, spacing and motion are CSS variables in `style.css`, so change a value there and in `site/DESIGN.md` together. Static assets live in root `public/` because VitePress uses the repository root as `srcDir`. Don't copy wiki Markdown into `site/`; the config maps the existing files to routes. Keep homepage content in `site/home.md` and the README as repository documentation at `/readme`. Run `bun run site:build` after changing the site or a page's links; it fails on dead links. Serve previews on `127.0.0.1` only, and keep screenshots outside the repository.
 
 ## Reading the atlas
 
+0. For a visual direction, check `styles/index.json` for a brand whose look you want to study, then read only the files for your shortlist. The corpus is a snapshot: no motion tokens, no accessibility data.
 1. Start with `llms.txt` (one line per site with type, topics, verdict, agent channels, licence class and review date) or `sites.json` (the same metadata as JSON). Filter there before opening any page, for example `grep 'topics: [^;]*motion' llms.txt`, or `jq '.sites[] | select(.licence_class == "open-source-permissive") | .path' sites.json`. `query.mjs` also filters on `--freshness due` (pages past `stale_after`, which defaults to 180 days after `reviewed`), `--after-use let-down` (sources that failed in practice), `--licence ship --asset code` (per-asset licence classes) and `--link moved,dead` (URL health from `url-health.json`). Filter out `agent: none` only when you need an MCP, API or other published integration; a browser can still open those sites.
 2. Read the hubs for the topics you need. "Start here" is the curated shortlist; "Patterns worth reusing" and "Pitfalls" summarise across sources.
 3. Open only the site pages you shortlisted. `grep -n '^## ' sites/<slug>.md` shows the sections, so you can read just "When to open it", "Using it with agents", "Watch out for" and "Reusable ideas".
@@ -44,7 +45,7 @@ Change the frontmatter instead, then run the build. The `atlas:sources` markers 
 
 ## Changing the website DESIGN.md
 
-Follow "Change the website DESIGN.md" in [CONTRIBUTING.md](CONTRIBUTING.md): original values in your own words, the fifteen sections of the format and every contrast pair declared. Run `bun run build` and `bun run check`; the check recomputes every ratio and fails on any mismatch. Don't add other DESIGN.md files to the repository.
+Follow "Change the website DESIGN.md" in [CONTRIBUTING.md](CONTRIBUTING.md): original values in your own words, the fifteen sections of the format and every contrast pair declared. Run `bun run build` and `bun run check`; the check recomputes every ratio and fails on any mismatch. Don't add DESIGN.md files for other projects to the repository; the only other design documents here are the exported style files under `styles/`.
 
 ## Adding or changing a topic
 
@@ -56,3 +57,4 @@ A topic slug is valid only if `topics/<slug>.md` exists with `title`, `descripti
 - Write "not stated" instead of guessing, and "at review" next to counts.
 - No screenshots, logos or other images of reviewed sites.
 - Don't rename slugs, don't add frontmatter fields or vocabulary values without updating `scripts/build.mjs` and CONTRIBUTING.md together, and don't hand-edit generated content.
+- In `styles/`, import the export as it came, keep the source URL and the licence note in its front matter, and add it to `styles/index.json`. Never add images or assets there, and never present a style file as the brand's own documentation.
