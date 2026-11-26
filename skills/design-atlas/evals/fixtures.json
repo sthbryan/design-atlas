@@ -1,0 +1,74 @@
+{
+  "skill": "design-atlas",
+  "mode": "bundled",
+  "note": "Each scenario runs skills/design-atlas/scripts/query.mjs with --offline --location bundled against the real bundled catalog (references/catalog.json). Assertions are property-based so catalog growth does not break them. The runner adds --offline --location bundled itself; args here are only the scenario filters. A scenario with expectExit non-zero asserts on the exit code and stderr instead of JSON.",
+  "scenarios": [
+    {
+      "id": "pricing-hubs",
+      "eval": 1,
+      "args": ["--topic", "landing-pages,cta", "--min-verdict", "useful", "--limit", "5"],
+      "assertions": [
+        { "kind": "locationIs", "value": "bundled" },
+        { "kind": "countRange", "min": 2, "max": 5 },
+        { "kind": "totalMin", "min": 2 },
+        { "kind": "anyTopicIn", "values": ["landing-pages", "cta"] },
+        { "kind": "allVerdictsIn", "values": ["useful", "very-useful"] },
+        { "kind": "everyRowHasPath" }
+      ]
+    },
+    {
+      "id": "shippable-icons",
+      "eval": 2,
+      "args": ["--topic", "icons", "--licence", "ship", "--limit", "50"],
+      "assertions": [
+        { "kind": "locationIs", "value": "bundled" },
+        { "kind": "totalMin", "min": 1 },
+        { "kind": "allLicenceIn", "values": ["public-domain", "open-source-permissive", "cc-attribution"] },
+        { "kind": "everyRowHasPath" }
+      ]
+    },
+    {
+      "id": "components-mcp",
+      "eval": 3,
+      "args": ["--topic", "components", "--agent", "mcp", "--limit", "5"],
+      "assertions": [
+        { "kind": "locationIs", "value": "bundled" },
+        { "kind": "countRange", "min": 1, "max": 5 },
+        { "kind": "allHaveAgent", "value": "mcp" },
+        { "kind": "anyTopicIn", "values": ["components"] },
+        { "kind": "everyRowHasPath" }
+      ]
+    },
+    {
+      "id": "bundled-snapshot",
+      "eval": 7,
+      "args": ["--topic", "color", "--limit", "3"],
+      "assertions": [
+        { "kind": "locationIs", "value": "bundled" },
+        { "kind": "snapshotLatestReviewPresent" },
+        { "kind": "countRange", "min": 1, "max": 3 },
+        { "kind": "everyRowHasPath" }
+      ]
+    },
+    {
+      "id": "known-slugs",
+      "eval": 9,
+      "args": ["--slug", "laws-of-ux,rive", "--full", "--limit", "5"],
+      "assertions": [
+        { "kind": "locationIs", "value": "bundled" },
+        { "kind": "countRange", "min": 2, "max": 2 },
+        { "kind": "slugPresent", "value": "laws-of-ux" },
+        { "kind": "slugPresent", "value": "rive" },
+        { "kind": "everyRowHasPath" }
+      ]
+    },
+    {
+      "id": "missing-slug",
+      "eval": 12,
+      "note": "Font Awesome is not in the atlas, so the index lookup must fail loudly. If it is ever added, this scenario is the signal to update the case.",
+      "args": ["--slug", "font-awesome"],
+      "expectExit": 2,
+      "stderrIncludes": "unknown --slug value"
+    }
+  ]
+}
