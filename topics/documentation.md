@@ -42,6 +42,7 @@ How sites document components, design systems and style — for human readers an
 - [dissolve](../sites/dissolve.md) — Open-source animated UI components for React Native and React, copied into your app with an agent prompt and CLI.
 - [Every Layout](../sites/every-layout.md) — Intrinsic CSS layout primitives with free visual examples, interactive demos and configurable generators.
 - [Frame](../sites/framegui.md) — Free open-source native media workspace that converts video, audio and images with FFmpeg, processed locally.
+- [Google's DESIGN.md format](../sites/design-md-format.md) — Apache-2.0 specification and CLI that gives coding agents a persistent, structured description of a visual identity.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [hamur](../sites/hamur.md) — Unstyled accessible components with one shared core and five framework adapters — React, Vue, Svelte, Angular and Solid — under the MIT licence.
 - [IBM Design Language color](../sites/ibm-design-language-color.md) — IBM's color reference shows palette families, accepted gradients, UI themes, accessibility rules and examples in use.
@@ -79,6 +80,8 @@ How sites document components, design systems and style — for human readers an
 - [The Iconography Encyclopedia](../sites/iconography-encyclopedia.md) — An alphabetical field guide to icon design terms, from alignment and anatomy to stroke weight and wayfinding.
 - [Tone.js](../sites/tonejs.md) — MIT Web Audio framework with synths, effects and scheduling, for building interface cues instead of downloading them.
 - [Toolcraft](../sites/toolcraft.md) — Open-source MIT starter kit and UI library for building your own design apps with AI.
+- [Twentyfirst UI](../sites/twentyfirst-ui.md) — Two MIT-licensed React UI kits, Halo and Pro, sharing one component API so a product can swap its look without changing code.
+- [Typographer](../sites/typographer.md) — Font discovery, testing and syncing tool with 10,000+ typefaces and a licence that covers small sites.
 - [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
 - [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
 - [Uwarp](../sites/uwarp.md) — Free collection of browser tools for designers, from image and document converters to icons, colour and media.

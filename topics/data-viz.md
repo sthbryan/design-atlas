@@ -46,6 +46,7 @@ Chart components, dashboard building blocks and small data displays (spark chart
 - [Usecolor](../sites/usecolor.md) — OKLCH palette generator by Imperavi that builds tonal scales, semantic roles and chart-ready sets, with colour-blindness simulation.
 - [Visme](../sites/visme.md) — Design tool whose page is a row of eight output types, each with its own preview and one call to action, above named case studies.
 - [Wavelength](../sites/wavelength.md) — A customer-success SaaS landing page with bright route graphics framing a working account dashboard.
+- [WunderUI](../sites/wunderui.md) — Agentic React and Figma design system with 194 components, 285 screens, 181 motion effects, MCP, skills and DESIGN.md.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing
