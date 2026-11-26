@@ -44,6 +44,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [ASCII Studio](../sites/ascii-studio.md) — Turns images, GIFs and video into ASCII animation and exports a self-contained React component.
 - [Atelier UI](../sites/atelier-ui.md) — An interactive library of shader and motion components with a live preview, adjustable controls and copyable implementation prompts.
 - [Awwwards](../sites/awwwards.md) — Paid-entry web design awards with jury-scored winners, interaction clips and studio credits; llms.txt plus a small awards API.
+- [Beamline UI](../sites/beamline-ui.md) — 240+ polished React components and 340+ complete product screens with real motion, sold once, wired for MCP.
 - [Bencho](../sites/bencho.md) — 38 live, tunable React blocks whose "Copy prompt" hands an agent full source plus token-mapping instructions.
 - [benday](../sites/benday.md) — An MIT React component that turns a logo into a halftone mark with 21 controllable loading and agent-state animations.
 - [beUI](../sites/beui.md) — MIT motion components, agent UI and charts with llms.txt, JSON API, agent skill and hosted MCP; paid Pro adds blocks and templates.
@@ -57,6 +58,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Chrome Experiments](../sites/chrome-experiments.md) — Google's archive of creative browser experiments, with WebGL, sound and motion collections linked to their live demos.
 - [Chrome Music Lab](../sites/chrome-music-lab.md) — Google's hands-on music experiments, useful for studying playful grids, musical controls and sound-led visual interaction.
 - [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
+- [Code and Chill](../sites/code-and-chill.md) — Animated UI components and website templates in plain HTML, CSS and JS, with a licence for client work.
 - [CodePen](../sites/codepen.md) — Public interactive Pens and monthly challenges make it easy to study small web experiments, motion and interface details.
 - [Codrops](../sites/codrops.md) — Creative web demos, interaction tutorials and a handpicked site exhibition for expressive frontend design.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
@@ -74,6 +76,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Details](../sites/details.md) — About 3,155 hand-tagged captures of website heroes, loaders, transitions and scroll effects, plus a paid code Vault and MCP.
 - [Devouring Details](../sites/devouring-details.md) — Rauno Freiberg's paid interactive manual on interaction craft, with 23 chapters and downloadable React prototypes.
 - [DialKit](../sites/dialkit.md) — MIT live control panel for tuning springs, easing, layout and timelines in React, Vue, Svelte, Solid and plain JS.
+- [dissolve](../sites/dissolve.md) — Open-source animated UI components for React Native and React, copied into your app with an agent prompt and CLI.
 - [Ditther](../sites/ditther.md) — A browser editor and effect gallery for pixel, dither, ASCII and print-like treatments across still images and motion.
 - [Dot Matrix](../sites/dot-matrix.md) — 90 dot-grid loading animations as a shadcn registry, with a props playground; licence is restrictive.
 - [DotForge](../sites/dotforge.md) — Browser tool with 51 animated effects, dither patterns and post-FX; exports PNG, video or an HTML embed.
@@ -89,6 +92,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
 - [Eyecandy](../sites/eyecannndy.md) — Browse named visual techniques through short explanations and example clips, useful for motion and art-direction references.
 - [Fancy Components](../sites/fancy-components.md) — Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.
+- [Filmagic](../sites/filmagic.md) — Paste a product URL and get a launch video, with free media tools for compressing, converting and resizing.
 - [Fluid Functionalism](../sites/fluid-functionalism.md) — Spring-driven shadcn registry (Radix or Base UI) with proximity hover, AI chat parts and copy prompts.
 - [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
 - [ForgeUI](../sites/forgeui.md) — Animated SaaS components, blocks and templates via the @forgeui shadcn namespace; free code has a no-redistribution licence, Pro is $99 one-time.
@@ -101,6 +105,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [glimm](../sites/glimm.md) — WebGL colour-band page transitions for React/Next.js, with a copyable agent prompt.
 - [Glisse](../sites/glisse.md) — MIT React components that reproduce Apple's Liquid Glass in the browser — switch, slider, tab bar, menu, input and the glass surface itself.
 - [Godly](../sites/godly.md) — A dark, masonry-style gallery for websites, app screens, logos and UI details, with focused routes for page sections and visual assets.
+- [Goodest](../sites/goodest.md) — Curated design inspiration gallery with 1,097 items across apps, websites, motion, 3D, logos and more.
 - [Google Evolving Identity](../sites/google-evolving-identity.md) — Google's 2015 identity story, with visual studies of its logotype, animated dots, compact G, color and product applications.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
 - [Grainient](../sites/grainient.md) — A curated library of smooth, grainy and animated gradients, plus a live shader editor for custom backgrounds.
@@ -119,6 +124,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Kidus Yohannes](../sites/kidus-yohannes.md) — A dark portfolio that pairs a star-speckled introduction with a horizontal, section-by-section career journey.
 - [Kinetics](../sites/kinetics.md) — 153 spring-physics interaction effects in CSS, React and prompt form, with a live parameter editor.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
+- [Ladybug](../sites/theladybug.md) — Make wild visual effects in the browser, from ASCII and dither to halftone, with no plugins and no AI.
 - [Landing Love](../sites/landing-love.md) — 2,156 landing pages recorded as full-page scrolling videos, with GSAP, WebGL and Three.js collections.
 - [Launch Videos Gallery](../sites/launchvideos-gallery.md) — Daily feed of product launch videos posted on X, tagged by category and sorted by recency, with view counts showing which motion style travels.
 - [Lexington Motion — Atelier Reels](../sites/lexington-motion-atelier.md) — A paid Remotion template collection for fashion reels, with named motion concepts and a live catalogue for comparing visual treatments.
@@ -145,6 +151,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
 - [MagicPattern](../sites/magicpattern.md) — A toolbox of live pattern, mesh-gradient, shader and background editors with image and code exports.
 - [Marathon](../sites/marathonthegame.md) — Bungie's game launch site pairs cinematic footage with acid-lime typography and a dense, game-like navigation rail.
+- [marked.dev](../sites/marked.md) — Save interfaces, interactions and motion from the web into collections your coding agent can read over MCP.
 - [Mascofast](../sites/mascofast.md) — Paid AI tool that turns text or photos into mascots, exported as transparent GIF, WebM or Lottie.
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
 - [mesh3d](../sites/mesh3d.md) — A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.
@@ -157,6 +164,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Motion (motionin.design)](../sites/motionin.md) — A categorized gallery of interactive web sections with live examples and detailed motion specifications.
 - [Motion Design Principles by Zajno](../sites/motion-zajno.md) — An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.
 - [Motion Primitives](../sites/motion-primitives.md) — Isolated, installable motion and text-effect components grouped by technique, quality over quantity.
+- [motion-anything](../sites/motion-anything.md) — Apache-2.0 agentic motion layer. Describe a feeling and a coding agent ships the animation as CSS, React or Lottie.
 - [Motionimo](../sites/motionimo.md) — About 450 curated motion-graphics videos (brand films, explainers, logo stings) plus a directory of motion-design tools.
 - [MotionVideo](../sites/motionvideo.md) — Gallery of motion videos made by coding agents, each shown with the prompt that produced it, plus named moves and a free MCP catalogue.
 - [movements.dev](../sites/movements.md) — Six browser-tunable UI utilities and libraries for refining component details, from refractive glass to shimmer and shadows.
@@ -180,8 +188,10 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
 - [Patatap](../sites/patatap.md) — A keyboard-driven sound and shape toy where each letter triggers a brief animated mark against a quiet canvas.
 - [Pepsi visual identity 2023](../sites/pepsi-visual-identity-2023.md) — A 2023 Pepsi identity announcement pairs a bold wordmark and electric blue pulse with can, fleet and digital applications.
+- [Piixpal](../sites/piixpal.md) — 300+ free MIT animated UI components and templates, from pixel characters that live on the page to WebGL hero sections.
 - [Pin UI](../sites/pin-ui.md) — Six playful React components rebuilt from Pinterest interface shots, installed by shadcn URL; MIT per the site terms, brand new.
 - [Pixel Perfect UI](../sites/pixel-perfect.md) — A free React component gallery with live previews, visual controls, source code and shadcn-compatible install commands.
+- [Planes](../sites/useplanes.md) — 230+ animated React components for shadcn/ui and Next.js, shipped as React, Tailwind and Motion source.
 - [Plasma UI](../sites/plasma-ui.md) — React surfaces with WebGL refraction, liquid joins and grid snapping, demonstrated through a material playground and a small workspace.
 - [Playgrnd](../sites/playgrnd.md) — 52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.
 - [Polygonjs](../sites/polygonjs.md) — Node-based 3D editor that compiles scenes into three.js projects; the MIT version is frozen while a paid v2 continues the product.
@@ -190,6 +200,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Rare UI](../sites/rareui.md) — About 20 unusual Motion and Tailwind React components via the shadcn CLI; MIT + Commons Clause + visible attribution.
 - [Rauno's Field Notes #5](../sites/rauno-field-notes-5.md) — A video-backed interaction study of stacked sidebar cards, hover cues, hit areas and dismissal motion.
 - [React Bits](../sites/reactbits.md) — Large catalogue of animated React components and WebGL backgrounds (GSAP, three.js, Framer Motion) with an llms.txt index.
+- [ReactDrops](../sites/reactdrops.md) — React components, animations and effects to preview live and bring into your next project.
 - [Reelfolio](../sites/reelfolio.md) — A showreel maker whose template previews demonstrate ways to stage interface screenshots as short motion sequences.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
 - [Reverse UI](../sites/reverse-ui.md) — 68 animated React feature illustrations and shader effects for SaaS pages; 19 free, the rest a one-time paid licence. MUI and Emotion.
@@ -233,6 +244,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [The Pudding](../sites/the-pudding.md) — Visual essays that turn data and reported stories into distinctive, interactive editorial experiences.
 - [Theatre.js (stale)](../sites/theatrejs.md) — In-browser keyframe editor for THREE.js and R3F scenes; Apache core, AGPL studio, stalled since 2024.
 - [Thinking Orbs](../sites/thinking-orbs.md) — Animated React and JavaScript status indicators for AI interfaces, with a live gallery of states, shapes and rendering styles.
+- [ThorVG Web](../sites/thorvg-web.md) — MIT WASM renderer for Lottie and vector graphics in the browser, with WebGL and WebGPU backends.
 - [Three.js](../sites/threejs.md) — The default MIT WebGL/WebGPU library: 607 examples, an editor, TSL, and an llms.txt with rules for code generators.
 - [Tokokino](../sites/tokokino.md) — A browser editor with reusable device-frame, screenshot and animated product-demo compositions.
 - [Torph](../sites/torph.md) — Dependency-free text morphing for changing labels, with place-value number rolls and springs.
@@ -258,6 +270,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
 - [Wensity UI](../sites/wensity-ui.md) — 115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
+- [WunderUI](../sites/wunderui.md) — Agentic React and Figma design system with 194 components, 285 screens, 181 motion effects, MCP, skills and DESIGN.md.
 - [Zian Lu](../sites/zian-lu.md) — Shanghai designer's portfolio spanning brand identity, typography and motion experiments, with concise credits and project context.
 - [Zoomquilt](../sites/zoomquilt.md) — A collaborative painting built as a seamless infinite zoom, useful for studying continuous visual transitions and layered surreal scenes.
 <!-- atlas:sources:end -->

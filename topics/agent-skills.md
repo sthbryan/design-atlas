@@ -46,10 +46,12 @@ Skills are instruction files (a `SKILL.md`, often with references and scripts) t
 - [Layro](../sites/layro.md) — React component marketplace that coding agents search and install from over MCP, with every component reviewed and runnable in a sandbox first.
 - [LottieFiles Motion Design Skill](../sites/lottiefiles-motion-design.md) — Motion-director skill: four personalities, duration and stagger tables, Disney principles adapted for UI.
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
+- [motion-anything](../sites/motion-anything.md) — Apache-2.0 agentic motion layer. Describe a feeling and a coding agent ships the animation as CSS, React or Lottie.
 - [MotionWiki](../sites/motionwiki.md) — Browse creative systems and free skill previews, or study its own editorial catalog and live project previews for web and brand inspiration.
 - [No AI Slop](../sites/no-ai-slop.md) — Removes AI writing patterns while keeping the writer's voice, and has a detect-only mode.
 - [Nord Design System](../sites/nord-design-system.md) — Nordhealth's health-care design system, with 65 Web Components documented as contracts, status badges and installable agent skills.
 - [Nucleo](../sites/nucleo.md) — A polished SVG icon system with sharply differentiated families, a desktop editor, and an agent workflow for licensed icons.
+- [Oil UI](../sites/oiloil.md) — Open-source UI design skill for Claude Code and Codex that teaches agents to produce designed interfaces.
 - [Shadcn Labs Skills](../sites/shadcn-skills.md) — Six MIT skills: launch a shadcn registry, generate, audit and extend SVG icon sets, Tailwind-to-StyleX.
 - [Skrewww](../sites/skrewww.md) — React design system where one component set adapts through tokens across shape, surface and brand, with contracts agents can read.
 - [Stitch Skills](../sites/stitch-skills.md) — Google Labs' Stitch skills and source of the "Stitch format"; three DESIGN.md writers with different layouts.
@@ -61,6 +63,7 @@ Skills are instruction files (a `SKILL.md`, often with references and scripts) t
 - [UI Skills](../sites/ui-skills.md) — 306 design-engineering skills from 84 authors, with a routing skill, CLI, MCP and 18 real company DESIGN.md files.
 - [UI Taste by Uizze](../sites/ui-taste.md) — Short product-first playbooks for web and iOS UI, with an optional paid MCP of real screens.
 - [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
+- [Unslop](../sites/unslop.md) — Claude skill that turns vibecoded, AI-looking UI into a designed interface, CC-BY-4.0 with 21,785 stars.
 - [Vercel Web Design Guidelines](../sites/vercel-web-design-guidelines.md) — Tiny review skill that fetches Vercel's live Web Interface Guidelines each run and reports terse file:line findings.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
 - [Web Quality Skills](../sites/addy-osmani-web-quality-skills.md) — Addy Osmani's six measurement-first skills: audit with Lighthouse and DevTools, fix, then re-run the same WCAG 2.2 audit.

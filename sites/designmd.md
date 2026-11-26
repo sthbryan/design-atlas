@@ -8,11 +8,11 @@ topics: [design-md, documentation, agents-and-prompts, typography-and-styles]
 verdict: very-useful
 agent: [mcp, cli]
 pricing: free
-licence: free to browse and download; a free API key is needed to use the MCP/CLI for uploading, downloading or deleting. Not indicated for the licence of each individual design system.
+licence: "Free to browse and download, and the MCP key costs nothing. Each uploaded system keeps its own licence, and the ones sampled at review included MIT, CC0, CC-BY and CC-BY-SA, so the licence of the file you take is the one that applies."
 licence_class: not-stated
-reviewed: 2026-09-25
+reviewed: 2026-11-26
 status: active
-related: [vibeprompts, shadcn-ui, uiable, 21st-dev]
+related: [design-md-format, refero-styles, vibeprompts, design-md-chrome]
 ---
 [← Atlas](../site/home.md) · Topics: [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md), [typography-and-styles](../topics/typography-and-styles.md)
 
@@ -53,4 +53,4 @@ There's no explicit licence stated for the code/tokens of each individual design
 
 ## Related
 
-[VibePrompts](vibeprompts.md), [shadcn/ui](shadcn-ui.md), [UIAble](uiable.md), [21st.dev](21st-dev.md)
+[Google's DESIGN.md format](design-md-format.md), [Refero Styles](refero-styles.md), [VibePrompts](vibeprompts.md), [TypeUI DESIGN.md Extractor](design-md-chrome.md)

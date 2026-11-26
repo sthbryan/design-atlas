@@ -39,7 +39,10 @@ How sites document components, design systems and style — for human readers an
 - [Devouring Details](../sites/devouring-details.md) — Rauno Freiberg's paid interactive manual on interaction craft, with 23 chapters and downloadable React prototypes.
 - [Diagram Design](../sites/diagram-design.md) — Agent skill that draws 45 editorial diagram types as self-contained HTML and SVG, brand-matched to your site, installed in one command.
 - [DialKit](../sites/dialkit.md) — MIT live control panel for tuning springs, easing, layout and timelines in React, Vue, Svelte, Solid and plain JS.
+- [dissolve](../sites/dissolve.md) — Open-source animated UI components for React Native and React, copied into your app with an agent prompt and CLI.
 - [Every Layout](../sites/every-layout.md) — Intrinsic CSS layout primitives with free visual examples, interactive demos and configurable generators.
+- [Frame](../sites/framegui.md) — Free open-source native media workspace that converts video, audio and images with FFmpeg, processed locally.
+- [Google's DESIGN.md format](../sites/design-md-format.md) — Apache-2.0 specification and CLI that gives coding agents a persistent, structured description of a visual identity.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [hamur](../sites/hamur.md) — Unstyled accessible components with one shared core and five framework adapters — React, Vue, Svelte, Angular and Solid — under the MIT licence.
 - [IBM Design Language color](../sites/ibm-design-language-color.md) — IBM's color reference shows palette families, accepted gradients, UI themes, accessibility rules and examples in use.
@@ -53,13 +56,17 @@ How sites document components, design systems and style — for human readers an
 - [Mozaika](../sites/mozaika.md) — 588 real products decoded into measured design systems, screens and sections, queryable over MCP with DESIGN.md and token export.
 - [Needle Engine](../sites/needle-engine.md) — Ships 3D scenes to the web from Unity, Blender or code, with a product-led site that shows the editor as the interface.
 - [No AI Slop](../sites/no-ai-slop.md) — Removes AI writing patterns while keeping the writer's voice, and has a detect-only mode.
+- [No AI Slop Manifesto](../sites/slop-manifesto.md) — The No AI Slop manifesto from the AIE Code Summit, a short set of principles for shipping designed interfaces.
 - [Nord Design System](../sites/nord-design-system.md) — Nordhealth's health-care design system, with 65 Web Components documented as contracts, status badges and installable agent skills.
+- [Oil UI](../sites/oiloil.md) — Open-source UI design skill for Claude Code and Codex that teaches agents to produce designed interfaces.
 - [Open UI](../sites/open-ui.md) — Cross-system component research that maps names, visual states and behavior differences for common web controls.
+- [Pacdora](../sites/pacdora.md) — Packaging mockup and dieline template platform with AI packaging design, from boxes and bottles to pouches and cans.
 - [Pajamas Design System](../sites/pajamas.md) — GitLab's design system docs, which switch colour mode and five theme variants live, so the palette is proved rather than described.
 - [Pele](../sites/pele.md) — Renders Mermaid diagrams to SVG synchronously, themed through CSS variables, with no runtime dependencies.
 - [Primer](../sites/primer.md) — GitHub's design system, with tokens, primitives, component docs, UI patterns and an MCP server for agents.
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.
 - [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
+- [SakaniUI](../sites/sakaniui.md) — Token-driven React design system with a Liquid Glass surface layer, 130+ components, 42 blocks and Figma parity.
 - [Sent](../sites/sent.md) — Developer-tool landing page for one SMS, WhatsApp and RCS API, with a cost estimator and a per-country rate sheet instead of plan cards.
 - [Shadcn Labs](../sites/shadcn-labs.md) — Index of the independent Shadcn Labs registries: termcn, pdfcn, emailcn, ogimagecn, shadercn and more.
 - [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
@@ -72,8 +79,12 @@ How sites document components, design systems and style — for human readers an
 - [The Component Gallery](../sites/component-gallery.md) — Reference that compares how 95 design systems name, structure and document the same 60 components.
 - [The Iconography Encyclopedia](../sites/iconography-encyclopedia.md) — An alphabetical field guide to icon design terms, from alignment and anatomy to stroke weight and wayfinding.
 - [Tone.js](../sites/tonejs.md) — MIT Web Audio framework with synths, effects and scheduling, for building interface cues instead of downloading them.
+- [Toolcraft](../sites/toolcraft.md) — Open-source MIT starter kit and UI library for building your own design apps with AI.
+- [Twentyfirst UI](../sites/twentyfirst-ui.md) — Two MIT-licensed React UI kits, Halo and Pro, sharing one component API so a product can swap its look without changing code.
+- [Typographer](../sites/typographer.md) — Font discovery, testing and syncing tool with 10,000+ typefaces and a licence that covers small sites.
 - [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
 - [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
+- [Uwarp](../sites/uwarp.md) — Free collection of browser tools for designers, from image and document converters to icons, colour and media.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
 - [Warp](../sites/warp.md) — Developer site built as a terminal, with bracketed nav keys, numbered figure captions and a YAML file annotated in the margin.
 - [Yaak](../sites/yaak.md) — API client page with a light and dark toggle in the hero preview, numbered capability lines and a versioned changelog used as proof.

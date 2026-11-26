@@ -55,10 +55,12 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [everywhere.tools](../sites/everywhere-tools.md) — Small hand-picked set of 20 experimental type tools, open-source foundries, generative image tools and portfolio builders for designers.
 - [Feather (stale)](../sites/feather.md) — The original 287-icon minimal stroke set that Lucide forked. MIT, still usable, but no new icons since 2022.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
+- [Filmagic](../sites/filmagic.md) — Paste a product URL and get a launch video, with free media tools for compressing, converting and resizing.
 - [Flowbase](../sites/flowbase.md) — Subscription library of 3,500+ Webflow, Figma and Framer sections, wireframes, icons and illustrations; use tied to the plan.
 - [FontFridge](../sites/fontfridge.md) — Google Fonts browser that filters by what type does — OpenType features, variable axes, writing systems, colour — with JSON catalogs for agents.
 - [Fontshare](../sites/fontshare.md) — 100 free families from Indian Type Foundry with a CSS/JSON API; 64 are proprietary with strict no-modify terms.
 - [Fontsource](../sites/fontsource.md) — 2,100 open fonts packaged for self-hosting through npm, plus llms.txt, a read-only API and a versioned CDN.
+- [Frame](../sites/framegui.md) — Free open-source native media workspace that converts video, audio and images with FFmpeg, processed locally.
 - [Free Icon Resources](../sites/free-icon-resources.md) — A categorized index of icon libraries, search tools, generators and learning references for choosing a specific icon source.
 - [Freesound](../sites/freesound.md) — 738,000+ Creative Commons sounds with a v2 API, per-file licences and Gen AI opt-out preferences; downloads need an account.
 - [Fusion Pixel Font](../sites/fusion-pixel-font.md) — Open pixel family in 8, 10 and 12px with pan-Latin and CJK coverage, built from six sources and shipped in eleven file formats.
@@ -70,6 +72,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Halftone Maker](../sites/halftone-maker.md) — Browser studio for vector halftone and stipple images, with shape, grid, colour and sampling controls.
 - [Heroicons (stale)](../sites/heroicons.md) — Tailwind Labs' MIT set of 316 icons, each drawn in outline, solid, mini and micro sizes, with React and Vue packages.
 - [HK Grotesk Wide](../sites/hk-grotesk-wide.md) — A wide display family presented with bold green poster layouts and an editable preview across every weight.
+- [HorizonX](../sites/horizonx.md) — Premium UI kits, textures, shaders and mockups for vibe coders, with React and Tailwind code, Figma and MCP.
 - [HTTP Cats](../sites/http-cats.md) — An image per HTTP status code plus JSON with MDN's description; MIT code, photographs with no separate licence.
 - [Hugeicons](../sites/hugeicons.md) — 60k+ icons in 10 styles; MIT free tier, paid per-seat Pro, official MCP and agent skill.
 - [Icon Foundry](../sites/icon-foundry.md) — Free search across about 49k icons from open sets plus logos; check each source's licence.
@@ -81,6 +84,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Iconsax](../sites/iconsax.md) — Vuesax's six-style icon library with 40k+ icons, a free no-auth MCP server, a web component and a Pro sync CLI.
 - [Icoon](../sites/icoon.md) — About 1,500 AI-generated 3D icons, characters and shapes as PNGs, one-time $29, revocable licence.
 - [Ikonik](../sites/ikonik.md) — 50,000+ icons gathered from 44 open-source packs, with a built-in SVG editor and copy as SVG or JSX; each pack keeps its own free licence.
+- [Illos](../sites/illos.md) — Animated SVG illustrations that stay on-style, generated through skills for Claude Code, Cursor and Codex.
 - [Imageory](../sites/imageory.md) — Small personal gallery of 125 AI-generated backgrounds and textures, each with its full prompt ready to copy; no licence stated.
 - [Inkword](../sites/inkword.md) — Turns one word into a small editable SVG editorial drawing in six fixed styles; private beta.
 - [Insposite](../sites/insposite.md) — Hand-picked list of 70 inspiration sites, designer portfolios and tools for design engineers, with its data file public on GitHub.
@@ -88,6 +92,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [isthereanytool](../sites/isthereanytool.md) — About 1,700 design, craft and AI tools in 19 categories, each with pricing, a why-notable note and a confidence rating; full catalogue in llms-full.txt.
 - [Jitter](../sites/jitter.md) — Browser motion design editor with animation presets, Lottie and video export, and AI features for variations and bulk edits.
 - [Kitbitz](../sites/kitbitz.md) — 2,000+ hand-drawn illustrations with an artisanal, non-digital feel, free with no login required.
+- [Ladybug](../sites/theladybug.md) — Make wild visual effects in the browser, from ASCII and dither to halftone, with no plugins and no AI.
 - [Lapa Ninja](../sites/lapa-ninja.md) — Landing page gallery running since 2015, with about 7,500 curated sites, 15,000+ full-page screenshots, 600+ freebies and a design learning hub.
 - [Light Rails](../sites/light-rails.md) — Interactive editor for shaping animated light patterns with geometry, colour and timing controls, then exporting the result.
 - [Linden Hill](../sites/linden-hill.md) — Serif font specimen with Regular and Italic switching, a detailed glyph map and visual examples of OpenType features.
@@ -105,6 +110,7 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Mixkit Sound Effects](../sites/mixkit-sound-effects.md) — Free .wav and .mp3 sound effects with no sign-up and no attribution, under Envato's Mixkit Free License.
 - [monogram](../sites/monogram.md) — CC0 monospace bitmap font five pixels wide, shipped as TTF, bitmap PNG and JSON, and a PICO-8 font, with an extended family.
 - [Montagu Slab](../sites/montagu-slab.md) — Variable slab serif with a live tester that exposes weight, optical size, spacing and leading across several scripts.
+- [Motificons](../sites/motificons.md) — Search 337,122 open-source icons from 239 sets and restyle them into one consistent look, with an MCP server.
 - [Movulab](../sites/movulab.md) — Browser editor for looping animated type, with effect presets, typography controls and export options.
 - [MX Icons](../sites/mx-icons.md) — About 2,200 soft React icons in six styles labelled MIT; sources not credited.
 - [Nacelle](../sites/nacelle.md) — Japanese type specimen pairing a quiet split layout and oversized word sample with named styles and an OFL licence.
@@ -117,9 +123,11 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Open Foundry](../sites/open-foundry.md) — A long-running curated catalogue of open source typefaces, with a specimen per face and the licence stated on the font page.
 - [OpenShaderLibrary](../sites/openshader-library.md) — 117 shader effects written once and exported for React, React Native and SwiftUI, so web and native apps share the same visuals.
 - [Opensource UI](../sites/opensource-ui.md) — MIT React and Tailwind catalogue of about 190 copy-paste pieces, including device mockups and widgets, with llms.txt and an agent skill.
+- [Pacdora](../sites/pacdora.md) — Packaging mockup and dieline template platform with AI packaging design, from boxes and bottles to pouches and cans.
 - [Painting Loaders](../sites/painterly.md) — Slow p5.brush loaders that paint Monet-style scenes; each copies out as one standalone HTML file.
 - [Paper Animation](../sites/paperanimation.md) — Browser tool that turns one image or word into paper-fold and newspaper-clipping motion clips, exported as MP4 or GIF with a green screen.
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.
+- [Piixpal](../sites/piixpal.md) — 300+ free MIT animated UI components and templates, from pixel characters that live on the page to WebGL hero sections.
 - [Pixel Code](../sites/pixel-code.md) — Monospace pixel typeface built for source code, with eleven weights, programming ligatures and a contextual trick that fakes even kerning.
 - [Playgrnd](../sites/playgrnd.md) — 52 free in-browser generative toys for backgrounds, patterns, posters and textures; no licence published.
 - [Plomb Type](../sites/plomb-type.md) — Lyon type foundry with expressive specimen pages, live text controls, extensive glyph maps and real identity examples.
@@ -144,20 +152,25 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [Simple Icons](../sites/simple-icons.md) — The standard CC0 set of 3,461 one-colour brand logos, with official hex colours and a colour CDN.
 - [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds installed via shadcn CLI; 110 Blizzard clips are non-commercial only.
 - [Spherium](../sites/spherium.md) — A WebGL globe editor for styling world maps as dot fields and exporting the result as SVG.
+- [Stick It Up](../sites/stick-it-up.md) — Free UI sticker component library for React and Next.js with 65+ interactive vinyl-style stickers.
 - [SVG Shapes](../sites/shapes-gallery.md) — Copy-first gallery of 70+ hand-drawn SVG shapes, one click to the clipboard, with a download-all option and no account.
 - [Svgl](../sites/svgl.md) — Searchable brand-logo SVG library with category filters, light and dark variants, copy formats, downloads and an API.
 - [Tabbied](../sites/tabbied.md) — 338 seeded geometric patterns as an MIT npm/React package, with a CLI and a hosted MCP.
 - [Tabler Icons](../sites/tabler-icons.md) — Over 6,200 MIT outline and filled icons on a 2px grid, with packages for every major framework and llms.txt docs.
 - [theSVG](../sites/thesvg.md) — 7,400+ brand and cloud icons with light, dark and wordmark variants, MCP, skill and CLI; licences vary per file.
+- [ThorVG Web](../sites/thorvg-web.md) — MIT WASM renderer for Lottie and vector graphics in the browser, with WebGL and WebGPU backends.
 - [Tokokino](../sites/tokokino.md) — A browser editor with reusable device-frame, screenshot and animated product-demo compositions.
 - [Too Much Type](../sites/too-much-type.md) — Experimental type foundry and specimen lab with interactive variable fonts, browser controls and downloadable font projects.
 - [TOOOLS.design](../sites/toools.md) — A category-indexed directory that points designers to curated galleries, inspiration libraries, icon sets and other design resources.
 - [Tooooools](../sites/tooooools.md) — Free lo-fi effects for photos and video: dithering, stippling, halftone, CRT, ASCII, with SVG export.
+- [Trazo](../sites/trazo.md) — Hand-drawn wax-crayon sticker SVGs for React and the web, recolourable live and installable from npm.
 - [Tripo](../sites/tripo.md) — Text and image to 3D model generator sold in credits, with a per-model price stated on each plan and 8K textures on the top tiers.
+- [Typographer](../sites/typographer.md) — Font discovery, testing and syncing tool with 10,000+ typefaces and a licence that covers small sites.
 - [UI SFX](../sites/uisfx.md) — 78 semantic UI sound cues in 12 swappable packs; MIT runtime, CC0 audio, llms.txt and agent guide.
 - [ui.camera](../sites/ui-camera.md) — Puts UI screenshots in a 3D scene for angled 4K stills and camera-move videos; commercial use needs Pro.
 - [Unscii](../sites/unscii.md) — Bitmapped Unicode fonts in 8×8 and 8×16 cells, built for character-cell art, terminals and programming at fixed sizes.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
+- [Uwarp](../sites/uwarp.md) — Free collection of browser tools for designers, from image and document converters to icons, colour and media.
 - [V-Fonts](../sites/v-fonts.md) — Searchable variable-font catalogue with live specimens, adjustable axes, metadata and per-family licensing links.
 - [Vector Halftone Maker](../sites/vector-halftone-maker.md) — Lightweight browser tool for turning an image into configurable dot grids, pixel-like shapes and PNG or SVG exports.
 - [Velvetyne (broken)](../sites/velvetyne.md) — French libre collective with 41 experimental display faces, mostly OFL; credit requested, don't crawl it.
