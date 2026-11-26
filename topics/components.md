@@ -39,6 +39,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Animated shadcn/ui](../sites/animated-shadcn-ui.md) — Alpha MIT set of stock shadcn/ui components with Motion added, installed via its own CLI or npm package.
 - [Anime.js](../sites/animejs.md) — JavaScript animation engine with fine-grained control over complex sequences and SVG effects, and a clear, well-documented API.
 - [Annnimate](../sites/annnimate.md) — 105 GSAP components in React, Vue and HTML from a studio, with an MCP for paid subscribers.
+- [Ant Design](../sites/ant-design.md) — Enterprise React component library with an official MCP server, CLI and llms.txt, under MIT.
 - [Apple Human Interface Guidelines](../sites/apple-human-interface-guidelines.md) — Apple platform UI reference with concrete examples for color, navigation, controls and adaptive interface states.
 - [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
 - [Arc](../sites/arc-ui.md) — React components and interactive blocks with motion and live examples.

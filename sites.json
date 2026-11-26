@@ -1503,6 +1503,34 @@
       ]
     },
     {
+      "slug": "ant-design",
+      "path": "sites/ant-design.md",
+      "title": "Ant Design",
+      "description": "Enterprise React component library with an official MCP server, CLI and llms.txt, under MIT.",
+      "url": "https://ant.design",
+      "type": "component-library",
+      "formats": "component library · MCP server · CLI · llms.txt",
+      "topics": [
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "cli",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "MIT for the core library, stated in the repository.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "radix",
+        "designmd"
+      ]
+    },
+    {
       "slug": "anthropic-design-plugin",
       "path": "sites/anthropic-design-plugin.md",
       "title": "Anthropic Design Plugin",
@@ -10830,6 +10858,33 @@
         "dataviz-project",
         "ui-playbook",
         "design-mobile-apps"
+      ]
+    },
+    {
+      "slug": "keyline-icons",
+      "path": "sites/keyline-icons.md",
+      "title": "Keyline Icons",
+      "description": "1,940 MIT icons in four styles (stroke, two-tone, duotone, fill) and two corner cuts, with React, CLI, MCP and Iconify.",
+      "url": "https://keylineicons.com",
+      "type": "icon-library",
+      "formats": "icon set · React package · CLI · MCP server · Iconify",
+      "topics": [
+        "icons"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "cli",
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated on the site and in the repository LICENSE; free for commercial and client work with no per-seat terms.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "iconoir",
+        "lucide",
+        "heroicons"
       ]
     },
     {
