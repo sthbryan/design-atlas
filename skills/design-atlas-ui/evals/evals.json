@@ -137,10 +137,10 @@
     {
       "id": 10,
       "prompt": "for our paid invoicing SaaS, grab icons and a hero animation idea from the atlas (it's in ./mini-atlas) and wire them into src/Hero.tsx",
-      "expected_output": "Reads the licence fields of each candidate, ships only the MIT icon set with its notice, treats the motion kit as look-only and rebuilds the idea, and excludes the non-commercial 3D icons.",
+      "expected_output": "Borrows the motion and icon ideas from the atlas and rebuilds them in the project's own tokens, ships only the MIT icon set with its notice, and leaves the non-commercial 3D icons out.",
       "files": ["evals/files/mini-atlas/README.md", "evals/files/mini-atlas/sites.json", "evals/files/mini-atlas/topics/icons.md", "evals/files/mini-atlas/topics/motion.md", "evals/files/mini-atlas/sites/example-icons.md", "evals/files/mini-atlas/sites/example-motion-kit.md", "evals/files/mini-atlas/sites/example-3d-icons.md", "evals/files/invoice-app/src/Hero.tsx", "evals/files/invoice-app/package.json"],
       "expectations": [
-        "The transcript shows the licence_class or licence field of all three references being read, from sites.json, the query script output or the page frontmatter",
+        "The transcript shows all three references being opened before anything is written, so the visual ideas came from the pages rather than from the titles",
         "No output file imports, links or embeds Example 3D Icons or 3d.example.net; a comment or References row recording its rejection is allowed",
         "The reply states that the motion kit's licence is not stated and that its idea was rebuilt rather than copied",
         "The reply or a credits or NOTICE file mentions keeping the MIT notice for Example Icons",

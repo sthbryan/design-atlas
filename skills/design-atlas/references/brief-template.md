@@ -1,6 +1,6 @@
 # Brief template
 
-Fill every section. Write "none" rather than deleting one, so the reader knows it was considered. Keep the whole brief under about 60 lines.
+The brief is the deliverable: what the user builds from. Keep it under about 50 lines.
 
 ## Template
 
@@ -12,33 +12,31 @@ Atlas: <local clone at PATH | raw GitHub, main | bundled snapshot, latest review
 ## Task
 <goal, surface, audience and stack, in one to three lines>
 
-## Constraints
-<ships code or assets? commercial? agent channel needed? budget?>
-
 ## References
-| Reference | Page | Take | Licence | Agent | Reviewed |
-|---|---|---|---|---|---|
-| <title> | `sites/<slug>.md` | <what to use it for, one line> | <class: consequence> | <channels, with any key or plan> | <YYYY-MM-DD> |
+| Reference | What to borrow | Why it fits | Source |
+|---|---|---|---|
+| <title> | <the specific pattern: palette roles, type pairing, spacing, motion> | <one line tying it to this project> | `sites/<slug>.md` + `styles/<slug>.md` or a URL |
 
-## Reusable ideas
-- <idea in your own words> (<site title>)
-
-## Direction options
-<two or three distinct options with reference, fit and tradeoff when the direction is open; recommendation and user choice or stated assumption; otherwise none: direction already specified>
+## Direction
+- Palette: <roles and the accent>
+- Type: <display and body pairing>
+- Spacing and shape: <density, radius>
+- Motion: <timing and what moves>
+- Signature: <the one element this design is remembered by>
 
 ## Live examples
 | Example URL | Observed design move | Adaptation for this project | Visual evidence |
 |---|---|---|---|
-| <individual website URL> | <what you saw in the rendered page> | <how to use the idea with our content> | <browser screenshot or not visually verified> |
+| <individual website URL> | <what you saw in the rendered page> | <how to use the idea with our content> | <screenshot or not visually verified> |
 
-## Licence caveats
-- <reference>: <condition, and where to confirm it>
+## Copying someone's code or assets
+<only when the user will paste code, assets or fonts: which may be taken and which is ideas-only. Otherwise: "None: ideas borrowed, no code or assets copied.">
 
 ## Agent hand-off
 - <install or connect command copied from "Using it with agents", pinned>
 
 ## Not checked
-- <pages not read, licences not re-checked at the site, stale rows>
+- <pages, styles or sites not read, and what would settle them>
 
 ## Next step
 <one line: hand to design-atlas-ui, ask the user a question, or done>
@@ -46,61 +44,72 @@ Atlas: <local clone at PATH | raw GitHub, main | bundled snapshot, latest review
 
 Rules for the cells:
 
-- **Take** says what to use the reference for in this task, with its role: direct reference, discovery source, or both. For discovery, include a useful search term, filter or category URL.
-- **Licence** follows the wording in `licence-guide.md`.
-- **Agent** lists the index's channels. Give each channel its gate as the page states it: an API key, an account, a paid plan, or free with no account. Write "gate not checked" when the page was not read, and "none" for an empty list.
-- **Reviewed** comes from the index, never from today's date.
-- **Reusable ideas** come from the pages' "Reusable ideas" and the hubs' "Patterns worth reusing", paraphrased, with three to six items.
-- **Live examples** identify exactly whose interface was inspected. A gallery or search tool's own UI can be a direct reference; label it as such. For discovery, link and inspect the individual examples it leads to. A gallery thumbnail is a preview, not an inspection of the featured live site. Write `none: non-visual task` when choosing an asset or library by metadata alone.
-- **Direction options** compare design decisions, not just names of sites. Skip a preference question when the user has already specified a direction or asked you to choose.
+- **What to borrow** names a pattern, not a site. "Restrained neutrals with one accent per state" is a borrow; "use Linear" is not. Say whether the source is a direct reference, a discovery source or both, and for discovery add the search term or filter that led to the examples you inspected.
+- **Why it fits** connects the pattern to the user's content, audience or constraints. If it does not fit, it does not belong in the table.
+- **Source** is an atlas page path, a style file path, a URL you opened, or any combination. A pattern with no source is a claim.
+- **Direction** is five lines and no more. It is what makes the brief a design rather than a reading list. Every line should be buildable.
+- **Live examples** identify exactly whose interface was inspected. A gallery's own UI can be a direct reference; label it as such. A thumbnail is a preview, not an inspection. Write `none: non-visual task` when the task is choosing an asset by metadata.
+- **Copying** is the only section about licence. Keep it to one or two lines, and only when something will be pasted.
 
-## Worked example
+## Worked example, inspiration
 
-Request: "Need an icon set I can ship in a commercial React app, ideally one Claude Code can fetch over MCP."
+Request: "We're rebuilding our docs site, it's a developer tool. Want it to feel editorial but still fast to scan."
 
 ```markdown
-# Reference brief: icons for a commercial React app
+# Reference brief: developer docs with an editorial feel
 
 Atlas: local clone at ~/code/design-atlas
 
 ## Task
-Pick an icon set for a commercial React product, with agent access if possible.
-
-## Constraints
-Assets ship in a commercial app; an MCP channel is preferred; no budget stated.
+Docs site for a developer tool: reference pages, guides, changelog. Next.js, no design system yet.
 
 ## References
-| Reference | Page | Take | Licence | Agent | Reviewed |
-|---|---|---|---|---|---|
-| Iconoir | `sites/iconoir.md` | Main outline set, React package with a shared provider | open-source-permissive: ship, keep the MIT notice | none | 2026-09-25 |
-| icons0 | `sites/icons0.md` | Search icons by meaning and fetch single ones | mixed: each collection keeps its own licence | mcp (API key), registry | 2026-09-25 |
-| Carbon Design System | `sites/carbon-design-system.md` | Large icon and pictogram packages | open-source-permissive: ship, keep the Apache-2.0 notice, no IBM marks | mcp (IBMid, access on request), llms-txt, skill | 2026-09-25 |
-| 3dicons | `sites/3dicons.md` | 3D glyphs for marketing sections and empty states | public-domain: ship | none | 2026-09-25 |
+| Reference | What to borrow | Why it fits | Source |
+|---|---|---|---|
+| Stripe Docs | Two-column reading layout with a sticky right rail for anchors; body measure held to about 70 characters | The content is reference-heavy, so scanability beats storytelling | `sites/stripe.md` + URL |
+| Linear | Neutral surfaces with a single accent reserved for state, never for decoration | Keeps a dense tool from looking promotional | `styles/linear.md` |
+| Pond Design | Editorial headline pairing: high-contrast display over a quiet text face | Gives the changelog and guides a voice without slowing the reference pages | `sites/pond-design.md` + URL |
 
-## Reusable ideas
-- Set stroke, size and colour once in a provider instead of on every icon (Iconoir).
-- Have the agent search for an icon before fetching it by name, since names get renamed (icons0).
-- Keep 3D glyphs to medium sizes and marketing surfaces; they blur in dense UI (3dicons).
-
-## Direction options
-none: this task selects an icon package by constraints rather than exploring a visual direction.
+## Direction
+- Palette: bone surface, ink text, one brass accent for links and current state.
+- Type: condensed display for h1 and pull quotes, system sans at 17/28 for body.
+- Spacing and shape: 8px base, generous vertical rhythm, 6px radius, 1px rules only.
+- Motion: 150ms fades on hover and on rail changes; nothing on page load.
+- Signature: a numbered section index in the left rail that tracks the reader.
 
 ## Live examples
-none: non-visual task.
+| Example URL | Observed design move | Adaptation for this project | Visual evidence |
+|---|---|---|---|
+| https://stripe.com/docs/payments | Sticky right rail with active-section marking, body capped at ~70ch | Same rail, but numbered and with our guide order | screenshot, desktop |
+| https://linear.app | Accent used only on the active item and the primary action | Reserve brass for links and current page | screenshot, desktop and 390px |
 
-## Licence caveats
-- icons0: filter to MIT or Apache collections before fetching; some collections are CC BY or GPL.
-- Carbon Design System: Apache-2.0 grants no trademark rights, so keep IBM's name and logo out.
+## Copying someone's code or assets
+None: structure and type pairings are adapted, no code, images or brand marks copied.
 
 ## Agent hand-off
-- Iconoir: install `iconoir-react` at a pinned version; the page has no MCP, so check names against the repo's icon folders.
-- icons0: the MCP needs a token from the site; without it, use the direct registry URL the page gives.
-- Carbon: its packages run a telemetry postinstall script; set `CARBON_TELEMETRY_DISABLED=1` to opt out.
+- Type: use the free substitute named in each style file rather than the commercial original.
 
 ## Not checked
-- Licence pages on the sites were not re-opened; the atlas facts date from 2026-09-25.
-- Individual icons0 collections were not checked.
+- Pond Design was inspected at desktop only; mobile rhythm unverified.
 
 ## Next step
-Hand to design-atlas-ui to wire Iconoir into the app, or confirm the choice first.
+Hand to design-atlas-ui to write DESIGN.md and build the shell.
+```
+
+## Worked example, copying
+
+Request: "Need an icon set I can ship in a commercial React app, ideally one Claude Code can fetch over MCP."
+
+The same template, with the "References" table describing the sets and the "Copying someone's code or assets" section carrying the licence conditions:
+
+| Reference | What to borrow | Why it fits | Source |
+|---|---|---|---|
+| Iconoir | Outline set installed as a React package with one provider for stroke and size | Permissive licence, so it can ship in the product | `sites/iconoir.md` |
+| icons0 | Search by meaning, then fetch the single icon | Agent access without bundling a whole set | `sites/icons0.md` |
+
+```markdown
+## Copying someone's code or assets
+- Iconoir: MIT, ship it and keep the notice.
+- icons0: each collection keeps its own licence; filter to MIT or Apache before fetching.
+- Carbon: Apache-2.0, ship it, but no IBM marks or name.
 ```

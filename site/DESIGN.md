@@ -180,8 +180,8 @@ The identity of the Design Atlas website, a VitePress theme in `site/.vitepress/
 ## Overview
 
 - Surface: reading, with product density on the lists.
-- Audience and job: designers, developers and coding agents picking a reviewed reference and checking its licence and agent channels first, on desktop or phone, in either theme.
-- Subject world: a gilded gazetteer: ruled index columns, mono metadata, survey ticks, dark umber and brass.
+- Audience and job: designers, developers and coding agents picking a reviewed reference and checking its licence and agent channels first, on desktop or phone.
+- Subject world: a gilded gazetteer: ruled index columns, mono metadata, survey ticks, umber ink and brass.
 - Signature element: the gazetteer row. Name and description, then four slots in a fixed order: verdict, licence class, agent channels, reviewed date. A header labels the columns when they fit; a legend explains the licence badges.
 - Home cover: a hero band with the title, the lede and the two ways in, a figures strip counting the catalog (references, hubs, shippable licences, latest review), the five most recent gazetteer rows, and the hubs as a numbered contents page.
 - Share identity: the gazetteer mark is a light/dark SVG favicon; the 1200 × 630 PNG social card repeats the same seal, umber paper, gold ink, brass rule, contour lines and grotesque type, so the favicon and the card read as one identity.
@@ -189,27 +189,27 @@ The identity of the Design Atlas website, a VitePress theme in `site/.vitepress/
 
 ## Colors
 
-Neutrals are bone in light and umber in dark, chroma at or below 0.023 (C3); the accent is brass at hue 78, body text is gold on umber and bronze on bone, and the palest champagne carries the focus ring in dark. Dark surfaces step lighter per level (C6). The dark column is `:root.dark`.
+One theme: bone paper, umber ink, brass for links and marks. Neutrals stay at or below 0.023 chroma and lean warm (C3); the accent is brass at hue 78. There is no dark variant: a second umber palette doubled the surface work and read heavier at reading length, so the site ships the bone identity and the social card keeps the umber-and-gold version for share images. Charts, badges and code blocks all come from these tokens.
 
-| Token | Light | Dark | OKLCH (light) | Job | Pairs (measured) |
-|---|---|---|---|---|---|
-| bg | #F8F7F2 | #1A140E | 0.976 0.007 97 | Page |  |
-| surface | #F1EFE7 | #221A12 | 0.951 0.011 95 | Sidebar, legend, facts panel, table header, code |  |
-| surface-raised | #FFFDF9 | #2A2117 | 0.994 0.006 85 | Topic cards, search field, buttons |  |
-| border | #DFDBCE | #3B2E22 | 0.891 0.018 93 | Row rules and card edges; decorative, below 3:1 on purpose |  |
-| border-control | #837752 | #8E7B5E | 0.571 0.055 92 | Edges of the search field and buttons | ui on bg 4.14:1 / 4.47:1; ui on surface 3.86:1 / 4.20:1; ui on surface-raised 4.37:1 / 3.87:1 |
-| text | #2A2618 | #EDD9A8 | 0.269 0.025 94 | Body, titles, row names | text on bg 14.10:1 / 13.12:1; text on surface 13.13:1 / 12.32:1; text on surface-raised 14.88:1 / 11.36:1; text on accent-soft 12.28:1 / 10.34:1; text on success-soft 12.88:1 / 11.13:1; text on warning-soft 12.72:1 / 11.10:1; text on danger-soft 12.55:1 / 11.41:1 |
-| text-muted | #625C4A | #B9A57E | 0.475 0.029 92 | Descriptions, metadata, look-only badge | text on bg 6.22:1 / 7.60:1; text on surface 5.79:1 / 7.14:1; text on surface-raised 6.56:1 / 6.58:1 |
-| accent | #7E5E14 | #F0C06A | 0.502 0.095 83 | Links, current-page mark, sidebar indicator | text on bg 5.60:1 / 10.83:1; text on surface 5.21:1 / 10.17:1; text on surface-raised 5.91:1 / 9.37:1 |
-| accent-strong | #61470D | #F7D998 | 0.416 0.079 82 | Link hover, search-match text | text on bg 8.11:1 / 13.33:1; text on accent-soft 7.06:1 / 10.51:1 |
-| accent-soft | #F3E7C6 | #33281A | 0.929 0.045 90 | Button hover, search-match highlight |  |
-| focus | #2A2618 | #FFF0C8 | 0.269 0.025 94 | Focus ring only | ui on bg 14.10:1 / 16.13:1; ui on surface 13.13:1 / 15.15:1; ui on surface-raised 14.88:1 / 13.96:1 |
-| success | #2C6A3C | #8FD3A5 | 0.471 0.098 150 | Ship licence badge | text on bg 6.05:1 / 10.46:1; text on success-soft 5.53:1 / 8.87:1 |
-| success-soft | #E1F1E3 | #17281B | 0.942 0.025 149 | Ship badge fill |  |
-| warning | #8A4A00 | #F09A55 | 0.477 0.113 59 | Conditional licence, stale status | text on bg 6.40:1 / 8.22:1; text on warning-soft 5.77:1 / 6.96:1 |
-| warning-soft | #F8EACF | #34200F | 0.941 0.039 84 | Conditional and stale badge fill, warning callout |  |
-| danger | #A93236 | #F28E86 | 0.498 0.155 23 | Broken status | text on bg 6.12:1 / 7.81:1; text on danger-soft 5.45:1 / 6.80:1 |
-| danger-soft | #FBE5E4 | #38191A | 0.939 0.024 21 | Broken badge fill, danger callout |  |
+| Token | Light | OKLCH (light) | Job | Pairs (measured) |
+|---|---|---|---|---|
+| bg | #F8F7F2 | 0.976 0.007 97 | Page |  |
+| surface | #F1EFE7 | 0.951 0.011 95 | Sidebar, legend, facts panel, table header, code |  |
+| surface-raised | #FFFDF9 | 0.994 0.006 85 | Topic cards, search field, buttons |  |
+| border | #DFDBCE | 0.891 0.018 93 | Row rules and card edges; decorative, below 3:1 on purpose |  |
+| border-control | #837752 | 0.571 0.055 92 | Edges of the search field and buttons | ui on bg 4.14:1; ui on surface 3.86:1; ui on surface-raised 4.37:1 |
+| text | #2A2618 | 0.269 0.025 94 | Body, titles, row names | text on bg 14.10:1; text on surface 13.13:1; text on surface-raised 14.88:1; text on accent-soft 12.28:1; text on success-soft 12.88:1; text on warning-soft 12.72:1; text on danger-soft 12.55:1 |
+| text-muted | #625C4A | 0.475 0.029 92 | Descriptions, metadata, look-only badge | text on bg 6.22:1; text on surface 5.79:1; text on surface-raised 6.56:1 |
+| accent | #7E5E14 | 0.502 0.095 83 | Links, current-page mark, sidebar indicator | text on bg 5.60:1; text on surface 5.21:1; text on surface-raised 5.91:1 |
+| accent-strong | #61470D | 0.416 0.079 82 | Link hover, search-match text | text on bg 8.11:1; text on accent-soft 7.06:1 |
+| accent-soft | #F3E7C6 | 0.929 0.045 90 | Button hover, search-match highlight |  |
+| focus | #2A2618 | 0.269 0.025 94 | Focus ring only | ui on bg 14.10:1; ui on surface 13.13:1; ui on surface-raised 14.88:1 |
+| success | #2C6A3C | 0.471 0.098 150 | Ship licence badge | text on bg 6.05:1; text on success-soft 5.53:1 |
+| success-soft | #E1F1E3 | 0.942 0.025 149 | Ship badge fill |  |
+| warning | #8A4A00 | 0.477 0.113 59 | Conditional licence, stale status | text on bg 6.40:1; text on warning-soft 5.77:1 |
+| warning-soft | #F8EACF | 0.941 0.039 84 | Conditional and stale badge fill, warning callout |  |
+| danger | #A93236 | 0.498 0.155 23 | Broken status | text on bg 6.12:1; text on danger-soft 5.45:1 |
+| danger-soft | #FBE5E4 | 0.939 0.024 21 | Broken badge fill, danger callout |  |
 
 ## Typography
 
@@ -329,8 +329,8 @@ Test at 320, 390, 768 and 1280px plus 200% zoom (L3), with no horizontal page sc
 
 | Row | Project value | Reason |
 |---|---|---|
-| C1 | Ink for the focus ring in light, champagne in dark | A brass ring would read as another link state |
-| C5 | Light and dark from `prefers-color-scheme`, no toggle | Long sessions beside light and dark tools |
+| C1 | Ink for the focus ring | A brass ring would read as another link state |
+| C5 | One light theme, no dark variant and no toggle | The umber pass read heavy at reading length and doubled the surface work; the card carries the dark reading instead |
 
 ## References
 

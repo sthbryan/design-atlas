@@ -28,6 +28,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [agentcn](../sites/agentcn.md) — Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
 - [Agents Kit](../sites/agents-kit.md) — 224 registry entries of React components for chat, voice agents, tool approvals and generative UI, copied into your app.
 - [AI Canvas](../sites/aicanvas.md) — Complete React design systems and 98 standalone components for AI coding agents, installed with one command.
+- [Amicro](../sites/amicro.md) — 170+ MIT React micro-interactions on a shadcn registry, with short stated easings, reduced-motion respected and an llms.txt.
 - [Anim8](../sites/anim8.md) — Browser editor that traces video into editable animated SVG and Lottie; MCP and CLI on Pro.
 - [Anima](../sites/anima.md) — UX design agent that turns Figma files, URLs or prompts into production-ready front-end code with brand context.
 - [Annnimate](../sites/annnimate.md) — 105 GSAP components in React, Vue and HTML from a studio, with an MCP for paid subscribers.

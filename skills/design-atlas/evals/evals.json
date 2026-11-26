@@ -10,10 +10,11 @@
         "The brief lists between 2 and 5 references",
         "Every reference cites a sites/<slug>.md path whose slug exists in sites.json",
         "At least one cited site is tagged landing-pages or cta in sites.json",
-        "Every references-table row has a licence_class value and a YYYY-MM-DD reviewed date",
+        "Every references-table row names a pattern to borrow and a source (an atlas page, a style file or a URL that was opened)",
         "The brief states which atlas location was used (local clone, raw GitHub or bundled snapshot)",
         "The transcript shows no more than 2 topics/*.md reads and no more than 5 sites/*.md reads",
-        "The brief has a Not checked section and accurately lists unread pages without implying checked pages were unread"
+        "The brief has a Not checked section and accurately lists unread pages without implying checked pages were unread",
+        "The brief contains a five-line Direction covering palette, type, spacing, motion and a signature element"
       ]
     },
     {
@@ -61,7 +62,7 @@
       "expectations": [
         "At least two cited sites are tagged design-md in sites.json",
         "The transcript shows design-atlas-ui's SKILL.md being read before any DESIGN.md is written, or the response says design-atlas-ui is not installed",
-        "The response warns that brand DESIGN.md examples describe another company's identity and should be used for structure only",
+        "The response says a brand style file may inform structure and palette roles, and that its brand marks and assets are not to be reproduced",
         "This skill's response does not itself contain a full DESIGN.md"
       ]
     },

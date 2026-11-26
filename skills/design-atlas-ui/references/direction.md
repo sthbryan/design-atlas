@@ -1,6 +1,6 @@
 # Direction
 
-How to choose a visual direction: name the surface, look up references in the atlas, respect their licences, and test the plan against the default an agent would produce anyway.
+How to choose a visual direction: name the surface, look up references in the atlas, borrow what fits, and test the plan against the default an agent would produce anyway. Licence is not part of this process; it appears only at the end, when something will be copied.
 
 ## Contents
 
@@ -9,7 +9,7 @@ How to choose a visual direction: name the surface, look up references in the at
 - [Look up references](#look-up-references)
 - [Optional research subagent](#optional-research-subagent)
 - [Inspect live examples](#inspect-live-examples)
-- [Licence hygiene](#licence-hygiene)
+- [Copying, not borrowing](#copying-not-borrowing)
 - [Default fingerprints](#default-fingerprints)
 - [Direction record](#direction-record)
 
@@ -45,17 +45,17 @@ Read the index before pages. Read at most two hubs and five site pages, and cite
    Q=path/to/design-atlas/scripts/query.mjs
    node "$Q" --offline --topics
    node "$Q" --offline --topic landing-pages,cta --min-verdict useful
-   node "$Q" --offline --topic icons --licence ship --full
+   node "$Q" --offline --topic icons --full
    ```
 
    When the script reports `"location":"bundled"`, only the index is on disk. Use its rows, skip steps 3 and 5, and mark each atlas page `page not read` in DESIGN.md. The row's URL can still lead to a live source.
 
-   Without Node or that script, filter `sites.json` at the atlas root on its fields: `type`, `topics`, `verdict`, `agent`, `licence_class`, `status` and `reviewed`.
+   Without Node or that script, filter `sites.json` at the atlas root on its fields: `type`, `topics`, `verdict`, `agent`, `status` and `reviewed`. The licence fields are there if the user will paste code or assets; see "Copying, not borrowing".
 
    ```sh
    jq -r '.topics[] | "\(.slug): \(.description)"' sites.json
    jq -r '.sites[] | select(.topics|index("landing-pages")) | select(.verdict!="niche")
-     | [.path,.type,.licence_class,(.agent|join(",")),.reviewed] | @tsv' sites.json
+     | [.path,.type,(.agent|join(",")),.reviewed] | @tsv' sites.json
    ```
 
 2. **Topics.** Take hub slugs from the index, never from memory. Pick one to three whose description matches the surface and the request.
@@ -66,13 +66,7 @@ Read the index before pages. Read at most two hubs and five site pages, and cite
    sed -n '/^## Start here/,/^## /p' topics/landing-pages.md
    ```
 
-4. **Licence fields.** Before shortlisting a page, read its `licence_class` and `licence` from the index row (`--full` adds `licence`), or from the page's frontmatter:
-
-   ```sh
-   sed -n '2,/^---$/p' sites/iconoir.md | grep -E '^(licence|licence_class|reviewed):'
-   ```
-
-5. **Pages.** List the sections, then read only the ones you need:
+4. **Pages.** List the sections, then read only the ones you need:
 
    ```sh
    grep -n '^## ' sites/ramps.md
@@ -80,7 +74,7 @@ Read the index before pages. Read at most two hubs and five site pages, and cite
 
    Read "When to open it", "Reusable ideas", "Watch out for" and, when an agent will use the tool, "Using it with agents". Skip "What it is" unless the one-liner was unclear.
 
-6. **Record.** For each reference, copy the index row's `sites/<slug>.md` path exactly, then note what you take from it, its `licence_class` and its `reviewed` date. The skill directory and the gallery homepage are not atlas page paths. Counts and prices on a page are true only as of that date.
+5. **Record.** For each reference, copy the index row's `sites/<slug>.md` path exactly, then note what you take from it and the source it came from: a style file from `styles/index.json`, a page or the live URL you opened. The skill directory and the gallery homepage are not atlas page paths. Counts and prices on a page are true only as of that date.
 
 For asset or library selection, prefer variety: a gallery, a tool and an asset source can solve different parts of a task. For visual direction, prioritize a few concrete website examples over a longer list of directories.
 
@@ -88,7 +82,7 @@ For asset or library selection, prefer variety: a gallery, a tool and an asset s
 
 When a new direction needs several Atlas lookups and live-site inspection, delegate that bounded research to one subagent if the host supports it. This keeps the main agent's working context focused on the project. Give the subagent the design brief, audience and constraints, and ask for visual patterns rather than sites that merely share the subject. A small edit or an existing DESIGN.md needs no research delegation.
 
-Ask for a compact handoff of one to three individual examples: Atlas page path (or `outside Atlas`), exact live URL, what was visibly observed at desktop and narrow widths, the design move worth adapting, what should not carry over, licence class and review date or `not checked`. Include screenshots of the actual examples when the browser can capture and share them, with the URL and viewport identified. Keep working screenshots outside the Atlas repository. If screenshots cannot be transferred, say so instead of claiming visual proof.
+Ask for a compact handoff of one to three individual examples: Atlas page path (or `outside Atlas`), exact live URL, what was visibly observed at desktop and narrow widths, the design move worth adapting, and what should not carry over. Include screenshots of the actual examples when the browser can capture and share them, with the URL and viewport identified. Keep working screenshots outside the Atlas repository. If screenshots cannot be transferred, say so instead of claiming visual proof.
 
 The main agent opens the shared screenshots before using the findings, checks that each proposed move fits the project, and records the chosen examples in DESIGN.md. If no visual evidence reaches the main agent, open the strongest example directly or mark the visual judgment `not visually verified`. The main agent still owns implementation and review of the built UI; the research handoff is not a review of the result.
 
@@ -102,15 +96,14 @@ For a new visual direction, the atlas is a map to examples, not the visual evide
 
 If no visual browser is available, use supplied screenshots if any and label the live view `not visually verified`. Say which design judgments remain uncertain; do not claim to have seen a site from its text or thumbnail. Keep the sample small and respect each site's access terms; this is visual research, not crawling.
 
-The atlas's licence class describes the indexed source, not every website featured inside a gallery. Treat those individual sites as inspiration only unless their own rights are checked before reusing code or assets.
+## Copying, not borrowing
 
-## Licence hygiene
+This section applies only when the user will paste someone's code, assets or fonts into the product. Borrowing a look needs none of it: describe the pattern and attribute it.
 
-Ideas are free to take from any reference. Code, fonts, icons, images and sounds are only as free as their licence says.
-
-- The `design-atlas` skill owns the rules that turn a `licence_class` into ship, conditional or look-only. Read its `references/licence-guide.md` before copying anything. In a clone it is `skills/design-atlas/references/licence-guide.md`.
-- If that guide is not available, ship only `public-domain`, `open-source-permissive` and `cc-attribution` material, keeping notices or credit. Treat every other class as look-only and say so.
+- The `design-atlas` skill owns the table that turns a `licence_class` into ship, conditional or ideas-only. Read its `references/licence-guide.md` before copying anything. In a clone it is `skills/design-atlas/references/licence-guide.md`.
+- If that guide is unavailable, ship only `public-domain`, `open-source-permissive` and `cc-attribution` material, keeping notices or credit. Treat every other class as ideas-only and say so in one line.
 - When anything with an attribution duty ships, add an entry to the project's credits or NOTICE file and to the References table in DESIGN.md.
+- From a style file, take structure and role naming only: never its brand marks, images or text, and never republish the file as the brand's own document.
 
 ## Default fingerprints
 
@@ -154,7 +147,7 @@ Audience and job: who uses it, where, and the one thing they came to do.
 Subject world: the materials, conventions or data this look is drawn from.
 Signature element: one element that could only belong to this product.
 Will not: three to five defaults this direction rejects, each specific.
-References: two to five atlas pages (the limit in Look up references), each with what you take and its licence class.
+References: two to five sources (the limit in Look up references), each with what you take and where it came from.
 ```
 
 A good subject world is concrete enough to settle an argument. "The date-due slip" tells you how dates are set and which colour marks what is yours. "Clean and modern" settles nothing.
