@@ -39,7 +39,7 @@ If none exists, say so and write `Atlas not available` in the References section
 
 Read the index before pages. Read at most two hubs and five site pages, and cite at most five atlas sources, unless the user asks for more. These are the same limits the `design-atlas` skill uses.
 
-1. **Query the index.** When the `design-atlas` skill sits beside this skill folder, or the atlas root has `skills/design-atlas/`, run its query script and follow the offline rule in that skill's "Find the atlas first" section. The examples below are the offline form, which reads a local clone or that skill's bundled catalog and nothing else:
+1. **Query the index.** When the `design-atlas` skill sits beside this skill folder, or the atlas root has `skills/design-atlas/`, run its query script and follow the offline rule in that skill's "Find the atlas" section. The examples below are the offline form, which reads a local clone or that skill's bundled catalog and nothing else:
 
    ```sh
    Q=path/to/design-atlas/scripts/query.mjs
