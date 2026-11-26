@@ -7,7 +7,7 @@ description: Two installable agent skills built on the atlas. One finds and insp
 
 Design Atlas publishes two skills in the open Agent Skills format. They are separate on purpose: `design-atlas` owns finding references and the licence rules, `design-atlas-ui` owns the design direction, the build and the verification. Install both when a task needs references and code.
 
-Each skill versions independently: `design-atlas` follows its own 2.x line (currently 2.1.0) and `design-atlas-ui` its own 0.x line (currently 0.4.0), so their numbers will usually differ.
+Each skill versions independently: `design-atlas` follows its own 2.x line (currently 2.2.0) and `design-atlas-ui` its own 0.x line (currently 0.4.0), so their numbers will usually differ.
 
 | The task | The skill |
 |---|---|
@@ -39,7 +39,7 @@ Claude Code can install the atlas as a plugin, which also bundles the pages:
 
 Both installers copy the skill folder only, so the skills still work outside a clone. `design-atlas` falls back to raw GitHub or its bundled catalog, and `design-atlas-ui` carries its own references and `DESIGN.md` validator.
 
-## design-atlas (2.1.0)
+## design-atlas (2.2.0)
 
 Finds sources, then studies real examples.
 
