@@ -70,6 +70,26 @@
   --dur-row-out: 100ms;
 }
 
+:root.dark {
+  --color-bg: #1A140E;
+  --color-surface: #241B12;
+  --color-surface-raised: #2E2115;
+  --color-border: #3B2E22;
+  --color-border-control: #837752;
+  --color-text: #F8F7F2;
+  --color-text-muted: #CFC7B8;
+  --color-accent: #EDD9A8;
+  --color-accent-strong: #F3E7C6;
+  --color-accent-soft: #3B2E22;
+  --color-focus: #F8F7F2;
+  --color-success: #8FD09E;
+  --color-success-soft: #1E3324;
+  --color-warning: #E8B26A;
+  --color-warning-soft: #3A2A14;
+  --color-danger: #F09A9E;
+  --color-danger-soft: #3B1E20;
+}
+
 @media (pointer: coarse) {
   :root {
     --control-height: 44px;
