@@ -38,6 +38,7 @@ GPU effects for the web: shader libraries and registries, WebGL and WebGPU playg
 - [Codrops](../sites/codrops.md) — Creative web demos, interaction tutorials and a handpicked site exhibition for expressive frontend design.
 - [Componentry](../sites/componentry.md) — 53 animated React effects, from text and WebGL hero backgrounds to image effects, installed through the shadcn CLI.
 - [compute.toys](../sites/compute-toys.md) — Browser playground for WebGPU compute shaders in WGSL or Slang: simulations, particles and path tracers to fork.
+- [deck.gl](../sites/deckgl.md) — GPU-powered WebGL/WebGPU framework for large-scale spatial visualization with composable layers and views.
 - [Design DNA](../sites/design-dna.md) — Turns references into a three-part JSON profile (tokens, style, WebGL effects), with measured colours and a ΔE verify loop.
 - [Design Engineer Tools](../sites/designengineer-tools.md) — One-page list of about 128 apps and sites a web design engineer uses, from galleries and component kits to 3D, capture and motion tools.
 - [Drei](../sites/drei.md) — 133 MIT helpers for React Three Fiber (staging, loaders, controls, materials), with llms.txt and a docs MCP.

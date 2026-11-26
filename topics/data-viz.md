@@ -25,6 +25,7 @@ Chart components, dashboard building blocks and small data displays (spark chart
 - [CodePen](../sites/codepen.md) — Public interactive Pens and monthly challenges make it easy to study small web experiments, motion and interface details.
 - [D3](../sites/d3.md) — The library for bespoke data visualisation, with a gallery of notebook examples that doubles as a vocabulary of chart forms.
 - [Data Viz Project](../sites/dataviz-project.md) — A visual index of chart forms with small examples and filters for comparing shape, purpose and input before choosing a display.
+- [deck.gl](../sites/deckgl.md) — GPU-powered WebGL/WebGPU framework for large-scale spatial visualization with composable layers and views.
 - [Detail](../sites/detail.md) — A software-quality landing page built around a stark diagonal chart graphic and short product evidence.
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
 - [ExpoKit](../sites/expokit.md) — Copy-paste UI components, blocks, app templates and charts for Expo and React Native, added with a CLI.
@@ -37,6 +38,7 @@ Chart components, dashboard building blocks and small data displays (spark chart
 - [MLX.fast](../sites/mlx-fast.md) — Live MLX optimization challenge with a paired performance chart, model filters and a detailed contribution leaderboard.
 - [Nex UI (broken)](../sites/nex-ui.md) — About 100 shadcn-style React and Tailwind components including 23 charts; MIT claimed without a LICENSE file and the CLI registry is empty.
 - [nivo](../sites/nivo.md) — React chart components built on D3, with a gallery that shows about thirty chart types, each documented and themable.
+- [Observable Plot](../sites/observable-plot.md) — Concise JavaScript library for legible exploratory charts built from layered marks, scales and facets.
 - [Pele](../sites/pele.md) — Renders Mermaid diagrams to SVG synchronously, themed through CSS variables, with no runtime dependencies.
 - [Spacedrive](../sites/spacedrive.md) — File app page whose hero is a device dashboard, with one card per machine and cloud, each showing connection state, storage bar and folder chips.
 - [Spherium](../sites/spherium.md) — A WebGL globe editor for styling world maps as dot fields and exporting the result as SVG.

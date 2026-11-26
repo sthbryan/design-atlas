@@ -30,6 +30,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Agents Kit](../sites/agents-kit.md) — 224 registry entries of React components for chat, voice agents, tool approvals and generative UI, copied into your app.
 - [Ahmad Shadeed](../sites/ishadeed.md) — Hands-on CSS layout articles and an interactive lab for inspecting modern selectors, grids and container queries.
 - [AI Canvas](../sites/aicanvas.md) — Complete React design systems and 98 standalone components for AI coding agents, installed with one command.
+- [ai2](../sites/ai2.md) — Agent-native shadcn-compatible component system with variant matrices, one token source and an MCP registry.
 - [Amacro](../sites/amacro.md) — 86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.
 - [Amicro](../sites/amicro.md) — 170+ MIT React micro-interactions on a shadcn registry, with short stated easings, reduced-motion respected and an llms.txt.
 - [Angular Native](../sites/angular-native.md) — Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.
@@ -42,6 +43,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Apple Human Interface Guidelines](../sites/apple-human-interface-guidelines.md) — Apple platform UI reference with concrete examples for color, navigation, controls and adaptive interface states.
 - [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
 - [Arc](../sites/arc-ui.md) — React components and interactive blocks with motion and live examples.
+- [assistant-ui](../sites/assistant-ui.md) — React primitives and runtime for production AI chat, with CLI-copied source, llms.txt and optional Cloud.
 - [Astryx](../sites/astryx.md) — Meta's React design system with rich form controls, strong accessibility hooks and a plugin-based table.
 - [Atelier UI](../sites/atelier-ui.md) — An interactive library of shader and motion components with a live preview, adjustable controls and copyable implementation prompts.
 - [Atlassian Design](../sites/atlassian-design.md) — Atlassian's design system: tokens, primitives, component guidelines and accessibility rules, with llms.txt files for agents.
@@ -144,6 +146,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
 - [Lab01](../sites/lab01.md) — Sebastiano Guerriero's 12 live web-app UI experiments, each with its icons, fonts and palette listed.
 - [Landingfolio](../sites/landingfolio.md) — Landing page and section galleries with an MCP that returns screenshots, categories and source links to coding agents.
+- [Layout UI](../sites/layout-ui.md) — Reskinnable component system on Base UI with semantic tokens, a layout.md theme kit, registry and MCP.
 - [Layro](../sites/layro.md) — React component marketplace that coding agents search and install from over MCP, with every component reviewed and runnable in a sandbox first.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
@@ -191,6 +194,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Pajamas Design System](../sites/pajamas.md) — GitLab's design system docs, which switch colour mode and five theme variants live, so the palette is proved rather than described.
 - [PanelUI](../sites/panelui.md) — MIT React Native component library for Expo, with Tailwind styling, live examples and agent resources.
 - [Paper Shaders](../sites/paper-shaders.md) — 30 zero-dependency WebGL2 canvas shaders for React or vanilla JS, Apache-2.0, with a full prop reference in llms.txt.
+- [Park UI](../sites/park-ui.md) — Source-distributed component system on Ark UI and Panda CSS, with CLI install and docs as markdown.
 - [pdfcn](../sites/pdfcn.md) — React PDF primitives and 20 invoice/report/label templates for Takumi or Forme, installed via shadcn CLI.
 - [Penpot](../sites/penpot.md) — MPL-2.0, self-hostable Figma alternative with CSS Flex/Grid layout, W3C-format design tokens and an official MCP server.
 - [Phosphor](../sites/phosphor.md) — MIT icon family of about 1,500 glyphs in six weights, from thin to duotone, with React, Vue, Flutter, Swift and web font packages.
@@ -259,6 +263,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Transitions.dev](../sites/transitions-dev.md) — Curated product-UI transitions as portable CSS, with an agent skill, CLI and live Refine timeline.
 - [Trazo](../sites/trazo.md) — Hand-drawn wax-crayon sticker SVGs for React and the web, recolourable live and installable from npm.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
+- [tweakcn](../sites/tweakcn.md) — Visual theme editor for shadcn/ui that previews tokens in context and exports CSS or a registry command.
 - [Twentyfirst UI](../sites/twentyfirst-ui.md) — Two MIT-licensed React UI kits, Halo and Pro, sharing one component API so a product can swap its look without changing code.
 - [U.S. Web Design System](../sites/uswds.md) — Federal design system with live component previews, configurable tokens and restrained, accessible page patterns.
 - [uberdesigner](../sites/uberdesigner.md) — 200+ AI website templates and UI components, each a prompt for Claude, Codex or Cursor plus a Vite and React project.

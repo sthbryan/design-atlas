@@ -40,6 +40,7 @@ Design systems written as a single markdown file an agent can read: the librarie
 - [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
 - [Impeccable](../sites/impeccable.md) — Apache-2.0 design skill with 24 commands, a deterministic slop detector for CI, and PRODUCT.md/DESIGN.md context.
 - [Inspo](../sites/inspo.md) — Searchable archive of production-site screens with live-source links, extracted design profiles and a free hosted MCP.
+- [Layout UI](../sites/layout-ui.md) — Reskinnable component system on Base UI with semantic tokens, a layout.md theme kit, registry and MCP.
 - [Mozaika](../sites/mozaika.md) — 588 real products decoded into measured design systems, screens and sections, queryable over MCP with DESIGN.md and token export.
 - [Neuform](../sites/neuform.md) — Remixable AI-generated landing pages with per-template design breakdowns and 71 copyable prompt skills.
 - [OpenDesign](../sites/open-design.md) — Apache-2.0 local design engine for coding agents, with 151 forkable DESIGN.md packages and MCP.
@@ -52,6 +53,7 @@ Design systems written as a single markdown file an agent can read: the librarie
 - [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.
 - [UI Skills](../sites/ui-skills.md) — 306 design-engineering skills from 84 authors, with a routing skill, CLI, MCP and 18 real company DESIGN.md files.
 - [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
+- [Ultimate Tokens](../sites/ultimate-tokens.md) — HCT palette and design-token generator exporting CSS, Tailwind, DTCG and DESIGN.md, with a brand-kit MCP.
 - [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
 - [Vibrant Design](../sites/vibrant-design.md) — Curated library of websites, sections and launch videos that turns each design into build notes and a DESIGN.md for coding agents.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.

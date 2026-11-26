@@ -112,6 +112,8 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [marked.dev](../sites/marked.md) — Save interfaces, interactions and motion from the web into collections your coding agent can read over MCP.
 - [Mascofast](../sites/mascofast.md) — Paid AI tool that turns text or photos into mascots, exported as transparent GIF, WebM or Lottie.
 - [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
+- [MengTo Skills](../sites/mengto-skills.md) — MIT collection of agent skills for UI work: design-first prompting, Three.js scenes, capture and prompt workflows.
+- [Mintlify](../sites/mintlify.md) — Hosted documentation platform built for agents: MCP server, llms.txt, API playground and Git-based markdown.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motificons](../sites/motificons.md) — Search 337,122 open-source icons from 239 sets and restyle them into one consistent look, with an MCP server.
 - [Motion](../sites/motion-dev.md) — Former Framer Motion for React, JS and Vue: MIT core, free docs MCP and skill, paid Motion+ extras.

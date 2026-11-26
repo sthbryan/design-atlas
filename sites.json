@@ -837,6 +837,35 @@
       ]
     },
     {
+      "slug": "agent-elements",
+      "path": "sites/agent-elements.md",
+      "title": "Agent Elements",
+      "description": "Copyable chat and agent UI components for shadcn/ui: tool cards, streaming states, plan approvals and diffs.",
+      "url": "https://agent-elements.21st.dev",
+      "type": "component-library",
+      "formats": "component library · shadcn registry · MCP server · skill",
+      "topics": [
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry",
+        "mcp",
+        "cli",
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "MIT for the open-source component collection, stated in the repository. Components copied into a project stay under their licence notices.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "21st-dev",
+        "agents-kit",
+        "shadcn-ui"
+      ]
+    },
+    {
       "slug": "agentation",
       "path": "sites/agentation.md",
       "title": "Agentation",
@@ -957,6 +986,35 @@
       ]
     },
     {
+      "slug": "ai2",
+      "path": "sites/ai2.md",
+      "title": "ai2",
+      "description": "Agent-native shadcn-compatible component system with variant matrices, one token source and an MCP registry.",
+      "url": "https://ai2.design",
+      "type": "component-library",
+      "formats": "component library · shadcn registry · MCP server",
+      "topics": [
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry",
+        "cli",
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "freemium",
+      "licence": "the open core is MIT for components and tokens. Pro blocks, premium themes and kits carry a separate commercial licence; purchases were described as opening at launch, so check the pricing page before relying on Pro.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "radix",
+        "component-gallery"
+      ]
+    },
+    {
       "slug": "aicanvas",
       "path": "sites/aicanvas.md",
       "title": "AI Canvas",
@@ -983,6 +1041,33 @@
         "shadcn-ui",
         "magicpath",
         "bluma"
+      ]
+    },
+    {
+      "slug": "aiverse",
+      "path": "sites/aiverse.md",
+      "title": "Aiverse",
+      "description": "AI UX patterns framework with 40 patterns across five interaction phases, backed by 300+ product examples.",
+      "url": "https://aiverse.design/patterns",
+      "type": "pattern-library",
+      "formats": "pattern library · examples · MCP (Pro)",
+      "topics": [
+        "ux-patterns",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "platform materials and patterns are owned or licensed by Aiverse for limited subscriber use. It is not an open content licence, so describe patterns in your own words and check the terms before reusing content.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "laws-of-ux",
+        "agents-kit",
+        "designmd"
       ]
     },
     {
@@ -1942,6 +2027,35 @@
       "related": [
         "animesh-thakur",
         "wall-of-portfolios"
+      ]
+    },
+    {
+      "slug": "assistant-ui",
+      "path": "sites/assistant-ui.md",
+      "title": "assistant-ui",
+      "description": "React primitives and runtime for production AI chat, with CLI-copied source, llms.txt and optional Cloud.",
+      "url": "https://www.assistant-ui.com",
+      "type": "component-library",
+      "formats": "component library · runtime · CLI · MCP · API",
+      "topics": [
+        "ai-interfaces",
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "cli",
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "MIT for the open-source library, stated in the repository. Assistant Cloud is a separate hosted product with its own terms.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "agents-kit",
+        "21st-dev",
+        "shadcn-ui"
       ]
     },
     {
@@ -4925,6 +5039,31 @@
       ]
     },
     {
+      "slug": "deckgl",
+      "path": "sites/deckgl.md",
+      "title": "deck.gl",
+      "description": "GPU-powered WebGL/WebGPU framework for large-scale spatial visualization with composable layers and views.",
+      "url": "https://deck.gl",
+      "type": "js-library",
+      "formats": "visualization framework · npm package · Python bindings",
+      "topics": [
+        "data-viz",
+        "3d-and-shaders"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "MIT for the core framework. Map provider and basemap costs are separate.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "observable-plot",
+        "threejs",
+        "component-gallery"
+      ]
+    },
+    {
       "slug": "departure-mono",
       "path": "sites/departure-mono.md",
       "title": "Departure Mono",
@@ -7824,6 +7963,34 @@
       ]
     },
     {
+      "slug": "fumadocs",
+      "path": "sites/fumadocs.md",
+      "title": "Fumadocs",
+      "description": "React documentation framework with llms.txt, MCP server, WebMCP and a CLI that installs UI as owned code.",
+      "url": "https://www.fumadocs.dev",
+      "type": "documentation",
+      "formats": "docs framework · CLI · llms.txt · MCP server",
+      "topics": [
+        "documentation"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "cli",
+        "llms-txt",
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "MIT for the framework, stated in the repository.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "designmd",
+        "component-gallery",
+        "radix"
+      ]
+    },
+    {
       "slug": "fuser",
       "path": "sites/fuser.md",
       "title": "Fuser",
@@ -8875,6 +9042,31 @@
       ]
     },
     {
+      "slug": "hax-toolkit",
+      "path": "sites/hax-toolkit.md",
+      "title": "HAX Toolkit",
+      "description": "Interactive library connecting Microsoft's 18 Guidelines for Human-AI Interaction to patterns and examples.",
+      "url": "https://www.microsoft.com/en-us/haxtoolkit/library/pattern",
+      "type": "guidelines",
+      "formats": "guidelines · pattern library · examples",
+      "topics": [
+        "ux-patterns",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Not stated on the pages reviewed at review; treat the content as a reference, not a reusable asset.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "laws-of-ux",
+        "agents-kit",
+        "designmd"
+      ]
+    },
+    {
       "slug": "hazeover",
       "path": "sites/hazeover.md",
       "title": "HazeOver",
@@ -9283,6 +9475,30 @@
         "browse-cool",
         "minimal-gallery",
         "design-spells"
+      ]
+    },
+    {
+      "slug": "howlerjs",
+      "path": "sites/howlerjs.md",
+      "title": "Howler.js",
+      "description": "Small Web Audio playback library with HTML5 fallback, sprites and spatial audio, under MIT.",
+      "url": "https://howlerjs.com",
+      "type": "js-library",
+      "formats": "audio library · npm package · CDN",
+      "topics": [
+        "sound"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "MIT for the library, stated in the repository. Sound files used with it keep their own terms.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "freesound",
+        "mixkit-sound-effects",
+        "audiocn"
       ]
     },
     {
@@ -11505,6 +11721,36 @@
       ]
     },
     {
+      "slug": "layout-ui",
+      "path": "sites/layout-ui.md",
+      "title": "Layout UI",
+      "description": "Reskinnable component system on Base UI with semantic tokens, a layout.md theme kit, registry and MCP.",
+      "url": "https://ui.layout.design",
+      "type": "component-library",
+      "formats": "component library · theme kits · registry · MCP server · CLI",
+      "topics": [
+        "components",
+        "design-md"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "cli",
+        "mcp",
+        "registry",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "MIT for the repository (uselayout/ui); the site itself states no separate reuse terms.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "designmd",
+        "radix"
+      ]
+    },
+    {
       "slug": "layro",
       "path": "sites/layro.md",
       "title": "Layro",
@@ -12810,6 +13056,33 @@
       ]
     },
     {
+      "slug": "mengto-skills",
+      "path": "sites/mengto-skills.md",
+      "title": "MengTo Skills",
+      "description": "MIT collection of agent skills for UI work: design-first prompting, Three.js scenes, capture and prompt workflows.",
+      "url": "https://github.com/MengTo/Skills",
+      "type": "agent-skill-collection",
+      "formats": "agent skills · prompt library · reference gallery",
+      "topics": [
+        "agent-skills",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated in the repository LICENSE.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "typeui",
+        "design-md-chrome",
+        "agents-kit"
+      ]
+    },
+    {
       "slug": "menubarx",
       "path": "sites/menubarx.md",
       "title": "MenubarX",
@@ -13070,6 +13343,35 @@
         "siteinspire",
         "minimal-gallery",
         "landingfolio"
+      ]
+    },
+    {
+      "slug": "mintlify",
+      "path": "sites/mintlify.md",
+      "title": "Mintlify",
+      "description": "Hosted documentation platform built for agents: MCP server, llms.txt, API playground and Git-based markdown.",
+      "url": "https://www.mintlify.com",
+      "type": "documentation",
+      "formats": "docs platform · MCP server · llms.txt · API",
+      "topics": [
+        "documentation",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "the hosted platform's terms were not found stated at review for content reuse; your docs content stays in Git as markdown, which you own and can move to another platform.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "fumadocs",
+        "designmd",
+        "component-gallery"
       ]
     },
     {
@@ -14393,6 +14695,30 @@
       ]
     },
     {
+      "slug": "observable-plot",
+      "path": "sites/observable-plot.md",
+      "title": "Observable Plot",
+      "description": "Concise JavaScript library for legible exploratory charts built from layered marks, scales and facets.",
+      "url": "https://observablehq.com/plot",
+      "type": "js-library",
+      "formats": "charting library · npm package · CDN",
+      "topics": [
+        "data-viz"
+      ],
+      "verdict": "very-useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "ISC for the library, stated in the repository. Observable's hosted collaboration plans are separate.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "deckgl",
+        "threejs",
+        "component-gallery"
+      ]
+    },
+    {
       "slug": "obsidianui",
       "path": "sites/obsidianui.md",
       "title": "ObsidianUI",
@@ -15458,6 +15784,32 @@
       "related": [
         "promo-ai-videos",
         "morphicons"
+      ]
+    },
+    {
+      "slug": "park-ui",
+      "path": "sites/park-ui.md",
+      "title": "Park UI",
+      "description": "Source-distributed component system on Ark UI and Panda CSS, with CLI install and docs as markdown.",
+      "url": "https://park-ui.com",
+      "type": "component-library",
+      "formats": "component library · source distribution · CLI · Figma kit",
+      "topics": [
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated in the repository and docs.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "radix",
+        "component-gallery"
       ]
     },
     {
@@ -20868,6 +21220,33 @@
       ]
     },
     {
+      "slug": "tweakcn",
+      "path": "sites/tweakcn.md",
+      "title": "tweakcn",
+      "description": "Visual theme editor for shadcn/ui that previews tokens in context and exports CSS or a registry command.",
+      "url": "https://tweakcn.com",
+      "type": "tool",
+      "formats": "theme editor · shadcn themes · CSS export · registry",
+      "topics": [
+        "color",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "registry"
+      ],
+      "pricing": "freemium",
+      "licence": "the app repository is Apache-2.0. Reuse terms for individual community theme presets are not stated, so check the preset before shipping it.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "shadcn-ui",
+        "radix",
+        "designmd"
+      ]
+    },
+    {
       "slug": "twentyfirst-ui",
       "path": "sites/twentyfirst-ui.md",
       "title": "Twentyfirst UI",
@@ -21598,6 +21977,33 @@
         "thinkui",
         "marked",
         "mobbin"
+      ]
+    },
+    {
+      "slug": "ultimate-tokens",
+      "path": "sites/ultimate-tokens.md",
+      "title": "Ultimate Tokens",
+      "description": "HCT palette and design-token generator exporting CSS, Tailwind, DTCG and DESIGN.md, with a brand-kit MCP.",
+      "url": "https://github.com/kimgranlund/ultimate-tokens",
+      "type": "tool",
+      "formats": "token generator · web app · web component · Figma plugin · MCP server",
+      "topics": [
+        "color",
+        "design-md"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "free",
+      "licence": "MIT, stated in the repository LICENSE.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "design-md-format",
+        "designmd",
+        "typeui"
       ]
     },
     {
