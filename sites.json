@@ -16028,7 +16028,7 @@
       "description": "2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.",
       "url": "https://styles.refero.design",
       "type": "style-library",
-      "formats": "style library · AI-readable documentation · registry",
+      "formats": "style library · AI-readable documentation · registry · per-style markdown files",
       "topics": [
         "design-md",
         "documentation",
@@ -16040,9 +16040,9 @@
         "mcp"
       ],
       "pricing": "not-stated",
-      "licence": "Not stated (site is in beta, \"new styles added every week\")",
+      "licence": "Not stated (site is in beta, \"new styles added every week\"). The exported files carry no licence of their own, only a link to the style page they came from, so treat them as look-only until the site says otherwise.",
       "licence_class": "not-stated",
-      "reviewed": "2026-11-11",
+      "reviewed": "2026-11-26",
       "status": "active",
       "related": [
         "kage",
