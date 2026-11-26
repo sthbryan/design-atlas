@@ -20,14 +20,17 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 ## All sources
 
 <!-- atlas:sources:start -->
+- [Agent Elements](../sites/agent-elements.md) — Copyable chat and agent UI components for shadcn/ui: tool cards, streaming states, plan approvals and diffs.
 - [Agentation](../sites/agentation.md) — React toolbar that turns click-to-annotate feedback into selectors and file paths agents can act on over MCP.
 - [agentcn](../sites/agentcn.md) — Backend agent recipes in shadcn format (19 recipes × 4 frameworks), including one that extracts a DESIGN.md; no UI.
 - [Agents Kit](../sites/agents-kit.md) — 224 registry entries of React components for chat, voice agents, tool approvals and generative UI, copied into your app.
 - [AI Canvas](../sites/aicanvas.md) — Complete React design systems and 98 standalone components for AI coding agents, installed with one command.
 - [AI UX Playground](../sites/ai-ux-playground.md) — A practical AI-interface reference with named patterns, live interaction demos, product teardowns, and agent skills.
+- [Aiverse](../sites/aiverse.md) — AI UX patterns framework with 40 patterns across five interaction phases, backed by 300+ product examples.
 - [AlternativeTo](../sites/alternativeto-site.md) — A searchable software directory that helps designers discover comparable products, interfaces and further visual references.
 - [Anima](../sites/anima.md) — UX design agent that turns Figma files, URLs or prompts into production-ready front-end code with brand context.
 - [apmix.ai](../sites/apmix.md) — An AI API landing page that pairs a geometric mesh with side-by-side terminal sessions and a usage dashboard.
+- [assistant-ui](../sites/assistant-ui.md) — React primitives and runtime for production AI chat, with CLI-copied source, llms.txt and optional Cloud.
 - [Auri (auri.ai)](../sites/auri.md) — Interactive demos of an AI keyboard, visual chat and notes show how assistant features can fit into everyday writing flows.
 - [Banani](../sites/banani.md) — Public UI-screen references and an AI editor for turning prompts or screenshots into editable prototypes.
 - [Beautiful UI](../sites/beautiful-ui.md) — 21 polished MIT shadcn components for agent UIs: thinking states, approvals, tool chips, task rows, diff tables and a prompt bar.
@@ -46,6 +49,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Google Stitch](../sites/stitch.md) — Google's AI interface design tool with a canvas, design-to-code output, an MCP server and an Apache-licensed skills repo.
 - [Halaska UI](../sites/halaska-ui.md) — MIT React kit for AI products, pairing live sample screens with reusable interaction patterns and components.
 - [Handy](../sites/handy.md) — Open-source speech-to-text app that pastes what you say into the focused field, sold on privacy and a single push-to-talk shortcut.
+- [HAX Toolkit](../sites/hax-toolkit.md) — Interactive library connecting Microsoft's 18 Guidelines for Human-AI Interaction to patterns and examples.
 - [HextaUI](../sites/hexta-ui.md) — shadcn/ui blocks for AI chat interfaces, covering streaming, tool calls, voice and agent states, with an MCP server and Markdown docs.
 - [IconMind](../sites/iconmind.md) — 5,287 open-source icons for AI-era software, in outline and duotone across three weights.
 - [Illos](../sites/illos.md) — Animated SVG illustrations that stay on-style, generated through skills for Claude Code, Cursor and Codex.

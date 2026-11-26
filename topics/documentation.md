@@ -42,6 +42,7 @@ How sites document components, design systems and style — for human readers an
 - [dissolve](../sites/dissolve.md) — Open-source animated UI components for React Native and React, copied into your app with an agent prompt and CLI.
 - [Every Layout](../sites/every-layout.md) — Intrinsic CSS layout primitives with free visual examples, interactive demos and configurable generators.
 - [Frame](../sites/framegui.md) — Free open-source native media workspace that converts video, audio and images with FFmpeg, processed locally.
+- [Fumadocs](../sites/fumadocs.md) — React documentation framework with llms.txt, MCP server, WebMCP and a CLI that installs UI as owned code.
 - [Google's DESIGN.md format](../sites/design-md-format.md) — Apache-2.0 specification and CLI that gives coding agents a persistent, structured description of a visual identity.
 - [GPUI Kit](../sites/gpui-kit.md) — A Rust desktop UI framework showcase with component examples, theme controls, docking, data tables and application stories.
 - [hamur](../sites/hamur.md) — Unstyled accessible components with one shared core and five framework adapters — React, Vue, Svelte, Angular and Solid — under the MIT licence.
@@ -50,6 +51,7 @@ How sites document components, design systems and style — for human readers an
 - [Josh W. Comeau](../sites/josh-w-comeau.md) — Interactive CSS guides where you can resize layouts, change rules and inspect the resulting interface.
 - [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
 - [mdxcn](../sites/mdxcn.md) — Callouts, steps, terminals, timelines and charts for MDX, drawn with text and installed through the shadcn CLI.
+- [Mintlify](../sites/mintlify.md) — Hosted documentation platform built for agents: MCP server, llms.txt, API playground and Git-based markdown.
 - [model-viewer](../sites/model-viewer.md) — Web component documentation for showing interactive 3D models in a page or in AR, with a quick start, examples and FAQ.
 - [Modern CSS Solutions](../sites/modern-css.md) — Practical CSS references with rendered examples for responsive layouts, components, typography and interaction states.
 - [Morphrig](../sites/morphrig.md) — Interactive manual on how SVG icon morphing works, with measured browser findings and llms-full.txt.

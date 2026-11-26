@@ -70,7 +70,9 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [Spotify Wrapped 2021](../sites/spotify-wrapped-2021.md) — Spotify’s 2021 Wrapped interview explains a campaign-specific ribbon, symbols, motion and digital applications through contemporary examples.
 - [Starbucks Holiday Ad (2024)](../sites/starbucks-holiday-ad-2024.md) — A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
+- [tweakcn](../sites/tweakcn.md) — Visual theme editor for shadcn/ui that previews tokens in context and exports CSS or a registry command.
 - [U.S. Web Design System](../sites/uswds.md) — Federal design system with live component previews, configurable tokens and restrained, accessible page patterns.
+- [Ultimate Tokens](../sites/ultimate-tokens.md) — HCT palette and design-token generator exporting CSS, Tailwind, DTCG and DESIGN.md, with a brand-kit MCP.
 - [Usecolor](../sites/usecolor.md) — OKLCH palette generator by Imperavi that builds tonal scales, semantic roles and chart-ready sets, with colour-blindness simulation.
 - [Uwarp](../sites/uwarp.md) — Free collection of browser tools for designers, from image and document converters to icons, colour and media.
 - [Vector Halftone Maker](../sites/vector-halftone-maker.md) — Lightweight browser tool for turning an image into configurable dot grids, pixel-like shapes and PNG or SVG exports.

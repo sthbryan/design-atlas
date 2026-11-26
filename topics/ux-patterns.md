@@ -24,6 +24,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [abtest.design](../sites/abtest-design.md) — Curated index of A/B tests from real apps, each card naming the change, the company and the measured lift.
 - [AccessLint Skills](../sites/accesslint-skills.md) — Five WCAG-EM accessibility skills (scan, inspect, audit, fix, diff) that grade every finding by evidence.
 - [AI UX Playground](../sites/ai-ux-playground.md) — A practical AI-interface reference with named patterns, live interaction demos, product teardowns, and agent skills.
+- [Aiverse](../sites/aiverse.md) — AI UX patterns framework with 40 patterns across five interaction phases, backed by 300+ product examples.
 - [Angular Native](../sites/angular-native.md) — Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.
 - [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
 - [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
@@ -60,6 +61,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Great Apps](../sites/great-apps.md) — A small, opinionated gallery of about 216 well-crafted indie iOS apps, from the curator of Sections.wtf.
 - [Gummble](../sites/gummble.md) — Explore app screenshots and complete mobile and web flows with filters for platform, category and interface pattern.
 - [Harshit Raghuwanshi](../sites/harshit-raghuwanshi.md) — A developer portfolio mixing a pixel-art workstation banner, modular project cards and a compact command palette.
+- [HAX Toolkit](../sites/hax-toolkit.md) — Interactive library connecting Microsoft's 18 Guidelines for Human-AI Interaction to patterns and examples.
 - [Headless UI](../sites/headless-ui.md) — Tailwind Labs' small set of unstyled accessible React components, styled through data attributes.
 - [ibelick UI Skills](../sites/ibelick-ui-skills.md) — Seven short MIT skills: baseline-ui rules, motion-performance and accessibility fixes, and an evidence-gated improve-ui auditor.
 - [Impeccable](../sites/impeccable.md) — Apache-2.0 design skill with 24 commands, a deterministic slop detector for CI, and PRODUCT.md/DESIGN.md context.
