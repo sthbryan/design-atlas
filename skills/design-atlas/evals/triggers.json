@@ -20,5 +20,9 @@
   {"query": "review the accessibility of the signup form running on localhost:3000", "should_trigger": false},
   {"query": "set up the Figma MCP server in Claude Code so I can pull frames", "should_trigger": false},
   {"query": "I want a brutalist landing page but need to see a few real websites first. Find the references, open them and tell me what visual patterns to adapt", "should_trigger": true},
-  {"query": "find galleries whose own search UI I can study and use them to discover more editorial examples; show me a few directions", "should_trigger": true}
+  {"query": "find galleries whose own search UI I can study and use them to discover more editorial examples; show me a few directions", "should_trigger": true},
+  {"query": "i want an agent to draw screens in a real editable file, what design canvases take an MCP connection?", "should_trigger": true},
+  {"query": "which DESIGN.md format should we follow so our agent keeps the brand straight?", "should_trigger": true},
+  {"query": "any component systems where the agent already knows the components and there is an MCP server or a registry?", "should_trigger": true},
+  {"query": "turn this folder of downloaded markdown style files into site pages in the atlas repo and run the build", "should_trigger": false}
 ]

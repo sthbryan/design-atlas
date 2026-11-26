@@ -3,7 +3,7 @@
     "--licence ship": ["ship", "shippable", "commercial", "commercially", "licence", "license", "licensed", "royalty free", "open source", "open-source"],
     "--pricing free,freemium": ["free", "gratis", "no budget"]
   },
-  "visual_styles": ["brutalism", "brutalist", "brutalismo", "brutalista", "neobrutalism", "editorial", "swiss", "minimal", "minimalist", "maximalist", "retro", "futuristic", "cyberpunk", "glassmorphism", "skeuomorphic", "bento", "y2k", "acid", "vaporwave", "risograph", "riso"],
+  "visual_styles": ["brutalism", "brutalist", "brutalismo", "brutalista", "neobrutalism", "editorial", "swiss", "minimal", "minimalist", "maximalist", "retro", "futuristic", "cyberpunk", "glassmorphism", "skeuomorphic", "bento", "y2k", "acid", "vaporwave", "risograph", "riso", "pixel art", "pixel characters", "dither", "packaging"],
   "synonyms": {
     "brutalismo": ["brutalism", "brutalist", "neobrutalism"],
     "brutalista": ["brutalism", "brutalist", "neobrutalism"],
@@ -113,7 +113,20 @@
     "glassmorphism": ["glass", "frosted", "blur", "translucent", "backdrop"],
     "liquid glass": ["glassmorphism", "glass", "frosted", "translucent", "blur"],
     "frosted glass": ["glassmorphism", "glass", "frosted", "translucent", "blur"],
-    "glass": ["glassmorphism", "frosted", "translucent"]
+    "glass": ["glassmorphism", "frosted", "translucent"],
+    "icons": ["icon-library", "glyphs", "svg"],
+    "icon set": ["icon-library", "glyphs", "svg"],
+    "icons over mcp": ["icon-library", "mcp"],
+    "pixel art": ["pixel", "sprites", "retro"],
+    "pixel characters": ["pixel", "sprites"],
+    "sticker": ["stickers", "assets", "icons"],
+    "dieline": ["mockup", "assets", "packaging"],
+    "packaging mockup": ["mockup", "assets", "packaging"],
+    "design canvas": ["design-workspace", "editor", "canvas"],
+    "voice agent": ["ai-interfaces", "voice", "agents-and-prompts"],
+    "webgpu": ["shader", "3d-and-shaders", "gpu"],
+    "design md format": ["design-md", "specification", "format"],
+    "component system": ["design-system", "components", "tokens"]
   },
   "real_words": {
     "print and craft": "overprint overprinting risograph letterpress linocut woodcut screenprint stencil engraving etching lithograph lithography zine flyer collage scrapbook gouache watercolour watercolor charcoal crayon calligraphy signage embroidery knitting weaving pottery ceramics kiln glaze bookbinding papercraft origami",
