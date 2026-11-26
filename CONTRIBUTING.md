@@ -87,6 +87,7 @@ A verdict is a judgement made from reading a site. When you then build something
 ## Writing rules
 
 - Write in your own words. Don't copy prose, code, prompts or rule text from the site you review. Keep quotes rare, short (under 15 words) and in quotation marks.
+- No em dashes in prose. Use commas, colons or parentheses instead.
 - Don't guess. Write "not stated" when something isn't stated, and write "at review" next to counts, prices, stars and installs, since they change.
 - Don't compare a site with the rest of the atlas ("the best in this atlas"); those claims go stale as pages are added.
 - Record the licence whenever it restricts reuse, and say what an agent can reach without paying.
