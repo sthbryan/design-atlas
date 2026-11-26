@@ -10,8 +10,9 @@ agent: [mcp, registry]
 pricing: free
 licence: free (Ko-fi donations). The app's code is MIT (GitHub `marcoripa96/i0`, about 150 stars). Each icon keeps its original collection's licence. Most are permissive, but some sets on the site use attribution or copyleft licences (Emoji One under CC BY, Dashicons under GPL, for example), so filter by licence before shipping.
 licence_class: mixed
-reviewed: 2026-09-25
-status: active
+reviewed: 2026-11-26
+status: broken
+note: Vercel reports the deployment as disabled (HTTP 402, DEPLOYMENT_DISABLED) so the site serves a plain-text error (checked twice, 2026-11-26; also flagged by the 2026-11-23 URL health report).
 related: [iconoir, 3dicons, animated-icons, useanimations, shadcn-ui]
 ---
 [← Atlas](../site/home.md) · Topics: [icons](../topics/icons.md), [assets](../topics/assets.md), [agents-and-prompts](../topics/agents-and-prompts.md)

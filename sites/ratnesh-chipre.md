@@ -10,8 +10,9 @@ agent: [registry]
 pricing: free
 licence: The portfolio repository is MIT-licensed, and the component registry is available to install for free at review.
 licence_class: open-source-permissive
-reviewed: 2026-09-27
-status: active
+reviewed: 2026-11-26
+status: broken
+note: Vercel reports the deployment as disabled (HTTP 402, DEPLOYMENT_DISABLED) so the site serves a plain-text error (checked twice, 2026-11-26).
 related: [shadcn-ui, animate-ui]
 ---
 [← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [inspiration](../topics/inspiration.md)
