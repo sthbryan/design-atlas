@@ -20,7 +20,7 @@ related: [shadertoy, unicorn-studio, shaders]
 
 ## What it is
 
-Ladybug is a browser studio for wild visual effects: 60+ looks for images, video and type in one tab, including ASCII, dither and halftone, with no plugins and no AI. It is aimed at looks that would otherwise take days and twenty plugins.
+Ladybug is a browser studio for wild visual effects: sixty effects and more than 300 looks at review, for images, video and type in one tab, with separate controls for looks, sound, motion, depth, glow and tracking, covering ASCII, dither and halftone, with no plugins and no AI.
 
 ## When to open it
 
@@ -28,7 +28,7 @@ Open it when you need an experimental effect (dithered imagery, ASCII type, glit
 
 ## Most useful
 
-- **Effect depth in one tab**: dozens of looks across image, video and type without a plugin chain.
+- **Depth in one tab**: sixty effects and 300+ looks, plus sound, depth, glow, motion and tracking, without a plugin chain.
 - **Zero AI**: the effects are deterministic and controllable, which makes them repeatable.
 - **Free to start**: no watermark on the free path.
 
