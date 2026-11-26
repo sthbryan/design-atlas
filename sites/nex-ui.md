@@ -10,8 +10,9 @@ agent: []
 pricing: free
 licence: Free. The site and the npm package `@jessin/nexui` say MIT, but the repository (`jessinsam/nexui`, 6 GitHub stars at review) has no LICENSE file and the site's LICENSE link returned 404
 licence_class: not-stated
-reviewed: 2026-09-25
-status: active
+reviewed: 2026-11-26
+status: broken
+note: The site returns 404 on both nexui.dev and www.nexui.dev (checked twice, 2026-11-26; also flagged by the 2026-11-23 URL health report).
 related: [shadcn-ui, tremor, evil-charts, shadcn-studio]
 ---
 [← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [data-viz](../topics/data-viz.md)

@@ -45,7 +45,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Best Website Gallery](../sites/best-website-gallery.md) — One curator's 2,640 noteworthy sites since 2008, tagged by colour, features and shipped libraries; updated irregularly.
 - [BestWebsiteTemplate.com](../sites/best-website-templates.md) — Free template directory with filters, looping homepage previews and separate design and development scores; Aries is a detailed Webflow example.
 - [BlueCanvas](../sites/bluecanvas.md) — Seoul digital studio showing live motion experiments, interactive web craft and selected client projects alongside its service work.
-- [Boring Notch](../sites/boringnotch.md) — Free Mac app that turns the MacBook notch into a hover panel for music, calendar, battery and a drag-and-drop file shelf.
+- [Boring Notch (broken)](../sites/boringnotch.md) — Free Mac app that turns the MacBook notch into a hover panel for music, calendar, battery and a drag-and-drop file shelf.
 - [Bricks](../sites/bricks.md) — WordPress visual builder whose pitch is the design system underneath the canvas — classes, variables, palettes and theme styles, with breakpoints on the canvas.
 - [Cardinal](../sites/cardinal.md) — Revenue-AI landing page with a warm graph-paper grid, hand-drawn annotations and small illustrated metric cards.
 - [Charm](../sites/charm.md) — Purple, playful developer-tools homepage that turns a family of terminal UI libraries into a cohesive visual brand.
@@ -187,7 +187,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Toukana Interactive](../sites/toukana-interactive.md) — Indie studio site with a split game carousel, numbered project stories and colorful game art framing clear platform links.
 - [Tremor](../sites/tremor.md) — Copy-paste React and Tailwind dashboard components, spark charts and 300+ free blocks, now owned by Vercel.
 - [Typeform](../sites/typeform.md) — Form platform whose site leads with an MCP banner and a one-question-at-a-time form, plus AI products for research and growth.
-- [UI Coach](../sites/ui-coach.md) — Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.
+- [UI Coach (broken)](../sites/ui-coach.md) — Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.
 - [UI Layouts](../sites/ui-layouts.md) — 300+ MIT animated React components and sections with a shadcn registry, an MCP server and a paid Pro block site.
 - [Unsection](../sites/unsection.md) — A searchable gallery of real website sections, filterable by block type, visual style and industry.
 - [Unseen Studio](../sites/unseen.md) — Studio portfolio with a pastel 3D world, expressive serif and sans typography, and a filtered project grid.

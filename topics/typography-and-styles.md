@@ -111,7 +111,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [Identity Designed](../sites/identity-designed.md) — Index of brand identity projects with the studios credited, presented as case studies rather than screenshots.
 - [Inspiration Grid](../sites/inspiration-grid.md) — Daily art, illustration, branding and typography magazine since 2011; broad moodboard fuel, little interface content.
 - [Inspora](../sites/inspora.md) — Small, fresh archive of recent design work tagged by industry, color and style.
-- [Interface Design](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
+- [Interface Design (broken)](../sites/interface-design.md) — Craft skill for dashboards and SaaS UI that saves design decisions to system.md across sessions.
 - [Interfaces](../sites/interfaces.md) — Design-engineering magazine whose issues pair writing on type, motion and colour with interactive demos, source code and agent skills.
 - [iPhone](../sites/iphone.md) — Apple’s current iPhone lineup page shows product storytelling through large photography, spacious type, horizontal navigation and feature cards.
 - [Jakub Krehel's skills](../sites/jakub-krehel-skills.md) — Eleven modular skills that review with evidence and polish UI, typography, colour, layout, accessibility and copy.
@@ -201,7 +201,7 @@ Type treatments, colour and spacing tokens, and whole visual styles for interfac
 - [TypeUI DESIGN.md Extractor](../sites/design-md-chrome.md) — MIT Chrome extension that turns the open tab's computed styles into a DESIGN.md or SKILL.md, locally.
 - [Typewolf](../sites/typewolf.md) — Typography reference for the web, pairing real site screenshots with named fonts, alternatives, free picks and usage notes.
 - [typo/graphic posters](../sites/typographic-posters.md) — An international archive of print posters with filters for composition, colour, print process and other visual qualities.
-- [UI Coach](../sites/ui-coach.md) — Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.
+- [UI Coach (broken)](../sites/ui-coach.md) — Explore a large award-winning website gallery with filters and individual captures for studying layout, motion, type and colour.
 - [UI UX Pro Max](../sites/ui-ux-pro-max.md) — Searchable local database of styles, palettes and font pairs, queried by a script; writes MASTER.md plus page overrides.
 - [UIC School of Design Year End Show 2025](../sites/uic-year-end-show-2025.md) — UIC's student exhibition splits work into undergraduate and graduate cohorts, with discipline filters and individual thesis excerpts.
 - [Unscii](../sites/unscii.md) — Bitmapped Unicode fonts in 8×8 and 8×16 cells, built for character-cell art, terminals and programming at fixed sizes.

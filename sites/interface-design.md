@@ -10,8 +10,9 @@ agent: [skill]
 pricing: free
 licence: free. MIT, © 2026 Damola Akinleye (GitHub `Dammyjay93/interface-design`, about 5.7k stars and about 27.6k skills.sh installs at review). Last change 2026-06-20.
 licence_class: open-source-permissive
-reviewed: 2026-09-25
-status: active
+reviewed: 2026-11-26
+status: broken
+note: Vercel reports the deployment as disabled (HTTP 402, DEPLOYMENT_DISABLED) so the site serves a plain-text error (checked twice, 2026-11-26; also flagged by the 2026-11-23 URL health report).
 related: [impeccable, hallmark, ui-skills, design-lab, designer-skills]
 ---
 [← Atlas](../site/home.md) · Topics: [agent-skills](../topics/agent-skills.md), [components](../topics/components.md), [typography-and-styles](../topics/typography-and-styles.md), [ux-patterns](../topics/ux-patterns.md)

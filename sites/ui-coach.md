@@ -10,8 +10,9 @@ agent: []
 pricing: freemium
 licence: The inspiration gallery is publicly viewable. UI Coach offers a paid PRO membership; no licence for the featured site captures was found, so treat them as look-only references.
 licence_class: not-stated
-reviewed: 2026-09-30
-status: active
+reviewed: 2026-11-26
+status: broken
+note: Vercel reports the deployment as disabled (HTTP 402, DEPLOYMENT_DISABLED) so the site serves a plain-text error (checked twice, 2026-11-26; also flagged by the 2026-11-23 URL health report).
 related: [awwwards, siteinspire, curated-design]
 ---
 [← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md), [typography-and-styles](../topics/typography-and-styles.md)

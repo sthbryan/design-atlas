@@ -10,8 +10,9 @@ agent: []
 pricing: free
 licence: Free to download. The page says free and open source without naming a licence, so check the repository before reusing code. The app is not signed with an Apple developer certificate, and the install note tells people to allow it manually
 licence_class: not-stated
-reviewed: 2026-11-02
-status: active
+reviewed: 2026-11-26
+status: broken
+note: The site's TLS certificate has expired, so browsers and checkers cannot establish a secure connection (checked twice, 2026-11-26; also flagged by the 2026-11-23 URL health report).
 related: [hiddenbar, hazeover]
 ---
 [← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [inspiration](../topics/inspiration.md)
