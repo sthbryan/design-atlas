@@ -30,9 +30,10 @@ Refero Styles is a library that extracts and publishes design specs (palettes, t
 
 ## Most useful
 
-- The site states 2,000+ catalogued design systems, each with a downloadable/browsable DESIGN.md file. A sample of 1,343 downloaded files at review covered about 1,286 distinct brands, so the library is a subset of the catalogue rather than the whole thing.
-- Each file follows the same shape: a one-line mood summary, colour tokens with a named role per colour, typography with weights, sizes, line heights and letter spacing plus a free substitute, a spacing scale with a base unit, radius and layout rules, named components, layout, elevation and a short do's and don'ts list. Motion appeared in only 39 of the sampled files.
-- Every file ends with HTML reconstructions of its components, and states plainly that measurements are normalised, roles are interpreted and the HTML is rebuilt rather than taken from the source site.
+- The site states 2,000+ catalogued design systems, each with a downloadable/browsable DESIGN.md file. A sample of 1,343 downloaded files at review carried 1,341 distinct style links and 1,288 distinct titles, so the library is a subset of the catalogue rather than the whole thing.
+- Nearly every file follows the same shape: a one-line mood summary, colour tokens with a named role per colour, typography with weights, sizes, line heights and letter spacing plus a free substitute, a spacing scale with a base unit, radius and layout rules, named components, surfaces, elevation and a short do's and don'ts list. Counted over the sample: 1,341 files carry the closing agent prompt, 1,337 name a free typeface substitute and 1,316 have a surfaces section.
+- The format has no motion layer. None of the sampled files defines a duration, easing or transition token, and only 39 mention motion at all, so these are look references rather than motion specs.
+- Every file but one ends with HTML reconstructions of its components, and says plainly that measurements are normalised, roles are interpreted and the HTML is rebuilt rather than taken from the source site.
 - Sort by Trending, Popular and Newest, plus style search.
 - A dedicated section for AI design resources and design prompts, plus an MCP integration.
 
@@ -44,7 +45,7 @@ The site explicitly promotes compatibility with Cursor, Claude, Codex, v0 or Lov
 
 - It's in beta and publishes no pricing or licence; check the terms before reusing a DESIGN.md on a commercial project. The files themselves carry no licence, only a link to the style page they came from.
 - The typography sections often name a commercial typeface and suggest a free substitute, so a file describes the look rather than licensing the font.
-- A sample of the exported files showed duplicate brands caught at different pages, some from generic homepages, so check the style page before trusting a file's brand claim.
+- Duplicates are real: in the sample, "Home — Style Reference" appears nine times and regional Apple pages eight, so check the style page before trusting a file's brand claim.
 - Extracting a real brand's style can get uncomfortably close to its visual identity: use it as a starting point, not a 1:1 copy.
 - Since it's just a text file, it doesn't replace viewing the original site to validate hierarchy, motion or real accessibility.
 
