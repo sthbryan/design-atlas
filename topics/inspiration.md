@@ -155,6 +155,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [GOATED UI](../sites/goated-ui.md) — Free gallery of live websites and Open Graph cards, with category pages and detail records linking to original sites.
 - [Godly](../sites/godly.md) — A dark, masonry-style gallery for websites, app screens, logos and UI details, with focused routes for page sections and visual assets.
 - [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
+- [Goodest](../sites/goodest.md) — Curated design inspiration gallery with 1,097 items across apps, websites, motion, 3D, logos and more.
 - [Google Arts & Culture](../sites/google-arts-and-culture.md) — Museum collections and interactive exhibits for studying editorial art storytelling, high-resolution viewing and playful cultural experiences.
 - [Google Evolving Identity](../sites/google-evolving-identity.md) — Google's 2015 identity story, with visual studies of its logotype, animated dots, compact G, color and product applications.
 - [Google Pixel design story](../sites/google-pixel-design-story.md) — A current Google Store story showing Pixel product photography, materials and editorial layout across the Pixel 11 range.
@@ -224,6 +225,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [make.design](../sites/make-design.md) — Paid solo-made generator turning one prompt into landing page, app or marketing mockups as images; public showcase gallery.
 - [Manixh](../sites/manixh.md) — A dark developer portfolio with outlined social panels, scrolling skill marquees, project cards and a dense technical profile.
 - [Marathon](../sites/marathonthegame.md) — Bungie's game launch site pairs cinematic footage with acid-lime typography and a dense, game-like navigation rail.
+- [marked.dev](../sites/marked.md) — Save interfaces, interactions and motion from the web into collections your coding agent can read over MCP.
 - [McCafé Visual Identity Refresh](../sites/mccafe-visual-identity.md) — McCafé’s 2026 refresh in packaging and storefront signage, pairing a script wordmark with gold, coffee-cherry tones and colorful drink photography.
 - [mesh3d](../sites/mesh3d.md) — A hand-picked gallery of interactive Three.js and WebGL sites, with separate experiment and maker directories.
 - [Messenger](../sites/messenger.md) — A browser game's illustrated tiny-planet title screen, with a single contrasting entry action and an immersive 3D scene.
@@ -253,6 +255,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [OGANNA®](../sites/oganna.md) — Taipei design studio portfolio spanning identity, illustration, web and motion work, with category-tagged projects and multilingual navigation.
 - [OGimage.gallery](../sites/ogimage-gallery.md) — A hand-picked gallery of Open Graph images, filtered by category and browsable by the site that made them.
 - [OKOK Services](../sites/okok-services.md) — Singapore and Amsterdam studio portfolio with a black chrome hero and links to interactive client experiences.
+- [on.design](../sites/on-design.md) — Design community gallery and feed with debuts, collections, jobs and a hire page for designers.
 - [One Page Love](../sites/one-page-love.md) — One-page sites and section examples; filter by style and page type, or query its free MCP for screenshots and live references.
 - [OnePromptDesign](../sites/onepromptdesign.md) — Dark editorial prompt gallery with image examples, searchable categories and editable color palettes for visual exploration.
 - [Ossium](../sites/ossium.md) — Dark developer platform with a centered discovery hero, feature previews and a dashboard route for finding open-source contribution work.
@@ -325,6 +328,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Sora UI](../sites/sora-ui.md) — Animated React component registry with live motion demos and ready-made layout showcases.
 - [Spotify Design History](../sites/spotify-design-history.md) — Spotify’s 20-year retrospective pairs archived app screens and logos with current identity details such as green, dark interfaces and Spotify Mix.
 - [Spotify Wrapped 2021](../sites/spotify-wrapped-2021.md) — Spotify’s 2021 Wrapped interview explains a campaign-specific ribbon, symbols, motion and digital applications through contemporary examples.
+- [Spotted in Prod](../sites/spotted-in-prod.md) — Clips and stills of the best iOS app design in production, with leaderboards, staff picks and home setups.
 - [Squarespace](../sites/squarespace.md) — Website builder whose marketing page is a case study in repeated card grids and role-based labels on every section.
 - [Starbucks Holiday Ad (2024)](../sites/starbucks-holiday-ad-2024.md) — A stop-motion holiday film that places Starbucks green, the Siren and red seasonal details inside densely staged miniature scenes.
 - [Studio Dumbar](../sites/studio-dumbar.md) — Rotterdam studio portfolio for bold visual identities, motion systems and expressive typography.
@@ -339,6 +343,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [The Brand Identity](../sites/the-brand-identity.md) — Editorial case studies of identity systems across typography, packaging, digital work and motion, with searchable visual tags.
 - [The Pudding](../sites/the-pudding.md) — Visual essays that turn data and reported stories into distinctive, interactive editorial experiences.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
+- [ThinkUI](../sites/thinkui.md) — Hosted MCP server giving coding agents screens, flows, components, animated icons and typefaces from shipped products.
 - [Tokokino](../sites/tokokino.md) — A browser editor with reusable device-frame, screenshot and animated product-demo compositions.
 - [TOOOLS.design](../sites/toools.md) — A category-indexed directory that points designers to curated galleries, inspiration libraries, icon sets and other design resources.
 - [Toukana Interactive](../sites/toukana-interactive.md) — Indie studio site with a split game carousel, numbered project stories and colorful game art framing clear platform links.
@@ -355,6 +360,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [UIC School of Design Year End Show 2025](../sites/uic-year-end-show-2025.md) — UIC's student exhibition splits work into undergraduate and graduate cohorts, with discipline filters and individual thesis excerpts.
 - [Uiverse](../sites/uiverse.md) — Community gallery of copy-paste CSS and Tailwind UI snippets.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
+- [Uizze](../sites/uizze.md) — Searchable library of real web and iOS screens and user flows, built to give coding agents design taste.
 - [Unicorn Studio](../sites/unicorn-studio.md) — A visual shader editor with a gallery of animated, interactive graphics that can be embedded on websites.
 - [Unsection](../sites/unsection.md) — A searchable gallery of real website sections, filterable by block type, visual style and industry.
 - [Unseen Studio](../sites/unseen.md) — Studio portfolio with a pastel 3D world, expressive serif and sans typography, and a filtered project grid.
