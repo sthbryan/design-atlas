@@ -28,7 +28,6 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
 - [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
 - [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
-- [Apppshot](../sites/apppshot.md) — App Store screenshot sets shown side by side, searchable by app, category or colour, for studying real app presentation.
 - [Atlassian Design](../sites/atlassian-design.md) — Atlassian's design system: tokens, primitives, component guidelines and accessibility rules, with llms.txt files for agents.
 - [AURAI LAB](../sites/aurai.md) — Shanghai creative studio with a pearl-toned editorial homepage and a public CityWalk product demo.
 - [Auri (auri.ai)](../sites/auri.md) — Interactive demos of an AI keyboard, visual chat and notes show how assistant features can fit into everyday writing flows.

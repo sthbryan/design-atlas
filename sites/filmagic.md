@@ -12,7 +12,7 @@ licence: Free tier plus Starter at $12, Pro at $29 and Studio at $79 at review. 
 licence_class: not-stated
 reviewed: 2026-11-26
 status: active
-related: [framegui, theladybug, viralpost]
+related: [framegui, theladybug, launchvideos-gallery]
 ---
 [← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [motion](../topics/motion.md), [assets](../topics/assets.md)
 
@@ -48,4 +48,4 @@ An `llms.txt` and Markdown twins of every page are the agent channels; the video
 
 ## Related
 
-[Frame](framegui.md), [Ladybug](theladybug.md), [ViralPost](viralpost.md)
+[Frame](framegui.md), [Ladybug](theladybug.md), [Launch Videos Gallery](launchvideos-gallery.md)

@@ -47,7 +47,6 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [apmix.ai](../sites/apmix.md) — An AI API landing page that pairs a geometric mesh with side-by-side terminal sessions and a usage dashboard.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
 - [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
-- [Apppshot](../sites/apppshot.md) — App Store screenshot sets shown side by side, searchable by app, category or colour, for studying real app presentation.
 - [AppShot Gallery](../sites/appshot-gallery.md) — Real App Store and Play Store listing screenshots and icons, filterable by genre, style and tone.
 - [Are.na](../sites/are-na.md) — Independent research-style bookmarking in connected channels, with a v3 REST API, llms.txt, official OAuth MCP server and CLI.
 - [ArtCenter Spring 2025 Grad Show](../sites/artcenter-grad-show-spring-2025.md) — A clean, searchable graduate portfolio catalogue with department routes, term filters and individual project pages.
@@ -375,7 +374,6 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [vgpu](../sites/vgpu.md) — A composable WebGPU library with live shader examples, versioned docs, CLI discovery and agent resources.
 - [Vibrant Design](../sites/vibrant-design.md) — Curated library of websites, sections and launch videos that turns each design into build notes and a DESIGN.md for coding agents.
 - [Viewport UI](../sites/viewport-ui.md) — A visual gallery of web, mobile and motion references, with category filters and individual design records linked to their sources.
-- [ViralPost](../sites/viralpost.md) — Live ranking of the design posts that crossed 1,000 likes on X, by day, week and month.
 - [VividSites](../sites/vividsites.md) — A prompt library of cinematic website examples, with filters, free previews, source videos and an MCP search route.
 - [Vucko](../sites/vucko.md) — A motion identity studio portfolio with vivid brand case studies and a modular, clock-and-project rail.
 - [Wall of Portfolios](../sites/wall-of-portfolios.md) — Curated product-designer portfolios filterable by company, role, experience and country, plus case studies and monthly picks.

@@ -12,7 +12,7 @@ licence: Free to browse; Pro for individual designers is $8 a month at review. T
 licence_class: not-stated
 reviewed: 2026-11-26
 status: active
-related: [goodest, viralpost, awwwards]
+related: [goodest, bestdesignsonx, awwwards]
 ---
 [← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [landing-pages](../topics/landing-pages.md)
 
@@ -48,4 +48,4 @@ No MCP, API or agent guide is published; an agent can browse the feed in a brows
 
 ## Related
 
-[Goodest](goodest.md), [ViralPost](viralpost.md), [Awwwards](awwwards.md)
+[Goodest](goodest.md), [Best Designs on X](bestdesignsonx.md), [Awwwards](awwwards.md)

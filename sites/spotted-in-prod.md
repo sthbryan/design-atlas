@@ -12,7 +12,7 @@ licence: Free to browse; the shown app design belongs to its makers, so treat th
 licence_class: not-stated
 reviewed: 2026-11-26
 status: active
-related: [mobbin, apppshot, goodest]
+related: [mobbin, appshot-gallery, goodest]
 ---
 [← Atlas](../site/home.md) · Topics: [inspiration](../topics/inspiration.md), [ux-patterns](../topics/ux-patterns.md)
 
@@ -48,4 +48,4 @@ No MCP, API or agent guide is published; an agent can browse the clips in a brow
 
 ## Related
 
-[Mobbin](mobbin.md), [Apppshot](apppshot.md), [Goodest](goodest.md)
+[Mobbin](mobbin.md), [AppShot Gallery](appshot-gallery.md), [Goodest](goodest.md)

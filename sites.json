@@ -1670,31 +1670,6 @@
       ]
     },
     {
-      "slug": "apppshot",
-      "path": "sites/apppshot.md",
-      "title": "Apppshot",
-      "description": "App Store screenshot sets shown side by side, searchable by app, category or colour, for studying real app presentation.",
-      "url": "https://www.apppshot.xyz/",
-      "type": "gallery",
-      "formats": "App Store screenshot gallery · category and colour search",
-      "topics": [
-        "inspiration",
-        "ux-patterns"
-      ],
-      "verdict": "niche",
-      "agent": [],
-      "pricing": "free",
-      "licence": "Free to use with no accounts; the screenshots belong to the apps shown, so treat them as look-only references.",
-      "licence_class": "not-stated",
-      "reviewed": "2026-11-26",
-      "status": "active",
-      "related": [
-        "spotted-in-prod",
-        "mobbin",
-        "viralpost"
-      ]
-    },
-    {
       "slug": "appshot-gallery",
       "path": "sites/appshot-gallery.md",
       "title": "AppShot Gallery",
@@ -6997,7 +6972,7 @@
       "related": [
         "framegui",
         "theladybug",
-        "viralpost"
+        "launchvideos-gallery"
       ]
     },
     {
@@ -14419,7 +14394,7 @@
       "status": "active",
       "related": [
         "goodest",
-        "viralpost",
+        "bestdesignsonx",
         "awwwards"
       ]
     },
@@ -19014,7 +18989,7 @@
       "status": "active",
       "related": [
         "mobbin",
-        "apppshot",
+        "appshot-gallery",
         "goodest"
       ]
     },
@@ -22174,31 +22149,6 @@
         "curated-design",
         "site-of-sites",
         "godly"
-      ]
-    },
-    {
-      "slug": "viralpost",
-      "path": "sites/viralpost.md",
-      "title": "ViralPost",
-      "description": "Live ranking of the design posts that crossed 1,000 likes on X, by day, week and month.",
-      "url": "https://viralpost.design",
-      "type": "gallery",
-      "formats": "design post ranking · daily digest",
-      "topics": [
-        "inspiration",
-        "landing-pages"
-      ],
-      "verdict": "niche",
-      "agent": [],
-      "pricing": "freemium",
-      "licence": "Free feed plus Pro from $10 a month for the full archive and a morning digest at review. The posts belong to their authors; treat them as look-only.",
-      "licence_class": "not-stated",
-      "reviewed": "2026-11-26",
-      "status": "active",
-      "related": [
-        "goodest",
-        "spotted-in-prod",
-        "apppshot"
       ]
     },
     {
