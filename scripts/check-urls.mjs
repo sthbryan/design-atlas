@@ -7,7 +7,7 @@ const FILE = 'url-health.json';
 const ATTEMPTS = 2;
 const RETRY_DELAY_MS = 1000;
 const DEFAULT_CONCURRENCY = 8;
-const DEFAULT_TIMEOUT_MS = 10000;
+const DEFAULT_TIMEOUT_MS = 30000;
 const AGENT = 'design-atlas-url-check/1.0 (+https://github.com/sthbryan/design-atlas)';
 const BLOCKED = new Set([401, 403, 429]);
 
@@ -20,8 +20,8 @@ so sites.json holds every listed page.
 A page is "live" when it answers below 400 on its own host, "moved" when it now
 serves another host after normalising www and the scheme, "blocked" when the
 server gives no usable answer to an automated request (401, 403, 429, a timeout
-or a reset, so the check proves nothing), and "dead" when it errors, cannot
-resolve or answers 400 or above. Network errors and 5xx answers get one retry.
+or a reset, or a TLS verification failure the checker cannot tell apart from its own trust store, so the check proves nothing), and "dead" when it errors, cannot
+resolve or answers 400 or above. Network errors, 408, 429 and 5xx answers get one retry.
 Same-host redirects stay live, since sites move their own pages freely.
 
 Options:
@@ -81,11 +81,12 @@ async function probe(site, opts) {
   for (let i = 0; i < ATTEMPTS; i += 1) {
     try {
       const res = await attempt(site.url, opts.timeout);
-      if (res.http < 500) return { ...res, error: null };
+      if (res.http < 500 && res.http !== 408 && res.http !== 429) return { ...res, error: null };
       last = { http: res.http, final: res.final, error: `HTTP ${res.http}` };
     } catch (error) {
       const code = error.name === 'TimeoutError' ? 'timeout' : (error.cause?.code ?? error.message);
-      last = { http: null, final: site.url, error: code, blocked: code === 'timeout' || code === 'ECONNRESET' };
+      const blocked = code === 'timeout' || code === 'ECONNRESET' || /CERT|SIGNATURE|SELF_SIGNED/.test(code);
+      last = { http: null, final: site.url, error: code, blocked };
     }
     if (i + 1 < ATTEMPTS) await new Promise((done) => setTimeout(done, RETRY_DELAY_MS));
   }
