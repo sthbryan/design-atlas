@@ -1,26 +1,27 @@
 ---
 title: Amicro
-description: Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.
-url: https://amicro.vercel.app
+description: 170+ MIT React micro-interactions on a shadcn registry, with short stated easings, reduced-motion respected and an llms.txt.
+url: https://amicro.dev/
 type: component-library
-formats: component library (shadcn registry, CLI)
-topics: [motion, components]
+formats: component library · shadcn-compatible registry · own CLI · llms.txt
+topics: [motion, components, agents-and-prompts]
 verdict: useful
-agent: [cli, registry]
+agent: [registry, cli, llms-txt]
 pricing: free
-licence: free; MIT (copyright Syed Subhan Uddin), sponsorship via Polar
+licence: MIT (copyright Syed Subhan Uddin), stated in the project's repository at review; sponsorship runs through Polar, and the site lists the library under the Vercel OSS Program.
 licence_class: open-source-permissive
-reviewed: 2026-09-25
+reviewed: 2026-11-26
 status: active
 related: [transitions-dev, circle-loaders, microkit, motion-primitives, amacro]
 ---
-[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md)
+[← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [components](../topics/components.md), [agents-and-prompts](../topics/agents-and-prompts.md)
+
 
 # Amicro
 
 ## What it is
 
-A fast-growing collection of React micro-interactions and small animated components by Syed Subhan (@SubhanHQ), built with Motion and Tailwind CSS. At review time its sitemap listed 35 buttons, 9 card-spread layouts, 3 carousels, 7 monochrome charts and 12 dithered charts, plus pages for loaders, text animations, CSS animations and 3D. Its shadcn registry index held about 169 items, most of them loaders and spinners, alongside entrance transitions, hover effects, hooks and spring presets. The GitHub repository, created in July 2026, had about 2.5k stars; the README says the site layout comes from transitions.dev and credits its author.
+A collection of React micro-interactions and small animated components by Syed Subhan (@SubhanHQ), built with Motion and Tailwind CSS v4. The site counts 160+ components and its `llms.txt` says 170+, spread over buttons, card spreads, carousels, loaders, monochrome and dithered charts, text animations, morphing icons and 3D pieces. The GitHub repository, created in July 2026, had 2,862 stars at review; its README credits transitions.dev for the site layout.
 
 ## When to open it
 
@@ -32,18 +33,20 @@ When you need a quick loader, a fanned stack of cards, a cover-flow carousel or 
 - **Loaders**: well over a hundred spinners, dot, bar and ring loaders, including imitations of familiar system indicators (a Siri-style wave, a Face ID scan, a Dynamic Island shape).
 - **Entrance and hover primitives**: fade, slide, scale and blur reveals, word and character staggers, tilt cards, magnetic and glow buttons, a spotlight and a cursor trail.
 - **Hooks and presets**: scroll progress, mouse position, stagger, reduced motion, web haptics and shared spring presets.
+- **Stated motion defaults**: one easing curve, `[0.16, 1, 0.3, 1]`, at 200–350ms, with `prefers-reduced-motion` respected across the set.
 - **Charts**: small monochrome and dithered chart styles (donut, heatmap, uptime, funnel and others) for dashboard accents.
 
 ## Using it with agents
 
-Components install through the shadcn CLI from `https://amicro.vercel.app/r/<name>.json`, or through the project's own CLI (`npx @subhanhq/amicro@latest init`, then `add <name>`), which covers the card layouts too. The site has a "Skills" page, but it points to the transitions.dev agent skill rather than an Amicro skill. No `llms.txt` was published.
+Components install through the shadcn CLI from the registry at `https://amicro.dev/r/<name>.json`, which answers 200, or with `npx shadcn@latest add @amicro/<component>`. The project's own CLI still exists (`npx @subhanhq/amicro@latest init`, then `add <name>`) but had two releases and has not been published since July 2026. An `llms.txt` now documents the stack, the install command and the motion defaults.
 
 ## Watch out for
 
-- The README's suggested `@amicro` namespace mapping pointed at a GitHub path that returned 404 for sample items; the site's `/r/` URLs worked.
-- The npm CLI had only two releases and low weekly downloads at review time; the project is weeks old and changes quickly.
+- The whole site, `llms.txt` included, sits behind a Vercel Security Checkpoint: a real browser passes it, but `curl` or Node requests get the checkpoint page or a 429, so an agent cannot read the docs without a browser session.
+- The npm CLI is behind the registry: prefer the shadcn registry unless you need the card layouts the CLI covers.
+- The old `amicro.vercel.app` address no longer serves the site directly and answers through the same checkpoint.
 - Several loaders mimic Apple interface elements by name and look; avoid them where that could read as imitation of a platform.
-- Registry items depend on `framer-motion`, so check that you are not mixing it with the newer `motion` package unintentionally.
+- The project is months old and changes quickly, so copy the components you need instead of tracking the repo.
 
 ## Reusable ideas
 
@@ -51,7 +54,7 @@ Components install through the shadcn CLI from `https://amicro.vercel.app/r/<nam
 - Scrub a stack of cards through depth with a timeline control.
 - Use a dithered chart as a decorative, low-fidelity dashboard accent.
 - Pair a loading spinner with a light haptic tick on supported devices.
-- Keep one shared file of spring presets and import it everywhere.
+- Keep one shared file of spring presets, and one easing and duration range, so a hundred separate effects still feel like one product.
 
 ## Related
 
