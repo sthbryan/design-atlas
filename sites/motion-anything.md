@@ -12,7 +12,7 @@ licence: Apache-2.0, stated in the repository at review (1,126 stars, created Ju
 licence_class: open-source-permissive
 reviewed: 2026-11-26
 status: active
-related: [motion-dev, emil-kowalski-skills, wix-interact]
+related: [motion-dev, emil-kowalski-skills, motion-primitives]
 ---
 [← Atlas](../site/home.md) · Topics: [motion](../topics/motion.md), [agent-skills](../topics/agent-skills.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
@@ -49,4 +49,4 @@ It integrates with Claude Code, Codex, Cursor, OpenCode and Gemini CLI, and its 
 
 ## Related
 
-[Motion](motion-dev.md), [Emil Kowalski's skills](emil-kowalski-skills.md), [Wix Interact](wix-interact.md)
+[Motion](motion-dev.md), [Emil Kowalski's skills](emil-kowalski-skills.md), [Motion Primitives](motion-primitives.md)

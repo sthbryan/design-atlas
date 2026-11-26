@@ -45,7 +45,6 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Boxicons](../sites/boxicons.md) — Rounded UI icons with a free core, paid Pro packs and weights, framework packages, a CLI and a SKILL.md for coding agents.
 - [Brilliant](../sites/brilliant.md) — Figma-class vector canvas where agents edit the same file, with a free MCP server and a $0 plan.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
-- [Compass Design System](../sites/compass-design-system.md) — shadcn-based React design system with 120+ UX-focused components, blocks, tokens and an AI skill with MCP.
 - [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with composed particles and agent skills; mixed MIT/AGPL repo.
 - [Craftwork](../sites/craftwork.md) — 40,000+ illustrations, mockups, fonts and templates; the Pro plan adds an OAuth MCP server and an agent setup wizard.
 - [Croqui](../sites/croqui.md) — Design canvas for coding agents where every frame is a real React file, reviewed and approved in place.
@@ -135,7 +134,6 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Reicon](../sites/reicon.md) — 2,630 MIT UI icons in Outline and Filled, with framework packages, llms files and an MCP server.
 - [Remocn](../sites/remocn.md) — 308 Remotion video components plus an agent skill that composes launch and demo videos from them.
 - [Rive](../sites/rive.md) — State-machine vector editor with MIT runtimes, an agent-friendly CLI and a local MCP; exporting needs a paid seat.
-- [Saasflare UI](../sites/saasflare-ui.md) — MIT React and Tailwind v4 library with 135 animated components, 20 palettes, an MCP server and llms.txt.
 - [Screenshot to Code](../sites/screenshot-to-code.md) — MIT tool turning screenshots, recordings or text into HTML/Tailwind/React/Vue code; hosted or self-hosted.
 - [Scrolltide](../sites/scrolltide.md) — Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.
 - [Shadcn Labs](../sites/shadcn-labs.md) — Index of the independent Shadcn Labs registries: termcn, pdfcn, emailcn, ogimagecn, shadercn and more.
@@ -144,7 +142,6 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
 - [shadcnblocks](../sites/shadcnblocks.md) — 2,000+ paid shadcn marketing and app blocks in Radix, Base UI and React Aria builds, via CLI or MCP.
 - [Shaders](../sites/shaders.md) — MIT WebGPU component library with 200 shader effects for React, Vue, Svelte and Solid, plus a paid pro library, visual editor and MCP server.
-- [ShaderVine](../sites/shadervine.md) — MIT WebGPU shader toolkit with a node graph, live preview, compute simulations and export.
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
 - [Shoogle](../sites/shoogle.md) — Searches items across all shadcn registries from the web, the CLI or a remote MCP server.
 - [Site of Sites](../sites/site-of-sites.md) — Wix gallery of about 600 sites with a pure-blue serif display on white, 16:9 screenshot tiles and four crossable tag axes.
@@ -174,7 +171,6 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
 - [VividSites](../sites/vividsites.md) — A prompt library of cinematic website examples, with filters, free previews, source videos and an MCP search route.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
-- [Wix Interact](../sites/wix-interact.md) — MIT declarative interaction library that drives scroll, pointer and hover effects from a JSON spec in React or vanilla JS.
 - [WunderUI](../sites/wunderui.md) — Agentic React and Figma design system with 194 components, 285 screens, 181 motion effects, MCP, skills and DESIGN.md.
 <!-- atlas:sources:end -->
 

@@ -3963,38 +3963,6 @@
       ]
     },
     {
-      "slug": "compass-design-system",
-      "path": "sites/compass-design-system.md",
-      "title": "Compass Design System",
-      "description": "shadcn-based React design system with 120+ UX-focused components, blocks, tokens and an AI skill with MCP.",
-      "url": "https://compass.designcompass.org/",
-      "type": "design-system",
-      "formats": "React design system · blocks · design tokens · agent skill · MCP server",
-      "topics": [
-        "components",
-        "documentation",
-        "agents-and-prompts",
-        "color"
-      ],
-      "verdict": "useful",
-      "agent": [
-        "mcp",
-        "skill",
-        "llms-txt",
-        "cli"
-      ],
-      "pricing": "freemium",
-      "licence": "The component code is MIT per the project's GitHub repository at review. The site also sells a Plus membership; check its licence page for the paid material.",
-      "licence_class": "open-source-permissive",
-      "reviewed": "2026-11-26",
-      "status": "active",
-      "related": [
-        "shadcn-ui",
-        "wunderui",
-        "saasflare-ui"
-      ]
-    },
-    {
       "slug": "component-gallery",
       "path": "sites/component-gallery.md",
       "title": "The Component Gallery",
@@ -7575,31 +7543,6 @@
         "eyecannndy",
         "motionimo",
         "landing-love"
-      ]
-    },
-    {
-      "slug": "framewave",
-      "path": "sites/framewave.md",
-      "title": "Framewave",
-      "description": "MIT GPU-first toolkit for deterministic, frame-based motion graphics on the web, with WebCodecs export.",
-      "url": "https://github.com/VFitter/framewave",
-      "type": "js-library",
-      "formats": "motion graphics toolkit · WebGPU rendering · WebCodecs export · Canvas2D fallback",
-      "topics": [
-        "motion",
-        "3d-and-shaders"
-      ],
-      "verdict": "niche",
-      "agent": [],
-      "pricing": "free",
-      "licence": "MIT, stated in the repository at review; free for companies of any size. Created July 2026.",
-      "licence_class": "open-source-permissive",
-      "reviewed": "2026-11-26",
-      "status": "active",
-      "related": [
-        "motion-dev",
-        "wix-interact",
-        "rive"
       ]
     },
     {
@@ -13117,7 +13060,7 @@
       "related": [
         "motion-dev",
         "emil-kowalski-skills",
-        "wix-interact"
+        "motion-primitives"
       ]
     },
     {
@@ -14749,35 +14692,6 @@
         "design-sorcery",
         "saaspo",
         "base-ui"
-      ]
-    },
-    {
-      "slug": "overflow-design",
-      "path": "sites/overflow-design.md",
-      "title": "Overflow Design",
-      "description": "Isometric icons, illustrations and bot avatars from one designer, with a free set and a single Pro licence.",
-      "url": "https://www.overflow.design/",
-      "type": "asset-library",
-      "formats": "isometric icons · illustrations · 3D pieces · Notion assets · scene builder",
-      "topics": [
-        "assets",
-        "icons",
-        "3d-and-shaders"
-      ],
-      "verdict": "useful",
-      "agent": [
-        "mcp",
-        "llms-txt"
-      ],
-      "pricing": "freemium",
-      "licence": "A free set plus a paid Pro licence that the site says covers commercial and client work without attribution at review (Pro listed at $99, $69 in a sale). Some uses, such as templates for sale, need Pro.",
-      "licence_class": "proprietary-paid",
-      "reviewed": "2026-11-26",
-      "status": "active",
-      "related": [
-        "3dicons",
-        "iconmind",
-        "kitbitz"
       ]
     },
     {
@@ -16855,36 +16769,6 @@
       ]
     },
     {
-      "slug": "saasflare-ui",
-      "path": "sites/saasflare-ui.md",
-      "title": "Saasflare UI",
-      "description": "MIT React and Tailwind v4 library with 135 animated components, 20 palettes, an MCP server and llms.txt.",
-      "url": "https://ui.saasflare.io/",
-      "type": "component-library",
-      "formats": "React components · Tailwind v4 · shadcn registry · MCP server",
-      "topics": [
-        "components",
-        "color",
-        "agents-and-prompts"
-      ],
-      "verdict": "useful",
-      "agent": [
-        "mcp",
-        "registry",
-        "llms-txt"
-      ],
-      "pricing": "free",
-      "licence": "MIT, stated on the site and in the project's GitHub repository at review.",
-      "licence_class": "open-source-permissive",
-      "reviewed": "2026-11-26",
-      "status": "active",
-      "related": [
-        "shadcn-ui",
-        "twentyfirst-ui",
-        "kibo-ui"
-      ]
-    },
-    {
       "slug": "saasframe",
       "path": "sites/saasframe.md",
       "title": "SaaSFrame",
@@ -17820,33 +17704,6 @@
         "grainient",
         "metalforge",
         "mesh3d"
-      ]
-    },
-    {
-      "slug": "shadervine",
-      "path": "sites/shadervine.md",
-      "title": "ShaderVine",
-      "description": "MIT WebGPU shader toolkit with a node graph, live preview, compute simulations and export.",
-      "url": "https://github.com/metavert-io/shadervine",
-      "type": "tool",
-      "formats": "WGSL shader editor · node graph · compute simulations · MCP server",
-      "topics": [
-        "3d-and-shaders",
-        "agents-and-prompts"
-      ],
-      "verdict": "niche",
-      "agent": [
-        "mcp"
-      ],
-      "pricing": "free",
-      "licence": "MIT, stated in the repository at review (25 stars).",
-      "licence_class": "open-source-permissive",
-      "reviewed": "2026-11-26",
-      "status": "active",
-      "related": [
-        "shaders",
-        "shadertoy",
-        "zephyr3d"
       ]
     },
     {
@@ -20318,8 +20175,8 @@
       "status": "active",
       "related": [
         "shadcn-ui",
-        "saasflare-ui",
-        "beamline-ui"
+        "beamline-ui",
+        "wunderui"
       ]
     },
     {
@@ -22308,33 +22165,6 @@
       ]
     },
     {
-      "slug": "wix-interact",
-      "path": "sites/wix-interact.md",
-      "title": "Wix Interact",
-      "description": "MIT declarative interaction library that drives scroll, pointer and hover effects from a JSON spec in React or vanilla JS.",
-      "url": "https://github.com/wix/interact",
-      "type": "js-library",
-      "formats": "interaction library · declarative JSON spec · React and Web Components · agent skill",
-      "topics": [
-        "motion",
-        "agents-and-prompts"
-      ],
-      "verdict": "useful",
-      "agent": [
-        "skill"
-      ],
-      "pricing": "free",
-      "licence": "MIT, stated in the repository at review (created November 2025).",
-      "licence_class": "open-source-permissive",
-      "reviewed": "2026-11-26",
-      "status": "active",
-      "related": [
-        "motion-dev",
-        "framewave",
-        "zephyr3d"
-      ]
-    },
-    {
       "slug": "wondelai-skills",
       "path": "sites/wondelai-skills.md",
       "title": "Wondel.ai Skills",
@@ -22419,7 +22249,7 @@
       "status": "active",
       "related": [
         "shadcn-ui",
-        "compass-design-system",
+        "twentyfirst-ui",
         "beamline-ui"
       ]
     },
@@ -22525,34 +22355,6 @@
       "related": [
         "saas-landing-page",
         "a1-gallery"
-      ]
-    },
-    {
-      "slug": "zephyr3d",
-      "path": "sites/zephyr3d.md",
-      "title": "Zephyr3D",
-      "description": "MIT TypeScript 3D engine and visual editor targeting WebGL2 and WebGPU, with node-graph materials.",
-      "url": "https://github.com/gavinyork/zephyr3d",
-      "type": "js-library",
-      "formats": "3D engine · visual editor · node-graph materials · WebGL2 and WebGPU",
-      "topics": [
-        "3d-and-shaders",
-        "motion",
-        "components"
-      ],
-      "verdict": "niche",
-      "agent": [
-        "mcp"
-      ],
-      "pricing": "free",
-      "licence": "MIT, stated in the repository at review (143 stars).",
-      "licence_class": "open-source-permissive",
-      "reviewed": "2026-11-26",
-      "status": "active",
-      "related": [
-        "threejs",
-        "babylonjs",
-        "spline"
       ]
     },
     {

@@ -12,7 +12,7 @@ licence: "89 free components are MIT per the project's GitHub repository, and th
 licence_class: mixed
 reviewed: 2026-11-26
 status: active
-related: [shadcn-ui, compass-design-system, beamline-ui]
+related: [shadcn-ui, twentyfirst-ui, beamline-ui]
 ---
 [← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [motion](../topics/motion.md), [agents-and-prompts](../topics/agents-and-prompts.md), [data-viz](../topics/data-viz.md)
 
@@ -49,4 +49,4 @@ The free set alone includes an MCP server, a DESIGN.md and four skills (setup, s
 
 ## Related
 
-[shadcn/ui](shadcn-ui.md), [Compass Design System](compass-design-system.md), [Beamline UI](beamline-ui.md)
+[shadcn/ui](shadcn-ui.md), [Twentyfirst UI](twentyfirst-ui.md), [Beamline UI](beamline-ui.md)

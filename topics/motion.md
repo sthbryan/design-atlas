@@ -96,7 +96,6 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [framecn](../sites/framecn.md) — Editframe video scenes, captions, transitions and WebGL shader backdrops; Editframe itself is licensed by headcount.
 - [Framer](../sites/framer.md) — Canvas website builder and host with an in-app agent, skills, and a bridge that lets Claude Code or Codex edit projects on branches.
 - [Frameset](../sites/frameset.md) — Search film and advertising frames by text or image, then open individual references to study composition, colour and camera treatment.
-- [Framewave](../sites/framewave.md) — MIT GPU-first toolkit for deterministic, frame-based motion graphics on the web, with WebCodecs export.
 - [GetLayers](../sites/getlayers.md) — Paid library of WebGL scenes, gradients and cinematic templates, each copied as one prompt; MCP needs the top tier.
 - [Gil Huybrecht](../sites/gil-huybrecht.md) — Art director portfolio using a black canvas, dense project thumbnails and a compact service and recognition index.
 - [glass-lens-react](../sites/glass-lens-react.md) — A React glass-surface demo showing how refractive controls behave over video, images, gradients and interface elements.
@@ -262,9 +261,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
 - [Wensity UI](../sites/wensity-ui.md) — 115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
-- [Wix Interact](../sites/wix-interact.md) — MIT declarative interaction library that drives scroll, pointer and hover effects from a JSON spec in React or vanilla JS.
 - [WunderUI](../sites/wunderui.md) — Agentic React and Figma design system with 194 components, 285 screens, 181 motion effects, MCP, skills and DESIGN.md.
-- [Zephyr3D](../sites/zephyr3d.md) — MIT TypeScript 3D engine and visual editor targeting WebGL2 and WebGPU, with node-graph materials.
 - [Zian Lu](../sites/zian-lu.md) — Shanghai designer's portfolio spanning brand identity, typography and motion experiments, with concise credits and project context.
 - [Zoomquilt](../sites/zoomquilt.md) — A collaborative painting built as a seamless infinite zoom, useful for studying continuous visual transitions and layered surreal scenes.
 <!-- atlas:sources:end -->

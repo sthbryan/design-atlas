@@ -12,7 +12,7 @@ licence: MIT, stated on the site and in the project's GitHub organisation at rev
 licence_class: open-source-permissive
 reviewed: 2026-11-26
 status: active
-related: [shadcn-ui, saasflare-ui, beamline-ui]
+related: [shadcn-ui, beamline-ui, wunderui]
 ---
 [← Atlas](../site/home.md) · Topics: [components](../topics/components.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
@@ -49,4 +49,4 @@ The MCP server (search, get pattern, check usage), `llms.txt` and `llms-full.txt
 
 ## Related
 
-[shadcn/ui](shadcn-ui.md), [Saasflare UI](saasflare-ui.md), [Beamline UI](beamline-ui.md)
+[shadcn/ui](shadcn-ui.md), [Beamline UI](beamline-ui.md), [WunderUI](wunderui.md)

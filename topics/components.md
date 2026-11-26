@@ -68,7 +68,6 @@ Component libraries, registries and design systems for building UI — from sing
 - [Chloé Maillot](../sites/chloe-maillot.md) — A quiet design-engineer portfolio combining short editorial notes, a small component catalogue and a handmade image grid.
 - [Circle Loaders](../sites/circle-loaders.md) — 24 standalone animated SVG loading spinners.
 - [Collect UI](../sites/collect-ui.md) — Daily feed of UI shots and motion clips, 150+ element categories with designer leaderboards.
-- [Compass Design System](../sites/compass-design-system.md) — shadcn-based React design system with 120+ UX-focused components, blocks, tokens and an AI skill with MCP.
 - [Componentry](../sites/componentry.md) — 53 animated React effects, from text and WebGL hero backgrounds to image effects, installed through the shadcn CLI.
 - [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with composed particles and agent skills; mixed MIT/AGPL repo.
 - [Croqui](../sites/croqui.md) — Design canvas for coding agents where every frame is a real React file, reviewed and approved in place.
@@ -206,7 +205,6 @@ Component libraries, registries and design systems for building UI — from sing
 - [RewampUI](../sites/rewampui.md) — About 75 animated React navbars, backgrounds, toggles and cursors with a copy CLI and per-component prompts; designs are admitted remixes.
 - [Rolling Number](../sites/rolling-number.md) — Interruptible rolling digits and split-flap text for DOM, React and Solid, with llms.txt and Markdown docs.
 - [Ruru UI (stale)](../sites/ruru-ui.md) — Small Radix and Tailwind v3 library with its own CLI; its author says it is no longer maintained.
-- [Saasflare UI](../sites/saasflare-ui.md) — MIT React and Tailwind v4 library with 135 animated components, 20 palettes, an MCP server and llms.txt.
 - [Saurabh Sharma](../sites/srbh-site.md) — A compact developer portfolio that turns contribution history, pull requests, components and a dated learning log into browsable sections.
 - [Screenshot to Code](../sites/screenshot-to-code.md) — MIT tool turning screenshots, recordings or text into HTML/Tailwind/React/Vue code; hosted or self-hosted.
 - [sensory-ui](../sites/sensory-ui.md) — Sound-enabled versions of 24 shadcn components with 17 semantic roles and nine synthesised packs.
@@ -266,7 +264,6 @@ Component libraries, registries and design systems for building UI — from sing
 - [Watermelon UI](../sites/watermelon-ui.md) — MIT shadcn registry of 850+ components, blocks and dashboards with a keyless public API, llms.txt and a hosted MCP server.
 - [Wensity UI](../sites/wensity-ui.md) — 115 animated React components, 57 primitives and 87 blocks in one design language, with a CLI, MCP server, skills and a free background studio.
 - [WunderUI](../sites/wunderui.md) — Agentic React and Figma design system with 194 components, 285 screens, 181 motion effects, MCP, skills and DESIGN.md.
-- [Zephyr3D](../sites/zephyr3d.md) — MIT TypeScript 3D engine and visual editor targeting WebGL2 and WebGPU, with node-graph materials.
 <!-- atlas:sources:end -->
 
 ## Patterns worth reusing
