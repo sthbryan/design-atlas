@@ -19,7 +19,7 @@ Recipes for choosing, loading and setting type. The contested numbers (families,
 2. Start from the subject world. Ask what the product's own documents, signs or tools are set in, and what the reader's conditions demand: glare, small screens, dense numbers, long reading.
 3. Decide the roles first: one face for reading and UI, optionally one for display, and a mono only for code or tabular data.
 4. Pair for contrast, not similarity. Two near-identical sans faces read as a mistake.
-5. Check the licence before choosing. The SIL Open Font Licence allows self-hosting. A commercial face needs a web licence the team actually holds. Record the licence in DESIGN.md.
+5. Choosing a face means you will host it, so check the licence before you commit: the SIL Open Font Licence allows self-hosting, and a commercial face needs a web licence the team actually holds. Record it in DESIGN.md.
 6. If the face is on the T1 reflex list, write its one-line reason in DESIGN.md.
 
 Useful atlas hubs: `typography-and-styles` for faces and treatments, `design-md` for how other systems document type.
