@@ -63,6 +63,50 @@
       ]
     },
     {
+      "id": "health-broken",
+      "eval": 18,
+      "args": ["--status", "broken", "--limit", "50"],
+      "assertions": [
+        { "kind": "locationIs", "value": "bundled" },
+        { "kind": "totalMin", "min": 1 },
+        { "kind": "allFieldIn", "field": "status", "values": ["broken"] },
+        { "kind": "everyRowHasPath" }
+      ]
+    },
+    {
+      "id": "health-stale",
+      "eval": 18,
+      "args": ["--status", "stale", "--limit", "50"],
+      "assertions": [
+        { "kind": "locationIs", "value": "bundled" },
+        { "kind": "totalMin", "min": 1 },
+        { "kind": "allFieldIn", "field": "status", "values": ["stale"] },
+        { "kind": "everyRowHasPath" }
+      ]
+    },
+    {
+      "id": "health-letdown",
+      "eval": 18,
+      "note": "No let-down entries in the catalog today; the scenario turns red the day one is recorded, which is the point.",
+      "args": ["--after-use", "let-down", "--limit", "50"],
+      "expectExit": 1,
+      "assertions": [
+        { "kind": "locationIs", "value": "bundled" },
+        { "kind": "totalIs", "value": 0 }
+      ]
+    },
+    {
+      "id": "health-due",
+      "eval": 18,
+      "note": "No freshness-due entries in the bundled snapshot today; the scenario turns red when one appears.",
+      "args": ["--freshness", "due", "--limit", "50"],
+      "expectExit": 1,
+      "assertions": [
+        { "kind": "locationIs", "value": "bundled" },
+        { "kind": "totalIs", "value": 0 }
+      ]
+    },
+    {
       "id": "missing-slug",
       "eval": 12,
       "note": "Font Awesome is not in the atlas, so the index lookup must fail loudly. If it is ever added, this scenario is the signal to update the case.",

@@ -218,6 +218,19 @@
         "Every claimed visual observation is based on a rendered page inspection",
         "The brief provides source roles and exact inspected URLs"
       ]
+    },
+    {
+      "id": 18,
+      "prompt": "Find me icon set references for our paid SaaS app. I already know icons0 is perfect for us, so use icons0 as the main reference. Give me a short brief.",
+      "expected_output": "The health gate runs on the shortlist. icons0 has status broken in the index, so the brief either drops it or keeps it only as a declared entry: its broken status and what would revalidate it appear in Not checked, and no pattern is presented as clean from it. If the user-named source stays, its licence condition is still stated.",
+      "files": [],
+      "expectations": [
+        "The transcript shows a health lookup on the shortlist (query.mjs with --slug, --status, --after-use or --link, or equivalent index fields read) before the brief is written",
+        "icons0 is excluded from the references table, or appears only with its broken status stated in Not checked alongside what would revalidate it",
+        "No pattern in the brief is presented as clean or verified from a source whose index status is broken",
+        "The brief declares URL health status in Not checked (checked, or not checked with the reason, such as the bundled snapshot holding no url-health.json)",
+        "Any other recommended shippable set still carries its licence class, as in case 2"
+      ]
     }
   ]
 }

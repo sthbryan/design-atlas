@@ -43,6 +43,11 @@ const FIXTURE_ASSERTIONS = {
     return n >= a.min && n <= a.max ? null : `shown count ${n} outside [${a.min}, ${a.max}]`;
   },
   totalMin: (data, a) => ((data.total ?? -1) >= a.min ? null : `total ${data.total} below ${a.min}`),
+  totalIs: (data, a) => (data.total === a.value ? null : `total ${data.total}, expected ${a.value}`),
+  allFieldIn: (data, a) => {
+    const bad = (data.sites ?? []).filter((s) => !a.values.includes(s[a.field])).map((s) => `${s.slug}:${s[a.field]}`);
+    return bad.length ? `${a.field} outside [${a.values.join(', ')}]: ${bad.join(', ')}` : null;
+  },
   allLicenceIn: (data, a) => {
     const bad = (data.sites ?? []).filter((s) => !a.values.includes(s.licence_class)).map((s) => `${s.slug}:${s.licence_class}`);
     return bad.length ? `licence_class outside [${a.values.join(', ')}]: ${bad.join(', ')}` : null;
@@ -70,19 +75,17 @@ function runFixtureScenario(scenario) {
   const res = spawnSync(process.execPath, [join(ROOT, 'skills', 'design-atlas', 'scripts', 'query.mjs'), ...args], { encoding: 'utf8', timeout: 15000 });
   const expectedExit = scenario.expectExit ?? 0;
   if (res.status !== expectedExit) failures.push(`exit ${res.status}, expected ${expectedExit}`);
-  if (expectedExit !== 0) {
-    if (scenario.stderrIncludes && !res.stderr.includes(scenario.stderrIncludes)) {
-      failures.push(`stderr does not include ${JSON.stringify(scenario.stderrIncludes)}: ${res.stderr.trim().split('\n').pop()}`);
-    }
-    return { id: scenario.id, eval: scenario.eval ?? null, ok: failures.length === 0, failures };
+  if (expectedExit !== 0 && scenario.stderrIncludes && !res.stderr.includes(scenario.stderrIncludes)) {
+    failures.push(`stderr does not include ${JSON.stringify(scenario.stderrIncludes)}: ${res.stderr.trim().split('\n').pop()}`);
   }
-  if (res.status !== 0) return { id: scenario.id, eval: scenario.eval ?? null, ok: false, failures };
-  let data;
+  let data = null;
   try {
     data = JSON.parse(res.stdout);
-  } catch {
-    failures.push('stdout is not valid JSON');
-    return { id: scenario.id, eval: scenario.eval ?? null, ok: false, failures };
+  } catch {}
+  if (!data) {
+    if (expectedExit === 0) failures.push('stdout is not valid JSON');
+    else if ((scenario.assertions ?? []).length) failures.push('stdout is not valid JSON, cannot run assertions');
+    return { id: scenario.id, eval: scenario.eval ?? null, ok: failures.length === 0, failures };
   }
   for (const a of scenario.assertions ?? []) {
     const check = FIXTURE_ASSERTIONS[a.kind];
