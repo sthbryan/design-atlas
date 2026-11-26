@@ -1,0 +1,362 @@
+[
+ {
+  "name": "Airbnb",
+  "path": "styles/airbnb-c2325884.md",
+  "source": "https://styles.refero.design/style/c2325884-4391-4688-85cd-e143f5107517"
+ },
+ {
+  "name": "Apple (España)",
+  "path": "styles/apple-espa-a-c9cabb96.md",
+  "source": "https://styles.refero.design/style/c9cabb96-32fa-4896-837a-f2497ce1c856"
+ },
+ {
+  "name": "Attio",
+  "path": "styles/attio-08c8700c.md",
+  "source": "https://styles.refero.design/style/08c8700c-f278-42bc-812e-f60dc6ce996e"
+ },
+ {
+  "name": "Base",
+  "path": "styles/base-530eb4cf.md",
+  "source": "https://styles.refero.design/style/530eb4cf-7e75-4833-95c9-746818050db7"
+ },
+ {
+  "name": "Branding",
+  "path": "styles/branding-4d4772a3.md",
+  "source": "https://styles.refero.design/style/4d4772a3-e1da-415f-a6d7-658dcefdcecd"
+ },
+ {
+  "name": "Browserbase",
+  "path": "styles/browserbase-34d438ad.md",
+  "source": "https://styles.refero.design/style/34d438ad-0647-471e-9a6f-7c1fa29d5df6"
+ },
+ {
+  "name": "Cal.com",
+  "path": "styles/cal-com-5d7aa503.md",
+  "source": "https://styles.refero.design/style/5d7aa503-8cfa-49a4-bd3b-0c2f0f075c70"
+ },
+ {
+  "name": "Canva",
+  "path": "styles/canva-62f89392.md",
+  "source": "https://styles.refero.design/style/62f89392-609d-45b7-b9df-7a5acd529864"
+ },
+ {
+  "name": "Clerk",
+  "path": "styles/clerk-ed10ae04.md",
+  "source": "https://styles.refero.design/style/ed10ae04-24ec-4e42-9bf2-ea12a4b58d67"
+ },
+ {
+  "name": "ClickUp™",
+  "path": "styles/clickup-efcb73cb.md",
+  "source": "https://styles.refero.design/style/efcb73cb-b84a-4ae7-9a2b-e1116f79f130"
+ },
+ {
+  "name": "Coinbase Spain",
+  "path": "styles/coinbase-spain-df5e2be4.md",
+  "source": "https://styles.refero.design/style/df5e2be4-c2bd-42bb-bbc7-409bae6355c3"
+ },
+ {
+  "name": "Cron Calendar",
+  "path": "styles/cron-calendar-476184db.md",
+  "source": "https://styles.refero.design/style/476184db-a4e6-440b-aa53-27294668361c"
+ },
+ {
+  "name": "Cursor",
+  "path": "styles/cursor-4e3b4717.md",
+  "source": "https://styles.refero.design/style/4e3b4717-84c8-4599-baaf-a343c3d619b6"
+ },
+ {
+  "name": "Deel",
+  "path": "styles/deel-5ec4eb4f.md",
+  "source": "https://styles.refero.design/style/5ec4eb4f-a37c-4787-b4c1-de49e01770e7"
+ },
+ {
+  "name": "Depot",
+  "path": "styles/depot-f4636c5b.md",
+  "source": "https://styles.refero.design/style/f4636c5b-1342-48b2-b9b1-a82e2182440e"
+ },
+ {
+  "name": "Descript",
+  "path": "styles/descript-fe955d4a.md",
+  "source": "https://styles.refero.design/style/fe955d4a-c56d-4ab0-a6b3-8d985ab9570c"
+ },
+ {
+  "name": "Dia Browser",
+  "path": "styles/dia-browser-b458ca1a.md",
+  "source": "https://styles.refero.design/style/b458ca1a-70f0-4f85-b745-f879a4d08457"
+ },
+ {
+  "name": "Dribbble",
+  "path": "styles/dribbble-b8ce0a90.md",
+  "source": "https://styles.refero.design/style/b8ce0a90-40c6-4518-940c-8c97ccf9c1a0"
+ },
+ {
+  "name": "Dropbox.com",
+  "path": "styles/dropbox-com-2b41e7c4.md",
+  "source": "https://styles.refero.design/style/2b41e7c4-1e8c-4ea2-a87f-51e24c57886e"
+ },
+ {
+  "name": "Empower",
+  "path": "styles/empower-8d3dc65e.md",
+  "source": "https://styles.refero.design/style/8d3dc65e-4443-4bb3-b1a9-b0fc98381db9"
+ },
+ {
+  "name": "Figma",
+  "path": "styles/figma-5fd3b3b4.md",
+  "source": "https://styles.refero.design/style/5fd3b3b4-02ab-456a-87aa-e4395636b671"
+ },
+ {
+  "name": "Flying Papers",
+  "path": "styles/flying-papers-7d254296.md",
+  "source": "https://styles.refero.design/style/7d254296-6817-487a-a58c-4d5eca89cbf3"
+ },
+ {
+  "name": "Framer",
+  "path": "styles/framer-d417b42f.md",
+  "source": "https://styles.refero.design/style/d417b42f-824d-45ba-a02e-cbef3b8ea0d8"
+ },
+ {
+  "name": "Function",
+  "path": "styles/function-21b71be3.md",
+  "source": "https://styles.refero.design/style/21b71be3-78a0-4681-a5b9-64cc4b40eb67"
+ },
+ {
+  "name": "Galileo-ft",
+  "path": "styles/galileo-ft-10a77cbd.md",
+  "source": "https://styles.refero.design/style/10a77cbd-7847-4e1b-a09e-447ebad0f7c6"
+ },
+ {
+  "name": "GitHub",
+  "path": "styles/github-c3ceca5c.md",
+  "source": "https://styles.refero.design/style/c3ceca5c-d329-4559-b947-016172941ba2"
+ },
+ {
+  "name": "Gocardless",
+  "path": "styles/gocardless-48ae4f04.md",
+  "source": "https://styles.refero.design/style/48ae4f04-21cb-4ab3-8752-33b626a48c95"
+ },
+ {
+  "name": "Hex",
+  "path": "styles/hex-3e32db74.md",
+  "source": "https://styles.refero.design/style/3e32db74-a61d-4e72-93b8-1fb949af2c00"
+ },
+ {
+  "name": "LaunchDarkly",
+  "path": "styles/launchdarkly-18a75348.md",
+  "source": "https://styles.refero.design/style/18a75348-513a-49d8-94f5-e2df8c118b6b"
+ },
+ {
+  "name": "Lightdash",
+  "path": "styles/lightdash-d0f65d12.md",
+  "source": "https://styles.refero.design/style/d0f65d12-a8e6-4631-99f7-bb7cdcd5b6c5"
+ },
+ {
+  "name": "Linear",
+  "path": "styles/linear-90ce5883.md",
+  "source": "https://styles.refero.design/style/90ce5883-bb24-4466-93f7-801cd617b0d1"
+ },
+ {
+  "name": "Loom",
+  "path": "styles/loom-bc2c6ecc.md",
+  "source": "https://styles.refero.design/style/bc2c6ecc-7a0d-4693-86e5-9fa93b165601"
+ },
+ {
+  "name": "Lovi",
+  "path": "styles/lovi-51a9246f.md",
+  "source": "https://styles.refero.design/style/51a9246f-9238-47dd-b254-48983b8713a2"
+ },
+ {
+  "name": "Marco",
+  "path": "styles/marco-88e9d606.md",
+  "source": "https://styles.refero.design/style/88e9d606-7e8f-479c-9508-1b081e254ed9"
+ },
+ {
+  "name": "Maze",
+  "path": "styles/maze-966a03d5.md",
+  "source": "https://styles.refero.design/style/966a03d5-13e9-48d8-9b01-28e6ae3f3967"
+ },
+ {
+  "name": "Mercury",
+  "path": "styles/mercury-3172cd4d.md",
+  "source": "https://styles.refero.design/style/3172cd4d-118a-4a16-a259-6b634d32322e"
+ },
+ {
+  "name": "Mesh",
+  "path": "styles/mesh-1a03b8d7.md",
+  "source": "https://styles.refero.design/style/1a03b8d7-9204-4c16-ad3c-16306f99fba9"
+ },
+ {
+  "name": "Monzo",
+  "path": "styles/monzo-e8a1d114.md",
+  "source": "https://styles.refero.design/style/e8a1d114-6924-4f03-acd2-996dd30f15a6"
+ },
+ {
+  "name": "Notion",
+  "path": "styles/notion-2bf4c61f.md",
+  "source": "https://styles.refero.design/style/2bf4c61f-de10-4614-ba1b-20c0453bd2a9"
+ },
+ {
+  "name": "OLIPOP",
+  "path": "styles/olipop-c6ec55c7.md",
+  "source": "https://styles.refero.design/style/c6ec55c7-0bd9-47c5-a4d2-669b7790c9cc"
+ },
+ {
+  "name": "Outseta",
+  "path": "styles/outseta-859d51e6.md",
+  "source": "https://styles.refero.design/style/859d51e6-fc3f-45e0-a4c4-fe280c400ca7"
+ },
+ {
+  "name": "Pa'lais",
+  "path": "styles/pa-lais-5ef5e1ff.md",
+  "source": "https://styles.refero.design/style/5ef5e1ff-3cb3-4383-9f66-26474409d9ae"
+ },
+ {
+  "name": "Paradigm",
+  "path": "styles/paradigm-73cd9a6a.md",
+  "source": "https://styles.refero.design/style/73cd9a6a-f861-4376-a3e1-e12f83c8960e"
+ },
+ {
+  "name": "Pitch",
+  "path": "styles/pitch-da332394.md",
+  "source": "https://styles.refero.design/style/da332394-784c-4df2-9e66-c3f7b1d28f28"
+ },
+ {
+  "name": "PostHog",
+  "path": "styles/posthog-56cd3725.md",
+  "source": "https://styles.refero.design/style/56cd3725-3ff0-459e-894d-5da58d1fc549"
+ },
+ {
+  "name": "Qatalog",
+  "path": "styles/qatalog-7eed2626.md",
+  "source": "https://styles.refero.design/style/7eed2626-ab11-472c-b04a-603476ff8957"
+ },
+ {
+  "name": "Ramp",
+  "path": "styles/ramp-b38702a0.md",
+  "source": "https://styles.refero.design/style/b38702a0-75ab-474c-9106-00b624535825"
+ },
+ {
+  "name": "Raw Materials",
+  "path": "styles/raw-materials-274e85fb.md",
+  "source": "https://styles.refero.design/style/274e85fb-a34d-4e41-9369-be03065b971b"
+ },
+ {
+  "name": "Raycast",
+  "path": "styles/raycast-3b6a17f0.md",
+  "source": "https://styles.refero.design/style/3b6a17f0-3bdf-418c-a95e-0b89e5a8b2f8"
+ },
+ {
+  "name": "Relate dot App",
+  "path": "styles/relate-dot-app-6bc9448b.md",
+  "source": "https://styles.refero.design/style/6bc9448b-5d39-4aba-9007-25c7a2aedbad"
+ },
+ {
+  "name": "Resend",
+  "path": "styles/resend-0d914ef0.md",
+  "source": "https://styles.refero.design/style/0d914ef0-fa84-4c60-a9aa-cef0b5eb6e5d"
+ },
+ {
+  "name": "Retool",
+  "path": "styles/retool-c45b115b.md",
+  "source": "https://styles.refero.design/style/c45b115b-dcb5-446d-8952-85aef740f8e4"
+ },
+ {
+  "name": "Revolut",
+  "path": "styles/revolut-a3161c3c.md",
+  "source": "https://styles.refero.design/style/a3161c3c-26d4-425b-aaa3-4fc3f06b77ee"
+ },
+ {
+  "name": "Sanity.io",
+  "path": "styles/sanity-io-a3af7369.md",
+  "source": "https://styles.refero.design/style/a3af7369-b61c-4923-a628-931861c8097f"
+ },
+ {
+  "name": "Savvycal",
+  "path": "styles/savvycal-83b71dd8.md",
+  "source": "https://styles.refero.design/style/83b71dd8-de08-4c57-80b2-9fced17a0ca5"
+ },
+ {
+  "name": "School",
+  "path": "styles/school-a521abb9.md",
+  "source": "https://styles.refero.design/style/a521abb9-d84b-4870-b5a8-363be7c3f94a"
+ },
+ {
+  "name": "Shopify",
+  "path": "styles/shopify-1a8ba699.md",
+  "source": "https://styles.refero.design/style/1a8ba699-24cb-4b35-8db1-c595c578199c"
+ },
+ {
+  "name": "Slack",
+  "path": "styles/slack-e26cb9b0.md",
+  "source": "https://styles.refero.design/style/e26cb9b0-f876-41ff-9f24-fd67a6b9776c"
+ },
+ {
+  "name": "Spotify",
+  "path": "styles/spotify-cc59e195.md",
+  "source": "https://styles.refero.design/style/cc59e195-fed0-4928-96d1-303752786073"
+ },
+ {
+  "name": "Stripe",
+  "path": "styles/stripe-48e5de76.md",
+  "source": "https://styles.refero.design/style/48e5de76-05d5-4c4e-a269-c7c245b291ec"
+ },
+ {
+  "name": "Studio Few",
+  "path": "styles/studio-few-d5931dff.md",
+  "source": "https://styles.refero.design/style/d5931dff-2ae3-44c7-b76f-9e5936f90611"
+ },
+ {
+  "name": "Supabase",
+  "path": "styles/supabase-632249f1.md",
+  "source": "https://styles.refero.design/style/632249f1-fd78-4c77-9b34-7bae37ff3e9b"
+ },
+ {
+  "name": "Superhuman",
+  "path": "styles/superhuman-418b374a.md",
+  "source": "https://styles.refero.design/style/418b374a-be64-44f0-b17e-1d45308c7e62"
+ },
+ {
+  "name": "Superlist",
+  "path": "styles/superlist-13f27e7a.md",
+  "source": "https://styles.refero.design/style/13f27e7a-d84f-4ff9-a030-ae4e2c930757"
+ },
+ {
+  "name": "TeePublic",
+  "path": "styles/teepublic-0231caf5.md",
+  "source": "https://styles.refero.design/style/0231caf5-0347-4f2d-ba20-5bab8fcaf2ce"
+ },
+ {
+  "name": "Toggl Track",
+  "path": "styles/toggl-track-813be405.md",
+  "source": "https://styles.refero.design/style/813be405-c2b9-41be-9864-7b53d66483dc"
+ },
+ {
+  "name": "Vanta",
+  "path": "styles/vanta-6b4c8ca5.md",
+  "source": "https://styles.refero.design/style/6b4c8ca5-476e-442b-b713-d5fc58cf04ac"
+ },
+ {
+  "name": "Vercel",
+  "path": "styles/vercel-f24daf3a.md",
+  "source": "https://styles.refero.design/style/f24daf3a-d43f-4dec-85a9-8ac1d5148a03"
+ },
+ {
+  "name": "Webflow",
+  "path": "styles/webflow-31471407.md",
+  "source": "https://styles.refero.design/style/31471407-598a-45fd-a505-d921980d8855"
+ },
+ {
+  "name": "Wemakethings",
+  "path": "styles/wemakethings-15d57573.md",
+  "source": "https://styles.refero.design/style/15d57573-513b-49aa-91c7-1b7f87bb1a55"
+ },
+ {
+  "name": "Wise",
+  "path": "styles/wise-367c0c6e.md",
+  "source": "https://styles.refero.design/style/367c0c6e-73a7-441c-a8ff-91d139ac60dc"
+ },
+ {
+  "name": "Zed",
+  "path": "styles/zed-a541789c.md",
+  "source": "https://styles.refero.design/style/a541789c-36e7-45a4-9d1d-143921a82a8b"
+ }
+]
