@@ -40,6 +40,7 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Icônes](../sites/icones.md) — Instant offline-search icon explorer over Iconify's sets, with an icon-font packer, SVG download and copy-ready usage snippets.
 - [Iconify](../sites/iconify.md) — One naming scheme, API and toolchain over 200+ open icon sets and about 300k+ icons.
 - [Iconly](../sites/iconly.md) — Inspiration library of 2,400+ app, game and web app icons, searchable by category, style and colour, with 30 free and the rest behind a subscription.
+- [IconMCP](../sites/iconmcp.md) — 6,248 original outline icons with an MCP server your coding agent can search by meaning, MIT licensed.
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
 - [Icons.download](../sites/icons-download.md) — 275 hand-drawn UI icons in 16 styles (weight, fill, corner), free SVG and Figma.
 - [icons0 (broken)](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
@@ -62,11 +63,13 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Rune Icons](../sites/rune-icons.md) — 223 Apache-2.0 glyphs, each in up to five styles including pixelated and glass, editable in the browser.
 - [Shadcn Labs Skills](../sites/shadcn-skills.md) — Six MIT skills: launch a shadcn registry, generate, audit and extend SVG icon sets, Tailwind-to-StyleX.
 - [Simple Icons](../sites/simple-icons.md) — The standard CC0 set of 3,461 one-colour brand logos, with official hex colours and a colour CDN.
+- [Stick It Up](../sites/stick-it-up.md) — Free UI sticker component library for React and Next.js with 65+ interactive vinyl-style stickers.
 - [SVG Shapes](../sites/shapes-gallery.md) — Copy-first gallery of 70+ hand-drawn SVG shapes, one click to the clipboard, with a download-all option and no account.
 - [Svgl](../sites/svgl.md) — Searchable brand-logo SVG library with category filters, light and dark variants, copy formats, downloads and an API.
 - [Tabler Icons](../sites/tabler-icons.md) — Over 6,200 MIT outline and filled icons on a 2px grid, with packages for every major framework and llms.txt docs.
 - [The Iconography Encyclopedia](../sites/iconography-encyclopedia.md) — An alphabetical field guide to icon design terms, from alignment and anatomy to stroke weight and wayfinding.
 - [theSVG](../sites/thesvg.md) — 7,400+ brand and cloud icons with light, dark and wordmark variants, MCP, skill and CLI; licences vary per file.
+- [Trazo](../sites/trazo.md) — Hand-drawn wax-crayon sticker SVGs for React and the web, recolourable live and installable from npm.
 - [useAnimations](../sites/useanimations.md) — 87 free micro-animated icons (SVG + Lottie) and a React package; attribution required, licence inconsistent.
 <!-- atlas:sources:end -->
 

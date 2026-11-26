@@ -28,6 +28,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
 - [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
 - [Appllama](../sites/appllama.md) — iOS app screen and flow archive with recorded walkthroughs, screen details and cross-app comparisons.
+- [Apppshot](../sites/apppshot.md) — App Store screenshot sets shown side by side, searchable by app, category or colour, for studying real app presentation.
 - [Atlassian Design](../sites/atlassian-design.md) — Atlassian's design system: tokens, primitives, component guidelines and accessibility rules, with llms.txt files for agents.
 - [AURAI LAB](../sites/aurai.md) — Shanghai creative studio with a pearl-toned editorial homepage and a public CityWalk product demo.
 - [Auri (auri.ai)](../sites/auri.md) — Interactive demos of an AI keyboard, visual chat and notes show how assistant features can fit into everyday writing flows.
@@ -91,6 +92,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [ScreensDesign](../sites/screensdesign.md) — Study real app onboarding, paywalls and product flows through searchable screens, chaptered videos and app breakdowns.
 - [Snapzy](../sites/snapzy.md) — A macOS capture app whose landing page shows annotation, background presets and recording workflows in context.
 - [Sona UI](../sites/sona-ui.md) — Small MIT set of accessible animated React components with an agent manifest, catalog, skill and read-only API through shadcn.
+- [Spotted in Prod](../sites/spotted-in-prod.md) — Clips and stills of the best iOS app design in production, with leaderboards, staff picks and home setups.
 - [squig](../sites/squig.md) — A wireframing canvas where real UI components render as hand-drawn sketches, with an agent bridge into the open tab.
 - [Squints](../sites/squints.md) — Free Chrome extension that measures spacing, identifies type and colour, and slows or scrubs animations on any live page.
 - [StyleSeed](../sites/styleseed.md) — 23-skill engine that locks decisions in STYLESEED.md, builds OKLCH palettes from one colour, and scores UI to 80 or above.
@@ -98,6 +100,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Superfuture Design Review](../sites/superfuture-design-review.md) — Ten-area design critique ranked by severity with exact fixes; it sends a hidden usage ping.
 - [Tally](../sites/tally.md) — Form builder that sells restraint — plain type, a document you type into, and a free form before any signup.
 - [The Shape of AI](../sites/shape-of-ai.md) — Emily Campbell's 57 AI UX patterns in six groups, each with trade-offs and real product examples; CC BY-NC-SA.
+- [ThinkUI](../sites/thinkui.md) — Hosted MCP server giving coding agents screens, flows, components, animated icons and typefaces from shipped products.
 - [Typeform](../sites/typeform.md) — Form platform whose site leads with an MCP banner and a one-question-at-a-time form, plus AI products for research and growth.
 - [UI Discovery](../sites/ui-discovery.md) — Search real website, app and section captures by product, industry, style or query, with palettes, type and an MCP/API for agents.
 - [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
@@ -107,6 +110,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [ui-design.studio](../sites/ui-design-studio.md) — A free interface gallery with credited shots, designer pages and tags for patterns such as settings, forms and navigation.
 - [UI-Patterns.com](../sites/ui-patterns.md) — A reference library that explains recurring interface and persuasion patterns with usage notes and screenshot examples.
 - [UIWTF](../sites/uiwtf.md) — Rauno Freiberg's seven classic experiments (command menu, copy source, link preview, minimap), each with a rationale.
+- [Uizze](../sites/uizze.md) — Searchable library of real web and iOS screens and user flows, built to give coding agents design taste.
 - [User Interface Wiki](../sites/user-interface-wiki.md) — Raphael Salaja's nine demo-rich articles on motion, sound and type, installable as a 152-rule agent skill.
 - [UserOnboard](../sites/useronboard.md) — Annotated onboarding teardowns presented as navigable screen sequences, useful for studying flow, hierarchy and progressive disclosure.
 - [Variant](../sites/variant.md) — Explore a prompt-led stream of live interface experiments, then use the examples as inspiration for your own visual direction.
