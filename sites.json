@@ -5124,7 +5124,7 @@
       "status": "active",
       "related": [
         "designmd",
-        "designmd-ai",
+        "design-md-chrome",
         "refero-styles"
       ]
     },
@@ -5445,35 +5445,6 @@
       ]
     },
     {
-      "slug": "designmd-ai",
-      "path": "sites/designmd-ai.md",
-      "title": "DESIGNmd",
-      "description": "Community library of DESIGN.md design systems for AI coding, with an MCP server and CLI to search and download.",
-      "url": "https://designmd.ai/",
-      "type": "style-library",
-      "formats": "DESIGN.md library · MCP server · CLI · format documentation",
-      "topics": [
-        "design-md",
-        "agents-and-prompts",
-        "documentation"
-      ],
-      "verdict": "useful",
-      "agent": [
-        "mcp",
-        "cli"
-      ],
-      "pricing": "free",
-      "licence": "Each uploaded system keeps its own licence (examples include MIT, CC0, CC-BY and CC-BY-SA at review); check the file you download. Browsing is free and the MCP key costs nothing.",
-      "licence_class": "mixed",
-      "reviewed": "2026-11-26",
-      "status": "active",
-      "related": [
-        "refero-styles",
-        "designmd",
-        "design-md-format"
-      ]
-    },
-    {
       "slug": "designmd-cc",
       "path": "sites/designmd-cc.md",
       "title": "DesignMD.cc",
@@ -5615,15 +5586,15 @@
         "cli"
       ],
       "pricing": "free",
-      "licence": "free to browse and download; a free API key is needed to use the MCP/CLI for uploading, downloading or deleting. Not indicated for the licence of each individual design system.",
+      "licence": "Free to browse and download, and the MCP key costs nothing. Each uploaded system keeps its own licence, and the ones sampled at review included MIT, CC0, CC-BY and CC-BY-SA, so the licence of the file you take is the one that applies.",
       "licence_class": "not-stated",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-11-26",
       "status": "active",
       "related": [
+        "design-md-format",
+        "refero-styles",
         "vibeprompts",
-        "shadcn-ui",
-        "uiable",
-        "21st-dev"
+        "design-md-chrome"
       ]
     },
     {
@@ -22442,7 +22413,7 @@
         "registry"
       ],
       "pricing": "freemium",
-      "licence": "89 free components are MIT per the project's GitHub repository; Core is $199 once and Pro $299 once under a commercial licence at review. The paid tiers cover block and template source, the full skill set and the agents.",
+      "licence": "89 free components are MIT per the project's GitHub repository, and the free set includes a DESIGN.md, four agent skills and an MCP server. Core is $199 once and Pro $299 once, each for one named developer or designer, under a commercial licence at review; Pro adds 55 blocks with 285 screens across both Figma files.",
       "licence_class": "mixed",
       "reviewed": "2026-11-26",
       "status": "active",

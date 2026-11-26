@@ -12,7 +12,7 @@ licence: Apache-2.0, stated in the repository at review (29,130 stars).
 licence_class: open-source-permissive
 reviewed: 2026-11-26
 status: active
-related: [designmd, designmd-ai, refero-styles]
+related: [designmd, design-md-chrome, refero-styles]
 ---
 [← Atlas](../site/home.md) · Topics: [design-md](../topics/design-md.md), [documentation](../topics/documentation.md), [agents-and-prompts](../topics/agents-and-prompts.md)
 
@@ -49,4 +49,4 @@ The repository is built for coding agents, with a CLI, skills and agent-facing d
 
 ## Related
 
-[DESIGN.md](designmd.md), [DESIGNmd](designmd-ai.md), [Refero Styles](refero-styles.md)
+[DESIGN.md](designmd.md), [TypeUI DESIGN.md Extractor](design-md-chrome.md), [Refero Styles](refero-styles.md)
