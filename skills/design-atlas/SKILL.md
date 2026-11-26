@@ -21,7 +21,7 @@ Three defaults:
 - **Index**: `sites.json`, `llms.txt` or the bundled `references/catalog.json`, one record per reviewed site.
 - **Hub**: `topics/<slug>.md`, a curated entry point with "Start here", "Patterns worth reusing" and "Pitfalls".
 - **Site page**: `sites/<slug>.md`, one reviewed reference with frontmatter and seven fixed sections.
-- **Style file**: `styles/<slug>.md`, an exported DESIGN.md from a real brand: mood line, colour tokens with roles, type scale with weights and a free substitute, spacing, radius, components, surfaces, elevation and a do's and don'ts list. `styles/index.json` indexes them by name, source and file.
+- **Style file**: an exported DESIGN.md from a real brand: mood line, colour tokens with roles, type scale with weights and a free substitute, spacing, radius, components, surfaces, elevation and a do's and don'ts list. The full catalogue of 1,343 is indexed in this skill's `references/styles-index.json`; a clone carries a curated subset in `styles/` with `styles/index.json`. The index is the map, the files are the shortlist.
 - **Brief**: what this skill returns.
 
 Style files are reconstructions: measurements are normalised, roles are interpreted and the HTML is rebuilt rather than taken from the source site. Treat them as a very good description of a look, not as the brand's own assets.
@@ -92,14 +92,13 @@ node "$SKILL_DIR/scripts/query.mjs" --slug iconoir,icons0 --full
 
 Without Node, filter `llms.txt` or the catalog with grep or jq; `references/query-recipes.md` has the commands.
 
-**Styles.** When the shortlist has brands you want to imitate, look for their exported style files before opening anything else:
+**Styles.** When the shortlist has brands whose look you want to study, start with the bundled index; it always ships with this skill:
 
 ```sh
-jq -r '.[] | select(.name | test("linear|vercel|stripe"; "i")) | "\(.name)\t\(.path)"' styles/index.json
-grep -ril "motion" styles/*.md | head
+jq -r '.[] | select(.name | test("linear|vercel|stripe"; "i")) | "\(.name)\t\(.source)"' "$SKILL_DIR/references/styles-index.json"
 ```
 
-Read `styles/index.json` once for names and paths, then open only the files for your shortlist. If the clone has no `styles/`, say so and work from the site pages and live inspection.
+That tells you which brands have an exported style and where its page lives. Then, for each one, open `styles/<slug>-<uuid>.md` in the clone when that file exists; if it does not, open the live site and read the look there. Never block on the folder: a missing style file means less detail, not a missing source, and the index alone is enough to name the brand and its URL.
 
 ### 3. Read the hubs
 
@@ -168,8 +167,9 @@ This section applies only to code, assets or fonts the user will paste into a pr
 - A Vercel-style security checkpoint blocks scripted requests but not a real browser; open the site before calling it dead.
 - `verdict_after_use: let-down` means the site failed after review; prefer one that held up.
 - Rows with `status` `stale` or `broken` stay in the index: flag them and prefer an active alternative.
-- Style files duplicate: the corpus repeats some brands and includes generic "home" pages, so check the source URL before trusting the name.
-- The corpus is a snapshot. If the brand is live, the current site beats the file.
+- The catalogue repeats brands and includes generic "home" pages; check the source before trusting a name.
+- A style file is a snapshot with no motion or accessibility data, and the clone holds only a subset. When the brand is live, the current site beats the file.
+- Never treat the absence of `styles/` as a blocker: the index ships with the skill and the live site is the fallback.
 
 ## Before you finish
 
