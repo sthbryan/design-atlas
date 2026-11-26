@@ -95,7 +95,7 @@ curl -fsS --max-time 8 https://raw.githubusercontent.com/sthbryan/design-atlas/m
 curl -fsS --max-time 8 https://raw.githubusercontent.com/sthbryan/design-atlas/main/sites/iconoir.md
 ```
 
-A 404 or a timeout means the remote is unavailable, so fall back to the bundled catalog. The repository is private for now, so these URLs return 404 until it is made public. Human-readable links take the form `https://github.com/sthbryan/design-atlas/blob/main/sites/<slug>.md`.
+A 404 or a timeout means the remote is unavailable, so fall back to the bundled catalog. The repository is public, so these raw URLs work directly. Human-readable links take the form `https://github.com/sthbryan/design-atlas/blob/main/sites/<slug>.md`.
 
 ## Reading a page
 
