@@ -1,30 +1,45 @@
+<div align="center">
+
 # Design Atlas
 
 **Find the reference, borrow the pattern, build your own design.**
 
-Design Atlas is a curated wiki of reviewed references for websites and UI: galleries, component libraries, design systems, icon sets, fonts and creative tools. Each entry says what the source is good for, how it works with coding agents, and what its licence allows. The atlas exists so an agent can study a few real designs, name the patterns worth borrowing, and turn them into a direction for something new.
+Design Atlas is a curated wiki of reviewed references for websites and UI: galleries, component libraries, design systems, icon sets, fonts and creative tools. Each entry says what the source is good for, how it works with coding agents, and what its licence allows.
 
-[Website](https://atlas.justcallmebryan.com/) · [Agent skills](site/skills.md) · [Contributing](CONTRIBUTING.md) · [License](LICENSE)
+[CI](https://github.com/sthbryan/design-atlas/actions/workflows/check.yml) [Website](https://atlas.justcallmebryan.com/) [License](LICENSE)
+
+![CI](https://github.com/sthbryan/design-atlas/actions/workflows/check.yml/badge.svg) ![Website](https://img.shields.io/badge/website-atlas.justcallmebryan.com-green) ![CC BY 4.0](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey) ![MIT](https://img.shields.io/badge/license-MIT-blue) ![Agent Skills](https://img.shields.io/badge/agent--skills-purple)
+
+[Website](https://atlas.justcallmebryan.com/) · [Browse](#browse-the-atlas) · [Skills](#agent-skills) · [Development](#development) · [Contributing](#contributing)
+
+</div>
 
 ## Why
 
 Agents guess interfaces from screenshots. The atlas replaces the guess with reviewed material: a verdict, licence class, agent channels and review date on every source, topic hubs that shortlist the best entry points, exported `DESIGN.md` style files that describe how a look is built, and machine-readable indexes that an agent can filter before reading anything.
 
-Inspiration is the normal case. Borrowing structure, hierarchy, rhythm, type scale, spacing, colour roles and motion timing needs no permission. Licence only becomes a filter when the user will paste someone's code, assets or fonts into a product.
-
-## Browse the atlas
-
-Start with a topic hub, then open the shortlisted site pages. Use the indexes to filter before reading:
-
 ```sh
+# find every motion-focused source, then open its page
 grep 'topics: [^;]*motion' llms.txt
-jq '.sites[] | select(.licence_class == "open-source-permissive") | .path' sites.json
 node skills/design-atlas/scripts/query.mjs --search "editorial portfolio with oversized serif" --type gallery,website
 ```
 
-`agent: none` means no published integration; an agent can still browse the site. For visual work, inspect a few live examples in a browser before choosing a direction. Atlas pages record what was reviewed; the live site is the evidence.
+The agent gets back a shortlist, not a screenshot. Inspiration is the normal case. Borrowing structure, hierarchy, rhythm, type scale, spacing, colour roles and motion timing needs no permission. Licence only becomes a filter when the user will paste someone's code, assets or fonts into a product.
 
-The `styles/` folder holds a curated set of exported `DESIGN.md` files with their source URLs, indexed by `styles/index.json`. The full catalogue of 1,343 styles is indexed inside the `design-atlas` skill at `skills/design-atlas/references/styles-index.json`, so the skill works with no corpus on disk.
+## Features
+
+* **Reviewed sources.** Every site page carries a verdict, licence class, agent channels and review date, in its frontmatter and in the indexes.
+* **Topic hubs.** Curated entry points for inspiration, landing pages, components, motion, icons, colour, dashboards and agent workflows.
+* **Exported styles.** A curated corpus of `DESIGN.md` files with source URLs under `styles/`, indexed by `styles/index.json`. The full catalogue of 1,343 styles is indexed inside the `design-atlas` skill.
+* **Machine-readable indexes.** `llms.txt` and `sites.json` carry the same metadata for filtering, and `query.mjs` filters by topic, licence, agent channel, verdict and freshness.
+* **Two agent skills.** `design-atlas` turns three to five references into one visual direction. `design-atlas-ui` builds and reviews UI from that direction with rendered evidence.
+* **System theme website.** The VitePress site follows the reader's OS light or dark preference automatically, with no switch.
+
+> Atlas pages record what was reviewed. For visual work, inspect a few live examples in a browser before choosing a direction: the live site is the evidence.
+
+## Browse the atlas
+
+Start with a topic hub, then open the shortlisted site pages. `agent: none` means no published integration; an agent can still browse the site.
 
 | Looking for | Start with |
 |---|---|
@@ -44,8 +59,8 @@ See [AGENTS.md](AGENTS.md) for the full reading workflow.
 
 Two installable skills in the open Agent Skills format:
 
-- [`design-atlas`](skills/design-atlas/SKILL.md) (2.0.1) studies real designs and exported style files and turns three to five of them into one visual direction. It queries the index, reads hubs, inspects live examples, pulls the style files for the shortlist and writes a brief with a five-line direction. Licence is a footnote, not a gate.
-- [`design-atlas-ui`](skills/design-atlas-ui/SKILL.md) (0.4.0) builds and reviews UI from that direction: it writes a short-form `DESIGN.md` by default, builds with tokens only, and verifies with rendered evidence.
+- [`design-atlas`](skills/design-atlas/SKILL.md) (2.0.1) studies real designs and exported style files and turns three to five of them into one visual direction: query the index, read hubs, inspect live examples, pull the style files for the shortlist, write a brief with a five-line direction. Licence is a footnote, not a gate.
+- [`design-atlas-ui`](skills/design-atlas-ui/SKILL.md) (0.4.0) builds and reviews UI from that direction: short-form `DESIGN.md` by default, tokens only, rendered evidence.
 
 Install both with the [skills CLI](https://github.com/vercel-labs/skills) for any compatible agent. Add `--agent <name>` to choose a target, or `--skill <name>` to install one skill:
 
@@ -65,7 +80,7 @@ The plugin includes the atlas pages. The skills CLI installs the skill folders w
 
 ## Website
 
-The [VitePress site](site/home.md) uses the existing Markdown pages and serves this README at `/readme`. The site follows the system theme automatically, with no switch. Run it locally with Bun:
+The [VitePress site](site/home.md) uses the existing Markdown pages and serves this README at `/readme`. Run it locally with Bun:
 
 ```sh
 bun install
