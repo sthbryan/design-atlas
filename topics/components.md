@@ -31,7 +31,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Ahmad Shadeed](../sites/ishadeed.md) — Hands-on CSS layout articles and an interactive lab for inspecting modern selectors, grids and container queries.
 - [AI Canvas](../sites/aicanvas.md) — Complete React design systems and 98 standalone components for AI coding agents, installed with one command.
 - [Amacro](../sites/amacro.md) — 86 full-screen theme and page reveal effects on View Transitions, delivered as copyable CSS snippets.
-- [Amicro](../sites/amicro.md) — Big MIT shadcn registry of loaders, card fans, carousels and micro-interactions; young and changing fast.
+- [Amicro](../sites/amicro.md) — 170+ MIT React micro-interactions on a shadcn registry, with short stated easings, reduced-motion respected and an llms.txt.
 - [Angular Native](../sites/angular-native.md) — Alpha MIT framework for building native iOS and Android apps with Angular, Expo and React Native's rendering layer.
 - [Anima](../sites/anima.md) — UX design agent that turns Figma files, URLs or prompts into production-ready front-end code with brand context.
 - [Animata](../sites/animata.md) — Copy-in animated React components, 157 at review, browsed as moving previews rather than static screenshots.
