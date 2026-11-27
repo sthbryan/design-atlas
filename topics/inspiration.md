@@ -137,6 +137,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Duolingo Art Style](../sites/duolingo-art-style.md) — Duolingo’s illustrated guide to readable vector shapes, expressive characters, negative space and playful visual storytelling.
 - [Edinburgh College of Art Graduate Show 2025](../sites/eca-graduate-show-2025.md) — Edinburgh's cross-school 2025 graduate archive, searchable by discipline and theme, with student portfolios and curated collections.
 - [EISAKA DESIGN](../sites/eisaka-design.md) — Riga designer portfolio with spacious project cards for visual identity, packaging and print work.
+- [Exo Ape](../sites/exo-ape.md) — Motion-first studio portfolio: immersive project storytelling and carefully crafted interaction as the whole pitch.
 - [Experimental Jetset](../sites/experimental-jetset.md) — Amsterdam graphic design studio archive with category filters, alphabetical and chronological sorting, and image-led project records.
 - [Eyecandy](../sites/eyecannndy.md) — Browse named visual techniques through short explanations and example clips, useful for motion and art-direction references.
 - [Fantastical](../sites/fantastical.md) — Calendar app whose page stacks natural-language input, calendar sets and platform bands under press quotes from named reviewers.

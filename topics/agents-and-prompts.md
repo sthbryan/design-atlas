@@ -162,6 +162,8 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [squig](../sites/squig.md) — A wireframing canvas where real UI components render as hand-drawn sketches, with an agent bridge into the open tab.
 - [SRCL](../sites/srcl.md) — Terminal-aesthetic React kit plus matching CLI framework, with llms.txt, AGENTS.md catalogue and porting skills.
 - [startercn](../sites/startercn.md) — MIT Next.js template for publishing your own shadcn registry, with Fumadocs docs, llms.txt and skill discovery.
+- [Stripe](../sites/stripe.md) — Payment platform API reference: language-switchable code samples, a clear endpoint catalog and an embedded API explorer.
+- [Supabase](../sites/supabase.md) — Open source Postgres platform docs: guide and reference paths organized by product, client libraries in many languages, MCP and llms.txt.
 - [Tabbied](../sites/tabbied.md) — 338 seeded geometric patterns as an MIT npm/React package, with a CLI and a hosted MCP.
 - [termcn](../sites/termcn.md) — Ink and OpenTUI terminal components via shadcn CLI, including agent chat, tool-approval and diff-review widgets.
 - [theSVG](../sites/thesvg.md) — 7,400+ brand and cloud icons with light, dark and wordmark variants, MCP, skill and CLI; licences vary per file.

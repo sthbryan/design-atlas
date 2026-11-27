@@ -30,6 +30,7 @@ How sites document components, design systems and style — for human readers an
 - [Babylon.js](../sites/babylonjs.md) — Apache-2.0 WebGL and WebGPU engine from Microsoft, with a playground, node editors, sandbox and inspector for building 3D in the browser.
 - [Base UI](../sites/base-ui.md) — Unstyled, accessible React primitives from the Radix, Floating UI and MUI teams, now shadcn's default.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
+- [Clerk](../sites/clerk.md) — User management API reference: frontend, backend and platform APIs separated by intended use, with llms.txt published.
 - [ColorBox](../sites/colorbox.md) — Palette generator built on OKLCH and OKLAB, checking WCAG contrast as you edit and exporting CSS, Tailwind, Figma tokens or JSON.
 - [D3](../sites/d3.md) — The library for bespoke data visualisation, with a gallery of notebook examples that doubles as a vocabulary of chart forms.
 - [Design System Checklist](../sites/design-system-checklist.md) — 230 items across language, foundations, 29 components and maintenance, with shareable progress links.
@@ -50,6 +51,7 @@ How sites document components, design systems and style — for human readers an
 - [Inclusive Components](../sites/inclusive-components.md) — Heydon Pickering's 11 in-depth posts on making common components accessible, each ending in a checklist.
 - [Josh W. Comeau](../sites/josh-w-comeau.md) — Interactive CSS guides where you can resize layouts, change rules and inspect the resulting interface.
 - [Laws of UX](../sites/laws-of-ux.md) — 30 psychology principles with takeaways and origins, served as llms.txt and markdown; CC BY-NC-ND.
+- [Linear](../sites/linear.md) — Issue tracking API developers hub: a compact GraphQL doc structure, an explorable schema and MCP access for agents.
 - [mdxcn](../sites/mdxcn.md) — Callouts, steps, terminals, timelines and charts for MDX, drawn with text and installed through the shadcn CLI.
 - [Mintlify](../sites/mintlify.md) — Hosted documentation platform built for agents: MCP server, llms.txt, API playground and Git-based markdown.
 - [model-viewer](../sites/model-viewer.md) — Web component documentation for showing interactive 3D models in a page or in AR, with a quick start, examples and FAQ.
@@ -68,14 +70,18 @@ How sites document components, design systems and style — for human readers an
 - [Primer](../sites/primer.md) — GitHub's design system, with tokens, primitives, component docs, UI patterns and an MCP server for agents.
 - [Radix](../sites/radix.md) — WorkOS-maintained primitives, Themes, 15px icons and the 12-step Radix Colors system.
 - [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
+- [Resend](../sites/resend.md) — Developer email API reference: a crisp entry point for auth and base URLs, clean response codes and an MCP server.
 - [SakaniUI](../sites/sakaniui.md) — Token-driven React design system with a Liquid Glass surface layer, 130+ components, 42 blocks and Figma parity.
 - [Sent](../sites/sent.md) — Developer-tool landing page for one SMS, WhatsApp and RCS API, with a cost estimator and a per-country rate sheet instead of plan cards.
 - [Shadcn Labs](../sites/shadcn-labs.md) — Index of the independent Shadcn Labs registries: termcn, pdfcn, emailcn, ogimagecn, shadercn and more.
 - [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
+- [Shopify Developer Docs](../sites/shopify-docs.md) — Developer docs with strong top-level wayfinding that separates apps, storefronts, agents and references, so different tasks feel distinct.
 - [Skrewww](../sites/skrewww.md) — React design system where one component set adapts through tokens across shape, surface and brand, with contracts agents can read.
 - [startercn](../sites/startercn.md) — MIT Next.js template for publishing your own shadcn registry, with Fumadocs docs, llms.txt and skill discovery.
 - [Stop Slop](../sites/stop-slop.md) — Small prose skill listing AI phrases and sentence shapes to cut, with a 50-point score.
+- [Stripe](../sites/stripe.md) — Payment platform API reference: language-switchable code samples, a clear endpoint catalog and an embedded API explorer.
+- [Supabase](../sites/supabase.md) — Open source Postgres platform docs: guide and reference paths organized by product, client libraries in many languages, MCP and llms.txt.
 - [Super](../sites/super.md) — Turns a Notion page into a website, sold on a themed layer — custom fonts, icons, illustrations and components over a plain document.
 - [The Book of Shaders](../sites/book-of-shaders.md) — Classic step-by-step guide to fragment shaders with editable live examples; learning only, all rights reserved.
 - [The Component Gallery](../sites/component-gallery.md) — Reference that compares how 95 design systems name, structure and document the same 60 components.

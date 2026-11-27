@@ -107,6 +107,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [Float UI](../sites/float-ui.md) — About 200 free Tailwind sections in HTML, React, Vue and Svelte; custom no-redistribution licence despite the open-source label.
 - [Flowbase](../sites/flowbase.md) — Subscription library of 3,500+ Webflow, Figma and Framer sections, wireframes, icons and illustrations; use tied to the plan.
 - [Flowbite](../sites/flowbite.md) — Large MIT Tailwind library with data-attribute JS, React/Svelte/Vue ports, Figma kit, open-source MCP and paid Pro blocks.
+- [Fluent 2](../sites/fluent-2.md) — Microsoft design system: cross-platform guidance, Figma kits and code guidance with foundations and component docs in one place.
 - [Fluid Functionalism](../sites/fluid-functionalism.md) — Spring-driven shadcn registry (Radix or Base UI) with proximity hover, AI chat parts and copy prompts.
 - [FlyonUI](../sites/flyonui.md) — Semantic Tailwind classes plus bundled Preline JS plugins; MIT with Preline Fair Use terms inherited, paid Pro blocks and MCP builder.
 - [ForgeUI](../sites/forgeui.md) — Animated SaaS components, blocks and templates via the @forgeui shadcn namespace; free code has a no-redistribution licence, Pro is $99 one-time.
@@ -162,6 +163,7 @@ Component libraries, registries and design systems for building UI — from sing
 - [lookup.design](../sites/lookup-design.md) — Hand-indexed library of UI screenshots from named brands, searchable by component — hero, card, navigation — with a free tier and no filters by style.
 - [Lucide](../sites/lucide.md) — Community fork of Feather with about 1,850 ISC-licensed stroke icons, official packages for most frameworks, llms.txt docs and shadcn's default.
 - [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
+- [Mantine](../sites/mantine.md) — React component library with a cohesive, easy-to-browse docs site: abundant examples, hooks documentation and MCP access.
 - [mapcn](../sites/mapcn.md) — Map components distributed as a shadcn/ui registry, with a "copy prompt for your agent" button.
 - [Material Design 3](../sites/material-design-3.md) — Google's component and color system with role-based schemes, adaptive UI examples and expressive component patterns.
 - [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.

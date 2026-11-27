@@ -90,6 +90,7 @@ Animation libraries and motion patterns for interfaces — from full JS animatio
 - [Eva Icons (stale)](../sites/eva-icons.md) — Akveo's MIT pack of 490 outline and fill icons with a data-attribute replace script and four hover animations; unmaintained since 2020.
 - [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
+- [Exo Ape](../sites/exo-ape.md) — Motion-first studio portfolio: immersive project storytelling and carefully crafted interaction as the whole pitch.
 - [Eyecandy](../sites/eyecannndy.md) — Browse named visual techniques through short explanations and example clips, useful for motion and art-direction references.
 - [Fancy Components](../sites/fancy-components.md) — Playful MIT React effects: text swaps, variable-font play, Matter.js gravity, with llms.txt and shadcn registry.
 - [Filmagic](../sites/filmagic.md) — Paste a product URL and get a launch video, with free media tools for compressing, converting and resizing.

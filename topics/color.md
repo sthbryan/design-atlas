@@ -40,6 +40,7 @@ Colour tools for interfaces: OKLCH pickers, palette and token generators, contra
 - [Duolingo Art Style](../sites/duolingo-art-style.md) — Duolingo’s illustrated guide to readable vector shapes, expressive characters, negative space and playful visual storytelling.
 - [extract-design-system](../sites/extract-design-system.md) — Pulls colours, fonts, spacing, radii and shadows from a public URL into starter tokens.json and tokens.css, with a CI audit.
 - [Fffuel](../sites/fffuel.md) — About 65 free SVG generators for grainy gradients, blobs, noise and patterns, plus simple palette tools.
+- [Fluent 2](../sites/fluent-2.md) — Microsoft design system: cross-platform guidance, Figma kits and code guidance with foundations and component docs in one place.
 - [Gradient Spin](../sites/gradient-spin.md) — A tiny React grid spinner swept by an OKLab-blended gradient wave, in four patterns.
 - [Grainient](../sites/grainient.md) — A curated library of smooth, grainy and animated gradients, plus a live shader editor for custom backgrounds.
 - [Halftone Maker](../sites/halftone-maker.md) — Browser studio for vector halftone and stipple images, with shape, grid, colour and sampling controls.

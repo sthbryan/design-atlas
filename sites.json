@@ -3960,6 +3960,33 @@
       ]
     },
     {
+      "slug": "clerk",
+      "path": "sites/clerk.md",
+      "title": "Clerk",
+      "description": "User management API reference: frontend, backend and platform APIs separated by intended use, with llms.txt published.",
+      "url": "https://clerk.com/docs/reference/api/overview",
+      "type": "documentation",
+      "formats": "docs · auth API · user management",
+      "topics": [
+        "documentation",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The platform is proprietary with a free tier at review, stated on the pricing page. The docs are free to read and look-only at review; API and component use follow the platform terms. No open source licence is stated for the service.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "supabase",
+        "linear"
+      ]
+    },
+    {
       "slug": "closeit-fast",
       "path": "sites/closeit-fast.md",
       "title": "closeit.fast",
@@ -4829,6 +4856,31 @@
         "designeer",
         "seesaw",
         "navbar-gallery"
+      ]
+    },
+    {
+      "slug": "cursor",
+      "path": "sites/cursor.md",
+      "title": "Cursor",
+      "description": "AI code editor landing page that turns an interactive product demo into the hero, making the coding workflow the visual story.",
+      "url": "https://cursor.com",
+      "type": "website",
+      "formats": "product · AI coding tool · landing page",
+      "topics": [
+        "ai-interfaces",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Proprietary product with free and paid tiers at review, stated on the pricing page. The site and product content are look-only at review; no open source edition is stated. Prices and plan limits are stated on the pricing page.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "replit",
+        "raycast",
+        "lovable"
       ]
     },
     {
@@ -7013,6 +7065,30 @@
       ]
     },
     {
+      "slug": "exo-ape",
+      "path": "sites/exo-ape.md",
+      "title": "Exo Ape",
+      "description": "Motion-first studio portfolio: immersive project storytelling and carefully crafted interaction as the whole pitch.",
+      "url": "https://exoape.com",
+      "type": "website",
+      "formats": "portfolio · studio site · motion design",
+      "topics": [
+        "inspiration",
+        "motion"
+      ],
+      "verdict": "niche",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The site is free to browse; the studio's work and content are all rights reserved at review, so treat the site as look-only and do not reuse its copy, imagery or code.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "100000-stars",
+        "60fps"
+      ]
+    },
+    {
       "slug": "experimental-jetset",
       "path": "sites/experimental-jetset.md",
       "title": "Experimental Jetset",
@@ -7175,6 +7251,30 @@
       "related": [
         "oneswitch",
         "sleeve"
+      ]
+    },
+    {
+      "slug": "fathom",
+      "path": "sites/fathom.md",
+      "title": "Fathom Analytics",
+      "description": "Privacy-focused analytics with a pageview slider that drives the pricing comparison, so visitors explore usage before choosing a plan.",
+      "url": "https://usefathom.com/pricing",
+      "type": "website",
+      "formats": "product · analytics · usage-based pricing",
+      "topics": [
+        "ux-patterns",
+        "cta"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Paid plans at review, no free tier found on the pricing page. The hosted service is proprietary; no open source edition is stated at review. Plan prices and limits are stated on the pricing page.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "plausible",
+        "posthog"
       ]
     },
     {
@@ -7479,6 +7579,30 @@
         "daisyui",
         "meraki-ui",
         "headless-ui"
+      ]
+    },
+    {
+      "slug": "fluent-2",
+      "path": "sites/fluent-2.md",
+      "title": "Fluent 2",
+      "description": "Microsoft design system: cross-platform guidance, Figma kits and code guidance with foundations and component docs in one place.",
+      "url": "https://fluent2.microsoft.design",
+      "type": "design-system",
+      "formats": "design system · foundations · Figma kits",
+      "topics": [
+        "components",
+        "color"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The design system is free to use for building with Fluent, per the site's terms at review; Microsoft retains rights in the brand and asset material, so treat the guidelines and assets as look-only beyond building with the system. No open source licence is stated for the design content at review.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "carbon-design-system",
+        "mantine"
       ]
     },
     {
@@ -8297,6 +8421,30 @@
       ]
     },
     {
+      "slug": "ghost",
+      "path": "sites/ghost.md",
+      "title": "Ghost",
+      "description": "Open source publishing platform with a creator-discount pricing page, a member-count control and paid Ghost(Pro) hosting.",
+      "url": "https://ghost.org",
+      "type": "website",
+      "formats": "product · publishing CMS · open source",
+      "topics": [
+        "cta",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "The Ghost codebase is released under GPLv3 as published in the repository; the site states the GPL licence near the download path. Ghost(Pro) managed hosting is paid, with plans listed on the pricing page. Content produced through Ghost stays yours, but the software licence still applies to modifications.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "gumroad",
+        "plausible"
+      ]
+    },
+    {
       "slug": "gil-huybrecht",
       "path": "sites/gil-huybrecht.md",
       "title": "Gil Huybrecht",
@@ -8746,6 +8894,32 @@
       ]
     },
     {
+      "slug": "grafana",
+      "path": "sites/grafana.md",
+      "title": "Grafana",
+      "description": "Observability platform reference for information-dense dashboards: metrics, logs and traces composed into flexible data visualizations.",
+      "url": "https://grafana.com",
+      "type": "website",
+      "formats": "product · observability · dashboards",
+      "topics": [
+        "data-viz",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The core platform is open source under AGPLv3 as stated in the repository, with cloud and enterprise offerings paid and stated on the pricing page. Commercial editions and cloud terms govern hosted usage. Do not redistribute modified AGPL code outside that licence.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "metabase",
+        "posthog"
+      ]
+    },
+    {
       "slug": "grainient",
       "path": "sites/grainient.md",
       "title": "Grainient",
@@ -8908,6 +9082,30 @@
         "appllama",
         "page-flows",
         "mobbin"
+      ]
+    },
+    {
+      "slug": "gumroad",
+      "path": "sites/gumroad.md",
+      "title": "Gumroad",
+      "description": "Creator commerce with a pricing page that turns the fee model into the whole pitch, playful coin illustrations included.",
+      "url": "https://gumroad.com",
+      "type": "website",
+      "formats": "product · creator commerce · fee-based pricing",
+      "topics": [
+        "cta",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Paid service at review: creators keep revenue minus a stated percentage fee and payment processing, per the pricing page. The platform is proprietary and the content is look-only at review. Prices and the fee are stated on the pricing page.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "ghost",
+        "fathom"
       ]
     },
     {
@@ -11980,6 +12178,34 @@
       ]
     },
     {
+      "slug": "linear",
+      "path": "sites/linear.md",
+      "title": "Linear",
+      "description": "Issue tracking API developers hub: a compact GraphQL doc structure, an explorable schema and MCP access for agents.",
+      "url": "https://linear.app/developers",
+      "type": "documentation",
+      "formats": "docs · GraphQL API · MCP server",
+      "topics": [
+        "documentation",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "The developers documentation is free to read at review; the API requires a workspace account and the platform terms govern its use. The site content is all rights reserved, so treat it as look-only. No open source licence covers the docs at review.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "clerk",
+        "resend"
+      ]
+    },
+    {
       "slug": "liquefy-ui",
       "path": "sites/liquefy-ui.md",
       "title": "Liquefy UI",
@@ -12434,6 +12660,30 @@
       ]
     },
     {
+      "slug": "lovable",
+      "path": "sites/lovable.md",
+      "title": "Lovable",
+      "description": "AI app builder landing page with the prompt box as the central call to action, so visitors try the core interaction immediately.",
+      "url": "https://lovable.dev",
+      "type": "website",
+      "formats": "product · AI app builder · landing page",
+      "topics": [
+        "ai-interfaces",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Proprietary platform with free and paid tiers at review, stated on the pricing page. The site and product content are look-only at review; no open source edition is stated. Prices and plan limits are stated on the pricing page.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "lovable-prompts",
+        "replit"
+      ]
+    },
+    {
       "slug": "lovely-package",
       "path": "sites/lovely-package.md",
       "title": "Lovely Package",
@@ -12821,6 +13071,32 @@
       "related": [
         "animesh-thakur",
         "wall-of-portfolios"
+      ]
+    },
+    {
+      "slug": "mantine",
+      "path": "sites/mantine.md",
+      "title": "Mantine",
+      "description": "React component library with a cohesive, easy-to-browse docs site: abundant examples, hooks documentation and MCP access.",
+      "url": "https://mantine.dev",
+      "type": "component-library",
+      "formats": "component library · React · hooks",
+      "topics": [
+        "components"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "MIT licence, stated in the repository. Free for commercial and client work with no per-seat terms. Mantine and its icons packages are covered by the same licence; check the repository for the current notice.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "radix",
+        "ant-design"
       ]
     },
     {
@@ -13262,6 +13538,33 @@
       "related": [
         "bruno-simon",
         "hexgl"
+      ]
+    },
+    {
+      "slug": "metabase",
+      "path": "sites/metabase.md",
+      "title": "Metabase",
+      "description": "Open source BI with explorable dashboards: a free AGPL edition with unlimited users and cloud plans that start as a trial.",
+      "url": "https://metabase.com",
+      "type": "website",
+      "formats": "product · business intelligence · open source",
+      "topics": [
+        "data-viz",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The open source edition is AGPL as stated on the license page, free for self-hosting with unlimited users at review. Cloud and commercial plans are paid, stated on the pricing page (Starter at the review date, plus per-user pricing). Embedding follows the AGPL or the embedding licence stated on the license page.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "posthog",
+        "grafana"
       ]
     },
     {
@@ -16231,6 +16534,30 @@
       ]
     },
     {
+      "slug": "plausible",
+      "path": "sites/plausible.md",
+      "title": "Plausible Analytics",
+      "description": "Privacy-first web analytics: a pageview slider for pricing, a compact one-page dashboard and an AGPL self-hosted edition.",
+      "url": "https://plausible.io",
+      "type": "website",
+      "formats": "product · analytics · pricing by traffic",
+      "topics": [
+        "data-viz",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Cloud plans are paid subscriptions priced by monthly pageviews, with a 30-day free trial and no free cloud tier at review. The self-hosted Community Edition is AGPLv3, stated on the site and in the repository, and any use of it must respect that licence. Cloud plan prices and the trial terms are stated on the pricing page.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "fathom",
+        "posthog"
+      ]
+    },
+    {
       "slug": "playcanvas",
       "path": "sites/playcanvas.md",
       "title": "PlayCanvas",
@@ -16489,6 +16816,33 @@
         "japan-web-design",
         "web-design-clip",
         "muuuuu"
+      ]
+    },
+    {
+      "slug": "posthog",
+      "path": "sites/posthog.md",
+      "title": "PostHog",
+      "description": "Product analytics suite where dashboards combine trends, funnels and retention, with a free tier generous enough to start from.",
+      "url": "https://posthog.com/dashboards",
+      "type": "website",
+      "formats": "product · product analytics · dashboards",
+      "topics": [
+        "data-viz",
+        "ux-patterns"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The hosted product is proprietary with paid tiers and a free tier at review, stated on the pricing page. Parts of the platform are open source as stated in the repository and on the site; the hosted terms govern cloud usage. Figures at review are stated on the pricing page.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "plausible",
+        "metabase"
       ]
     },
     {
@@ -16908,6 +17262,30 @@
         "typographic-posters",
         "peoples-graphic-design-archive",
         "cari"
+      ]
+    },
+    {
+      "slug": "raycast",
+      "path": "sites/raycast.md",
+      "title": "Raycast",
+      "description": "Productivity launcher landing page: keyboard-first visuals and a strong voice that make a tool feel like a coherent world.",
+      "url": "https://raycast.com",
+      "type": "website",
+      "formats": "product · launcher · landing page",
+      "topics": [
+        "landing-pages",
+        "ai-interfaces"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Proprietary product with free and paid tiers at review, stated on the pricing page. The site and product content are look-only at review; no open source edition is stated. Prices and plan limits are stated on the pricing page.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "cursor",
+        "replit"
       ]
     },
     {
@@ -17397,6 +17775,57 @@
         "motion-primitives",
         "animejs",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "replit",
+      "path": "sites/replit.md",
+      "title": "Replit",
+      "description": "Browser development platform landing page led by the question What will you build, with the prompt box as the opening interaction.",
+      "url": "https://replit.com",
+      "type": "website",
+      "formats": "product · browser IDE · AI builder",
+      "topics": [
+        "ai-interfaces",
+        "landing-pages"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "freemium",
+      "licence": "Proprietary platform with free and paid tiers at review, stated on the pricing page. The site and product content are look-only at review; no open source edition of the platform is stated. Prices and plan limits are stated on the pricing page.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "lovable",
+        "cursor"
+      ]
+    },
+    {
+      "slug": "resend",
+      "path": "sites/resend.md",
+      "title": "Resend",
+      "description": "Developer email API reference: a crisp entry point for auth and base URLs, clean response codes and an MCP server.",
+      "url": "https://resend.com/docs/api-reference",
+      "type": "documentation",
+      "formats": "docs · email API · MCP server",
+      "topics": [
+        "documentation",
+        "cta"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The platform is proprietary with a free tier at review, stated on the pricing page (3000 emails per month on the free tier at review). The docs are free to read and look-only at review; API use follows the platform terms. No open source licence is stated for the service.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "stripe",
+        "posthog"
       ]
     },
     {
@@ -18861,6 +19290,32 @@
       ]
     },
     {
+      "slug": "shopify-docs",
+      "path": "sites/shopify-docs.md",
+      "title": "Shopify Developer Docs",
+      "description": "Developer docs with strong top-level wayfinding that separates apps, storefronts, agents and references, so different tasks feel distinct.",
+      "url": "https://shopify.dev/docs",
+      "type": "documentation",
+      "formats": "docs · app platform · storefront",
+      "topics": [
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "The developer documentation is free to read at review; building on the platform follows Shopify's partner and app terms. Site content is all rights reserved, so treat it as look-only. No open source licence covers the docs at review.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "clerk",
+        "stripe"
+      ]
+    },
+    {
       "slug": "showit",
       "path": "sites/showit.md",
       "title": "Showit",
@@ -20002,6 +20457,34 @@
       ]
     },
     {
+      "slug": "stripe",
+      "path": "sites/stripe.md",
+      "title": "Stripe",
+      "description": "Payment platform API reference: language-switchable code samples, a clear endpoint catalog and an embedded API explorer.",
+      "url": "https://stripe.com/docs/api",
+      "type": "documentation",
+      "formats": "docs · API reference · MCP server",
+      "topics": [
+        "documentation",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "free",
+      "licence": "The documentation and reference content are free to read; the platform's terms govern the API itself, and the site's content is all rights reserved, so treat it as look-only. Service pricing is usage-based and stated on stripe.com. No open source licence covers the docs at review.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "supabase",
+        "resend"
+      ]
+    },
+    {
       "slug": "studio-dumbar",
       "path": "sites/studio-dumbar.md",
       "title": "Studio Dumbar",
@@ -20110,6 +20593,34 @@
         "canvas-ui",
         "shaders",
         "aceternity-ui"
+      ]
+    },
+    {
+      "slug": "supabase",
+      "path": "sites/supabase.md",
+      "title": "Supabase",
+      "description": "Open source Postgres platform docs: guide and reference paths organized by product, client libraries in many languages, MCP and llms.txt.",
+      "url": "https://supabase.com/docs",
+      "type": "documentation",
+      "formats": "docs · hosted Postgres platform · MCP server",
+      "topics": [
+        "documentation",
+        "agents-and-prompts"
+      ],
+      "verdict": "very-useful",
+      "agent": [
+        "mcp",
+        "llms-txt",
+        "api"
+      ],
+      "pricing": "freemium",
+      "licence": "The core platform is open source under Apache-2.0 as stated in the repository. The hosted service is paid with a free tier at review, and platform-specific terms apply to hosted usage. Docs content is look-only beyond what the repository licence covers.",
+      "licence_class": "mixed",
+      "reviewed": "2026-11-26",
+      "status": "active",
+      "related": [
+        "stripe",
+        "clerk"
       ]
     },
     {

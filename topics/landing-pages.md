@@ -59,6 +59,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [CSSline](../sites/cssline.md) — A long-running web design gallery with tagged site previews, a tag browser and direct links to current sites.
 - [Cult UI](../sites/cult-ui.md) — Textured, distinctive marketing components and shader heroes built with Motion; paid blocks and templates.
 - [Curated](../sites/curated-design.md) — Live-site gallery filtered by industry and style, with a separate section library for comparing page blocks.
+- [Cursor](../sites/cursor.md) — AI code editor landing page that turns an interactive product demo into the hero, making the coding workflow the visual story.
 - [Daniel White](../sites/daniel-white.md) — A portfolio presented as an illustrated book, with warm paper tones, editorial serif typography and chapter-like project navigation.
 - [David Bagdasaryan](../sites/david-bagdasaryan.md) — A minimal designer portfolio pairs a full-bleed portrait with a small pixel mark, location details and two compact links.
 - [Dead Simple Sites](../sites/dead-simple-sites.md) — A screenshot-led archive of minimal websites, with creator names and direct visit links in a sparse grid.
@@ -119,6 +120,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Lexington Motion — Atelier Reels](../sites/lexington-motion-atelier.md) — A paid Remotion template collection for fashion reels, with named motion concepts and a live catalogue for comparing visual treatments.
 - [Lightswind](../sites/lightswind.md) — Huge flashy 3D/WebGL and liquid-glass library with its own CLI, MCP server and llms-full.txt.
 - [Locomotive](../sites/locomotive.md) — Montreal studio portfolio pairing an audiovisual hero with a filterable work archive and detailed project pages.
+- [Lovable](../sites/lovable.md) — AI app builder landing page with the prompt box as the central call to action, so visitors try the core interaction immediately.
 - [Lovable Prompts](../sites/lovable-prompts.md) — 122 free copy-paste prompts for Lovable, each naming the states the builder skips, with the credit cost of four builds measured and published.
 - [Luma (AI)](../sites/luma-ai.md) — Creative AI product site with a dark, editorial hero, production-focused workflow examples and pricing for multimodal creative agents.
 - [Luma Events](../sites/luma-events.md) — Event platform with a Spanish-language landing page built around floating invitation cards, a centered headline and a clear create-event path.
@@ -151,7 +153,9 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [PsudoKit](../sites/psudokit.md) — Dark portfolio with a restrained monospace system, thin orbital lines and a split profile and activity layout.
 - [Railway](../sites/railway.md) — A cloud platform with a polished illustrated homepage and a focused no-signup VM campaign page.
 - [Raine Architects](../sites/raine-architects.md) — An architecture studio site with a full-width 3D project viewer and a restrained editorial frame.
+- [Raycast](../sites/raycast.md) — Productivity launcher landing page: keyboard-first visuals and a strong voice that make a tool feel like a coherent world.
 - [Re UI](../sites/re-ui.md) — KeenThemes' shadcn registry with data grid, Gantt and calendar primitives, paid blocks and an MCP server.
+- [Replit](../sites/replit.md) — Browser development platform landing page led by the question What will you build, with the prompt box as the opening interaction.
 - [Rueya Supply](../sites/rueya-supply.md) — Pre-launch shop whose one screen pairs 41.6px type at weight 300 on a 1.02 line height with an airy 1.75 body, over a cream-to-orange gradient.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.

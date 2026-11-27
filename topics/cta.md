@@ -22,10 +22,14 @@ Calls-to-action — buttons, forms, modals and the copy around them that's meant
 - [Checklist Design](../sites/checklist-design.md) — 138 design checklists by screen, component and flow, plus an agent skill that reviews a screenshot against the matching list.
 - [CTA Gallery](../sites/cta-gallery.md) — Calls-to-action pulled from real sites and classified by business function, with copywriting tips alongside.
 - [Evil Buttons](../sites/evil-buttons.md) — 31 playful and stateful shadcn buttons, from hold-to-confirm and cooldowns to cursor-dodging joke CTAs.
+- [Fathom Analytics](../sites/fathom.md) — Privacy-focused analytics with a pageview slider that drives the pricing comparison, so visitors explore usage before choosing a plan.
+- [Ghost](../sites/ghost.md) — Open source publishing platform with a creator-discount pricing page, a member-count control and paid Ghost(Pro) hosting.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
+- [Gumroad](../sites/gumroad.md) — Creator commerce with a pricing page that turns the fee model into the whole pitch, playful coin illustrations included.
 - [HyperUI](../sites/hyperui.md) — Free MIT copy-paste Tailwind v4 snippets (about 540 with dark variants) for apps, marketing and a neobrutalism set, plus small tools.
 - [Loader Buttons](../sites/loader-buttons.md) — 25 experimental loading-state buttons in WebGL, SVG, Canvas and CSS; no licence published.
 - [Magic UI](../sites/magic-ui.md) — 150+ animated React and Tailwind components and effects that install like shadcn/ui, positioned as its companion.
+- [Resend](../sites/resend.md) — Developer email API reference: a crisp entry point for auth and base URLs, clean response codes and an MCP server.
 - [Sections.wtf](../sites/sections-wtf.md) — Short recordings of individual website sections, filterable by 22 block types with source-site and same-site links.
 - [Slidebean](../sites/slidebean.md) — Pitch-deck tool whose page splits an AI builder from a human design agency, with a checkmark proof list and a review-widget rating block.
 - [Supahero](../sites/supahero.md) — About 570 real website hero sections on one page, searchable by name but with no filters.
