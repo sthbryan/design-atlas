@@ -60,7 +60,7 @@ See [AGENTS.md](AGENTS.md) for the full reading workflow.
 Two installable skills in the open Agent Skills format:
 
 - [`design-atlas`](skills/design-atlas/SKILL.md) (2.2.3) studies real designs and exported style files and turns three to five of them into one visual direction: query the index, read hubs, inspect live examples, pull the style files for the shortlist, write a brief with a five-line direction. Licence is a footnote, not a gate.
-- [`design-atlas-ui`](skills/design-atlas-ui/SKILL.md) (0.4.2) builds and reviews UI from that direction: short-form `DESIGN.md` by default, tokens only, rendered evidence.
+- [`design-atlas-ui`](skills/design-atlas-ui/SKILL.md) (0.4.3) builds and reviews UI from that direction: short-form `DESIGN.md` by default, tokens only, rendered evidence.
 
 Install both with the [skills CLI](https://github.com/vercel-labs/skills) for any compatible agent. Add `--agent <name>` to choose a target, or `--skill <name>` to install one skill:
 
