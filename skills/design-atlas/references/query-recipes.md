@@ -8,7 +8,6 @@ Commands for filtering the atlas without `scripts/query.mjs`, and for reading pa
 - [jq over sites.json or the catalog](#jq-over-sitesjson-or-the-catalog)
 - [grep over llms.txt](#grep-over-llmstxt)
 - [grep over the catalog](#grep-over-the-catalog)
-- [Raw GitHub](#raw-github)
 - [Reading a page](#reading-a-page)
 - [Script flags](#script-flags)
 - [Ranked search](#ranked-search)
@@ -85,18 +84,6 @@ grep '"topics":\[[^]]*"icons"' references/catalog.json \
   | grep -o '"path":"[^"]*"'
 ```
 
-## Raw GitHub
-
-Use these only when no local clone exists. Fetch single files, never the whole tree.
-
-```sh
-curl -fsS --max-time 8 https://raw.githubusercontent.com/sthbryan/design-atlas/main/llms.txt
-curl -fsS --max-time 8 https://raw.githubusercontent.com/sthbryan/design-atlas/main/topics/icons.md
-curl -fsS --max-time 8 https://raw.githubusercontent.com/sthbryan/design-atlas/main/sites/iconoir.md
-```
-
-A 404 or a timeout means the remote is unavailable, so fall back to the bundled catalog. The repository is public, so these raw URLs work directly. Human-readable links take the form `https://github.com/sthbryan/design-atlas/blob/main/sites/<slug>.md`.
-
 ## Reading a page
 
 List the sections, then print only the four that feed a brief:
@@ -122,7 +109,7 @@ grep -n -i -E 'scrap|crawl|bulk|automated|redistribut|mirror' sites/animated-ico
 
 `node scripts/query.mjs --help` prints the full list. Values inside one flag are ORed and separate flags are ANDed. `--licence` also accepts the groups `ship`, `conditional` and `look-only`. Output is capped at 12 rows by default and 50 at most.
 
-`--freshness`, `--after-use` and `--asset` read the fields above. `--link live,moved,blocked,dead` reads `url-health.json`, which `scripts/check-urls.mjs` writes, so it needs a clone or the network and does not work from the bundled snapshot.
+`--freshness`, `--after-use` and `--asset` read the fields above. `--link live,moved,blocked,dead` reads `url-health.json`, which `scripts/check-urls.mjs` writes in a local clone, so it does not work from the bundled snapshot.
 
 | Exit code | Meaning |
 |---|---|

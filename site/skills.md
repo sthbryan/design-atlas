@@ -37,14 +37,14 @@ Claude Code can install the atlas as a plugin, which also bundles the pages:
 /plugin install design-atlas@design-atlas
 ```
 
-Both installers copy the skill folder only, so the skills still work outside a clone. `design-atlas` falls back to raw GitHub or its bundled catalog, and `design-atlas-ui` carries its own references and `DESIGN.md` validator.
+Both installers copy the skill folder only, so the skills still work outside a clone. `design-atlas` reads a local clone or its bundled catalog, and `design-atlas-ui` carries its own references and `DESIGN.md` validator.
 
-## design-atlas (2.2.0)
+## design-atlas (2.2.1)
 
 Finds sources, then studies real examples.
 
 - Queries the index instead of the pages. `query.mjs` filters by topic, type, licence class, agent channel, price, freshness and how a source held up after use, and searches free text offline with synonyms and typo correction.
-- Reads at most two hubs and five site pages per brief, and says which location it used: a local clone, raw GitHub or the bundled snapshot.
+- Reads at most two hubs and five site pages per brief, and says which location it used: a local clone or the bundled snapshot.
 - For visual work, opens a few shortlisted sites in a browser and records what it sees, keeping a source's own interface separate from the examples it lists.
 - Returns a brief with the atlas page, the live example, the observed design move, the licence class and the review date, and marks anything it could not check.
 
@@ -81,7 +81,7 @@ This callout and the steps below are a prototype, not part of the atlas system y
 
 ## Where the pages come from
 
-A local clone wins, then raw GitHub when the network is allowed, then the bundled snapshot inside the skill folder. The snapshot holds metadata only, so its rows are listed under "Not checked". `query.mjs --offline` pins the local sources. The atlas itself is a clone of this repository, and `sites.json` and `llms.txt` are generated from the pages.
+A local clone wins, then the bundled snapshot inside the skill folder. The snapshot holds metadata only, so its rows are listed under "Not checked". The skill never fetches from the network. The atlas itself is a clone of this repository, and `sites.json` and `llms.txt` are generated from the pages.
 
 ## Licence
 

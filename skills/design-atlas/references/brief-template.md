@@ -7,7 +7,7 @@ The brief is the deliverable: what the user builds from. Keep it under about 50 
 ```markdown
 # Reference brief: <task in a few words>
 
-Atlas: <local clone at PATH | raw GitHub, main | bundled snapshot, latest review DATE>
+Atlas: <local clone at PATH | bundled snapshot, latest review DATE>
 
 ## Task
 <goal, surface, audience and stack, in one to three lines>

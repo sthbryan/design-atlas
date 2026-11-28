@@ -76,7 +76,7 @@ Claude Code can also install the atlas as a plugin from its marketplace:
 /plugin install design-atlas@design-atlas
 ```
 
-The plugin includes the atlas pages. The skills CLI installs the skill folders without the full wiki, so `design-atlas` uses raw GitHub or its bundled catalog when the atlas is not present locally.
+The plugin includes the atlas pages. The skills CLI installs the skill folders without the full wiki, so `design-atlas` uses a local clone or its bundled catalog when the atlas is not present locally. The skill never fetches from the network.
 
 ## Website
 
