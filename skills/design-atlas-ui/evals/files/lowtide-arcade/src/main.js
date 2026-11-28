@@ -1,3 +1,4 @@
+import { mount } from 'svelte';
 import App from './App.svelte';
 
-export default new App({ target: document.getElementById('app') });
+export default mount(App, { target: document.getElementById('app') });
