@@ -43,6 +43,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Conduit](../sites/conduit.md) — Hospitality AI site that pairs a restrained serif hero with a live-looking omnichannel inbox and an escalation workflow.
 - [Cotool](../sites/cotool.md) — Security AI landing page with a saturated blue field, dotted terrain artwork and a highlighted phrase inside its hero headline.
 - [Croqui](../sites/croqui.md) — Design canvas for coding agents where every frame is a real React file, reviewed and approved in place.
+- [Cursor](../sites/cursor.md) — AI code editor landing page that turns an interactive product demo into the hero, making the coding workflow the visual story.
 - [Fluid Functionalism](../sites/fluid-functionalism.md) — Spring-driven shadcn registry (Radix or Base UI) with proximity hover, AI chat parts and copy prompts.
 - [Fuser](../sites/fuser.md) — A polished recipe page explains an image workflow with a connected input, recipe and output diagram.
 - [GAIA UI](../sites/gaia-ui.md) — MIT, shadcn-compatible React components for AI assistants, with documented registry installation and a focused agent-app visual language.
@@ -60,8 +61,10 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Kobra](../sites/kobra.md) — Proprietary component system for AI and agent product interfaces, with an llms.txt index and a markdown API per component.
 - [Kokonut UI](../sites/kokonut-ui.md) — Playful Motion components with AI inputs; llms.txt links per-component Markdown pages with full source.
 - [Libraries.dev: Thinking orbs](../sites/libraries-dev-orbs.md) — MIT React loading orbs with nine AI "thinking" states, copy-prompt buttons and an installable agent skill.
+- [Linear](../sites/linear.md) — Issue tracking API developers hub: a compact GraphQL doc structure, an explorable schema and MCP access for agents.
 - [Liquid Orb Editor](../sites/liquid-orb-editor.md) — Live WebGPU editor for liquid-glass orbs, with shareable parameter links and Web or SwiftUI/Metal code export.
 - [LocalMode UI](../sites/localmode-ui.md) — MIT shadcn registry of local-first AI components and runnable browser demos for chat, RAG, vision, audio and privacy flows.
+- [Lovable](../sites/lovable.md) — AI app builder landing page with the prompt box as the central call to action, so visitors try the core interaction immediately.
 - [Luma (AI)](../sites/luma-ai.md) — Creative AI product site with a dark, editorial hero, production-focused workflow examples and pricing for multimodal creative agents.
 - [MagicPath](../sites/magicpath.md) — Design interactive interfaces on a shared canvas, then browse live prototypes and bring selected designs into code with supported agents.
 - [mcpcn](../sites/mcpcn.md) — Young MIT registry of 30 MCP App widget blocks (commerce, events, forms) with an optional ChatGPT Apps SDK theme.
@@ -74,7 +77,9 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Planes](../sites/useplanes.md) — 230+ animated React components for shadcn/ui and Next.js, shipped as React, Tailwind and Motion source.
 - [Poetic](../sites/poetic.md) — Enterprise AI landing page with oversized type, proof metrics, a product walkthrough and a recovery example for evolving workflows.
 - [Prompt Kit](../sites/prompt-kit.md) — MIT shadcn components for chat UIs: prompt input, auto-scrolling conversation, reasoning, tool-call and citation views.
+- [Raycast](../sites/raycast.md) — Productivity launcher landing page: keyboard-first visuals and a strong voice that make a tool feel like a coherent world.
 - [React Bits Pro](../sites/reactbits-pro.md) — Paid library of animated React work — 230 components, 300 page blocks and 300 app-UI blocks — with a counted, category-by-category inventory.
+- [Replit](../sites/replit.md) — Browser development platform landing page led by the question “What will you build”, with the prompt box as the opening interaction.
 - [Sevalla](../sites/sevalla.md) — Cloud hosting landing page that explains apps, databases, storage and static sites through product previews, location data and MCP workflows.
 - [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.

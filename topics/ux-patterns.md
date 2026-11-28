@@ -51,15 +51,19 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [editorcn](../sites/editorcn.md) — Tiptap toolbar and Notion-style block editors plus a read-only renderer, styled for shadcn apps.
 - [Emil Kowalski's skills](../sites/emil-kowalski-skills.md) — Emil Kowalski's 13 motion-first skills: when to animate, exact curves and durations, Apple-style springs, animation audits.
 - [Empty States](../sites/empty-states.md) — About sixty shipped empty states, captioned by app and platform, on one static page with no filters or links.
+- [Fathom Analytics](../sites/fathom.md) — Privacy-focused analytics with a pageview slider that drives the pricing comparison, so visitors explore usage before choosing a plan.
 - [Fillout](../sites/fillout.md) — Form builder with unlimited forms and seats on every plan, 50+ field types, and AI or drag-and-drop authoring; now presented as "by Zite".
 - [Firefly Builds](../sites/firefly-builds.md) — A personal developer portfolio with a command-palette prompt, a pull-cord motif and separate serious and playful projects.
 - [Flit](../sites/flit.md) — A polished macOS dictation product site with detailed interaction demos, feature explanations and a published voice-input workflow for coding agents.
+- [Ghost](../sites/ghost.md) — Open source publishing platform with a creator-discount pricing page, a member-count control and paid Ghost(Pro) hosting.
 - [Glisse](../sites/glisse.md) — MIT React components that reproduce Apple's Liquid Glass in the browser — switch, slider, tab bar, menu, input and the glass surface itself.
 - [Good UI](../sites/good-ui.md) — 141 conversion patterns backed by 642 shared A/B tests; the effect sizes are paywalled.
 - [GoodCart](../sites/goodcart.md) — E-commerce gallery of real desktop and mobile home, collection and product pages, filterable by industry, style and UX pattern.
 - [Google Arts & Culture](../sites/google-arts-and-culture.md) — Museum collections and interactive exhibits for studying editorial art storytelling, high-resolution viewing and playful cultural experiences.
+- [Grafana](../sites/grafana.md) — Observability platform reference for information-dense dashboards: metrics, logs and traces composed into flexible data visualizations.
 - [Great Apps](../sites/great-apps.md) — A small, opinionated gallery of about 216 well-crafted indie iOS apps, from the curator of Sections.wtf.
 - [Gummble](../sites/gummble.md) — Explore app screenshots and complete mobile and web flows with filters for platform, category and interface pattern.
+- [Gumroad](../sites/gumroad.md) — Creator commerce with a pricing page that turns the fee model into the whole pitch, playful coin illustrations included.
 - [Harshit Raghuwanshi](../sites/harshit-raghuwanshi.md) — A developer portfolio mixing a pixel-art workstation banner, modular project cards and a compact command palette.
 - [HAX Toolkit](../sites/hax-toolkit.md) — Interactive library connecting Microsoft's 18 Guidelines for Human-AI Interaction to patterns and examples.
 - [Headless UI](../sites/headless-ui.md) — Tailwind Labs' small set of unstyled accessible React components, styled through data attributes.
@@ -75,6 +79,7 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Layers](../sites/layers.md) — Community where designers post product and web work, with profiles, teams and a job board; Plus from $6/month.
 - [Luma Events](../sites/luma-events.md) — Event platform with a Spanish-language landing page built around floating invitation cards, a centered headline and a clear create-event path.
 - [mblode Agent Skills](../sites/mblode-agent-skills.md) — Design audits with a ship verdict, Playwright probes, a 78-rule typography check, and motion curves fitted from recordings.
+- [Metabase](../sites/metabase.md) — Open source BI with explorable dashboards: a free AGPL edition with unlimited users and cloud plans that start as a trial.
 - [Mobbin](../sites/mobbin.md) — The biggest library of real app screens and flows, searchable by agents through its own MCP server; strict terms.
 - [Motion Design Principles by Zajno](../sites/motion-zajno.md) — An interactive lesson site that demonstrates easing, stagger, masking, parallax, zoom and other interface motion techniques.
 - [NameThatUI](../sites/name-that-ui.md) — A visual dictionary of UI elements that turns a bad description into the right name, the API symbol and an agent prompt.
@@ -85,6 +90,8 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [Oversight Supply](../sites/oversight-supply.md) — Paid library of Webflow and Framer templates plus standalone creative sections, with previews and prompt-based project handoff.
 - [Page Flows](../sites/page-flows.md) — Recorded web and app journeys with annotated steps, screen references and UI examples.
 - [Pairfect](../sites/pairfect.md) — Relationship activity app landing page with a two-person demo, activity previews and a free-plus-paid pricing ladder.
+- [Plausible Analytics](../sites/plausible.md) — Privacy-first web analytics: a pageview slider for pricing, a compact one-page dashboard and an AGPL self-hosted edition.
+- [PostHog](../sites/posthog.md) — Product analytics suite where dashboards combine trends, funnels and retention, with a free tier generous enough to start from.
 - [Primer](../sites/primer.md) — GitHub's design system, with tokens, primitives, component docs, UI patterns and an MCP server for agents.
 - [Rauno's Field Notes #5](../sites/rauno-field-notes-5.md) — A video-backed interaction study of stacked sidebar cards, hover cues, hit areas and dismissal motion.
 - [Reeoo](../sites/reeoo.md) — Searchable references for websites, apps, store screenshots, event cards, icons and tools, with filters for industry, colour, style and layout.

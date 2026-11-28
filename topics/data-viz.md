@@ -31,15 +31,19 @@ Chart components, dashboard building blocks and small data displays (spark chart
 - [ExpoKit](../sites/expokit.md) — Copy-paste UI components, blocks, app templates and charts for Expo and React Native, added with a CLI.
 - [Flourish](../sites/flourish.md) — An interactive data storytelling editor and gallery of working charts, maps and stories to study or adapt.
 - [Gauge UI](../sites/gauge-ui.md) — Composable SVG gauge primitives for React, where arcs, zones, ticks and needles assemble from one shared context.
+- [Grafana](../sites/grafana.md) — Observability platform reference for information-dense dashboards: metrics, logs and traces composed into flexible data visualizations.
 - [Ingot UI](../sites/ingotui.md) — 2,724 dashboard components across nine design systems for React, Figma and AI agents, with MCP and CLI access.
 - [Internet Artifacts](../sites/internet-artifacts-neal-fun.md) — Neal.fun's interactive timeline of early internet objects, built as a playful illustrated archive.
 - [Keel Workspace](../sites/keel-workspace.md) — A polished CRM workspace demo with dense pipeline metrics, source-backed agent decisions and keyboard-first review controls.
+- [Metabase](../sites/metabase.md) — Open source BI with explorable dashboards: a free AGPL edition with unlimited users and cloud plans that start as a trial.
 - [microcharts](../sites/microcharts.md) — MIT React charts sized for sentences, tables and KPI cards, with a catalog and seven live example apps.
 - [MLX.fast](../sites/mlx-fast.md) — Live MLX optimization challenge with a paired performance chart, model filters and a detailed contribution leaderboard.
 - [Nex UI (broken)](../sites/nex-ui.md) — About 100 shadcn-style React and Tailwind components including 23 charts; MIT claimed without a LICENSE file and the CLI registry is empty.
 - [nivo](../sites/nivo.md) — React chart components built on D3, with a gallery that shows about thirty chart types, each documented and themable.
 - [Observable Plot](../sites/observable-plot.md) — Concise JavaScript library for legible exploratory charts built from layered marks, scales and facets.
 - [Pele](../sites/pele.md) — Renders Mermaid diagrams to SVG synchronously, themed through CSS variables, with no runtime dependencies.
+- [Plausible Analytics](../sites/plausible.md) — Privacy-first web analytics: a pageview slider for pricing, a compact one-page dashboard and an AGPL self-hosted edition.
+- [PostHog](../sites/posthog.md) — Product analytics suite where dashboards combine trends, funnels and retention, with a free tier generous enough to start from.
 - [Spacedrive](../sites/spacedrive.md) — File app page whose hero is a device dashboard, with one card per machine and cloud, each showing connection state, storage bar and folder chips.
 - [Spherium](../sites/spherium.md) — A WebGL globe editor for styling world maps as dot fields and exporting the result as SVG.
 - [Synaptrix Labs](../sites/synaptrix-labs.md) — Neural-interface research site with neural signal artwork, a centered serif headline and a four-part platform carousel.
