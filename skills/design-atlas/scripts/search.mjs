@@ -40,7 +40,7 @@ export function normalize(text) {
 }
 
 const COMMAND_TOKENS = new Set([
-  'npx', 'npm', 'pnpm', 'yarn', 'bunx', 'curl', 'wget', 'bash', 'zsh', 'sh', 'powershell', 'deno',
+  'npx', 'npm', 'pnpm', 'yarn', 'bunx', 'curl', 'wget', 'bash', 'zsh', 'sh', 'powershell', 'deno', 'brew', 'pip',
 ]);
 
 export function words(text) {
