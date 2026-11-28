@@ -8,11 +8,11 @@ topics: [data-viz, ux-patterns]
 verdict: useful
 agent: [mcp, api]
 pricing: freemium
-licence: "The hosted product is proprietary with paid tiers and a free tier at review, stated on the pricing page. Parts of the platform are open source as stated in the repository and on the site; the hosted terms govern cloud usage. Figures at review are stated on the pricing page."
+licence: "The hosted product is proprietary with paid tiers and a free tier at review, stated on the pricing page. The repository is MIT licensed outside the ee/ directory, and the ee/ directory carries a proprietary licence, as stated in the repository; the hosted terms govern cloud usage. Figures at review are stated on the pricing page."
 licence_class: mixed
 reviewed: 2026-11-26
 status: active
-related: [plausible, metabase]
+related: [plausible, metabase, tremor]
 ---
 [← Atlas](../site/home.md) · Topics: [data-viz](../topics/data-viz.md), [ux-patterns](../topics/ux-patterns.md)
 

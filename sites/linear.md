@@ -7,9 +7,9 @@ formats: docs · GraphQL API · MCP server
 topics: [documentation, ai-interfaces]
 verdict: useful
 agent: [mcp, llms-txt, api]
-pricing: free
-licence: "The developers documentation is free to read at review; the API requires a workspace account and the platform terms govern its use. The site content is all rights reserved, so treat it as look-only. No open source licence covers the docs at review."
-licence_class: proprietary-free
+pricing: freemium
+licence: "The developers documentation is free to read at review; the API requires a workspace account and the platform terms govern its use, with paid workspace tiers stated on the main site at review. The site content is all rights reserved, so treat it as look-only. No open source licence covers the docs at review."
+licence_class: proprietary-paid
 reviewed: 2026-11-26
 status: active
 related: [clerk, resend]

@@ -6,10 +6,10 @@ type: documentation
 formats: docs · app platform · storefront
 topics: [documentation]
 verdict: useful
-agent: [llms-txt, api]
-pricing: free
-licence: "The developer documentation is free to read at review; building on the platform follows Shopify's partner and app terms. Site content is all rights reserved, so treat it as look-only. No open source licence covers the docs at review."
-licence_class: proprietary-free
+agent: [api]
+pricing: freemium
+licence: "The developer documentation is free to read at review; building on the platform follows Shopify's partner and app terms, with paid plans stated on the main site at review. Site content is all rights reserved, so treat it as look-only. No open source licence covers the docs at review."
+licence_class: proprietary-paid
 reviewed: 2026-11-26
 status: active
 related: [clerk, stripe]
@@ -26,7 +26,7 @@ Shopify Developers is the documentation home for a large merchant platform, and 
 
 - When docs cover very different audiences (app builders, theme developers, storefront teams), and one flat sidebar would blur them together.
 - When a platform keeps adding surfaces (agents, AI integrations) and needs room to grow without rethinking navigation.
-- When the distinction between "build a thing" and "look something up" needs to be visible in the structure.
+- When the distinction between building a thing and looking something up needs to be visible in the structure.
 
 ## Most useful
 
@@ -37,7 +37,7 @@ Shopify Developers is the documentation home for a large merchant platform, and 
 
 ## Using it with agents
 
-- Shopify publishes an llms.txt for the developer docs at review, and GraphQL/REST APIs behind partner accounts.
+- Shopify exposes GraphQL and REST APIs behind partner accounts; no llms.txt was found for the developer docs at review.
 - The top-level structure is the agent entry point: pick the audience section first, then follow its guides and references.
 
 ## Watch out for

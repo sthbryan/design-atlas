@@ -12,7 +12,7 @@ licence: "Proprietary product with free and paid tiers at review, stated on the 
 licence_class: proprietary-paid
 reviewed: 2026-11-26
 status: active
-related: [cursor, replit]
+related: [cursor, replit, prompt-kit]
 ---
 [← Atlas](../site/home.md) · Topics: [landing-pages](../topics/landing-pages.md), [ai-interfaces](../topics/ai-interfaces.md)
 

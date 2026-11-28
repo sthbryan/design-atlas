@@ -12,7 +12,7 @@ licence: "The Ghost codebase is released under GPLv3 as published in the reposit
 licence_class: mixed
 reviewed: 2026-11-26
 status: active
-related: [gumroad, plausible]
+related: [gumroad, framer]
 ---
 [← Atlas](../site/home.md) · Topics: [cta](../topics/cta.md), [ux-patterns](../topics/ux-patterns.md)
 

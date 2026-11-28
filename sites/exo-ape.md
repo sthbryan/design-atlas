@@ -7,7 +7,7 @@ formats: portfolio · studio site · motion design
 topics: [inspiration, motion]
 verdict: niche
 agent: []
-pricing: free
+pricing: not-stated
 licence: "The site is free to browse; the studio's work and content are all rights reserved at review, so treat the site as look-only and do not reuse its copy, imagery or code."
 licence_class: proprietary-free
 reviewed: 2026-11-26

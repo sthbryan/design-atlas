@@ -12,7 +12,7 @@ licence: "Paid service at review: creators keep revenue minus a stated percentag
 licence_class: proprietary-paid
 reviewed: 2026-11-26
 status: active
-related: [ghost, fathom]
+related: [ghost, plausible]
 ---
 [← Atlas](../site/home.md) · Topics: [cta](../topics/cta.md), [ux-patterns](../topics/ux-patterns.md)
 
@@ -32,7 +32,7 @@ Gumroad is a storefront for creators selling digital products. Its pricing page 
 
 - The fee is stated as the whole model: one commission, clearly worded, no plan names to decode.
 - Playful coin illustrations keep a money page warm and on-brand instead of finance-cold.
-- The page answers "what do I pay" and "what do I get" in that order, which is the order creators actually read in.
+- The page answers what a creator pays and what that covers, in that order, which is the order creators actually read in.
 - The surrounding site keeps the tone conversational, so the pricing page inherits trust from the brand voice.
 
 ## Using it with agents

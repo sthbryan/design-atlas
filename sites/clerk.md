@@ -4,7 +4,7 @@ description: "User management API reference: frontend, backend and platform APIs
 url: https://clerk.com/docs/reference/api/overview
 type: documentation
 formats: docs · auth API · user management
-topics: [documentation, ux-patterns]
+topics: [documentation]
 verdict: useful
 agent: [llms-txt, api]
 pricing: freemium
@@ -14,7 +14,7 @@ reviewed: 2026-11-26
 status: active
 related: [supabase, linear]
 ---
-[← Atlas](../site/home.md) · Topics: [documentation](../topics/documentation.md), [ux-patterns](../topics/ux-patterns.md)
+[← Atlas](../site/home.md) · Topics: [documentation](../topics/documentation.md)
 
 # Clerk
 

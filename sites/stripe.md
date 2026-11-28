@@ -7,9 +7,9 @@ formats: docs · API reference · MCP server
 topics: [documentation, agents-and-prompts]
 verdict: very-useful
 agent: [mcp, llms-txt, api]
-pricing: free
-licence: "The documentation and reference content are free to read; the platform's terms govern the API itself, and the site's content is all rights reserved, so treat it as look-only. Service pricing is usage-based and stated on stripe.com. No open source licence covers the docs at review."
-licence_class: proprietary-free
+pricing: freemium
+licence: "The documentation and reference content are free to read; the platform's terms govern the API itself, and the site's content is all rights reserved, so treat it as look-only. The platform has paid, usage-based tiers stated on stripe.com at review. No open source licence covers the docs at review."
+licence_class: proprietary-paid
 reviewed: 2026-11-26
 status: active
 related: [supabase, resend]
@@ -20,7 +20,7 @@ related: [supabase, resend]
 
 ## What it is
 
-Stripe's API reference is the documentation standard most product docs get compared against. Endpoints are cataloged clearly, every example can be switched between languages, and the structure keeps the reader oriented inside a very large API.
+Stripe's API reference is a large, carefully organized catalog. Endpoints are cataloged clearly, every example can be switched between languages, and the structure keeps the reader oriented inside a very large API.
 
 ## When to open it
 

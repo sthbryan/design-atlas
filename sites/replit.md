@@ -1,6 +1,6 @@
 ---
 title: Replit
-description: "Browser development platform landing page led by the question What will you build, with the prompt box as the opening interaction."
+description: "Browser development platform landing page led by the question “What will you build”, with the prompt box as the opening interaction."
 url: https://replit.com
 type: website
 formats: product · browser IDE · AI builder
@@ -20,7 +20,7 @@ related: [lovable, cursor]
 
 ## What it is
 
-Replit is a browser-based development platform with AI building features, and its homepage leads with the act of building: the question what will you build, answered by the prompt box itself. Creation, not a product mockup, is the opening move.
+Replit is a browser-based development platform with AI building features, and its homepage leads with the act of building: the question “What will you build”, answered by the prompt box itself. Creation, not a product mockup, is the opening move.
 
 ## When to open it
 

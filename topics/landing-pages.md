@@ -155,7 +155,7 @@ Galleries, section libraries, templates and agent skills for marketing and launc
 - [Raine Architects](../sites/raine-architects.md) — An architecture studio site with a full-width 3D project viewer and a restrained editorial frame.
 - [Raycast](../sites/raycast.md) — Productivity launcher landing page: keyboard-first visuals and a strong voice that make a tool feel like a coherent world.
 - [Re UI](../sites/re-ui.md) — KeenThemes' shadcn registry with data grid, Gantt and calendar primitives, paid blocks and an MCP server.
-- [Replit](../sites/replit.md) — Browser development platform landing page led by the question What will you build, with the prompt box as the opening interaction.
+- [Replit](../sites/replit.md) — Browser development platform landing page led by the question “What will you build”, with the prompt box as the opening interaction.
 - [Rueya Supply](../sites/rueya-supply.md) — Pre-launch shop whose one screen pairs 41.6px type at weight 300 on a 1.02 line height with an airy 1.75 body, over a cream-to-orange gradient.
 - [SaaS Landing Page](../sites/saas-landing-page.md) — Long-running gallery of about 840 SaaS landing pages with fonts, palette hex codes and build stack noted for each, plus page-type and template lists.
 - [SaaSFrame](../sites/saasframe.md) — SaaS marketing pages, product screens, flows and emails tagged by page, section and UI pattern; most browsing and all Figma files are behind a Pro plan.

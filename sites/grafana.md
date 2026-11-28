@@ -20,7 +20,7 @@ related: [metabase, posthog]
 
 ## What it is
 
-Grafana is the observability platform many teams standardize on for dashboards: metrics, logs and traces from many sources composed into dense, flexible visualizations. The product pages are a reference for presenting information-dense interfaces without apologizing for density.
+Grafana is an open source observability platform: metrics, logs and traces from many sources composed into dense, flexible visualizations. The product pages are a reference for presenting information-dense interfaces without apologizing for density.
 
 ## When to open it
 

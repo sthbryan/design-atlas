@@ -8,7 +8,7 @@ topics: [data-viz, ux-patterns]
 verdict: useful
 agent: [mcp, api]
 pricing: freemium
-licence: "The open source edition is AGPL as stated on the license page, free for self-hosting with unlimited users at review. Cloud and commercial plans are paid, stated on the pricing page (Starter at the review date, plus per-user pricing). Embedding follows the AGPL or the embedding licence stated on the license page."
+licence: "The open source edition is AGPL as stated on the license page, free for self-hosting with unlimited users at review. Cloud and commercial plans are paid, stated on the pricing page (Starter at $100 a month for 5 users, plus $6 per extra user a month at review). Embedding follows the AGPL or the embedding licence stated on the license page."
 licence_class: mixed
 reviewed: 2026-11-26
 status: active

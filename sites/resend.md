@@ -4,9 +4,9 @@ description: "Developer email API reference: a crisp entry point for auth and ba
 url: https://resend.com/docs/api-reference
 type: documentation
 formats: docs · email API · MCP server
-topics: [documentation, cta]
+topics: [documentation]
 verdict: useful
-agent: [mcp, api]
+agent: [mcp, llms-txt, api]
 pricing: freemium
 licence: "The platform is proprietary with a free tier at review, stated on the pricing page (3000 emails per month on the free tier at review). The docs are free to read and look-only at review; API use follows the platform terms. No open source licence is stated for the service."
 licence_class: proprietary-paid
@@ -14,7 +14,7 @@ reviewed: 2026-11-26
 status: active
 related: [stripe, posthog]
 ---
-[← Atlas](../site/home.md) · Topics: [documentation](../topics/documentation.md), [cta](../topics/cta.md)
+[← Atlas](../site/home.md) · Topics: [documentation](../topics/documentation.md)
 
 # Resend
 
@@ -33,11 +33,11 @@ Resend is a developer email service: a small API that sends transactional email.
 - A tight conceptual opening: auth, base URL and response codes up front, in that order, every time.
 - Consistent response code presentation, so error handling can be read off the reference instead of discovered in production.
 - The API reference does not duplicate guides; it stays a reference and links out to the learning path.
-- An MCP server published at review, so agents can send mail contextually instead of through hand-written calls.
+- An MCP server and an llms.txt published at review, so agents can send mail contextually instead of through hand-written calls.
 
 ## Using it with agents
 
-- Resend publishes an MCP server and a REST API behind API keys.
+- Resend publishes an MCP server, an llms.txt for the docs and a REST API behind API keys.
 - The reference page's auth and response sections are the agent-safe starting point: exact headers, exact codes, no prose guessing.
 
 ## Watch out for

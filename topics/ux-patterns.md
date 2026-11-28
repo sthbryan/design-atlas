@@ -37,7 +37,6 @@ Principles, guidelines, checklists and pattern libraries for how interfaces shou
 - [before.click](../sites/before-click.md) — 361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.
 - [blocks.so](../sites/blocks-so.md) — Free MIT shadcn app blocks (dialogs, auth, onboarding, stats, sidebars) from the @blocks-so registry.
 - [Checklist Design](../sites/checklist-design.md) — 138 design checklists by screen, component and flow, plus an agent skill that reviews a screenshot against the matching list.
-- [Clerk](../sites/clerk.md) — User management API reference: frontend, backend and platform APIs separated by intended use, with llms.txt published.
 - [closeit.fast](../sites/closeit-fast.md) — An e-signature product page with a clickable four-screen walkthrough and a step-by-step document lifecycle.
 - [Compresto](../sites/compresto.md) — A media-compression product page with clear before-and-after demos and measured output changes for each format.
 - [coss ui](../sites/coss-ui.md) — Cal.com's Base UI design system with composed particles and agent skills; mixed MIT/AGPL repo.

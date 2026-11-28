@@ -3968,8 +3968,7 @@
       "type": "documentation",
       "formats": "docs · auth API · user management",
       "topics": [
-        "documentation",
-        "ux-patterns"
+        "documentation"
       ],
       "verdict": "useful",
       "agent": [
@@ -4879,7 +4878,7 @@
       "status": "active",
       "related": [
         "replit",
-        "raycast",
+        "prompt-kit",
         "lovable"
       ]
     },
@@ -7078,7 +7077,7 @@
       ],
       "verdict": "niche",
       "agent": [],
-      "pricing": "free",
+      "pricing": "not-stated",
       "licence": "The site is free to browse; the studio's work and content are all rights reserved at review, so treat the site as look-only and do not reuse its copy, imagery or code.",
       "licence_class": "proprietary-free",
       "reviewed": "2026-11-26",
@@ -8441,7 +8440,7 @@
       "status": "active",
       "related": [
         "gumroad",
-        "plausible"
+        "framer"
       ]
     },
     {
@@ -9105,7 +9104,7 @@
       "status": "active",
       "related": [
         "ghost",
-        "fathom"
+        "plausible"
       ]
     },
     {
@@ -12195,9 +12194,9 @@
         "llms-txt",
         "api"
       ],
-      "pricing": "free",
-      "licence": "The developers documentation is free to read at review; the API requires a workspace account and the platform terms govern its use. The site content is all rights reserved, so treat it as look-only. No open source licence covers the docs at review.",
-      "licence_class": "proprietary-free",
+      "pricing": "freemium",
+      "licence": "The developers documentation is free to read at review; the API requires a workspace account and the platform terms govern its use, with paid workspace tiers stated on the main site at review. The site content is all rights reserved, so treat it as look-only. No open source licence covers the docs at review.",
+      "licence_class": "proprietary-paid",
       "reviewed": "2026-11-26",
       "status": "active",
       "related": [
@@ -13558,7 +13557,7 @@
         "api"
       ],
       "pricing": "freemium",
-      "licence": "The open source edition is AGPL as stated on the license page, free for self-hosting with unlimited users at review. Cloud and commercial plans are paid, stated on the pricing page (Starter at the review date, plus per-user pricing). Embedding follows the AGPL or the embedding licence stated on the license page.",
+      "licence": "The open source edition is AGPL as stated on the license page, free for self-hosting with unlimited users at review. Cloud and commercial plans are paid, stated on the pricing page (Starter at $100 a month for 5 users, plus $6 per extra user a month at review). Embedding follows the AGPL or the embedding licence stated on the license page.",
       "licence_class": "mixed",
       "reviewed": "2026-11-26",
       "status": "active",
@@ -16836,13 +16835,14 @@
         "api"
       ],
       "pricing": "freemium",
-      "licence": "The hosted product is proprietary with paid tiers and a free tier at review, stated on the pricing page. Parts of the platform are open source as stated in the repository and on the site; the hosted terms govern cloud usage. Figures at review are stated on the pricing page.",
+      "licence": "The hosted product is proprietary with paid tiers and a free tier at review, stated on the pricing page. The repository is MIT licensed outside the ee/ directory, and the ee/ directory carries a proprietary licence, as stated in the repository; the hosted terms govern cloud usage. Figures at review are stated on the pricing page.",
       "licence_class": "mixed",
       "reviewed": "2026-11-26",
       "status": "active",
       "related": [
         "plausible",
-        "metabase"
+        "metabase",
+        "tremor"
       ]
     },
     {
@@ -17285,7 +17285,8 @@
       "status": "active",
       "related": [
         "cursor",
-        "replit"
+        "replit",
+        "prompt-kit"
       ]
     },
     {
@@ -17781,7 +17782,7 @@
       "slug": "replit",
       "path": "sites/replit.md",
       "title": "Replit",
-      "description": "Browser development platform landing page led by the question What will you build, with the prompt box as the opening interaction.",
+      "description": "Browser development platform landing page led by the question “What will you build”, with the prompt box as the opening interaction.",
       "url": "https://replit.com",
       "type": "website",
       "formats": "product · browser IDE · AI builder",
@@ -17810,12 +17811,12 @@
       "type": "documentation",
       "formats": "docs · email API · MCP server",
       "topics": [
-        "documentation",
-        "cta"
+        "documentation"
       ],
       "verdict": "useful",
       "agent": [
         "mcp",
+        "llms-txt",
         "api"
       ],
       "pricing": "freemium",
@@ -19302,12 +19303,11 @@
       ],
       "verdict": "useful",
       "agent": [
-        "llms-txt",
         "api"
       ],
-      "pricing": "free",
-      "licence": "The developer documentation is free to read at review; building on the platform follows Shopify's partner and app terms. Site content is all rights reserved, so treat it as look-only. No open source licence covers the docs at review.",
-      "licence_class": "proprietary-free",
+      "pricing": "freemium",
+      "licence": "The developer documentation is free to read at review; building on the platform follows Shopify's partner and app terms, with paid plans stated on the main site at review. Site content is all rights reserved, so treat it as look-only. No open source licence covers the docs at review.",
+      "licence_class": "proprietary-paid",
       "reviewed": "2026-11-26",
       "status": "active",
       "related": [
@@ -20474,9 +20474,9 @@
         "llms-txt",
         "api"
       ],
-      "pricing": "free",
-      "licence": "The documentation and reference content are free to read; the platform's terms govern the API itself, and the site's content is all rights reserved, so treat it as look-only. Service pricing is usage-based and stated on stripe.com. No open source licence covers the docs at review.",
-      "licence_class": "proprietary-free",
+      "pricing": "freemium",
+      "licence": "The documentation and reference content are free to read; the platform's terms govern the API itself, and the site's content is all rights reserved, so treat it as look-only. The platform has paid, usage-based tiers stated on stripe.com at review. No open source licence covers the docs at review.",
+      "licence_class": "proprietary-paid",
       "reviewed": "2026-11-26",
       "status": "active",
       "related": [

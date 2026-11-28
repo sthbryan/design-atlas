@@ -12,7 +12,7 @@ licence: "Proprietary product with free and paid tiers at review, stated on the 
 licence_class: proprietary-paid
 reviewed: 2026-11-26
 status: active
-related: [replit, raycast, lovable]
+related: [replit, prompt-kit, lovable]
 ---
 [← Atlas](../site/home.md) · Topics: [ai-interfaces](../topics/ai-interfaces.md), [landing-pages](../topics/landing-pages.md)
 

@@ -79,7 +79,7 @@ Interfaces for AI products: chat and agent components, patterns for oversight an
 - [Prompt Kit](../sites/prompt-kit.md) — MIT shadcn components for chat UIs: prompt input, auto-scrolling conversation, reasoning, tool-call and citation views.
 - [Raycast](../sites/raycast.md) — Productivity launcher landing page: keyboard-first visuals and a strong voice that make a tool feel like a coherent world.
 - [React Bits Pro](../sites/reactbits-pro.md) — Paid library of animated React work — 230 components, 300 page blocks and 300 app-UI blocks — with a counted, category-by-category inventory.
-- [Replit](../sites/replit.md) — Browser development platform landing page led by the question What will you build, with the prompt box as the opening interaction.
+- [Replit](../sites/replit.md) — Browser development platform landing page led by the question “What will you build”, with the prompt box as the opening interaction.
 - [Sevalla](../sites/sevalla.md) — Cloud hosting landing page that explains apps, databases, storage and static sites through product previews, location data and MCP workflows.
 - [shadercn](../sites/shadercn.md) — WebGPU ports of the Orbkit orbs in shadcn registry format; the orb files are non-commercial despite the MIT repo.
 - [Smooth UI](../sites/smooth-ui.md) — 198 MIT animated components with a large AI-interface set, llms.txt, JSON catalog and a no-auth REST API.
