@@ -10,7 +10,7 @@ agent: []
 pricing: freemium
 licence: Free to browse; Pro costs $9 a month at review and removes ads and board limits. Its policy says screenshots belong to the site owners, forbids scraping, bulk downloading or redistributing the gallery or its data, and keeps curation and database rights. Each freebie has its own terms
 licence_class: proprietary-paid
-reviewed: 2026-09-25
+reviewed: 2026-11-28
 status: active
 related: [land-book, landingfolio, landing-love, landdding, emil-kowalski-skills]
 ---

@@ -26,8 +26,10 @@ Skills are instruction files (a `SKILL.md`, often with references and scripts) t
 - [Anthropic Design Plugin](../sites/anthropic-design-plugin.md) — Anthropic's Apache-2.0 designer plugin: structured critique, UX copy, WCAG review and handoff templates.
 - [Anthropic Skills](../sites/anthropic-skills.md) — Anthropic's frontend-design anti-default skill plus canvas-design, theme-factory and brand-guidelines, all Apache-2.0.
 - [antislop-ui](../sites/antislop-ui.md) — Purpose-gated UI rules, honesty gates and an evidence-backed Delivery Gate, including dashboard tells.
+- [Awesome Design Skills](../sites/awesome-design-skills.md) — A curated list of 67 DESIGN.md and SKILL.md design skills for agentic tools, updated continuously (at review).
 - [before.click](../sites/before-click.md) — 361 App Store screenshot strips, paywalls and onboarding flows, plus an MIT ASO agent skill.
 - [BoardUI](../sites/boardui.md) — React and Tailwind design system for dashboards and agentic interfaces, with 103 components, 19 charts and an MCP server that installs source.
+- [Design Agent Skills](../sites/design-agent-skills.md) — A small curated repository of design skills written for AI coding agents, MIT-licensed.
 - [Design DNA](../sites/design-dna.md) — Turns references into a three-part JSON profile (tokens, style, WebGL effects), with measured colours and a ΔE verify loop.
 - [Design Lab](../sites/design-lab.md) — Interviews you, mounts five code variants on a temporary route, then writes an implementation plan.
 - [Design Motion Principles](../sites/design-motion-principles.md) — Create or audit UI motion through Emil, Jakub and Jhey lenses; HTML audit report with looping demos.

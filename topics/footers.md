@@ -21,6 +21,7 @@ Footer structure, density and content — the part of the page that quietly carr
 - [Checklist Design](../sites/checklist-design.md) — 138 design checklists by screen, component and flow, plus an agent skill that reviews a screenshot against the matching list.
 - [Footer Design](../sites/footer-design.md) — Gallery dedicated to footers, filtered by style, with an Editor's Choice flag.
 - [HyperUI](../sites/hyperui.md) — Free MIT copy-paste Tailwind v4 snippets (about 540 with dark variants) for apps, marketing and a neobrutalism set, plus small tools.
+- [sectionmaster](../sites/sectionmaster.md) — A curated gallery of real website footer sections, with an llms.txt for agents.
 - [Sections.wtf](../sites/sections-wtf.md) — Short recordings of individual website sections, filterable by 22 block types with source-site and same-site links.
 - [Tailark](../sites/tailark.md) — shadcn registry of marketing blocks, full pages and illustrations; free MIT kits plus a paid Quartz kit, in Base UI and Radix builds.
 <!-- atlas:sources:end -->

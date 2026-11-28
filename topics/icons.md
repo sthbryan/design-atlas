@@ -31,6 +31,7 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Devicon](../sites/devicon.md) — MIT set of language and dev-tool logos as SVG and a font, made for tech-stack rows.
 - [Eva Icons (stale)](../sites/eva-icons.md) — Akveo's MIT pack of 490 outline and fill icons with a data-attribute replace script and four hover animations; unmaintained since 2020.
 - [Feather (stale)](../sites/feather.md) — The original 287-icon minimal stroke set that Lucide forked. MIT, still usable, but no new icons since 2022.
+- [Fluenticons](../sites/fluenticons.md) — Free MCP server, HTTP API and CLI for Microsoft Fluent UI icons; no API key, with llms.txt.
 - [Free Icon Resources](../sites/free-icon-resources.md) — A categorized index of icon libraries, search tools, generators and learning references for choosing a specific icon source.
 - [Heroicons (stale)](../sites/heroicons.md) — Tailwind Labs' MIT set of 316 icons, each drawn in outline, solid, mini and micro sizes, with React and Vue packages.
 - [Heroicons Animated](../sites/heroicons-animated.md) — 316 Heroicons outline icons with hover animations built on Motion, via shadcn registry, npm and llms.txt.
@@ -45,6 +46,7 @@ Icon sets for interfaces and marketing pages, from outline SVG systems to animat
 - [Iconoir](../sites/iconoir.md) — 1,671 MIT SVG icons (regular + solid) with React, Vue, React Native, Flutter, Swift, CSS, Figma and Framer.
 - [Icons.download](../sites/icons-download.md) — 275 hand-drawn UI icons in 16 styles (weight, fill, corner), free SVG and Figma.
 - [icons0 (broken)](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
+- [Icons8 MCP](../sites/icons8-mcp.md) — Icons8's MCP server for AI agents: icon and illustration search with one style per project, PNG free (at review).
 - [Iconsax](../sites/iconsax.md) — Vuesax's six-style icon library with 40k+ icons, a free no-auth MCP server, a web component and a Pro sync CLI.
 - [Icoon](../sites/icoon.md) — About 1,500 AI-generated 3D icons, characters and shapes as PNGs, one-time $29, revocable licence.
 - [Ikonik](../sites/ikonik.md) — 50,000+ icons gathered from 44 open-source packs, with a built-in SVG editor and copy as SVG or JSX; each pack keeps its own free licence.

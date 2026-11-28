@@ -30,7 +30,9 @@ How sites document components, design systems and style — for human readers an
 - [Babylon.js](../sites/babylonjs.md) — Apache-2.0 WebGL and WebGPU engine from Microsoft, with a playground, node editors, sandbox and inspector for building 3D in the browser.
 - [Base UI](../sites/base-ui.md) — Unstyled, accessible React primitives from the Radix, Floating UI and MUI teams, now shadcn's default.
 - [Carbon Design System](../sites/carbon-design-system.md) — IBM's Apache-2.0 system: about 50 components, 2,775 icons and 1,576 pictograms, llms.txt, and an IBMid-gated MCP.
+- [CFPB Design System](../sites/cfpb-design-system.md) — The US Consumer Financial Protection Bureau's data visualization guidelines, public domain (CC0).
 - [Clerk](../sites/clerk.md) — User management API reference: frontend, backend and platform APIs separated by intended use, with llms.txt published.
+- [Cloudscape Data Visualization](../sites/cloudscape-data-visualization.md) — Amazon's data-vis pattern page: charts for cloud consoles, an open-source system and a full llms.txt.
 - [ColorBox](../sites/colorbox.md) — Palette generator built on OKLCH and OKLAB, checking WCAG contrast as you edit and exporting CSS, Tailwind, Figma tokens or JSON.
 - [D3](../sites/d3.md) — The library for bespoke data visualisation, with a gallery of notebook examples that doubles as a vocabulary of chart forms.
 - [Design System Checklist](../sites/design-system-checklist.md) — 230 items across language, foundations, 29 components and maintenance, with shareable progress links.
@@ -72,6 +74,7 @@ How sites document components, design systems and style — for human readers an
 - [Refero Styles](../sites/refero-styles.md) — 2,000+ real brand styles extracted into agent-readable DESIGN.md files, searchable by mood, with an MCP connection.
 - [Resend](../sites/resend.md) — Developer email API reference: a crisp entry point for auth and base URLs, clean response codes and an MCP server.
 - [SakaniUI](../sites/sakaniui.md) — Token-driven React design system with a Liquid Glass surface layer, 130+ components, 42 blocks and Figma parity.
+- [Scottish Government Design System](../sites/gov-scot-design-system.md) — Scotland's charts guidance: how to present numerical data accessibly, under the Open Government Licence.
 - [Sent](../sites/sent.md) — Developer-tool landing page for one SMS, WhatsApp and RCS API, with a cost estimator and a per-country rate sheet instead of plan cards.
 - [Shadcn Labs](../sites/shadcn-labs.md) — Index of the independent Shadcn Labs registries: termcn, pdfcn, emailcn, ogimagecn, shadercn and more.
 - [shadcn/ui](../sites/shadcn-ui.md) — Accessible React components copied into your repo and edited freely, with llms.txt, a CLI and an MCP registry.
@@ -93,6 +96,7 @@ How sites document components, design systems and style — for human readers an
 - [UI Playbook (stale)](../sites/ui-playbook.md) — Rauno Freiberg's nine component "plays" listing the states, traps and ARIA rules each one needs.
 - [UIAble](../sites/uiable.md) — 790+ components, 390+ blocks and templates built on shadcn/ui and Base UI, with command-palette-searchable docs.
 - [Uwarp](../sites/uwarp.md) — Free collection of browser tools for designers, from image and document converters to icons, colour and media.
+- [Visa Product Design System](../sites/visa-design-system.md) — Visa's chart guidance and examples for business dashboards, with llms.txt and accessibility notes.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
 - [Warp](../sites/warp.md) — Developer site built as a terminal, with bracketed nav keys, numbered figure captions and a YAML file annotated in the margin.
 - [Yaak](../sites/yaak.md) — API client page with a light and dark toggle in the hero preview, numbered capability lines and a versioned changelog used as proof.

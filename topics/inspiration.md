@@ -112,6 +112,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Dark Design](../sites/dark-design.md) — Browse a large gallery of dark-themed websites with category filters, new or popular sorting, and direct links to live examples.
 - [Dark Mode Design](../sites/dark-mode-design.md) — About 380 dark-by-default websites, hand-picked since 2020; plain paginated grid, no filters.
 - [Data Viz Project](../sites/dataviz-project.md) — A visual index of chart forms with small examples and filters for comparing shape, purpose and input before choosing a display.
+- [DataViz Inspiration](../sites/dataviz-inspiration.md) — A Pinterest-style gallery of hundreds of chart examples sorted by tool and chart type.
 - [David Bagdasaryan](../sites/david-bagdasaryan.md) — A minimal designer portfolio pairs a full-bleed portrait with a small pixel mark, location details and two compact links.
 - [Dead Simple Sites](../sites/dead-simple-sites.md) — A screenshot-led archive of minimal websites, with creator names and direct visit links in a sparse grid.
 - [DesEngs](../sites/desengs.md) — Dated feed of about 106 design-engineering links (tools, libraries, essays, jobs) plus site, minimal-site and designer galleries; MIT source.
@@ -146,6 +147,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [Flourish](../sites/flourish.md) — An interactive data storytelling editor and gallery of working charts, maps and stories to study or adapt.
 - [Folios.Gallery](../sites/folios-gallery.md) — 23 hand-picked, expressive designer and studio portfolio sites, split into Individual and Studio, from the curator of Browse.cool.
 - [Font In Logo](../sites/fontinlogo.md) — Searchable database of the typefaces behind famous brand, film and game logos, with verified, based-on, modified and community labels.
+- [Fontmap](../sites/fontmap.md) — An interactive map of 1,100+ Google Fonts placed by visual similarity, open source under MIT.
 - [Fonts In Use](../sites/fonts-in-use.md) — Archive of real typography across web, print, identity and packaging, searchable by typeface, format, topic and visual tag.
 - [Footer Design](../sites/footer-design.md) — Gallery dedicated to footers, filtered by style, with an Editor's Choice flag.
 - [Frameset](../sites/frameset.md) — Search film and advertising frames by text or image, then open individual references to study composition, colour and camera treatment.
@@ -306,6 +308,7 @@ Galleries of real interfaces, sites and components to look at before designing y
 - [SceneAI](../sites/sceneai.md) — Curated landing-page prompts, animated backgrounds and gradients for studying expressive web sections and motion.
 - [ScreensDesign](../sites/screensdesign.md) — Study real app onboarding, paywalls and product flows through searchable screens, chaptered videos and app breakdowns.
 - [Scrolltide](../sites/scrolltide.md) — Paid library of 145 cinematic scroll-driven templates, each paired with a prompt for Claude, Cursor or v0, plus an MCP server.
+- [sectionmaster](../sites/sectionmaster.md) — A curated gallery of real website footer sections, with an llms.txt for agents.
 - [Sections.wtf](../sites/sections-wtf.md) — Short recordings of individual website sections, filterable by 22 block types with source-site and same-site links.
 - [SEESAW](../sites/seesaw.md) — About 860 hand-picked live sites, each tagged with its typefaces, plus a 630-font index.
 - [Sephiro](../sites/sephiro.md) — A React and Preact component catalogue that pairs live state examples with six built-in themes and a compact token system.
