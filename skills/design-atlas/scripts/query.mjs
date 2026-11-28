@@ -3,8 +3,6 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildCorpus, planQuery, prepareSynonyms, rank } from './search.mjs';
 
-const RAW_BASE = 'https://raw.githubusercontent.com/sthbryan/design-atlas/main';
-const FETCH_TIMEOUT_MS = 8000;
 const DEFAULT_LIMIT = 12;
 const MAX_LIMIT = 50;
 const REVIEW_DAYS = 180;
@@ -62,7 +60,7 @@ Filters (comma-separated values):
   --freshness a,b      fresh, or due (past stale_after, or past reviewed + ${REVIEW_DAYS} days)
   --link a,b           URL health from ${HEALTH_FILE}: live, moved, blocked (the
                        server refuses automated requests), dead. A local clone
-                       or the network only; run scripts/check-urls.mjs to write it
+                       only; run scripts/check-urls.mjs to write it
   --pricing a,b        free, freemium, paid, not-stated
   --verdict a,b        very-useful, useful, niche
   --min-verdict v      useful = useful or very-useful
@@ -76,13 +74,13 @@ Options:
   --limit N            rows to print (default ${DEFAULT_LIMIT}, max ${MAX_LIMIT})
   --topics             list hubs with their site counts instead of sites
   --atlas DIR          read this local clone
-  --offline            never use the network
-  --location L         force one location: local, remote or bundled
+  --offline            kept for compatibility; this script never uses the network
+  --location L         force one location: local or bundled
   --help               show this text
 
 Location order: --atlas, $DESIGN_ATLAS_DIR, the current directory and its
-parents, the plugin root two levels above this skill, then raw GitHub
-(${RAW_BASE}), then the bundled references/catalog.json.
+parents, the plugin root two levels above this skill, then the bundled
+references/catalog.json.
 
 Exit codes: 0 results found, 1 no match, 2 bad arguments, 3 no index available.`;
 
@@ -120,7 +118,7 @@ function parseArgs(argv) {
   }
   if (!Number.isInteger(opts.limit) || opts.limit < 1) die(2, `--limit must be a positive integer.`);
   opts.limit = Math.min(opts.limit, MAX_LIMIT);
-  if (opts.location && !['local', 'remote', 'bundled'].includes(opts.location)) die(2, `--location must be local, remote or bundled.`);
+  if (opts.location && !['local', 'bundled'].includes(opts.location)) die(2, `--location must be local or bundled.`);
   if (opts.minVerdict && !(opts.minVerdict in VERDICT_RANK)) die(2, `--min-verdict must be one of: ${Object.keys(VERDICT_RANK).join(', ')}.`);
   if (opts.filters.asset && !opts.filters.licence) die(2, '--asset narrows --licence; add a class or a group such as ship.');
   return opts;
@@ -166,15 +164,6 @@ async function loadIndex(opts) {
     tried.push(opts.atlas ? `local clone at ${resolve(opts.atlas)} (no sites.json plus topics/)` : 'local clone (none found)');
     if (opts.atlas) die(3, `no atlas at ${resolve(opts.atlas)}: it needs sites.json and a topics/ folder.`);
   }
-  if ((!opts.location || opts.location === 'remote') && !opts.offline) {
-    try {
-      const res = await fetch(`${RAW_BASE}/sites.json`, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return { location: 'remote', root: RAW_BASE, pages: RAW_BASE, data: await res.json() };
-    } catch (error) {
-      tried.push(`raw GitHub (${error.name === 'TimeoutError' ? 'timed out' : error.message})`);
-    }
-  }
   if (!opts.location || opts.location === 'bundled') {
     const data = existsSync(BUNDLED_CATALOG) ? readJson(BUNDLED_CATALOG) : null;
     if (data) {
@@ -183,7 +172,7 @@ async function loadIndex(opts) {
     }
     tried.push('bundled references/catalog.json (missing or unreadable)');
   }
-  die(3, `no atlas index available. Tried: ${tried.join('; ')}. Clone https://github.com/sthbryan/design-atlas and pass --atlas DIR.`);
+  die(3, `no atlas index available. Tried: ${tried.join('; ')}. Clone the Design Atlas repository and pass --atlas DIR, or bundle the catalog with the skill.`);
 }
 
 function expandValues(key, values) {
@@ -281,16 +270,8 @@ async function loadHealth(index) {
     const data = readJson(path);
     if (!data) die(3, `${path} is not valid JSON; rerun scripts/check-urls.mjs.`);
     return new Map((data.sites ?? []).map((s) => [s.slug, s.status]));
-  } else if (index.location === 'remote') {
-    try {
-      const res = await fetch(`${RAW_BASE}/${HEALTH_FILE}`, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return new Map(((await res.json()).sites ?? []).map((s) => [s.slug, s.status]));
-    } catch (error) {
-      die(3, `could not read ${HEALTH_FILE} from ${RAW_BASE}: ${error.message}. Drop --link or use a local clone.`);
-    }
   }
-  die(3, `--link needs ${HEALTH_FILE}, which the bundled snapshot does not hold; use a local clone or allow the network.`);
+  die(3, `--link needs ${HEALTH_FILE}, which the bundled snapshot does not hold; use a local clone.`);
 }
 
 const opts = parseArgs(process.argv.slice(2));
@@ -331,7 +312,7 @@ if (opts.search !== undefined) {
   const localIndex = index.location === 'local' ? join(index.root, SEARCH_INDEX) : null;
   const indexPath = index.location === 'local'
     ? (existsSync(localIndex) ? localIndex : null)
-    : index.location === 'bundled' ? BUNDLED_SEARCH : null;
+    : BUNDLED_SEARCH;
   const docs = indexPath && existsSync(indexPath) ? readJson(indexPath)?.docs : null;
   const synonyms = prepareSynonyms(existsSync(SYNONYMS) ? readJson(SYNONYMS) : {});
   const corpus = buildCorpus(sites, docs);
@@ -341,8 +322,7 @@ if (opts.search !== undefined) {
       ? `--search "${opts.search}" holds only filter words; use ${plan.hints.join(' ')} and search for what you need, such as icons or charts.`
       : `--search "${opts.search}" has no searchable words; add a noun such as icons, charts or pricing.`);
   }
-  if (index.location === 'remote') process.stderr.write('no matching search index for the remote catalog; ranking site metadata only, without page text.\n');
-  else if (corpus.missing) process.stderr.write(`search index lacks ${corpus.missing} site(s); they are ranked on index metadata only, without page text.\n`);
+  if (corpus.missing) process.stderr.write(`search index lacks ${corpus.missing} site(s); they are ranked on index metadata only, without page text.\n`);
   if (plan.corrected.length) process.stderr.write(`corrected: ${plan.corrected.join(', ')}\n`);
   header.search = {
     query: opts.search,
