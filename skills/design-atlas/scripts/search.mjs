@@ -39,14 +39,18 @@ export function normalize(text) {
     .replace(/(\d),(\d)/g, '$1$2');
 }
 
+const COMMAND_TOKENS = new Set([
+  'npx', 'npm', 'pnpm', 'yarn', 'bunx', 'curl', 'wget', 'bash', 'zsh', 'sh', 'powershell', 'deno',
+]);
+
 export function words(text) {
   return normalize(text)
     .split(/[^a-z0-9]+/)
-    .filter((w) => w.length > 1 && !STOPWORDS.has(w) && !/^\d{4,}$/.test(w));
+    .filter((w) => w.length > 1 && !STOPWORDS.has(w) && !COMMAND_TOKENS.has(w) && !/^\d{4,}$/.test(w));
 }
 
 export function tokenize(text) {
-  return words(text).map(stem);
+  return words(text).map(stem).filter((w) => !COMMAND_TOKENS.has(w));
 }
 
 function packTerms(text) {

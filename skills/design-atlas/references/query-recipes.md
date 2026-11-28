@@ -116,7 +116,7 @@ grep -n -i -E 'scrap|crawl|bulk|automated|redistribut|mirror' sites/animated-ico
 | 0 | At least one match |
 | 1 | No match; widen one filter |
 | 2 | Bad argument; the message names the fix |
-| 3 | No index reachable; clone the atlas and pass `--atlas DIR` |
+| 3 | No index reachable (clone the atlas, pass `--atlas DIR`), or a filter needs data the location does not hold; the error is JSON on stdout |
 
 ## Ranked search
 
