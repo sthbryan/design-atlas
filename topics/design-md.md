@@ -24,6 +24,7 @@ Design systems written as a single markdown file an agent can read: the librarie
 - [Ansphare](../sites/ansphare.md) — Free gallery that pairs a design with its prompt, its DESIGN.md or a skill file you can drop into Claude or Cursor.
 - [Appinspo](../sites/appinspo.md) — A curated feed of about 760 app shots by device, plus a tool that turns a screenshot into an AI style brief.
 - [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
+- [Awesome Design Skills](../sites/awesome-design-skills.md) — A curated list of 67 DESIGN.md and SKILL.md design skills for agentic tools, updated continuously (at review).
 - [Design DNA](../sites/design-dna.md) — Turns references into a three-part JSON profile (tokens, style, WebGL effects), with measured colours and a ΔE verify loop.
 - [design.dev](../sites/design-dev.md) — Free generators for DESIGN.md, AGENTS.md, CLAUDE.md and more, plus component prompts and style packs; strict terms.
 - [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
@@ -57,6 +58,7 @@ Design systems written as a single markdown file an agent can read: the librarie
 - [Vessa](../sites/vessa.md) — Paid hosted brand guidelines with motion tokens, a public brand.json and llms.txt per brand, and an OAuth MCP.
 - [Vibrant Design](../sites/vibrant-design.md) — Curated library of websites, sections and launch videos that turns each design into build notes and a DESIGN.md for coding agents.
 - [visualize (display.dev)](../sites/visualize.md) — Brand-aware HTML reports, decks and dashboards, checked by named bans and deterministic detectors.
+- [WebDesignHot Design MD](../sites/webdesignhot-design-md.md) — A curated catalogue of 470 DESIGN.md files in the WebDesignHot v0.2 format, with CLI and MCP for agents.
 <!-- atlas:sources:end -->
 
 ## Format comparison

@@ -37,6 +37,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Are.na](../sites/are-na.md) — Independent research-style bookmarking in connected channels, with a v3 REST API, llms.txt, official OAuth MCP server and CLI.
 - [ASCII Magic](../sites/ascii-magic.md) — Browser image and video studio for ASCII, dithering, mosaics and visual effects, with an MCP server for agents.
 - [Aura](../sites/aura.md) — AI landing-page builder with templates, components, assets, a ~725-file DESIGN.md library and a remote MCP.
+- [Awesome Design Skills](../sites/awesome-design-skills.md) — A curated list of 67 DESIGN.md and SKILL.md design skills for agentic tools, updated continuously (at review).
 - [Banani](../sites/banani.md) — Public UI-screen references and an AI editor for turning prompts or screenshots into editable prototypes.
 - [Base CN](../sites/base-cn.md) — Community port of the shadcn/ui components to Base UI, installed through a namespaced registry.
 - [Base UI](../sites/base-ui.md) — Unstyled, accessible React primitives from the Radix, Floating UI and MUI teams, now shadcn's default.
@@ -53,6 +54,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Croqui](../sites/croqui.md) — Design canvas for coding agents where every frame is a real React file, reviewed and approved in place.
 - [Cuelume](../sites/cuelume.md) — Seventeen synthesised interaction cues wired by data attributes and bind(), with a full agents.md guide.
 - [daisyUI](../sites/daisyui.md) — MIT Tailwind plugin of semantic component classes and 35 themes; llms.txt doubles as a skill, paid Blueprint MCP.
+- [Design Agent Skills](../sites/design-agent-skills.md) — A small curated repository of design skills written for AI coding agents, MIT-licensed.
 - [design.dev](../sites/design-dev.md) — Free generators for DESIGN.md, AGENTS.md, CLAUDE.md and more, plus component prompts and style packs; strict terms.
 - [DESIGN.md](../sites/designmd.md) — Community library of whole design systems as single markdown files, with light/dark previews, an MCP server and a CLI.
 - [DesignMD (designmd.me)](../sites/designmd-me.md) — Credit-based URL-to-DESIGN.md generator with CLI, agent skill, Figma import and a free Discover gallery.
@@ -69,6 +71,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [Evil Charts](../sites/evil-charts.md) — Animated shadcn chart components on Recharts or ECharts, with llms.txt, a skill and an MCP server.
 - [Figma](../sites/figma.md) — The default design canvas, with Dev Mode, Code Connect and a remote MCP server that reads designs and writes back to the canvas.
 - [Flowbite](../sites/flowbite.md) — Large MIT Tailwind library with data-attribute JS, React/Svelte/Vue ports, Figma kit, open-source MCP and paid Pro blocks.
+- [Fluenticons](../sites/fluenticons.md) — Free MCP server, HTTP API and CLI for Microsoft Fluent UI icons; no API key, with llms.txt.
 - [FlyonUI](../sites/flyonui.md) — Semantic Tailwind classes plus bundled Preline JS plugins; MIT with Preline Fair Use terms inherited, paid Pro blocks and MCP builder.
 - [Framer](../sites/framer.md) — Canvas website builder and host with an in-app agent, skills, and a bridge that lets Claude Code or Codex edit projects on branches.
 - [GAIA UI](../sites/gaia-ui.md) — MIT, shadcn-compatible React components for AI assistants, with documented registry installation and a focused agent-app visual language.
@@ -85,6 +88,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [IconMCP](../sites/iconmcp.md) — 6,248 original outline icons with an MCP server your coding agent can search by meaning, MIT licensed.
 - [IconMind](../sites/iconmind.md) — 5,287 open-source icons for AI-era software, in outline and duotone across three weights.
 - [icons0 (broken)](../sites/icons0.md) — Hybrid search over roughly 200k Iconify icons with a licence filter, a shadcn registry and a token-gated MCP.
+- [Icons8 MCP](../sites/icons8-mcp.md) — Icons8's MCP server for AI agents: icon and illustration search with one style per project, PNG free (at review).
 - [Iconsax](../sites/iconsax.md) — Vuesax's six-style icon library with 40k+ icons, a free no-auth MCP server, a web component and a Pro sync CLI.
 - [Illos](../sites/illos.md) — Animated SVG illustrations that stay on-style, generated through skills for Claude Code, Cursor and Codex.
 - [Imageory](../sites/imageory.md) — Small personal gallery of 125 AI-generated backgrounds and textures, each with its full prompt ready to copy; no licence stated.
@@ -185,6 +189,7 @@ Sites built to be consumed directly by coding agents — through an MCP server, 
 - [VibePrompts](../sites/vibeprompts.md) — Library of prompts organised by page section (pricing, hero, forms) to paste into any AI assistant.
 - [VibeUI](../sites/vibeui.md) — 92 copyable layout-only prompts in 15 section types, each paired with a style screenshot.
 - [VividSites](../sites/vividsites.md) — A prompt library of cinematic website examples, with filters, free previews, source videos and an MCP search route.
+- [WebDesignHot Design MD](../sites/webdesignhot-design-md.md) — A curated catalogue of 470 DESIGN.md files in the WebDesignHot v0.2 format, with CLI and MCP for agents.
 - [What Ships](../sites/what-ships.md) — About 2,220 startup launch videos from X, with llms.txt, an OpenAPI description and a JSON index.
 - [WunderUI](../sites/wunderui.md) — Agentic React and Figma design system with 194 components, 285 screens, 181 motion effects, MCP, skills and DESIGN.md.
 <!-- atlas:sources:end -->

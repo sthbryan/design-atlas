@@ -1588,6 +1588,31 @@
       ]
     },
     {
+      "slug": "ant-design-charts",
+      "path": "sites/ant-design-charts.md",
+      "title": "Ant Design Charts",
+      "description": "The AntV chart gallery: React components and examples for dashboards, free and MIT-licensed (at review).",
+      "url": "https://ant-design-charts.antgroup.com/en/examples",
+      "type": "gallery",
+      "formats": "chart gallery · React component library",
+      "topics": [
+        "data-viz",
+        "components"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to use. The AntV libraries behind the gallery (G2, X6 and friends) are released under the MIT licence.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "vega-lite-examples",
+        "python-graph-gallery",
+        "ant-design"
+      ]
+    },
+    {
       "slug": "ant-design",
       "path": "sites/ant-design.md",
       "title": "Ant Design",
@@ -2359,6 +2384,32 @@
         "ai-ux-playground",
         "appinspo",
         "design-mobile-apps"
+      ]
+    },
+    {
+      "slug": "awesome-design-skills",
+      "path": "sites/awesome-design-skills.md",
+      "title": "Awesome Design Skills",
+      "description": "A curated list of 67 DESIGN.md and SKILL.md design skills for agentic tools, updated continuously (at review).",
+      "url": "https://github.com/bergside/awesome-design-skills",
+      "type": "directory",
+      "formats": "GitHub list of design skills",
+      "topics": [
+        "design-md",
+        "agent-skills",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The list repository is released under the MIT licence. Each linked skill keeps its own licence and terms.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "webdesignhot-design-md",
+        "design-agent-skills",
+        "getdesign-md"
       ]
     },
     {
@@ -3696,6 +3747,31 @@
       ]
     },
     {
+      "slug": "cfpb-design-system",
+      "path": "sites/cfpb-design-system.md",
+      "title": "CFPB Design System",
+      "description": "The US Consumer Financial Protection Bureau's data visualization guidelines, public domain (CC0).",
+      "url": "https://cfpb.github.io/design-system/guidelines/data-visualization-guidelines",
+      "type": "guidelines",
+      "formats": "guidelines",
+      "topics": [
+        "data-viz",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The design system repository is released under CC0 1.0 (public domain dedication); the guidelines follow it.",
+      "licence_class": "public-domain",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "gov-scot-design-system",
+        "visa-design-system",
+        "cloudscape-data-visualization"
+      ]
+    },
+    {
       "slug": "chanh-dai",
       "path": "sites/chanh-dai.md",
       "title": "Chánh Đại",
@@ -4008,6 +4084,33 @@
         "before-click",
         "good-ui",
         "useronboard"
+      ]
+    },
+    {
+      "slug": "cloudscape-data-visualization",
+      "path": "sites/cloudscape-data-visualization.md",
+      "title": "Cloudscape Data Visualization",
+      "description": "Amazon's data-vis pattern page: charts for cloud consoles, an open-source system and a full llms.txt.",
+      "url": "https://cloudscape.design/patterns/general/data-vis",
+      "type": "guidelines",
+      "formats": "guidelines · pattern",
+      "topics": [
+        "data-viz",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free and open source. The Cloudscape components repository is released under the Apache-2.0 licence.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "visa-design-system",
+        "cfpb-design-system",
+        "gov-scot-design-system"
       ]
     },
     {
@@ -5018,6 +5121,33 @@
       ]
     },
     {
+      "slug": "dataviz-inspiration",
+      "path": "sites/dataviz-inspiration.md",
+      "title": "DataViz Inspiration",
+      "description": "A Pinterest-style gallery of hundreds of chart examples sorted by tool and chart type.",
+      "url": "https://dataviz-inspiration.com",
+      "type": "gallery",
+      "formats": "chart gallery",
+      "topics": [
+        "data-viz",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "not-stated",
+      "licence": "Not stated on the site; treat the example images as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "dataviz-project",
+        "vega-lite-examples",
+        "python-graph-gallery"
+      ]
+    },
+    {
       "slug": "dataviz-project",
       "path": "sites/dataviz-project.md",
       "title": "Data Viz Project",
@@ -5218,6 +5348,33 @@
       "related": [
         "folios-gallery",
         "wall-of-portfolios"
+      ]
+    },
+    {
+      "slug": "design-agent-skills",
+      "path": "sites/design-agent-skills.md",
+      "title": "Design Agent Skills",
+      "description": "A small curated repository of design skills written for AI coding agents, MIT-licensed.",
+      "url": "https://github.com/podo/design-agent-skills",
+      "type": "agent-skill-collection",
+      "formats": "agent skill collection",
+      "topics": [
+        "agent-skills",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "skill"
+      ],
+      "pricing": "free",
+      "licence": "The repository is released under the MIT licence.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "awesome-design-skills",
+        "anthropic-skills",
+        "accesslint-skills"
       ]
     },
     {
@@ -7605,6 +7762,36 @@
       ]
     },
     {
+      "slug": "fluenticons",
+      "path": "sites/fluenticons.md",
+      "title": "Fluenticons",
+      "description": "Free MCP server, HTTP API and CLI for Microsoft Fluent UI icons; no API key, with llms.txt.",
+      "url": "https://fluenticons.co/ai",
+      "type": "tool",
+      "formats": "MCP server · HTTP API · CLI",
+      "topics": [
+        "icons",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "api",
+        "cli",
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free with no signup, key or paid plan. The icons are Microsoft's Fluent UI System Icons, released under the MIT licence; the gateway states it sends no code, only search words and icon names.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "icons8-mcp",
+        "animated-icons",
+        "css-gg"
+      ]
+    },
+    {
       "slug": "fluid-functionalism",
       "path": "sites/fluid-functionalism.md",
       "title": "Fluid Functionalism",
@@ -7747,6 +7934,31 @@
         "typewolf",
         "typeface-fyi",
         "best-free-fonts"
+      ]
+    },
+    {
+      "slug": "fontmap",
+      "path": "sites/fontmap.md",
+      "title": "Fontmap",
+      "description": "An interactive map of 1,100+ Google Fonts placed by visual similarity, open source under MIT.",
+      "url": "https://github.com/tfrere/fontmap",
+      "type": "tool",
+      "formats": "interactive map · UMAP projection of Google Fonts",
+      "topics": [
+        "typography-and-styles",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "The repository is released under the MIT licence. The Google Fonts themselves keep their own licences (mostly OFL).",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "usecolor",
+        "getdesign-md",
+        "ramps"
       ]
     },
     {
@@ -8810,6 +9022,31 @@
       "related": [
         "google-evolving-identity",
         "google-arts-and-culture"
+      ]
+    },
+    {
+      "slug": "gov-scot-design-system",
+      "path": "sites/gov-scot-design-system.md",
+      "title": "Scottish Government Design System",
+      "description": "Scotland's charts guidance: how to present numerical data accessibly, under the Open Government Licence.",
+      "url": "https://designsystem.gov.scot/guidance/charts",
+      "type": "guidelines",
+      "formats": "guidelines",
+      "topics": [
+        "data-viz",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free to use under the Open Government Licence v3.0 (all content except graphic assets and where otherwise stated).",
+      "licence_class": "public-domain",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "cfpb-design-system",
+        "visa-design-system",
+        "cloudscape-data-visualization"
       ]
     },
     {
@@ -10340,6 +10577,33 @@
         "animated-icons",
         "useanimations",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "icons8-mcp",
+      "path": "sites/icons8-mcp.md",
+      "title": "Icons8 MCP",
+      "description": "Icons8's MCP server for AI agents: icon and illustration search with one style per project, PNG free (at review).",
+      "url": "https://icons8.de/mcp",
+      "type": "tool",
+      "formats": "MCP server",
+      "topics": [
+        "icons",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp"
+      ],
+      "pricing": "freemium",
+      "licence": "Free account searches everything and downloads PNG with a link back to Icons8; SVG and production use in a UI require a paid plan. Icons8 keeps the rights.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "animated-icons",
+        "3dicons",
+        "css-gg"
       ]
     },
     {
@@ -11881,7 +12145,7 @@
       "pricing": "freemium",
       "licence": "Free to browse; Pro costs $9 a month at review and removes ads and board limits. Its policy says screenshots belong to the site owners, forbids scraping, bulk downloading or redistributing the gallery or its data, and keeps curation and database rights. Each freebie has its own terms",
       "licence_class": "proprietary-paid",
-      "reviewed": "2026-09-25",
+      "reviewed": "2026-11-28",
       "status": "active",
       "related": [
         "land-book",
@@ -17043,6 +17307,30 @@
       ]
     },
     {
+      "slug": "python-graph-gallery",
+      "path": "sites/python-graph-gallery.md",
+      "title": "Python Graph Gallery",
+      "description": "Hundreds of hand-picked Python charts, each with an explanation and reproducible code.",
+      "url": "https://www.python-graph-gallery.com",
+      "type": "gallery",
+      "formats": "chart gallery · reproducible code",
+      "topics": [
+        "data-viz"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Not stated on the gallery pages (the footer links a licence page at review); treat the example code as look-only until the terms are checked.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "dataviz-project",
+        "vega-lite-examples",
+        "ant-design-charts"
+      ]
+    },
+    {
       "slug": "radix",
       "path": "sites/radix.md",
       "title": "Radix",
@@ -18561,6 +18849,33 @@
       ]
     },
     {
+      "slug": "sectionmaster",
+      "path": "sites/sectionmaster.md",
+      "title": "sectionmaster",
+      "description": "A curated gallery of real website footer sections, with an llms.txt for agents.",
+      "url": "https://sectionmaster.com/inspiration/footer",
+      "type": "gallery",
+      "formats": "footer gallery",
+      "topics": [
+        "footers",
+        "inspiration"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Not stated on the gallery; treat the footer screenshots as look-only.",
+      "licence_class": "not-stated",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "footer-design",
+        "hyperui",
+        "sections-wtf"
+      ]
+    },
+    {
       "slug": "sections-wtf",
       "path": "sites/sections-wtf.md",
       "title": "Sections.wtf",
@@ -19808,6 +20123,31 @@
       ]
     },
     {
+      "slug": "snd",
+      "path": "sites/snd.md",
+      "title": "SND",
+      "description": "A small library of handcrafted UI sounds with an npm package that plays them from code.",
+      "url": "https://snd.dev",
+      "type": "sound-library",
+      "formats": "sound library · npm package",
+      "topics": [
+        "sound",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Free for personal, business, commercial and non-commercial use under the site's Terms of Use; no attribution needed.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "uisfx",
+        "mixkit-sound-effects",
+        "freesound"
+      ]
+    },
+    {
       "slug": "sona-ui",
       "path": "sites/sona-ui.md",
       "title": "Sona UI",
@@ -19838,6 +20178,31 @@
         "base-ui",
         "paper-shaders",
         "shadcn-ui"
+      ]
+    },
+    {
+      "slug": "sonniss",
+      "path": "sites/sonniss.md",
+      "title": "Sonniss",
+      "description": "A marketplace of interface sound libraries: 185 packs of clicks, confirms and alerts, royalty-free commercial (at review).",
+      "url": "https://www.sonniss.com/category/sound-libraries/interfaces",
+      "type": "sound-library",
+      "formats": "sound library · WAV packs",
+      "topics": [
+        "sound",
+        "assets"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "paid",
+      "licence": "Royalty-free for commercial work under the library licence; Sonniss keeps all rights to the recordings. Packs range from about $3.60 to $400 at review.",
+      "licence_class": "proprietary-paid",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "uisfx",
+        "mixkit-sound-effects",
+        "freesound"
       ]
     },
     {
@@ -23175,6 +23540,30 @@
       ]
     },
     {
+      "slug": "vega-lite-examples",
+      "path": "sites/vega-lite-examples.md",
+      "title": "Vega-Lite Examples",
+      "description": "The official Vega-Lite example gallery: single-file specs for statistical graphics, one per chart form.",
+      "url": "https://vega.github.io/vega-lite/examples",
+      "type": "gallery",
+      "formats": "chart gallery · grammar examples",
+      "topics": [
+        "data-viz"
+      ],
+      "verdict": "useful",
+      "agent": [],
+      "pricing": "free",
+      "licence": "Vega-Lite is released under the BSD 3-Clause licence; the gallery pages and their example specs follow the project licence.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "python-graph-gallery",
+        "dataviz-project",
+        "ant-design-charts"
+      ]
+    },
+    {
       "slug": "velora-ui",
       "path": "sites/velora-ui.md",
       "title": "Velora UI",
@@ -23499,6 +23888,33 @@
         "curated-design",
         "site-of-sites",
         "godly"
+      ]
+    },
+    {
+      "slug": "visa-design-system",
+      "path": "sites/visa-design-system.md",
+      "title": "Visa Product Design System",
+      "description": "Visa's chart guidance and examples for business dashboards, with llms.txt and accessibility notes.",
+      "url": "https://design.visa.com/data-visualization/charts/overview/examples",
+      "type": "guidelines",
+      "formats": "guidelines · chart examples",
+      "topics": [
+        "data-viz",
+        "documentation"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "llms-txt"
+      ],
+      "pricing": "free",
+      "licence": "Free to read and follow. The guidance is Visa's own; copying its charts, brand or code is not granted by the site.",
+      "licence_class": "proprietary-free",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "cloudscape-data-visualization",
+        "cfpb-design-system",
+        "gov-scot-design-system"
       ]
     },
     {
@@ -23854,6 +24270,34 @@
         "404-gallery",
         "rebrand-gallery",
         "best-website-gallery"
+      ]
+    },
+    {
+      "slug": "webdesignhot-design-md",
+      "path": "sites/webdesignhot-design-md.md",
+      "title": "WebDesignHot Design MD",
+      "description": "A curated catalogue of 470 DESIGN.md files in the WebDesignHot v0.2 format, with CLI and MCP for agents.",
+      "url": "https://github.com/WebDesignHot/design-md",
+      "type": "style-library",
+      "formats": "DESIGN.md collection · CLI · MCP server",
+      "topics": [
+        "design-md",
+        "agents-and-prompts"
+      ],
+      "verdict": "useful",
+      "agent": [
+        "mcp",
+        "cli"
+      ],
+      "pricing": "free",
+      "licence": "The repository is released under the MIT licence. Each file keeps a lineage block crediting the original brand design, and the files themselves are reconstructions, not the brands' own documents.",
+      "licence_class": "open-source-permissive",
+      "reviewed": "2026-11-28",
+      "status": "active",
+      "related": [
+        "getdesign-md",
+        "design-md-format",
+        "hyperbrowser-design-md"
       ]
     },
     {

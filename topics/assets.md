@@ -150,6 +150,8 @@ Downloadable icons, illustrations, mockups, sounds and social or store-listing v
 - [shieldcn](../sites/shieldcn.md) — shadcn-styled README badges, charts and headers from 45+ providers, with a README builder and agent skill.
 - [Silkscreen](../sites/silkscreen.md) — Jason Kottke's 1999 pixel typeface for small web graphics, in four cuts plus an expanded variant, uppercase only, under the OFL.
 - [Simple Icons](../sites/simple-icons.md) — The standard CC0 set of 3,461 one-colour brand logos, with official hex colours and a colour CDN.
+- [SND](../sites/snd.md) — A small library of handcrafted UI sounds with an npm package that plays them from code.
+- [Sonniss](../sites/sonniss.md) — A marketplace of interface sound libraries: 185 packs of clicks, confirms and alerts, royalty-free commercial (at review).
 - [soundcn](../sites/soundcn.md) — 813 recorded UI and game sounds installed via shadcn CLI; 110 Blizzard clips are non-commercial only.
 - [Spherium](../sites/spherium.md) — A WebGL globe editor for styling world maps as dot fields and exporting the result as SVG.
 - [Stick It Up](../sites/stick-it-up.md) — Free UI sticker component library for React and Next.js with 65+ interactive vinyl-style stickers.
