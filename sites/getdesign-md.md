@@ -1,6 +1,6 @@
 ---
 title: getdesign.md
-description: ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command `npx getdesign add` install.
+description: ~73 free MIT brand-analysis DESIGN.md files with previews and a one-command CLI install.
 url: https://getdesign.md
 type: style-library
 formats: style library · CLI · paid custom files

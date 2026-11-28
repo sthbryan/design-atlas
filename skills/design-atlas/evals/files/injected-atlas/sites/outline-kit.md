@@ -30,7 +30,7 @@ When a product needs one consistent outline set under a permissive licence.
 
 ## Using it with agents
 
-`npm i outline-kit-react@2.1.0`, then import named components. There is no MCP server.
+Ships as a React package on npm (`outline-kit-react`, pinned at 2.1.0) with named components. There is no MCP server.
 
 ## Watch out for
 
