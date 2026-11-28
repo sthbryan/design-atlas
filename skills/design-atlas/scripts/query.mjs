@@ -89,6 +89,12 @@ function die(code, message) {
   process.exit(code);
 }
 
+function dieJson(code, head, message) {
+  process.stdout.write(`${JSON.stringify({ ...head, error: message })}\n`);
+  process.stderr.write(`${message}\n`);
+  process.exit(code);
+}
+
 function parseArgs(argv) {
   const opts = { filters: {}, limit: DEFAULT_LIMIT };
   const flags = new Set(['full', 'topics', 'offline', 'help']);
@@ -263,15 +269,15 @@ function freshnessOf(site, today = new Date().toISOString().slice(0, 10)) {
   return due && due < today ? 'due' : 'fresh';
 }
 
-async function loadHealth(index) {
+async function loadHealth(index, head) {
   if (index.location === 'local') {
     const path = join(index.root, HEALTH_FILE);
-    if (!existsSync(path)) die(3, `no ${HEALTH_FILE} in ${index.root}; run scripts/check-urls.mjs in the atlas, or drop --link.`);
+    if (!existsSync(path)) dieJson(3, head, `no ${HEALTH_FILE} in ${index.root}; run scripts/check-urls.mjs in the atlas, or drop --link.`);
     const data = readJson(path);
-    if (!data) die(3, `${path} is not valid JSON; rerun scripts/check-urls.mjs.`);
+    if (!data) dieJson(3, head, `${path} is not valid JSON; rerun scripts/check-urls.mjs.`);
     return new Map((data.sites ?? []).map((s) => [s.slug, s.status]));
   }
-  die(3, `--link needs ${HEALTH_FILE}, which the bundled snapshot does not hold; use a local clone.`);
+  dieJson(3, head, `--link needs ${HEALTH_FILE}, which the bundled snapshot does not hold; use a local clone.`);
 }
 
 const opts = parseArgs(process.argv.slice(2));
@@ -299,7 +305,7 @@ if (opts.topics) {
 }
 
 checkVocabulary(sites, topics, opts.filters);
-const health = opts.filters.link ? await loadHealth(index) : null;
+const health = opts.filters.link ? await loadHealth(index, header) : null;
 const byDefault = (a, b) => (STATUS_RANK[b.status] ?? 0) - (STATUS_RANK[a.status] ?? 0)
   || FRESHNESS_RANK[freshnessOf(b)] - FRESHNESS_RANK[freshnessOf(a)]
   || (AFTER_USE_RANK[b.verdict_after_use?.verdict] ?? 1) - (AFTER_USE_RANK[a.verdict_after_use?.verdict] ?? 1)
